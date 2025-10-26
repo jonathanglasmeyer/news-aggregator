@@ -1,0 +1,34 @@
+name: Test RSS Feed Access
+
+on:
+  workflow_dispatch:  # Manual trigger for testing
+  push:
+    branches: [ main, master ]
+
+jobs:
+  test-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Test feed accessibility from GitHub Actions
+      run: |
+        echo "Testing from GitHub Actions (Azure datacenter IP)"
+        python test_feeds.py
+
+    - name: Show runner IP
+      run: |
+        echo "Runner public IP:"
+        curl -s https://api.ipify.org
+        echo ""
