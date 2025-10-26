@@ -12,10 +12,17 @@ Weekly automated news digest system that fetches German news feeds, filters cont
 ## Tech Stack
 
 ### Core Components
-- **Inoreader Pro API**: Feed aggregation and Cloudflare bypass (6,67€/month)
-- **Claude Sonnet 4.5 via AWS Bedrock**: Content filtering and summarization
-- **Discord Webhook**: Delivery mechanism
+- **RSS Feeds**: Direct feed access (no Inoreader needed - tested successfully)
+- **Claude Agent SDK (Python)**: Content filtering and summarization via Anthropic API
+- **Discord Webhook**: Delivery mechanism (post-MVP)
 - **Python 3.11+**: Implementation language
+- **GitHub Actions**: Weekly cron execution
+
+### Claude Integration
+Using Anthropic API directly with Claude Pro/Max plan:
+- Install: `uv pip install anthropic`
+- Auth: Set `ANTHROPIC_API_KEY` environment variable
+- No Bedrock, no AWS - direct Anthropic API
 
 ### Infrastructure Options
 1. **Oracle Cloud Free Tier** (preferred): Static IP, 4 ARM cores, 24GB RAM, 10TB bandwidth

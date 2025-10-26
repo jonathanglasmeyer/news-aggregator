@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  news-embedding-filter:
+    container_name: news-embedding-filter
+    build:
+      context: .
+      dockerfile: Dockerfile.embedding
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3007:3007"  # Internal only, no public access
+    networks:
+      - quietloop-network
+    environment:
+      - PYTHONUNBUFFERED=1
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:3007/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  quietloop-network:
+    external: true

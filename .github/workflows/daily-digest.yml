@@ -1,0 +1,148 @@
+name: Daily News Digest
+
+on:
+  schedule:
+    # Run daily at 8:00 AM UTC (9:00 AM CET)
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          uv pip install --system feedparser requests python-dotenv anthropic
+
+      - name: Setup SSH for Hetzner
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.HETZNER_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H ${{ secrets.HETZNER_HOST }} >> ~/.ssh/known_hosts
+
+          # Setup SSH config
+          cat > ~/.ssh/config <<EOF
+          Host hetzner
+            HostName ${{ secrets.HETZNER_HOST }}
+            User ${{ secrets.HETZNER_USER }}
+            IdentityFile ~/.ssh/id_ed25519
+            StrictHostKeyChecking no
+          EOF
+
+      - name: Stage 1 - Fetch RSS Feeds
+        run: |
+          python daily_fetch.py
+          echo "✅ Stage 1 complete"
+
+      - name: Stage 2 - Aggregate Articles
+        run: |
+          python stage2_aggregate.py
+          echo "✅ Stage 2 complete"
+
+      - name: Stage 2.5 - Deduplicate (last 7 days)
+        run: |
+          python stage2_5_deduplicate.py
+          echo "✅ Stage 2.5 complete"
+
+      - name: Stage 3 - Embedding Filter (via Hetzner service)
+        run: |
+          python stage3_embed_filter_remote.py
+          echo "✅ Stage 3 complete"
+
+      - name: Stage 4 - Claude Filter
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          # Get latest embedded file
+          LATEST_EMBEDDED=$(ls -t data/embedded/*.json | head -n1)
+          python stage4_filter.py "$LATEST_EMBEDDED" 4
+          echo "✅ Stage 4 complete"
+
+      - name: Stage 5 - Post to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          # Get latest digest
+          LATEST_DIGEST=$(ls -t data/filtered/digest_*.md | head -n1)
+          python stage5_discord_webhook.py "$LATEST_DIGEST"
+          echo "✅ Stage 5 complete"
+
+      - name: Commit results to repository
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add all data files
+          git add data/
+
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Create commit with date
+            COMMIT_DATE=$(date +%Y-%m-%d)
+            git commit -m "Daily digest: $COMMIT_DATE
+
+          🤖 Generated with GitHub Actions
+
+          Pipeline stages:
+          - ✅ RSS Fetch
+          - ✅ Aggregate
+          - ✅ Deduplicate
+          - ✅ Embedding Filter
+          - ✅ Claude Filter
+          - ✅ Discord Post"
+
+            git push
+            echo "✅ Results committed to repository"
+          fi
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_number }}
+          path: |
+            data/filtered/digest_*.md
+            data/embedded/*.json
+          retention-days: 30
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Daily Digest Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Count articles at each stage
+          AGG_COUNT=$(jq '.articles | length' data/aggregated/*.json 2>/dev/null | tail -n1 || echo "0")
+          DEDUP_COUNT=$(jq '.articles | length' data/deduplicated/*.json 2>/dev/null | tail -n1 || echo "0")
+          EMBED_COUNT=$(jq '.articles | length' data/embedded/*.json 2>/dev/null | tail -n1 || echo "0")
+
+          echo "### Pipeline Stats" >> $GITHUB_STEP_SUMMARY
+          echo "- Stage 2 (Aggregated): $AGG_COUNT articles" >> $GITHUB_STEP_SUMMARY
+          echo "- Stage 2.5 (Deduplicated): $DEDUP_COUNT articles" >> $GITHUB_STEP_SUMMARY
+          echo "- Stage 3 (Filtered): $EMBED_COUNT articles" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Digest posted to Discord!" >> $GITHUB_STEP_SUMMARY

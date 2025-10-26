@@ -30,3 +30,6 @@ logs/
 secrets/
 *.key
 *.pem
+
+# Data outputs (temporary pipeline results)
+data/
