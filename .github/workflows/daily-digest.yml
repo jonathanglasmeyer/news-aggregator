@@ -7,6 +7,9 @@ on:
     - cron: '0 7 * * *'
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write  # Allow pushing commits back to repo
+
 env:
   PYTHON_VERSION: '3.11'
 
