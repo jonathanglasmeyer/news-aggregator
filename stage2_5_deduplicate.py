@@ -65,8 +65,8 @@ def extract_urls_from_history(files: list[Path]) -> set[str]:
         try:
             articles = load_aggregated_file(file_path)
             for article in articles:
-                if 'url' in article and article['url']:
-                    urls.add(article['url'])
+                if 'link' in article and article['link']:
+                    urls.add(article['link'])
         except Exception as e:
             print(f"⚠️  Fehler beim Lesen von {file_path.name}: {e}")
             continue
@@ -83,7 +83,7 @@ def deduplicate_articles(articles: list[dict], historical_urls: set[str]) -> tup
     duplicate_articles = []
 
     for article in articles:
-        url = article.get('url')
+        url = article.get('link')  # Changed from 'url' to 'link'
 
         if not url:
             # Keep articles without URL (shouldn't happen, but safe fallback)
