@@ -73,6 +73,8 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
+          # Clean old digests from checkout
+          rm -f data/filtered/digest_*.md
           # Get latest embedded file
           LATEST_EMBEDDED=$(ls -t data/embedded/*.json | head -n1)
           python stage4_filter.py "$LATEST_EMBEDDED" 4
@@ -82,8 +84,8 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # Get latest digest
-          LATEST_DIGEST=$(ls -t data/filtered/digest_*.md | head -n1)
+          # Get the digest we just created (only one should exist)
+          LATEST_DIGEST=$(ls data/filtered/digest_*.md | head -n1)
           python stage5_discord_webhook.py "$LATEST_DIGEST"
           echo "✅ Stage 5 complete"
 
