@@ -59,22 +59,22 @@ jobs:
 
       - name: Stage 1 - Fetch RSS Feeds
         run: |
-          python daily_fetch.py
+          python src/pipeline/stage1_fetch.py
           echo "✅ Stage 1 complete"
 
       - name: Stage 2 - Aggregate Articles
         run: |
-          python stage2_aggregate.py
+          python src/pipeline/stage2_aggregate.py
           echo "✅ Stage 2 complete"
 
       - name: Stage 2.5 - Deduplicate (last 7 days)
         run: |
-          python stage2_5_deduplicate.py
+          python src/pipeline/stage2_5_deduplicate.py
           echo "✅ Stage 2.5 complete"
 
       - name: Stage 3 - Embedding Filter (via Hetzner service)
         run: |
-          python stage3_embed_filter_remote.py
+          python src/pipeline/stage3_embed_filter_remote.py
           echo "✅ Stage 3 complete"
 
       - name: Stage 4 - Claude Filter
@@ -85,7 +85,7 @@ jobs:
           rm -f data/filtered/digest_*.md
           # Get latest embedded file
           LATEST_EMBEDDED=$(ls -t data/embedded/*.json | head -n1)
-          python stage4_filter.py "$LATEST_EMBEDDED" 4
+          python src/pipeline/stage4_filter.py "$LATEST_EMBEDDED" 4
           echo "✅ Stage 4 complete"
 
       - name: Stage 5 - Post to Discord
@@ -94,7 +94,7 @@ jobs:
         run: |
           # Get the digest we just created (only one should exist)
           LATEST_DIGEST=$(ls data/filtered/digest_*.md | head -n1)
-          python stage5_discord_webhook.py "$LATEST_DIGEST"
+          python src/pipeline/stage5_discord_webhook.py "$LATEST_DIGEST"
           echo "✅ Stage 5 complete"
 
       - name: Commit results to repository

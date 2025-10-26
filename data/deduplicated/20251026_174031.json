@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-26T17:40:31.334472",
+    "deduplicated_at": "2025-10-26 17:40:31",
+    "lookback_days": 7,
+    "total_input": 358,
+    "duplicates_removed": 358,
+    "new_articles": 0,
+    "deduplication_rate": "100.0%",
+    "historical_files_checked": 3
+  },
+  "articles": []
+}

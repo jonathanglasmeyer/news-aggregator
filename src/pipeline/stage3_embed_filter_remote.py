@@ -16,7 +16,9 @@ import subprocess
 from pathlib import Path
 from datetime import datetime
 
-DATA_DIR = Path(__file__).parent / 'data'
+# Find project root (2 levels up from src/pipeline/)
+PROJECT_ROOT = Path(__file__).parent.parent.parent
+DATA_DIR = PROJECT_ROOT / 'data'
 EMBEDDED_DIR = DATA_DIR / 'embedded'
 EMBEDDED_DIR.mkdir(parents=True, exist_ok=True)
 

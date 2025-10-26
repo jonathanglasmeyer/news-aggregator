@@ -25,11 +25,11 @@ rsync -avz --delete \
     --exclude='data/' \
     --exclude='.python-version' \
     --exclude='uv.lock' \
-    embedding_service.py \
-    filter_logic.py \
+    ../src/services/embedding_service.py \
+    ../src/services/filter_logic.py \
     Dockerfile.embedding \
     docker-compose.embedding.yml \
-    requirements.txt \
+    ../requirements.txt \
     $REMOTE_HOST:$REMOTE_PATH/
 
 echo "✅ Files synced"

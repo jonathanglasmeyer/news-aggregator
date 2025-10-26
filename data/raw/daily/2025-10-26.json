@@ -1,12 +1,39 @@
 {
   "date": "2025-10-26",
-  "timestamp": "2025-10-26T15:29:29.815194",
-  "total_articles": 312,
+  "timestamp": "2025-10-26T17:39:05.007498",
+  "total_articles": 314,
   "articles": [
+    {
+      "title": "Dobrindt will Schüler auf Katastrophen- und Kriegsfall vorbereiten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-schueler-unterricht-katastrophenschutz-100.html",
+      "published": "2025-10-26T16:32:56",
+      "content": "   Bundesinnenminister Dobrindt fordert, dass Krisenvorsorge und mögliche Kriegsgefahren in Schulen thematisiert werden. Die Reaktionen aus der Opposition sind gemischt: Während ihm einige Panikmache vorwerfen, gibt es von anderen Zuspruch. [mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vogelgrippe breitet sich rasant aus - 400.000 Tiere gekeult",
+      "link": "https://www.tagesschau.de/wirtschaft/vogelgrippe-tierhalter-100.html",
+      "published": "2025-10-26T16:01:17",
+      "content": "   Der Schaden für betroffene Geflügelhalter geht bereits in die Millionen: Die Vogelgrippe breitet sich in Deutschland rasant aus. Bislang haben mehr als 30 Betriebe ihre Tiere töten müssen - und weitere dürften folgen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vorläufige Einigung im Zollstreit zwischen USA und China",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-china-annaeherung-zollstreit-100.html",
+      "published": "2025-10-26T15:48:25",
+      "content": "   Können US-Präsident Trump und sein chinesischer Amtskollege Xi den Zollstreit beilegen? Kurz vor einem geplanten Treffen der beiden Staatschefs sind beide Seiten zumindest zu einer vorläufigen Einigung gelangt.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
     {
       "title": "Ukraine-Liveblog: ++ Kiew: Russische Soldaten in Pokrowsk eingedrungen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-604.html",
-      "published": "2025-10-26T15:27:23",
+      "published": "2025-10-26T16:35:04",
       "content": "   Russischen Soldaten ist es nach Angaben aus Kiew gelungen, in die umkämpfte Stadt Pokrowsk einzudringen. Bei einem Drohnenangriff auf die Hauptstadt Kiew sind mindestens drei Menschen getötet und 29 verletzt worden.[mehr]",
       "content_length": 224,
       "source": "Tagesschau",
@@ -333,33 +360,6 @@
       "published": "2025-10-25T03:21:39",
       "content": "   Abgelehnte Asylbewerberinnen und -bewerber sollen schneller zurückgeführt werden. Das ist ein Ziel der schwarz-roten Koalition. Und die Zahlen für die ersten drei Quartale des laufenden Jahres zeigen: Deutschland schiebt mehr Menschen ab.[mehr]",
       "content_length": 247,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Präsident der Elfenbeinküste tritt für vierte Amtszeit an",
-      "link": "https://www.tagesschau.de/ausland/wahlen-elfenbeinkueste-100.html",
-      "published": "2025-10-25T00:03:55",
-      "content": "   Er will es wieder wissen: Der alte Präsident Ouattara will erneut Präsident werden - mit 83 Jahren. Vor allem junge Leute in der Elfenbeinküste fühlen sich nicht vertreten und fordern einen politischen Neustart. Von K. Bensch.[mehr]",
-      "content_length": 235,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Verlorene Posten: Machtkämpfe in Chinas Führung?",
-      "link": "https://www.tagesschau.de/ausland/asien/china-umbesetzungen-partei-armee-100.html",
-      "published": "2025-10-25T00:02:59",
-      "content": "   Amtsinhaber verschwinden plötzlich, Positionen werden leise neu besetzt: Chinas kommunistische Führungsriege kann sich unter Staatschef Xi nicht sicher fühlen. Steckt tatsächlich nur Korruptionsbekämpfung dahinter? Von Jörg Endriss.[mehr]",
-      "content_length": 241,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "USA setzen Kolumbiens Präsidenten Petro auf Sanktionsliste",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kolumbien-praesident-sanktionen-100.html",
-      "published": "2025-10-24T23:44:47",
-      "content": "   Das Verhältnis von US-Präsident Trump und Kolumbiens Staatschef Petro ist angespannt. Nun werfen die USA dem Regierungschef vor, zu wenig gegen Drogenkartelle zu tun - und setzen ihn auf die Sanktionsliste.[mehr]",
-      "content_length": 215,
       "source": "Tagesschau",
       "category": "German News"
     },
@@ -706,6 +706,15 @@
       "category": "German News"
     },
     {
+      "title": "Vorläufige Einigung im Zollstreit zwischen USA und China",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-china-annaeherung-zollstreit-100.html",
+      "published": "2025-10-26T15:48:25",
+      "content": "   Können US-Präsident Trump und sein chinesischer Amtskollege Xi den Zollstreit beilegen? Kurz vor einem geplanten Treffen der beiden Staatschefs sind beide Seiten zumindest zu einer vorläufigen Einigung gelangt.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
       "title": "Thailand und Kambodscha besiegeln nach Grenzstreit Waffenstillstand",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-116.html",
       "published": "2025-10-26T07:56:51",
@@ -774,15 +783,6 @@
       "published": "2025-10-21T08:21:02",
       "content": "   In Japan regiert erstmals eine Frau: Sanae Takaichi gilt als nationalistische Hardlinerin und übernimmt das Land nach einer innenpolitischen Krise. Ihr Augenmerk will sie auf die Wirtschaft richten.[mehr]",
       "content_length": 207,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
-      "title": "Afghanistan und Pakistan vereinbaren \"sofortige\" Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/waffenstillstand-afghanistan-pakistan-102.html",
-      "published": "2025-10-19T01:19:17",
-      "content": "   Eine in Katar vermittelte Waffenruhe soll die jüngste Eskalation der Gewalt zwischen Afghanistan und Pakistan beenden. Zuvor waren die Kämpfe nach einer befristeten Feuerpause wieder aufgeflammt.[mehr]",
-      "content_length": 204,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -940,9 +940,18 @@
       "category": "German News"
     },
     {
+      "title": "Bundesamt für Seeschifffahrt und Hydrographie - Sturmflutwarnung für Nordsee-Küste und Hamburger Elbegebiet",
+      "link": "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-nordsee-kueste-und-hamburger-elbegebiet-100.html",
+      "published": "2025-10-26T16:19:12",
+      "content": "Für die deutsche Nordsee-Küste und das Hamburger Elbegebiet gilt derzeit eine Sturmflutwarnung.",
+      "content_length": 95,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
       "title": "Frankreich - Juwelendiebstahl im Louvre: Zwei Verdächtige festgenommen",
       "link": "https://www.deutschlandfunk.de/juwelendiebstahl-im-louvre-zwei-verdaechtige-festgenommen-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die französische Polizei hat im Zusammenhang mit dem Kronjuwelen-Diebstahl im Pariser Louvre zwei Verdächtige festgenommen. Die Staatsanwaltschaft in Paris bestätigte entsprechende Medienberichte. Die beiden Männer befinden sich nun in Polizeigewahrsam.",
       "content_length": 253,
       "source": "Deutschlandfunk",
@@ -951,7 +960,7 @@
     {
       "title": "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung",
       "link": "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Im Kosovo ist die Bildung einer Regierung gescheitert.",
       "content_length": 54,
       "source": "Deutschlandfunk",
@@ -960,7 +969,7 @@
     {
       "title": "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
       "link": "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die USA und Brasilien wollen ihren Handelsstreit in baldigen Verhandlungen lösen. Dies vereinbarten die Präsidenten Trump und Lula bei einem Treffen am Rande des Gipfels der ASEAN-Wirtschaftsgemeinschaft im malaysischen Kuala Lumpur. Beide sprachen anschließend von einer positiven Unterredung.",
       "content_length": 294,
       "source": "Deutschlandfunk",
@@ -969,7 +978,7 @@
     {
       "title": "\"Unbegrenzte Reichweite\" - Russland gibt abschließenden Test eines nuklear angetriebenen Marschflugkörpers bekannt",
       "link": "https://www.deutschlandfunk.de/russland-gibt-abschliessenden-test-eines-nuklear-angetriebenen-marschflugkoerpers-bekannt-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die russische Armee soll laut Präsident Putin möglichst bald neue mit Atomenergie angetriebene Marschflugkörper bekommen. Bei einem Treffen mit Militärvertretern sagte Putin, entsprechende Tests seien abgeschlossen. Man werde jetzt mit den Vorbereitungen beginnen, die Marschflugkörper bei den russischen Streitkräften zu stationieren.",
       "content_length": 335,
       "source": "Deutschlandfunk",
@@ -978,7 +987,7 @@
     {
       "title": "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
       "link": "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Im Osten der Ukraine sind russische Einheiten in die seit langem umkämpfte Stadt Pokrowsk eingedrungen.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -987,25 +996,25 @@
     {
       "title": "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt",
       "link": "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In Litauen ist der Flugbetrieb am Flughafen der Haupstadt Vilnius nach der Sichtung von weiteren Ballons erneut vorübergehend eingestellt worden. Das teilte der Betreiber mit. Es war bereits das dritte Mal innerhalb einer Woche, dass Starts und Landungen ausgesetzt werden mussten.",
       "content_length": 281,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Region Dafur - Sudanesische RSF-Miliz nimmt Hauptquartier der Armee in Al-Faschir ein",
-      "link": "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-nimmt-hauptquartier-der-armee-in-al-faschir-ein-100.html",
-      "published": "2025-10-26T15:22:15",
-      "content": "Im Sudan hat die RSF-Miliz nach eigenen Angaben das Hauptquartier der sudanesischen Armee in der Stadt Al-Faschir eingenommen.",
-      "content_length": 126,
+      "title": "Region Dafur - Sudanesische RSF-Miliz meldet Einnahme der Stadt Al-Faschir",
+      "link": "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-meldet-einnahme-der-stadt-al-faschir-100.html",
+      "published": "2025-10-26T16:19:12",
+      "content": "In der umkämpften sudanesischen Region Darfur hat die RSF-Miliz nach eigenen Angaben die Stadt Al-Faschir eingenommen.",
+      "content_length": 118,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "SPD-Generalsekretär - Klüssendorf fordert mehr Schutz für heimische Industrie: \"Buy European\"",
       "link": "https://www.deutschlandfunk.de/kluessendorf-fordert-mehr-schutz-fuer-heimische-industrie-buy-european-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "SPD-Generalsekretär Klüssendorf hat eine stärkere deutsche und europäische Gegenwehr gegen den Protektionismus anderer Staaten gefordert.",
       "content_length": 137,
       "source": "Deutschlandfunk",
@@ -1014,7 +1023,7 @@
     {
       "title": "Deutsche Wirtschaft - Ifo-Präsident Fuest warnt: \"Wohlstand in Deutschland akut bedroht\"",
       "link": "https://www.deutschlandfunk.de/ifo-praesident-fuest-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Ifo-Präsident Fuest warnt vor einem weiteren Verfall der deutschen Wirtschaft und dem damit einhergehenden Wohlstandsverlust. Er fordert von der Bundesregierung ein Reformkonzept, das über den Koalitionsvertrag hinausgeht.",
       "content_length": 222,
       "source": "Deutschlandfunk",
@@ -1023,7 +1032,7 @@
     {
       "title": "Geflügelpest - Bundesweit bereits etwa 400.000 Tiere wegen Vogelgrippe getötet",
       "link": "https://www.deutschlandfunk.de/bundesweit-bereits-etwa-400-000-tiere-wegen-vogelgrippe-getoetet-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Zur Eindämmung der Vogelgrippe in Deutschland sind schätzungsweise bereits 400.000 Hühner, Enten, Gänse und Puten getötet worden.",
       "content_length": 129,
       "source": "Deutschlandfunk",
@@ -1032,7 +1041,7 @@
     {
       "title": "Türkei - Kurdische PKK kündigt Abzug aller Kämpfer in den Nordirak an",
       "link": "https://www.deutschlandfunk.de/kurdische-pkk-kuendigt-abzug-aller-kaempfer-in-den-nordirak-an-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die kurdische PKK hat damit begonnen, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen.",
       "content_length": 94,
       "source": "Deutschlandfunk",
@@ -1041,7 +1050,7 @@
     {
       "title": "Polens Regierungschef - Tusk warnt vor \"ewigem Krieg\" in der Ukraine",
       "link": "https://www.deutschlandfunk.de/tusk-warnt-vor-ewigem-krieg-in-der-ukraine-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Der polnische Ministerpräsident Tusk befürchtet, dass der Krieg in der Ukraine noch sehr lange dauern könnte.",
       "content_length": 109,
       "source": "Deutschlandfunk",
@@ -1050,7 +1059,7 @@
     {
       "title": "Bayern - Olympia-Bürgerentscheid in München - 1,1 Millionen Menschen zur Stimmabgabe aufgerufen",
       "link": "https://www.deutschlandfunk.de/olympia-buergerentscheid-in-muenchen-1-1-millionen-menschen-zur-stimmabgabe-aufgerufen-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In München stimmen die Bürgerinnen und Bürger seit dem Morgen darüber ab, ob sich die Stadt um die Ausrichtung der Olympischen und Paralympischen Sommerspiele bewerben soll. Rund 1,1 Millionen Menschen sind zur Stimmabgabe aufgerufen. Das Ergebnis gilt als wichtiger Stimmungstest für die Olympia-Pläne des Deutschen Olympischen Sportbunds.",
       "content_length": 340,
       "source": "Deutschlandfunk",
@@ -1059,7 +1068,7 @@
     {
       "title": "Katastrophenschutz - Dobrindt will Krisenvorsorge als Doppelstunde an Schulen",
       "link": "https://www.deutschlandfunk.de/dobrindt-will-krisenvorsorge-als-doppelstunde-an-schulen-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Bundesinnenminister Dobrindt hat sich dafür ausgesprochen, junge Menschen in Schulen auf Krisenfälle vorzubereiten.",
       "content_length": 115,
       "source": "Deutschlandfunk",
@@ -1068,7 +1077,7 @@
     {
       "title": "Großbritannien - Polizei fasst versehentlich entlassenen Sexualstraftäter",
       "link": "https://www.deutschlandfunk.de/polizei-fasst-versehentlich-entlassenen-sexualstraftaeter-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die britische Polizei hat einen versehentlich aus der Haft entlassenen Sexualstraftäter wieder gefasst.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -1077,7 +1086,7 @@
     {
       "title": "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
       "link": "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Drei Monate nach den schweren Kämpfen im Grenzgebiet zwischen Thailand und Kambodscha haben beide Länder ein Friedensabkommen unterzeichnet. Bei der Zeremonie in der malaysischen Hauptstadt Kuala Lumpur war auch US-Präsident Trump anwesend.",
       "content_length": 240,
       "source": "Deutschlandfunk",
@@ -1086,7 +1095,7 @@
     {
       "title": "Eurovision Song Contest in Wien - Österreichs Kanzler Stocker befürwortet Israels Teilnahme",
       "link": "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-befuerwortet-israels-teilnahme-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Der österreichische Bundeskanzler Stocker hat sich für die Teilnahme Israels am Eurovision Song Contest 2026 in Wien ausgesprochen. Mit der Waffenruhe im Gazastreifen habe sich die Situation verändert, erklärte Stocker.",
       "content_length": 219,
       "source": "Deutschlandfunk",
@@ -1095,7 +1104,7 @@
     {
       "title": "Gazastreifen - Israelische Armee meldet Angriff auf Dschihadisten",
       "link": "https://www.deutschlandfunk.de/israelische-armee-meldet-angriff-auf-dschihadisten-108.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die israelische Armee hat nach eigenen Angaben im Gazastreifen einen Angriff auf einen Dschihadisten der Terrororganisation Islamischer Dschihad ausgeführt.",
       "content_length": 156,
       "source": "Deutschlandfunk",
@@ -1104,7 +1113,7 @@
     {
       "title": "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
       "link": "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In Deutschland gilt wieder die Normalzeit. In der vergangenen Nacht um 03.00 Uhr wurden die Uhren um eine Stunde von der bisherigen Sommerzeit auf die mitteleuropäische Zeit zurückgestellt. Sie wird umgangssprachlich auch \"Winterzeit\" genannt.",
       "content_length": 243,
       "source": "Deutschlandfunk",
@@ -1113,7 +1122,7 @@
     {
       "title": "Fischerei in der Ostsee - Wissenschaftler fordert Fangstopp von Dorsch und Hering",
       "link": "https://www.deutschlandfunk.de/wissenschaftler-fordert-fangstopp-von-dorsch-und-hering-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Am Montag beraten die Fischereiminister der EU über die künftigen Fangmengen in der Ostsee. Im Mittelpunkt stehen dabei die Bestände von Dorsch und Hering. Diese sind durch Überfischung und Umwelteinflüsse stark zurückgegangen. Ein deutscher Wissenschaftler fordert deshalb einen Fangstopp.",
       "content_length": 290,
       "source": "Deutschlandfunk",
@@ -1122,7 +1131,7 @@
     {
       "title": "Chemnitz - Deutscher Umweltpreis für innovatives Verzinkungsverfahren und Forschungen zum Klimasystem",
       "link": "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-innovatives-verzinkungsverfahren-und-forschungen-zum-klimasystem-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In der Kulturhauptstadt Chemnitz wird heute der Deutsche Umweltpreis verliehen. Die vom Bundespräsidenten überreichte Auszeichnung gehört zu den höchstdotierten Umweltpreisen. Geehrt werden eine Schweizer Klimaforscherin und ein Unternehmen aus Nordrhein-Westfalen für sein ressourcenschonendes Verzinkungsverfahren.",
       "content_length": 316,
       "source": "Deutschlandfunk",
@@ -1131,7 +1140,7 @@
     {
       "title": "Republik Irland - Linksgerichtete Kandidatin Connolly gewinnt Präsidentenwahl",
       "link": "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-gewinnt-praesidentenwahl-106.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In Irland hat die linksgerichtete, unabhängige Abgeordnete Connolly die Präsidentschaftswahl gewonnen. Nach offiziellen Angaben erhielt sie 63 Prozent der Stimmen und gewann damit gegen die frühere Ministerin Humphreys von der Mitte-Rechts-Partei Fine Gael.",
       "content_length": 257,
       "source": "Deutschlandfunk",
@@ -1140,7 +1149,7 @@
     {
       "title": "BBC-Interview - Kamala Harris hält sich erneute Präsidentschaftskandidatur offen",
       "link": "https://www.deutschlandfunk.de/kamala-harris-haelt-sich-erneute-praesidentschaftskandidatur-offen-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die demokratische US-Politikerin Harris hält sich eine erneute Kandidatur für das Präsidentenamt offen.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -1149,7 +1158,7 @@
     {
       "title": "Timor-Leste - Osttimor tritt Staatenbündnis ASEAN als elftes Mitglied bei",
       "link": "https://www.deutschlandfunk.de/osttimor-tritt-staatenbuendnis-asean-als-elftes-mitglied-bei-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Osttimor ist der Vereinigung südostasiatischer Staaten beigetreten.",
       "content_length": 67,
       "source": "Deutschlandfunk",
@@ -1158,7 +1167,7 @@
     {
       "title": "Japan - Neue Regierungschefin Takaichi: \"Stärkung der Beziehungen zu USA höchste Priorität\"",
       "link": "https://www.deutschlandfunk.de/neue-regierungschefin-takaichi-staerkung-der-beziehungen-zu-usa-hoechste-prioritaet-106.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Japans neue Premierministerin Takaichi hat die Stärkung der Beziehungen zwischen ihrem Land und den USA zu einem ihrer vorrangigen Ziele erklärt.",
       "content_length": 145,
       "source": "Deutschlandfunk",
@@ -1167,7 +1176,7 @@
     {
       "title": "Wirbelsturm - Wirbelsturm \"Melissa\" weitet sich zu Hurrikan vor Jamaika aus",
       "link": "https://www.deutschlandfunk.de/wirbelsturm-melissa-weitet-sich-zu-hurrikan-vor-jamaika-aus-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "In der Karibik hat sich der Wirbelsturm \"Melissa\" zu einem Hurrikan der Kategorie eins ausgeweitet.",
       "content_length": 99,
       "source": "Deutschlandfunk",
@@ -1176,16 +1185,25 @@
     {
       "title": "US-Schauspielerin - \"Lassie\"-Star June Lockhart im Alter von 100 Jahren gestorben",
       "link": "https://www.deutschlandfunk.de/lassie-star-june-lockhart-im-alter-von-100-jahren-gestorben-100.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Die US-Schauspielerin June Lockhart ist tot.",
       "content_length": 44,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
+      "title": "Tennis - Zverev unterliegt Sinner im ATP-Finale in Wien",
+      "link": "https://www.deutschlandfunk.de/zverev-unterliegt-sinner-im-atp-finale-in-wien-102.html",
+      "published": "2025-10-26T16:19:12",
+      "content": "Tennisprofi Alexander Zverev hat das Finale von Wien gegen den Weltranglisten-Zweiten Jannik Sinner verloren und damit seinen zweiten ATP-Titel in dieser Saison verpasst.",
+      "content_length": 170,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
       "title": "Ski-Weltcup - Anton Grammel bester Deutscher auf Platz 11 im Riesenslalom - Schweizer Odermatt gewinnt",
       "link": "https://www.deutschlandfunk.de/anton-grammel-bester-deutscher-auf-platz-11-im-riesenslalom-schweizer-odermatt-gewinnt-102.html",
-      "published": "2025-10-26T15:22:15",
+      "published": "2025-10-26T16:19:12",
       "content": "Den deutschen Skirennläufern ist ein vielversprechender Start in den Olympia-Winter gelungen. Beim Weltcup-Riesenslalom in Sölden schafften es vier DSV-Starter ins Finale, bester war am Ende Anton Grammel.",
       "content_length": 205,
       "source": "Deutschlandfunk",
@@ -1194,9 +1212,9 @@
     {
       "title": "Wetter - Im Norden Regen, im Süden nur einzelne Schauer",
       "link": "https://www.deutschlandfunk.de/im-norden-regen-im-sueden-nur-einzelne-schauer-120.html",
-      "published": "2025-10-26T15:22:15",
-      "content": "Das Wetter: Das Bundesamt für Seeschiffahrt und Hydrographie warnt vor einer Sturmflut im Laufe des Abends für das Hamburger Elbgebiet. In der Nacht kaum Auflockerungen und von Westen aufziehender, teils kräftiger Regen. Oberhalb von 1.000 Metern Schneeregen oder Schnee. Dort Tiefsttemperaturen um 0 Grad, sonst 7 bis 1 Grad. Morgen verbreitet Niederschläge, teils auch Wolkenauflockerungen. Höchstwerte 7 bis 13 Grad.",
-      "content_length": 419,
+      "published": "2025-10-26T16:19:12",
+      "content": "Das Wetter: Das Bundesamt für Seeschiffahrt und Hydrographie warnt vor einer Sturmflut im Laufe des Abends für die gesamte Nordseeeküste und das Elbgebiet. In der Nacht kaum Auflockerungen und von Westen aufziehender, teils kräftiger Regen. Oberhalb von 1.000 Metern Schneeregen oder Schnee. Dort Tiefsttemperaturen um 0 Grad, sonst 7 bis 1 Grad. Morgen verbreitet Niederschläge, teils auch Wolkenauflockerungen. Höchstwerte 7 bis 13 Grad.",
+      "content_length": 439,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
@@ -1381,20 +1399,20 @@
       "category": "International News"
     },
     {
+      "title": "French police arrest two men over €88m Louvre jewel heist",
+      "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
+      "published": "2025-10-26T15:32:10",
+      "content": "One man arrested at Charles de Gaulle airport and another just outside Paris, officials confirm French police have arrested two suspects believed to have helped steal crown jewels worth an estimated €88m (£76m) from the Louvre museum in Paris, officials have said, a week after one of the country’s most spectacular heists in decades.The Paris public prosecutor confirmed media reports on Sunday that one man had been detained at about 10pm (8pm UK time) on Saturday at the capital’s Charles de Gaulle airport by officers from the armed robberies and serious burglaries squad. Continue reading...",
+      "content_length": 596,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Trump sanctions have swift impact but will world stop buying Russian oil and gas?",
       "link": "https://www.theguardian.com/business/2025/oct/26/trump-sanctions-impact-russian-oil-gas",
       "published": "2025-10-26T12:00:02",
       "content": "Analysts say president’s war on Russia’s fossil fuel revenues is a chance to bring peace to Ukraine and profit to USDonald Trump’s stated mission to broker peace in Ukraine could come down to this simple question: can the US president convince the world to stop buying Russia’s fossil fuels?Last week, Trump imposed sanctions on Russia’s two largest oil companies, Rosneft and Lukoil, in an effort to damage Moscow’s ability to fund its war machine. Continue reading...",
       "content_length": 469,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Two men arrested after Louvre jewel heist",
-      "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
-      "published": "2025-10-26T10:47:20",
-      "content": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to French mediaTwo suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), French media have reported.The Paris public prosecutor confirmed on Sunday that one man had been detained by organised crime squad officers at about 10pm (8pm UK time) on Saturday at Charles de Gaulle airport in Paris, but did not say how many arrests had been made. Continue reading...",
-      "content_length": 580,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1516,6 +1534,24 @@
       "category": "International News"
     },
     {
+      "title": "Epping sex offender back in custody after release from prison in error",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
+      "published": "2025-10-26T16:03:13",
+      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, detained again and faces deportationTimeline: From arrival in the UK to release in error and rearrestA former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation.Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
+      "content_length": 538,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Windrush commissioner: Black Britons asking if UK is ‘going backwards’",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/windrush-commissioner-black-britons-uk-going-backwards",
+      "published": "2025-10-26T16:00:07",
+      "content": "Rev Clive Foster says rhetoric targeting legal migrants makes some wonder if history is repeating itselfBlack Britons are asking if the UK is “going backwards”, the Windrush commissioner has warned in an interview marking his 100th day in office.The Rev Clive Foster said Windrush scandal survivors were questioning whether “history is repeating itself” as UK politicians target legal migrants. Continue reading...",
+      "content_length": 414,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Keir Starmer shares post-punk passion and revisits musical past",
       "link": "https://www.theguardian.com/politics/2025/oct/26/keir-starmer-post-punk-orange-juice-private-passions",
       "published": "2025-10-26T15:20:36",
@@ -1537,26 +1573,17 @@
       "title": "Reform MP’s remarks about TV adverts were ‘racist’, says Wes Streeting",
       "link": "https://www.theguardian.com/politics/2025/oct/26/wes-streeting-sarah-pochin-tv-advert-remarks-racist",
       "published": "2025-10-26T14:06:59",
-      "content": "Health secretary hardens Labour line after Sarah Pochin said advertising ‘doesn’t reflect your average white family’Wes Streeting has accused the Reform UK MP Sarah Pochin of making “racist” remarks after she said seeing adverts full of black and Asian people “drives her mad”.The health secretary said Pochin was “only sorry she’s been caught and called out”, adding she had “said the quiet bit loud” as he warned of a return to “1970s, 1980s-style racism”. Continue reading...",
-      "content_length": 478,
+      "content": "Health secretary hardens Labour line after Sarah Pochin said advertising ‘doesn’t reflect our society’Wes Streeting has accused the Reform UK MP Sarah Pochin of making racist remarks after she said seeing adverts full of black and Asian people “drives her mad”.The health secretary said Pochin was “only sorry she’s been caught and called out”, adding she had “said the quiet bit loud”, as he warned of a return to “1970s, 1980s-style racism”. Continue reading...",
+      "content_length": 463,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Epping sex offender back in custody after being released from prison in error",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
-      "published": "2025-10-26T13:04:26",
-      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, had been seen ‘confused’ after release from HMP ChelmsfordA former asylum seeker and convicted sex offender who was released from prison in error is back in custody and now faces deportation.Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
-      "content_length": 499,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "High court halts eviction of refugee under Home Office 28-day policy",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/26/high-court-halts-eviction-of-refugee-under-home-office-28-day-policy",
-      "published": "2025-10-26T11:00:02",
-      "content": "Judge intervenes in case, disapplying government rule that charities say drives refugees into homelessnessA high court judge has overruled the government by halting the eviction of a refugee from his asylum accommodation in an emergency case in the early hours of the morning.Mr Justice Johnson made an order in the out-of-hours case just before 2am on Wednesday, disapplying a Home Office policy that requires new refugees to move on from their asylum accommodation within 28 days. Continue reading...",
-      "content_length": 502,
+      "title": "Trump told Pence ‘you’ll go down as a wimp’ in January 6 phone call, book says",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-pence-call-january-6-book",
+      "published": "2025-10-26T16:09:21",
+      "content": "Book cites Pence’s notes from call with Trump, who called vice-president a ‘wimp’ if he certified Biden’s 2020 victoryOn the day that his supporters attacked the US Capitol because his 2020 re-election run ended in defeat, Donald Trump called his vice-president at the time, Mike Pence, and told him he would go down in history as a “wimp” if he certified the election result, a new book says.Those details were revealed on Sunday when ABC News published a preview excerpt of an upcoming book by its political correspondent Jonathan Karl. The book, titled Retribution, cites Pence’s notes from the 6 January 2021 phone call with Trump, who was purportedly trying to shame his vice-president into refusing to certify Joe Biden’s victory weeks earlier in the White House. Continue reading...",
+      "content_length": 789,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1597,12 +1624,21 @@
       "category": "International News"
     },
     {
-      "title": "Trump’s move to pay troops amid shutdown sets dangerous precedent, experts warn",
-      "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-military-pay-government-shutdown",
-      "published": "2025-10-26T10:00:03",
-      "content": "Experts see move as Trump’s latest attempt to shift power of the purse away from Congress and into executive branchBy ordering that US military personnel receive paychecks even though the government is shut down, Donald Trump is seeing to the needs of a politically untouchable constituency that has been caught up in the congressional logjam over federal spending.But experts who spoke to the Guardian warn that he is doing so in a way that is almost certainly illegal and, if left unchecked, bodes ill for Congress’s constitutional authority to control government spending. Some fear it could set the stage for the president to unilaterally fund other contentious decisions in the future, such as the deployment of the military on US soil. Continue reading...",
-      "content_length": 761,
-      "source": "The Guardian World",
+      "title": "Trump kicks off Asia tour with Xi meeting on the agenda",
+      "link": "https://www.france24.com/en/video/20251026-trump-kicks-off-asia-tour-with-xi-meeting-on-the-agenda",
+      "published": "2025-10-26T15:33:04",
+      "content": "US President Donald Trump started his Asia tour in Malaysia Sunday by rewarding Cambodia and Thailand with trade deals after co-signing their ceasefire pact, and saying he was confident of a \"great\" trade deal at upcoming talks with China's Xi Jinping. Trump brimmed with confidence ahead of the meeting with Xi in South Korea, that seeks to end the bruising trade war between the world's two biggest economies.",
+      "content_length": 411,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Argentinians vote in midterm elections seen as key test for Milei",
+      "link": "https://www.france24.com/en/video/20251026-argentinians-vote-in-midterm-elections-seen-as-key-test-for-milei",
+      "published": "2025-10-26T15:31:00",
+      "content": "Polls opened Sunday in Argentina for legislative elections that would determine whether President Javier Milei can expand his party's hold on parliament in the second half of his term. Argentina's economic troubles abound despite unprecedented US aid, and the election outcome may determine whether Milei's budget-slashing cuts and attempts to deregulate the economy will survive. FRANCE 24 speaks to Juan Pablo Ferrero, senior lecturer in Latin American Politics at the University of Bath, to shed more light on the vote.",
+      "content_length": 522,
+      "source": "France 24 English",
       "category": "International News"
     },
     {
@@ -1804,24 +1840,6 @@
       "category": "International News"
     },
     {
-      "title": "Kurdish PKK says it is withdrawing all forces from Turkey to northern Iraq",
-      "link": "https://www.france24.com/en/asia-pacific/20251026-kurdish-pkk-says-it-is-withdrawing-all-forces-from-turkey-to-northern-iraq",
-      "published": "2025-10-26T09:18:05",
-      "content": "The militant Kurdistan Workers’ Party (PKK) said on Sunday it was withdrawing all its forces from Turkey to northern Iraq and urged Ankara to take the necessary legal steps to protect the peace process. Its jailed leader Abdullah Ocalan in May for the group to disarm after decades of violence that killed some 50,000 people.",
-      "content_length": 325,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Trump to increase tariffs on Canada by an additional 10 percent over anti-tariff ad",
-      "link": "https://www.france24.com/en/americas/20251026-trump-to-increase-tariffs-on-canada-by-an-additional-10-percent-over-anti-tariff-ad",
-      "published": "2025-10-26T07:57:56",
-      "content": "US President Donald Trump said Saturday he would increase tariffs on Canadian goods by an additional 10 percent because of what he called a “fake” ad campaign paid for by the Canadian province of Ontario that featured late US president Ronald Reagan criticising the imposition of high tariffs.",
-      "content_length": 293,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
       "title": "Whale and dolphin migrations are being disrupted by climate change",
       "link": "https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/",
       "published": "2025-10-25T11:00:09",
@@ -2002,6 +2020,15 @@
       "category": "Tech News"
     },
     {
+      "title": "You need to listen to the brutally oppressive I’ve Seen All I Need to See",
+      "link": "https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see",
+      "published": "2025-10-26T16:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThere are only a handful of albums that I think qualify as genuinely scary. You Won't Get What You Want by Daughters, and Swans To Be Kind both immediately come to mind. But those records come with… let's say, baggage. I've Seen All I Need to See lacks some of the atmospheric spookiness of To Be Kind and the flashes of pop-tinged menace of You Won't Get What You Want, but it makes up for that with unrelenting brutality. It's not the soundtrack to a slasher film, it's the most violent scene in the bleakest horror film, rendered as blown-out drums and detuned guitar.\nThe album opens with a reading of Douglas Dunn's The Kaleidoscope, a poem ab …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
       "title": "Adobe’s Project Indigo camera finally adds iPhone 17 support",
       "link": "https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support",
       "published": "2025-10-26T15:17:22",
@@ -2079,15 +2106,6 @@
       "published": "2025-10-25T13:00:00",
       "content": "\n\n\n\t\n\t\t\n\nIt took me a while to get into Ball x Pit. The new roguelike blends elements from games like Breakout, Vampire Survivors, and even city builders, creating a complex mix of ideas. But as is the case with many roguelikes, once I figured everything out well enough to get a taste of my first win, delving back into the pit for another round was all I could think about.\nBall x Pit barely has a story - it's more like a setup. The initial moments of the game show a multi-tiered Gondor-like city called \"Ballbylon\" being struck by a giant, glowing rock (ball?), and all that remains is a giant pit that \"treasure seekers\" aim to explore. Then, you're d …\nRead the full story at The Verge.",
       "content_length": 693,
-      "source": "The Verge",
-      "category": "Tech News"
-    },
-    {
-      "title": "Is Waymo ready for winter?",
-      "link": "https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing",
-      "published": "2025-10-25T12:00:00",
-      "content": "\n\n\n\t\n\t\t\n\nDuring a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely handle the snow.\nIn its first few years of operation, Waymo has strategically stuck to cities with warmer, drier climates - places like Phoenix, Los Angeles, Atlanta, and Austin. But as it eyes a slate of East Coast cities, including Boston, New York City, and Washington, DC, for the next phase of its expansion, its abilities to handle more adverse weather will become a crucial test.\n\"Ha h …\nRead the full story at The Verge.",
-      "content_length": 692,
       "source": "The Verge",
       "category": "Tech News"
     },
@@ -2814,14 +2832,14 @@
   ],
   "stats": {
     "by_category": {
-      "German News": 133,
+      "German News": 135,
       "International News": 69,
       "Tech News": 110
     },
     "by_source": {
       "Tagesschau": 40,
       "Tagesschau Ausland": 64,
-      "Deutschlandfunk": 29,
+      "Deutschlandfunk": 31,
       "The Guardian World": 45,
       "France 24 English": 24,
       "Ars Technica": 20,

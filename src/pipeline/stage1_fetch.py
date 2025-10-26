@@ -8,6 +8,10 @@ Saves to data/raw/daily/YYYY-MM-DD.json
 import feedparser
 from datetime import datetime, timedelta
 import json
+import sys
+from pathlib import Path
+# Add src to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from feeds import get_all_feeds
 
 
