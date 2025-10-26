@@ -41,22 +41,6 @@ jobs:
         run: |
           npm install -g @anthropic-ai/claude-code
 
-      - name: Setup SSH for Hetzner
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.HETZNER_SSH_KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H ${{ secrets.HETZNER_HOST }} >> ~/.ssh/known_hosts
-
-          # Setup SSH config
-          cat > ~/.ssh/config <<EOF
-          Host hetzner
-            HostName ${{ secrets.HETZNER_HOST }}
-            User ${{ secrets.HETZNER_USER }}
-            IdentityFile ~/.ssh/id_ed25519
-            StrictHostKeyChecking no
-          EOF
-
       - name: Stage 1 - Fetch RSS Feeds
         run: |
           python src/pipeline/stage1_fetch.py
@@ -72,9 +56,11 @@ jobs:
           python src/pipeline/stage2_5_deduplicate.py
           echo "✅ Stage 2.5 complete"
 
-      - name: Stage 3 - Embedding Filter (via Hetzner service)
+      - name: Stage 3 - Keyword Filter
         run: |
-          python src/pipeline/stage3_embed_filter_remote.py
+          # Get latest deduplicated file
+          LATEST_DEDUP=$(ls -t data/deduplicated/*.json | head -n1)
+          python src/pipeline/stage3_keyword_filter.py "$LATEST_DEDUP"
           echo "✅ Stage 3 complete"
 
       - name: Stage 4 - Claude Filter
@@ -83,9 +69,9 @@ jobs:
         run: |
           # Clean old digests from checkout
           rm -f data/filtered/digest_*.md
-          # Get latest embedded file
-          LATEST_EMBEDDED=$(ls -t data/embedded/*.json | head -n1)
-          python src/pipeline/stage4_filter.py "$LATEST_EMBEDDED" 4
+          # Get latest keyword-filtered file
+          LATEST_FILTERED=$(ls -t data/filtered_keywords/*.json | head -n1)
+          python src/pipeline/stage4_filter.py "$LATEST_FILTERED" 4
           echo "✅ Stage 4 complete"
 
       - name: Stage 5 - Post to Discord

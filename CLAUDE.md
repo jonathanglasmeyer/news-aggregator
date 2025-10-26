@@ -6,7 +6,7 @@ Daily automated news digest system that fetches German news feeds, filters conte
 ## Goals
 - Eliminate noise from traditional news sources (opinion pieces, irrelevant content)
 - Receive curated world news daily
-- Zero-cost or low-cost solution (~80€/year acceptable)
+- Zero-cost solution (achieved: €0/year via GitHub Actions)
 - Fully automated execution
 
 ## Tech Stack
@@ -23,11 +23,6 @@ Using Anthropic API directly with Claude Pro/Max plan:
 - Install: `uv pip install anthropic`
 - Auth: Set `ANTHROPIC_API_KEY` environment variable
 - No Bedrock, no AWS - direct Anthropic API
-
-### Infrastructure Options
-1. **Oracle Cloud Free Tier** (preferred): Static IP, 4 ARM cores, 24GB RAM, 10TB bandwidth
-2. **Local machine/Raspberry Pi**: Residential IP, simple cron
-3. **GitHub Actions**: Only if feeds aren't Cloudflare-protected
 
 ## Architecture
 
@@ -68,21 +63,15 @@ Using Anthropic API directly with Claude Pro/Max plan:
 │  - Filters ~80% duplicates      │
 └──────┬──────────────────────────┘
        │
-       │ Stage 3: Remote Embedding Filter
+       │ Stage 3: Keyword Blacklist Filter
        │
 ┌──────▼──────────────────────────┐
-│  stage3_embed_filter_remote.py  │
-│  - SSH to Hetzner VPS           │
-│  - POST JSON via curl           │
-│  - Keyword blacklist filter     │
-│  - Output: ~50-60 articles      │
+│  stage3_keyword_filter.py       │
+│  - Local keyword matching       │
+│  - 128 blacklist keywords       │
+│  - Fast exact-match filtering   │
+│  - Output: ~270 articles        │
 └──────┬──────────────────────────┘
-       │  ┌─────────────────────────┐
-       └─▶│ Hetzner VPS (Port 3007) │
-          │ - FastAPI service       │
-          │ - Docker container      │
-          │ - 128 blacklist keywords│
-          └─────────────────────────┘
        │
        │ Stage 4: Claude AI Filter
        │
@@ -118,8 +107,8 @@ RSS Feeds (raw)           → data/raw/daily/YYYY-MM-DD.json
 Aggregated Articles       → data/aggregated/YYYYMMDD_HHMMSS.json
   ↓ deduplicate (7 days)
 Deduplicated              → data/deduplicated/YYYYMMDD_HHMMSS.json
-  ↓ embedding filter (SSH → Hetzner)
-Keyword-Filtered          → data/embedded/YYYYMMDD_HHMMSS.json
+  ↓ keyword filter (local, 128 keywords)
+Keyword-Filtered          → data/filtered_keywords/YYYYMMDD_HHMMSS.json
   ↓ claude filter (AI categorization)
 Final Digest              → data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
   ↓ post to discord
@@ -159,11 +148,11 @@ Discord Channel           → Webhook posts (10-15 messages)
    - Filters ~80% duplicates effectively
    - File: `stage2_5_deduplicate.py`
 
-4. **Stage 3: Remote Embedding Filter**
-   - Hetzner VPS deployment (Docker)
-   - SSH + curl integration
-   - 128 keyword blacklist (removed 'maker' for false positives)
-   - Files: `stage3_embed_filter_remote.py`, `embedding_service.py`
+4. **Stage 3: Keyword Blacklist Filter**
+   - Local keyword matching (no remote service needed)
+   - 128 keywords across 10 categories
+   - Fast exact-match filtering (~7-8% blocked)
+   - File: `stage3_keyword_filter.py`
 
 5. **Stage 4: Claude AI Filter**
    - Claude Agent SDK integration
@@ -180,8 +169,7 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 7. **GitHub Actions Automation**
    - Daily cron: 7:00 AM UTC (8:00 AM German time MEZ)
-   - SSH key setup for Hetzner
-   - Secret management (5 secrets)
+   - Secret management (2 secrets: Claude + Discord)
    - Write permissions for automated commits
    - File: `.github/workflows/daily-digest.yml`
 
@@ -200,14 +188,6 @@ Discord Channel           → Webhook posts (10-15 messages)
 - **Environment**: `CLAUDE_CODE_OAUTH_TOKEN`
 - **Processing time**: ~3-4 minutes for 250-280 articles
 
-### Hetzner VPS (Embedding Service)
-- **Server**: Cheapest VPS tier
-- **Port**: 3007 (internal only, firewall protected)
-- **Container**: Docker with FastAPI
-- **Deployment**: `./deploy-embedding.sh` (automated)
-- **SSH**: Ed25519 key-based authentication
-- **Health check**: `/health` endpoint
-
 ### Discord Webhook
 - **Format**: Markdown with smart chunking
 - **Limit**: 2000 chars per message
@@ -220,22 +200,17 @@ Discord Channel           → Webhook posts (10-15 messages)
 ### GitHub Actions Secrets
 1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
 2. `DISCORD_WEBHOOK_URL` - Discord delivery
-3. `HETZNER_HOST` - VPS hostname
-4. `HETZNER_USER` - SSH user (root)
-5. `HETZNER_SSH_KEY` - Private key for SSH
 
 ### Cost Estimation (Actual)
-- **Hetzner VPS**: ~€5/month (cheapest tier)
 - **Claude API**: Included in Claude Pro subscription
 - **GitHub Actions**: Free tier sufficient (<2000 min/month)
-- **Total**: ~€60/year (only Hetzner VPS)
+- **Total**: **€0/year** (completely free!)
 
 ### Security Considerations
 - All secrets stored in GitHub Secrets (encrypted at rest)
-- SSH key-based authentication (no passwords)
-- Embedding service: internal port only, no public exposure
 - Discord webhook: rate-limited, no sensitive data exposed
 - Data tracked in git for transparency (no PII in articles)
+- No external services or VPS needed (all processing in GitHub Actions)
 
 ## Success Metrics
 
@@ -260,11 +235,10 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 1. **No Inoreader needed** - Direct RSS access works without Cloudflare issues
 2. **GitHub Actions over self-hosted** - Free tier sufficient, better reliability
-3. **Hetzner VPS for embedding service** - €5/month, Docker deployment
-4. **Claude Agent SDK over Bedrock** - Simpler auth, included in Pro subscription
-5. **Discord Webhook over Bot** - Simpler for automation, no persistent process
-6. **Daily over Weekly** - More manageable article volume per run
-7. **Data tracked in git** - Transparency and debugging over repo size concerns
+3. **Claude Agent SDK over Bedrock** - Simpler auth, included in Pro subscription
+4. **Discord Webhook over Bot** - Simpler for automation, no persistent process
+5. **Daily over Weekly** - More manageable article volume per run
+6. **Data tracked in git** - Transparency and debugging over repo size concerns
 
 ## Lessons Learned
 
@@ -273,8 +247,8 @@ Discord Channel           → Webhook posts (10-15 messages)
 3. **Deduplication is essential** - Prevents repeated coverage of same stories (filters ~80% duplicates)
 4. **Silent bugs are dangerous** - Deduplication bug (wrong key 'url' vs 'link') was invisible for days, only caught by examining logs
 5. **Discord formatting is finicky** - Requires section-aware zero-width spaces and post-processing for compact bullets
-6. **GitHub Actions SSH needs careful setup** - Ed25519 keys, known_hosts handling
-7. **LLM output needs post-processing** - Claude adds unwanted blank lines between bullets, regex cleanup required
+6. **LLM output needs post-processing** - Claude adds unwanted blank lines between bullets, regex cleanup required
+7. **Embeddings are not a silver bullet** - Semantic similarity too imprecise for keyword matching; simple exact-match filtering works better
 
 ## Resources
 
@@ -286,9 +260,8 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 ### Key Files
 - **Pipeline orchestration**: `.github/workflows/daily-digest.yml`
-- **Stage scripts**: `daily_fetch.py`, `stage2_aggregate.py`, `stage2_5_deduplicate.py`, `stage3_embed_filter_remote.py`, `stage4_filter.py`, `stage5_discord_webhook.py`
-- **Embedding service**: `embedding_service.py`, `filter_logic.py`, `Dockerfile.embedding`, `docker-compose.embedding.yml`
-- **Deployment**: `deploy-embedding.sh`
+- **Stage scripts**: `src/pipeline/stage1_fetch.py`, `stage2_aggregate.py`, `stage2_5_deduplicate.py`, `stage3_keyword_filter.py`, `stage4_filter.py`, `stage5_discord_webhook.py`
+- **Filter logic**: `src/services/filter_logic.py` (128 blacklist keywords)
 
 ### Setup Commands
 ```bash
@@ -299,19 +272,16 @@ claude setup-token
 uv run python daily_fetch.py
 
 # Test full pipeline locally
-uv run python stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
-uv run python stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
-uv run python stage3_embed_filter_remote.py data/deduplicated/YYYYMMDD_HHMMSS.json
-uv run python stage4_filter.py data/embedded/YYYYMMDD_HHMMSS.json
-uv run python stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
-
-# Deploy embedding service to Hetzner
-./deploy-embedding.sh
+uv run python src/pipeline/stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
+uv run python src/pipeline/stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
+uv run python src/pipeline/stage3_keyword_filter.py data/deduplicated/YYYYMMDD_HHMMSS.json
+uv run python src/pipeline/stage4_filter.py data/filtered_keywords/YYYYMMDD_HHMMSS.json 4
+uv run python src/pipeline/stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
 ```
 
 ## Notes
 - Direct RSS access works without proxies/VPNs
 - Claude Pro subscription required for Agent SDK
-- Hetzner VPS is cheapest viable option (€5/month)
+- Completely free operation (no external services needed)
 - Daily execution prevents article overload (vs weekly)
 - Data tracked in git aids debugging and transparency

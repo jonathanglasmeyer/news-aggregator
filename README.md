@@ -44,11 +44,11 @@ claude setup-token
 uv run python daily_fetch.py
 
 # Test full pipeline
-uv run python stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
-uv run python stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
-uv run python stage3_embed_filter_remote.py data/deduplicated/YYYYMMDD_HHMMSS.json
-uv run python stage4_filter.py data/embedded/YYYYMMDD_HHMMSS.json 4
-uv run python stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
+uv run python src/pipeline/stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
+uv run python src/pipeline/stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
+uv run python src/pipeline/stage3_keyword_filter.py data/deduplicated/YYYYMMDD_HHMMSS.json
+uv run python src/pipeline/stage4_filter.py data/filtered_keywords/YYYYMMDD_HHMMSS.json 4
+uv run python src/pipeline/stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
 ```
 
 ### GitHub Actions Secrets
@@ -57,9 +57,6 @@ Required for automated execution:
 
 1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
 2. `DISCORD_WEBHOOK_URL` - Discord delivery
-3. `HETZNER_HOST` - VPS hostname (for embedding service)
-4. `HETZNER_USER` - SSH user
-5. `HETZNER_SSH_KEY` - Private key for SSH
 
 ## Architecture
 
@@ -68,13 +65,12 @@ Required for automated execution:
 1. **Stage 1:** Fetch RSS feeds (15+ sources)
 2. **Stage 2:** Aggregate last 7 days
 3. **Stage 2.5:** Deduplicate by URL (~80% reduction)
-4. **Stage 3:** Keyword blacklist filter (Hetzner VPS, 128 keywords)
+4. **Stage 3:** Local keyword blacklist filter (128 keywords)
 5. **Stage 4:** Claude AI categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
 6. **Stage 5:** Discord webhook delivery
 
 **External Services:**
 
-- Hetzner VPS: Embedding filter service (Docker, port 3007)
 - Discord: Webhook delivery
 - GitHub Actions: Daily execution at 7:00 UTC
 
@@ -102,7 +98,6 @@ See [CLAUDE.md](./CLAUDE.md) for complete project documentation, architecture de
 
 ## Cost
 
-- **Hetzner VPS:** ~€5/month (cheapest tier)
 - **Claude API:** Included in Claude Pro subscription
 - **GitHub Actions:** Free tier (<2000 min/month)
-- **Total:** ~€60/year
+- **Total:** **€0/year** (completely free!)
