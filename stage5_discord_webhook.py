@@ -118,9 +118,14 @@ def format_for_discord(content: str) -> str:
     # Remove horizontal rules
     content = content.replace('---', '')
 
-    # Ensure newline before h1 headers (# but not ##)
+    # Ensure double newline before h1 headers (# but not ##)
     # This fixes the formatting issue where text runs directly into headers
-    content = re.sub(r'([^\n])\n(# [^#])', r'\1\n\n\2', content)
+    # Step 1: After single newline (but not double newline)
+    content = re.sub(r'(?<!\n)(\n)(#)( )(?!#)', r'\1\n\2\3', content)
+    # Step 2: At start of string
+    content = re.sub(r'^(#)( )(?!#)', r'\n\n\1\2', content)
+    # Step 3: After non-newline, non-hash character (text runs into header)
+    content = re.sub(r'([^\n#])(#)( )(?!#)', r'\1\n\n\2\3', content)
 
     return content
 
@@ -133,9 +138,18 @@ def post_to_discord(webhook_url: str, chunks: list[str]):
         # Add header to first message
         if i == 1:
             date = datetime.now().strftime('%Y-%m-%d')
-            message = f"📰 **News Digest** {date}\n\n{chunk}"
+            header = f"📰 **News Digest** {date}\n\n"
+            # Ensure chunk + header doesn't exceed limit
+            chunk_content = chunk.rstrip()
+            if len(header) + len(chunk_content) > DISCORD_MESSAGE_LIMIT:
+                # Chunk is too long with header, truncate it
+                max_chunk_len = DISCORD_MESSAGE_LIMIT - len(header)
+                chunk_content = chunk_content[:max_chunk_len].rsplit('\n', 1)[0]  # Cut at last newline
+            message = f"{header}{chunk_content}"
         else:
-            message = chunk
+            # Add zero-width space on blank line for visual separation
+            # Discord strips whitespace but not zero-width space
+            message = '\u200b\n' + chunk.rstrip()
 
         # Post to webhook
         payload = {
