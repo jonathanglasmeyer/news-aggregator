@@ -7,17 +7,27 @@ Automated daily news digest system that fetches German/international news feeds,
 ## Overview
 
 - **Fully automated** via GitHub Actions (no manual intervention)
-- **15+ RSS sources** (German + international news)
+- **9 RSS sources** (German, international, and tech news)
 - **AI-powered filtering** with Claude Sonnet 4.5
 - **Smart deduplication** with 7-day lookback
 - **Discord delivery** with clean, formatted messages
 - **Final output:** Highly curated daily digest
 
+## News Sources
+
+**9 RSS feeds** across German, international, and tech news:
+
+**German News:** Tagesschau, Tagesschau Ausland, Deutschlandfunk
+**International News:** The Guardian World, France 24 English
+**Tech News:** Ars Technica, The Verge, Heise Top, Heise Developer
+
+See `src/feeds.py` for complete feed configuration.
+
 ## Pipeline
 
 The system runs through 5 stages daily:
 
-1. **Fetch RSS Feeds** - Collect articles from 15+ German and international news sources
+1. **Fetch RSS Feeds** - Collect articles from 9 RSS sources
 2. **Aggregate** - Normalize article format and extract metadata
 3. **Deduplicate** - Remove duplicate articles from the last 7 days
 4. **Keyword Filter** - Apply blacklist of 128 keywords to filter unwanted topics

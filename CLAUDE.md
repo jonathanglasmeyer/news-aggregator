@@ -1,28 +1,6 @@
-# News Aggregation Bot - Project Brief
+# News Aggregation Bot - Technical Reference
 
-## Project Overview
-Daily automated news digest system that fetches German news feeds, filters content using Claude AI, and delivers personalized summaries to Discord.
-
-## Goals
-- Eliminate noise from traditional news sources (opinion pieces, irrelevant content)
-- Receive curated world news daily
-- Zero-cost solution (achieved: €0/year via GitHub Actions)
-- Fully automated execution
-
-## Tech Stack
-
-### Core Components
-- **RSS Feeds**: Direct feed access (no Inoreader needed - tested successfully)
-- **Claude Agent SDK (Python)**: Content filtering and summarization via Anthropic API
-- **Discord Webhook**: Delivery mechanism
-- **Python 3.11+**: Implementation language
-- **GitHub Actions**: Daily cron execution
-
-### Claude Integration
-Using Anthropic API directly with Claude Pro/Max plan:
-- Install: `uv pip install anthropic`
-- Auth: Set `ANTHROPIC_API_KEY` environment variable
-- No Bedrock, no AWS - direct Anthropic API
+Automated daily news digest system: Fetches 9 RSS feeds (German + international + tech), filters via keyword blacklist + Claude AI, delivers curated digest to Discord. Runs entirely in GitHub Actions (€0/year).
 
 ## Architecture
 
@@ -41,7 +19,7 @@ Using Anthropic API directly with Claude Pro/Max plan:
 │  daily_fetch.py                 │
 │  - Direct RSS parsing           │
 │  - feedparser library           │
-│  - 15+ German/Int'l sources     │
+│  - 9 RSS sources                │
 │  - Output: raw JSON (~300-500)  │
 └──────┬──────────────────────────┘
        │
@@ -115,70 +93,6 @@ Final Digest              → data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
 Discord Channel           → Webhook posts (10-15 messages)
 ```
 
-## Target News Sources
-
-### German Primary Sources
-- Tagesschau: `https://www.tagesschau.de/xml/rss2/`
-- Zeit Online: `https://newsfeed.zeit.de/index`
-- Spiegel: `https://www.spiegel.de/schlagzeilen/index.rss`
-
-### Additional Sources (to be determined)
-- International news (AP, Reuters, BBC)
-- Tech/AI specific feeds
-- Regional sources
-
-## Implementation Status
-
-### ✅ Completed (Production-Ready)
-
-1. **Stage 1: RSS Fetching**
-   - Direct feed access via `feedparser`
-   - 15+ German/international sources
-   - No Cloudflare issues encountered
-   - File: `daily_fetch.py`
-
-2. **Stage 2: Aggregation**
-   - Normalized article format
-   - Metadata extraction
-   - File: `stage2_aggregate.py`
-
-3. **Stage 2.5: Deduplication**
-   - 7-day lookback window
-   - URL-based deduplication (fixed: was using wrong key 'url' instead of 'link')
-   - Filters ~80% duplicates effectively
-   - File: `stage2_5_deduplicate.py`
-
-4. **Stage 3: Keyword Blacklist Filter**
-   - Local keyword matching (no remote service needed)
-   - 128 keywords across 10 categories
-   - Fast exact-match filtering (~7-8% blocked)
-   - File: `stage3_keyword_filter.py`
-
-5. **Stage 4: Claude AI Filter**
-   - Claude Agent SDK integration
-   - 3-tier categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
-   - Prompt version 4 (tested and working)
-   - Compact bullet point post-processing (removes unwanted blank lines)
-   - File: `stage4_filter.py`
-
-6. **Stage 5: Discord Delivery**
-   - Smart chunking (<2000 chars)
-   - Section-aware zero-width space separators
-   - Compact NICE-TO-KNOW bullet lists
-   - File: `stage5_discord_webhook.py`
-
-7. **GitHub Actions Automation**
-   - Daily cron: 7:00 AM UTC (8:00 AM German time MEZ)
-   - Secret management (2 secrets: Claude + Discord)
-   - Write permissions for automated commits
-   - File: `.github/workflows/daily-digest.yml`
-
-### 🔄 Ongoing Optimization
-
-- Prompt refinement for Stage 4
-- Source quality monitoring
-- Deduplication accuracy tuning
-
 ## Technical Considerations
 
 ### Claude Agent SDK
@@ -189,66 +103,13 @@ Discord Channel           → Webhook posts (10-15 messages)
 - **Processing time**: ~3-4 minutes for 250-280 articles
 
 ### Discord Webhook
-- **Format**: Markdown with smart chunking
+- **Format**: Markdown with automatic chunking
 - **Limit**: 2000 chars per message
 - **Rate limit**: 1 request/second
-- **Formatting**:
-  - Section-aware zero-width space separators (only MUST-KNOW/INTERESSANT)
-  - Compact bullet lists in NICE-TO-KNOW (no blank lines)
-  - Link preview suppression with `<URL>`
 
 ### GitHub Actions Secrets
-1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
-2. `DISCORD_WEBHOOK_URL` - Discord delivery
-
-### Cost Estimation (Actual)
-- **Claude API**: Included in Claude Pro subscription
-- **GitHub Actions**: Free tier sufficient (<2000 min/month)
-- **Total**: **€0/year** (completely free!)
-
-### Security Considerations
-- All secrets stored in GitHub Secrets (encrypted at rest)
-- Discord webhook: rate-limited, no sensitive data exposed
-- Data tracked in git for transparency (no PII in articles)
-- No external services or VPS needed (all processing in GitHub Actions)
-
-## Success Metrics
-
-### ✅ Achieved
-- Zero manual intervention (fully automated)
-- Daily digest delivered at 7:00 AM UTC (8:00 AM German time)
-- 3-tier categorization working (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
-- Deduplication filters ~80% duplicates (350 → 57 articles)
-- Final output: ~15-20 curated articles per day
-- Complete end-to-end pipeline tested and validated in GitHub Actions
-- Automated commits to repository with results
-
-### 🔄 Monitoring
-- Relevance quality (ongoing prompt refinement)
-- Deduplication effectiveness (currently 80-85% duplicate rate)
-- Discord formatting (section-aware separators, compact bullets)
-- Claude API costs (included in Pro subscription)
-
-## Key Architectural Decisions
-
-### ✅ Decided & Implemented
-
-1. **No Inoreader needed** - Direct RSS access works without Cloudflare issues
-2. **GitHub Actions over self-hosted** - Free tier sufficient, better reliability
-3. **Claude Agent SDK over Bedrock** - Simpler auth, included in Pro subscription
-4. **Discord Webhook over Bot** - Simpler for automation, no persistent process
-5. **Daily over Weekly** - More manageable article volume per run
-6. **Data tracked in git** - Transparency and debugging over repo size concerns
-
-## Lessons Learned
-
-1. **RSS feeds are more accessible than expected** - No Cloudflare blocking encountered
-2. **Two-stage filtering works well** - Keyword blacklist (Stage 3) + AI (Stage 4)
-3. **Deduplication is essential** - Prevents repeated coverage of same stories (filters ~80% duplicates)
-4. **Silent bugs are dangerous** - Deduplication bug (wrong key 'url' vs 'link') was invisible for days, only caught by examining logs
-5. **Discord formatting is finicky** - Requires section-aware zero-width spaces and post-processing for compact bullets
-6. **LLM output needs post-processing** - Claude adds unwanted blank lines between bullets, regex cleanup required
-7. **Embeddings are not a silver bullet** - Semantic similarity too imprecise for keyword matching; simple exact-match filtering works better
+1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access (OAuth token from `claude setup-token`)
+2. `DISCORD_WEBHOOK_URL` - Discord webhook URL
 
 ## Resources
 
@@ -262,26 +123,4 @@ Discord Channel           → Webhook posts (10-15 messages)
 - **Pipeline orchestration**: `.github/workflows/daily-digest.yml`
 - **Stage scripts**: `src/pipeline/stage1_fetch.py`, `stage2_aggregate.py`, `stage2_5_deduplicate.py`, `stage3_keyword_filter.py`, `stage4_filter.py`, `stage5_discord_webhook.py`
 - **Filter logic**: `src/services/filter_logic.py` (128 blacklist keywords)
-
-### Setup Commands
-```bash
-# Claude OAuth token setup
-claude setup-token
-
-# Test RSS fetch locally
-uv run python daily_fetch.py
-
-# Test full pipeline locally
-uv run python src/pipeline/stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
-uv run python src/pipeline/stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
-uv run python src/pipeline/stage3_keyword_filter.py data/deduplicated/YYYYMMDD_HHMMSS.json
-uv run python src/pipeline/stage4_filter.py data/filtered_keywords/YYYYMMDD_HHMMSS.json 4
-uv run python src/pipeline/stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
-```
-
-## Notes
-- Direct RSS access works without proxies/VPNs
-- Claude Pro subscription required for Agent SDK
-- Completely free operation (no external services needed)
-- Daily execution prevents article overload (vs weekly)
-- Data tracked in git aids debugging and transparency
+- **Feed configuration**: `src/feeds.py` (9 RSS sources)
