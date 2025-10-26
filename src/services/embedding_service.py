@@ -17,7 +17,12 @@ from datetime import datetime
 from typing import List, Dict, Any
 
 # Import shared filter logic
-from filter_logic import simple_filter, BLACKLIST_KEYWORDS
+from filter_logic import (
+    simple_filter,
+    embedding_based_blacklist_filter,
+    benchmark_filters,
+    BLACKLIST_KEYWORDS
+)
 
 app = FastAPI(title="News Embedding Filter Service", version="1.0.0")
 
@@ -54,6 +59,8 @@ class Article(BaseModel):
 class FilterRequest(BaseModel):
     """Request to filter articles"""
     articles: List[Article]
+    mode: str = "keyword"  # "keyword", "embedding", or "benchmark"
+    threshold: float = 0.6  # Only for embedding mode
 
 
 class FilterResponse(BaseModel):
@@ -79,8 +86,12 @@ async def health():
 @app.post("/filter", response_model=FilterResponse)
 async def filter_articles(request: FilterRequest):
     """
-    Filter articles using keyword blacklist.
-    Uses shared filter_logic module - no code duplication.
+    Filter articles using keyword or embedding-based blacklist.
+
+    Modes:
+    - "keyword": Fast keyword matching (default)
+    - "embedding": Semantic similarity-based filtering
+    - "benchmark": Run both and return comparison (uses embedding results)
     """
     if not request.articles:
         raise HTTPException(status_code=400, detail="No articles provided")
@@ -88,8 +99,47 @@ async def filter_articles(request: FilterRequest):
     # Convert Pydantic models to dicts
     articles_dict = [article.dict() for article in request.articles]
 
-    # Filter using shared logic
-    filtered_articles, stats = simple_filter(articles_dict)
+    # Route to appropriate filter based on mode
+    if request.mode == "keyword":
+        filtered_articles, stats = simple_filter(articles_dict)
+
+    elif request.mode == "embedding":
+        # Load model if needed
+        model = load_model()
+        if model is None:
+            raise HTTPException(
+                status_code=500,
+                detail="Embedding model failed to load"
+            )
+        filtered_articles, stats = embedding_based_blacklist_filter(
+            articles_dict,
+            model,
+            threshold=request.threshold
+        )
+
+    elif request.mode == "benchmark":
+        # Load model if needed
+        model = load_model()
+        if model is None:
+            raise HTTPException(
+                status_code=500,
+                detail="Embedding model failed to load"
+            )
+        # Run benchmark (logs comparison, returns embedding results)
+        benchmark_results = benchmark_filters(articles_dict, model)
+        filtered_articles, stats = embedding_based_blacklist_filter(
+            articles_dict,
+            model,
+            threshold=request.threshold
+        )
+        # Add benchmark info to stats
+        stats['benchmark'] = benchmark_results
+
+    else:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid mode: {request.mode}. Use 'keyword', 'embedding', or 'benchmark'"
+        )
 
     # Convert back to Pydantic models
     filtered_pydantic = [Article(**article) for article in filtered_articles]
@@ -105,12 +155,17 @@ async def root():
     """Root endpoint with service info"""
     return {
         "service": "News Embedding Filter",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "endpoints": {
             "/health": "Health check",
             "/filter": "Filter articles (POST)",
         },
-        "model": "BAAI/bge-m3 (lazy loaded)"
+        "model": "BAAI/bge-m3 (lazy loaded)",
+        "filter_modes": {
+            "keyword": "Fast keyword matching (default)",
+            "embedding": "Semantic similarity-based filtering",
+            "benchmark": "Compare both approaches"
+        }
     }
 
 
