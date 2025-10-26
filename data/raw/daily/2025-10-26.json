@@ -1,8 +1,26 @@
 {
   "date": "2025-10-26",
-  "timestamp": "2025-10-26T17:39:05.007498",
-  "total_articles": 314,
+  "timestamp": "2025-10-26T17:50:47.796883",
+  "total_articles": 317,
   "articles": [
+    {
+      "title": "Pakistan meldet Verletzung der Waffenruhe an Grenze zu Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-kaempfe-104.html",
+      "published": "2025-10-26T17:36:23",
+      "content": "   Erst vor einer Woche hatten sich Pakistan und Afghanistan auf eine Waffenruhe verständigt. Während sie in Istanbul Gespräche über einen dauerhaften Frieden führen, hat es nun offenbar erneut Kämpfe mit Toten gegeben.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Beschädigung von Seekabeln - Sorge um Taiwans Lebensadern",
+      "link": "https://www.tagesschau.de/ausland/asien/taiwan-bedrohung-volksrepublik-100.html",
+      "published": "2025-10-26T17:20:11",
+      "content": "   Fremde Schiffe schleifen ihre Anker hinter sich her: Rund um Taiwan häufen sich die Schadensfälle an Seekabeln. Aus Sicht von Sicherheitsexperten spricht viel für Absicht - und eine Verwicklung Chinas. Von U. Mendgen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
     {
       "title": "Dobrindt will Schüler auf Katastrophen- und Kriegsfall vorbereiten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-schueler-unterricht-katastrophenschutz-100.html",
@@ -33,7 +51,7 @@
     {
       "title": "Ukraine-Liveblog: ++ Kiew: Russische Soldaten in Pokrowsk eingedrungen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-604.html",
-      "published": "2025-10-26T16:35:04",
+      "published": "2025-10-26T17:49:47",
       "content": "   Russischen Soldaten ist es nach Angaben aus Kiew gelungen, in die umkämpfte Stadt Pokrowsk einzudringen. Bei einem Drohnenangriff auf die Hauptstadt Kiew sind mindestens drei Menschen getötet und 29 verletzt worden.[mehr]",
       "content_length": 224,
       "source": "Tagesschau",
@@ -342,24 +360,6 @@
       "published": "2025-10-25T05:51:43",
       "content": "   In Südostasien wachsen die Spannungen zwischen China und den USA. Das strahlt auch auf den ASEAN-Gipfel in Malaysia aus - zu dem US-Präsident Trump anreist. Wie positioniert sich der Staatenbund? Von A. Henkel.[mehr]",
       "content_length": 219,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Thailands einstige Königin Sirikit im Alter von 93 Jahren gestorben",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-sirikit-100.html",
-      "published": "2025-10-25T09:52:49",
-      "content": "   Sie war ein Star des internationalen Adels und zierte weltweit die Titelblätter von Modemagazinen: Nun ist Thailands ehemalige Königin Sirikit im Alter von 93 Jahren gestorben. Der Königshof hat eine einjährige Trauerzeit ausgerufen.[mehr]",
-      "content_length": 242,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Januar bis September: Deutschland hat mehr Menschen abgeschoben",
-      "link": "https://www.tagesschau.de/inland/abschiebungen-bundesregierung-100.html",
-      "published": "2025-10-25T03:21:39",
-      "content": "   Abgelehnte Asylbewerberinnen und -bewerber sollen schneller zurückgeführt werden. Das ist ein Ziel der schwarz-roten Koalition. Und die Zahlen für die ersten drei Quartale des laufenden Jahres zeigen: Deutschland schiebt mehr Menschen ab.[mehr]",
-      "content_length": 247,
       "source": "Tagesschau",
       "category": "German News"
     },
@@ -706,6 +706,15 @@
       "category": "German News"
     },
     {
+      "title": "Pakistan meldet Verletzung der Waffenruhe an Grenze zu Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-kaempfe-104.html",
+      "published": "2025-10-26T17:36:23",
+      "content": "   Erst vor einer Woche hatten sich Pakistan und Afghanistan auf eine Waffenruhe verständigt. Während sie in Istanbul Gespräche über einen dauerhaften Frieden führen, hat es nun offenbar erneut Kämpfe mit Toten gegeben.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
       "title": "Vorläufige Einigung im Zollstreit zwischen USA und China",
       "link": "https://www.tagesschau.de/ausland/asien/usa-china-annaeherung-zollstreit-100.html",
       "published": "2025-10-26T15:48:25",
@@ -774,15 +783,6 @@
       "published": "2025-10-23T09:02:48",
       "content": "   Die Mongolei steckt in einer Regierungskrise, es geht dabei um Macht und Korruptionsvorwürfe. Nun sollte der Ministerpräsident des Landes abgesetzt werden. Doch das Verfassungsgericht stoppte das Vorhaben. [mehr]",
       "content_length": 215,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
-      "title": "Erste Ministerpräsidentin führt Japan weiter nach rechts",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-regierung-ministerpraesidentin-100.html",
-      "published": "2025-10-21T08:21:02",
-      "content": "   In Japan regiert erstmals eine Frau: Sanae Takaichi gilt als nationalistische Hardlinerin und übernimmt das Land nach einer innenpolitischen Krise. Ihr Augenmerk will sie auf die Wirtschaft richten.[mehr]",
-      "content_length": 207,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -940,45 +940,45 @@
       "category": "German News"
     },
     {
-      "title": "Bundesamt für Seeschifffahrt und Hydrographie - Sturmflutwarnung für Nordsee-Küste und Hamburger Elbegebiet",
-      "link": "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-nordsee-kueste-und-hamburger-elbegebiet-100.html",
-      "published": "2025-10-26T16:19:12",
-      "content": "Für die deutsche Nordsee-Küste und das Hamburger Elbegebiet gilt derzeit eine Sturmflutwarnung.",
-      "content_length": 95,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Frankreich - Juwelendiebstahl im Louvre: Zwei Verdächtige festgenommen",
       "link": "https://www.deutschlandfunk.de/juwelendiebstahl-im-louvre-zwei-verdaechtige-festgenommen-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die französische Polizei hat im Zusammenhang mit dem Kronjuwelen-Diebstahl im Pariser Louvre zwei Verdächtige festgenommen. Die Staatsanwaltschaft in Paris bestätigte entsprechende Medienberichte. Die beiden Männer befinden sich nun in Polizeigewahrsam.",
       "content_length": 253,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung",
-      "link": "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html",
-      "published": "2025-10-26T16:19:12",
-      "content": "Im Kosovo ist die Bildung einer Regierung gescheitert.",
-      "content_length": 54,
+      "title": "Umstrittene Merz-Äußerung - Union verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
+      "link": "https://www.deutschlandfunk.de/union-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Die Union hat sich verärgert über die Teilnahme einer führenden SPD-Politikerin an den Demonstrationen gegen die umstrittene \"Stadtbild\"-Äußerung von Bundeskanzler Merz gezeigt. Die stellvertretende SPD-Fraktionsvorsitzende Esdar hatte sich am Freitagabend an einer Kundgebung in Bielefeld unter dem Motto \"Wir sind das Stadtbild\" beteiligt.",
+      "content_length": 341,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
-      "link": "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
-      "published": "2025-10-26T16:19:12",
-      "content": "Die USA und Brasilien wollen ihren Handelsstreit in baldigen Verhandlungen lösen. Dies vereinbarten die Präsidenten Trump und Lula bei einem Treffen am Rande des Gipfels der ASEAN-Wirtschaftsgemeinschaft im malaysischen Kuala Lumpur. Beide sprachen anschließend von einer positiven Unterredung.",
-      "content_length": 294,
+      "title": "Bayern - Bürgerentscheid in München über Olympia-Bewerbung beendet",
+      "link": "https://www.deutschlandfunk.de/buergerentscheid-in-muenchen-ueber-olympia-bewerbung-beendet-104.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "In München haben die Menschen über eine Bewerbung der Stadt für die Ausrichtung Olympischer und Paralympischer Sommerspiele entschieden. Die Stimmlokale für den Bürgerentscheid schlossen um 18 Uhr. Erste Ergebnisse werden im Laufe des Abends erwartet.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesamt für Seeschifffahrt und Hydrographie - Sturmflutwarnung für Nordsee-Küste und Hamburger Elbegebiet",
+      "link": "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-nordsee-kueste-und-hamburger-elbegebiet-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Für die deutsche Nordsee-Küste und das Hamburger Elbegebiet gilt derzeit eine Sturmflutwarnung.",
+      "content_length": 95,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "\"Unbegrenzte Reichweite\" - Russland gibt abschließenden Test eines nuklear angetriebenen Marschflugkörpers bekannt",
       "link": "https://www.deutschlandfunk.de/russland-gibt-abschliessenden-test-eines-nuklear-angetriebenen-marschflugkoerpers-bekannt-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die russische Armee soll laut Präsident Putin möglichst bald neue mit Atomenergie angetriebene Marschflugkörper bekommen. Bei einem Treffen mit Militärvertretern sagte Putin, entsprechende Tests seien abgeschlossen. Man werde jetzt mit den Vorbereitungen beginnen, die Marschflugkörper bei den russischen Streitkräften zu stationieren.",
       "content_length": 335,
       "source": "Deutschlandfunk",
@@ -987,16 +987,52 @@
     {
       "title": "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
       "link": "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Im Osten der Ukraine sind russische Einheiten in die seit langem umkämpfte Stadt Pokrowsk eingedrungen.",
       "content_length": 103,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
+      "title": "Fußball-Bundesliga - Leverkusen siegt gegen Freiburg mit 2:0",
+      "link": "https://www.deutschlandfunk.de/leverkusen-siegt-gegen-freiburg-mit-2-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Im ersten Sonntagsspiel der Fußball-Bundesliga hat Bayer Leverkusen mit 2:0 gegen den SC Freiburg gewonnen.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
+      "link": "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Die USA und Brasilien wollen ihren Handelsstreit in baldigen Verhandlungen lösen. Dies vereinbarten die Präsidenten Trump und Lula bei einem Treffen am Rande des Gipfels der ASEAN-Wirtschaftsgemeinschaft im malaysischen Kuala Lumpur. Beide sprachen anschließend von einer positiven Unterredung.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elfenbeinküste - Ergebnisse der Präsidentenwahl erwartet",
+      "link": "https://www.deutschlandfunk.de/ergebnisse-der-praesidentenwahl-erwartet-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "In der Republik Elfenbeinküste werden noch für den Lauf des Abends erste Ergebnisse der gestrigen Präsidentenwahl erwartet.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung",
+      "link": "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Im Kosovo ist die Bildung einer Regierung gescheitert.",
+      "content_length": 54,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
       "title": "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt",
       "link": "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "In Litauen ist der Flugbetrieb am Flughafen der Haupstadt Vilnius nach der Sichtung von weiteren Ballons erneut vorübergehend eingestellt worden. Das teilte der Betreiber mit. Es war bereits das dritte Mal innerhalb einer Woche, dass Starts und Landungen ausgesetzt werden mussten.",
       "content_length": 281,
       "source": "Deutschlandfunk",
@@ -1005,7 +1041,7 @@
     {
       "title": "Region Dafur - Sudanesische RSF-Miliz meldet Einnahme der Stadt Al-Faschir",
       "link": "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-meldet-einnahme-der-stadt-al-faschir-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "In der umkämpften sudanesischen Region Darfur hat die RSF-Miliz nach eigenen Angaben die Stadt Al-Faschir eingenommen.",
       "content_length": 118,
       "source": "Deutschlandfunk",
@@ -1014,7 +1050,7 @@
     {
       "title": "SPD-Generalsekretär - Klüssendorf fordert mehr Schutz für heimische Industrie: \"Buy European\"",
       "link": "https://www.deutschlandfunk.de/kluessendorf-fordert-mehr-schutz-fuer-heimische-industrie-buy-european-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "SPD-Generalsekretär Klüssendorf hat eine stärkere deutsche und europäische Gegenwehr gegen den Protektionismus anderer Staaten gefordert.",
       "content_length": 137,
       "source": "Deutschlandfunk",
@@ -1023,7 +1059,7 @@
     {
       "title": "Deutsche Wirtschaft - Ifo-Präsident Fuest warnt: \"Wohlstand in Deutschland akut bedroht\"",
       "link": "https://www.deutschlandfunk.de/ifo-praesident-fuest-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Ifo-Präsident Fuest warnt vor einem weiteren Verfall der deutschen Wirtschaft und dem damit einhergehenden Wohlstandsverlust. Er fordert von der Bundesregierung ein Reformkonzept, das über den Koalitionsvertrag hinausgeht.",
       "content_length": 222,
       "source": "Deutschlandfunk",
@@ -1032,7 +1068,7 @@
     {
       "title": "Geflügelpest - Bundesweit bereits etwa 400.000 Tiere wegen Vogelgrippe getötet",
       "link": "https://www.deutschlandfunk.de/bundesweit-bereits-etwa-400-000-tiere-wegen-vogelgrippe-getoetet-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Zur Eindämmung der Vogelgrippe in Deutschland sind schätzungsweise bereits 400.000 Hühner, Enten, Gänse und Puten getötet worden.",
       "content_length": 129,
       "source": "Deutschlandfunk",
@@ -1041,7 +1077,7 @@
     {
       "title": "Türkei - Kurdische PKK kündigt Abzug aller Kämpfer in den Nordirak an",
       "link": "https://www.deutschlandfunk.de/kurdische-pkk-kuendigt-abzug-aller-kaempfer-in-den-nordirak-an-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die kurdische PKK hat damit begonnen, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen.",
       "content_length": 94,
       "source": "Deutschlandfunk",
@@ -1050,25 +1086,16 @@
     {
       "title": "Polens Regierungschef - Tusk warnt vor \"ewigem Krieg\" in der Ukraine",
       "link": "https://www.deutschlandfunk.de/tusk-warnt-vor-ewigem-krieg-in-der-ukraine-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Der polnische Ministerpräsident Tusk befürchtet, dass der Krieg in der Ukraine noch sehr lange dauern könnte.",
       "content_length": 109,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Bayern - Olympia-Bürgerentscheid in München - 1,1 Millionen Menschen zur Stimmabgabe aufgerufen",
-      "link": "https://www.deutschlandfunk.de/olympia-buergerentscheid-in-muenchen-1-1-millionen-menschen-zur-stimmabgabe-aufgerufen-100.html",
-      "published": "2025-10-26T16:19:12",
-      "content": "In München stimmen die Bürgerinnen und Bürger seit dem Morgen darüber ab, ob sich die Stadt um die Ausrichtung der Olympischen und Paralympischen Sommerspiele bewerben soll. Rund 1,1 Millionen Menschen sind zur Stimmabgabe aufgerufen. Das Ergebnis gilt als wichtiger Stimmungstest für die Olympia-Pläne des Deutschen Olympischen Sportbunds.",
-      "content_length": 340,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Katastrophenschutz - Dobrindt will Krisenvorsorge als Doppelstunde an Schulen",
       "link": "https://www.deutschlandfunk.de/dobrindt-will-krisenvorsorge-als-doppelstunde-an-schulen-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Bundesinnenminister Dobrindt hat sich dafür ausgesprochen, junge Menschen in Schulen auf Krisenfälle vorzubereiten.",
       "content_length": 115,
       "source": "Deutschlandfunk",
@@ -1077,7 +1104,7 @@
     {
       "title": "Großbritannien - Polizei fasst versehentlich entlassenen Sexualstraftäter",
       "link": "https://www.deutschlandfunk.de/polizei-fasst-versehentlich-entlassenen-sexualstraftaeter-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die britische Polizei hat einen versehentlich aus der Haft entlassenen Sexualstraftäter wieder gefasst.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -1086,7 +1113,7 @@
     {
       "title": "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
       "link": "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Drei Monate nach den schweren Kämpfen im Grenzgebiet zwischen Thailand und Kambodscha haben beide Länder ein Friedensabkommen unterzeichnet. Bei der Zeremonie in der malaysischen Hauptstadt Kuala Lumpur war auch US-Präsident Trump anwesend.",
       "content_length": 240,
       "source": "Deutschlandfunk",
@@ -1095,7 +1122,7 @@
     {
       "title": "Eurovision Song Contest in Wien - Österreichs Kanzler Stocker befürwortet Israels Teilnahme",
       "link": "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-befuerwortet-israels-teilnahme-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Der österreichische Bundeskanzler Stocker hat sich für die Teilnahme Israels am Eurovision Song Contest 2026 in Wien ausgesprochen. Mit der Waffenruhe im Gazastreifen habe sich die Situation verändert, erklärte Stocker.",
       "content_length": 219,
       "source": "Deutschlandfunk",
@@ -1104,7 +1131,7 @@
     {
       "title": "Gazastreifen - Israelische Armee meldet Angriff auf Dschihadisten",
       "link": "https://www.deutschlandfunk.de/israelische-armee-meldet-angriff-auf-dschihadisten-108.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die israelische Armee hat nach eigenen Angaben im Gazastreifen einen Angriff auf einen Dschihadisten der Terrororganisation Islamischer Dschihad ausgeführt.",
       "content_length": 156,
       "source": "Deutschlandfunk",
@@ -1113,7 +1140,7 @@
     {
       "title": "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
       "link": "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "In Deutschland gilt wieder die Normalzeit. In der vergangenen Nacht um 03.00 Uhr wurden die Uhren um eine Stunde von der bisherigen Sommerzeit auf die mitteleuropäische Zeit zurückgestellt. Sie wird umgangssprachlich auch \"Winterzeit\" genannt.",
       "content_length": 243,
       "source": "Deutschlandfunk",
@@ -1122,7 +1149,7 @@
     {
       "title": "Fischerei in der Ostsee - Wissenschaftler fordert Fangstopp von Dorsch und Hering",
       "link": "https://www.deutschlandfunk.de/wissenschaftler-fordert-fangstopp-von-dorsch-und-hering-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Am Montag beraten die Fischereiminister der EU über die künftigen Fangmengen in der Ostsee. Im Mittelpunkt stehen dabei die Bestände von Dorsch und Hering. Diese sind durch Überfischung und Umwelteinflüsse stark zurückgegangen. Ein deutscher Wissenschaftler fordert deshalb einen Fangstopp.",
       "content_length": 290,
       "source": "Deutschlandfunk",
@@ -1131,8 +1158,8 @@
     {
       "title": "Chemnitz - Deutscher Umweltpreis für innovatives Verzinkungsverfahren und Forschungen zum Klimasystem",
       "link": "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-innovatives-verzinkungsverfahren-und-forschungen-zum-klimasystem-102.html",
-      "published": "2025-10-26T16:19:12",
-      "content": "In der Kulturhauptstadt Chemnitz wird heute der Deutsche Umweltpreis verliehen. Die vom Bundespräsidenten überreichte Auszeichnung gehört zu den höchstdotierten Umweltpreisen. Geehrt werden eine Schweizer Klimaforscherin und ein Unternehmen aus Nordrhein-Westfalen für sein ressourcenschonendes Verzinkungsverfahren.",
+      "published": "2025-10-26T17:45:31",
+      "content": "In der Kulturhauptstadt Chemnitz ist der Deutsche Umweltpreis verliehen worden. Die vom Bundespräsidenten überreichte Auszeichnung gehört zu den höchstdotierten Umweltpreisen. Geehrt wurden eine Schweizer Klimaforscherin und ein Unternehmen aus Nordrhein-Westfalen für sein ressourcenschonendes Verzinkungsverfahren.",
       "content_length": 316,
       "source": "Deutschlandfunk",
       "category": "German News"
@@ -1140,7 +1167,7 @@
     {
       "title": "Republik Irland - Linksgerichtete Kandidatin Connolly gewinnt Präsidentenwahl",
       "link": "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-gewinnt-praesidentenwahl-106.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "In Irland hat die linksgerichtete, unabhängige Abgeordnete Connolly die Präsidentschaftswahl gewonnen. Nach offiziellen Angaben erhielt sie 63 Prozent der Stimmen und gewann damit gegen die frühere Ministerin Humphreys von der Mitte-Rechts-Partei Fine Gael.",
       "content_length": 257,
       "source": "Deutschlandfunk",
@@ -1149,7 +1176,7 @@
     {
       "title": "BBC-Interview - Kamala Harris hält sich erneute Präsidentschaftskandidatur offen",
       "link": "https://www.deutschlandfunk.de/kamala-harris-haelt-sich-erneute-praesidentschaftskandidatur-offen-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die demokratische US-Politikerin Harris hält sich eine erneute Kandidatur für das Präsidentenamt offen.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -1158,7 +1185,7 @@
     {
       "title": "Timor-Leste - Osttimor tritt Staatenbündnis ASEAN als elftes Mitglied bei",
       "link": "https://www.deutschlandfunk.de/osttimor-tritt-staatenbuendnis-asean-als-elftes-mitglied-bei-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Osttimor ist der Vereinigung südostasiatischer Staaten beigetreten.",
       "content_length": 67,
       "source": "Deutschlandfunk",
@@ -1167,7 +1194,7 @@
     {
       "title": "Japan - Neue Regierungschefin Takaichi: \"Stärkung der Beziehungen zu USA höchste Priorität\"",
       "link": "https://www.deutschlandfunk.de/neue-regierungschefin-takaichi-staerkung-der-beziehungen-zu-usa-hoechste-prioritaet-106.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Japans neue Premierministerin Takaichi hat die Stärkung der Beziehungen zwischen ihrem Land und den USA zu einem ihrer vorrangigen Ziele erklärt.",
       "content_length": 145,
       "source": "Deutschlandfunk",
@@ -1176,7 +1203,7 @@
     {
       "title": "Wirbelsturm - Wirbelsturm \"Melissa\" weitet sich zu Hurrikan vor Jamaika aus",
       "link": "https://www.deutschlandfunk.de/wirbelsturm-melissa-weitet-sich-zu-hurrikan-vor-jamaika-aus-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "In der Karibik hat sich der Wirbelsturm \"Melissa\" zu einem Hurrikan der Kategorie eins ausgeweitet.",
       "content_length": 99,
       "source": "Deutschlandfunk",
@@ -1185,7 +1212,7 @@
     {
       "title": "US-Schauspielerin - \"Lassie\"-Star June Lockhart im Alter von 100 Jahren gestorben",
       "link": "https://www.deutschlandfunk.de/lassie-star-june-lockhart-im-alter-von-100-jahren-gestorben-100.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Die US-Schauspielerin June Lockhart ist tot.",
       "content_length": 44,
       "source": "Deutschlandfunk",
@@ -1194,7 +1221,7 @@
     {
       "title": "Tennis - Zverev unterliegt Sinner im ATP-Finale in Wien",
       "link": "https://www.deutschlandfunk.de/zverev-unterliegt-sinner-im-atp-finale-in-wien-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Tennisprofi Alexander Zverev hat das Finale von Wien gegen den Weltranglisten-Zweiten Jannik Sinner verloren und damit seinen zweiten ATP-Titel in dieser Saison verpasst.",
       "content_length": 170,
       "source": "Deutschlandfunk",
@@ -1203,7 +1230,7 @@
     {
       "title": "Ski-Weltcup - Anton Grammel bester Deutscher auf Platz 11 im Riesenslalom - Schweizer Odermatt gewinnt",
       "link": "https://www.deutschlandfunk.de/anton-grammel-bester-deutscher-auf-platz-11-im-riesenslalom-schweizer-odermatt-gewinnt-102.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Den deutschen Skirennläufern ist ein vielversprechender Start in den Olympia-Winter gelungen. Beim Weltcup-Riesenslalom in Sölden schafften es vier DSV-Starter ins Finale, bester war am Ende Anton Grammel.",
       "content_length": 205,
       "source": "Deutschlandfunk",
@@ -1212,7 +1239,7 @@
     {
       "title": "Wetter - Im Norden Regen, im Süden nur einzelne Schauer",
       "link": "https://www.deutschlandfunk.de/im-norden-regen-im-sueden-nur-einzelne-schauer-120.html",
-      "published": "2025-10-26T16:19:12",
+      "published": "2025-10-26T17:45:31",
       "content": "Das Wetter: Das Bundesamt für Seeschiffahrt und Hydrographie warnt vor einer Sturmflut im Laufe des Abends für die gesamte Nordseeeküste und das Elbgebiet. In der Nacht kaum Auflockerungen und von Westen aufziehender, teils kräftiger Regen. Oberhalb von 1.000 Metern Schneeregen oder Schnee. Dort Tiefsttemperaturen um 0 Grad, sonst 7 bis 1 Grad. Morgen verbreitet Niederschläge, teils auch Wolkenauflockerungen. Höchstwerte 7 bis 13 Grad.",
       "content_length": 439,
       "source": "Deutschlandfunk",
@@ -1309,6 +1336,15 @@
       "category": "International News"
     },
     {
+      "title": "US and China reach ‘final deal’ on TikTok sale, treasury secretary says",
+      "link": "https://www.theguardian.com/technology/2025/oct/26/us-china-tiktok-deal-scott-bessent",
+      "published": "2025-10-26T16:25:00",
+      "content": "Scott Bessent said plan was part of framework for trade deal but did not share details on transferring app’s ownershipMurdoch, Ellison and China: what we know about the US’s TikTok dealUS treasury secretary Scott Bessent claimed on Sunday that the US and China have finalized the details of a deal transferring TikTok’s US version to new owners.“We reached a final deal on TikTok,” Bessent said on Sunday on CBS’s Face the Nation with Margaret Brennan. Alluding to Donald Trump and his Chinese counterpart, Xi Jinping, Bessent continued: “We reached [a deal] in Madrid, and I believe that as of today, all the details are ironed out, and that will be for the two leaders to consummate that transaction” during a meeting scheduled for Thursday in Korea. Continue reading...",
+      "content_length": 772,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Trump oversees Thailand-Cambodia ceasefire signing as Asia tour gets under way",
       "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-oversees-thailand-cambodia-ceasefire-signing-as-asia-tour-gets-under-way",
       "published": "2025-10-26T10:28:05",
@@ -1341,15 +1377,6 @@
       "published": "2025-10-24T16:42:45",
       "content": "Boy, 13, swallowed the high-power magnets after apparently buying them from the online retailer TemuA 13-year-old boy in New Zealand swallowed up to 100 high-power magnets he bought online, forcing surgeons to remove tissue from his intestines, doctors said on Friday.After suffering four days of abdominal pain, the unnamed teenager was taken to Tauranga hospital in the North Island. “He disclosed ingesting approximately 80 to 100 5x2mm high-power (neodymium) magnets about one week prior,” said a report by hospital doctors in the New Zealand Medical Journal. Continue reading...",
       "content_length": 583,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "‘Sacred sanctuary’: North Korea starts building memorial to soldiers killed in Ukraine war",
-      "link": "https://www.theguardian.com/world/2025/oct/24/north-korea-building-memorial-to-soldiers-killed-ukraine-war",
-      "published": "2025-10-24T01:09:22",
-      "content": "At least 600 North Korean soldiers have been killed and thousands more wounded fighting in Russia’s war against UkraineNorth Korea has begun constructing a memorial for its soldiers killed fighting in Russia’s war on Ukraine, state media reported, as leader Kim Jong-un hailed a “historic peak” in ties with Moscow.The so-called Memorial Museum of Combat Feats will be built in the capital, Pyongyang, where Kim and Russia’s ambassador to North Korea attended a groundbreaking ceremony, according to a reports by the Korean Central News Agency on Thursday. Continue reading...",
-      "content_length": 576,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1399,6 +1426,15 @@
       "category": "International News"
     },
     {
+      "title": "Boy thrown from Tate Modern’s 10th floor now able to run and swim, says family",
+      "link": "https://www.theguardian.com/artanddesign/2025/oct/26/boy-thrown-from-tate-moderns-10th-floor-now-able-to-run-and-swim-says-family",
+      "published": "2025-10-26T17:14:08",
+      "content": "French child, who was six years old at the time of the incident in 2019, suffered life-changing injuriesA boy who was thrown from the 10th floor of the Tate Modern in London six years ago, can now run and swim limited distances his family has revealed.The unnamed French boy, who his parents call their “little knight” suffered life-changing injuries in the attack in August 2019. Jonty Bravery is serving 15 years for his attempt to murder the boy. Continue reading...",
+      "content_length": 469,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "French police arrest two men over €88m Louvre jewel heist",
       "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
       "published": "2025-10-26T15:32:10",
@@ -1431,15 +1467,6 @@
       "published": "2025-10-26T06:53:34",
       "content": "Vitali Klitschko says six children hurt in overnight attack that sparked fires in apartment buildingsAn overnight Russian drone attack on Kyiv killed three people and wounded dozens, the mayor of the Ukrainian capital has said.The head of Kyiv’s military administration said early on Sunday that “several” Russian drones were operating over the city, and warned people to “remain in shelters”. Continue reading...",
       "content_length": 413,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "At least four killed in Russian strikes overnight on Ukraine",
-      "link": "https://www.theguardian.com/world/2025/oct/25/russian-overnight-strikes-ukraine-zelenskyy-sanctions-oil",
-      "published": "2025-10-25T22:15:22",
-      "content": "Attacks come after Volodymyr Zelenskyy appeals to US for long-range missiles and urges allies to expand sanctions on Russian oilRussian missile and drone attacks on Ukraine overnight into Saturday killed at least four people and wounded 20, officials said, and prompted fresh pleas from Ukraine’s president for western air defence systems.In the capital, Kyiv, two people were killed and 13 were wounded in a ballistic missile attack in the early hours of Saturday, Kyiv’s police said. Continue reading...",
-      "content_length": 505,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1534,11 +1561,20 @@
       "category": "International News"
     },
     {
+      "title": "Prince Andrew could face parliamentary debate over conduct",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/prince-andrew-could-face-parliamentary-debate-over-conduct-royal-lodge",
+      "published": "2025-10-26T16:47:06",
+      "content": "Liberal Democrats are exploring options while calling for crown estate and prince to give evidence under oathPrince Andrew could face a parliamentary debate on his conduct despite the government so far refusing to allocate time in the House of Commons, as the Liberal Democrats indicated they were exploring ways of raising the issue including in an opposition day debate.Andrew is reportedly in advanced talks with the king’s representatives over moving out of the 30-room Grade II-listed Royal Lodge at Windsor, despite his “cast-iron” lease running until 2078. Continue reading...",
+      "content_length": 583,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Epping sex offender back in custody after release from prison in error",
       "link": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
       "published": "2025-10-26T16:03:13",
-      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, detained again and faces deportationTimeline: From arrival in the UK to release in error and rearrestA former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation.Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
-      "content_length": 538,
+      "content": "Hadush Gerberslasie Kebatu, whose case led to summer protests in Essex, detained again and faces deportationTimeline: From arrival in the UK to release in error and rearrestA former asylum seeker and convicted sex offender who was released from prison in error is back in custody and faces deportation.Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
+      "content_length": 535,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1570,18 +1606,18 @@
       "category": "International News"
     },
     {
-      "title": "Reform MP’s remarks about TV adverts were ‘racist’, says Wes Streeting",
-      "link": "https://www.theguardian.com/politics/2025/oct/26/wes-streeting-sarah-pochin-tv-advert-remarks-racist",
-      "published": "2025-10-26T14:06:59",
-      "content": "Health secretary hardens Labour line after Sarah Pochin said advertising ‘doesn’t reflect our society’Wes Streeting has accused the Reform UK MP Sarah Pochin of making racist remarks after she said seeing adverts full of black and Asian people “drives her mad”.The health secretary said Pochin was “only sorry she’s been caught and called out”, adding she had “said the quiet bit loud”, as he warned of a return to “1970s, 1980s-style racism”. Continue reading...",
-      "content_length": 463,
+      "title": "Gavin Newsom confirms he is considering 2028 presidential run",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/gavin-newsom-2028-presidential-race",
+      "published": "2025-10-26T17:31:20",
+      "content": "Democratic California governor and high-profile Trump critic plans to make decision after 2026 midtermsGavin Newsom, California’s Democratic governor, told CBS News Sunday Morning he plans to make a decision on whether to run for president in 2028 once the 2026 midterm elections are over.“Yeah, I’d be lying otherwise,” Newsom said in response to a question on whether he would give serious thought to a White House bid after the 2026 elections. “I’d just be lying. And I’m not – I can’t do that.” Continue reading...",
+      "content_length": 518,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
       "title": "Trump told Pence ‘you’ll go down as a wimp’ in January 6 phone call, book says",
       "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-pence-call-january-6-book",
-      "published": "2025-10-26T16:09:21",
+      "published": "2025-10-26T17:04:37",
       "content": "Book cites Pence’s notes from call with Trump, who called vice-president a ‘wimp’ if he certified Biden’s 2020 victoryOn the day that his supporters attacked the US Capitol because his 2020 re-election run ended in defeat, Donald Trump called his vice-president at the time, Mike Pence, and told him he would go down in history as a “wimp” if he certified the election result, a new book says.Those details were revealed on Sunday when ABC News published a preview excerpt of an upcoming book by its political correspondent Jonathan Karl. The book, titled Retribution, cites Pence’s notes from the 6 January 2021 phone call with Trump, who was purportedly trying to shame his vice-president into refusing to certify Joe Biden’s victory weeks earlier in the White House. Continue reading...",
       "content_length": 789,
       "source": "The Guardian World",
@@ -1615,12 +1651,30 @@
       "category": "International News"
     },
     {
-      "title": "Gun violence prevention groups disqualified from grants built around their work",
-      "link": "https://www.theguardian.com/us-news/2025/oct/26/gun-violence-prevention-non-profit-grants-disqualified",
-      "published": "2025-10-26T11:00:01",
-      "content": "Trump administration altering program that was a lifeline for pioneering non-profits helping reduce gun violenceThe Trump administration has released solicitations for a grant program meant to stop gun violence in underserved communities. But this year, the non-profits the grant was built around are disqualified from applying, according to an application notice released by the Department of Justice (DoJ) in September.The Community Based Violence Intervention and Prevention Initiative (CVIPI), was created in 2022, to support groups working in rural and urban communities struggling to address violence and fund research studying the programs’ efficacy. Continue reading...",
-      "content_length": 677,
-      "source": "The Guardian World",
+      "title": "Red Cross, Egyptian teams join search for dead hostages in Gaza",
+      "link": "https://www.france24.com/en/middle-east/20251026-red-cross-egyptian-teams-join-search-for-dead-hostages-in-gaza",
+      "published": "2025-10-26T17:36:16",
+      "content": "Teams from the Red Cross and Egypt have joined the search for the remains of hostages still buried in the rubble of the devastated Gaza Strip, an Israeli spokesperson said Sunday. Hamas said it has widened its search for the dead hostages, whose return is fundamental to the US-brokered ceasefire.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French police arrest suspects linked to Louvre jewellery heist",
+      "link": "https://www.france24.com/en/video/20251026-french-police-arrest-suspects-linked-to-louvre-jewellery-heist",
+      "published": "2025-10-26T16:16:01",
+      "content": "Suspects have been arrested in connection with the theft of crown jewels from Paris’ Louvre museum, the Paris prosecutor said on Sunday, a week after the heist that stunned the world. The prosecutor said that investigators made the arrests on Saturday evening, adding that one of the men taken into custody was preparing to leave the country from Paris Charles de Gaulle Airport.",
+      "content_length": 379,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nigerian regulator wants more control of TikTok: 'It eats our youth's time'",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20251026-nigerian-regulator-wants-more-control-of-tiktok-it-eats-our-youth-s-time",
+      "published": "2025-10-26T15:53:12",
+      "content": "Nigeria’s technology regulator says the country must wield more power over TikTok, setting their own rules rather than relying on global content policies.",
+      "content_length": 154,
+      "source": "France 24 English",
       "category": "International News"
     },
     {
@@ -1809,33 +1863,6 @@
       "published": "2025-10-26T09:55:11",
       "content": "Students at a Serbian high school have blocked entry to their campus for two weeks in protest against the government — the first school to join mass demonstrations sweeping the country. Authorities are now moving to regain control of High School No. 5. Serbia has been rocked by months of protests against President Aleksandar Vucic’s government, with thousands rallying nationwide. The Serbian leader faces mounting accusations of stifling democratic freedoms while allowing crime and corruption to flourish.",
       "content_length": 509,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Trump attends Thailand–Cambodia ceasefire signing in Malaysia",
-      "link": "https://www.france24.com/en/video/20251026-trump-attends-thailand%E2%80%93cambodia-ceasefire-signing-in-malaysia",
-      "published": "2025-10-26T09:53:21",
-      "content": "Thailand and Cambodia signed an expanded ceasefire agreement on Sunday during a ceremony attended by US President Donald Trump, whose threats of economic pressure pushed the two nations to halt skirmishes along their disputed border earlier this year. “There are questions of just how long this peace agreement will last,” FRANCE 24’s Adam Hancock said, noting that the decades-long conflict has already seen several breaches of the ceasefire agreed in July.",
-      "content_length": 458,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Two suspects arrested over Louvre museum jewellery heist",
-      "link": "https://www.france24.com/en/live-news/20251026-two-arrested-over-louvre-museum-heist-sources-close-to-the-investigation-say",
-      "published": "2025-10-26T09:31:33",
-      "content": "French authorities have made arrests in connection with the robbery at the Louvre museum last week, the Paris prosecutor said on Sunday, adding that one of the suspects was arrested at Charles de Gaulle airport as he was about to leave the country.",
-      "content_length": 248,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "What’s at stake as Brazil welcomes the COP30 climate change summit",
-      "link": "https://www.france24.com/en/environment/20251026-whats-at-stake-brazil-belem-cop30-un-climate-change-summit",
-      "published": "2025-10-26T09:29:25",
-      "content": "The UN Climate Change Conference (COP30) will be held in Belem, Brazil, from November 12-16, with issues like deforestation and financing climate action in developing countries expected to loom large.",
-      "content_length": 200,
       "source": "France 24 English",
       "category": "International News"
     },
@@ -2832,14 +2859,14 @@
   ],
   "stats": {
     "by_category": {
-      "German News": 135,
+      "German News": 138,
       "International News": 69,
       "Tech News": 110
     },
     "by_source": {
       "Tagesschau": 40,
       "Tagesschau Ausland": 64,
-      "Deutschlandfunk": 31,
+      "Deutschlandfunk": 34,
       "The Guardian World": 45,
       "France 24 English": 24,
       "Ars Technica": 20,

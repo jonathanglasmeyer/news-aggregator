@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-26T17:50:47.989326",
+    "deduplicated_at": "2025-10-26 17:50:47",
+    "lookback_days": 7,
+    "total_input": 367,
+    "duplicates_removed": 354,
+    "new_articles": 13,
+    "deduplication_rate": "96.5%",
+    "historical_files_checked": 3
+  },
+  "articles": [
+    {
+      "title": "Umstrittene Merz-Äußerung - Union verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
+      "link": "https://www.deutschlandfunk.de/union-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Die Union hat sich verärgert über die Teilnahme einer führenden SPD-Politikerin an den Demonstrationen gegen die umstrittene \"Stadtbild\"-Äußerung von Bundeskanzler Merz gezeigt. Die stellvertretende SPD-Fraktionsvorsitzende Esdar hatte sich am Freitagabend an einer Kundgebung in Bielefeld unter dem Motto \"Wir sind das Stadtbild\" beteiligt.",
+      "content_length": 341,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bayern - Bürgerentscheid in München über Olympia-Bewerbung beendet",
+      "link": "https://www.deutschlandfunk.de/buergerentscheid-in-muenchen-ueber-olympia-bewerbung-beendet-104.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "In München haben die Menschen über eine Bewerbung der Stadt für die Ausrichtung Olympischer und Paralympischer Sommerspiele entschieden. Die Stimmlokale für den Bürgerentscheid schlossen um 18 Uhr. Erste Ergebnisse werden im Laufe des Abends erwartet.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - Leverkusen siegt gegen Freiburg mit 2:0",
+      "link": "https://www.deutschlandfunk.de/leverkusen-siegt-gegen-freiburg-mit-2-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "Im ersten Sonntagsspiel der Fußball-Bundesliga hat Bayer Leverkusen mit 2:0 gegen den SC Freiburg gewonnen.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elfenbeinküste - Ergebnisse der Präsidentenwahl erwartet",
+      "link": "https://www.deutschlandfunk.de/ergebnisse-der-praesidentenwahl-erwartet-100.html",
+      "published": "2025-10-26T17:45:31",
+      "content": "In der Republik Elfenbeinküste werden noch für den Lauf des Abends erste Ergebnisse der gestrigen Präsidentenwahl erwartet.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Pakistan meldet Verletzung der Waffenruhe an Grenze zu Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-kaempfe-104.html",
+      "published": "2025-10-26T17:36:23",
+      "content": "   Erst vor einer Woche hatten sich Pakistan und Afghanistan auf eine Waffenruhe verständigt. Während sie in Istanbul Gespräche über einen dauerhaften Frieden führen, hat es nun offenbar erneut Kämpfe mit Toten gegeben.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Red Cross, Egyptian teams join search for dead hostages in Gaza",
+      "link": "https://www.france24.com/en/middle-east/20251026-red-cross-egyptian-teams-join-search-for-dead-hostages-in-gaza",
+      "published": "2025-10-26T17:36:16",
+      "content": "Teams from the Red Cross and Egypt have joined the search for the remains of hostages still buried in the rubble of the devastated Gaza Strip, an Israeli spokesperson said Sunday. Hamas said it has widened its search for the dead hostages, whose return is fundamental to the US-brokered ceasefire.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gavin Newsom confirms he is considering 2028 presidential run",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/gavin-newsom-2028-presidential-race",
+      "published": "2025-10-26T17:31:20",
+      "content": "Democratic California governor and high-profile Trump critic plans to make decision after 2026 midtermsGavin Newsom, California’s Democratic governor, told CBS News Sunday Morning he plans to make a decision on whether to run for president in 2028 once the 2026 midterm elections are over.“Yeah, I’d be lying otherwise,” Newsom said in response to a question on whether he would give serious thought to a White House bid after the 2026 elections. “I’d just be lying. And I’m not – I can’t do that.” Continue reading...",
+      "content_length": 518,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Beschädigung von Seekabeln - Sorge um Taiwans Lebensadern",
+      "link": "https://www.tagesschau.de/ausland/asien/taiwan-bedrohung-volksrepublik-100.html",
+      "published": "2025-10-26T17:20:11",
+      "content": "   Fremde Schiffe schleifen ihre Anker hinter sich her: Rund um Taiwan häufen sich die Schadensfälle an Seekabeln. Aus Sicht von Sicherheitsexperten spricht viel für Absicht - und eine Verwicklung Chinas. Von U. Mendgen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Boy thrown from Tate Modern’s 10th floor now able to run and swim, says family",
+      "link": "https://www.theguardian.com/artanddesign/2025/oct/26/boy-thrown-from-tate-moderns-10th-floor-now-able-to-run-and-swim-says-family",
+      "published": "2025-10-26T17:14:08",
+      "content": "French child, who was six years old at the time of the incident in 2019, suffered life-changing injuriesA boy who was thrown from the 10th floor of the Tate Modern in London six years ago, can now run and swim limited distances his family has revealed.The unnamed French boy, who his parents call their “little knight” suffered life-changing injuries in the attack in August 2019. Jonty Bravery is serving 15 years for his attempt to murder the boy. Continue reading...",
+      "content_length": 469,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Prince Andrew could face parliamentary debate over conduct",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/prince-andrew-could-face-parliamentary-debate-over-conduct-royal-lodge",
+      "published": "2025-10-26T16:47:06",
+      "content": "Liberal Democrats are exploring options while calling for crown estate and prince to give evidence under oathPrince Andrew could face a parliamentary debate on his conduct despite the government so far refusing to allocate time in the House of Commons, as the Liberal Democrats indicated they were exploring ways of raising the issue including in an opposition day debate.Andrew is reportedly in advanced talks with the king’s representatives over moving out of the 30-room Grade II-listed Royal Lodge at Windsor, despite his “cast-iron” lease running until 2078. Continue reading...",
+      "content_length": 583,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US and China reach ‘final deal’ on TikTok sale, treasury secretary says",
+      "link": "https://www.theguardian.com/technology/2025/oct/26/us-china-tiktok-deal-scott-bessent",
+      "published": "2025-10-26T16:25:00",
+      "content": "Scott Bessent said plan was part of framework for trade deal but did not share details on transferring app’s ownershipMurdoch, Ellison and China: what we know about the US’s TikTok dealUS treasury secretary Scott Bessent claimed on Sunday that the US and China have finalized the details of a deal transferring TikTok’s US version to new owners.“We reached a final deal on TikTok,” Bessent said on Sunday on CBS’s Face the Nation with Margaret Brennan. Alluding to Donald Trump and his Chinese counterpart, Xi Jinping, Bessent continued: “We reached [a deal] in Madrid, and I believe that as of today, all the details are ironed out, and that will be for the two leaders to consummate that transaction” during a meeting scheduled for Thursday in Korea. Continue reading...",
+      "content_length": 772,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "French police arrest suspects linked to Louvre jewellery heist",
+      "link": "https://www.france24.com/en/video/20251026-french-police-arrest-suspects-linked-to-louvre-jewellery-heist",
+      "published": "2025-10-26T16:16:01",
+      "content": "Suspects have been arrested in connection with the theft of crown jewels from Paris’ Louvre museum, the Paris prosecutor said on Sunday, a week after the heist that stunned the world. The prosecutor said that investigators made the arrests on Saturday evening, adding that one of the men taken into custody was preparing to leave the country from Paris Charles de Gaulle Airport.",
+      "content_length": 379,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nigerian regulator wants more control of TikTok: 'It eats our youth's time'",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20251026-nigerian-regulator-wants-more-control-of-tiktok-it-eats-our-youth-s-time",
+      "published": "2025-10-26T15:53:12",
+      "content": "Nigeria’s technology regulator says the country must wield more power over TikTok, setting their own rules rather than relying on global content policies.",
+      "content_length": 154,
+      "source": "France 24 English",
+      "category": "International News"
+    }
+  ]
+}
