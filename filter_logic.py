@@ -61,7 +61,7 @@ BLACKLIST_KEYWORDS = [
 
     # Frickel-Hardware (kein Raspberry Pi, Arduino, E-Reader etc.)
     'raspberry pi', 'raspi', 'arduino', 'e-reader', 'e-ink',
-    'einplatinencomputer', 'single-board computer', 'maker',
+    'einplatinencomputer', 'single-board computer',
     'diy hardware',
 ]
 
