@@ -1,11 +1,11 @@
 # News Aggregation Bot - Project Brief
 
 ## Project Overview
-Weekly automated news digest system that fetches German news feeds, filters content using Claude AI, and delivers personalized summaries to Discord.
+Daily automated news digest system that fetches German news feeds, filters content using Claude AI, and delivers personalized summaries to Discord.
 
 ## Goals
 - Eliminate noise from traditional news sources (opinion pieces, irrelevant content)
-- Receive curated world news once per week
+- Receive curated world news daily
 - Zero-cost or low-cost solution (~80€/year acceptable)
 - Fully automated execution
 
@@ -14,9 +14,9 @@ Weekly automated news digest system that fetches German news feeds, filters cont
 ### Core Components
 - **RSS Feeds**: Direct feed access (no Inoreader needed - tested successfully)
 - **Claude Agent SDK (Python)**: Content filtering and summarization via Anthropic API
-- **Discord Webhook**: Delivery mechanism (post-MVP)
+- **Discord Webhook**: Delivery mechanism
 - **Python 3.11+**: Implementation language
-- **GitHub Actions**: Weekly cron execution
+- **GitHub Actions**: Daily cron execution
 
 ### Claude Integration
 Using Anthropic API directly with Claude Pro/Max plan:
@@ -33,11 +33,11 @@ Using Anthropic API directly with Claude Pro/Max plan:
 
 ### Current Pipeline (5 Stages)
 
-**Execution:** Daily at 8:00 AM UTC via GitHub Actions
+**Execution:** Daily at 7:00 AM UTC (8:00 AM German time MEZ) via GitHub Actions
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  GitHub Actions (Daily Cron: 0 8 * * *)             │
+│  GitHub Actions (Daily Cron: 0 7 * * *)             │
 └──────┬──────────────────────────────────────────────┘
        │
        │ Stage 1: Fetch RSS Feeds
@@ -64,8 +64,8 @@ Using Anthropic API directly with Claude Pro/Max plan:
 ┌──────▼──────────────────────────┐
 │  stage2_5_deduplicate.py        │
 │  - Check last 7 days            │
-│  - Title similarity matching    │
-│  - Remove duplicates            │
+│  - URL-based deduplication      │
+│  - Filters ~80% duplicates      │
 └──────┬──────────────────────────┘
        │
        │ Stage 3: Remote Embedding Filter
@@ -75,13 +75,13 @@ Using Anthropic API directly with Claude Pro/Max plan:
 │  - SSH to Hetzner VPS           │
 │  - POST JSON via curl           │
 │  - Keyword blacklist filter     │
-│  - Output: ~250-280 articles    │
+│  - Output: ~50-60 articles      │
 └──────┬──────────────────────────┘
        │  ┌─────────────────────────┐
        └─▶│ Hetzner VPS (Port 3007) │
           │ - FastAPI service       │
           │ - Docker container      │
-          │ - 129 blacklist keywords│
+          │ - 128 blacklist keywords│
           └─────────────────────────┘
        │
        │ Stage 4: Claude AI Filter
@@ -94,7 +94,8 @@ Using Anthropic API directly with Claude Pro/Max plan:
 │    * MUST-KNOW (world events)   │
 │    * INTERESSANT (tech/AI)      │
 │    * NICE-TO-KNOW (grouped)     │
-│  - Output: Markdown digest      │
+│  - Compact bullet formatting    │
+│  - Output: ~15-20 final items   │
 └──────┬──────────────────────────┘
        │
        │ Stage 5: Post to Discord
@@ -103,8 +104,8 @@ Using Anthropic API directly with Claude Pro/Max plan:
 │  stage5_discord_webhook.py      │
 │  - Format for Discord           │
 │  - Smart chunking (<2000 chars) │
-│  - Header spacing fixes         │
-│  - Zero-width space separators  │
+│  - Section-aware zero-width sep │
+│  - Compact NICE-TO-KNOW bullets │
 │  - Posts 10-15 messages         │
 └─────────────────────────────────┘
 ```
@@ -154,31 +155,34 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 3. **Stage 2.5: Deduplication**
    - 7-day lookback window
-   - Title similarity matching
+   - URL-based deduplication (fixed: was using wrong key 'url' instead of 'link')
+   - Filters ~80% duplicates effectively
    - File: `stage2_5_deduplicate.py`
 
 4. **Stage 3: Remote Embedding Filter**
    - Hetzner VPS deployment (Docker)
    - SSH + curl integration
-   - 129 keyword blacklist
+   - 128 keyword blacklist (removed 'maker' for false positives)
    - Files: `stage3_embed_filter_remote.py`, `embedding_service.py`
 
 5. **Stage 4: Claude AI Filter**
    - Claude Agent SDK integration
    - 3-tier categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
    - Prompt version 4 (tested and working)
+   - Compact bullet point post-processing (removes unwanted blank lines)
    - File: `stage4_filter.py`
 
 6. **Stage 5: Discord Delivery**
    - Smart chunking (<2000 chars)
-   - Header spacing fixes
-   - Message separation with zero-width spaces
+   - Section-aware zero-width space separators
+   - Compact NICE-TO-KNOW bullet lists
    - File: `stage5_discord_webhook.py`
 
 7. **GitHub Actions Automation**
-   - Daily cron: 8:00 AM UTC
+   - Daily cron: 7:00 AM UTC (8:00 AM German time MEZ)
    - SSH key setup for Hetzner
    - Secret management (5 secrets)
+   - Write permissions for automated commits
    - File: `.github/workflows/daily-digest.yml`
 
 ### 🔄 Ongoing Optimization
@@ -209,8 +213,8 @@ Discord Channel           → Webhook posts (10-15 messages)
 - **Limit**: 2000 chars per message
 - **Rate limit**: 1 request/second
 - **Formatting**:
-  - Zero-width space (`\u200b`) for message separation
-  - Triple-regex fix for h1 header spacing
+  - Section-aware zero-width space separators (only MUST-KNOW/INTERESSANT)
+  - Compact bullet lists in NICE-TO-KNOW (no blank lines)
   - Link preview suppression with `<URL>`
 
 ### GitHub Actions Secrets
@@ -237,16 +241,17 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 ### ✅ Achieved
 - Zero manual intervention (fully automated)
-- Daily digest delivered at 8:00 AM UTC
+- Daily digest delivered at 7:00 AM UTC (8:00 AM German time)
 - 3-tier categorization working (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
-- ~7-12 MUST-KNOW articles per day
-- ~10-15 INTERESSANT items per day
-- Complete end-to-end pipeline tested in GitHub Actions
+- Deduplication filters ~80% duplicates (350 → 57 articles)
+- Final output: ~15-20 curated articles per day
+- Complete end-to-end pipeline tested and validated in GitHub Actions
+- Automated commits to repository with results
 
 ### 🔄 Monitoring
 - Relevance quality (ongoing prompt refinement)
-- Deduplication effectiveness (7-day window)
-- Discord formatting (header spacing, message separation)
+- Deduplication effectiveness (currently 80-85% duplicate rate)
+- Discord formatting (section-aware separators, compact bullets)
 - Claude API costs (included in Pro subscription)
 
 ## Key Architectural Decisions
@@ -265,9 +270,11 @@ Discord Channel           → Webhook posts (10-15 messages)
 
 1. **RSS feeds are more accessible than expected** - No Cloudflare blocking encountered
 2. **Two-stage filtering works well** - Keyword blacklist (Stage 3) + AI (Stage 4)
-3. **Deduplication is essential** - Prevents repeated coverage of same stories
-4. **Discord formatting is finicky** - Requires zero-width spaces and triple-regex fixes
-5. **GitHub Actions SSH needs careful setup** - Ed25519 keys, known_hosts handling
+3. **Deduplication is essential** - Prevents repeated coverage of same stories (filters ~80% duplicates)
+4. **Silent bugs are dangerous** - Deduplication bug (wrong key 'url' vs 'link') was invisible for days, only caught by examining logs
+5. **Discord formatting is finicky** - Requires section-aware zero-width spaces and post-processing for compact bullets
+6. **GitHub Actions SSH needs careful setup** - Ed25519 keys, known_hosts handling
+7. **LLM output needs post-processing** - Claude adds unwanted blank lines between bullets, regex cleanup required
 
 ## Resources
 

@@ -1,28 +1,108 @@
 # News Aggregation Bot
 
-Weekly automated news digest system that fetches German news feeds, filters content using Claude AI, and delivers personalized summaries to Discord.
+Automated daily news digest system that fetches German/international news feeds, filters content using Claude AI, and delivers curated summaries to Discord.
 
-## Testing Feed Accessibility
+**Status:** ✅ Production - Running daily at 8:00 AM German time
 
-### Local Test (Residential IP)
-```bash
-python test_feeds.py
+## Overview
+
+- 🔄 **Fully automated** via GitHub Actions (no manual intervention)
+- 📰 **15+ RSS sources** (German + international news)
+- 🤖 **AI-powered filtering** with Claude Sonnet 4.5
+- 📊 **Smart deduplication** (~80% duplicate removal)
+- 💬 **Discord delivery** with clean, formatted messages
+- 📈 **Final output:** ~15-20 curated articles per day
+
+## Pipeline
+
+```
+RSS Feeds (350 articles)
+  → Deduplication (→57 articles, 80% filtered)
+  → Keyword Filter (→50 articles)
+  → Claude AI (→15-20 articles)
+  → Discord Webhook
 ```
 
-### GitHub Actions Test (Datacenter IP)
-The workflow `.github/workflows/test-feeds.yml` tests if feeds are accessible from GitHub Actions runners (Azure IPs).
+## Quick Start
 
-To run:
-1. Push this repo to GitHub
-2. Go to Actions tab
-3. Run "Test RSS Feed Access" workflow manually
+### Prerequisites
 
-## Setup
+- Python 3.11+
+- [uv](https://github.com/astral-sh/uv) for package management
+- Claude Pro subscription (for Agent SDK)
+
+### Setup
 
 ```bash
-pip install -r requirements.txt
+# Install dependencies
+uv pip install -r requirements.txt
+
+# Setup Claude authentication
+claude setup-token
+
+# Test RSS fetch locally
+uv run python daily_fetch.py
+
+# Test full pipeline
+uv run python stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
+uv run python stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
+uv run python stage3_embed_filter_remote.py data/deduplicated/YYYYMMDD_HHMMSS.json
+uv run python stage4_filter.py data/embedded/YYYYMMDD_HHMMSS.json 4
+uv run python stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
 ```
 
-## Next Steps
+### GitHub Actions Secrets
 
-See [CLAUDE.md](./CLAUDE.md) for full project documentation.
+Required for automated execution:
+
+1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
+2. `DISCORD_WEBHOOK_URL` - Discord delivery
+3. `HETZNER_HOST` - VPS hostname (for embedding service)
+4. `HETZNER_USER` - SSH user
+5. `HETZNER_SSH_KEY` - Private key for SSH
+
+## Architecture
+
+**5-Stage Pipeline:**
+
+1. **Stage 1:** Fetch RSS feeds (15+ sources)
+2. **Stage 2:** Aggregate last 7 days
+3. **Stage 2.5:** Deduplicate by URL (~80% reduction)
+4. **Stage 3:** Keyword blacklist filter (Hetzner VPS, 128 keywords)
+5. **Stage 4:** Claude AI categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
+6. **Stage 5:** Discord webhook delivery
+
+**External Services:**
+
+- Hetzner VPS: Embedding filter service (Docker, port 3007)
+- Discord: Webhook delivery
+- GitHub Actions: Daily execution at 7:00 UTC
+
+## Key Features
+
+### Deduplication
+- 7-day lookback window
+- URL-based matching
+- Filters ~80% duplicates effectively
+
+### AI Filtering
+- 3-tier categorization
+- Tech/AI focus for INTERESSANT tier
+- World news for MUST-KNOW tier
+- Grouped miscellaneous in NICE-TO-KNOW
+
+### Discord Formatting
+- Section-aware zero-width space separators
+- Compact bullet lists in NICE-TO-KNOW
+- Smart chunking (<2000 chars/message)
+
+## Documentation
+
+See [CLAUDE.md](./CLAUDE.md) for complete project documentation, architecture decisions, and technical details.
+
+## Cost
+
+- **Hetzner VPS:** ~€5/month (cheapest tier)
+- **Claude API:** Included in Claude Pro subscription
+- **GitHub Actions:** Free tier (<2000 min/month)
+- **Total:** ~€60/year

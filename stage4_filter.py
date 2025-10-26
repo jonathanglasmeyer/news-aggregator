@@ -42,7 +42,7 @@ async def filter_with_claude(articles, prompt_version="v1"):
 
     # Claude TLDR digest prompt
     # TODO: Make this configurable/versioned
-    prompt = f"""Du erstellst einen wöchentlichen News-Digest für einen technisch interessierten Leser in Deutschland.
+    prompt = f"""Du erstellst einen täglichen News-Digest für einen technisch interessierten Leser in Deutschland.
 
 Fasse nur RELEVANTE Artikel zusammen und priorisiere sie in 3 Tiers:
 
@@ -294,7 +294,7 @@ def save_digest_output(digest_text, input_file, prompt_version="v1"):
     md_filename = f"data/filtered/digest_{timestamp}_v{prompt_version}.md"
 
     with open(md_filename, 'w', encoding='utf-8') as f:
-        f.write(f"# Weekly News Digest\n\n")
+        f.write(f"# Daily News Digest\n\n")
         f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"Source: {input_file}\n\n")
         f.write("---\n\n")
