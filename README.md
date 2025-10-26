@@ -2,26 +2,29 @@
 
 Automated daily news digest system that fetches German/international news feeds, filters content using Claude AI, and delivers curated summaries to Discord.
 
-**Status:** ✅ Production - Running daily at 8:00 AM German time
+**Status:** Production - Running daily at 8:00 AM German time
 
 ## Overview
 
-- 🔄 **Fully automated** via GitHub Actions (no manual intervention)
-- 📰 **15+ RSS sources** (German + international news)
-- 🤖 **AI-powered filtering** with Claude Sonnet 4.5
-- 📊 **Smart deduplication** (~80% duplicate removal)
-- 💬 **Discord delivery** with clean, formatted messages
-- 📈 **Final output:** ~15-20 curated articles per day
+- **Fully automated** via GitHub Actions (no manual intervention)
+- **15+ RSS sources** (German + international news)
+- **AI-powered filtering** with Claude Sonnet 4.5
+- **Smart deduplication** with 7-day lookback
+- **Discord delivery** with clean, formatted messages
+- **Final output:** Highly curated daily digest
 
 ## Pipeline
 
-```
-RSS Feeds (350 articles)
-  → Deduplication (→57 articles, 80% filtered)
-  → Keyword Filter (→50 articles)
-  → Claude AI (→15-20 articles)
-  → Discord Webhook
-```
+The system runs through 5 stages daily:
+
+1. **Fetch RSS Feeds** - Collect articles from 15+ German and international news sources
+2. **Aggregate** - Normalize article format and extract metadata
+3. **Deduplicate** - Remove duplicate articles from the last 7 days
+4. **Keyword Filter** - Apply blacklist of 128 keywords to filter unwanted topics
+5. **AI Categorization** - Claude AI categorizes remaining articles into MUST-KNOW, INTERESSANT, and NICE-TO-KNOW
+6. **Discord Delivery** - Post curated digest to Discord channel
+
+Result: Highly curated daily digest delivered to Discord
 
 ## Quick Start
 
@@ -37,7 +40,7 @@ RSS Feeds (350 articles)
 # Install dependencies
 uv pip install -r requirements.txt
 
-# Setup Claude authentication
+# Setup Claude authentication (generates OAuth token)
 claude setup-token
 
 # Test RSS fetch locally
@@ -51,46 +54,30 @@ uv run python src/pipeline/stage4_filter.py data/filtered_keywords/YYYYMMDD_HHMM
 uv run python src/pipeline/stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
 ```
 
-### GitHub Actions Secrets
+### GitHub Actions Setup
 
-Required for automated execution:
+For automated daily execution, configure these secrets in your GitHub repository:
 
-1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
-2. `DISCORD_WEBHOOK_URL` - Discord delivery
+1. **`CLAUDE_CODE_OAUTH_TOKEN`** - Your Claude OAuth token
+   - Run `claude setup-token` locally to generate
+   - Token is saved in `~/.claude/config`
+   - Add to GitHub Secrets for workflow access
+   - Requires Claude Pro subscription
 
-## Architecture
-
-**5-Stage Pipeline:**
-
-1. **Stage 1:** Fetch RSS feeds (15+ sources)
-2. **Stage 2:** Aggregate last 7 days
-3. **Stage 2.5:** Deduplicate by URL (~80% reduction)
-4. **Stage 3:** Local keyword blacklist filter (128 keywords)
-5. **Stage 4:** Claude AI categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
-6. **Stage 5:** Discord webhook delivery
-
-**External Services:**
-
-- Discord: Webhook delivery
-- GitHub Actions: Daily execution at 7:00 UTC
+2. **`DISCORD_WEBHOOK_URL`** - Discord webhook URL
+   - Create webhook in Discord server settings
+   - Format: `https://discord.com/api/webhooks/...`
 
 ## Key Features
 
-### Deduplication
-- 7-day lookback window
-- URL-based matching
-- Filters ~80% duplicates effectively
-
 ### AI Filtering
-- 3-tier categorization
-- Tech/AI focus for INTERESSANT tier
-- World news for MUST-KNOW tier
-- Grouped miscellaneous in NICE-TO-KNOW
+- Claude AI categorizes articles by relevance and importance
+- Filters out opinion pieces, sports, and other unwanted topics
+- Focuses on world news and tech/AI developments
 
-### Discord Formatting
-- Section-aware zero-width space separators
-- Compact bullet lists in NICE-TO-KNOW
-- Smart chunking (<2000 chars/message)
+### Discord Delivery
+- Clean, readable message formatting
+- Automatic message chunking for long digests
 
 ## Documentation
 

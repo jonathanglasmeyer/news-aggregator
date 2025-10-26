@@ -1,6 +1,6 @@
 [project]
 name = "news"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automated daily news digest system that fetches German/international news feeds, filters content using Claude AI, and delivers curated summaries to Discord"
 requires-python = ">=3.12"
 dependencies = []
