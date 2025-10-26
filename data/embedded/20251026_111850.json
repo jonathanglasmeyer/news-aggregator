@@ -1,0 +1,777 @@
+{
+  "timestamp": "2025-10-26T11:18:50.654652",
+  "input_file": "data/aggregated/20251026_110828.json",
+  "date_range": {
+    "start": "2025-10-20",
+    "end": "2025-10-26"
+  },
+  "stage": "embedded_prefilter",
+  "total_articles": 85,
+  "articles": [
+    {
+      "title": "Trump attends Thailand–Cambodia ceasefire signing in Malaysia",
+      "link": "https://www.france24.com/en/video/20251026-trump-attends-thailand%E2%80%93cambodia-ceasefire-signing-in-malaysia",
+      "published": "2025-10-26T09:53:21",
+      "content": "Thailand and Cambodia signed an expanded ceasefire agreement on Sunday during a ceremony attended by US President Donald Trump, whose threats of economic pressure pushed the two nations to halt skirmishes along their disputed border earlier this year. “There are questions of just how long this peace agreement will last,” FRANCE 24’s Adam Hancock said, noting that the decades-long conflict has already seen several breaches of the ceasefire agreed in July.",
+      "content_length": 458,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
+      "link": "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Drei Monate nach den schweren Kämpfen im Grenzgebiet zwischen Thailand und Kambodscha haben beide Länder ein Friedensabkommen unterzeichnet. Bei der Zeremonie in der malaysischen Hauptstadt Kuala Lumpur war auch US-Präsident Trump anwesend.",
+      "content_length": 240,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Trump nimmt zum Auftakt seiner Asien-Reise an ASEAN-Gipfel teil",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-asean-gipfel-100.html",
+      "published": "2025-10-26T08:34:26",
+      "content": "   US-Präsident Trump hat seine Asienreise begonnen. Zunächst nahm er auf dem ASEAN-Gipfel in Malaysia an der Unterzeichnung des Friedensvertrags zwischen Thailand und Kambodscha teil. In Südkorea will er Chinas Staatschef Xi treffen.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Türkei - Kurdische PKK kündigt Abzug aller Kämpfer in den Nordirak an",
+      "link": "https://www.deutschlandfunk.de/kurdische-pkk-kuendigt-abzug-aller-kaempfer-in-den-nordirak-an-100.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die kurdische PKK hat nach eigenen Angaben damit begonnen, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "PKK kündigt Verlegung ihrer Kämpfer aus der Türkei in den Nordirak an",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-pkk-abzug-truppen-100.html",
+      "published": "2025-10-26T09:41:33",
+      "content": "   Die PKK zieht nach eigenen Angaben ihre Kämpfer aus der Türkei ab - ein weiterer Schritt im Friedensprozess zwischen ihr und dem türkischen Staat. Die kurdische Arbeiterpartei ist in vielen Ländern als Terrororganisation eingestuft.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kurdish PKK says it is withdrawing all forces from Turkey to northern Iraq",
+      "link": "https://www.france24.com/en/asia-pacific/20251026-kurdish-pkk-says-it-is-withdrawing-all-forces-from-turkey-to-northern-iraq",
+      "published": "2025-10-26T09:18:05",
+      "content": "The militant Kurdistan Workers’ Party (PKK) said on Sunday it was withdrawing all its forces from Turkey to northern Iraq and urged Ankara to take the necessary legal steps to protect the peace process. Its jailed leader Abdullah Ocalan in May for the group to disarm after decades of violence that killed some 50,000 people.",
+      "content_length": 325,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Frakreich - Zwei Verdächtige im Zusammenhang mit dem Juwelendiebstahl im Louvre festgenommen",
+      "link": "https://www.deutschlandfunk.de/zwei-verdaechtige-im-zusammenhang-mit-dem-juwelendiebstahl-im-louvre-festgenommen-100.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die französische Polizei hat im Zusammenhang mit dem Kronjuwelen-Diebstahl im Pariser Louvre nach Angaben aus Justizkreisen zwei Verdächtige festgenommen.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Two men arrested after Louvre jewel heist",
+      "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
+      "published": "2025-10-26T09:38:47",
+      "content": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to Paris prosecutorTwo suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), according to the Paris prosecutor.Citing police sources, Le Parisien newpaper said on Sunday that the men, both in their 30s and from Seine St-Denis outside the French capital, were detained on Saturday evening as part of an investigation by the Paris organised crime squad. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Two suspects arrested in Louvre museum jewellery heist",
+      "link": "https://www.france24.com/en/live-news/20251026-two-arrested-over-louvre-museum-heist-sources-close-to-the-investigation-say",
+      "published": "2025-10-26T09:31:33",
+      "content": "French authorities have detained two men in connection to the recent theft of precious jewellery from the Louvre museum in Paris, the Paris prosecutor said on Sunday.",
+      "content_length": 166,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine - Mindestens drei Tote durch russische Angriffe auf Kiew",
+      "link": "https://www.deutschlandfunk.de/mindestens-drei-tote-durch-russische-angriffe-auf-kiew-100.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Bei russischen Drohnenangriffen auf die ukrainische Hauptstadt Kiew sind nach jüngsten Angaben mindestens drei Menschen getötet worden.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Liveblog: ++ Erneut Tote nach russischem Angriff auf Kiew ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-604.html",
+      "published": "2025-10-26T09:02:52",
+      "content": "   Nach ukrainischen Angaben sind bei einem Drohnenangriff auf die Hauptstadt Kiew mindestens drei Menschen getötet und 27 verletzt worden. US-Präsident Trump will Kremlchef Putin erst treffen, wenn er sich einer Einigung sicher sein kann.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Russian drone attack on Kyiv leaves three people dead and dozens wounded, mayor says",
+      "link": "https://www.theguardian.com/world/2025/oct/26/russian-drone-attack-on-kyiv-leaves-three-people-dead-and-dozens-wounded-mayor-says",
+      "published": "2025-10-26T06:53:34",
+      "content": "Vitali Klitschko says six children hurt in overnight attack that sparked fires in apartment buildingsAn overnight Russian drone attack on Kyiv killed three people and wounded dozens, the mayor of the Ukrainian capital has said.The head of Kyiv’s military administration said early on Sunday that “several” Russian drones were operating over the city, and warned people to “remain in shelters”. Continue reading...",
+      "content_length": 413,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Eurovision Song Contest in Wien - Österreichs Kanzler Stocker befürwortet Israels Teilnahme",
+      "link": "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-befuerwortet-israels-teilnahme-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Der österreichische Bundeskanzler Stocker hat sich für die Teilnahme Israels am Eurovision Song Contest 2026 in Wien ausgesprochen. Mit der Waffenruhe im Gazastreifen habe sich die Situation verändert, erklärte Stocker.",
+      "content_length": 219,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Israelische Armee meldet Angriff auf Dschihadisten",
+      "link": "https://www.deutschlandfunk.de/israelische-armee-meldet-angriff-auf-dschihadisten-108.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die israelische Armee hat nach eigenen Angaben im Gazastreifen einen Angriff auf einen Dschihadisten der Terrororganisation Islamischer Dschihad ausgeführt.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Zehntausende demonstrieren in Israel für Rückgabe der toten Geiseln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-demo-geiseln-100.html",
+      "published": "2025-10-25T23:49:50",
+      "content": "   13 tote Geiseln sind noch immer im Gazastreifen. Für ihre Rückgabe haben wieder Zehntausende in Israel demonstriert. Auch US-Präsident Trump erhöht den Druck auf die Hamas, die Geiseln schnell zu übergeben.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel bestätigt Angriff in Gaza - Palästinenser melden Verletzte",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-angriff-israel-100.html",
+      "published": "2025-10-25T19:25:45",
+      "content": "   Die Gaza-Waffenruhe bleibt fragil: Nachdem aus palästinensischen Kreisen bereits über Verletzte berichtet worden war, hat Israel einen Angriff in Nuseirat bestätigt. Er habe Dschihadisten gegolten. Mediziner meldeten Verletzte in weiteren Orten.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Streit um Anti-Zoll-Video - Trump kündigt zusätzliche Zölle gegen Kanada an",
+      "link": "https://www.deutschlandfunk.de/trump-kuendigt-zusaetzliche-zoelle-gegen-kanada-an-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Nach dem Abbruch der Handelsgespräche mit Kanada hat US-Präsident Trump zusätzliche Zölle in Höhe von zehn Prozent angekündigt. Auf der Online-Plattform \"Truth Social\" gab Trump als Grund an, dass eine angeblich irreführende kanadische Werbekampagne gegen Zölle nicht sofort zurückgezogen worden sei. ",
+      "content_length": 301,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Trump to increase tariffs on Canada by an additional 10 percent over anti-tariff ad",
+      "link": "https://www.france24.com/en/americas/20251026-trump-to-increase-tariffs-on-canada-by-an-additional-10-percent-over-anti-tariff-ad",
+      "published": "2025-10-26T07:57:56",
+      "content": "US President Donald Trump said Saturday he would increase tariffs on Canadian goods by an additional 10 percent because of what he called a “fake” ad campaign paid for by the Canadian province of Ontario that featured late US president Ronald Reagan criticising the imposition of high tariffs.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump will nach Anti-Zoll-Werbespot Zölle gegen Kanada erhöhen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-kanada-112.html",
+      "published": "2025-10-26T01:35:44",
+      "content": "   Ein Werbespot bringt weiter Unruhe zwischen den USA und Kanada: Nachdem der US-Präsident deshalb bereits die Handelsgespräche abgebrochen hatte, will er nun die Zölle anheben. Seine Begründung: Der Clip wurde nicht sofort entfernt.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Republik Irland - Linksgerichtete Kandidatin Connolly gewinnt Präsidentenwahl",
+      "link": "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-gewinnt-praesidentenwahl-106.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "In Irland hat die linksgerichtete, unabhängige Abgeordnete Connolly die Präsidentschaftswahl gewonnen. Nach offiziellen Angaben erhielt sie 63 Prozent der Stimmen und gewann damit gegen die frühere Ministerin Humphreys von der Mitte-Rechts-Partei Fine Gael.",
+      "content_length": 257,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Linksgerichtete Connolly gewinnt Präsidentschaftswahl in Irland",
+      "link": "https://www.tagesschau.de/ausland/europa/praesidentschaftswahl-irland-connolly-100.html",
+      "published": "2025-10-25T20:08:56",
+      "content": "   Mit deutlicher Mehrheit hat die linksgerichtete Kandidatin Connolly die Präsidentschaftswahl in Irland gewonnen. Der Sieg der EU-Kritikerin gilt als Dämpfer für die Mitte-Rechts-Regierung. Überschattet wurde die Wahl von ungültigen Stimmen. [mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Leftwinger Catherine Connolly wins Ireland presidential election by landslide",
+      "link": "https://www.theguardian.com/world/2025/oct/25/catherine-connolly-ireland-presidential-election-leftwing",
+      "published": "2025-10-25T19:41:19",
+      "content": "Independent pledges to be ‘president for all’ after taking 63% of vote in upset for political establishment The leftwing independent candidate Catherine Connolly has a won landslide election victory and been declared Ireland’s next president.She pledged to be a “president for all” after securing 63% of the first preference votes, a stunning result that shook the political establishment and will make her the republic’s 10th head of state. Continue reading...",
+      "content_length": 461,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Französischer Zentralbank-Chef - \"Frankreich droht wegen Staatsfinanzen zu ersticken\"",
+      "link": "https://www.deutschlandfunk.de/frankreich-droht-wegen-staatsfinanzen-zu-ersticken-104.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Der Chef der französischen Zentralbank, Villeroy de Galhau, hat mit dramatischer Wortwahl den in der Nationalversammlung seit Monaten anhaltenden Haushalts-Konflikt kritisiert.",
+      "content_length": 176,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Japan - Neue Regierungschefin Takaichi: \"Stärkung der Beziehungen zu USA höchste Priorität\"",
+      "link": "https://www.deutschlandfunk.de/neue-regierungschefin-takaichi-staerkung-der-beziehungen-zu-usa-hoechste-prioritaet-106.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Japans neue Premierministerin Takaichi hat die Stärkung der Beziehungen zwischen ihrem Land und den USA zu einem ihrer vorrangigen Ziele erklärt.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Erste Ministerpräsidentin führt Japan weiter nach rechts",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-regierung-ministerpraesidentin-100.html",
+      "published": "2025-10-21T08:21:02",
+      "content": "   In Japan regiert erstmals eine Frau: Sanae Takaichi gilt als nationalistische Hardlinerin und übernimmt das Land nach einer innenpolitischen Krise. Ihr Augenmerk will sie auf die Wirtschaft richten.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Oppositions-Arbeit - Grünen-Chefin Brantner wirft Merz Führungsschwäche vor - \"Schwarz-Rot so zerstritten wie die Ampel\"",
+      "link": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-merz-fuehrungsschwaeche-vor-schwarz-rot-so-zerstritten-wie-die-ampel-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die Grünen-Bundesvorsitzende Brantner hat den Spitzen von Union und SPD Führungsschwäche vorgeworfen. Auf dem Parteitag des Thüringer Landesverbandes nannte sie als Beispiele anhaltende Auseinandersetzungen in der schwarz-roten Koalition etwa um Themen wie Wehrdienst, Bürgergeld und Haushaltspolitik.",
+      "content_length": 301,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grünen-Chefin Brantner wirft Merz Führungsschwäche vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/brantner-kritik-merz-100.html",
+      "published": "2025-10-25T17:58:52",
+      "content": "   Grünen-Chefin Brantner wirft den Spitzen von CDU und SPD Führungsschwäche vor - und zieht mit Blick auf Kanzler Merz einen überraschenden Vergleich. Bei Themen wie Wehrdienst oder Ukraine-Hilfen sei er zu zögerlich.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ski-Weltcup - Österreicherin Julia Scheib gewinnt Saisonauftakt im Riesenslalom in Sölden",
+      "link": "https://www.deutschlandfunk.de/oesterreicherin-julia-scheib-gewinnt-saisonauftakt-im-riesenslalom-in-soelden-104.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die österreichische Skirennfahrerin Julia Scheib hat beim Weltcup-Saisonauftakt im heimischen Sölden den Riesenslalom gewonnen.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Peer trying to derail UK smoking ban discussed bill with relative at tobacco firm",
+      "link": "https://www.theguardian.com/business/2025/oct/26/uk-smoking-ban-lord-strathcarron-relative-british-american-tobacco",
+      "published": "2025-10-26T08:00:58",
+      "content": "Lord Strathcarron says he and an in-law ‘high up’ at British American Tobacco discussed bill, which he aims to weakenA member of the House of Lords who is trying to derail the generational ban on tobacco sales discussed the legislation with a family member who is “very high up” at British American Tobacco (BAT).Lord Strathcarron is proposing amendments that would scrap the central provision of the tobacco and vapes bill, originally proposed by Rishi Sunak’s government. Continue reading...",
+      "content_length": 493,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "What to know about Argentina's mid-term vote, a key test for Trump ally Milei",
+      "link": "https://www.france24.com/en/americas/20251026-what-to-know-about-argentina-s-mid-term-vote-a-key-test-for-trump-ally-milei",
+      "published": "2025-10-26T07:35:05",
+      "content": "Argentine President Javier Milei’s image as a straight-talking outsider has been hurt by a series of scandals and setbacks ahead of mid-term congressional elections on Sunday. Opposition parties have gained support after US President Donald Trump warned that US assistance to Argentina was contingent on Milei’s victory in the vote.",
+      "content_length": 332,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Do populists always crash the economy?",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/oct/26/do-populists-always-crash-the-economy",
+      "published": "2025-10-26T06:00:56",
+      "content": "Argentina is counting the cost of its turn to Javier Milei. Politicians from Donald Trump to Giorgia Meloni and Nigel Farage will be closely watching what happens next“Cambio, cambio.” Under the blazing sun, dozens of money changers are hawking US dollars along Florida Street, a bustling pedestrian strip in Buenos Aires. Known as arbolitos (“little trees”), they are thriving ahead of the 26 October midterm elections in a country long used to saving in the greenback.“The best time to buy is now,” says one arbolito, declining to give her name. “[The dollar] went down a little but it is a fake-out – it’ll rise again.” Continue reading...",
+      "content_length": 642,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Argentina goes to polls amid economic crisis and Trump ‘interference’",
+      "link": "https://www.theguardian.com/world/2025/oct/25/argentina-president-javier-milei-polls-economic-crisis-trump",
+      "published": "2025-10-25T11:00:32",
+      "content": "Poor showing in Sunday’s election would deal hammer blow to country’s radical libertarian president, Javier MileiArgentina’s radical libertarian leader, Javier Milei, is facing a pivotal moment in his presidency with voters set to deliver their verdict on his two-year-old administration on Sunday against a backdrop of political and economic crisis and accusations that his ally Donald Trump is meddling in the country’s affairs.A poor showing in Sunday’s midterm election would be a hammer blow to Milei, who took power in December 2023 pledging to kickstart “a new era of peace and prosperity” by slashing spending and inflation. Continue reading...",
+      "content_length": 652,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Cruise control: could a £5 ‘entry’ fee help balance Orkney’s needs with tourist demand?",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/orkney-council-tourist-levy-call-visitor-boom",
+      "published": "2025-10-26T07:00:56",
+      "content": "With tourists outnumbering locals by 20:1, islanders say levy is needed to help protect neolithic sites and maintain public servicesArtisan jewellery, gift and whisky shops crowd the main street of Kirkwall on Orkney. The town even has a new sushi shop, offering bento boxes and matcha cheesecake.Once home to the Viking earls who ruled the islands, Kirkwall has hit it rich: it tops the UK’s charts for cruise ship visits, as American, German and Italian tourists descend on remarkable neolithic sites such as Skara Brae and its medieval cathedral. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia news live: thunderstorm asthma warning for Victoria’s north as wild weather threatens east coast",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/26/australia-news-live-anthony-albanese-asean-apac-coalition-matt-canavan-renewable-energy-solar-power",
+      "published": "2025-10-26T05:25:08",
+      "content": "This blog is now closedAustralia must ‘step up to prevent catastrophic and preventable loss of life’ amid Trump cuts, former CDC boss saysGet our breaking news email, free app or daily news podcastTrump shadow looms large as PM scales regional summitsWorld leaders, including&nbsp;Anthony&nbsp;Albanese,&nbsp;will jostle for position at major regional summits as talks between&nbsp;Donald&nbsp;Trump&nbsp;and&nbsp;Xi&nbsp;Jinping&nbsp;take centre stage.I’d love to keep him part of the team.I think he is, David. Because support for net zero is dropping off a cliff. There was a poll just a couple of weeks ago to show that net zero has net zero support, which is a big turnaround in just a few months, and I think that Barnaby played a role in that, and the net zero promise we were made is not delivering and working for the Australian people. Because they’ve seen their power bills go up, and the jobs go offshore, and it’s time to think again about this.It’s got nothing to do with One Nation. I don’t care about One Nation. I care about the thousands of hard-working men and women, many of whom are members of the Liberal-National party who have given me this enormous privilege to serve my country and state, and I’m not going to turn my back on them. Continue reading...",
+      "content_length": 1277,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Ignorant’: former Labor MP condemns Minns government for threatening Blue Mountains protesters over historic site",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/26/ignorant-former-labor-mp-condemns-minns-government-for-threatening-blue-mountains-protesters-over-historic-site",
+      "published": "2025-10-26T01:56:14",
+      "content": "Former home affairs minister Bob Debus, who served in the Rudd government, throws his support behind Clairvaux in KatoombaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe state government has threatened to treat First Nations and environmental groups as trespassers if they continue to use a historic home in the Blue Mountains that was once an infamous “house of horrors” but was reclaimed as a community hub.But a former state and federal MP and stalwart of the Labor party has criticised the Minns government as “unethical” and “ignorant”, for enforcing the eviction of the groups from Clairvaux in Katoomba. Continue reading...",
+      "content_length": 699,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "A year on as Queensland premier, will David Crisafulli’s small-target strategy prove his undoing?",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/26/queensland-premier-david-crisafulli-one-year-on",
+      "published": "2025-10-25T19:00:42",
+      "content": "The LNP government has a firm stance on only one issue – youth crime – and is looking like it’s in need of an agendaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen David Crisafulli speaks to the Liberal National party faithful, his message tends to become a blunt warning to members and MPs to keep any unsavoury, unelectable tendencies out of sight.“We don’t exist for culture wars,” the Queensland premier – who marks a year in office on Sunday – told the party’s state council just after the 2024 election. Continue reading...",
+      "content_length": 599,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tech left teens fighting over scraps, and now it wants those too",
+      "link": "https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs",
+      "published": "2025-10-25T18:00:00",
+      "content": "\n\n\n\t\n\tRobots will be flipping your burgers soon.\t\n\nRight now, there are robots stocking convenience store shelves in Japan. We haven't embraced that tech here in America yet, but it's hard to imagine 7-11 or Walmart won't at least experiment with it soon. Walmart gave up on its shelf-scanning robots in 2020, but machine vision and AI have improved a lot in the last five years, and it's only a matter of time before it's a machine refilling that row of family-sized Fruity Pebbles and not a kid earning some extra cash during senior year of high school.\nTruth is, there just aren't many jobs for teens out there anymore, and most of them have chosen to simply remove themselves from the job market …\nRead the full story at The Verge.",
+      "content_length": 735,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Liberia says it will take Kilmar Abrego Garcia if US deports him",
+      "link": "https://www.france24.com/en/africa/20251025-liberia-says-it-will-take-kilmar-abrego-garcia-if-us-deports-him",
+      "published": "2025-10-25T17:59:04",
+      "content": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported Abrego Garcia in March, where he was incarcerated in El Salvador's notorious CECOT mega-prison before returning to the US in June.",
+      "content_length": 330,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Many Gazans still unable to return home despite ceasefire",
+      "link": "https://www.france24.com/en/video/20251025-many-gazans-still-unable-to-return-home-despite-ceasefire",
+      "published": "2025-10-25T15:20:07",
+      "content": "His house in Gaza was destroyed by the war, but Hani Abu Omar still dreams of returning now that a ceasefire has taken hold. However, like thousands of others, the 42-year-old Palestinian remains stuck in a tent with his family because it is too dangerous to go home. Abu Omar's house lies beyond the \"Yellow Line\" – the boundary behind which Israeli troops have pulled back under the October 10 truce.",
+      "content_length": 402,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Voters in Ivory Coast cast ballots to elect new leader",
+      "link": "https://www.france24.com/en/video/20251025-voters-in-ivory-coast-cast-ballots-to-elect-new-leader",
+      "published": "2025-10-25T15:20:01",
+      "content": "Voters in Ivory Coast cast ballots Saturday to elect a new leader as longtime President Alassane Ouattara seeks a fourth term, while his key contenders were barred from the race. The election is the latest example of aging men continuing to hold power in Africa, which boasts the youngest population in the world. Cameroon’s Paul Biya, 92, Uganda’s Yoweri Museveni, 81, and Equatorial Guinea’s Teodoro Mbasogo, 83, are some other older African leaders still in power.",
+      "content_length": 467,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Präsident der Elfenbeinküste tritt für vierte Amtszeit an",
+      "link": "https://www.tagesschau.de/ausland/wahlen-elfenbeinkueste-100.html",
+      "published": "2025-10-25T00:03:55",
+      "content": "   Er will es wieder wissen: Der alte Präsident Ouattara will erneut Präsident werden - mit 83 Jahren. Vor allem junge Leute in der Elfenbeinküste fühlen sich nicht vertreten und fordern einen politischen Neustart. Von K. Bensch.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘What the US really wants is regime change’: US military build-up in the Caribbean",
+      "link": "https://www.france24.com/en/video/20251025-what-the-us-really-wants-is-regime-change-us-military-build-up-in-the-caribbean",
+      "published": "2025-10-25T15:08:36",
+      "content": "The Pentagon on Friday ordered the deployment of an aircraft carrier strike group to counter drug-trafficking organisations in Latin America, marking a major escalation in a US military build-up that Venezuela’s leader warned was aimed at “fabricating a war”. Citing expert opinion, FRANCE 24’s Philip Turle said “what the US really wants is regime change,” adding that the key question now is whether Washington would launch attacks on Venezuelan soil.",
+      "content_length": 453,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "'Every reason' to expect attacks inside Venezuela, expert warns as US escalates operations",
+      "link": "https://www.france24.com/en/video/20251025-every-reason-to-expect-attacks-inside-venezuela-expert-warns-as-us-escalates-operations",
+      "published": "2025-10-25T13:53:38",
+      "content": "The Pentagon has deployed an aircraft carrier strike group to counter what it claims are drug-trafficking organisations in Latin America, escalating a military build-up that has fuelled fears of conflict. Earlier, the US targeted boats in international waters, killing those on board. Cynthia J. Arnson, Director of the Latin American Programme at the Wilson Centre, said there is “very little evidence” the vessels were involved in drug trafficking, calling the legality of the strikes questionable. She added that the operation appears to be “far beyond a counter–drug-trafficking operation” and warned: “There is, I think, every reason to believe or expect that there will be attacks inside Venezuelan territory aimed at deposing the current dictatorship of Nicolás Maduro.”",
+      "content_length": 777,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US-Militär vor Südamerika: Mit Flugzeugträgern gegen Drogenboote?",
+      "link": "https://www.tagesschau.de/ausland/usa-venezuela-104.html",
+      "published": "2025-10-25T08:23:52",
+      "content": "   Präsident Trump behauptet, das US-Militär bekämpfe vor Südamerika Drogenschmuggler. Doch die Streitmacht, die er dafür zusammenzieht, lässt anderes vermuten. Plant er den Sturz von Venezuelas Diktator Maduro? Von Carsten Kühntopp.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "ICE is building a social media panopticon",
+      "link": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault",
+      "published": "2025-10-25T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nAs Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that ICE is paying $5.7 million to use an AI-powered social media monitoring platform called Zignal Labs, something Will Owen, the communications director at the Surveillance Technology Oversight Project (STOP), calls an \"assault\" on democracy and free speech. \nThe \"real-time intelligence\" platform is capable of ingesting and analyzing vast amounts of publicly available data, like social media …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thailands einstige Königin Sirikit im Alter von 93 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-sirikit-100.html",
+      "published": "2025-10-25T09:52:49",
+      "content": "   Sie war ein Star des internationalen Adels und zierte weltweit die Titelblätter von Modemagazinen: Nun ist Thailands ehemalige Königin Sirikit im Alter von 93 Jahren gestorben. Der Königshof hat eine einjährige Trauerzeit ausgerufen.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Thailand’s Queen Mother Sirikit dies at 93 after more than a decade out of the public eye",
+      "link": "https://www.theguardian.com/world/2025/oct/25/thailands-queen-mother-sirikit-dies-at-93-after-more-than-a-decade-out-of-the-public-eye",
+      "published": "2025-10-25T02:02:10",
+      "content": "Prime minister Charnvirakul cancels trip to Asean summit in Malaysia after news of the Queen Mother’s deathThailand’s Queen Mother Sirikit, who brought glamour to a postwar revival in the country’s monarchy and who, in later years, would occasionally wade into politics, has died aged 93, the Thai Royal Household bureau has announced.The palace said she had been hospitalised since 2019 due to several illnesses and developed a bloodstream infection on 17bOctober before passing away late on Friday. Continue reading...",
+      "content_length": 520,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Turkey likely to be excluded from Gaza stabilisation force after Israeli objection",
+      "link": "https://www.theguardian.com/world/2025/oct/25/turkey-gaza-stabilisation-force-israeli-objection",
+      "published": "2025-10-25T04:00:24",
+      "content": "Doubts over whether Ankara will be part of 5,000-strong force to be deployed to prevent postwar power vacuumTurkey will probably be excluded from the 5,000-strong stabilisation force that is to be set up inside Gaza after Israel made clear it did not want Turkish troops taking part.Marco Rubio, the US secretary of state, said it was a requirement that Israel is comfortable with the nationality of the multinational force, set up to prevent a security vacuum when the massive task of reconstruction in Gaza starts. Turkey has said it is willing to offer troops, but Israel has let it be known that it disapproves of Turkish troops taking part in the force. Continue reading...",
+      "content_length": 678,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US places sanctions on Colombian president over alleged failure to stop cartels",
+      "link": "https://www.theguardian.com/us-news/2025/oct/24/us-sanctions-colombian-president-gustavo-petro",
+      "published": "2025-10-25T00:36:53",
+      "content": "Treasury accuses Gustavo Petro of ‘allowing drug cartels to flourish’ as president attacks Trump’s ‘oppressive regime’The US treasury department has announced sanctions on Colombian president Gustavo Petro, one of Donald Trump’s harshest international critics.“President Petro has allowed drug cartels to flourish and refused to stop this activity,” treasury secretary Scott Bessent wrote in a post on X. “Today President Trump is taking strong action to protect our nation.” Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "USA setzen Kolumbiens Präsidenten Petro auf Sanktionsliste",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kolumbien-praesident-sanktionen-100.html",
+      "published": "2025-10-24T23:44:47",
+      "content": "   Das Verhältnis von US-Präsident Trump und Kolumbiens Staatschef Petro ist angespannt. Nun werfen die USA dem Regierungschef vor, zu wenig gegen Drogenkartelle zu tun - und setzen ihn auf die Sanktionsliste.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sam Altman’s next startup eyes using sound waves to read your brain",
+      "link": "https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire",
+      "published": "2025-10-25T00:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nSam Altman has tapped Mikhail Shapiro, an award-winning biomolecular engineer, to join the Merge Labs brain-computer interface startup he's set to announce soon with co-founder Alex Blania.\nWhile Shapiro's official title is unclear, sources say he will be part of Merge's founding team and has been positioned as a key leader in talks with investors. Those talks are ongoing, but Merge expects to raise hundreds of millions of dollars from OpenAI and others, as The Financial Times earlier reported.\nS …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine-Liveblog: ++ Russischer Gesandter zu Gesprächen in den USA ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-564.html",
+      "published": "2025-10-24T23:46:56",
+      "content": "   Der russische Sondergesandte und Präsidentenberater Dmitrijew hält sich zu Gesprächen in den USA auf. In der Ukraine zündet ein Mann bei einer Personenkontrolle in einem Zug einen Sprengsatz. Vier Menschen sterben.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital",
+      "link": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/",
+      "published": "2025-10-24T21:29:30",
+      "content": "A 61-year-old man in California is lucky to be alive after a combination of herbal supplements he was taking for joint pain ended up utterly wrecking his body, landing him in intensive care and in a delirious state for months. His case is reported in the Annals of Internal Medicine: Clinical Cases.\nThe man turned up at a hospital in San Francisco in bad shape, but with nonspecific problems that had begun just two days earlier. His back hurt, he was feverish, nauseous, bloated, and he hadn’t been eating much. He was so weak he couldn’t walk or get out of bed without help. His heart rate and breathing rate were high. His blood pressure was low. There were multiple wounds on his lower body in various stages of healing.\nInitial exams and lab work revealed Staphylococcus aureus bacteria in his blood. There was also an abscess on his shoulder and an infection in and around his spine, which was worsening. Doctors wanted to perform a surgical procedure to relieve the pressure building up on his spinal cord and nerves, but his blood pressure was too low—and then he went into hemorrhagic shock from bleeding in his gastrointestinal tract. Doctors transferred him to the intensive care unit.Read full article\nComments",
+      "content_length": 1223,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Clinical trial of a technique that could give everyone the best antibodies",
+      "link": "https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/",
+      "published": "2025-10-24T20:58:11",
+      "content": "One of the things that emerging diseases, including the COVID and Zika pandemics, have taught us is that it’s tough to keep up with infectious diseases in the modern world. Things like air travel can allow a virus to spread faster than our ability to develop therapies. But that doesn’t mean biotech has stood still; companies have been developing technologies that could allow us to rapidly respond to future threats.\nThere are a lot of ideas out there. But this week saw some early clinical trial results of one technique that could be useful for a range of infectious diseases. We’ll go over the results as a way to illustrate the sort of thinking that’s going on, along with the technologies we have available to pursue the resulting ideas.\nThe best antibodies\nAny emerging disease leaves a mass of antibodies in its wake—those made by people in response to infections and vaccines, those made by lab animals we use to study the infectious agent, and so on. Some of these only have a weak affinity for the disease-causing agent, but some of them turn out to be what are called “broadly neutralizing.” These stick with high affinity not only to the original pathogen, but most or all of its variants, and possibly some related viruses.Read full article\nComments",
+      "content_length": 1264,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Marktbericht: US-Börsen auf Rekordkurs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-usa-china-trump-oelpreis-gold-rheinmetall-hensoldt-100.html",
+      "published": "2025-10-24T20:13:46",
+      "content": "   Wie im Rausch haben die US-Börsen neue Allzeithochs markiert. Inflationszahlen schürten Zinshoffnungen, danach kannte der Markt kein Halten mehr. Der DAX hingegen stagnierte.[mehr]",
+      "content_length": 183,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tech billionaires are now shaping the militarization of American cities",
+      "link": "https://arstechnica.com/tech-policy/2025/10/troops-in-us-cities-tech-billionaires-are-shaping-that-too/",
+      "published": "2025-10-24T18:55:47",
+      "content": "Yesterday, Donald Trump announced on social media that he had been planning to “surge” troops into San Francisco this weekend—but was dissuaded from doing so by several tech billionaires.\n“Friends of mine who live in the area called last night to ask me not to go forward with the surge,” Trump wrote.\nWho are these “friends”? Trump named “great people like [Nvidia CEO] Jensen Huang, [Salesforce CEO] Marc Benioff, and others” who told him that “the future of San Francisco is great. They want to give it a ‘shot.’ Therefore, we will not surge San Francisco on Saturday. Stay tuned!”Read full article\nComments",
+      "content_length": 610,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU accuses Meta of violating content rules in move that could anger Trump",
+      "link": "https://arstechnica.com/tech-policy/2025/10/trump-tariff-threats-havent-stopped-eu-from-cracking-down-on-meta/",
+      "published": "2025-10-24T18:18:19",
+      "content": "Meta violated the Digital Services Act (DSA) by failing to give Facebook and Instagram users simple mechanisms to report illegal content, the European Commission said in a preliminary decision announced yesterday. Meta also failed to give users an effective way to challenge content moderation decisions, the EC said.\n“When it comes to Meta, neither Facebook nor Instagram appear to provide a user-friendly and easily accessible ‘Notice and Action’ mechanism for users to flag illegal content, such as child sexual abuse material and terrorist content,” the EC press release said. The EC said that Meta mechanisms seem to “impose several unnecessary steps and additional demands on users. In addition, both Facebook and Instagram appear to use so-called ‘dark patterns,’ or deceptive interface designs, when it comes to the ‘Notice and Action’ mechanisms.”\nThe EC also found that the content moderation appeal mechanisms used by Facebook and Instagram do not “allow users to provide explanations or supporting evidence to substantiate their appeals. This makes it difficult for users in the EU to further explain why they disagree with Meta’s content decision, limiting the effectiveness of the appeals mechanism.”Read full article\nComments",
+      "content_length": 1240,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Palestinian factions say they agree to let independent technocrat committee run Gaza",
+      "link": "https://www.theguardian.com/world/2025/oct/24/palestinian-factions-say-they-agree-to-let-independent-technocrat-committee-run-gaza",
+      "published": "2025-10-24T16:50:30",
+      "content": "Administration will manage basic services ‘in cooperation with Arab brothers and international institutions’, says joint statementThe main Palestinian factions have said they have agreed that an independent committee of technocrats would take over the running of Gaza after Hamas said it had received “clear guarantees” from mediators that “the war has effectively ended”.A joint statement published on the Hamas website said the groups had agreed in a meeting in Cairo to hand “over the administration of the Gaza Strip to a temporary Palestinian committee composed of independent ‘technocrats’, which will manage the affairs of life and basic services in cooperation with Arab brothers and international institutions”. Continue reading...",
+      "content_length": 740,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "DNA analysis reveals likely pathogens that killed Napoleon’s army",
+      "link": "https://arstechnica.com/science/2025/10/dna-analysis-reveals-likely-pathogens-that-killed-napoleons-army/",
+      "published": "2025-10-24T15:24:52",
+      "content": "In 1812, Napoleon Bonaparte led a disastrous military campaign into Moscow. The death toll was devastating: Out of some 615,000 men, only about 110,000 survivors returned. (Napoleon abandoned his army in early December to return home on a sled.) Roughly 100,000 of the casualties died in battle, while as many as 300,000 perished from a combination of the bitter cold of Russia’s notoriously harsh winter, starvation, and disease.\nScholars have debated precisely what kinds of diseases ravaged Napoleon’s troops. New DNA analysis of some soldiers’ remains has revealed the presence of two pathogens in particular, according to a new paper published in the journal Current Biology. The first is Salmonella enterica, which causes paratyphoid fever; the second is Borrelia recurrentis, which is transmitted by body lice and causes relapsing fever. (A preprint of the paper appeared on bioaRxiv in July.)\n“It’s very exciting to use a technology we have today to detect and diagnose something that was buried for 200 years,” said co-author Nicolás Rascovan of the Institut Pasteur. “Accessing the genomic data of the pathogens that circulated in historical populations helps us to understand how infectious diseases evolved, spread, and disappeared over time and to identify the social or environmental contexts that played a part in these developments. This information provides us with valuable insights to better understand and tackle infectious diseases today.”Read full article\nComments",
+      "content_length": 1486,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Satellite shows what’s really happening at the East Wing of the White House",
+      "link": "https://arstechnica.com/space/2025/10/satellite-shows-whats-really-happening-at-the-east-wing-of-the-white-house/",
+      "published": "2025-10-24T14:18:13",
+      "content": "You need to go up—way up—to fully appreciate the changes underway at the White House this week.\nDemolition crews starting tearing down the East Wing of the presidential mansion Tuesday to clear room for the construction of a new $300 million, 90,000-square-foot ballroom, a recent priority of President Donald Trump. The teardown drew criticism and surprise from Democratic lawmakers, former White House staffers, and members of the public.\nIt was, after all, just three months ago that President Donald Trump defended his ballroom plan by saying it wouldn’t affect the existing structure at the White House. “It won’t interfere with the current building,” he said in July. “It’ll be near it but not touching it—and pays total respect to the existing building, which I’m the biggest fan of.”Read full article\nComments",
+      "content_length": 817,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Streit um Trumps Bauvorhaben: Mutig oder respektlos?",
+      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ostfluegel-100.html",
+      "published": "2025-10-24T01:46:48",
+      "content": "   Der Ostflügel des Weißen Hauses ist nun abgerissen. Bald soll dort ein Ballsaal gebaut werden. Konservatoren und Traditionalisten sind empört. Trumps Saal ist nicht sein einziges Bauprojekt, das in Washington für Diskussion sorgt. Von Samuel Jakisch.[mehr]",
+      "content_length": 259,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "US secretary of state Marco Rubio says ‘Hamas cannot be involved in governing Gaza’ – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/24/aid-gaza-israel-palestine-benjamin-netanyahu-hamas-ceasefire-west-bank-middle-east-live-news",
+      "published": "2025-10-24T13:31:46",
+      "content": "Rubio also said the UN agency for Palestinian refugees (Unrwa) cannot play a future role in Gaza, claiming it is a ‘subsidiary of Hamas’At least 14 migrants died when their inflatable dinghy capsized in the Aegean Sea off the Turkish resort of Bodrum, the governor’s office said on Friday, raising an earlier toll of seven dead.“The lifeless bodies of 14 irregular migrants were recovered,” the office of the Mugla governorate said on X, quoting one of the two survivors as saying that 18 people had been on board when the dinghy went down. The fate of the other two remained unclear, reports Agence France-Presse (AFP). Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rocket Report: China tests Falcon 9 lookalike; NASA’s Moon rocket fully stacked",
+      "link": "https://arstechnica.com/space/2025/10/rocket-report-china-tests-falcon-9-lookalike-nasas-moon-rocket-fully-stacked/",
+      "published": "2025-10-24T11:00:36",
+      "content": "Welcome to Edition 8.16 of the Rocket Report! The 10th anniversary of SpaceX’s first Falcon 9 rocket landing is coming up at the end of this year. We’re still waiting for a second company to bring back an orbital-class booster from space for a propulsive landing. Two companies, Jeff Bezos’ Blue Origin and China’s LandSpace, could join SpaceX’s exclusive club as soon as next month. (Bezos might claim he’s already part of the club, but there’s a distinction to be made.) Each company is in the final stages of launch preparations—Blue Origin for its second New Glenn rocket, and LandSpace for the debut flight of its Zhuque-3 rocket. Blue Origin and LandSpace will both attempt to land their first stage boosters downrange from their launch sites. They’re not exactly in a race with one another, but it will be fascinating to see how New Glenn and Zhuque-3 perform during the uphill and downhill phases of flight, and whether one or both of the new rockets stick the landing.\nAs always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.\n\n    \n                        \n                  \n      \n\nThe race for space-based interceptors. The Trump administration’s announcement of the Golden Dome missile defense shield has set off a race among US companies to develop and test space weapons, some of them on their own dime, Ars reports. One of these companies is a 3-year-old startup named Apex, which announced plans to test a space-based interceptor as soon as next year. Apex’s concept will utilize one of the company’s low-cost satellite platforms outfitted with an “Orbital Magazine” containing multiple interceptors, which will be supplied by an undisclosed third-party partner. The demonstration in low-Earth orbit could launch as soon as June 2026 and will test-fire two interceptors from Apex’s Project Shadow spacecraft. The prototype interceptors could pave the way for operational space-based interceptors to shoot down ballistic missiles. (submitted by biokleen)Read full article\nComments",
+      "content_length": 2273,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "West Bank resistance dies amid fears of becoming Israel’s ‘next Gaza’",
+      "link": "https://www.theguardian.com/world/2025/oct/24/west-bank-residents-fear-they-may-be-israels-next-target-after-gaza",
+      "published": "2025-10-24T09:18:48",
+      "content": "Once known as the ‘martyrs’ capital’ of Palestine, Jenin is now patrolled by Israeli soldiers as weary residents seek quiet lifeShadi Dabaya’s body bears the scars of the Israeli occupation. The 54-year-old proudly stuck out his jaw to show the chunk of his cheek torn away by Israeli fire and traced the zigzag scar on his arm, the pink, raised flesh marking the bullet’s path through his body.“I got these in the second intifada,” said Dabaya, beaming. He pulled up a video of himself a year earlier confronting an Israeli personnel carrier in Jenin camp wielding only a flip-flop. Continue reading...",
+      "content_length": 603,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Two dead and dozens arrested amid Cameroon election crackdown",
+      "link": "https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown",
+      "published": "2025-10-24T09:00:54",
+      "content": "Wave of unrest as polling suggests victory in presidential race for 92-year-old incumbent Paul BiyaAt least two people have been killed and dozens of protesters arrested in Cameroon as the government cracks down on dissent before the announcement of final results in this month’s presidential elections.Local media reports, citing preliminary data from the electoral commission (Elecam), suggest that victory for the 92-year-old incumbent, Paul Biya, is all but certain. That prospect has provoked anger and disbelief among his opponents, leading to unrest across several regions. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK’s biggest weapons firm BAE grounds ‘lifeline’ aircraft delivering food aid",
+      "link": "https://www.theguardian.com/global-development/2025/oct/24/bae-ends-support-atp-aircraft-caa-airworthiness-aid-deliveries-south-sudan-somalia-drc",
+      "published": "2025-10-24T07:00:36",
+      "content": "Exclusive: In the year they announced record profits, Britain’s arms maker has revoked licence to fly for planes taking supplies of food to starving people in South Sudan, Somalia and DRCBritain’s biggest weapons manufacturer, BAE Systems, has quietly scrapped support for a fleet of aircraft providing “life-saving” humanitarian aid to some of the world’s poorest countries.The decision further reduces the distribution of vital aid to countries facing serious humanitarian crises, including South Sudan, Somalia and the Democratic Republic of Congo (DRC). Continue reading...",
+      "content_length": 577,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Sacred sanctuary’: North Korea starts building memorial to soldiers killed in Ukraine war",
+      "link": "https://www.theguardian.com/world/2025/oct/24/north-korea-building-memorial-to-soldiers-killed-ukraine-war",
+      "published": "2025-10-24T01:09:22",
+      "content": "At least 600 North Korean soldiers have been killed and thousands more wounded fighting in Russia’s war against UkraineNorth Korea has begun constructing a memorial for its soldiers killed fighting in Russia’s war on Ukraine, state media reported, as leader Kim Jong-un hailed a “historic peak” in ties with Moscow.The so-called Memorial Museum of Combat Feats will be built in the capital, Pyongyang, where Kim and Russia’s ambassador to North Korea attended a groundbreaking ceremony, according to a reports by the Korean Central News Agency on Thursday. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+      "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+      "published": "2025-10-23T22:08:40",
+      "content": "OpenAI has acquired Software Applications Incorporated (SAI), perhaps best known for the core team that produced what became Shortcuts on Apple platforms. More recently, the team has been working on Sky, a context-aware AI interface layer on top of macOS. The financial terms of the acquisition have not been publicly disclosed.\n“AI progress isn’t only about advancing intelligence—it’s about unlocking it through interfaces that understand context, adapt to your intent, and work seamlessly,” an OpenAI rep wrote in the company’s blog post about the acquisition. The post goes on to specify that OpenAI plans to “bring Sky’s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI.”\nThat includes SAI co-founders Ari Weinstein (CEO), Conrad Kramer (CTO), and Kim Beverett (Product Lead)—all of whom worked together for several years at Apple after Apple acquired Weinstein and Kramer’s previous company, which produced an automation tool called Workflows, to integrate Shortcuts across Apple’s software platforms.Read full article\nComments",
+      "content_length": 1084,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mehrere Staaten kritisieren Israels Annexionspläne",
+      "link": "https://www.tagesschau.de/ausland/asien/rubio-israel-annexion-westjordanland-100.html",
+      "published": "2025-10-23T19:33:41",
+      "content": "   Die USA haben Israel vor einer Annexion des Westjordanlands gewarnt. Bereits vor seiner Reise nach Israel übt Außenminister Rubio scharfe Kritik. Auch die internationale Kritik an den israelischen Plänen wächst.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Seekabel: EU warnt vor Abhängigkeit von US-Hyperscalern",
+      "link": "https://www.heise.de/news/Seekabel-EU-warnt-vor-Abhaengigkeit-von-US-Hyperscalern-10824923.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-23T14:21:00",
+      "content": "Ein EU-Bericht warnt vor Europas Abhängigkeit von US-Technologiekonzernen bei Unterseekabeln und kritischen Komponenten. Auch die Reparatur ist gefährdet.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "software-architektur.tv: Experiencing Generative AI mit Oliver Zeigermann",
+      "link": "https://www.heise.de/news/software-architektur-tv-Experiencing-Generative-AI-mit-Oliver-Zeigermann-10811070.html",
+      "published": "2025-10-23T09:35:00",
+      "content": "Anhand einer Demo-Applikation sprechen Oliver Zeigermann und Lisa Maria Schäfer über das Thema generative KI.",
+      "content_length": 109,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Warum die Ukraine Rüstungsgüter exportieren will",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-exporte-ruestungsgueter-100.html",
+      "published": "2025-10-23T07:09:59",
+      "content": "   Die Ukraine hat in den vergangenen Jahren Rüstungsgüter entwickelt, mit denen sie sich selbst verteidigt. Bisher darf sie diese Produkte nicht exportieren. Das soll sich nun ändern. Von Florian Kellermann.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Foltervorwürfe gegen Israel nach Übergabe von Leichen Gefangener",
+      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-haeftlinge-foltervorwuerfe-100.html",
+      "published": "2025-10-22T12:06:03",
+      "content": "   Hat Israel Gefangene gefoltert? Nach der Überstellung von 150 palästinensischen Leichen in den Gazastreifen werden schwere Vorwürfe laut. Unabhängig überprüfen lassen sie sich nicht. Von Jan-Christoph Kitzler.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Ein Browser für ChatGPT: OpenAI gibt Chrome-Konkurrenten Atlas für macOS frei",
+      "link": "https://www.heise.de/news/Ein-Browser-fuer-ChatGPT-OpenAI-gibt-Chrome-Konkurrenten-Atlas-fuer-macOS-frei-10793833.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-22T05:12:00",
+      "content": "Wer ChatGPT beim Surfen nutzt, muss bislang noch viel zwischen Tabs wechseln und Inhalte kopieren. Das soll mit Atlas der Vergangenheit angehören, sagt OpenAI.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine: Einfrieren der Front als Ausgangspunkt für Verhandlungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-front-einfrieren-100.html",
+      "published": "2025-10-21T14:32:10",
+      "content": "   Den Frontverlauf in der Ukraine einfrieren und dann verhandeln: Mit diesem Vorstoß will US-Präsident Trump Bewegung in die Gespräche bringen. Zustimmung erhält er aus Europa. Der Kreml hingegen bleibt bei seinen Maximalforderungen.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Datenanalyse: So sehr ist der Gazastreifen zerstört",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-zerstoerung-106.html",
+      "published": "2025-10-21T10:22:27",
+      "content": "   Wenn die Bewohner des Gazastreifens nun in ihre Heimatorte zurückkehren, finden sie oft nur noch Trümmer vor. Wie sehr die Region zerstört ist, zeigt eine Analyse des ARD-Studios Tel Aviv zusammen mit BR-Datenjournalisten.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "link": "https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound",
+      "published": "2025-10-21T01:16:06",
+      "content": "Myanmar's military moved in to tackle a major online scam operation near the Thailand border, state media reportedMyanmar’s military has raided a major online scam operation near the border with Thailand, detaining more than 2,000 people and seizing dozens of Starlink satellite internet terminals, state media has reported.According to a report in Monday’s Myanma Alinn newspaper, Myanmar’s army raided KK Park, a well-documented cybercrime centre, as part of operations starting in early September to suppress online fraud, illegal gambling, and cross-border cybercrime. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple: KI-Modell erkennt Softwarefehler mit 98 Prozent Genauigkeit",
+      "link": "https://www.heise.de/news/Apple-KI-Modell-erkennt-Softwarefehler-mit-98-Prozent-Genauigkeit-10787217.html",
+      "published": "2025-10-20T15:13:00",
+      "content": "Apple Research präsentiert ADE-QVAET, ein KI-Modell zur Vorhersage von Softwarefehlern mit 98 Prozent Genauigkeit bei Tests.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weather tracker: Eight dead as Tropical Storm Fengshen hits Philippines",
+      "link": "https://www.theguardian.com/environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines",
+      "published": "2025-10-20T11:16:16",
+      "content": "Tens of thousands evacuated amid significant damage from intense rainfall and storm surgeEight people have died and 27,000 have been evacuated after Tropical Storm Fengshen hit the Philippines during the weekend. Fengshen made landfall from the western Pacific Ocean near the municipality of Gubat on the southern tip of the island of Luzon, and while it remains on the weaker side in terms of sustained winds, the intense rainfall and a storm surge have caused significant damage across the region.Anticipated waves of 2 metres (6ft) led the Philippines weather bureau, Pagasa, to issue a risk warning of moderate coastal flooding for the region. Twenty-seven thousand people were evacuated from the Albay province because of these warnings and moved to a safer area further inland. Despite the precautionary measures, five people died when a tree fell on to a house near Pitogo on Sunday morning. Continue reading...",
+      "content_length": 918,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "KI-Update: KI-Vorurteile, Campact gegen xAI, Schwachstelle in LLMs, rabbitAI",
+      "link": "https://www.heise.de/news/KI-Update-KI-Vorurteile-Campact-gegen-xAI-Schwachstelle-in-LLMs-rabbitAI-10751038.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-13T13:00:00",
+      "content": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "content_length": 90,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jeeps nach OTA-Software-Update unbrauchbar",
+      "link": "https://www.heise.de/news/OTA-Software-Update-brickt-Jeeps-waehrend-der-Fahrt-10751765.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-13T12:57:00",
+      "content": "Ein Software-Update für die Telemetrie-Einheit hat Jeeps mit Hybridantrieb in den USA ausfallen lassen – bei einigen auf dem Highway.",
+      "content_length": 133,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "OpenAI sieht sich im Wettbewerb benachteiligt – EU soll handeln",
+      "link": "https://www.heise.de/news/OpenAI-sieht-sich-im-Wettbewerb-benachteiligt-EU-soll-handeln-10749337.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-10T08:08:00",
+      "content": "OpenAI wirft Google, Microsoft und Apple potenziell schädigendes Verhalten vor. Die EU-Wettbewerbsbehörden sollen handeln.",
+      "content_length": 122,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Das passiert, wenn der KI-Betreiber die Sicherheit vernachlässigt",
+      "link": "https://www.heise.de/news/Sensible-Unternehmensdaten-ueber-Sicherheitsprobleme-bei-KI-Firma-kompromittiert-10731728.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-07T13:43:00",
+      "content": "Verträge, Rechnungen und weitere sensible Daten erreichten uns via E-Mail. Die Quelle: eine österreichische KI-Firma, die demnach bei der Sicherheit schlampte.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Viertelstundentakt bei Strombörse gestartet",
+      "link": "https://www.heise.de/news/Viertelstundentakt-bei-Stromboerse-gestartet-10721514.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-06T11:59:00",
+      "content": "Wie zuletzt angekündigt arbeitet der Stromhandel seit Monatsanfang im 15-Minuten-Takt. Erneuerbare Energien erreichen neue Schwellwerte.",
+      "content_length": 136,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Korallenbleiche im Great Barrier Reef erreicht Rekordausmaß",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-great-barrier-reef-korallenbleiche-100.html",
+      "published": "2025-08-07T12:43:32",
+      "content": "   Das 2.300 Kilometer lange Great Barrier Reef vor der Küste Australiens gehört zum UNESCO-Weltnaturerbe. Doch der Klimawandel setzt ihm immer mehr zu. Wissenschaftler blicken mit Sorge in die Zukunft. Von Udo Schmidt. [mehr]",
+      "content_length": 226,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    }
+  ]
+}

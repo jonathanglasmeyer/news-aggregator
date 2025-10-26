@@ -1,0 +1,921 @@
+{
+  "timestamp": "2025-10-26T11:25:56.003305",
+  "input_file": "data/aggregated/20251026_110828.json",
+  "date_range": {
+    "start": "2025-10-20",
+    "end": "2025-10-26"
+  },
+  "stage": "embedded_prefilter",
+  "total_articles": 101,
+  "articles": [
+    {
+      "title": "Katastrophenschutz - Dobrindt will Krisenvorsorge als Doppelstunde an Schulen",
+      "link": "https://www.deutschlandfunk.de/dobrindt-will-krisenvorsorge-als-doppelstunde-an-schulen-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Bundesinnenminister Dobrindt hat sich dafür ausgesprochen, junge Menschen in Schulen auf Krisenfälle vorzubereiten.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Eurovision Song Contest in Wien - Österreichs Kanzler Stocker befürwortet Israels Teilnahme",
+      "link": "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-befuerwortet-israels-teilnahme-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Der österreichische Bundeskanzler Stocker hat sich für die Teilnahme Israels am Eurovision Song Contest 2026 in Wien ausgesprochen. Mit der Waffenruhe im Gazastreifen habe sich die Situation verändert, erklärte Stocker.",
+      "content_length": 219,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Republik Irland - Linksgerichtete Kandidatin Connolly gewinnt Präsidentenwahl",
+      "link": "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-gewinnt-praesidentenwahl-106.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "In Irland hat die linksgerichtete, unabhängige Abgeordnete Connolly die Präsidentschaftswahl gewonnen. Nach offiziellen Angaben erhielt sie 63 Prozent der Stimmen und gewann damit gegen die frühere Ministerin Humphreys von der Mitte-Rechts-Partei Fine Gael.",
+      "content_length": 257,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Linksgerichtete Connolly gewinnt Präsidentschaftswahl in Irland",
+      "link": "https://www.tagesschau.de/ausland/europa/praesidentschaftswahl-irland-connolly-100.html",
+      "published": "2025-10-25T20:08:56",
+      "content": "   Mit deutlicher Mehrheit hat die linksgerichtete Kandidatin Connolly die Präsidentschaftswahl in Irland gewonnen. Der Sieg der EU-Kritikerin gilt als Dämpfer für die Mitte-Rechts-Regierung. Überschattet wurde die Wahl von ungültigen Stimmen. [mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Leftwinger Catherine Connolly wins Ireland presidential election by landslide",
+      "link": "https://www.theguardian.com/world/2025/oct/25/catherine-connolly-ireland-presidential-election-leftwing",
+      "published": "2025-10-25T19:41:19",
+      "content": "Independent pledges to be ‘president for all’ after taking 63% of vote in upset for political establishment The leftwing independent candidate Catherine Connolly has a won landslide election victory and been declared Ireland’s next president.She pledged to be a “president for all” after securing 63% of the first preference votes, a stunning result that shook the political establishment and will make her the republic’s 10th head of state. Continue reading...",
+      "content_length": 461,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ireland's left-wing independent Connolly wins presidential election in landslide",
+      "link": "https://www.france24.com/en/europe/20251025-ireland-s-left-wing-independent-connolly-set-to-be-president-after-rival-concedes-election",
+      "published": "2025-10-25T14:16:40",
+      "content": "Left-wing independent Catherine Connolly is set to become Ireland's new president after winning a landslide victory on Saturday, beating her centrist rival Heather Humphreys with more that 63 percent of the ballots.",
+      "content_length": 215,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Französischer Zentralbank-Chef - \"Frankreich droht wegen Staatsfinanzen zu ersticken\"",
+      "link": "https://www.deutschlandfunk.de/frankreich-droht-wegen-staatsfinanzen-zu-ersticken-104.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Der Chef der französischen Zentralbank, Villeroy de Galhau, hat mit dramatischer Wortwahl den in der Nationalversammlung seit Monaten anhaltenden Haushalts-Konflikt kritisiert.",
+      "content_length": 176,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "80. Geburtstag der CSU - Söder warnt vor Zusammenarbeit mit der AfD",
+      "link": "https://www.deutschlandfunk.de/soeder-warnt-vor-zusammenarbeit-mit-der-afd-108.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "80 Jahre nach der Gründung der CSU hat Parteichef Söder vor einer Zusammenarbeit mit der AfD gewarnt.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Industrie-Absicherung - EU will Abhängigkeit von Rohstoffen aus China verringern",
+      "link": "https://www.deutschlandfunk.de/eu-will-abhaengigkeit-von-rohstoffen-aus-china-verringern-112.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die Europäische Union versucht, ihre Abhängigkeit von Rohstoffen aus China zu verringern. Kommissionspräsidentin von der Leyen kündigte auf einer Konferenz in Berlin entsprechende Pläne an. Ziel sei es, kurz-, mittel- und langfristig Zugänge zu alternativen Quellen für kritische Rohstoffe zu sichern, sagte von der Leyen.",
+      "content_length": 322,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westafrika - Präsidentschaftswahl in Côte d'Ivoire",
+      "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-c-te-d-ivoire-102.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "In der Republik Côte d'Ivoire - auch bekannt als Elfenbeinküste - sind die Präsidentschaftswahlen zu Ende gegangen. Fast neun Millionen Menschen waren zur Stimmabgabe aufgerufen. Die Ergebnisse werden in den kommenden Tagen erwartet. Als aussichtsreichster Bewerber galt der bisherige Amtsinhaber Ouattara.",
+      "content_length": 306,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ski-Weltcup - Österreicherin Julia Scheib gewinnt Saisonauftakt im Riesenslalom in Sölden",
+      "link": "https://www.deutschlandfunk.de/oesterreicherin-julia-scheib-gewinnt-saisonauftakt-im-riesenslalom-in-soelden-104.html",
+      "published": "2025-10-26T09:45:37",
+      "content": "Die österreichische Skirennfahrerin Julia Scheib hat beim Weltcup-Saisonauftakt im heimischen Sölden den Riesenslalom gewonnen.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Epping sex offender back in custody after being released from prison in error",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
+      "published": "2025-10-26T09:45:15",
+      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, had been seen ‘confused’ after release from HMP ChelmsfordA former asylum seeker and convicted sex offender who was released from prison in error has been located and is back in custody, police said.The Ethiopian national Hadush Gerberslasie Kebatu was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and made the subject of a five-year sexual harm prevention order. Continue reading...",
+      "content_length": 502,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Companies that donated to Labour awarded £138m in contracts, study finds",
+      "link": "https://www.theguardian.com/politics/2025/oct/26/companies-that-donated-to-labour-awarded-138m-in-contracts-study-finds",
+      "published": "2025-10-26T06:00:55",
+      "content": "Report raises fresh concerns about the link between political donations and public spendingCompanies that have recently donated to Labour were awarded contracts worth almost £138m during the party’s first year in government, according to new research that raises fresh concerns about the relationship between political donations and public spending.A report by the thinktank Autonomy Institute has identified more than 100 companies that have given money to political parties and then won government contracts, under both Conservative and Labour administrations. Continue reading...",
+      "content_length": 582,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wenn der Staat die Wohnung bezahlt und die Aktionäre kassieren",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wohnungskonzerne-gewinne-aktionaere-100.html",
+      "published": "2025-10-26T04:49:13",
+      "content": "   Wohnkonzerne wie Vonovia und LEG treiben die Mieten nach oben - zur Bereicherung der Aktionäre. Während Vermieter Milliarden ausschütten, sitzen die Menschen in maroden Wohnungen. Zu Lasten der Steuerzahler. Von E. Dietrich.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Texas officers heroically rescue baby pinned under car after overturn crash",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/texas-heroic-rescue-baby",
+      "published": "2025-10-25T23:25:12",
+      "content": "Fort Worth police share video of extraordinary effort by officers and motorists to pull car off baby and give CPRA baby is expected to make a full recovery and two Fort Worth police officers are being hailed as heroes after saving the infant, who was pinned under an overturned car after a crash on Texas’s Interstate 30 on Thursday morning.Fort Worth police said in a social media post that Sgt R Nichols and officer E Bounds responded to a crash around 9.30am where a woman and an infant had been in a collision that caused the infant to be ejected from the vehicle. Continue reading...",
+      "content_length": 588,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "New Jersey officer charged after going out for pizza instead of responding to shooting",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide",
+      "published": "2025-10-25T22:10:03",
+      "content": "Sgt Kevin Bollaro accused of misconduct and falsifying report after blowing off investigation of a double homicideA New Jersey officer has been charged with misconduct after prosecutors say he didn’t quickly respond to and properly investigate reports of a shooting that turned out to be a double murder, instead stopping at an ATM and pizzeria.Franklin township police sergeant Kevin Bollaro was the on-duty officer on the evening of 1 August when police received 911 calls reporting gunshots and screaming in Pittstown, about 60 miles (96 kilometers) from Manhattan in central New Jersey, according to Hunterdon county prosecutor Renée Robeson’s office. Continue reading...",
+      "content_length": 675,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "British tourist dies after 20ft fall from Lanzarote hotel balcony",
+      "link": "https://www.theguardian.com/world/2025/oct/25/british-tourist-dies-after-20ft-fall-from-lanzarote-hotel-balcony",
+      "published": "2025-10-25T20:55:47",
+      "content": "Another man in critical condition after railing reportedly breaks off in Costa TeguiseA British tourist has died after a 20ft fall from a hotel balcony in the Canary Islands.Another Briton was left with serious injuries after the balcony railing reportedly broke off in the Lanzarote resort town of Costa Teguise. Continue reading...",
+      "content_length": 333,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hispanics’ support of Trump plunges since he started second term",
+      "link": "https://www.theguardian.com/us-news/2025/oct/25/trump-hispanic-approval-rating",
+      "published": "2025-10-25T19:20:06",
+      "content": "Notable majority feel the country is headed in the wrong direction, and only 27% approve of his job performanceDonald Trump’s standing with Hispanic adults has dropped notably since he took office at the start of the year, according to a new poll.Polling by the Associated Press-NORC Center for Public Affairs Research suggests growing unease among a voting bloc that was crucial to his 2024 re-election victory. The October survey shows that 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down sharply from 44% in an AP-NORC poll conducted just before he began his second term. Continue reading...",
+      "content_length": 631,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Inhaftierte Straßenmusikerin wird in Russland zum Symbol des Widerstands",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-strassenmusikerin-verhaftet-100.html",
+      "published": "2025-10-25T18:56:37",
+      "content": "   Die russische Straßenmusikerin Naoko sitzt in Haft, weil sie in St. Petersburg Lieder von Musikern sang, die als \"ausländische Agenten\" gelten. Ihr Schicksal hat im Land eine Welle der Solidarität ausgelöst. Von Stefanie Markert.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Liberia says it will take Kilmar Abrego Garcia if US deports him",
+      "link": "https://www.france24.com/en/africa/20251025-liberia-says-it-will-take-kilmar-abrego-garcia-if-us-deports-him",
+      "published": "2025-10-25T17:59:04",
+      "content": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported Abrego Garcia in March, where he was incarcerated in El Salvador's notorious CECOT mega-prison before returning to the US in June.",
+      "content_length": 330,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "FRANCE 24's Elena Volochine wins top French journalism prize for book on Putin propaganda machine",
+      "link": "https://www.france24.com/en/culture/20251025-france-24-elena-volochine-wins-top-french-journalism-prize-albert-londres-book-putin-propaganda-arme-de-guerre",
+      "published": "2025-10-25T15:38:49",
+      "content": "The Albert Londres book prize, France’s equivalent of the Pulitzer, has been awarded to Elena Volochine for \"Propagande : l’arme de guerre de Vladimir Poutine\" (Propaganda: Vladimir Putin's weapon of war). Volochine is FRANCE 24's Moscow bureau chief.",
+      "content_length": 251,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "What does nearly $6,000 of gaming laptop get you?",
+      "link": "https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review",
+      "published": "2025-10-25T15:00:00",
+      "content": "\n\n\n\t\n\tMSI’s flagship is indeed titanic in stature, and certainly price.\t\n\nIt's easy to get into the weeds on a hobby, especially if you're into PC gaming and dreaming of the highest levels of graphical performance. But how much is too much for hardware? Spending top dollar on graphics power, processing, RAM, storage, etc. - like many things - eventually leads to diminishing returns. When it comes to gaming laptops, MSI's $5,699.99 Titan 18 is well beyond that inflection point. But it's also like nothing else. \nIt's not very logical to spend that much when other excellent gaming laptops are nearly as powerful but cost almost half as much. While the Titan is an absolutely reckless purchase, it's also a joyous one t …\nRead the full story at The Verge.",
+      "content_length": 758,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Is Waymo ready for winter?",
+      "link": "https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing",
+      "published": "2025-10-25T12:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nDuring a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely handle the snow.\nIn its first few years of operation, Waymo has strategically stuck to cities with warmer, drier climates - places like Phoenix, Los Angeles, Atlanta, and Austin. But as it eyes a slate of East Coast cities, including Boston, New York City, and Washington, DC, for the next phase of its expansion, its abilities to handle more adverse weather will become a crucial test.\n\"Ha h …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The rise of &#8220;catch a cheater&#8221; apps exploits our worst human tendencies",
+      "link": "https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder",
+      "published": "2025-10-25T12:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nWhen people sign up for a dating site like Tinder, they don't expect their profiles and personal information to be searchable - especially by a scorned lover, or worse. But that's what popular apps like Cheaterbuster or CheatEye seem to be doing under the guise of being able to \"catch cheaters.\"\nLast week, 404 Media published a report about apps that apparently use facial recognition technology to trace dating profiles of private citizens as evidence that these partners are unfaithful. Many of these services charge a one-time fee to locate a Tinder profile with just a name or a photo of the person's face. (Some searches can run you $18 a tr …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "French court sentences Algerian woman to life for murdering schoolgirl",
+      "link": "https://www.france24.com/en/video/20251025-french-court-sentences-algerian-woman-to-life-for-murdering-schoolgirl",
+      "published": "2025-10-25T11:11:41",
+      "content": "A French court on Friday sentenced an Algerian woman to life imprisonment without parole for raping, torturing and murdering a schoolgirl in Paris, making her the first woman to receive this maximum sentence. Dahbia Benkired was handed an \"irreducible life sentence\" for killing 12-year-old Lola Daviet in the French capital in 2022, in a case that horrified the country and sparked anti-immigration fervour because the woman did not have the right to be in France.",
+      "content_length": 465,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Whale and dolphin migrations are being disrupted by climate change",
+      "link": "https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/",
+      "published": "2025-10-25T11:00:09",
+      "content": "For millennia, some of the world’s largest filter-feeding whales, including humpbacks, fin whales, and blue whales, have undertaken some of the longest migrations on earth to travel between their warm breeding grounds in the tropics to nutrient-rich feeding destinations in the poles each year.\n“Nature has finely tuned these journeys, guided by memory and environmental cues that tell whales when to move and where to go,” said Trisha Atwood, an ecologist and associate professor at Utah State University’s Quinney College of Agriculture and Natural Resources. But, she said, climate change is “scrambling these signals,” forcing the marine mammals to veer off course. And they’re not alone.\nEarlier this year, Atwood joined more than 70 other scientists to discuss the global impacts of climate change on migratory species in a workshop convened by the United Nations Convention on the Conservation of Migratory Species of Wild Animals. The organization monitors and protects more than 1,000 species that cross borders in search of food, mates, and favorable conditions to nurture their offspring.Read full article\nComments",
+      "content_length": 1125,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tracking-Apps: Wenn Eltern ihre Kinder überwachen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gps-tracker-eltern-kinder-100.html",
+      "published": "2025-10-25T10:53:23",
+      "content": "   Freunde oder Familie auf Schritt und Tritt verfolgen - das geht mit GPS-Tracking-Apps. Was macht die Funktion besonders bei Eltern so beliebt und welche Risiken gibt es? Von Katharina Spreier.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Geflügelhalter warnen vor Engpässen und fordern Schutz ihrer Bestände",
+      "link": "https://www.tagesschau.de/inland/vogelgrippe-gefluegelhalter-stallpflicht-engpaesse-100.html",
+      "published": "2025-10-25T10:25:54",
+      "content": "   Mehr als 200.000 Hühner, Gänse, Enten und Puten mussten bereits getötet werden: Die Ausbreitung der Vogelgrippe schreitet voran. Geflügelhalter fordern nun Konsequenzen wie eine bundesweite Stallpflicht.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Tiergartenmord\": Bruder des Opfers mit Familie abgeschoben",
+      "link": "https://www.tagesschau.de/ausland/europa/tiergartenmord-russland-mordopfer-bruder-abschiebung-georgien-100.html",
+      "published": "2025-10-25T09:39:18",
+      "content": "   Mehrere Familienmitglieder des 2019 in Berlin ermordeten Selimchan Changoschwili sind nach Georgien abgeschoben worden. Sie fürchten dort um ihre Sicherheit. Grünen-Politiker Wagener spricht von \"zynischer Abschiebepolitik\". Von S. Stöber.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pentagon nimmt wegen des Shutdowns anonyme Millionenspende an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-millionenspende-haushaltsstreit-shutdown-100.html",
+      "published": "2025-10-25T06:36:28",
+      "content": "   Wegen der anhaltenden Haushaltssperre in den USA warten auch Soldaten auf ihr Gehalt. Das Pentagon hat nun bestätigt, dafür eine anonyme, private Spende von 130 Millionen Dollar angenommen zu haben.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Turkey likely to be excluded from Gaza stabilisation force after Israeli objection",
+      "link": "https://www.theguardian.com/world/2025/oct/25/turkey-gaza-stabilisation-force-israeli-objection",
+      "published": "2025-10-25T04:00:24",
+      "content": "Doubts over whether Ankara will be part of 5,000-strong force to be deployed to prevent postwar power vacuumTurkey will probably be excluded from the 5,000-strong stabilisation force that is to be set up inside Gaza after Israel made clear it did not want Turkish troops taking part.Marco Rubio, the US secretary of state, said it was a requirement that Israel is comfortable with the nationality of the multinational force, set up to prevent a security vacuum when the massive task of reconstruction in Gaza starts. Turkey has said it is willing to offer troops, but Israel has let it be known that it disapproves of Turkish troops taking part in the force. Continue reading...",
+      "content_length": 678,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bored Ape Yacht Club is making a comeback — as a metaverse",
+      "link": "https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs",
+      "published": "2025-10-25T03:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt's dusk, and bugs are chirping all around me. I'm wandering through the middle of a big, virtual swamp toward the sound of thumping bass off in the distance. There isn't much else nearby - some trees, a couple of other players. It's mostly just me and the sound emanating from a large wooden structure strung up with lights sitting farther out into the swamp.\nWhen I finally arrive, it rises above me: the official clubhouse of the Bored Ape Yacht Club. I make for the door to head inside. Except I find I can't get access; even though the lights are on in the house, the doors don't actually open. There's nothing to do.\nThese were my first ste …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verlorene Posten: Machtkämpfe in Chinas Führung?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-umbesetzungen-partei-armee-100.html",
+      "published": "2025-10-25T00:02:59",
+      "content": "   Amtsinhaber verschwinden plötzlich, Positionen werden leise neu besetzt: Chinas kommunistische Führungsriege kann sich unter Staatschef Xi nicht sicher fühlen. Steckt tatsächlich nur Korruptionsbekämpfung dahinter? Von Jörg Endriss.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sam Altman’s next startup eyes using sound waves to read your brain",
+      "link": "https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire",
+      "published": "2025-10-25T00:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nSam Altman has tapped Mikhail Shapiro, an award-winning biomolecular engineer, to join the Merge Labs brain-computer interface startup he's set to announce soon with co-founder Alex Blania.\nWhile Shapiro's official title is unclear, sources say he will be part of Merge's founding team and has been positioned as a key leader in talks with investors. Those talks are ongoing, but Merge expects to raise hundreds of millions of dollars from OpenAI and others, as The Financial Times earlier reported.\nS …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit",
+      "link": "https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti",
+      "published": "2025-10-24T23:07:53",
+      "content": "\n\n\n\t\n\t\t\n\nEarlier this week, Jon Prosser, who is being sued by Apple for allegedly stealing trade secrets, told The Verge that he has been “in active communications with Apple since the beginning stages of this case.” But Apple, in a new filing on Thursday that was reported on by MacRumors, said that while Prosser has “publicly acknowledged” Apple’s complaint, he “has not indicated whether he will file a response to it or, if so, by when.”\n\nProsser didn’t immediately reply to a request for comment from The Verge. Apple sued Prosser, who posted videos earlier this year showing off features that would debut in iOS 26 ahead of their official announcement, and another defendant, Michael Ramacciotti, in July. The company alleged that Prosser and Ramacciotti had “a coordinated scheme to break into an Apple development iPhone, steal Apple’s trade secrets, and profit from the theft.”\n\nA clerk already entered a default against Prosser last week, which means he hasn’t responded to the lawsuit and that the case can move forward. In Thursday’s filing, Apple said it “intends to file a default judgment seeking damages and an injunction against him.”\n\nThursday’s filing also includes statements from Ramacciotti. While Ramacciotti “admits to” providing information about iOS 26 to Prosser, “no underlying plan, conspiracy, or scheme was formed” between them, Ramacciotti said. He also claimed that he “had no intent to monetize this information when he contacted Mr. Prosser, nor was there any arrangement at the time the information was conveyed that he would be compensation [sic].”\n\nApple and Ramacciotti have also “informally discussed settlement,” according to the filing.",
+      "content_length": 1679,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Marktbericht: US-Börsen auf Rekordkurs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-usa-china-trump-oelpreis-gold-rheinmetall-hensoldt-100.html",
+      "published": "2025-10-24T20:13:46",
+      "content": "   Wie im Rausch haben die US-Börsen neue Allzeithochs markiert. Inflationszahlen schürten Zinshoffnungen, danach kannte der Markt kein Halten mehr. Der DAX hingegen stagnierte.[mehr]",
+      "content_length": 183,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tech billionaires are now shaping the militarization of American cities",
+      "link": "https://arstechnica.com/tech-policy/2025/10/troops-in-us-cities-tech-billionaires-are-shaping-that-too/",
+      "published": "2025-10-24T18:55:47",
+      "content": "Yesterday, Donald Trump announced on social media that he had been planning to “surge” troops into San Francisco this weekend—but was dissuaded from doing so by several tech billionaires.\n“Friends of mine who live in the area called last night to ask me not to go forward with the surge,” Trump wrote.\nWho are these “friends”? Trump named “great people like [Nvidia CEO] Jensen Huang, [Salesforce CEO] Marc Benioff, and others” who told him that “the future of San Francisco is great. They want to give it a ‘shot.’ Therefore, we will not surge San Francisco on Saturday. Stay tuned!”Read full article\nComments",
+      "content_length": 610,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tesla’s “Mad Max” mode is now under federal scrutiny",
+      "link": "https://arstechnica.com/cars/2025/10/feds-probe-tesla-about-its-mad-max-mode/",
+      "published": "2025-10-24T18:35:30",
+      "content": "Earlier this month, Tesla rolled out a new firmware update that added a pair of new driving modes for the controversial full self-driving (FSD) feature. One, called “Sloth,” relaxes acceleration and stays in its lane. The other, called “Mad Max,” does the opposite: It speeds and swerves through traffic to get you to your destination faster. And after multiple reports of FSD Teslas doing just that, the National Highway Traffic Safety Administration wants to know more.\nIn fact, “Mad Max” mode is not entirely new—Tesla beta-tested the same feature in Autopilot in 2018, before deciding not to roll it out in a production release after widespread outcry.\nThese days, the company is evidently feeling less constrained; despite having just lost a federal wrongful death lawsuit that will cost it hundreds of millions of dollars, it described the new mode as being able to drive “through traffic at an incredible pace, all while still being super smooth. It drives your car like a sports car. If you are running late, this is the mode for you.”Read full article\nComments",
+      "content_length": 1069,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU accuses Meta of violating content rules in move that could anger Trump",
+      "link": "https://arstechnica.com/tech-policy/2025/10/trump-tariff-threats-havent-stopped-eu-from-cracking-down-on-meta/",
+      "published": "2025-10-24T18:18:19",
+      "content": "Meta violated the Digital Services Act (DSA) by failing to give Facebook and Instagram users simple mechanisms to report illegal content, the European Commission said in a preliminary decision announced yesterday. Meta also failed to give users an effective way to challenge content moderation decisions, the EC said.\n“When it comes to Meta, neither Facebook nor Instagram appear to provide a user-friendly and easily accessible ‘Notice and Action’ mechanism for users to flag illegal content, such as child sexual abuse material and terrorist content,” the EC press release said. The EC said that Meta mechanisms seem to “impose several unnecessary steps and additional demands on users. In addition, both Facebook and Instagram appear to use so-called ‘dark patterns,’ or deceptive interface designs, when it comes to the ‘Notice and Action’ mechanisms.”\nThe EC also found that the content moderation appeal mechanisms used by Facebook and Instagram do not “allow users to provide explanations or supporting evidence to substantiate their appeals. This makes it difficult for users in the EU to further explain why they disagree with Meta’s content decision, limiting the effectiveness of the appeals mechanism.”Read full article\nComments",
+      "content_length": 1240,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Medienbehörde: Äthiopien suspendiert Deutsche-Welle-Journalisten",
+      "link": "https://www.tagesschau.de/ausland/afrika/aethiopien-deutsche-welle-korrespondenten-100.html",
+      "published": "2025-10-24T17:37:10",
+      "content": "   Die Deutsche Welle darf vorerst nicht mehr direkt aus Äthiopien berichten. Die Regierung hat angeordnet, dass neun Korrespondenten und Korrespondentinnen ihre Arbeit einstellen müssen. Der Sender protestiert gegen diesen Schritt.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships",
+      "link": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
+      "published": "2025-10-24T17:07:57",
+      "content": "Microsoft is rolling out a new face for its AI, and its name is Mico. The company announced the new, animated blob-like avatar for Copilot’s voice mode yesterday as part of a “human-centered” rebranding of Microsoft’s Copilot AI efforts.\nMico is part of a Microsoft program dedicated to the idea that “technology should work in service of people,” Microsoft wrote. The company insists this effort is “not [about] chasing engagement or optimizing for screen time. We’re building AI that gets you back to your life. That deepens human connection.”\nMico has drawn instant and obvious comparisons to Clippy, the animated paperclip that popped up to offer help with Microsoft Office starting in the ’90s. Microsoft has leaned into this comparison with an Easter egg that can transform Mico into an animated Clippy.Read full article\nComments",
+      "content_length": 835,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kroatien führt Wehrpflicht wieder ein - Auch Zivildienst möglich",
+      "link": "https://www.tagesschau.de/ausland/europa/kroatien-militaer-wehrpflicht-100.html",
+      "published": "2025-10-24T16:51:35",
+      "content": "   In Deutschland wird heftig über den Wehrdienst diskutiert, Kroatien hat bereits gehandelt und führt die Wehrpflicht wieder ein. Begründet wird dies mit der \"veränderten Sicherheitslage\".[mehr]",
+      "content_length": 195,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Scottish fire engine destined for West Bank may return after 15-month Israeli seizure",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/24/scottish-fire-engine-destined-for-west-bank-may-return-after-15-month-israeli-seizure",
+      "published": "2025-10-24T16:47:04",
+      "content": "Dundee firefighters request return of donated appliance to avoid Nablus officials having to pay £16,000 Ashdod holding feesA fully equipped fire engine donated by Dundee firefighters to their counterparts in the West Bank city of Nablus could be sent back to Scotland after being impounded for more than a year by Israeli authorities.Firefighters in Dundee, which is twinned with Nablus, have regularly donated kit, equipment and medical supplies to the West Bank over the past 15 years, as well as bringing Palestinian firefighters to Scotland for training. Continue reading...",
+      "content_length": 578,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US secretary of state Marco Rubio says ‘Hamas cannot be involved in governing Gaza’ – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/24/aid-gaza-israel-palestine-benjamin-netanyahu-hamas-ceasefire-west-bank-middle-east-live-news",
+      "published": "2025-10-24T13:31:46",
+      "content": "Rubio also said the UN agency for Palestinian refugees (Unrwa) cannot play a future role in Gaza, claiming it is a ‘subsidiary of Hamas’At least 14 migrants died when their inflatable dinghy capsized in the Aegean Sea off the Turkish resort of Bodrum, the governor’s office said on Friday, raising an earlier toll of seven dead.“The lifeless bodies of 14 irregular migrants were recovered,” the office of the Mugla governorate said on X, quoting one of the two survivors as saying that 18 people had been on board when the dinghy went down. The fate of the other two remained unclear, reports Agence France-Presse (AFP). Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rocket Report: China tests Falcon 9 lookalike; NASA’s Moon rocket fully stacked",
+      "link": "https://arstechnica.com/space/2025/10/rocket-report-china-tests-falcon-9-lookalike-nasas-moon-rocket-fully-stacked/",
+      "published": "2025-10-24T11:00:36",
+      "content": "Welcome to Edition 8.16 of the Rocket Report! The 10th anniversary of SpaceX’s first Falcon 9 rocket landing is coming up at the end of this year. We’re still waiting for a second company to bring back an orbital-class booster from space for a propulsive landing. Two companies, Jeff Bezos’ Blue Origin and China’s LandSpace, could join SpaceX’s exclusive club as soon as next month. (Bezos might claim he’s already part of the club, but there’s a distinction to be made.) Each company is in the final stages of launch preparations—Blue Origin for its second New Glenn rocket, and LandSpace for the debut flight of its Zhuque-3 rocket. Blue Origin and LandSpace will both attempt to land their first stage boosters downrange from their launch sites. They’re not exactly in a race with one another, but it will be fascinating to see how New Glenn and Zhuque-3 perform during the uphill and downhill phases of flight, and whether one or both of the new rockets stick the landing.\nAs always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.\n\n    \n                        \n                  \n      \n\nThe race for space-based interceptors. The Trump administration’s announcement of the Golden Dome missile defense shield has set off a race among US companies to develop and test space weapons, some of them on their own dime, Ars reports. One of these companies is a 3-year-old startup named Apex, which announced plans to test a space-based interceptor as soon as next year. Apex’s concept will utilize one of the company’s low-cost satellite platforms outfitted with an “Orbital Magazine” containing multiple interceptors, which will be supplied by an undisclosed third-party partner. The demonstration in low-Earth orbit could launch as soon as June 2026 and will test-fire two interceptors from Apex’s Project Shadow spacecraft. The prototype interceptors could pave the way for operational space-based interceptors to shoot down ballistic missiles. (submitted by biokleen)Read full article\nComments",
+      "content_length": 2273,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "West Bank resistance dies amid fears of becoming Israel’s ‘next Gaza’",
+      "link": "https://www.theguardian.com/world/2025/oct/24/west-bank-residents-fear-they-may-be-israels-next-target-after-gaza",
+      "published": "2025-10-24T09:18:48",
+      "content": "Once known as the ‘martyrs’ capital’ of Palestine, Jenin is now patrolled by Israeli soldiers as weary residents seek quiet lifeShadi Dabaya’s body bears the scars of the Israeli occupation. The 54-year-old proudly stuck out his jaw to show the chunk of his cheek torn away by Israeli fire and traced the zigzag scar on his arm, the pink, raised flesh marking the bullet’s path through his body.“I got these in the second intifada,” said Dabaya, beaming. He pulled up a video of himself a year earlier confronting an Israeli personnel carrier in Jenin camp wielding only a flip-flop. Continue reading...",
+      "content_length": 603,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Two dead and dozens arrested amid Cameroon election crackdown",
+      "link": "https://www.theguardian.com/world/2025/oct/24/deaths-arrests-amid-cameroon-election-crackdown",
+      "published": "2025-10-24T09:00:54",
+      "content": "Wave of unrest as polling suggests victory in presidential race for 92-year-old incumbent Paul BiyaAt least two people have been killed and dozens of protesters arrested in Cameroon as the government cracks down on dissent before the announcement of final results in this month’s presidential elections.Local media reports, citing preliminary data from the electoral commission (Elecam), suggest that victory for the 92-year-old incumbent, Paul Biya, is all but certain. That prospect has provoked anger and disbelief among his opponents, leading to unrest across several regions. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "India trials Delhi cloud seeding to clean air in world’s most polluted city",
+      "link": "https://www.theguardian.com/world/2025/oct/24/india-trial-delhi-cloud-seeding-clean-air-world-polluted-city-bharatiya-janata-party",
+      "published": "2025-10-24T07:25:13",
+      "content": "Bharatiya Janata party launches first test flight as brown haze blankets city after Diwali – but experts decry ‘gimmick’The Delhi regional government is trialling a cloud-seeding experiment to induce artificial rain, in an effort to clean the air in the world’s most polluted city.The Bharatiya Janata party (BJP) has been proposing the use of cloud seeding as a way to bring Delhi’s air pollution under control since it was elected to lead the regional government this year. Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Delhi awakes to a toxic haze after Diwali as pollution season begins",
+      "link": "https://www.theguardian.com/world/2025/oct/21/delhi-awakes-toxic-haze-diwali-pollution-season-begins",
+      "published": "2025-10-21T09:11:18",
+      "content": "Air breathed by people in the city categorised as ‘severe’ in quality after fireworks contribute to thick smogDelhi awoke to a thick haze on Tuesday, a day after millions of people celebrated the Hindu festival of Diwali with fireworks, marking the beginning of the pollution season that has become an annual blight on India’s capital.Those in the most polluted city in the world once again found themselves breathing dangerously toxic air that fell into the “severe” category on Tuesday morning. Continue reading...",
+      "content_length": 516,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Vance says Knesset votes on annexing West Bank are an ‘insult’ as Netanyahu halts progress",
+      "link": "https://www.theguardian.com/world/2025/oct/23/marco-rubio-warning-israel-west-bank-donald-trump",
+      "published": "2025-10-23T22:10:11",
+      "content": "US vice-president suggests votes were ‘stupid political stunt’ as Israeli PM orders a stop to any further work on bills The Israeli prime minister, Benjamin Netanyahu, has ordered a halt to the advancement of parliamentary bills linked to the annexation of the West Bank after the US vice-president, JD Vance, described a vote on two bills in the Knesset as an “insult”.The bills applying Israeli law to the occupied West Bank, which would be tantamount to the annexation of land Palestinians want for a state, won preliminary approval from Israel’s parliament on Wednesday, barely a week after Donald Trump pushed through a deal aimed at ending a two-year Israeli offensive in Gaza. Continue reading...",
+      "content_length": 703,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+      "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+      "published": "2025-10-23T22:08:40",
+      "content": "OpenAI has acquired Software Applications Incorporated (SAI), perhaps best known for the core team that produced what became Shortcuts on Apple platforms. More recently, the team has been working on Sky, a context-aware AI interface layer on top of macOS. The financial terms of the acquisition have not been publicly disclosed.\n“AI progress isn’t only about advancing intelligence—it’s about unlocking it through interfaces that understand context, adapt to your intent, and work seamlessly,” an OpenAI rep wrote in the company’s blog post about the acquisition. The post goes on to specify that OpenAI plans to “bring Sky’s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI.”\nThat includes SAI co-founders Ari Weinstein (CEO), Conrad Kramer (CTO), and Kim Beverett (Product Lead)—all of whom worked together for several years at Apple after Apple acquired Weinstein and Kramer’s previous company, which produced an automation tool called Workflows, to integrate Shortcuts across Apple’s software platforms.Read full article\nComments",
+      "content_length": 1084,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
+      "link": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
+      "published": "2025-10-23T21:54:39",
+      "content": "In a lawsuit filed on Wednesday, Reddit accused an AI search engine, Perplexity, of conspiring with several companies to illegally scrape Reddit content from Google search results, allegedly dodging anti-scraping methods that require substantial investments from both Google and Reddit.\nReddit alleged that Perplexity feeds off Reddit and Google, claiming to be “the world’s first answer engine” but really doing “nothing groundbreaking.”\n“Its answer engine simply uses a different company’s” large language model “to parse through a massive number of Google search results to see if it can answer a user’s question based on those results,” the lawsuit said. “But Perplexity can only run its ‘answer engine’ by wrongfully accessing and scraping Reddit content appearing in Google’s own search results from Google’s own search engine.”Read full article\nComments",
+      "content_length": 860,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Britisches Urteil: Apple hat App-Käufer abgezockt",
+      "link": "https://www.heise.de/news/Niederlage-fuer-Apple-in-London-App-Gebuehren-viel-zu-hoch-10837104.html",
+      "published": "2025-10-23T19:53:00",
+      "content": "Die Gebühren in Apples App Store sind viel zu hoch, sagt ein Gericht in London. Apple soll hunderte Millionen zurückgeben. Auch App-Anbieter dürfen hoffen.",
+      "content_length": 155,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mehrere Staaten kritisieren Israels Annexionspläne",
+      "link": "https://www.tagesschau.de/ausland/asien/rubio-israel-annexion-westjordanland-100.html",
+      "published": "2025-10-23T19:33:41",
+      "content": "   Die USA haben Israel vor einer Annexion des Westjordanlands gewarnt. Bereits vor seiner Reise nach Israel übt Außenminister Rubio scharfe Kritik. Auch die internationale Kritik an den israelischen Plänen wächst.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Seekabel: EU warnt vor Abhängigkeit von US-Hyperscalern",
+      "link": "https://www.heise.de/news/Seekabel-EU-warnt-vor-Abhaengigkeit-von-US-Hyperscalern-10824923.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-23T14:21:00",
+      "content": "Ein EU-Bericht warnt vor Europas Abhängigkeit von US-Technologiekonzernen bei Unterseekabeln und kritischen Komponenten. Auch die Reparatur ist gefährdet.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "LKA Niedersachsen warnt vor Guthabenkarten-Betrugsmasche",
+      "link": "https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-Guthabenkarten-Betrugsmasche-10819486.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-23T12:29:00",
+      "content": "Das LKA Niedersachsen sieht eine Häufung von Betrugsversuchen, bei denen Täter sich als Bekannte ausgeben und Guthabenkarten wollen.",
+      "content_length": 132,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nexperia-Krise: Wirtschaftsministerium sieht \"erhebliche Betroffenheit\"",
+      "link": "https://www.heise.de/news/Nexperia-Krise-Wirtschaftsministerium-sieht-erhebliche-Betroffenheit-10819376.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-23T11:35:00",
+      "content": "Die Folgen der Auseinandersetzung um den Chiphersteller Nexperia sind weiter unklar. Das Bundeswirtschaftsministerium spricht von \"erheblicher Betroffenheit\".\n",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "JavaScript: Testing-Framework Vitest 4.0 bringt visuelles Regressionstesting",
+      "link": "https://www.heise.de/news/JavaScript-Testing-Framework-Vitest-4-0-bringt-visuelles-Regressionstesting-10811238.html",
+      "published": "2025-10-23T09:08:00",
+      "content": "Im Major Release ist der Browser Mode stabil, der neuerdings Visual Regression Testing bietet, um optische Änderungen aufzudecken.",
+      "content_length": 130,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mongolischer Ministerpräsident doch nicht abgesetzt",
+      "link": "https://www.tagesschau.de/ausland/asien/mongolei-verfassungsgericht-praesident-100.html",
+      "published": "2025-10-23T09:02:48",
+      "content": "   Die Mongolei steckt in einer Regierungskrise, es geht dabei um Macht und Korruptionsvorwürfe. Nun sollte der Ministerpräsident des Landes abgesetzt werden. Doch das Verfassungsgericht stoppte das Vorhaben. [mehr]",
+      "content_length": 215,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Starmers Ausweis-Pläne treffen auf Widerstand",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-gegen-digital-id-100.html",
+      "published": "2025-10-23T07:12:28",
+      "content": "   In Großbritannien wächst der Widerstand gegen eine geplante digitale Ausweispflicht der Regierung. Eine Petition dagegen haben mittlerweile fast drei Millionen Menschen unterschrieben. Von Christian Saathoff.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Warum die Ukraine Rüstungsgüter exportieren will",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-exporte-ruestungsgueter-100.html",
+      "published": "2025-10-23T07:09:59",
+      "content": "   Die Ukraine hat in den vergangenen Jahren Rüstungsgüter entwickelt, mit denen sie sich selbst verteidigt. Bisher darf sie diese Produkte nicht exportieren. Das soll sich nun ändern. Von Florian Kellermann.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Falschinformation durch KI: 45 Prozent der Antworten fehlerhaft",
+      "link": "https://www.heise.de/news/Europaeische-Rundfunkunion-KI-Systeme-geben-Nachrichteninhalte-oft-falsch-wider-10796779.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-22T15:16:00",
+      "content": "Im Rahmen einer Studie interpretierten ChatGPT & Co. in 45 Prozent der Fälle Nachrichteninhalte fehlerhaft – unabhängig von Sprache, Region oder Plattform.",
+      "content_length": 155,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Foltervorwürfe gegen Israel nach Übergabe von Leichen Gefangener",
+      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-haeftlinge-foltervorwuerfe-100.html",
+      "published": "2025-10-22T12:06:03",
+      "content": "   Hat Israel Gefangene gefoltert? Nach der Überstellung von 150 palästinensischen Leichen in den Gazastreifen werden schwere Vorwürfe laut. Unabhängig überprüfen lassen sie sich nicht. Von Jan-Christoph Kitzler.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Cuban man deported from US to Eswatini goes on hunger strike in prison",
+      "link": "https://www.theguardian.com/world/2025/oct/22/cuban-man-roberto-mosquera-del-peral-deported-from-us-to-eswatini-on-hunger-strike-in-prison",
+      "published": "2025-10-22T11:46:30",
+      "content": "Roberto Mosquera del Peral was sent to African country as part of Trump administration’s immigration crackdownA Cuban man deported by the Trump administration to the southern African country of Eswatini has started a hunger strike against his detention there, his lawyer said on Wednesday.Roberto Mosquera del Peral was among five third-country nationals deported from the US to Eswatini, formerly Swaziland, in July. Continue reading...",
+      "content_length": 437,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Schwachstelle in Rust-Library für tar-Archive entdeckt",
+      "link": "https://www.heise.de/news/Schwachstelle-in-Rust-Library-fuer-tar-Archive-entdeckt-10793899.html",
+      "published": "2025-10-22T08:51:00",
+      "content": "Die Library async-tar und ihre Forks enthalten eine als TARmageddon benannte Schwachstelle. Der am weitesten verbreitete Fork tokio-tar bekommt keinen Patch.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "React-Framework Next.js 16 macht Turbopack zum Standard-Bundler",
+      "link": "https://www.heise.de/news/React-Framework-Next-js-16-macht-Turbopack-zum-Standard-Bundler-10794045.html",
+      "published": "2025-10-22T08:16:00",
+      "content": "Turbopack und der Support für den React Compiler sind nun stabil. Das Caching soll durch die neuen Cache Components flexibler werden.",
+      "content_length": 133,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Have I Been Pwned: 183 Millionen Zugänge  aus Infostealer-Sammlung hinzugefügt",
+      "link": "https://www.heise.de/news/Have-I-Been-Pwned-183-Millionen-von-Infostealern-erbeutete-Zugaenge-ergaenzt-10793974.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-22T07:44:00",
+      "content": "\"Have I Been Pwned\" sammelt veröffentlichte Zugangsdaten. Nun kamen 183 Millionen von Infostealern geklaute Konten hinzu.",
+      "content_length": 121,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "BentoPDF 1.0: Neues Open-Source-PDF-Werkzeug fürs Self-Hosting",
+      "link": "https://www.heise.de/news/BentoPDF-1-0-0-Open-Source-PDF-Tool-mit-Privacy-Fokus-erschienen-10793109.html",
+      "published": "2025-10-21T12:49:00",
+      "content": "Das neue Open-Source-Tool BentoPDF erscheint in Version 1.0 mit umfangreichen PDF-Funktionen, Docker-Integration und Fokus auf lokale Datenverarbeitung.",
+      "content_length": 152,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Datenanalyse: So sehr ist der Gazastreifen zerstört",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-zerstoerung-106.html",
+      "published": "2025-10-21T10:22:27",
+      "content": "   Wenn die Bewohner des Gazastreifens nun in ihre Heimatorte zurückkehren, finden sie oft nur noch Trümmer vor. Wie sehr die Region zerstört ist, zeigt eine Analyse des ARD-Studios Tel Aviv zusammen mit BR-Datenjournalisten.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Software Testing: Praxisnahes Softwaretesten mit Java",
+      "link": "https://www.heise.de/blog/Software-Testing-Praxisnahes-Softwaretesten-mit-Java-10789378.html",
+      "published": "2025-10-21T08:26:00",
+      "content": "In dieser Episode des Podcasts sprechen Richard Seidl und Pascal Moll über den Einstieg ins Softwaretesten in der Java-Welt.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Microsoft: Update außer der Reihe für Windows Recovery Environment",
+      "link": "https://www.heise.de/news/Microsoft-Update-ausser-der-Reihe-fuer-Windows-Recovery-Environment-10789291.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-21T06:50:00",
+      "content": "Ein ungeplantes Update für die Windows-Wiederherstellungsumgebung macht sie wieder bedienbar – auch mit USB-Keyboards und -Mäusen.",
+      "content_length": 130,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "link": "https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound",
+      "published": "2025-10-21T01:16:06",
+      "content": "Myanmar's military moved in to tackle a major online scam operation near the Thailand border, state media reportedMyanmar’s military has raided a major online scam operation near the border with Thailand, detaining more than 2,000 people and seizing dozens of Starlink satellite internet terminals, state media has reported.According to a report in Monday’s Myanma Alinn newspaper, Myanmar’s army raided KK Park, a well-documented cybercrime centre, as part of operations starting in early September to suppress online fraud, illegal gambling, and cross-border cybercrime. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anti-malaria funding cuts could lead to ‘deadliest resurgence ever’, study warns",
+      "link": "https://www.theguardian.com/global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa",
+      "published": "2025-10-20T23:01:26",
+      "content": "Expected reduction in contributions by wealthy countries likely to cost millions of lives and billions in lost growthSlashed contributions from wealthy countries to an anti-malaria fund could allow a resurgence of the disease, costing millions of lives and billions of pounds by the end of the decade, according to a new analysis.The fight against malaria faces new threats, including extreme weather and humanitarian crises increasing the number of people exposed, and growing biological resistance to insecticides and drugs, the report warns. Continue reading...",
+      "content_length": 564,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple: KI-Modell erkennt Softwarefehler mit 98 Prozent Genauigkeit",
+      "link": "https://www.heise.de/news/Apple-KI-Modell-erkennt-Softwarefehler-mit-98-Prozent-Genauigkeit-10787217.html",
+      "published": "2025-10-20T15:13:00",
+      "content": "Apple Research präsentiert ADE-QVAET, ein KI-Modell zur Vorhersage von Softwarefehlern mit 98 Prozent Genauigkeit bei Tests.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Werkzeugsammlung Powertoys 0.95: Automatischer Windows-Lichtschalter",
+      "link": "https://www.heise.de/news/Werkzeugsammlung-Powertoys-0-95-Automatischer-Windows-Lichtschalter-10782114.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-20T11:32:00",
+      "content": "Die Werkzeugsammlung Powertoys bekommt in Version 0.95 einen Lichtschalter. Der schaltet den Darkmode automatisch an und aus.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weather tracker: Eight dead as Tropical Storm Fengshen hits Philippines",
+      "link": "https://www.theguardian.com/environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines",
+      "published": "2025-10-20T11:16:16",
+      "content": "Tens of thousands evacuated amid significant damage from intense rainfall and storm surgeEight people have died and 27,000 have been evacuated after Tropical Storm Fengshen hit the Philippines during the weekend. Fengshen made landfall from the western Pacific Ocean near the municipality of Gubat on the southern tip of the island of Luzon, and while it remains on the weaker side in terms of sustained winds, the intense rainfall and a storm surge have caused significant damage across the region.Anticipated waves of 2 metres (6ft) led the Philippines weather bureau, Pagasa, to issue a risk warning of moderate coastal flooding for the region. Twenty-seven thousand people were evacuated from the Albay province because of these warnings and moved to a safer area further inland. Despite the precautionary measures, five people died when a tree fell on to a house near Pitogo on Sunday morning. Continue reading...",
+      "content_length": 918,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Die Produktwerker: Produktstrategie, OKRs und Discovery sinnvoll kombinieren",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Produktstrategie-OKRs-und-Discovery-sinnvoll-kombinieren-10778969.html",
+      "published": "2025-10-20T08:48:00",
+      "content": "Diese Podcastfolge dreht sich darum, wie Product Owner Produktstrategie, OKRs und Discovery sinnvoll miteinander verbinden können.",
+      "content_length": 130,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kenia: Langjähriger Oppositionsführer Odinga gestorben",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-odinga-100.html",
+      "published": "2025-10-15T11:52:58",
+      "content": "   Er war viele Jahre das Gesicht der politischen Opposition in Kenia. Fünfmal kandidierte er vergeblich für das Präsidentenamt. Nun ist Raila Odinga im Alter von 80 Jahren gestorben. Von Karin Bensch.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "77 Prozent betroffen: Kleine Unternehmen jetzt ohne MS-Office-Support",
+      "link": "https://www.heise.de/news/77-Prozent-betroffen-Kleine-Unternehmen-jetzt-ohne-MS-Office-Support-10753286.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-14T08:03:00",
+      "content": "Der Support für Microsoft Office 2016 und 2019 endet heute, am 14. Oktober 2025. Etliche kleine Firmen stehen jetzt ohne Sicherheitsupdates da.",
+      "content_length": 143,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "KI-Update: KI-Vorurteile, Campact gegen xAI, Schwachstelle in LLMs, rabbitAI",
+      "link": "https://www.heise.de/news/KI-Update-KI-Vorurteile-Campact-gegen-xAI-Schwachstelle-in-LLMs-rabbitAI-10751038.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-13T13:00:00",
+      "content": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "content_length": 90,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Dramatische Warnung: US-Satelliten sollen Sonnenlicht zur Erde reflektieren",
+      "link": "https://www.heise.de/news/Astronomen-alarmiert-US-Satelliten-sollen-Sonnenlicht-zur-Erde-reflektieren-10749257.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-10T08:25:00",
+      "content": "Eine US-Firma will 2026 einen Satelliten starten, der als Spiegel Sonnenlicht zur Erde reflektieren soll. Geplant sind tausende mehr. Die Kritik wird lauter.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "OpenAI sieht sich im Wettbewerb benachteiligt – EU soll handeln",
+      "link": "https://www.heise.de/news/OpenAI-sieht-sich-im-Wettbewerb-benachteiligt-EU-soll-handeln-10749337.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-10T08:08:00",
+      "content": "OpenAI wirft Google, Microsoft und Apple potenziell schädigendes Verhalten vor. Die EU-Wettbewerbsbehörden sollen handeln.",
+      "content_length": 122,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Potenziell drastische Folgen: China sanktioniert Export weiterer Seltener Erden",
+      "link": "https://www.heise.de/news/Potenziell-drastische-Folgen-China-sanktioniert-Export-weiterer-Seltener-Erden-10749203.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-10T05:13:00",
+      "content": "Chinas Führung hat drastische Exportkontrollen für die verbleibenden Seltenen Erden angekündigt, die Folgen für die Halbleiterindustrie könnten drastisch sein.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Vorsicht Kunde: Bank kassiert trotz Kündigung weiter",
+      "link": "https://www.heise.de/news/Vorsicht-Kunde-Bank-kassiert-trotz-Kuendigung-weiter-10711657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-10T04:00:00",
+      "content": "Viele Banken stellen auf Debitkarte um, die alte EC-Karte wird gebührenpflichtig. Für die Karten gelten sehr kurze Kündigungsfristen – die oft ignoriert werden.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weniger Gas im Speicher: Warum Deutschland gelassen bleibt",
+      "link": "https://www.heise.de/news/Deutschland-geht-mit-weniger-Gasreserven-in-den-Winter-2025-26-10748707.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-09T14:19:00",
+      "content": "Die deutschen Gasspeicher sind deutlich weniger gefüllt als in den Vorjahren. Experten sehen die Versorgungslage dennoch entspannt.",
+      "content_length": 131,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trend Micro Apex One: Fehler verhindert Start ausführbarer Dateien",
+      "link": "https://www.heise.de/news/Trend-Micro-Apex-One-Fehler-verhindert-Start-ausfuehrbarer-Dateien-10748428.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-09T11:51:00",
+      "content": "Ein fehlerhaftes Apex-One-Update von Trend Micro legt betroffene Endpoints weitgehend lahm. Der Hersteller arbeitet an einer Lösung.",
+      "content_length": 132,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "WhatsApp: Beta-Version bringt Nutzernamen-Reservierung",
+      "link": "https://www.heise.de/news/WhatsApp-Beta-Version-bringt-Nutzernamen-Reservierung-10747957.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-09T10:11:00",
+      "content": "WhatsApp arbeitet an Privatsphärenschutz durch Nutzernamen anstatt Telefonnummern. Eine Beta-Version erlaubt die Nutzernamen-Reservierung.",
+      "content_length": 138,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Windows 10: Registrierung für Supportverlängerung auf ersten Rechnern möglich",
+      "link": "https://www.heise.de/news/Windows-10-Registrierung-fuer-Supportverlaengerung-auf-ersten-Rechnern-moeglich-10742529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-08T12:00:00",
+      "content": "Nach Hinweisen auf eine \"in Kürze\" verfügbare Registrierung zur Supportverlängerung bieten erste Windows-10-Rechner einen Link an.",
+      "content_length": 130,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Spahn: \"Anlasslose Chatkontrolle wird es mit uns nicht geben\"",
+      "link": "https://www.heise.de/news/Spahn-Anlasslose-Chatkontrolle-wird-es-mit-uns-nicht-geben-10733716.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-07T18:17:00",
+      "content": "Fraktionschef Spahn erteilt der anlasslosen Chatkontrolle für die Union im Bundestag eine Absage. Offenbar soll die Abstimmung im EU-Rat verschoben werden.",
+      "content_length": 155,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Markus Haas muss gehen: Telefónica Deutschland sucht neuen CEO",
+      "link": "https://www.heise.de/news/Markus-Haas-muss-gehen-Telefonica-Deutschland-sucht-neuen-CEO-10733645.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-07T16:14:00",
+      "content": "Telefónica Deutschland löst den Vertrag mit Markus Haas vorzeitig auf und sucht einen neuen CEO. Der Chef des spanischen Mutterkonzerns hat andere Pläne.",
+      "content_length": 153,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ab 39 Euro: Qualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
+      "link": "https://www.heise.de/news/Raspi-Konkurrenz-Qualcomm-schluckt-Arduino-und-stellt-Einplatinencomputer-vor-10733137.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-07T13:00:00",
+      "content": "Der Einplatinencomputer Arduino Uno Q bekommt einen Qualcomm-Prozessor. Er ermöglicht ähnliche Projekte wie ein Raspberry Pi.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Starlink: Schon ein bis zwei Satellitenabstürze pro Tag – bald sind es fünf",
+      "link": "https://www.heise.de/news/Satelliteninternet-Schon-ein-bis-zwei-Abstuerze-von-Starlink-Satelliten-pro-Tag-10726535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-07T08:38:00",
+      "content": "Fast 10.000 Starlink-Satelliten sind im Erdorbit, täglich stürzen ein bis zwei davon ab und mehr wird erwartet. Das könnte etwa die Ozonschicht beeinflussen.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Viertelstundentakt bei Strombörse gestartet",
+      "link": "https://www.heise.de/news/Viertelstundentakt-bei-Stromboerse-gestartet-10721514.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-06T11:59:00",
+      "content": "Wie zuletzt angekündigt arbeitet der Stromhandel seit Monatsanfang im 15-Minuten-Takt. Erneuerbare Energien erreichen neue Schwellwerte.",
+      "content_length": 136,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Spiele-Engine Unity: Lücke bedroht Android, Linux, macOS und Windows",
+      "link": "https://www.heise.de/news/Spiele-Engine-Unity-Luecke-bedroht-Android-Linux-macOS-und-Windows-10713427.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-06T08:13:00",
+      "content": "Unity steckt in zahlreichen populären Spielen für Mobilgeräte und Desktop. Eine gravierende Lücke ermöglicht Angreifern, Schadcode auszuführen.",
+      "content_length": 143,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ursache unbekannt: Durch die Milchstraße läuft eine gigantische Welle",
+      "link": "https://www.heise.de/news/Ursache-unbekannt-Durch-die-Milchstrasse-laeuft-eine-gigantische-Welle-10690112.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-01T08:57:00",
+      "content": "Unzählige Sterne in der Milchstraße werden durch eine gigantische Welle angehoben und gesenkt. Das wurde anhand von Daten des Weltraumteleskops Gaia entdeckt.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Neuer Nationalpark in Australien soll Koalas schützen",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/koala-nationalpark-australien-100.html",
+      "published": "2025-09-08T13:31:56",
+      "content": "   Koalas sind vom Aussterben bedroht. Ein riesiger neuer Nationalpark in ihrer Heimat Australien soll nun Tausenden der Tiere Lebensraum und Schutz bieten. Der WWF spricht von einer echten Chance.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Korallenbleiche im Great Barrier Reef erreicht Rekordausmaß",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-great-barrier-reef-korallenbleiche-100.html",
+      "published": "2025-08-07T12:43:32",
+      "content": "   Das 2.300 Kilometer lange Great Barrier Reef vor der Küste Australiens gehört zum UNESCO-Weltnaturerbe. Doch der Klimawandel setzt ihm immer mehr zu. Wissenschaftler blicken mit Sorge in die Zukunft. Von Udo Schmidt. [mehr]",
+      "content_length": 226,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Australien will auch YouTube für Kinder unter 16 Jahren beschränken",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-youtube-verbot-100.html",
+      "published": "2025-07-30T11:17:25",
+      "content": "   Erst Insta, TikTok &amp; Co - und jetzt auch YouTube. Australien will die Nutzung der Videoplattform für Minderjährige einschränken. Wer unter 16 Jahren ist, soll sich kein Konto mehr anlegen dürfen.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Anträge auf Klima-Asyl in Australien: Tausende wollen weg aus Tuvalu",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/tuvalu-australien-klimawandel-100.html",
+      "published": "2025-07-21T12:28:47",
+      "content": "   Malerisch liegt Tuvalu im Pazifik, doch der Inselstaat droht unterzugehen. Australien hat angeboten, die Bevölkerung aufzunehmen - Tausende haben sich beworben. Thorsten Iffland und Anna-Lou Beckmann über die Sorge der Inselbewohner.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Klimawandel: Warum Bewohner von Tuvalu nach Australien ziehen",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/tuvalu-bewohner-klimawandel-100.html",
+      "published": "2025-07-21T09:42:52",
+      "content": "   Etwa 10.000 Menschen leben in Tuvalu. Doch der Inselstaat im Südpazifik droht wegen des steigenden Meeresspiegels unterzugehen. Die Hälfte der Bevölkerung hat bereits ein Klimavisum beantragt - in Australien. [mehr]",
+      "content_length": 218,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Berichterstattung weltweit: Die Korrespondentinnen und Korrespondenten der ARD",
+      "link": "https://www.tagesschau.de/korrespondenten",
+      "published": "2024-09-09T11:44:16",
+      "content": "   Die rund 100 Auslands-Korrespondentinnen und Korrespondenten sind das Rückgrat der ARD-Nachrichtensendungen. Sie berichten aus 28 Studios weltweit - im Fernsehen, im Hörfunk und Online.[mehr]",
+      "content_length": 194,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "timestamp": "2025-10-26T11:34:44.187120",
+  "input_file": "data/embedded/20251026_112954.json",
+  "prompt_version": "v1",
+  "total_filtered": 28,
+  "articles": [
+    {
+      "title": "Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
+      "summary": "Thailand und Kambodscha haben auf dem ASEAN-Gipfel in Malaysia ein Waffenstillstandsabkommen unterzeichnet, das den Grenzkonflikt beenden soll, der im Juli eskaliert war. US-Präsident Trump nahm an der Zeremonie teil und reklamiert den Deal für sich. Die Unterzeichnung erfolgte drei Monate nach schweren Kämpfen im Grenzgebiet.",
+      "relevance": "Das Abkommen beendet einen akuten militärischen Konflikt in Südostasien und zeigt Trumps diplomatische Rolle in der Region.",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-116.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Ifo-Präsident warnt: 'Wohlstand in Deutschland akut bedroht'",
+      "summary": "Ifo-Präsident Fuest warnt vor einem weiteren Rückgang der deutschen Wirtschaft und fordert deutlich mehr Reformen. Die Warnung unterstreicht die angespannte wirtschaftliche Lage in Deutschland.",
+      "relevance": "Die Warnung betrifft die wirtschaftliche Zukunft Deutschlands und signalisiert dringenden Handlungsbedarf in der Wirtschaftspolitik.",
+      "link": "https://www.deutschlandfunk.de/ifo-praesident-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
+      "source": "Deutschlandfunk"
+    },
+    {
+      "title": "Kurdische PKK kündigt Abzug aller Kämpfer in den Nordirak an",
+      "summary": "Die kurdische PKK hat angekündigt, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen. Dies ist ein weiterer Schritt im Friedensprozess zwischen der PKK und dem türkischen Staat. Die PKK ist in vielen Ländern als Terrororganisation eingestuft.",
+      "relevance": "Der Schritt könnte einen bedeutenden Fortschritt im jahrzehntelangen Konflikt zwischen der Türkei und der PKK darstellen.",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-pkk-abzug-truppen-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Trump kündigt zusätzliche Zölle gegen Kanada an",
+      "summary": "US-Präsident Trump will die Zölle auf kanadische Waren um weitere 10 Prozent erhöhen. Als Grund nennt er eine angeblich irreführende kanadische Werbekampagne gegen Zölle, die nicht sofort zurückgezogen wurde. Dies erfolgt nach dem Abbruch der Handelsgespräche mit Kanada.",
+      "relevance": "Die Eskalation im Handelsstreit zwischen den USA und Kanada könnte weitreichende wirtschaftliche Folgen für beide Länder haben.",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-kanada-112.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Linksgerichtete Connolly gewinnt Präsidentschaftswahl in Irland",
+      "summary": "Die linksgerichtete, unabhängige Abgeordnete Catherine Connolly hat die Präsidentschaftswahl in Irland mit 63 Prozent der Stimmen gewonnen. Der Sieg der EU-Kritikerin gilt als Dämpfer für die Mitte-Rechts-Regierung und erschüttert das politische Establishment.",
+      "relevance": "Der deutliche Wahlsieg einer linken, EU-kritischen Kandidatin signalisiert einen politischen Wandel in Irland.",
+      "link": "https://www.tagesschau.de/ausland/europa/praesidentschaftswahl-irland-connolly-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Über 60 Staaten unterzeichnen umstrittenes UN-Abkommen gegen Cyberkriminalität",
+      "summary": "Mehr als 60 Staaten haben ein UNO-Abkommen zum Kampf gegen Cyberkriminalität unterzeichnet. UN-Generalsekretär Guterres beschreibt es als wichtigen Meilenstein. Bei Menschenrechtlern und Tech-Unternehmen ist die Vereinbarung jedoch umstritten.",
+      "relevance": "Das Abkommen könnte weitreichende Auswirkungen auf Cybersicherheit und digitale Rechte weltweit haben.",
+      "link": "https://www.tagesschau.de/ausland/asien/cyberkriminalitaet-vereinte-nationen-vietnam-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "EU will Abhängigkeit von Rohstoffen aus China verringern",
+      "summary": "Die Europäische Union versucht, ihre Abhängigkeit von Rohstoffen aus China zu verringern. Kommissionspräsidentin von der Leyen kündigte auf einer Konferenz in Berlin Pläne an, kurz-, mittel- und langfristig Zugänge zu alternativen Quellen für kritische Rohstoffe zu sichern.",
+      "relevance": "Die Initiative ist Teil der europäischen Strategie zur wirtschaftlichen Unabhängigkeit und Versorgungssicherheit bei kritischen Materialien.",
+      "link": "https://www.deutschlandfunk.de/eu-will-abhaengigkeit-von-rohstoffen-aus-china-verringern-112.html",
+      "source": "Deutschlandfunk"
+    },
+    {
+      "title": "WSUS-Lücke: Bereits Attacken beobachtet",
+      "summary": "Microsoft hat am Freitagmorgen Notfallupdates für eine kritische WSUS-Sicherheitslücke veröffentlicht. Die Schwachstelle wird nun im Internet aktiv angegriffen.",
+      "relevance": "Die kritische Sicherheitslücke in Windows-Updateservern betrifft zahlreiche Unternehmen und erfordert sofortiges Handeln.",
+      "link": "https://www.heise.de/news/WSUS-Luecke-Bereits-Attacken-beobachtet-10899799.html",
+      "source": "Heise"
+    },
+    {
+      "title": "AWS-Ausfall: Amazon legt vollständigen Ursachenbericht vor",
+      "summary": "Der AWS-Ausfall Anfang der Woche legte viele Internet-Dienste weltweit lahm und dauerte über 15 Stunden. Amazon hat nun einen vollständigen Bericht veröffentlicht, der zeigt, dass ein einzelner Fehler kaskadenförmig von System zu System eskalierte. DownDetector erhielt mehr als 17 Millionen Meldungen über gestörte Dienste von 3.500 Organisationen.",
+      "relevance": "Der massive Ausfall zeigt die Verwundbarkeit der Cloud-abhängigen digitalen Infrastruktur weltweit.",
+      "link": "https://www.heise.de/news/AWS-Ausfall-Amazon-legt-vollstaendigen-Ursachenbericht-vor-10848208.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Pentagon nimmt wegen des Shutdowns anonyme Millionenspende an",
+      "summary": "Wegen der anhaltenden Haushaltssperre in den USA warten auch Soldaten auf ihr Gehalt. Das Pentagon hat nun bestätigt, dafür eine anonyme, private Spende von 130 Millionen Dollar angenommen zu haben.",
+      "relevance": "Der ungewöhnliche Schritt zeigt die Auswirkungen des US-Haushaltsstreits auf die Streitkräfte.",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-millionenspende-haushaltsstreit-shutdown-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "USA setzen Kolumbiens Präsidenten Petro auf Sanktionsliste",
+      "summary": "Das US-Finanzministerium hat Sanktionen gegen den kolumbianischen Präsidenten Gustavo Petro verhängt. Die USA werfen ihm vor, Drogenkartelle gedeihen zu lassen und nichts dagegen zu unternehmen. Petro ist einer von Trumps schärfsten internationalen Kritikern.",
+      "relevance": "Die Sanktionen gegen einen amtierenden Präsidenten sind außergewöhnlich und verschärfen die Spannungen zwischen den USA und Kolumbien.",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kolumbien-praesident-sanktionen-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "USA erhöhen Druck auf Venezuela - Flugzeugträger entsandt",
+      "summary": "Die USA verstärken ihre militärische Präsenz in der Karibik durch die Entsendung des Flugzeugträgers USS Gerald Ford. Dies erfolgt im Kontext von US-Aktionen gegen angebliche Drogenboote und erhöht den Druck auf Venezuela massiv. Brasiliens Präsident kritisiert das Vorgehen Washingtons.",
+      "relevance": "Die militärische Eskalation in der Karibik könnte zu einem regionalen Konflikt führen und signalisiert eine aggressive US-Politik gegenüber Venezuela.",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-militaer-kriegsschiff-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Großbritannien und Deutschland wollen gemeinsam russische U-Boote jagen",
+      "summary": "Großbritannien und Deutschland haben eine engere Zusammenarbeit im Nordatlantik zur Jagd auf russische U-Boote angekündigt. Die Bundeswehr wird sich mit neuen Spezialflugzeugen beteiligen.",
+      "relevance": "Die verstärkte maritime Kooperation zeigt die zunehmende Sorge über russische Aktivitäten im Nordatlantik.",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-grossbritannien-seegebiete-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "Kroatien führt Wehrpflicht wieder ein",
+      "summary": "Kroatien hat die Wehrpflicht wieder eingeführt, mit der Möglichkeit eines Zivildienstes. Die Entscheidung wird mit der veränderten Sicherheitslage begründet.",
+      "relevance": "Die Wiedereinführung der Wehrpflicht in einem EU- und NATO-Land spiegelt die verschärfte Sicherheitslage in Europa wider.",
+      "link": "https://www.tagesschau.de/ausland/europa/kroatien-militaer-wehrpflicht-100.html",
+      "source": "Tagesschau"
+    },
+    {
+      "title": "DeepSeek-OCR: Bilder vereinfachen Texte für große Sprachmodelle",
+      "summary": "DeepSeek experimentiert mit einem OCR-Modell und zeigt, dass komprimierte Bilder für Berechnungen auf GPUs speicherfreundlicher sind als viele Text-Token. Dies könnte die Effizienz von KI-Modellen deutlich verbessern.",
+      "relevance": "Die Entwicklung könnte die Effizienz und Kostenstruktur von KI-Anwendungen grundlegend verändern.",
+      "link": "https://www.heise.de/hintergrund/DeepSeek-OCR-Bilder-vereinfachen-Texte-fuer-grosse-Sprachmodelle-10845788.html",
+      "source": "Heise Developer"
+    },
+    {
+      "title": "React-Framework Next.js 16 macht Turbopack zum Standard-Bundler",
+      "summary": "Next.js 16 ist erschienen und macht Turbopack zum Standard-Bundler. Turbopack und der Support für den React Compiler sind nun stabil. Das Caching soll durch die neuen Cache Components flexibler werden.",
+      "relevance": "Das Update bringt wichtige Performance-Verbesserungen für eine der meistgenutzten React-Frameworks.",
+      "link": "https://www.heise.de/news/React-Framework-Next-js-16-macht-Turbopack-zum-Standard-Bundler-10794045.html",
+      "source": "Heise Developer"
+    },
+    {
+      "title": "OpenAI gibt Chrome-Konkurrenten Atlas für macOS frei",
+      "summary": "OpenAI hat einen neuen Browser namens Atlas für macOS veröffentlicht, der ChatGPT tief integriert. Der Browser soll das ständige Wechseln zwischen Tabs und das Kopieren von Inhalten beim Surfen mit ChatGPT überflüssig machen.",
+      "relevance": "OpenAI expandiert in den Browser-Markt und könnte die Art verändern, wie KI beim Surfen genutzt wird.",
+      "link": "https://www.heise.de/news/Ein-Browser-fuer-ChatGPT-OpenAI-gibt-Chrome-Konkurrenten-Atlas-fuer-macOS-frei-10793833.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Angreifer attackieren kritische Lücke in Adobe Commerce und Magento",
+      "summary": "Eine im September von Adobe gepatchte kritische Sicherheitslücke in Adobe Commerce und Magento wird nun aktiv angegriffen. Unternehmen, die die Updates noch nicht eingespielt haben, sind gefährdet.",
+      "relevance": "Die aktiven Angriffe auf E-Commerce-Plattformen gefährden Online-Shops weltweit.",
+      "link": "https://www.heise.de/news/Angreifer-attackieren-kritische-Luecke-in-Adobe-Commerce-und-Magento-10845752.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Gefährlicher und unsichtbarer Wurm in Visual Studio Code Extensions gefunden",
+      "summary": "Eine Schadsoftware, die Credentials und Kryptowährungen abgreift, nutzt Unicode für unsichtbaren Code in VS Code Extensions und installiert einen Remote-Access-Trojaner. Die Malware ist besonders gefährlich, da der schädliche Code für Entwickler unsichtbar ist.",
+      "relevance": "Die Entdeckung zeigt neue Angriffsvektoren auf Entwickler und ihre Entwicklungsumgebungen.",
+      "link": "https://www.heise.de/news/Gefaehrlicher-und-unsichtbarer-Wurm-in-Visual-Studio-Code-Extensions-gefunden-10789320.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Microsoft: Update außer der Reihe für Windows Recovery Environment",
+      "summary": "Ein ungeplantes Update für die Windows-Wiederherstellungsumgebung macht sie wieder bedienbar – auch mit USB-Keyboards und -Mäusen. Das Problem hatte viele Nutzer bei der Systemwiederherstellung behindert.",
+      "relevance": "Das Update behebt ein kritisches Problem, das Systemwiederherstellungen erschwert hatte.",
+      "link": "https://www.heise.de/news/Microsoft-Update-ausser-der-Reihe-fuer-Windows-Recovery-Environment-10789291.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Bemannte Mondlandung: NASA-Chef droht SpaceX mit Vertragsentzug",
+      "summary": "Die NASA erhöht den Druck auf SpaceX, weil der Zeitplan für die bemannte Mondlandung nicht zu halten ist. NASA-Chef droht mit der Vergabe des Auftrags an Konkurrenten, falls SpaceX nicht liefert.",
+      "relevance": "Die Verzögerungen gefährden die NASA-Pläne zur Rückkehr zum Mond und zeigen Spannungen im Artemis-Programm.",
+      "link": "https://www.heise.de/news/Rueckkehr-zum-Mond-NASA-Chef-droht-SpaceX-mit-Auftrag-fuer-Konkurrenten-10789259.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Apple: KI-Modell erkennt Softwarefehler mit 98 Prozent Genauigkeit",
+      "summary": "Apple Research präsentiert ADE-QVAET, ein KI-Modell zur Vorhersage von Softwarefehlern mit 98 Prozent Genauigkeit bei Tests. Das System könnte die Qualitätssicherung in der Softwareentwicklung revolutionieren.",
+      "relevance": "Die Entwicklung könnte die Softwarequalität deutlich verbessern und Entwicklungskosten senken.",
+      "link": "https://www.heise.de/news/Apple-KI-Modell-erkennt-Softwarefehler-mit-98-Prozent-Genauigkeit-10787217.html",
+      "source": "Heise Developer"
+    },
+    {
+      "title": "Werkzeugsammlung Powertoys 0.95: Automatischer Windows-Lichtschalter",
+      "summary": "Die Werkzeugsammlung Powertoys bekommt in Version 0.95 einen automatischen Lichtschalter, der den Dark Mode automatisch an- und ausschaltet.",
+      "relevance": "Das Update bringt nützliche Komfortfunktionen für Windows-Nutzer.",
+      "link": "https://www.heise.de/news/Werkzeugsammlung-Powertoys-0-95-Automatischer-Windows-Lichtschalter-10782114.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Ivanti Endpoint Manager: Zero Day Initiative veröffentlicht 13 Zero-Days",
+      "summary": "Die Zero Day Initiative hat 13 Zero-Day-Schwachstellen in Ivanti Endpoint Manager veröffentlicht, nachdem Ivanti mehr als ein halbes Jahr Frist zur Behebung wollte. Mehrere Lücken haben hohen Schweregrad.",
+      "relevance": "Die Veröffentlichung ungepatchter Lücken in Unternehmenssoftware stellt ein erhebliches Sicherheitsrisiko dar.",
+      "link": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Zero-Day-Initiative-veroeffentlicht-13-Zero-Days-10749054.html",
+      "source": "Heise"
+    },
+    {
+      "title": "China sanktioniert Export weiterer Seltener Erden",
+      "summary": "Chinas Führung hat drastische Exportkontrollen für die verbleibenden Seltenen Erden angekündigt. Die Folgen für die Halbleiterindustrie könnten drastisch sein, da diese Materialien für die Chip-Produktion essentiell sind.",
+      "relevance": "Die Maßnahme verschärft den Technologiekonflikt zwischen China und dem Westen und könnte Lieferketten massiv stören.",
+      "link": "https://www.heise.de/news/Potenziell-drastische-Folgen-China-sanktioniert-Export-weiterer-Seltener-Erden-10749203.html",
+      "source": "Heise"
+    },
+    {
+      "title": "OpenAI sieht sich im Wettbewerb benachteiligt – EU soll handeln",
+      "summary": "OpenAI wirft Google, Microsoft und Apple potenziell schädigendes Verhalten vor und fordert die EU-Wettbewerbsbehörden zum Handeln auf. Das Unternehmen sieht sich durch die Marktmacht der Tech-Giganten benachteiligt.",
+      "relevance": "Die Beschwerde könnte zu kartellrechtlichen Untersuchungen in der EU führen und den KI-Wettbewerb beeinflussen.",
+      "link": "https://www.heise.de/news/OpenAI-sieht-sich-im-Wettbewerb-benachteiligt-EU-soll-handeln-10749337.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Starlink: Schon ein bis zwei Satellitenabstürze pro Tag – bald sind es fünf",
+      "summary": "Fast 10.000 Starlink-Satelliten sind im Erdorbit, täglich stürzen ein bis zwei davon ab. In Zukunft werden fünf Abstürze pro Tag erwartet. Das könnte die Ozonschicht beeinflussen und stellt ein wachsendes Umweltproblem dar.",
+      "relevance": "Die massiven Satellitenstarts und -abstürze werfen Fragen über Umweltauswirkungen und Weltraummüll auf.",
+      "link": "https://www.heise.de/news/Satelliteninternet-Schon-ein-bis-zwei-Abstuerze-von-Starlink-Satelliten-pro-Tag-10726535.html",
+      "source": "Heise"
+    },
+    {
+      "title": "Spiele-Engine Unity: Lücke bedroht Android, Linux, macOS und Windows",
+      "summary": "Unity steckt in zahlreichen populären Spielen für Mobilgeräte und Desktop. Eine gravierende Sicherheitslücke ermöglicht Angreifern, Schadcode auszuführen und betrifft alle wichtigen Plattformen.",
+      "relevance": "Die Schwachstelle gefährdet Millionen von Spielern weltweit auf verschiedenen Plattformen.",
+      "link": "https://www.heise.de/news/Spiele-Engine-Unity-Luecke-bedroht-Android-Linux-macOS-und-Windows-10713427.html",
+      "source": "Heise"
+    }
+  ]
+}
