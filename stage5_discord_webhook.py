@@ -54,30 +54,56 @@ def split_content_by_sections(content: str) -> list[str]:
 
     # Split main content at section boundaries
     for line in main_content:
-        line_length = len(line) + 1
-
         # Check if we're at a section header
         is_section = line.startswith('# ') and not line.startswith('## ')
 
         # Split before section headers if current chunk is not empty
-        if is_section and current_chunk and current_length > 0:
-            chunks.append('\n'.join(current_chunk))
+        if is_section and current_chunk:
+            chunk_text = '\n'.join(current_chunk)
+            if len(chunk_text) > 0:
+                chunks.append(chunk_text)
             current_chunk = []
             current_length = 0
 
-        # If adding this line would exceed limit, split now
-        if current_length + line_length > DISCORD_MESSAGE_LIMIT:
+        # Calculate what the chunk size would be with this line added
+        if current_chunk:
+            test_chunk = '\n'.join(current_chunk + [line])
+        else:
+            test_chunk = line
+
+        # If adding this line would exceed limit, save current chunk first
+        if len(test_chunk) > DISCORD_MESSAGE_LIMIT:
             if current_chunk:
                 chunks.append('\n'.join(current_chunk))
                 current_chunk = []
                 current_length = 0
+            # Now add the line to the new chunk (even if it's too long by itself)
+            # Long lines will be handled individually
+            if len(line) > DISCORD_MESSAGE_LIMIT:
+                # Split very long lines at word boundaries
+                words = line.split(' ')
+                temp_line = ''
+                for word in words:
+                    if len(temp_line) + len(word) + 1 <= DISCORD_MESSAGE_LIMIT:
+                        temp_line += (' ' if temp_line else '') + word
+                    else:
+                        if temp_line:
+                            current_chunk.append(temp_line)
+                        temp_line = word
+                if temp_line:
+                    current_chunk.append(temp_line)
+            else:
+                current_chunk.append(line)
+        else:
+            current_chunk.append(line)
 
-        current_chunk.append(line)
-        current_length += line_length
+        current_length = len('\n'.join(current_chunk)) if current_chunk else 0
 
     # Add remaining chunk
     if current_chunk:
-        chunks.append('\n'.join(current_chunk))
+        chunk_text = '\n'.join(current_chunk)
+        if len(chunk_text) > 0:
+            chunks.append(chunk_text)
 
     return chunks
 
