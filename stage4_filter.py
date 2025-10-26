@@ -268,6 +268,13 @@ Antworte NUR mit Markdown wie oben beschrieben."""
 
         digest_text = digest_text.strip()
 
+        # Remove blank lines between bullet points in NICE-TO-KNOW section
+        # This makes bullet lists more compact
+        import re
+        # Pattern: Find lines that are "- [text]" followed by blank line(s) followed by another "- [text]"
+        # Replace with just the two bullet lines (no blank line between)
+        digest_text = re.sub(r'(^- .+)(\n\n+)(^- )', r'\1\n\3', digest_text, flags=re.MULTILINE)
+
         print(f"\n✅ Digest erstellt ({len(digest_text)} Zeichen)\n")
         return digest_text
 
