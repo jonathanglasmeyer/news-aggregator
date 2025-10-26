@@ -1,8 +1,53 @@
 {
   "date": "2025-10-26",
-  "timestamp": "2025-10-26T11:00:49.932436",
+  "timestamp": "2025-10-26T15:29:29.815194",
   "total_articles": 312,
   "articles": [
+    {
+      "title": "Ukraine-Liveblog: ++ Kiew: Russische Soldaten in Pokrowsk eingedrungen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-604.html",
+      "published": "2025-10-26T15:27:23",
+      "content": "   Russischen Soldaten ist es nach Angaben aus Kiew gelungen, in die umkämpfte Stadt Pokrowsk einzudringen. Bei einem Drohnenangriff auf die Hauptstadt Kiew sind mindestens drei Menschen getötet und 29 verletzt worden.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza: Israel will selbst über internationale Truppen bestimmen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-friedenstruppen-suche-nach-geiseln-100.html",
+      "published": "2025-10-26T14:57:34",
+      "content": "   Zur Sicherung des Gazastreifens wird über den Einsatz von Friedenstruppen diskutiert. Israel will dabei über beteiligte Länder entscheiden. Unterdessen geht die Suche nach den verbliebenen Leichen von Geiseln weiter.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Putin gibt abschließenden Test der Atomrakete \"Burewestnik\" bekannt",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-putin-atomrakete-burewestnik-100.html",
+      "published": "2025-10-26T12:10:24",
+      "content": "   Russland hat nach den Worten von Präsident Putin einen neuartigen, atomgetriebenen Marschflugkörper getestet und will die Waffe nun stationieren. \"Burewestnik\" ist ihm zufolge unbesiegbar und kann 14.000 Kilometer zurücklegen.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zwischenwahlen in Argentinien - Stresstest für Milei",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-zwischenwahlen-100.html",
+      "published": "2025-10-26T11:36:53",
+      "content": "   Argentinien wählt Teile des Kongresses neu. Für Präsident Milei eine Art Stresstest, nachdem seine Zustimmungsraten zuletzt gesunken sind. Kann er seinen radikalen Kurs fortsetzen - und nutzt ihm Hilfe von Trump? Von A. Herrberg.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Stadtbild\"-Debatte: Gewerkschaft der Polizei für mehr Beamte in Bahnhöfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rosskopf-gewerkschaft-der-polizei-merz-100.html",
+      "published": "2025-10-26T12:17:48",
+      "content": "   Die größte deutsche Polizeigewerkschaft GdP hat größere Präsenz und Kontrollmöglichkeiten an Bahnhöfen gefordert. Damit ließen sich die Sicherheit erhöhen und die von Kanzler Merz beschriebenen Probleme im \"Stadtbild\" angehen.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
     {
       "title": "Bankenaufsicht: Die Note 3 für Banken ist nicht gut genug",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-regulierung-bankenaufsicht-100.html",
@@ -15,9 +60,18 @@
     {
       "title": "PKK kündigt Verlegung ihrer Kämpfer aus der Türkei in den Nordirak an",
       "link": "https://www.tagesschau.de/ausland/europa/tuerkei-pkk-abzug-truppen-100.html",
-      "published": "2025-10-26T09:41:33",
+      "published": "2025-10-26T12:54:04",
       "content": "   Die PKK zieht nach eigenen Angaben ihre Kämpfer aus der Türkei ab - ein weiterer Schritt im Friedensprozess zwischen ihr und dem türkischen Staat. Die kurdische Arbeiterpartei ist in vielen Ländern als Terrororganisation eingestuft.[mehr]",
       "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zwei Verdächtige nach Diebstahl im Pariser Louvre festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-louvre-raub-festnahmen-100.html",
+      "published": "2025-10-26T11:44:08",
+      "content": "   Die französische Polizei hat nach dem Diebstahl historischer Schmuckstücke aus dem Pariser Louvre zwei Verdächtige festgenommen. Einer der beiden Männer sei gestern Abend am Flughafen Charles de Gaulle in Gewahrsam genommen worden.[mehr]",
+      "content_length": 240,
       "source": "Tagesschau",
       "category": "German News"
     },
@@ -33,18 +87,9 @@
     {
       "title": "Trump nimmt zum Auftakt seiner Asien-Reise an ASEAN-Gipfel teil",
       "link": "https://www.tagesschau.de/ausland/asien/trump-asean-gipfel-100.html",
-      "published": "2025-10-26T08:34:26",
-      "content": "   US-Präsident Trump hat seine Asienreise begonnen. Zunächst nahm er auf dem ASEAN-Gipfel in Malaysia an der Unterzeichnung des Friedensvertrags zwischen Thailand und Kambodscha teil. In Südkorea will er Chinas Staatschef Xi treffen.[mehr]",
-      "content_length": 240,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Ukraine-Liveblog: ++ Erneut Tote nach russischem Angriff auf Kiew ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-604.html",
-      "published": "2025-10-26T09:02:52",
-      "content": "   Nach ukrainischen Angaben sind bei einem Drohnenangriff auf die Hauptstadt Kiew mindestens drei Menschen getötet und 27 verletzt worden. US-Präsident Trump will Kremlchef Putin erst treffen, wenn er sich einer Einigung sicher sein kann.[mehr]",
-      "content_length": 245,
+      "published": "2025-10-26T12:06:21",
+      "content": "   US-Präsident Trump hat seine Asienreise begonnen. Zunächst nahm er auf dem ASEAN-Gipfel in Malaysia an der Unterzeichnung des Friedensabkommens zwischen Thailand und Kambodscha teil. In Südkorea will er Chinas Staatschef Xi treffen.[mehr]",
+      "content_length": 241,
       "source": "Tagesschau",
       "category": "German News"
     },
@@ -319,48 +364,12 @@
       "category": "German News"
     },
     {
-      "title": "Ärger mit Trump: Anti-Zoll-Werbeclip in Kanada wird pausiert",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-reagan-werbespot-100.html",
-      "published": "2025-10-24T22:07:17",
-      "content": "   Wegen eines Werbeclips hat US-Präsident Trump die Handelsgespräche mit Kanada gestoppt. In dem Video ist Ex-Präsident Reagan zu hören, der Zölle kritisiert. Nun lenkt die kanadische Seite ein - allerdings nicht sofort.[mehr]",
-      "content_length": 227,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Großbritannien drängt auf Nutzung russischen Vermögens für die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-ukraine-vermoegen-russland-100.html",
-      "published": "2025-10-24T20:20:03",
-      "content": "   Russisches Vermögen für die Ukraine? Großbritannien erhöht in der stockenden Debatte den Druck auf die EU - und sieht einen \"Schritt nach vorne\". Premier Starmer hofft auf eine schnelle Lösung.[mehr]",
-      "content_length": 202,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Marktbericht: US-Börsen auf Rekordkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-usa-china-trump-oelpreis-gold-rheinmetall-hensoldt-100.html",
-      "published": "2025-10-24T20:13:46",
-      "content": "   Wie im Rausch haben die US-Börsen neue Allzeithochs markiert. Inflationszahlen schürten Zinshoffnungen, danach kannte der Markt kein Halten mehr. Der DAX hingegen stagnierte.[mehr]",
-      "content_length": 183,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "USA erhöhen Druck auf Venezuela - Flugzeugträger entsandt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-militaer-kriegsschiff-100.html",
-      "published": "2025-10-24T18:55:29",
-      "content": "   Die USA verstärken den Druck auf Venezuela und verstärken ihre militärische Präsenz in der Region. Hintergrund sind US-Aktionen gegen angebliche Drogenboote. Brasiliens Präsident kritisiert das Vorgehen Washingtons. [mehr]",
-      "content_length": 225,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Ukraine-Liveblog: ++ Russischer Gesandter zu Gesprächen in den USA ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-564.html",
-      "published": "2025-10-24T23:46:56",
-      "content": "   Der russische Sondergesandte und Präsidentenberater Dmitrijew hält sich zu Gesprächen in den USA auf. In der Ukraine zündet ein Mann bei einer Personenkontrolle in einem Zug einen Sprengsatz. Vier Menschen sterben.[mehr]",
-      "content_length": 223,
-      "source": "Tagesschau",
+      "title": "Zwei Verdächtige nach Diebstahl im Pariser Louvre festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-louvre-raub-festnahmen-100.html",
+      "published": "2025-10-26T11:44:08",
+      "content": "   Die französische Polizei hat nach dem Diebstahl historischer Schmuckstücke aus dem Pariser Louvre zwei Verdächtige festgenommen. Einer der beiden Männer sei gestern Abend am Flughafen Charles de Gaulle in Gewahrsam genommen worden.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau Ausland",
       "category": "German News"
     },
     {
@@ -454,11 +463,11 @@
       "category": "German News"
     },
     {
-      "title": "Starmers Ausweis-Pläne treffen auf Widerstand",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-gegen-digital-id-100.html",
-      "published": "2025-10-23T07:12:28",
-      "content": "   In Großbritannien wächst der Widerstand gegen eine geplante digitale Ausweispflicht der Regierung. Eine Petition dagegen haben mittlerweile fast drei Millionen Menschen unterschrieben. Von Christian Saathoff.[mehr]",
-      "content_length": 217,
+      "title": "Zwischenwahlen in Argentinien - Stresstest für Milei",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-zwischenwahlen-100.html",
+      "published": "2025-10-26T11:36:53",
+      "content": "   Argentinien wählt Teile des Kongresses neu. Für Präsident Milei eine Art Stresstest, nachdem seine Zustimmungsraten zuletzt gesunken sind. Kann er seinen radikalen Kurs fortsetzen - und nutzt ihm Hilfe von Trump? Von A. Herrberg.[mehr]",
+      "content_length": 238,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -531,15 +540,6 @@
       "published": "2025-10-24T07:25:59",
       "content": "   US-Präsident Trump hat alle Handelsgespräche mit Kanada abgebrochen. Hintergrund ist offenbar ein kanadischer Werbespot, in dem Ex-Präsident Reagan zu hören ist, der Zölle kritisiert. Trump sprach von einem \"ungeheuerlichen Verhalten\".[mehr]",
       "content_length": 244,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
-      "title": "Streit um Trumps Bauvorhaben: Mutig oder respektlos?",
-      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ostfluegel-100.html",
-      "published": "2025-10-24T01:46:48",
-      "content": "   Der Ostflügel des Weißen Hauses ist nun abgerissen. Bald soll dort ein Ballsaal gebaut werden. Konservatoren und Traditionalisten sind empört. Trumps Saal ist nicht sein einziges Bauprojekt, das in Washington für Diskussion sorgt. Von Samuel Jakisch.[mehr]",
-      "content_length": 259,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -625,6 +625,15 @@
       "category": "German News"
     },
     {
+      "title": "Gaza: Israel will selbst über internationale Truppen bestimmen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-friedenstruppen-suche-nach-geiseln-100.html",
+      "published": "2025-10-26T14:57:34",
+      "content": "   Zur Sicherung des Gazastreifens wird über den Einsatz von Friedenstruppen diskutiert. Israel will dabei über beteiligte Länder entscheiden. Unterdessen geht die Suche nach den verbliebenen Leichen von Geiseln weiter.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
       "title": "Zehntausende demonstrieren in Israel für Rückgabe der toten Geiseln",
       "link": "https://www.tagesschau.de/ausland/asien/israel-demo-geiseln-100.html",
       "published": "2025-10-25T23:49:50",
@@ -697,15 +706,6 @@
       "category": "German News"
     },
     {
-      "title": "Israel hat laut Medienberichten wieder im Gazastreifen angegriffen",
-      "link": "https://www.tagesschau.de/ausland/asien/geiseln-uebergabe-100.html",
-      "published": "2025-10-19T10:49:27",
-      "content": "   Israel hat Medienberichten zufolge trotz der mit der Hamas vereinbarten Waffenruhe erneut im Gazastreifen angegriffen - offenbar als Reaktion auf Angriffe der Hamas. Die Identität der zuletzt von der Hamas übergebenen Leichen ist bestätigt.[mehr]",
-      "content_length": 249,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
       "title": "Thailand und Kambodscha besiegeln nach Grenzstreit Waffenstillstand",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-116.html",
       "published": "2025-10-26T07:56:51",
@@ -717,9 +717,9 @@
     {
       "title": "Trump nimmt zum Auftakt seiner Asien-Reise an ASEAN-Gipfel teil",
       "link": "https://www.tagesschau.de/ausland/asien/trump-asean-gipfel-100.html",
-      "published": "2025-10-26T08:34:26",
-      "content": "   US-Präsident Trump hat seine Asienreise begonnen. Zunächst nahm er auf dem ASEAN-Gipfel in Malaysia an der Unterzeichnung des Friedensvertrags zwischen Thailand und Kambodscha teil. In Südkorea will er Chinas Staatschef Xi treffen.[mehr]",
-      "content_length": 240,
+      "published": "2025-10-26T12:06:21",
+      "content": "   US-Präsident Trump hat seine Asienreise begonnen. Zunächst nahm er auf dem ASEAN-Gipfel in Malaysia an der Unterzeichnung des Friedensabkommens zwischen Thailand und Kambodscha teil. In Südkorea will er Chinas Staatschef Xi treffen.[mehr]",
+      "content_length": 241,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -940,63 +940,144 @@
       "category": "German News"
     },
     {
-      "title": "Deutsche Wirtschaft - Ifo-Präsident warnt: \"Wohlstand in Deutschland akut bedroht\"",
-      "link": "https://www.deutschlandfunk.de/ifo-praesident-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Ifo-Präsident Fuest hat vor einem weiteren Rückgang der deutschen Wirtschaft gewarnt und deutlich mehr Reformen gefordert.",
-      "content_length": 122,
+      "title": "Frankreich - Juwelendiebstahl im Louvre: Zwei Verdächtige festgenommen",
+      "link": "https://www.deutschlandfunk.de/juwelendiebstahl-im-louvre-zwei-verdaechtige-festgenommen-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Die französische Polizei hat im Zusammenhang mit dem Kronjuwelen-Diebstahl im Pariser Louvre zwei Verdächtige festgenommen. Die Staatsanwaltschaft in Paris bestätigte entsprechende Medienberichte. Die beiden Männer befinden sich nun in Polizeigewahrsam.",
+      "content_length": 253,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung",
+      "link": "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Im Kosovo ist die Bildung einer Regierung gescheitert.",
+      "content_length": 54,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
+      "link": "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Die USA und Brasilien wollen ihren Handelsstreit in baldigen Verhandlungen lösen. Dies vereinbarten die Präsidenten Trump und Lula bei einem Treffen am Rande des Gipfels der ASEAN-Wirtschaftsgemeinschaft im malaysischen Kuala Lumpur. Beide sprachen anschließend von einer positiven Unterredung.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Unbegrenzte Reichweite\" - Russland gibt abschließenden Test eines nuklear angetriebenen Marschflugkörpers bekannt",
+      "link": "https://www.deutschlandfunk.de/russland-gibt-abschliessenden-test-eines-nuklear-angetriebenen-marschflugkoerpers-bekannt-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Die russische Armee soll laut Präsident Putin möglichst bald neue mit Atomenergie angetriebene Marschflugkörper bekommen. Bei einem Treffen mit Militärvertretern sagte Putin, entsprechende Tests seien abgeschlossen. Man werde jetzt mit den Vorbereitungen beginnen, die Marschflugkörper bei den russischen Streitkräften zu stationieren.",
+      "content_length": 335,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
+      "link": "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Im Osten der Ukraine sind russische Einheiten in die seit langem umkämpfte Stadt Pokrowsk eingedrungen.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt",
+      "link": "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "In Litauen ist der Flugbetrieb am Flughafen der Haupstadt Vilnius nach der Sichtung von weiteren Ballons erneut vorübergehend eingestellt worden. Das teilte der Betreiber mit. Es war bereits das dritte Mal innerhalb einer Woche, dass Starts und Landungen ausgesetzt werden mussten.",
+      "content_length": 281,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Region Dafur - Sudanesische RSF-Miliz nimmt Hauptquartier der Armee in Al-Faschir ein",
+      "link": "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-nimmt-hauptquartier-der-armee-in-al-faschir-ein-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Im Sudan hat die RSF-Miliz nach eigenen Angaben das Hauptquartier der sudanesischen Armee in der Stadt Al-Faschir eingenommen.",
+      "content_length": 126,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "SPD-Generalsekretär - Klüssendorf fordert mehr Schutz für heimische Industrie: \"Buy European\"",
+      "link": "https://www.deutschlandfunk.de/kluessendorf-fordert-mehr-schutz-fuer-heimische-industrie-buy-european-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "SPD-Generalsekretär Klüssendorf hat eine stärkere deutsche und europäische Gegenwehr gegen den Protektionismus anderer Staaten gefordert.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Deutsche Wirtschaft - Ifo-Präsident Fuest warnt: \"Wohlstand in Deutschland akut bedroht\"",
+      "link": "https://www.deutschlandfunk.de/ifo-praesident-fuest-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Ifo-Präsident Fuest warnt vor einem weiteren Verfall der deutschen Wirtschaft und dem damit einhergehenden Wohlstandsverlust. Er fordert von der Bundesregierung ein Reformkonzept, das über den Koalitionsvertrag hinausgeht.",
+      "content_length": 222,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Geflügelpest - Bundesweit bereits etwa 400.000 Tiere wegen Vogelgrippe getötet",
+      "link": "https://www.deutschlandfunk.de/bundesweit-bereits-etwa-400-000-tiere-wegen-vogelgrippe-getoetet-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Zur Eindämmung der Vogelgrippe in Deutschland sind schätzungsweise bereits 400.000 Hühner, Enten, Gänse und Puten getötet worden.",
+      "content_length": 129,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Türkei - Kurdische PKK kündigt Abzug aller Kämpfer in den Nordirak an",
       "link": "https://www.deutschlandfunk.de/kurdische-pkk-kuendigt-abzug-aller-kaempfer-in-den-nordirak-an-100.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Die kurdische PKK hat nach eigenen Angaben damit begonnen, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen.",
-      "content_length": 115,
+      "published": "2025-10-26T15:22:15",
+      "content": "Die kurdische PKK hat damit begonnen, ihre Kämpfer aus der Türkei in den Nordirak zu verlegen.",
+      "content_length": 94,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Bayern - Olympia-Bürgerentscheid in München - 1,1 Millionen Menschen stimmen ab",
-      "link": "https://www.deutschlandfunk.de/olympia-buergerentscheid-in-muenchen-1-1-millionen-menschen-stimmen-ab-100.html",
-      "published": "2025-10-26T09:45:37",
+      "title": "Polens Regierungschef - Tusk warnt vor \"ewigem Krieg\" in der Ukraine",
+      "link": "https://www.deutschlandfunk.de/tusk-warnt-vor-ewigem-krieg-in-der-ukraine-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Der polnische Ministerpräsident Tusk befürchtet, dass der Krieg in der Ukraine noch sehr lange dauern könnte.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bayern - Olympia-Bürgerentscheid in München - 1,1 Millionen Menschen zur Stimmabgabe aufgerufen",
+      "link": "https://www.deutschlandfunk.de/olympia-buergerentscheid-in-muenchen-1-1-millionen-menschen-zur-stimmabgabe-aufgerufen-100.html",
+      "published": "2025-10-26T15:22:15",
       "content": "In München stimmen die Bürgerinnen und Bürger seit dem Morgen darüber ab, ob sich die Stadt um die Ausrichtung der Olympischen und Paralympischen Sommerspiele bewerben soll. Rund 1,1 Millionen Menschen sind zur Stimmabgabe aufgerufen. Das Ergebnis gilt als wichtiger Stimmungstest für die Olympia-Pläne des Deutschen Olympischen Sportbunds.",
       "content_length": 340,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Frakreich - Zwei Verdächtige im Zusammenhang mit dem Juwelendiebstahl im Louvre festgenommen",
-      "link": "https://www.deutschlandfunk.de/zwei-verdaechtige-im-zusammenhang-mit-dem-juwelendiebstahl-im-louvre-festgenommen-100.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Die französische Polizei hat im Zusammenhang mit dem Kronjuwelen-Diebstahl im Pariser Louvre nach Angaben aus Justizkreisen zwei Verdächtige festgenommen.",
-      "content_length": 154,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Katastrophenschutz - Dobrindt will Krisenvorsorge als Doppelstunde an Schulen",
       "link": "https://www.deutschlandfunk.de/dobrindt-will-krisenvorsorge-als-doppelstunde-an-schulen-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Bundesinnenminister Dobrindt hat sich dafür ausgesprochen, junge Menschen in Schulen auf Krisenfälle vorzubereiten.",
       "content_length": 115,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Ukraine - Mindestens drei Tote durch russische Angriffe auf Kiew",
-      "link": "https://www.deutschlandfunk.de/mindestens-drei-tote-durch-russische-angriffe-auf-kiew-100.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Bei russischen Drohnenangriffen auf die ukrainische Hauptstadt Kiew sind nach jüngsten Angaben mindestens drei Menschen getötet worden.",
-      "content_length": 135,
+      "title": "Großbritannien - Polizei fasst versehentlich entlassenen Sexualstraftäter",
+      "link": "https://www.deutschlandfunk.de/polizei-fasst-versehentlich-entlassenen-sexualstraftaeter-100.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Die britische Polizei hat einen versehentlich aus der Haft entlassenen Sexualstraftäter wieder gefasst.",
+      "content_length": 103,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
       "link": "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Drei Monate nach den schweren Kämpfen im Grenzgebiet zwischen Thailand und Kambodscha haben beide Länder ein Friedensabkommen unterzeichnet. Bei der Zeremonie in der malaysischen Hauptstadt Kuala Lumpur war auch US-Präsident Trump anwesend.",
       "content_length": 240,
       "source": "Deutschlandfunk",
@@ -1005,7 +1086,7 @@
     {
       "title": "Eurovision Song Contest in Wien - Österreichs Kanzler Stocker befürwortet Israels Teilnahme",
       "link": "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-befuerwortet-israels-teilnahme-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Der österreichische Bundeskanzler Stocker hat sich für die Teilnahme Israels am Eurovision Song Contest 2026 in Wien ausgesprochen. Mit der Waffenruhe im Gazastreifen habe sich die Situation verändert, erklärte Stocker.",
       "content_length": 219,
       "source": "Deutschlandfunk",
@@ -1014,25 +1095,16 @@
     {
       "title": "Gazastreifen - Israelische Armee meldet Angriff auf Dschihadisten",
       "link": "https://www.deutschlandfunk.de/israelische-armee-meldet-angriff-auf-dschihadisten-108.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Die israelische Armee hat nach eigenen Angaben im Gazastreifen einen Angriff auf einen Dschihadisten der Terrororganisation Islamischer Dschihad ausgeführt.",
       "content_length": 156,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Streit um Anti-Zoll-Video - Trump kündigt zusätzliche Zölle gegen Kanada an",
-      "link": "https://www.deutschlandfunk.de/trump-kuendigt-zusaetzliche-zoelle-gegen-kanada-an-102.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Nach dem Abbruch der Handelsgespräche mit Kanada hat US-Präsident Trump zusätzliche Zölle in Höhe von zehn Prozent angekündigt. Auf der Online-Plattform \"Truth Social\" gab Trump als Grund an, dass eine angeblich irreführende kanadische Werbekampagne gegen Zölle nicht sofort zurückgezogen worden sei. ",
-      "content_length": 301,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
       "link": "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "In Deutschland gilt wieder die Normalzeit. In der vergangenen Nacht um 03.00 Uhr wurden die Uhren um eine Stunde von der bisherigen Sommerzeit auf die mitteleuropäische Zeit zurückgestellt. Sie wird umgangssprachlich auch \"Winterzeit\" genannt.",
       "content_length": 243,
       "source": "Deutschlandfunk",
@@ -1041,7 +1113,7 @@
     {
       "title": "Fischerei in der Ostsee - Wissenschaftler fordert Fangstopp von Dorsch und Hering",
       "link": "https://www.deutschlandfunk.de/wissenschaftler-fordert-fangstopp-von-dorsch-und-hering-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Am Montag beraten die Fischereiminister der EU über die künftigen Fangmengen in der Ostsee. Im Mittelpunkt stehen dabei die Bestände von Dorsch und Hering. Diese sind durch Überfischung und Umwelteinflüsse stark zurückgegangen. Ein deutscher Wissenschaftler fordert deshalb einen Fangstopp.",
       "content_length": 290,
       "source": "Deutschlandfunk",
@@ -1050,7 +1122,7 @@
     {
       "title": "Chemnitz - Deutscher Umweltpreis für innovatives Verzinkungsverfahren und Forschungen zum Klimasystem",
       "link": "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-innovatives-verzinkungsverfahren-und-forschungen-zum-klimasystem-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "In der Kulturhauptstadt Chemnitz wird heute der Deutsche Umweltpreis verliehen. Die vom Bundespräsidenten überreichte Auszeichnung gehört zu den höchstdotierten Umweltpreisen. Geehrt werden eine Schweizer Klimaforscherin und ein Unternehmen aus Nordrhein-Westfalen für sein ressourcenschonendes Verzinkungsverfahren.",
       "content_length": 316,
       "source": "Deutschlandfunk",
@@ -1059,7 +1131,7 @@
     {
       "title": "Republik Irland - Linksgerichtete Kandidatin Connolly gewinnt Präsidentenwahl",
       "link": "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-gewinnt-praesidentenwahl-106.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "In Irland hat die linksgerichtete, unabhängige Abgeordnete Connolly die Präsidentschaftswahl gewonnen. Nach offiziellen Angaben erhielt sie 63 Prozent der Stimmen und gewann damit gegen die frühere Ministerin Humphreys von der Mitte-Rechts-Partei Fine Gael.",
       "content_length": 257,
       "source": "Deutschlandfunk",
@@ -1068,25 +1140,16 @@
     {
       "title": "BBC-Interview - Kamala Harris hält sich erneute Präsidentschaftskandidatur offen",
       "link": "https://www.deutschlandfunk.de/kamala-harris-haelt-sich-erneute-praesidentschaftskandidatur-offen-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Die demokratische US-Politikerin Harris hält sich eine erneute Kandidatur für das Präsidentenamt offen.",
       "content_length": 103,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Französischer Zentralbank-Chef - \"Frankreich droht wegen Staatsfinanzen zu ersticken\"",
-      "link": "https://www.deutschlandfunk.de/frankreich-droht-wegen-staatsfinanzen-zu-ersticken-104.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Der Chef der französischen Zentralbank, Villeroy de Galhau, hat mit dramatischer Wortwahl den in der Nationalversammlung seit Monaten anhaltenden Haushalts-Konflikt kritisiert.",
-      "content_length": 176,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Timor-Leste - Osttimor tritt Staatenbündnis ASEAN als elftes Mitglied bei",
       "link": "https://www.deutschlandfunk.de/osttimor-tritt-staatenbuendnis-asean-als-elftes-mitglied-bei-102.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Osttimor ist der Vereinigung südostasiatischer Staaten beigetreten.",
       "content_length": 67,
       "source": "Deutschlandfunk",
@@ -1095,7 +1158,7 @@
     {
       "title": "Japan - Neue Regierungschefin Takaichi: \"Stärkung der Beziehungen zu USA höchste Priorität\"",
       "link": "https://www.deutschlandfunk.de/neue-regierungschefin-takaichi-staerkung-der-beziehungen-zu-usa-hoechste-prioritaet-106.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Japans neue Premierministerin Takaichi hat die Stärkung der Beziehungen zwischen ihrem Land und den USA zu einem ihrer vorrangigen Ziele erklärt.",
       "content_length": 145,
       "source": "Deutschlandfunk",
@@ -1104,7 +1167,7 @@
     {
       "title": "Wirbelsturm - Wirbelsturm \"Melissa\" weitet sich zu Hurrikan vor Jamaika aus",
       "link": "https://www.deutschlandfunk.de/wirbelsturm-melissa-weitet-sich-zu-hurrikan-vor-jamaika-aus-100.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "In der Karibik hat sich der Wirbelsturm \"Melissa\" zu einem Hurrikan der Kategorie eins ausgeweitet.",
       "content_length": 99,
       "source": "Deutschlandfunk",
@@ -1113,90 +1176,27 @@
     {
       "title": "US-Schauspielerin - \"Lassie\"-Star June Lockhart im Alter von 100 Jahren gestorben",
       "link": "https://www.deutschlandfunk.de/lassie-star-june-lockhart-im-alter-von-100-jahren-gestorben-100.html",
-      "published": "2025-10-26T09:45:37",
+      "published": "2025-10-26T15:22:15",
       "content": "Die US-Schauspielerin June Lockhart ist tot.",
       "content_length": 44,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Vereinte Nationen - Über 60 Staaten unterzeichnen umstrittenes Abkommen gegen Cyberkriminalität",
-      "link": "https://www.deutschlandfunk.de/ueber-60-staaten-unterzeichnen-umstrittenes-abkommen-gegen-cyberkriminalitaet-104.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Mehr als 60 Staaten haben ein UNO-Abkommen zum Kampf gegen Cyberkriminalität unterzeichnet. UNO-Generalsekretär Guterres beschrieb es bei den Feierlichkeiten zur Unterzeichnung in Vietnam als wichtigen Meilenstein, der \"nur der Anfang\" sei. Bei Menschenrechtlern und Tech-Unternehmen ist die Vereinbarung umstritten.",
-      "content_length": 316,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "80. Geburtstag der CSU - Söder warnt vor Zusammenarbeit mit der AfD",
-      "link": "https://www.deutschlandfunk.de/soeder-warnt-vor-zusammenarbeit-mit-der-afd-108.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "80 Jahre nach der Gründung der CSU hat Parteichef Söder vor einer Zusammenarbeit mit der AfD gewarnt.",
-      "content_length": 101,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Industrie-Absicherung - EU will Abhängigkeit von Rohstoffen aus China verringern",
-      "link": "https://www.deutschlandfunk.de/eu-will-abhaengigkeit-von-rohstoffen-aus-china-verringern-112.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Die Europäische Union versucht, ihre Abhängigkeit von Rohstoffen aus China zu verringern. Kommissionspräsidentin von der Leyen kündigte auf einer Konferenz in Berlin entsprechende Pläne an. Ziel sei es, kurz-, mittel- und langfristig Zugänge zu alternativen Quellen für kritische Rohstoffe zu sichern, sagte von der Leyen.",
-      "content_length": 322,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Oppositions-Arbeit - Grünen-Chefin Brantner wirft Merz Führungsschwäche vor - \"Schwarz-Rot so zerstritten wie die Ampel\"",
-      "link": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-merz-fuehrungsschwaeche-vor-schwarz-rot-so-zerstritten-wie-die-ampel-102.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Die Grünen-Bundesvorsitzende Brantner hat den Spitzen von Union und SPD Führungsschwäche vorgeworfen. Auf dem Parteitag des Thüringer Landesverbandes nannte sie als Beispiele anhaltende Auseinandersetzungen in der schwarz-roten Koalition etwa um Themen wie Wehrdienst, Bürgergeld und Haushaltspolitik.",
-      "content_length": 301,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Westafrika - Präsidentschaftswahl in Côte d'Ivoire",
-      "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-c-te-d-ivoire-102.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "In der Republik Côte d'Ivoire - auch bekannt als Elfenbeinküste - sind die Präsidentschaftswahlen zu Ende gegangen. Fast neun Millionen Menschen waren zur Stimmabgabe aufgerufen. Die Ergebnisse werden in den kommenden Tagen erwartet. Als aussichtsreichster Bewerber galt der bisherige Amtsinhaber Ouattara.",
-      "content_length": 306,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Fußball-Bundesliga - Siege für Bayern, Leipzig und Dortmund",
-      "link": "https://www.deutschlandfunk.de/siege-fuer-bayern-leipzig-und-dortmund-106.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "In der Fußball-Bundesliga hat der FC Bayern auch sein achtes Spiel in dieser Saison gewonnen. Der Rekordmeister siegte bei Borussia Mönchengladbach mit 3:0.",
-      "content_length": 156,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Tennis - Zverev erreicht Finale bei ATP-Turnier in Wien",
-      "link": "https://www.deutschlandfunk.de/zverev-erreicht-finale-bei-atp-turnier-in-wien-104.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Tennisprofi Alexander Zverev hat beim ATP-Turnier in Wien das Finale erreicht. Der Olympiasieger von 2021 gewann im Halbfinale gegen den Italiener Lorenzo Musetti mit 6:4 und 7:5. Zverev feierte seinen insgesamt 300. Sieg auf Hartplatz.",
-      "content_length": 236,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Ski-Weltcup - Österreicherin Julia Scheib gewinnt Saisonauftakt im Riesenslalom in Sölden",
-      "link": "https://www.deutschlandfunk.de/oesterreicherin-julia-scheib-gewinnt-saisonauftakt-im-riesenslalom-in-soelden-104.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Die österreichische Skirennfahrerin Julia Scheib hat beim Weltcup-Saisonauftakt im heimischen Sölden den Riesenslalom gewonnen.",
-      "content_length": 127,
+      "title": "Ski-Weltcup - Anton Grammel bester Deutscher auf Platz 11 im Riesenslalom - Schweizer Odermatt gewinnt",
+      "link": "https://www.deutschlandfunk.de/anton-grammel-bester-deutscher-auf-platz-11-im-riesenslalom-schweizer-odermatt-gewinnt-102.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Den deutschen Skirennläufern ist ein vielversprechender Start in den Olympia-Winter gelungen. Beim Weltcup-Riesenslalom in Sölden schafften es vier DSV-Starter ins Finale, bester war am Ende Anton Grammel.",
+      "content_length": 205,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Wetter - Im Norden Regen, im Süden nur einzelne Schauer",
-      "link": "https://www.deutschlandfunk.de/im-norden-regen-im-sueden-nur-einzelne-schauer-100.html",
-      "published": "2025-10-26T09:45:37",
-      "content": "Der Wetterbericht, die Lage: Am Rand eines umfangreichen Sturmtiefs bei Dänemark strömt weiterhin kühle Meeresluft nach Deutschland.",
-      "content_length": 132,
+      "link": "https://www.deutschlandfunk.de/im-norden-regen-im-sueden-nur-einzelne-schauer-120.html",
+      "published": "2025-10-26T15:22:15",
+      "content": "Das Wetter: Das Bundesamt für Seeschiffahrt und Hydrographie warnt vor einer Sturmflut im Laufe des Abends für das Hamburger Elbgebiet. In der Nacht kaum Auflockerungen und von Westen aufziehender, teils kräftiger Regen. Oberhalb von 1.000 Metern Schneeregen oder Schnee. Dort Tiefsttemperaturen um 0 Grad, sonst 7 bis 1 Grad. Morgen verbreitet Niederschläge, teils auch Wolkenauflockerungen. Höchstwerte 7 bis 13 Grad.",
+      "content_length": 419,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
@@ -1293,9 +1293,9 @@
     {
       "title": "Trump oversees Thailand-Cambodia ceasefire signing as Asia tour gets under way",
       "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-oversees-thailand-cambodia-ceasefire-signing-as-asia-tour-gets-under-way",
-      "published": "2025-10-26T05:32:46",
-      "content": "Trump has begun a five-day trip to Malaysia, Japan and South Korea, his first visit to the region since taking office in JanuaryDonald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia on the first day of an Asia tour where he will seal new trade agreements and hold a crucial meeting with Xi Jinping.The US president arrived in Malaysia on Sunday ahead of the Asean summit in the capital, Kuala Lumpur. At a ceasefire ceremony in front of a sign that read “Delivering Peace”, Thai prime minister Anutin Charnvirakul and his Cambodian counterpart Hun Manet signed an expanded ceasefire deal related to a deadly five-day conflict in July. Continue reading...",
-      "content_length": 693,
+      "published": "2025-10-26T10:28:05",
+      "content": "Trump has begun a five-day trip to Malaysia, Japan and South Korea, his first visit to the region since taking office in JanuaryDonald Trump has overseen the signing of a ceasefire agreement between Thailand and Cambodia on the first day of an Asia tour where he will seal new trade agreements and hold a crucial meeting with Xi Jinping.The US president arrived in Malaysia on Sunday before the Asean summit in the capital, Kuala Lumpur. At a ceasefire ceremony in front of a sign that read “Delivering Peace”, the Thai prime minister, Anutin Charnvirakul, and his Cambodian counterpart, Hun Manet, signed an expanded ceasefire deal related to a deadly five-day conflict in July. Continue reading...",
+      "content_length": 699,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1312,7 +1312,7 @@
       "title": "Thailand’s Queen Mother Sirikit dies at 93 after more than a decade out of the public eye",
       "link": "https://www.theguardian.com/world/2025/oct/25/thailands-queen-mother-sirikit-dies-at-93-after-more-than-a-decade-out-of-the-public-eye",
       "published": "2025-10-25T02:02:10",
-      "content": "Prime minister Charnvirakul cancels trip to Asean summit in Malaysia after news of the Queen Mother’s deathThailand’s Queen Mother Sirikit, who brought glamour to a postwar revival in the country’s monarchy and who, in later years, would occasionally wade into politics, has died aged 93, the Thai Royal Household bureau has announced.The palace said she had been hospitalised since 2019 due to several illnesses and developed a bloodstream infection on 17bOctober before passing away late on Friday. Continue reading...",
+      "content": "Prime minister Charnvirakul cancels trip to Asean summit in Malaysia after news of the Queen Mother’s deathThailand’s Queen Mother Sirikit, who brought glamour to a postwar revival in the country’s monarchy and who, in later years, would occasionally wade into politics, has died aged 93, the Thai Royal Household bureau has announced.The palace said she had been hospitalised since 2019 due to several illnesses and developed a bloodstream infection on 17 October before passing away late on Friday. Continue reading...",
       "content_length": 520,
       "source": "The Guardian World",
       "category": "International News"
@@ -1336,6 +1336,33 @@
       "category": "International News"
     },
     {
+      "title": "Coalition pushes to break up environment bill as fight over new nature laws heads to parliament",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/coalition-pushes-to-break-up-environment-bill-as-fight-over-new-nature-laws-heads-to-parliament",
+      "published": "2025-10-26T14:00:08",
+      "content": "Opposition leader Sussan Ley wants to prioritise ‘practical’ measures for fast-track projects but delay protections for natureGet our breaking news email, free app or daily news podcastThe Coalition wants to break reforms of the federal environment protection regime in two, prioritising measures to fast-track projects while likely further delaying protections for nature.The opposition leader, Sussan Ley, has made the “constructive” offer to Anthony Albanese before the return of federal parliament on Monday, where the political fight over long-awaited legislation updating the Environment Protection and Biodiversity Conservation Act (EPBC) is expected to dominate. Continue reading...",
+      "content_length": 690,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Labor rules out giving tech giants free rein to mine copyright content to train AI",
+      "link": "https://www.theguardian.com/technology/2025/oct/27/labor-rules-out-giving-tech-giants-free-rein-to-mine-copyright-content-to-train-ai",
+      "published": "2025-10-26T14:00:08",
+      "content": "Attorney general Michelle Rowland shuts down contentious proposal to grant copyright exemption for AI modelsGet our breaking news email, free app or daily news podcastThe Albanese government has explicitly ruled out handing tech companies free rein to mine creative content to train their artificial intelligence models, after a fierce backlash from authors and arts and media groups.The attorney general, Michelle Rowland, will confirm the decision on Monday, shutting the door on a contentious proposal floated by the Productivity Commission and backed by tech companies. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The not-so-little Murray cod that could: fish tracked swimming 900km along Australia’s biggest river system",
+      "link": "https://www.theguardian.com/environment/2025/oct/27/murray-cod-tracked-swimming-australia-biggest-river-system",
+      "published": "2025-10-26T14:00:06",
+      "content": "Fish named after Olympic swimming champion Ariarne Titmus was most recently tracked at a section of the mid-Murray, near Belsar IslandGet our breaking news email, free app or daily news podcastA young Murray cod has swum one of the longest ever recorded journeys for the species, travelling about 900km through the Murray River, its streams and backchannels.Murray cod, Australia’s largest freshwater fish, grow up to 1.5 metres and can live for half a century. Research by Victoria’s Arthur Rylah Institute has shown the species, listed as vulnerable under federal environment laws, is capable of covering extreme distances. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Australia news live: thunderstorm asthma warning for Victoria’s north as wild weather threatens east coast",
       "link": "https://www.theguardian.com/australia-news/live/2025/oct/26/australia-news-live-anthony-albanese-asean-apac-coalition-matt-canavan-renewable-energy-solar-power",
       "published": "2025-10-26T05:25:08",
@@ -1354,38 +1381,29 @@
       "category": "International News"
     },
     {
-      "title": "Minister to retain final say on controversial projects under Labor’s long-awaited nature laws",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/26/minister-to-retain-final-say-on-controversial-projects-under-labors-long-awaited-nature-laws",
-      "published": "2025-10-26T04:06:32",
-      "content": "Retention of ministerial powers satisfies key demand of Coalition and industry but disappoints groups who wanted ‘arms-length’ reviewFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe environment minister will still be responsible for approving projects under new federal nature laws, after Labor rebuffed calls for a completely independent watchdog with full decision-making powers.The retention of ministerial decision-making powers satisfies a key demand from the Coalition and industry and is not opposed by the Greens. Continue reading...",
-      "content_length": 609,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "‘Ignorant’: former Labor MP condemns Minns government for threatening Blue Mountains protesters over historic site",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/26/ignorant-former-labor-mp-condemns-minns-government-for-threatening-blue-mountains-protesters-over-historic-site",
-      "published": "2025-10-26T01:56:14",
-      "content": "Former home affairs minister Bob Debus, who served in the Rudd government, throws his support behind Clairvaux in KatoombaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe state government has threatened to treat First Nations and environmental groups as trespassers if they continue to use a historic home in the Blue Mountains that was once an infamous “house of horrors” but was reclaimed as a community hub.But a former state and federal MP and stalwart of the Labor party has criticised the Minns government as “unethical” and “ignorant”, for enforcing the eviction of the groups from Clairvaux in Katoomba. Continue reading...",
-      "content_length": 699,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "A year on as Queensland premier, will David Crisafulli’s small-target strategy prove his undoing?",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/26/queensland-premier-david-crisafulli-one-year-on",
-      "published": "2025-10-25T19:00:42",
-      "content": "The LNP government has a firm stance on only one issue – youth crime – and is looking like it’s in need of an agendaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen David Crisafulli speaks to the Liberal National party faithful, his message tends to become a blunt warning to members and MPs to keep any unsavoury, unelectable tendencies out of sight.“We don’t exist for culture wars,” the Queensland premier – who marks a year in office on Sunday – told the party’s state council just after the 2024 election. Continue reading...",
-      "content_length": 599,
+      "title": "Trump sanctions have swift impact but will world stop buying Russian oil and gas?",
+      "link": "https://www.theguardian.com/business/2025/oct/26/trump-sanctions-impact-russian-oil-gas",
+      "published": "2025-10-26T12:00:02",
+      "content": "Analysts say president’s war on Russia’s fossil fuel revenues is a chance to bring peace to Ukraine and profit to USDonald Trump’s stated mission to broker peace in Ukraine could come down to this simple question: can the US president convince the world to stop buying Russia’s fossil fuels?Last week, Trump imposed sanctions on Russia’s two largest oil companies, Rosneft and Lukoil, in an effort to damage Moscow’s ability to fund its war machine. Continue reading...",
+      "content_length": 469,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
       "title": "Two men arrested after Louvre jewel heist",
       "link": "https://www.theguardian.com/world/2025/oct/26/two-men-reportedly-arrested-after-louvre-jewel-heist",
-      "published": "2025-10-26T09:38:47",
-      "content": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to Paris prosecutorTwo suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), according to the Paris prosecutor.Citing police sources, Le Parisien newpaper said on Sunday that the men, both in their 30s and from Seine St-Denis outside the French capital, were detained on Saturday evening as part of an investigation by the Paris organised crime squad. Continue reading...",
-      "content_length": 592,
+      "published": "2025-10-26T10:47:20",
+      "content": "Two suspects in their 30s detained on Saturday evening in relation to €88m robbery, according to French mediaTwo suspects have been arrested in relation to last Sunday’s heist at the Louvre museum in Paris, in which a gang of four men made off with crown jewels worth an estimated €88m (£76m), French media have reported.The Paris public prosecutor confirmed on Sunday that one man had been detained by organised crime squad officers at about 10pm (8pm UK time) on Saturday at Charles de Gaulle airport in Paris, but did not say how many arrests had been made. Continue reading...",
+      "content_length": 580,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russia arrests Ukrainian biologist for backing curbs on Antarctic krill fishing",
+      "link": "https://www.theguardian.com/environment/2025/oct/26/russia-ukrainian-biologist-leonid-pshenichnov-arrest-treason-antarctic-krill-overfishing",
+      "published": "2025-10-26T10:00:01",
+      "content": "‘Trumped-up’ charges spark diplomatic row as scientists express fears for health of 70-year-old Leonid PshenichnovAntarctic krill: how did a paperclip-sized crustacean cause a diplomatic row – and why are they so important?A diplomatic row has erupted over the “illegal” detention of one of Ukraine’s scientists, who has been accused by the Kremlin of undermining Russia’s industrial trawling for krill in Antarctica.Leonid Pshenichnov, 70, a Ukrainian biologist who is an expert on Antarctica, has a decades-long record of scientific research and contributions to conservation, including support for marine protected areas in the region. Continue reading...",
+      "content_length": 658,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1408,20 +1426,11 @@
       "category": "International News"
     },
     {
-      "title": "British tourist dies after 20ft fall from Lanzarote hotel balcony",
-      "link": "https://www.theguardian.com/world/2025/oct/25/british-tourist-dies-after-20ft-fall-from-lanzarote-hotel-balcony",
-      "published": "2025-10-25T20:55:47",
-      "content": "Another man in critical condition after railing reportedly breaks off in Costa TeguiseA British tourist has died after a 20ft fall from a hotel balcony in the Canary Islands.Another Briton was left with serious injuries after the balcony railing reportedly broke off in the Lanzarote resort town of Costa Teguise. Continue reading...",
-      "content_length": 333,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Leftwinger Catherine Connolly wins Ireland presidential election by landslide",
-      "link": "https://www.theguardian.com/world/2025/oct/25/catherine-connolly-ireland-presidential-election-leftwing",
-      "published": "2025-10-25T19:41:19",
-      "content": "Independent pledges to be ‘president for all’ after taking 63% of vote in upset for political establishment The leftwing independent candidate Catherine Connolly has a won landslide election victory and been declared Ireland’s next president.She pledged to be a “president for all” after securing 63% of the first preference votes, a stunning result that shook the political establishment and will make her the republic’s 10th head of state. Continue reading...",
-      "content_length": 461,
+      "title": "Fears Gaza ‘temporary’ ceasefire line could become permanent new border",
+      "link": "https://www.theguardian.com/world/2025/oct/26/fears-gaza-temporary-ceasefire-line-could-become-permanent-new-border",
+      "published": "2025-10-26T11:55:26",
+      "content": "Yellow markers installed by IDF entrench divide that cuts strip in two, as hopes of moving to next phase of truce fadeA supposedly temporary yellow line marking Gaza’s ceasefire is taking an increasingly physical form as the precarious truce shows signs of stalling, with potentially dramatic consequences for Palestine’s future.Israel Defense Forces (IDF) troops have started installing yellow concrete markers every 200 metres to delineate the area remaining under Israeli control during the first phase of the ceasefire. Continue reading...",
+      "content_length": 543,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1458,15 +1467,6 @@
       "published": "2025-10-24T09:18:48",
       "content": "Once known as the ‘martyrs’ capital’ of Palestine, Jenin is now patrolled by Israeli soldiers as weary residents seek quiet lifeShadi Dabaya’s body bears the scars of the Israeli occupation. The 54-year-old proudly stuck out his jaw to show the chunk of his cheek torn away by Israeli fire and traced the zigzag scar on his arm, the pink, raised flesh marking the bullet’s path through his body.“I got these in the second intifada,” said Dabaya, beaming. He pulled up a video of himself a year earlier confronting an Israeli personnel carrier in Jenin camp wielding only a flip-flop. Continue reading...",
       "content_length": 603,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Vance says Knesset votes on annexing West Bank are an ‘insult’ as Netanyahu halts progress",
-      "link": "https://www.theguardian.com/world/2025/oct/23/marco-rubio-warning-israel-west-bank-donald-trump",
-      "published": "2025-10-23T22:10:11",
-      "content": "US vice-president suggests votes were ‘stupid political stunt’ as Israeli PM orders a stop to any further work on bills The Israeli prime minister, Benjamin Netanyahu, has ordered a halt to the advancement of parliamentary bills linked to the annexation of the West Bank after the US vice-president, JD Vance, described a vote on two bills in the Knesset as an “insult”.The bills applying Israeli law to the occupied West Bank, which would be tantamount to the annexation of land Palestinians want for a state, won preliminary approval from Israel’s parliament on Wednesday, barely a week after Donald Trump pushed through a deal aimed at ending a two-year Israeli offensive in Gaza. Continue reading...",
-      "content_length": 703,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1516,93 +1516,255 @@
       "category": "International News"
     },
     {
+      "title": "Keir Starmer shares post-punk passion and revisits musical past",
+      "link": "https://www.theguardian.com/politics/2025/oct/26/keir-starmer-post-punk-orange-juice-private-passions",
+      "published": "2025-10-26T15:20:36",
+      "content": "Prime minister praises Scottish band Orange Juice and shares details about his family life in Radio 3 interviewKeir Starmer has said he is a fan of the Scottish post-punk band Orange Juice and northern soul, in a deep dive of his musical tastes and personal life.On BBC Radio 3’s Private Passions, Starmer chose a selection of his favourite music including works by Beethoven, Tchaikovsky and Elgar, and reflected on his own musical journey, which included learning to play violin alongside Norman Cook, AKA Fatboy Slim, at school. Continue reading...",
+      "content_length": 551,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Supermarkets tell Reeves tax rises could push food prices higher",
+      "link": "https://www.theguardian.com/business/2025/oct/26/supermarkets-reeves-tax-rises-push-food-prices-higher",
+      "published": "2025-10-26T14:40:35",
+      "content": "Households would ‘inevitably feel the impact’ of a surtax on business rates, say retailers in letter to chancellorFood prices in the UK could climb even further if the chancellor raises taxes on supermarkets at the next budget, the industry has warned.Supermarket bosses, including those at Tesco, Asda, Sainsbury’s and Morrisons, have said in a letter to Rachel Reeves that households would “inevitably feel the impact” of potential tax rises on the sector. Continue reading...",
+      "content_length": 478,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reform MP’s remarks about TV adverts were ‘racist’, says Wes Streeting",
+      "link": "https://www.theguardian.com/politics/2025/oct/26/wes-streeting-sarah-pochin-tv-advert-remarks-racist",
+      "published": "2025-10-26T14:06:59",
+      "content": "Health secretary hardens Labour line after Sarah Pochin said advertising ‘doesn’t reflect your average white family’Wes Streeting has accused the Reform UK MP Sarah Pochin of making “racist” remarks after she said seeing adverts full of black and Asian people “drives her mad”.The health secretary said Pochin was “only sorry she’s been caught and called out”, adding she had “said the quiet bit loud” as he warned of a return to “1970s, 1980s-style racism”. Continue reading...",
+      "content_length": 478,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Epping sex offender back in custody after being released from prison in error",
       "link": "https://www.theguardian.com/uk-news/2025/oct/26/epping-sex-offender-back-in-custody-after-being-released-from-prison-in-error",
-      "published": "2025-10-26T09:45:15",
-      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, had been seen ‘confused’ after release from HMP ChelmsfordA former asylum seeker and convicted sex offender who was released from prison in error has been located and is back in custody, police said.The Ethiopian national Hadush Gerberslasie Kebatu was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and made the subject of a five-year sexual harm prevention order. Continue reading...",
+      "published": "2025-10-26T13:04:26",
+      "content": "Hadush Gerberslasie Kebatu, whose case triggered summer protests in Essex, had been seen ‘confused’ after release from HMP ChelmsfordA former asylum seeker and convicted sex offender who was released from prison in error is back in custody and now faces deportation.Hadush Gerberslasie Kebatu, an Ethiopian national, was jailed for 12 months in September for sexually assaulting a woman and a 14-year-old girl and was made the subject of a five-year sexual harm prevention order. Continue reading...",
+      "content_length": 499,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "High court halts eviction of refugee under Home Office 28-day policy",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/26/high-court-halts-eviction-of-refugee-under-home-office-28-day-policy",
+      "published": "2025-10-26T11:00:02",
+      "content": "Judge intervenes in case, disapplying government rule that charities say drives refugees into homelessnessA high court judge has overruled the government by halting the eviction of a refugee from his asylum accommodation in an emergency case in the early hours of the morning.Mr Justice Johnson made an order in the out-of-hours case just before 2am on Wednesday, disapplying a Home Office policy that requires new refugees to move on from their asylum accommodation within 28 days. Continue reading...",
       "content_length": 502,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Peer trying to derail UK smoking ban discussed bill with relative at tobacco firm",
-      "link": "https://www.theguardian.com/business/2025/oct/26/uk-smoking-ban-lord-strathcarron-relative-british-american-tobacco",
-      "published": "2025-10-26T08:00:58",
-      "content": "Lord Strathcarron says he and an in-law ‘high up’ at British American Tobacco discussed bill, which he aims to weakenA member of the House of Lords who is trying to derail the generational ban on tobacco sales discussed the legislation with a family member who is “very high up” at British American Tobacco (BAT).Lord Strathcarron is proposing amendments that would scrap the central provision of the tobacco and vapes bill, originally proposed by Rishi Sunak’s government. Continue reading...",
+      "title": "‘Islamophobia is endemic,’ Mamdani says of Republicans’ push to deport him",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/zohran-mamdani-republicans-push-investigate-citizenship",
+      "published": "2025-10-26T14:22:46",
+      "content": "Two House Republicans push justice department to investigate Zohran Mamdani’s path to US citizenshipTwo US House Republicans are pushing the federal justice department to investigate the path to citizenship of Zohran Mamdani, the Democratic candidate favored to win the 4 November election for New York City mayor.Congressman Randy Fine of Florida and Andy Ogles of Tennessee – both staunch proponents of Donald Trump’s presidential administration – have been leading the push, which has been condemned by Democratic officials and Muslim civil rights groups as “racist and anti-Muslim”. Continue reading...",
+      "content_length": 606,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Food benefits set to expire for 41 million people as US shutdown continues",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/food-benefits-federal-shutdown",
+      "published": "2025-10-26T13:45:24",
+      "content": "Department of Agriculture says no benefits will be issued in November and it would not draw on emergency reservesThe US Department of Agriculture (USDA) said on Saturday that food benefits under one of the country’s biggest social assistance programs will not be issued in November amid the ongoing federal government shutdown.The shutdown was in its 25th day at the time of the announcement, which came after more than 200 Democrats in the US House of Representatives on Friday called on USDA to draw on its emergency reserves to fund November food benefits. Continue reading...",
+      "content_length": 579,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US judge rules ICE illegally detained man whose daughter is battling cancer",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/ice-detained-chicago-man-daughter-cancer",
+      "published": "2025-10-26T13:05:15",
+      "content": "Detention of Chicago man violates his due process and he must be given a bond hearing by 31 October, judge saysThe detention by immigration authorities of a Chicago man whose 16-year-old daughter is undergoing treatment for advanced cancer is illegal, and he must be given a bond hearing by 31 October, a federal judge has ruled.Attorneys for Ruben Torres Maldonado, 40, who was detained on 18 October, have petitioned for his release as his deportation case goes through the system. While US district judge Jeremy Daniel said in an order Friday that Torres’s detention by US Immigration and Customs Enforcement (ICE) is illegal and violates his due process rights, he also said he could not order his immediate release. Continue reading...",
+      "content_length": 740,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gun violence prevention groups disqualified from grants built around their work",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/gun-violence-prevention-non-profit-grants-disqualified",
+      "published": "2025-10-26T11:00:01",
+      "content": "Trump administration altering program that was a lifeline for pioneering non-profits helping reduce gun violenceThe Trump administration has released solicitations for a grant program meant to stop gun violence in underserved communities. But this year, the non-profits the grant was built around are disqualified from applying, according to an application notice released by the Department of Justice (DoJ) in September.The Community Based Violence Intervention and Prevention Initiative (CVIPI), was created in 2022, to support groups working in rural and urban communities struggling to address violence and fund research studying the programs’ efficacy. Continue reading...",
+      "content_length": 677,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump’s move to pay troops amid shutdown sets dangerous precedent, experts warn",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/trump-military-pay-government-shutdown",
+      "published": "2025-10-26T10:00:03",
+      "content": "Experts see move as Trump’s latest attempt to shift power of the purse away from Congress and into executive branchBy ordering that US military personnel receive paychecks even though the government is shut down, Donald Trump is seeing to the needs of a politically untouchable constituency that has been caught up in the congressional logjam over federal spending.But experts who spoke to the Guardian warn that he is doing so in a way that is almost certainly illegal and, if left unchecked, bodes ill for Congress’s constitutional authority to control government spending. Some fear it could set the stage for the president to unilaterally fund other contentious decisions in the future, such as the deployment of the military on US soil. Continue reading...",
+      "content_length": 761,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sudan's paramilitary Rapid Support Forces claim capture of key Darfur city",
+      "link": "https://www.france24.com/en/africa/20251026-sudan-s-paramilitary-rapid-support-forces-claim-capture-of-key-darfur-city",
+      "published": "2025-10-26T14:52:32",
+      "content": "Sudan's paramilitary Rapid Support Forces (RSF) on Sunday said that it had taken control of the city of El-Fasher, the last major urban centre in western Darfur still outside its control. Local pro-army fighters accused the RSF of running a \"media disinformation campaign\" and insisted that residents were still fighting the paramilitary group.",
+      "content_length": 344,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US and China agree on trade framework for rare earths, soybeans",
+      "link": "https://www.france24.com/en/americas/20251026-us-china-agree-trade-framework-rare-earths-soybeans",
+      "published": "2025-10-26T14:15:24",
+      "content": "US Treasury Secretary Scott Bessent on Sunday signalled that Washington and Beijing had reached a tentative trade framework that would see China delaying export curbs on rare earths and buying more US soybeans. If confirmed, the agreement would avert a threatened 100 percent hike on tariffs on Chinese exports.",
+      "content_length": 311,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Transat Café-L’OR 2025: Former Ultim winners return to defend title",
+      "link": "https://www.france24.com/en/video/20251026-transat-caf%C3%A9-l-or-2025-former-ultim-winners-return-to-defend-title",
+      "published": "2025-10-26T13:58:11",
+      "content": "Armel Le Cléac’h, skipper of the Maxi Banque Populaire XI, never leaves anything to chance as he and co-skipper Sébastien Josse prepare for the 2025 Transat Café-L’OR, formerly the Transat Jacques Vabre. Former winners of the Ultim division, the duo will face thousands of nautical miles of unpredictable Atlantic waters, where tactical decisions, extreme weather, and high-speed sailing make every move crucial. Cédric Ferreira reports with Simon Moritz.",
+      "content_length": 455,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Vote counting underway in Ivory Coast presidential election",
+      "link": "https://www.france24.com/en/video/20251026-vote-counting-underway-in-ivory-coast-presidential-election",
+      "published": "2025-10-26T13:52:31",
+      "content": "Votes were being counted late Saturday in Ivory Coast after citizens cast their ballots to elect a new leader. Longtime President Alassane Ouattara is seeking a fourth term while his key contenders were barred from the race.",
+      "content_length": 224,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump discusses future of Gaza with Qatari leaders",
+      "link": "https://www.france24.com/en/video/20251026-trump-discusses-future-of-gaza-with-qatari-leaders",
+      "published": "2025-10-26T13:35:35",
+      "content": "President Donald Trump met Qatar’s leaders on Sunday to discuss the future of the Gaza ceasefire he helped broker. Following the talks, he said a coalition of peacekeeping forces would soon be deployed. Meanwhile Israeli PM Netanyahu said Israel would decide which foreign troops it will allow as part of the plan.",
+      "content_length": 314,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Easier to ‘break into museums than a jewellery shop’: Louvre heist highlights security gaps",
+      "link": "https://www.france24.com/en/video/20251026-easier-to-break-into-museums-than-a-jewellery-shop-louvre-heist-highlights-security-gaps",
+      "published": "2025-10-26T13:32:18",
+      "content": "Suspects have been arrested over the brazen jewellery heist at the Louvre, just as one of them was about to fly out of France, the Paris prosecutor said on Sunday. On 19 October, four hooded thieves stole eight precious pieces worth an estimated $102 million from the museum’s collection, exposing security lapses at the world’s most-visited museum. Struggling to manage an ever-growing influx of tourists, the Louvre faces unique challenges. “All of these elements together have made it maybe much easier for thieves to break into museums than it would be to break into a jewellery shop,” FRANCE 24’s Philip Turle said in an analysis.",
+      "content_length": 635,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The week in pictures: Kermit the Frog in Paris, Sarkozy goes to prison and a White House demolition",
+      "link": "https://www.france24.com/en/culture/20251026-the-week-in-pictures-kermit-the-frog-in-paris-sarkozy-goes-to-prison-and-a-white-house-demolition",
+      "published": "2025-10-26T12:25:03",
+      "content": "Kermit the Frog takes over Paris's Place Vendôme, former French president Nicolas Sarkozy goes to prison, a mysterious gentleman goes viral in the wake of the Louvre heist, and US President Donald Trump demolishes the East Wing of the White House to make way for a ballroom. FRANCE 24 takes a look back at the week's most striking images.",
+      "content_length": 338,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France's ex-president Sarkozy receives police protection in prison",
+      "link": "https://www.france24.com/en/video/20251026-france-s-ex-president-sarkozy-receives-police-protection-in-prison",
+      "published": "2025-10-26T11:45:09",
+      "content": "Former French President Nicolas Sarkozy will have two police officers stationed in nearby cells while he is in prison to ensure he comes to no harm, France's interior minister said on Wednesday. Sarkozy on Tuesday began a five-year sentence after being convicted of conspiring to raise campaign funds from Libya, arriving at La Santé prison in Paris - a stunning downfall for a man who led the country between 2007 and 2012.",
+      "content_length": 424,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Stolen Louvre jewels likely still ‘intact’ and in France, expert says",
+      "link": "https://www.france24.com/en/video/20251026-stolen-louvre-jewels-likely-still-intact-and-in-france-expert-says",
+      "published": "2025-10-26T11:35:53",
+      "content": "The crown jewels stolen from the Louvre are most likely “still intact” and “still in France,” art crime detective Arthur Brand told FRANCE 24. Speaking in an interview, Brand noted that, as only a week has passed since the heist, it is unlikely the robbers have dismantled the jewels or smuggled them out of the country.",
+      "content_length": 320,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louvre heist suspects reportedly arrested in northern Paris suburb",
+      "link": "https://www.france24.com/en/video/20251026-louvre-heist-suspects-reportedly-arrested-in-northern-paris-suburb",
+      "published": "2025-10-26T11:20:02",
+      "content": "Two suspects have been arrested in connection with the theft of crown jewels from Paris’ Louvre Museum, the Paris prosecutor said on Sunday, a week after the heist at the world’s most visited museum that stunned the world. Citing local media, FRANCE 24’s Ellen Gainsford reported that the arrests took place in Saint-Denis, a northern suburb of Paris, and that one of the men was attempting to travel to Algeria from Charles de Gaulle Airport.",
+      "content_length": 443,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Valencia flood anniversary: Protesters demand regional leader’s resignation",
+      "link": "https://www.france24.com/en/video/20251026-valencia-flood-anniversary-protesters-demand-regional-leader-s-resignation",
+      "published": "2025-10-26T10:58:16",
+      "content": "Tens of thousands of people took to the streets of Spain's eastern city of Valencia on Saturday to mark the first anniversary of floods that killed 229 people, and to denounce the handling of the disaster. Demonstrators, many carrying photos of the victims, called on regional leader Carlos Mazon to resign over what they say was the slow response to one of Europe's deadliest natural disasters in decades.",
+      "content_length": 406,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Lamine Yamal's controversial Real Madrid comments add to Clásico tension",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251026-lamine-yamal-s-controversial-real-madrid-comments-add-to-cl%C3%A1sico-tension",
+      "published": "2025-10-26T10:41:26",
+      "content": "Barcelona and Real Madrid are gearing up for the first Clásico clash of the season on Sunday, with the Catalans looking to clinch a fifth consecutive win against the league leaders. Lamine Yamal's midweek comments, claiming that Real Madrid \"steal and complain\", have upped the ante ahead of what was already a much-anticipated fixture.",
+      "content_length": 336,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Left-winger Catherine Connolly wins Irish presidency",
+      "link": "https://www.france24.com/en/video/20251026-left-winger-catherine-connolly-wins-irish-presidency",
+      "published": "2025-10-26T10:36:06",
+      "content": "Left-wing independent Catherine Connolly, who secured the backing of Ireland's left-leaning parties including Sinn Féin, has won the country's presidential election in a landslide victory against her centre-right rival. Connolly, 68, said Saturday evening at Dublin Castle that she would champion diversity and be a voice for peace and one that “builds on our policy of neutrality.”",
+      "content_length": 382,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two suspects arrested in Louvre jewellery heist",
+      "link": "https://www.france24.com/en/video/20251026-two-suspects-arrested-in-louvre-jewellery-heist",
+      "published": "2025-10-26T10:30:36",
+      "content": "Two men have been detained by police, suspected of being part of the four-man team that stole some of France's most precious jewellery from the Louvre Museum last Sunday.",
+      "content_length": 170,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two suspects arrested in Louvre museum jewellery heist",
+      "link": "https://www.france24.com/en/video/20251026-two-suspects-arrested-in-louvre-museum-jewellery-heist",
+      "published": "2025-10-26T10:20:32",
+      "content": "Two men have been detained by police, suspected of being part of the four-man team that stole some of France's most precious jewellery from the Louvre Museum last Sunday.",
+      "content_length": 170,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UTA772 victim on testifying against Nicolas Sarkozy: \"I felt abandoned\"",
+      "link": "https://www.france24.com/en/video/20251026-uta772-victim-on-testifying-against-nicolas-sarkozy-i-felt-abandoned",
+      "published": "2025-10-26T10:18:49",
+      "content": "Amid the political noise surrounding the jailing of former French President Nicolas Sarkozy, the victims of the 1989 UTA Flight 772 bombing can easily be overlooked. The attack, ordered by the Libyan regime, killed all 170 people on board, including 54 French nationals. Despite the attack targeting French citizens, Sarkozy is reported to have offered to rehabilitate Muammar Gaddafi’s image and sought to lift an arrest warrant against Gaddafi’s brother-in-law, Abdullah Senussi, the mastermind behind the bombing. FRANCE 24 spoke to Yohanna Brette, whose mother was killed in the UTA772 attack when she herself was just a baby. She says Sarkozy's complicity with the former Libyan dictator made her feel abandoned by her own country.",
+      "content_length": 736,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Notre-Dame hosts rare wedding for carpenter who helped rebuild it",
+      "link": "https://www.france24.com/en/video/20251026-notre-dame-hosts-rare-wedding-for-carpenter-who-helped-rebuild-it",
+      "published": "2025-10-26T10:13:40",
+      "content": "An extraordinary wedding was held on Saturday, 25 October, at Notre-Dame de Paris, ten months after the cathedral reopened. In a rare exception, Martin Lorentz, one of the 500 craftsmen who helped restore the cathedral, married his partner Jade inside the historic building. Having spent three years reconstructing the cathedral’s timber frame using traditional methods, Lorentz realised a long-held dream, celebrating the ceremony alongside fellow artisans and hundreds of guests.",
+      "content_length": 481,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Winds and waves: Tourism takes off in disputed Western Sahara",
+      "link": "https://www.france24.com/en/video/20251026-winds-and-waves-tourism-takes-off-in-disputed-western-sahara",
+      "published": "2025-10-26T10:02:45",
+      "content": "Kitesurfers are flocking to the windswept beaches of Western Sahara, attracted by some of the best conditions in North Africa. Once largely overlooked, the region is slowly emerging as a niche tourism hotspot, even as it remains a disputed territory claimed by both Morocco and the pro-independence Polisario Front, backed by Algeria. Visitors are discovering pristine coastline and challenging waters, bringing fresh attention – and new tensions – to this politically sensitive desert region.",
       "content_length": 493,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "NI parents caught in UK crackdown lose child benefit after travelling via Dublin",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/26/ni-parents-caught-in-uk-crackdown-lose-child-benefit-after-travelling-via-dublin",
-      "published": "2025-10-26T08:00:58",
-      "content": "Exclusive: new anti-fraud system fails to account for fact many return to country via airport in Irish capitalParents in Northern Ireland have had their child support payments stopped as part of the UK government’s crackdown on alleged benefit fraud simply because they returned from a holiday via Dublin airport.So far 346 families have had their benefits frozen, an investigation by NI online newspaper, the Detail, shared with the Guardian, has discovered. Continue reading...",
-      "content_length": 479,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Cruise control: could a £5 ‘entry’ fee help balance Orkney’s needs with tourist demand?",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/26/orkney-council-tourist-levy-call-visitor-boom",
-      "published": "2025-10-26T07:00:56",
-      "content": "With tourists outnumbering locals by 20:1, islanders say levy is needed to help protect neolithic sites and maintain public servicesArtisan jewellery, gift and whisky shops crowd the main street of Kirkwall on Orkney. The town even has a new sushi shop, offering bento boxes and matcha cheesecake.Once home to the Viking earls who ruled the islands, Kirkwall has hit it rich: it tops the UK’s charts for cruise ship visits, as American, German and Italian tourists descend on remarkable neolithic sites such as Skara Brae and its medieval cathedral. Continue reading...",
-      "content_length": 569,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Companies that donated to Labour awarded £138m in contracts, study finds",
-      "link": "https://www.theguardian.com/politics/2025/oct/26/companies-that-donated-to-labour-awarded-138m-in-contracts-study-finds",
-      "published": "2025-10-26T06:00:55",
-      "content": "Report raises fresh concerns about the link between political donations and public spendingCompanies that have recently donated to Labour were awarded contracts worth almost £138m during the party’s first year in government, according to new research that raises fresh concerns about the relationship between political donations and public spending.A report by the thinktank Autonomy Institute has identified more than 100 companies that have given money to political parties and then won government contracts, under both Conservative and Labour administrations. Continue reading...",
-      "content_length": 582,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Texas officers heroically rescue baby pinned under car after overturn crash",
-      "link": "https://www.theguardian.com/us-news/2025/oct/25/texas-heroic-rescue-baby",
-      "published": "2025-10-25T23:25:12",
-      "content": "Fort Worth police share video of extraordinary effort by officers and motorists to pull car off baby and give CPRA baby is expected to make a full recovery and two Fort Worth police officers are being hailed as heroes after saving the infant, who was pinned under an overturned car after a crash on Texas’s Interstate 30 on Thursday morning.Fort Worth police said in a social media post that Sgt R Nichols and officer E Bounds responded to a crash around 9.30am where a woman and an infant had been in a collision that caused the infant to be ejected from the vehicle. Continue reading...",
-      "content_length": 588,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "New Jersey officer charged after going out for pizza instead of responding to shooting",
-      "link": "https://www.theguardian.com/us-news/2025/oct/25/new-jersey-pizza-double-homicide",
-      "published": "2025-10-25T22:10:03",
-      "content": "Sgt Kevin Bollaro accused of misconduct and falsifying report after blowing off investigation of a double homicideA New Jersey officer has been charged with misconduct after prosecutors say he didn’t quickly respond to and properly investigate reports of a shooting that turned out to be a double murder, instead stopping at an ATM and pizzeria.Franklin township police sergeant Kevin Bollaro was the on-duty officer on the evening of 1 August when police received 911 calls reporting gunshots and screaming in Pittstown, about 60 miles (96 kilometers) from Manhattan in central New Jersey, according to Hunterdon county prosecutor Renée Robeson’s office. Continue reading...",
-      "content_length": 675,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Trump raises tariffs on Canada by 10% in retaliation for anti-tariff TV ad",
-      "link": "https://www.theguardian.com/us-news/2025/oct/25/trump-tariffs-canada-ronald-reagan",
-      "published": "2025-10-25T21:48:46",
-      "content": "Move is response to ad sponsored by Ontario that referenced Ronald Reagan’s support for free tradeDonald Trump announced on Saturday that he will raise US tariffs on Canada by 10% in retaliation for an anti-tariff advertisement sponsored by the Ontario government, which has further strained one of the world’s largest trade partnerships.The statement, posted on Trump’s Truth Social account, came after several days of public disputes over the ad, which referenced Ronald Reagan’s support for free trade and provoked the US president’s anger. Continue reading...",
-      "content_length": 563,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Actor June Lockhart of Lost in Space and Lassie fame dies aged 100",
-      "link": "https://www.theguardian.com/tv-and-radio/2025/oct/25/actor-june-lockhart-dies-aged-100",
-      "published": "2025-10-25T20:41:46",
-      "content": "Lockhart started out on stage at age eight and appeared in scores of television series and feature filmsJune Lockhart, the popular actor known for her work in film and television, has passed away at the age of 100.She died on Thursday night of natural causes, with daughter June Elizabeth and granddaughter Christianna by her side, according to People. Continue reading...",
-      "content_length": 372,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Hispanics’ support of Trump plunges since he started second term",
-      "link": "https://www.theguardian.com/us-news/2025/oct/25/trump-hispanic-approval-rating",
-      "published": "2025-10-25T19:20:06",
-      "content": "Notable majority feel the country is headed in the wrong direction, and only 27% approve of his job performanceDonald Trump’s standing with Hispanic adults has dropped notably since he took office at the start of the year, according to a new poll.Polling by the Associated Press-NORC Center for Public Affairs Research suggests growing unease among a voting bloc that was crucial to his 2024 re-election victory. The October survey shows that 25% of Hispanic adults now hold a “somewhat” or “very” favorable view of Trump, down sharply from 44% in an AP-NORC poll conducted just before he began his second term. Continue reading...",
-      "content_length": 631,
-      "source": "The Guardian World",
+      "source": "France 24 English",
       "category": "International News"
     },
     {
@@ -1624,11 +1786,11 @@
       "category": "International News"
     },
     {
-      "title": "Two suspects arrested in Louvre museum jewellery heist",
+      "title": "Two suspects arrested over Louvre museum jewellery heist",
       "link": "https://www.france24.com/en/live-news/20251026-two-arrested-over-louvre-museum-heist-sources-close-to-the-investigation-say",
       "published": "2025-10-26T09:31:33",
-      "content": "French authorities have detained two men in connection to the recent theft of precious jewellery from the Louvre museum in Paris, the Paris prosecutor said on Sunday.",
-      "content_length": 166,
+      "content": "French authorities have made arrests in connection with the robbery at the Louvre museum last week, the Paris prosecutor said on Sunday, adding that one of the suspects was arrested at Charles de Gaulle airport as he was about to leave the country.",
+      "content_length": 248,
       "source": "France 24 English",
       "category": "International News"
     },
@@ -1656,168 +1818,6 @@
       "published": "2025-10-26T07:57:56",
       "content": "US President Donald Trump said Saturday he would increase tariffs on Canadian goods by an additional 10 percent because of what he called a “fake” ad campaign paid for by the Canadian province of Ontario that featured late US president Ronald Reagan criticising the imposition of high tariffs.",
       "content_length": 293,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "What to know about Argentina's mid-term vote, a key test for Trump ally Milei",
-      "link": "https://www.france24.com/en/americas/20251026-what-to-know-about-argentina-s-mid-term-vote-a-key-test-for-trump-ally-milei",
-      "published": "2025-10-26T07:35:05",
-      "content": "Argentine President Javier Milei’s image as a straight-talking outsider has been hurt by a series of scandals and setbacks ahead of mid-term congressional elections on Sunday. Opposition parties have gained support after US President Donald Trump warned that US assistance to Argentina was contingent on Milei’s victory in the vote.",
-      "content_length": 332,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Trump attends Thai-Cambodian ceasefire ceremony before ASEAN summit in Malaysia",
-      "link": "https://www.france24.com/en/asia-pacific/20251026-trump-attends-thai-cambodian-ceasefire-ceremony-at-start-of-asia-visit-in-malyasia",
-      "published": "2025-10-26T06:26:06",
-      "content": "US President Donald Trump attended the signing ceremony of an expanded ceasefire agreement between Thailand and Cambodia in Kuala Lumpur, Malaysia, the first stop on his Asia tour which could include talks with Chinese President Xi Jinping.",
-      "content_length": 240,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Israel launches air strike in Gaza allegedly targeting Islamic Jihad militant",
-      "link": "https://www.france24.com/en/middle-east/20251025-israel-launches-air-strike-in-gaza-allegedly-targeting-islamic-jihad-militant",
-      "published": "2025-10-25T18:16:53",
-      "content": "Israel's military on Saturday said it had launched an air strike in the Gaza Strip despite the ongoing US-brokered ceasefire, saying it was targeting a \"terrorist\" allegedly belonging to the Palestinian Islamic Jihad militant group.",
-      "content_length": 232,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Liberia says it will take Kilmar Abrego Garcia if US deports him",
-      "link": "https://www.france24.com/en/africa/20251025-liberia-says-it-will-take-kilmar-abrego-garcia-if-us-deports-him",
-      "published": "2025-10-25T17:59:04",
-      "content": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported Abrego Garcia in March, where he was incarcerated in El Salvador's notorious CECOT mega-prison before returning to the US in June.",
-      "content_length": 330,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Search for stolen Crown Jewels as investigators piece together timeline of Louvre break-in",
-      "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20251025-search-for-stolen-crown-jewels-as-investigators-piece-together-timeline-of-louvre-break-in",
-      "published": "2025-10-25T15:49:59",
-      "content": "It's been nearly a week since robbers stole around 88 million euros worth of jewelry from the Louvre Museum.  The brazen day-time break-in has shaken the world, and investigators are still piecing together the timeline of the theft – as they search for the stolen French crown jewels.",
-      "content_length": 284,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "FRANCE 24's Elena Volochine wins top French journalism prize for book on Putin propaganda machine",
-      "link": "https://www.france24.com/en/culture/20251025-france-24-elena-volochine-wins-top-french-journalism-prize-albert-londres-book-putin-propaganda-arme-de-guerre",
-      "published": "2025-10-25T15:38:49",
-      "content": "The Albert Londres book prize, France’s equivalent of the Pulitzer, has been awarded to Elena Volochine for \"Propagande : l’arme de guerre de Vladimir Poutine\" (Propaganda: Vladimir Putin's weapon of war). Volochine is FRANCE 24's Moscow bureau chief.",
-      "content_length": 251,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Ontario premier’s Reagan ad rekindles tensions with Trump",
-      "link": "https://www.france24.com/en/video/20251025-ontario-premier-s-reagan-ad-rekindles-tensions-with-trump",
-      "published": "2025-10-25T15:21:55",
-      "content": "The premier of Canada’s mostpopulous province has again complicated the country’s delicate trade negotiations with the US, this time with a political ad targeting Americans that has drawn the ire of US President Donald Trump. The ad, commissioned by Doug Ford, Ontario's outspoken Conservative premier who is sometimes compared to Trump, uses a snippet of Republican icon and former President Ronald Reagan saying that tariffs cause trade wars and economic disaster.",
-      "content_length": 466,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Many Gazans still unable to return home despite ceasefire",
-      "link": "https://www.france24.com/en/video/20251025-many-gazans-still-unable-to-return-home-despite-ceasefire",
-      "published": "2025-10-25T15:20:07",
-      "content": "His house in Gaza was destroyed by the war, but Hani Abu Omar still dreams of returning now that a ceasefire has taken hold. However, like thousands of others, the 42-year-old Palestinian remains stuck in a tent with his family because it is too dangerous to go home. Abu Omar's house lies beyond the \"Yellow Line\" – the boundary behind which Israeli troops have pulled back under the October 10 truce.",
-      "content_length": 402,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Voters in Ivory Coast cast ballots to elect new leader",
-      "link": "https://www.france24.com/en/video/20251025-voters-in-ivory-coast-cast-ballots-to-elect-new-leader",
-      "published": "2025-10-25T15:20:01",
-      "content": "Voters in Ivory Coast cast ballots Saturday to elect a new leader as longtime President Alassane Ouattara seeks a fourth term, while his key contenders were barred from the race. The election is the latest example of aging men continuing to hold power in Africa, which boasts the youngest population in the world. Cameroon’s Paul Biya, 92, Uganda’s Yoweri Museveni, 81, and Equatorial Guinea’s Teodoro Mbasogo, 83, are some other older African leaders still in power.",
-      "content_length": 467,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "‘What the US really wants is regime change’: US military build-up in the Caribbean",
-      "link": "https://www.france24.com/en/video/20251025-what-the-us-really-wants-is-regime-change-us-military-build-up-in-the-caribbean",
-      "published": "2025-10-25T15:08:36",
-      "content": "The Pentagon on Friday ordered the deployment of an aircraft carrier strike group to counter drug-trafficking organisations in Latin America, marking a major escalation in a US military build-up that Venezuela’s leader warned was aimed at “fabricating a war”. Citing expert opinion, FRANCE 24’s Philip Turle said “what the US really wants is regime change,” adding that the key question now is whether Washington would launch attacks on Venezuelan soil.",
-      "content_length": 453,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Ireland's left-wing independent Connolly wins presidential election in landslide",
-      "link": "https://www.france24.com/en/europe/20251025-ireland-s-left-wing-independent-connolly-set-to-be-president-after-rival-concedes-election",
-      "published": "2025-10-25T14:16:40",
-      "content": "Left-wing independent Catherine Connolly is set to become Ireland's new president after winning a landslide victory on Saturday, beating her centrist rival Heather Humphreys with more that 63 percent of the ballots.",
-      "content_length": 215,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "French government's fate in the balance as lawmakers set to vote on wealth tax",
-      "link": "https://www.france24.com/en/france/20251025-french-government-s-fate-in-balance-as-lawmakers-set-to-vote-on-wealth-tax",
-      "published": "2025-10-25T13:55:26",
-      "content": "France may see another government fall as early as next week as lawmakers debated budgetary amendments on Saturday, including a proposed 2 percent levy on France's ultra-rich known as the \"Zucman tax\". The centre-left Socialist Party has threatened to use its crucial swing vote to topple the government if a wealth tax is not included in next year's budget.",
-      "content_length": 358,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "'Every reason' to expect attacks inside Venezuela, expert warns as US escalates operations",
-      "link": "https://www.france24.com/en/video/20251025-every-reason-to-expect-attacks-inside-venezuela-expert-warns-as-us-escalates-operations",
-      "published": "2025-10-25T13:53:38",
-      "content": "The Pentagon has deployed an aircraft carrier strike group to counter what it claims are drug-trafficking organisations in Latin America, escalating a military build-up that has fuelled fears of conflict. Earlier, the US targeted boats in international waters, killing those on board. Cynthia J. Arnson, Director of the Latin American Programme at the Wilson Centre, said there is “very little evidence” the vessels were involved in drug trafficking, calling the legality of the strikes questionable. She added that the operation appears to be “far beyond a counter–drug-trafficking operation” and warned: “There is, I think, every reason to believe or expect that there will be attacks inside Venezuelan territory aimed at deposing the current dictatorship of Nicolás Maduro.”",
-      "content_length": 777,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "The Bright Side: Photo of well-dressed mystery man goes viral in wake of Louvre jewel heist",
-      "link": "https://www.france24.com/en/france/20251025-photo-of-well-dressed-mystery-man-goes-viral-in-wake-of-louvre-jewel-heist",
-      "published": "2025-10-25T12:14:12",
-      "content": "A photo of French police sealing off the Louvre after last weekend’s crown jewel heist has taken on a life of its own, after social media users took interest in an unidentified, well-dressed man caught in the foreground.",
-      "content_length": 220,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Trump heads to Asia for talks with China's Xi amid trade tensions",
-      "link": "https://www.france24.com/en/video/20251025-trump-heads-to-asia-for-talks-with-china-s-xi-amid-trade-tensions",
-      "published": "2025-10-25T12:01:29",
-      "content": "US President Donald Trump on Saturday headed for Asia and high-stakes trade talks with Chinese counterpart Xi Jinping, saying that he would also like to meet North Korean leader Kim Jong Un on his trip. FRANCE 24 speaks to Robert Manning, Distinguished Fellow with the Strategic Foresight Hub and the China Program at the Stimson Center, to discuss what might be on the agenda.",
-      "content_length": 377,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "French court sentences Algerian woman to life for murdering schoolgirl",
-      "link": "https://www.france24.com/en/video/20251025-french-court-sentences-algerian-woman-to-life-for-murdering-schoolgirl",
-      "published": "2025-10-25T11:11:41",
-      "content": "A French court on Friday sentenced an Algerian woman to life imprisonment without parole for raping, torturing and murdering a schoolgirl in Paris, making her the first woman to receive this maximum sentence. Dahbia Benkired was handed an \"irreducible life sentence\" for killing 12-year-old Lola Daviet in the French capital in 2022, in a case that horrified the country and sparked anti-immigration fervour because the woman did not have the right to be in France.",
-      "content_length": 465,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "French government faces threat of censure amid wealth tax row",
-      "link": "https://www.france24.com/en/video/20251025-lecornu-government-faces-threat-of-censure-over-wealth-tax",
-      "published": "2025-10-25T11:08:28",
-      "content": "France's prime minister on Friday urged lawmakers to reach a compromise to pass an austerity budget, after leftists threatened to oust his government if it did not include a tax on the very wealthy. Sebastien Lecornu has promised to get a spending bill through a deeply divided parliament by the end of the year, after the legislature toppled his two predecessors over cost-cutting measures.",
-      "content_length": 391,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Tensions simmer at Thailand-Cambodia border despite ceasefire",
-      "link": "https://www.france24.com/en/video/20251025-tensions-simmer-at-thailand-cambodia-border-despite-ceasefire",
-      "published": "2025-10-25T09:40:05",
-      "content": "Tensions remain high between Thailand and Cambodia, which continue to dispute territories along their shared border. In Thailand, hundreds of Cambodian families living in the contested zones have been ordered to leave. The ceasefire agreed on 28 July has been violated several times, with reports of gunfire and cross-border incursions. FRANCE 24's Constantin Simon and Tommy Walker report.",
-      "content_length": 390,
       "source": "France 24 English",
       "category": "International News"
     },
@@ -2002,6 +2002,42 @@
       "category": "Tech News"
     },
     {
+      "title": "Adobe’s Project Indigo camera finally adds iPhone 17 support",
+      "link": "https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support",
+      "published": "2025-10-26T15:17:22",
+      "content": "\n\n\n\t\n\t\t\n\nAdobe’s computational photography app, Project Indigo, had a bit of trouble adapting to the new square-format selfie sensor in the iPhone 17 series. For the last month or so, the app simply didn’t support Apple’s latest phones at all. Adobe was working behind the scenes to get things up and running, and posting occasional updates to the Adobe Community forums. But the company has decided to simply turn off access to the front-facing camera entirely, in order to get some version of Project Indigo out the door with iPhone 17 support.\n\nThe app debuted back in June and immediately started garnering fans who preferred the softer touch it took to processing images, compared to the standard iPhone camera app. But the new sensors in the iPhone 17 series apparently threw Project Indigo for a loop. A fix in iOS 26.1 will allow Adobe to enable selfie camera support as well, but for now, iPhone 17 owners will have to make do with rear-camera support only. \n\n",
+      "content_length": 969,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How Guitar Hero made everybody a rock star",
+      "link": "https://www.theverge.com/podcast/806168/guitar-hero-game-version-history",
+      "published": "2025-10-26T14:41:11",
+      "content": "\n\n\n\t\n\t\t\n\n\"Sharp Dressed Man,\" by ZZ Top. Hard on a good day, Medium when my friends were over, Expert once and then never ever again. That was my Guitar Hero sweet spot. And for years, it seemed like everybody had one. The plastic guitar controllers became a staple of living rooms everywhere, and the songs - from big bands, small bands, and bands that didn't even actually exist - became huge hits. Long before TikTok was the most important thing in music, getting your track on a Guitar Hero setlist could change your life forever.\nFor this episode of Version History, we go through the whole history of Guitar Hero. The story begins in arcades in Japan, …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The next legal frontier is your face and AI",
+      "link": "https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai",
+      "published": "2025-10-26T12:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal morass of AI, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nThe song was called \"Heart on My Sleeve,\" and if you didn't know better, you might guess you were hearing Drake. If you did know better, you were hearing the starting bell of a new legal and cultural battle: the fight over how AI services should be able to use people's faces and voices, and how platforms should respond.\nBack in 2023, the AI-generated faux-Drake track \"Heart on My Sl …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "My favorite e-reader just got a big update",
+      "link": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer",
+      "published": "2025-10-26T12:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 103, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry everything's so expensive this week, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about gooning and Costco and protein bars and the Jonas Brothers, bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike, telling anyone who will listen that T-Pain's still got it, learning everything I can about the Louvre heist, playing a surprising amount of Fortnite on my iPad, and shopping for Yoto Players after abou …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
       "title": "Tech left teens fighting over scraps, and now it wants those too",
       "link": "https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs",
       "published": "2025-10-25T18:00:00",
@@ -2052,42 +2088,6 @@
       "published": "2025-10-25T12:00:00",
       "content": "\n\n\n\t\n\t\t\n\nDuring a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely handle the snow.\nIn its first few years of operation, Waymo has strategically stuck to cities with warmer, drier climates - places like Phoenix, Los Angeles, Atlanta, and Austin. But as it eyes a slate of East Coast cities, including Boston, New York City, and Washington, DC, for the next phase of its expansion, its abilities to handle more adverse weather will become a crucial test.\n\"Ha h …\nRead the full story at The Verge.",
       "content_length": 692,
-      "source": "The Verge",
-      "category": "Tech News"
-    },
-    {
-      "title": "The rise of &#8220;catch a cheater&#8221; apps exploits our worst human tendencies",
-      "link": "https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder",
-      "published": "2025-10-25T12:00:00",
-      "content": "\n\n\n\t\n\t\t\n\nWhen people sign up for a dating site like Tinder, they don't expect their profiles and personal information to be searchable - especially by a scorned lover, or worse. But that's what popular apps like Cheaterbuster or CheatEye seem to be doing under the guise of being able to \"catch cheaters.\"\nLast week, 404 Media published a report about apps that apparently use facial recognition technology to trace dating profiles of private citizens as evidence that these partners are unfaithful. Many of these services charge a one-time fee to locate a Tinder profile with just a name or a photo of the person's face. (Some searches can run you $18 a tr …\nRead the full story at The Verge.",
-      "content_length": 693,
-      "source": "The Verge",
-      "category": "Tech News"
-    },
-    {
-      "title": "Bored Ape Yacht Club is making a comeback — as a metaverse",
-      "link": "https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs",
-      "published": "2025-10-25T03:30:00",
-      "content": "\n\n\n\t\n\t\t\n\nIt's dusk, and bugs are chirping all around me. I'm wandering through the middle of a big, virtual swamp toward the sound of thumping bass off in the distance. There isn't much else nearby - some trees, a couple of other players. It's mostly just me and the sound emanating from a large wooden structure strung up with lights sitting farther out into the swamp.\nWhen I finally arrive, it rises above me: the official clubhouse of the Bored Ape Yacht Club. I make for the door to head inside. Except I find I can't get access; even though the lights are on in the house, the doors don't actually open. There's nothing to do.\nThese were my first ste …\nRead the full story at The Verge.",
-      "content_length": 692,
-      "source": "The Verge",
-      "category": "Tech News"
-    },
-    {
-      "title": "Sam Altman’s next startup eyes using sound waves to read your brain",
-      "link": "https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire",
-      "published": "2025-10-25T00:00:00",
-      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nSam Altman has tapped Mikhail Shapiro, an award-winning biomolecular engineer, to join the Merge Labs brain-computer interface startup he's set to announce soon with co-founder Alex Blania.\nWhile Shapiro's official title is unclear, sources say he will be part of Merge's founding team and has been positioned as a key leader in talks with investors. Those talks are ongoing, but Merge expects to raise hundreds of millions of dollars from OpenAI and others, as The Financial Times earlier reported.\nS …\nRead the full story at The Verge.",
-      "content_length": 691,
-      "source": "The Verge",
-      "category": "Tech News"
-    },
-    {
-      "title": "Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit",
-      "link": "https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti",
-      "published": "2025-10-24T23:07:53",
-      "content": "\n\n\n\t\n\t\t\n\nEarlier this week, Jon Prosser, who is being sued by Apple for allegedly stealing trade secrets, told The Verge that he has been “in active communications with Apple since the beginning stages of this case.” But Apple, in a new filing on Thursday that was reported on by MacRumors, said that while Prosser has “publicly acknowledged” Apple’s complaint, he “has not indicated whether he will file a response to it or, if so, by when.”\n\nProsser didn’t immediately reply to a request for comment from The Verge. Apple sued Prosser, who posted videos earlier this year showing off features that would debut in iOS 26 ahead of their official announcement, and another defendant, Michael Ramacciotti, in July. The company alleged that Prosser and Ramacciotti had “a coordinated scheme to break into an Apple development iPhone, steal Apple’s trade secrets, and profit from the theft.”\n\nA clerk already entered a default against Prosser last week, which means he hasn’t responded to the lawsuit and that the case can move forward. In Thursday’s filing, Apple said it “intends to file a default judgment seeking damages and an injunction against him.”\n\nThursday’s filing also includes statements from Ramacciotti. While Ramacciotti “admits to” providing information about iOS 26 to Prosser, “no underlying plan, conspiracy, or scheme was formed” between them, Ramacciotti said. He also claimed that he “had no intent to monetize this information when he contacted Mr. Prosser, nor was there any arrangement at the time the information was conveyed that he would be compensation [sic].”\n\nApple and Ramacciotti have also “informally discussed settlement,” according to the filing.",
-      "content_length": 1679,
       "source": "The Verge",
       "category": "Tech News"
     },
