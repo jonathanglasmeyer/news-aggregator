@@ -31,38 +31,98 @@ Using Anthropic API directly with Claude Pro/Max plan:
 
 ## Architecture
 
+### Current Pipeline (5 Stages)
+
+**Execution:** Daily at 8:00 AM UTC via GitHub Actions
+
 ```
-┌─────────────┐
-│  Inoreader  │  Fetches feeds, handles Cloudflare
-│     API     │  Pre-filtering via Rules (optional)
-└──────┬──────┘
+┌─────────────────────────────────────────────────────┐
+│  GitHub Actions (Daily Cron: 0 8 * * *)             │
+└──────┬──────────────────────────────────────────────┘
        │
-       │ Weekly cron trigger
+       │ Stage 1: Fetch RSS Feeds
        │
 ┌──────▼──────────────────────────┐
-│  Python Script                  │
-│  - Fetch articles via API       │
-│  - OAuth token management       │
-│  - Rate limiting                │
+│  daily_fetch.py                 │
+│  - Direct RSS parsing           │
+│  - feedparser library           │
+│  - 15+ German/Int'l sources     │
+│  - Output: raw JSON (~300-500)  │
 └──────┬──────────────────────────┘
        │
-       │ Raw articles
+       │ Stage 2: Aggregate Articles
        │
 ┌──────▼──────────────────────────┐
-│  Claude Sonnet 4.5 (Bedrock)    │
-│  - Filter opinion pieces        │
-│  - Remove irrelevant content    │
-│  - Summarize key points         │
-│  - Format for readability       │
+│  stage2_aggregate.py            │
+│  - Normalize article format     │
+│  - Extract metadata             │
+│  - Output: aggregated JSON      │
 └──────┬──────────────────────────┘
        │
-       │ Filtered digest
+       │ Stage 2.5: Deduplicate
        │
 ┌──────▼──────────────────────────┐
-│  Discord Webhook                │
-│  - Formatted message            │
-│  - Weekly delivery              │
+│  stage2_5_deduplicate.py        │
+│  - Check last 7 days            │
+│  - Title similarity matching    │
+│  - Remove duplicates            │
+└──────┬──────────────────────────┘
+       │
+       │ Stage 3: Remote Embedding Filter
+       │
+┌──────▼──────────────────────────┐
+│  stage3_embed_filter_remote.py  │
+│  - SSH to Hetzner VPS           │
+│  - POST JSON via curl           │
+│  - Keyword blacklist filter     │
+│  - Output: ~250-280 articles    │
+└──────┬──────────────────────────┘
+       │  ┌─────────────────────────┐
+       └─▶│ Hetzner VPS (Port 3007) │
+          │ - FastAPI service       │
+          │ - Docker container      │
+          │ - 129 blacklist keywords│
+          └─────────────────────────┘
+       │
+       │ Stage 4: Claude AI Filter
+       │
+┌──────▼──────────────────────────┐
+│  stage4_filter.py               │
+│  - Claude Agent SDK             │
+│  - Sonnet 4.5 model             │
+│  - 3-tier categorization:       │
+│    * MUST-KNOW (world events)   │
+│    * INTERESSANT (tech/AI)      │
+│    * NICE-TO-KNOW (grouped)     │
+│  - Output: Markdown digest      │
+└──────┬──────────────────────────┘
+       │
+       │ Stage 5: Post to Discord
+       │
+┌──────▼──────────────────────────┐
+│  stage5_discord_webhook.py      │
+│  - Format for Discord           │
+│  - Smart chunking (<2000 chars) │
+│  - Header spacing fixes         │
+│  - Zero-width space separators  │
+│  - Posts 10-15 messages         │
 └─────────────────────────────────┘
+```
+
+### Data Flow
+
+```
+RSS Feeds (raw)           → data/raw/daily/YYYY-MM-DD.json
+  ↓ aggregate
+Aggregated Articles       → data/aggregated/YYYYMMDD_HHMMSS.json
+  ↓ deduplicate (7 days)
+Deduplicated              → data/deduplicated/YYYYMMDD_HHMMSS.json
+  ↓ embedding filter (SSH → Hetzner)
+Keyword-Filtered          → data/embedded/YYYYMMDD_HHMMSS.json
+  ↓ claude filter (AI categorization)
+Final Digest              → data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
+  ↓ post to discord
+Discord Channel           → Webhook posts (10-15 messages)
 ```
 
 ## Target News Sources
@@ -77,148 +137,174 @@ Using Anthropic API directly with Claude Pro/Max plan:
 - Tech/AI specific feeds
 - Regional sources
 
-## Implementation Steps
+## Implementation Status
 
-### Phase 1: Setup & Verification
-1. **Test direct feed access** (5 min)
-   ```python
-   import requests
-   r = requests.get('https://www.tagesschau.de/xml/rss2/')
-   print(r.status_code)
-   ```
-   Determine if Cloudflare bypass is actually needed
+### ✅ Completed (Production-Ready)
 
-2. **Inoreader setup** (30 min)
-   - Create Pro account (6,67€/month)
-   - Register OAuth app at https://www.inoreader.com/developers/
-   - Set redirect URI: `http://localhost:8080/oauth/redirect`
-   - Add target feeds
-   - Test OAuth flow
+1. **Stage 1: RSS Fetching**
+   - Direct feed access via `feedparser`
+   - 15+ German/international sources
+   - No Cloudflare issues encountered
+   - File: `daily_fetch.py`
 
-3. **Infrastructure setup** (2-3h if Oracle Cloud)
-   - Provision Oracle Cloud Always Free VM
-   - Configure networking (VCN, security lists)
-   - Install Python 3.11+, dependencies
-   - Setup cron for weekly execution
+2. **Stage 2: Aggregation**
+   - Normalized article format
+   - Metadata extraction
+   - File: `stage2_aggregate.py`
 
-### Phase 2: Core Implementation
-4. **OAuth implementation** (1-2h)
-   - Implement token acquisition
-   - Token refresh logic
-   - Secure token storage
+3. **Stage 2.5: Deduplication**
+   - 7-day lookback window
+   - Title similarity matching
+   - File: `stage2_5_deduplicate.py`
 
-5. **Inoreader API integration** (2-3h)
-   - Fetch unread articles
-   - Parse article metadata
-   - Handle pagination
-   - Mark articles as read after processing
+4. **Stage 3: Remote Embedding Filter**
+   - Hetzner VPS deployment (Docker)
+   - SSH + curl integration
+   - 129 keyword blacklist
+   - Files: `stage3_embed_filter_remote.py`, `embedding_service.py`
 
-6. **Claude filtering** (2-3h)
-   - Bedrock client setup
-   - Prompt engineering for content filtering
-   - Batch processing for efficiency
-   - Cost optimization
+5. **Stage 4: Claude AI Filter**
+   - Claude Agent SDK integration
+   - 3-tier categorization (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
+   - Prompt version 4 (tested and working)
+   - File: `stage4_filter.py`
 
-7. **Discord integration** (30 min)
-   - Webhook URL configuration
-   - Message formatting (Markdown)
-   - Error handling
+6. **Stage 5: Discord Delivery**
+   - Smart chunking (<2000 chars)
+   - Header spacing fixes
+   - Message separation with zero-width spaces
+   - File: `stage5_discord_webhook.py`
 
-### Phase 3: Polish & Automation
-8. **Filtering refinement** (ongoing)
-   - Iterate on Claude prompts
-   - Add/remove sources based on quality
-   - Tune summary length
+7. **GitHub Actions Automation**
+   - Daily cron: 8:00 AM UTC
+   - SSH key setup for Hetzner
+   - Secret management (5 secrets)
+   - File: `.github/workflows/daily-digest.yml`
 
-9. **Monitoring & logging** (1h)
-   - Error notifications
-   - Success confirmations
-   - Usage tracking
+### 🔄 Ongoing Optimization
+
+- Prompt refinement for Stage 4
+- Source quality monitoring
+- Deduplication accuracy tuning
 
 ## Technical Considerations
 
-### Inoreader API
-- OAuth 2.0 required
-- Rate limiting: Pro plan guaranteed hourly refresh
-- Endpoints needed:
-  - `/reader/api/0/stream/contents` - Fetch articles
-  - `/reader/api/0/subscription/list` - List feeds
-  - `/reader/api/0/edit-tag` - Mark as read
+### Claude Agent SDK
+- **Authentication**: OAuth token via `claude setup-token`
+- **Model**: claude-sonnet-4.5-20251022
+- **Token expiry**: ~1 year (requires renewal)
+- **Environment**: `CLAUDE_CODE_OAUTH_TOKEN`
+- **Processing time**: ~3-4 minutes for 250-280 articles
 
-### Claude Filtering Prompt Strategy
-```
-You are filtering a news feed for a technical reader interested in:
-- World news (politics, economics, major events)
-- Tech/AI developments
-- No opinion pieces or editorials
-- No local German news unless internationally significant
+### Hetzner VPS (Embedding Service)
+- **Server**: Cheapest VPS tier
+- **Port**: 3007 (internal only, firewall protected)
+- **Container**: Docker with FastAPI
+- **Deployment**: `./deploy-embedding.sh` (automated)
+- **SSH**: Ed25519 key-based authentication
+- **Health check**: `/health` endpoint
 
-For each article, determine:
-1. Is this actual news or opinion/analysis?
-2. Is this internationally relevant?
-3. Does this match the reader's interests?
+### Discord Webhook
+- **Format**: Markdown with smart chunking
+- **Limit**: 2000 chars per message
+- **Rate limit**: 1 request/second
+- **Formatting**:
+  - Zero-width space (`\u200b`) for message separation
+  - Triple-regex fix for h1 header spacing
+  - Link preview suppression with `<URL>`
 
-Return only articles that pass all criteria with:
-- Original headline
-- 2-3 sentence summary
-- Why it's relevant
-```
+### GitHub Actions Secrets
+1. `CLAUDE_CODE_OAUTH_TOKEN` - Claude AI access
+2. `DISCORD_WEBHOOK_URL` - Discord delivery
+3. `HETZNER_HOST` - VPS hostname
+4. `HETZNER_USER` - SSH user (root)
+5. `HETZNER_SSH_KEY` - Private key for SSH
 
-### Cost Estimation
-- **Inoreader Pro**: 80€/year (6,67€/month)
-- **AWS Bedrock**: ~0.50-2€/month (weekly processing, ~50 articles)
-- **Oracle Cloud**: Free tier sufficient
-- **Total**: ~85-105€/year
+### Cost Estimation (Actual)
+- **Hetzner VPS**: ~€5/month (cheapest tier)
+- **Claude API**: Included in Claude Pro subscription
+- **GitHub Actions**: Free tier sufficient (<2000 min/month)
+- **Total**: ~€60/year (only Hetzner VPS)
 
 ### Security Considerations
-- Store OAuth tokens encrypted or in secure secret manager
-- Use environment variables for sensitive config
-- Implement retry logic with exponential backoff
-- Log failures without exposing credentials
+- All secrets stored in GitHub Secrets (encrypted at rest)
+- SSH key-based authentication (no passwords)
+- Embedding service: internal port only, no public exposure
+- Discord webhook: rate-limited, no sensitive data exposed
+- Data tracked in git for transparency (no PII in articles)
 
 ## Success Metrics
-- ✅ Zero manual intervention after setup
-- ✅ Digest delivered every Sunday 8 AM
-- ✅ 90%+ relevant articles (no opinion pieces)
-- ✅ 5-15 articles per digest
-- ✅ <5 minute reading time
 
-## Alternative: Minimal Viable Product (MVP)
-If Inoreader seems overkill, start with:
-1. Direct RSS fetch with `feedparser` (test if Cloudflare blocks)
-2. If blocked, deploy on Oracle Cloud with residential-like IP
-3. If that fails, then invest in Inoreader Pro
+### ✅ Achieved
+- Zero manual intervention (fully automated)
+- Daily digest delivered at 8:00 AM UTC
+- 3-tier categorization working (MUST-KNOW/INTERESSANT/NICE-TO-KNOW)
+- ~7-12 MUST-KNOW articles per day
+- ~10-15 INTERESSANT items per day
+- Complete end-to-end pipeline tested in GitHub Actions
 
-## Decision Points
+### 🔄 Monitoring
+- Relevance quality (ongoing prompt refinement)
+- Deduplication effectiveness (7-day window)
+- Discord formatting (header spacing, message separation)
+- Claude API costs (included in Pro subscription)
 
-### Do we need Inoreader?
-**Test first**: Try direct feed access from target infrastructure
-- If feeds are open → Use `feedparser` + simple cron
-- If Cloudflare blocks → Evaluate Oracle Cloud vs Inoreader Pro
+## Key Architectural Decisions
 
-### Which infrastructure?
-- **Oracle Cloud** if feeds need bypass but want zero vendor lock-in
-- **Inoreader Pro** if willing to pay for convenience
-- **Home server** if already available
+### ✅ Decided & Implemented
 
-### Filtering location?
-- **Pre-filter in Inoreader**: Use Rules feature, reduce Claude costs
-- **Filter in Claude**: More flexibility, slightly higher costs
+1. **No Inoreader needed** - Direct RSS access works without Cloudflare issues
+2. **GitHub Actions over self-hosted** - Free tier sufficient, better reliability
+3. **Hetzner VPS for embedding service** - €5/month, Docker deployment
+4. **Claude Agent SDK over Bedrock** - Simpler auth, included in Pro subscription
+5. **Discord Webhook over Bot** - Simpler for automation, no persistent process
+6. **Daily over Weekly** - More manageable article volume per run
+7. **Data tracked in git** - Transparency and debugging over repo size concerns
 
-## Next Steps
-1. **Immediate**: Test direct feed access from local machine
-2. **If accessible**: Build MVP with `feedparser` + Claude + Discord
-3. **If blocked**: Decide between Oracle Cloud (free, complex) vs Inoreader (paid, simple)
-4. **Then**: Implement full solution based on decision
+## Lessons Learned
+
+1. **RSS feeds are more accessible than expected** - No Cloudflare blocking encountered
+2. **Two-stage filtering works well** - Keyword blacklist (Stage 3) + AI (Stage 4)
+3. **Deduplication is essential** - Prevents repeated coverage of same stories
+4. **Discord formatting is finicky** - Requires zero-width spaces and triple-regex fixes
+5. **GitHub Actions SSH needs careful setup** - Ed25519 keys, known_hosts handling
 
 ## Resources
-- Inoreader API Docs: https://www.inoreader.com/developers/
-- Inoreader OAuth Guide: https://www.inoreader.com/developers/oauth
-- AWS Bedrock Python SDK: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-runtime.html
-- Discord Webhooks: https://discord.com/developers/docs/resources/webhook
+
+### Documentation
+- **Claude Agent SDK**: https://github.com/anthropics/claude-code
+- **Discord Webhooks**: https://discord.com/developers/docs/resources/webhook
+- **feedparser (Python)**: https://feedparser.readthedocs.io/
+- **GitHub Actions**: https://docs.github.com/en/actions
+
+### Key Files
+- **Pipeline orchestration**: `.github/workflows/daily-digest.yml`
+- **Stage scripts**: `daily_fetch.py`, `stage2_aggregate.py`, `stage2_5_deduplicate.py`, `stage3_embed_filter_remote.py`, `stage4_filter.py`, `stage5_discord_webhook.py`
+- **Embedding service**: `embedding_service.py`, `filter_logic.py`, `Dockerfile.embedding`, `docker-compose.embedding.yml`
+- **Deployment**: `deploy-embedding.sh`
+
+### Setup Commands
+```bash
+# Claude OAuth token setup
+claude setup-token
+
+# Test RSS fetch locally
+uv run python daily_fetch.py
+
+# Test full pipeline locally
+uv run python stage2_aggregate.py data/raw/daily/YYYY-MM-DD.json
+uv run python stage2_5_deduplicate.py data/aggregated/YYYYMMDD_HHMMSS.json
+uv run python stage3_embed_filter_remote.py data/deduplicated/YYYYMMDD_HHMMSS.json
+uv run python stage4_filter.py data/embedded/YYYYMMDD_HHMMSS.json
+uv run python stage5_discord_webhook.py data/filtered/digest_YYYYMMDD_HHMMSS_v4.md
+
+# Deploy embedding service to Hetzner
+./deploy-embedding.sh
+```
 
 ## Notes
-- User has existing AWS Bedrock access via MOIA work
-- User prefers honest, direct communication
-- Weekly digest frequency keeps costs minimal
-- Focus on pragmatic solutions over perfect architecture
+- Direct RSS access works without proxies/VPNs
+- Claude Pro subscription required for Agent SDK
+- Hetzner VPS is cheapest viable option (€5/month)
+- Daily execution prevents article overload (vs weekly)
+- Data tracked in git aids debugging and transparency
