@@ -118,6 +118,10 @@ def format_for_discord(content: str) -> str:
     # Remove horizontal rules
     content = content.replace('---', '')
 
+    # Ensure newline before h1 headers (# but not ##)
+    # This fixes the formatting issue where text runs directly into headers
+    content = re.sub(r'([^\n])\n(# [^#])', r'\1\n\n\2', content)
+
     return content
 
 
