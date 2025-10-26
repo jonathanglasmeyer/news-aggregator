@@ -15,6 +15,10 @@ import sys
 import requests
 from pathlib import Path
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 DISCORD_MESSAGE_LIMIT = 2000
 
@@ -25,16 +29,30 @@ def load_digest(digest_path: Path) -> str:
         return f.read()
 
 
-def split_content_by_sections(content: str) -> list[str]:
+def split_content_by_sections(content: str) -> list[tuple[str, str]]:
     """
     Split content intelligently at section boundaries.
     Prioritizes splitting at # headers.
+    Returns list of tuples: (chunk_text, section_name)
     """
     chunks = []
     lines = content.split('\n')
 
+    # Fix LLM output bug: ensure section headers are on their own lines
+    for i, line in enumerate(lines):
+        for section_name in ['# MUST-KNOW', '# INTERESSANT', '# NICE-TO-KNOW', '# DISCARDED']:
+            if section_name in line and not line.strip().startswith(section_name):
+                # Split the line at the section header
+                before, after = line.split(section_name, 1)
+                # Replace with two lines (before gets discarded, section header starts fresh)
+                lines[i] = section_name + after
+                if before.strip():  # Only insert previous content if non-empty
+                    lines.insert(i, before.rstrip())
+                break
+
     current_chunk = []
     current_length = 0
+    current_section = None
 
     # Skip until MUST-KNOW section
     start_idx = 0
@@ -57,13 +75,29 @@ def split_content_by_sections(content: str) -> list[str]:
         # Check if we're at a section header
         is_section = line.startswith('# ') and not line.startswith('## ')
 
+        # Track current section BEFORE splitting
+        if is_section:
+            if 'MUST-KNOW' in line:
+                next_section = 'MUST-KNOW'
+            elif 'INTERESSANT' in line:
+                next_section = 'INTERESSANT'
+            elif 'NICE-TO-KNOW' in line:
+                next_section = 'NICE-TO-KNOW'
+            else:
+                next_section = current_section
+        else:
+            next_section = current_section
+
         # Split before section headers if current chunk is not empty
         if is_section and current_chunk:
             chunk_text = '\n'.join(current_chunk)
             if len(chunk_text) > 0:
-                chunks.append(chunk_text)
+                chunks.append((chunk_text, current_section))
             current_chunk = []
             current_length = 0
+
+        # Update current section
+        current_section = next_section
 
         # Calculate what the chunk size would be with this line added
         if current_chunk:
@@ -74,7 +108,7 @@ def split_content_by_sections(content: str) -> list[str]:
         # If adding this line would exceed limit, save current chunk first
         if len(test_chunk) > DISCORD_MESSAGE_LIMIT:
             if current_chunk:
-                chunks.append('\n'.join(current_chunk))
+                chunks.append(('\n'.join(current_chunk), current_section))
                 current_chunk = []
                 current_length = 0
             # Now add the line to the new chunk (even if it's too long by itself)
@@ -103,7 +137,7 @@ def split_content_by_sections(content: str) -> list[str]:
     if current_chunk:
         chunk_text = '\n'.join(current_chunk)
         if len(chunk_text) > 0:
-            chunks.append(chunk_text)
+            chunks.append((chunk_text, current_section))
 
     return chunks
 
@@ -130,11 +164,11 @@ def format_for_discord(content: str) -> str:
     return content
 
 
-def post_to_discord(webhook_url: str, chunks: list[str]):
+def post_to_discord(webhook_url: str, chunks: list[tuple[str, str]]):
     """Post content chunks to Discord webhook"""
     print(f"\n📤 Posting {len(chunks)} messages to Discord...")
 
-    for i, chunk in enumerate(chunks, 1):
+    for i, (chunk, section) in enumerate(chunks, 1):
         # Add header to first message
         if i == 1:
             date = datetime.now().strftime('%Y-%m-%d')
@@ -148,8 +182,11 @@ def post_to_discord(webhook_url: str, chunks: list[str]):
             message = f"{header}{chunk_content}"
         else:
             # Add zero-width space on blank line for visual separation
-            # Discord strips whitespace but not zero-width space
-            message = '\u200b\n' + chunk.rstrip()
+            # Only for MUST-KNOW and INTERESSANT sections, NOT for NICE-TO-KNOW
+            if section in ['MUST-KNOW', 'INTERESSANT']:
+                message = '\u200b\n' + chunk.rstrip()
+            else:
+                message = chunk.rstrip()
 
         # Post to webhook
         payload = {
