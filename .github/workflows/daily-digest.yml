@@ -33,6 +33,10 @@ jobs:
         run: |
           uv pip install --system feedparser requests python-dotenv anthropic claude-agent-sdk
 
+      - name: Install Claude Code CLI
+        run: |
+          npm install -g @anthropic-ai/claude-code
+
       - name: Setup SSH for Hetzner
         run: |
           mkdir -p ~/.ssh
