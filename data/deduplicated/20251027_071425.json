@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-27T07:14:25.136422",
+    "deduplicated_at": "2025-10-27 07:14:25",
+    "lookback_days": 7,
+    "total_input": 427,
+    "duplicates_removed": 367,
+    "new_articles": 60,
+    "deduplication_rate": "85.9%",
+    "historical_files_checked": 4
+  },
+  "articles": [
+    {
+      "title": "Kurz vor Treffen Trumps mit Xi - China simuliert Angriff auf Taiwan",
+      "link": "https://www.deutschlandfunk.de/china-simuliert-angriff-auf-taiwan-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "China hat mit einem Militärmanöver nahe Taiwan einen Angriff auf die Insel simuliert. Laut staatlichen chinesischen Medien übten Einheiten des Militärs Luftblockaden und Präzisionsangriffe. Die Aktion wurde nur wenige Tage vor einem geplanten Treffen des chinesischen Präsidenten Xi Jinping und US-Präsident Trump in Südkorea bekannt gegeben.",
+      "content_length": 342,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verschobene China-Reise - Grünen-Politikerin Brugger: \"Gut, dass Außenminister Wadephul sich nicht vorführen lässt\"",
+      "link": "https://www.deutschlandfunk.de/gruenen-politikerin-brugger-gut-dass-aussenminister-wadephul-sich-nicht-vorfuehren-laesst-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Die stellvertretende Fraktionschefin der Grünen im Bundestag, Brugger, hat die Verschiebung der China-Reise von Außenminister Wadephul begrüßt. Brugger sagte im Deutschlandfunk, es sei richtig, dass sich der Außenminister nicht von China vorführen lasse.",
+      "content_length": 254,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Argentinien - Präsident Milei kündigt nach Wahlerfolg Intensivierung seiner Wirtschaftspolitik an",
+      "link": "https://www.deutschlandfunk.de/praesident-milei-kuendigt-nach-wahlerfolg-intensivierung-seiner-wirtschaftspolitik-an-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der argentinische Präsident Milei hat nach dem Sieg seiner Partei bei Zwischenwahlen eine Intensivierung seines wirtschaftspolitischen Kurses angekündigt. Milei sagte in Buenos Aires, die Argentinier hätten gezeigt, dass sie nicht zum Modell des Scheiterns zurückkehren wollten. Er rief die Gouverneure der Provinzen zur Zusammenarbeit auf.",
+      "content_length": 340,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Umstrittene Merz-Äußerung - SPD-Abgeordnete fordern Stadtbild-Gipfel - und machen Verbesserungsvorschläge",
+      "link": "https://www.deutschlandfunk.de/spd-abgeordnete-fordern-stadtbild-gipfel-und-machen-verbesserungsvorschlaege-102.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Mehrere Bundestagsabgeordnete der SPD haben Vorschläge zur Verbesserung des Stadtbilds vorgelegt. In einem Acht-Punkte-Plan, über den die \"Bild\"-Zeitung berichtet, fordern sie Maßnahmen wie bessere Beleuchtung, intensive Sozialarbeit, mehr Drogenkonsumräume sowie eine Überwindung von Obdachlosigkeit bis 2030.",
+      "content_length": 310,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Olympische Spiele - DOSB-Vorstandschef Fricke: Positives Votum ist noch kein Vorentscheid für München",
+      "link": "https://www.deutschlandfunk.de/dosb-vorstandschef-fricke-positives-votum-ist-noch-kein-vorentscheid-fuer-muenchen-102.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der Vorstandsvorsitzende des Deutschen Olympischen Sportbundes, Fricke, hat den Bürgerentscheid für eine Olympia-Bewerbung der Stadt München begrüßt. Erstmals weltweit habe eine Bevölkerung in dieser Form ihre Unterstützung für Olympische Sommerspiele zum Ausdruck gebracht.",
+      "content_length": 274,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Ukraine fliegt wieder Gegenangriffe auf russisches Gebiet",
+      "link": "https://www.deutschlandfunk.de/ukraine-fliegt-wieder-gegenangriffe-auf-russisches-gebiet-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Die ukrainische Armee hat in der Nacht wieder Ziele in Russland aus der Luft angegriffen.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan - Hunderttausende Zivilisten in Stadt Al-Faschir eingeschlossen - Gewalt und Hunger ausgesetzt",
+      "link": "https://www.deutschlandfunk.de/hunderttausende-zivilisten-in-stadt-al-faschir-eingeschlossen-gewalt-und-hunger-ausgesetzt-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "In der sudanesischen Stadt Al-Faschir sind nach UNO-Angaben hunderttausende Zivilisten eingeschlossen.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Armee - Amerikanischer Kampfjet und Helikopter stürzen im Südchinesischen Meer ab",
+      "link": "https://www.deutschlandfunk.de/amerikanischer-kampfjet-und-helikopter-stuerzen-im-suedchinesischen-meer-ab-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Im Südchinesischen Meer sind ein Kampfflugzeug und ein Hubschrauber der US-Armee abgestürzt.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Bahnhof des Jahres\" - Jury zeichnet Hauptbahnhof von Magdeburg aus und lobt Sanierung",
+      "link": "https://www.deutschlandfunk.de/jury-zeichnet-hauptbahnhof-von-magdeburg-aus-und-lobt-sanierung-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der Magdeburger Hauptbahnhof ist zum \"Bahnhof des Jahres 2025\" gewählt worden.",
+      "content_length": 78,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "ZDF-Interview - Chrupalla nennt Spionage-Vorwürfe gegen AfD \"bodenlose Frechheit\"",
+      "link": "https://www.deutschlandfunk.de/chrupalla-nennt-spionage-vorwuerfe-gegen-afd-bodenlose-frechheit-108.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der AfD-Vorsitzende Chrupalla hat die Spionage-Vorwürfe gegen seine Partei als \"bodenlose Frechheit\" bezeichnet.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Jerusalem - Prien in Israel eingetroffen",
+      "link": "https://www.deutschlandfunk.de/prien-in-israel-eingetroffen-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Bundesbildungsministerin Prien beginnt heute offiziell ihre Israel-Reise.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Festakt zum 75-jährigen Bestehen des Verfassungsschutzes",
+      "link": "https://www.deutschlandfunk.de/festakt-zum-75-jaehrigen-bestehen-des-verfassungsschutzes-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "In Berlin begeht das Bundesamt für Verfassungsschutz den 75. Jahrestag seiner Gründung.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Niederlande - Zehntausende bei Klimaprotest vor Parlamentswahl",
+      "link": "https://www.deutschlandfunk.de/zehntausende-bei-klimaprotest-vor-parlamentswahl-102.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Wenige Tage vor der vorgezogenen Parlamentswahl in den Niederlanden haben in Den Haag zehntausende Menschen für Klimaschutz demonstriert.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elfenbeinküste - Amtsinhaber Ouattara siegt offenbar bei Präsidentenwahl",
+      "link": "https://www.deutschlandfunk.de/amtsinhaber-ouattara-siegt-offenbar-bei-praesidentenwahl-106.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der Präsident der Republik Elfenbeinküste, Ouattara, steht vor seiner vierten Amtszeit.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ramallah - Palästinenser-Präsident Abbas legt Nachfolgeregelung fest",
+      "link": "https://www.deutschlandfunk.de/palaestinenser-praesident-abbas-legt-nachfolgeregelung-fest-108.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Palästinenser-Präsident Abbas hat in einem Erlass festgelegt, wer ihm nachfolgt, sollte er amtsunfähig werden.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fahndungserfolg - Spanische Ermittler stellen 6,5 Tonnen Kokain auf Hochseefrachter sicher",
+      "link": "https://www.deutschlandfunk.de/spanische-ermittler-stellen-6-5-tonnen-kokain-auf-hochseefrachter-sicher-104.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Vor der Küste der kanarischen Inseln hat die spanische Polizei auf einem Frachtschiff 6,5 Tonnen Kokain beschlagnahmt.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wissenschaft - Weltweit gibt es noch mindestens 196 unkontaktierte Völker",
+      "link": "https://www.deutschlandfunk.de/weltweit-gibt-es-noch-mindestens-196-unkontaktierte-voelker-100.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Weltweit gibt es mindestens 196 Völker, die noch nie Kontakt zu Außenstehenden hatten.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesamt für Seeschifffahrt und Hydrographie - Erneut Sturmflut an Nordsee-Küste und im Hamburger Elbegebiet",
+      "link": "https://www.deutschlandfunk.de/erneut-sturmflut-an-nordsee-kueste-und-im-hamburger-elbegebiet-104.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Die deutsche Nordsee-Küste und das Hamburger Elbegebiet sind von einer weiteren Sturmflut getroffen worden.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA, Kanada und Mexiko - Bewerbung um Tickets für Fußball-WM 2026 beginnt",
+      "link": "https://www.deutschlandfunk.de/bewerbung-um-tickets-fuer-fussball-wm-2026-beginnt-102.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Für Fußball-Fans startet heute die zweite Anmeldephase für Tickets zur Fußball-WM im kommenden Jahr. Interessierte haben zunächst bis Ende Oktober Zeit, sich auf der FIFA-Homepage für den Verkauf zu registrieren.",
+      "content_length": 212,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - Siege für Stuttgart und Leverkusen",
+      "link": "https://www.deutschlandfunk.de/siege-fuer-stuttgart-und-leverkusen-110.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "In der Fußball-Bundesliga hat der VfB Stuttgart die Gäste vom 1. FSV Mainz 05 mit 2:1 besiegt. Das Spiel wurde von einem medizinischen Notfall im Gästeblock überschattet. Beide Fan-Lager stellten für mehr als 20 Minuten ihre Unterstützung ein.",
+      "content_length": 243,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rückkehr an die Gesamtspitze - Brite Lando Norris gewinnt Formel-Eins-Rennen in Mexiko",
+      "link": "https://www.deutschlandfunk.de/brite-lando-norris-gewinnt-formel-eins-rennen-in-mexiko-106.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Der britische Formel-Eins-Fahrer Lando Norris hat den Großen Preis von Mexiko gewonnen.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Regnerisch, 7 bis 13 Grad",
+      "link": "https://www.deutschlandfunk.de/regnerisch-7-bis-13-grad-126.html",
+      "published": "2025-10-27T07:10:26",
+      "content": "Das Wetter: Verbreitet Niederschläge, teils auch Wolkenauflockerungen. Höchstwerte 7 bis 13 Grad. Am morgigen Dienstag im Norden stark bewölkt und von Westen nach Osten durchziehender Regen. Im Süden Auflockerungen und geringere Regenneigung. 9 bis 15 Grad.",
+      "content_length": 257,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Präsident Milei kann nach Zwischenwahl in Argentinien jubeln",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-wahlen-milei-100.html",
+      "published": "2025-10-27T07:09:54",
+      "content": "   Mit so einem Triumph hatte kein Umfrageinstitut in Argentinien gerechnet: Die Partei des ultraliberalen Präsidenten Milei hat bei den Zwischenwahlen mehr als 40 Prozent geholt. Er sieht den Wendepunkt überschritten. Von Anne Herrberg.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japan’s new PM will hope the Abe effect endears Trump to her at crucial talks",
+      "link": "https://www.theguardian.com/world/2025/oct/27/japans-new-pm-will-hope-the-abe-effect-endears-trump-to-her-at-crucial-talks",
+      "published": "2025-10-27T06:50:35",
+      "content": "Sanae Takaichi leads a minority government and needs a successful meeting with the US president on Tuesday. Thankfully her mentor, Shinzo Abe, is one of Trump’s ‘favourites’Japan’s new prime minister, Sanae Takaichi, faces the first real test of her diplomatic and personal skills when she meets Donald Trump for talks in Tokyo that are expected to focus on trade and security.Takaichi, who this month became Japan’s first female leader after winning a vote to lead the ruling Liberal Democratic party (LDP), made her international debut at this weekend’s Asean summit. Continue reading...",
+      "content_length": 589,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Chinas Armee simuliert offenbar Angriff auf Taiwan",
+      "link": "https://www.tagesschau.de/ausland/asien/china-taiwan-angriffsmanoever-100.html",
+      "published": "2025-10-27T06:50:25",
+      "content": "   Simulierte Gefechte wenige Tage vor dem Trump-Xi-Treffen: Aufnahmen in chinesischen Staatsmedien sollen zeigen, wie Soldaten einen Angriff auf Taiwan proben. Taipeh spricht von \"Einschüchterung\".[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Was den DAX in dieser Woche bewegt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-trump-notenbanken-apple-google-microsoft-100.html",
+      "published": "2025-10-27T06:39:29",
+      "content": "   Die Hoffnung auf ein US-Handelsabkommen mit China gibt den Börsen weiter Auftrieb. Der DAX dürfte mit Kursgewinnen in die neue Börsenwoche starten, die ansonsten ganz im Bann von Berichtssaison und Notenbanken steht. [mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Opposition wants ‘balanced outcome’ on environment protection reforms – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/27/epbc-environment-laws-ai-copyright-lobbying-transparency-federal-parliament-anthony-albanese-asean-sussan-ley-murray-watt-ntwnfb",
+      "published": "2025-10-27T06:37:46",
+      "content": "This blog is now closedCoalition and Greens scolded for opposing new nature laws by author of key environment reportGet our breaking news email, free app or daily news podcastThe environment minister, Murray Watt, claims Sussan Ley’s reluctance to support the EPBC laws is about her “desperately trying to shore up her leadership” as the Coalition once again ties itself in knots over net zero and climate policy.Speaking to reporters in Parliament House this morning, he says he’s open to making a deal with either the Greens or the Coalition, flatly rejecting Ley’s request to split up the environment bill into various chunks to be voted on separately.It’s because she’s desperately trying to shore up her leadership ahead of some very difficult net zero conversations with her party room. This week, Sussan Ley is in danger of putting her own leadership ahead of the environment and ahead of business.We can’t split the bill. We need to do both, and we need to get on with it.We have been consulting to death on these reforms, and both business and environment groups are crying out for reform to finally be delivered.I can’t make that any clearer. I’ve met the same number of times with the Coalition and the Greens. I’ve spoken as recently as yesterday with representatives from those parties. What we’re about is passing a bill that is good for the environment and good for business, and it’s up to the Coalition and the Greens to decide, are they prepared to do that, or are they going to go into their corners and fight for a bill that only delivers to the environment or only delivers to business? Continue reading...",
+      "content_length": 1627,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Boy, 14, in hospital after crocodile attack while fishing at far north Queensland beach",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/crocodile-attack-myall-beach-queensland-boy-fishing-hospitalised",
+      "published": "2025-10-27T06:27:55",
+      "content": "Incident follows several crocodile sightings around Cape Tribulation as breeding season begins and risks of aggression increaseFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA 14-year-old boy has been hospitalised after he was attacked by a crocodile while fishing at a beach in far north Queensland, authorities said.He sustained wounds to his leg and torso on Saturday afternoon at Myall beach, Cape Tribulation, a small coastal community 140km north of Cairns, a Queensland ambulance service spokesperson said. Continue reading...",
+      "content_length": 599,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Preisschock bei Microsoft 365 mit Copilot: Australische Behörde reicht Klage ein",
+      "link": "https://www.heise.de/news/Preisschock-bei-Microsoft-365-mit-Copilot-Australische-Behoerde-reicht-Klage-ein-10900222.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-27T06:11:00",
+      "content": "Nachdem Microsoft die Preise für das Office-Abo nach der Integration der Copilot-KI deutlich angehoben und eine Alternative versteckt hat, gibt es eine Klage.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Hannah McGuire’s mother tells murderer she hopes he suffers ‘most intense pain imaginable’ for life",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/hannah-mcguire-mother-tells-murderer-lachlan-young-court-hope-he-suffers-most-intense-pain-ntwnfb",
+      "published": "2025-10-27T06:08:29",
+      "content": "Family members of young woman strangled to death by her former boyfriend in her own home have confronted killer Lachlan Young in courtFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA mother has confronted her daughter’s killer in court, saying she will never forgive him for taking away her vibrant and courageous girl.Lachlan Young, 23, did not look at Hannah McGuire’s mother, Debbie McGuire, as she read her statement in the Victorian supreme court on Monday. Continue reading...",
+      "content_length": 548,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hurricane Melissa strengthens to category 4 as evacuations ordered in Jamaica’s capital",
+      "link": "https://www.theguardian.com/world/2025/oct/26/hurricane-melissa-strengthens-into-category-4-approaches-jamaica",
+      "published": "2025-10-27T06:03:06",
+      "content": "Storm could intensify further, threatening to cause catastrophic flooding in northern CaribbeanHurricane Melissa strengthened into a powerful category 4 hurricane on Sunday, threatening days of catastrophic winds and rain in the northern Caribbean, while Jamaica’s government ordered mandatory evacuations for vulnerable areas across the country including in the capital, Kingston.Jamaican officials had earlier urged those in low-lying and flood-prone areas to seek refuge as Melissa rapidly climbs up the Saffir-Simpson hurricane wind scale with the possibility of intensifying to a category 5 storm on Monday. Continue reading...",
+      "content_length": 632,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Archaeological dig to unearth wreckage of WW2 hero pilot crash under way",
+      "link": "https://www.theguardian.com/world/2025/oct/27/archaeological-dig-to-unearth-wreckage-of-ww2-hero-pilot-crash-under-way",
+      "published": "2025-10-27T05:00:22",
+      "content": "Exclusive: Excavation, overseen by the US Department of Defense, will feature in More 4’s Hidden Wonders TV seriesOn 26 January 1944, a 23-year-old US pilot was flying a mighty P-47 Thunderbolt on a wartime training exercise when it crashed in Essex.Locals witnessed the horror of 2nd Lt Lester Lowry’s aircraft diving to the ground and bursting into flames. Lowry was not seen to bail out and he has remained missing in action (MIA) for more than 80 years. Ironically, his plane was named “Lucky Boy”. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Björn Andrésen, Swedish actor who starred in Death in Venice, dies aged 70",
+      "link": "https://www.theguardian.com/film/2025/oct/27/bjorn-andresen-swedish-actor-dies-aged-70",
+      "published": "2025-10-27T04:55:47",
+      "content": "Actor who also starred in Midsommar and became a musician was nicknamed ‘the most beautiful boy in the world’ – a title he struggled with all his lifeBjörn Andrésen, the Swedish actor best known for his breakout role in the 1971 film Death in Venice, has died aged 70.At 15, Andrésen was cast in Italian director Luchino Visconti’s Death in Venice, based on Thomas Mann’s novella, in which he played Tadzio, a beautiful boy with whom an older man, played by Dirk Bogarde, becomes obsessed. Continue reading...",
+      "content_length": 509,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bear attack survival tips released in Japan as encounters surge",
+      "link": "https://www.theguardian.com/world/2025/oct/27/bear-attack-survival-tips-released-in-japan-as-encounters-surge",
+      "published": "2025-10-27T04:55:05",
+      "content": "Governor of one prefecture says he is considering asking the military for help to tackle increasing attacks amid thousands-strong bear populationKnowing what to do in the event of a close encounter with a bear was once a concern only for hikers and foragers in Japan. Now, however, people in populated areas are being urged to learn how to protect themselves following a spate of attacks, as the animals leave their natural habitats in search of food.Bear encounters are generating almost daily headlines. In the past week in Akita prefecture, the animals attacked a jogger and a walker in built-up areas, while another terrorised four people before holing up inside a nearby house. None of the victims was seriously injured. Continue reading...",
+      "content_length": 745,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brazil's Lula says trade deal with US could come ‘within days’",
+      "link": "https://www.france24.com/en/americas/20251027-lula-trump-brazil-trade-deal",
+      "published": "2025-10-27T04:47:35",
+      "content": "Brazilian President Luiz Inacio Lula da Silva said on Monday that US President Donald Trump had “guaranteed” a trade deal between the two nations during their recent meeting. Speaking on the sidelines of the ASEAN summit in Malaysia, Lula said the agreement would come “faster than anyone thinks.”",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Javier Milei hails ‘tipping point’ as his far-right party wins Argentina’s midterm elections",
+      "link": "https://www.theguardian.com/world/2025/oct/27/javier-milei-president-far-right-party-wins-argentina-midterm-elections",
+      "published": "2025-10-27T04:35:54",
+      "content": "The result falls short of giving Milei a congressional majority but has been widely described as surprising by Argentinian analystsThe party of Argentina’s far-right president, Javier Milei, has won Sunday’s midterm elections after a campaign in which US president Donald Trump announced a $40bn bailout for the country and made continued aid conditional on the victory of his Argentinian counterpart.With more than 95% of ballots counted, Milei’s party, La Libertad Avanza, won 40.84% of the nationwide vote in an election widely seen as a de facto referendum on the self-styled anarcho-capitalist’s nearly two years in power. Continue reading...",
+      "content_length": 647,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump reist nach Japan: Beim Handel könnte es knirschen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-japan-reise-100.html",
+      "published": "2025-10-27T04:28:06",
+      "content": "   Der US-Präsident setzt seine Asien-Reise fort. Nächster Halt: Japan. Die neue Regierungschefin Takaichi und Trump haben politisch viel gemeinsam - beim Thema Wirtschaft könnte es aber Probleme geben. Von Anna-Lou Beckmann.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bruce Lehrmann’s lawyer claims ‘key words missing’ from alleged rape victim’s phone data",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/bruce-lehrmann-lawyer-claims-key-words-missing-alleged-rape-victim-phone-ntwnfb",
+      "published": "2025-10-27T04:21:00",
+      "content": "Lehrmann, who is on bail and yet to formally enter a plea, is accused of raping a woman twice in Queensland in 2021Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFormer Liberal staffer Bruce Lehrmann has called for a forensic expert to examine the phone of a woman he is accused of raping due to claimed discrepancies in prosecution evidence.Lehrmann, 30, has been committed to face trial in Queensland district court on two counts of rape but has filed an application to permanently halt the matter. Continue reading...",
+      "content_length": 586,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Venezuela sieht US-Kriegsschiffe vor Trinidad und Tobago als \"Provokation\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-usa-kriegsschiffe-100.html",
+      "published": "2025-10-27T04:00:48",
+      "content": "   Die USA haben ein weiteres Kriegsschiff in die Karibik beordert. Diesmal nach Trinidad und Tobago - direkt vor Venezuela. Geplant sei eine Militärübung. Die Regierung in Caracas wirft der USA hingegen vor, einen Krieg zu provozieren.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Thousands without power in Queensland as Victoria experiences ‘terrifying’ winds after year’s wettest day",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/27/queensland-victoria-qld-brisbane-hail-storms-power-outages-wild-weather",
+      "published": "2025-10-27T03:50:16",
+      "content": "Wires brought down across greater Brisbane and Werribee resident tells ABC Radio of partner ‘lifted and dropped’ by huge windFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAbout 26,000 households were without power in south-east Queensland on Monday morning after a severe thunderstorm passed over the state, with wind gusts topping 109km/h. Residents reported giant hailstones of up to 7cm in some areas.More than 1,300 energy customers in Victoria also woke without power, after Melbourne recorded its wettest day in a year and a half. Many of those outages were resolved by early Monday afternoon. Continue reading...",
+      "content_length": 686,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ten on trial in Paris over sexist cyber-harassment of Brigitte Macron",
+      "link": "https://www.france24.com/en/france/20251027-ten-face-trial-in-paris-over-sexist-cyber-harassment-of-brigitte-macron",
+      "published": "2025-10-27T03:00:30",
+      "content": "Ten people went on trial in Paris on Monday accused of sexist cyber-harassment against French first lady Brigitte Macron, over false claims she was assigned male at birth. The case follows a defamation suit she and President Emmanuel Macron filed in the United States in July over the same rumour.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Argentinien: Partei von Präsident Milei gewinnt Zwischenwahlen",
+      "link": "https://www.tagesschau.de/ausland/amerika/milei-zwischenwahlen-100.html",
+      "published": "2025-10-27T02:27:16",
+      "content": "   Zuletzt waren seine Zustimmungswerte in Argentinien gesunken, doch nun konnte die Partei von Präsident Milei die Zwischenwahlen für sich gewinnen. Nach Auszählung fast aller Stimmen erzielte sie mehr als 40 Prozent.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cameroon protests turn deadly ahead of presidential election results",
+      "link": "https://www.france24.com/en/africa/20251027-four-dead-cameroon-opposition-protests-douala",
+      "published": "2025-10-27T01:02:58",
+      "content": "Four people were killed on Sunday in clashes between security forces and opposition protesters in Cameroon’s largest city, Douala, the regional governor said. Supporters of opposition candidate Issa Tchiroma defied a protest ban in several cities ahead of Monday’s expected announcement of presidential election results.",
+      "content_length": 320,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Radiohead’s Thom Yorke says he would ‘absolutely not’ play in Israel now",
+      "link": "https://www.theguardian.com/music/2025/oct/27/radiohead-thom-yorke-would-not-play-israel",
+      "published": "2025-10-27T00:55:49",
+      "content": "Singer says he will not perform in Israel while Benjamin Netanyahu remains in power, eight years after Radiohead defied criticism to perform in Tel AvivRadiohead frontman Thom Yorke has said he would not now perform in Israel, eight years after the band defied pro-Palestinian activists to play a show in Tel Aviv.“Absolutely not. I wouldn’t want to be 5,000 miles anywhere near the Netanyahu regime,” he told the Sunday Times magazine, referring to prime minister Benjamin Netanyahu’s government. Continue reading...",
+      "content_length": 517,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US and China agree ‘framework’ for trade deal ahead of Xi-Trump meeting",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/us-china-framework-trade-deal-xi-trump-meeting",
+      "published": "2025-10-27T00:18:52",
+      "content": "US treasury secretary anticipates tariff truce with China will be extended, and that China will revive substantial purchases of US soybeansThe US and China have agreed a framework for a trade deal just days before Donald Trump and Chines president Xi Jinping are due to meet.Treasury secretary Scott Bessent said the agreement, forged on the sidelines of the Association of south-east Asian Nations (Asean) summit in Malaysia on Sunday, would remove the threat of the imposition of 100% tariffs on Chinese imports starting on 1 November and include “a final deal” on the sale of TikTok in the US. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NHS leaders warn of longer waiting times if demand for extra £3bn not met",
+      "link": "https://www.theguardian.com/society/2025/oct/27/nhs-leaders-demand-extra-funding-waiting-times",
+      "published": "2025-10-27T00:01:18",
+      "content": "Key Labour pledge under threat as health service faces costs from redundancies, strikes and rising drug pricesNHS bosses are seeking an emergency injection of £3bn to cover unexpected costs and have warned ministers that without it patients will wait longer for treatment and hospitals will start rationing care.Their move presents a fresh problem for Rachel Reeves, the chancellor, as she tries to find ways to fill an estimated £30bn hole in the nation’s finances in her budget next month. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Racist incidents against UK nurses surge by 55%",
+      "link": "https://www.theguardian.com/society/2025/oct/27/racist-incidents-against-uk-nurses-surge",
+      "published": "2025-10-27T00:01:18",
+      "content": "Royal College of Nursing calls on government to stop using anti-migrant rhetoric, which it says emboldens racist behaviourThe number of reports by nurses of racist incidents at work has risen by 55% over three years, according to analysis by the nursing union.The Royal College of Nursing (RCN) expects to receive more than 1,000 calls this year from nurses seeking advice and support after racist incidents in the workplace, compared with almost 700 cases in 2022. Continue reading...",
+      "content_length": 485,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Over 1,200 health leaders call for swift passage of UK tobacco and vapes bill",
+      "link": "https://www.theguardian.com/society/2025/oct/27/uk-tobacco-and-vapes-bill-experts-letter",
+      "published": "2025-10-27T00:01:18",
+      "content": "Experts publish letter as peers prepare to scrutinise draft legislation six months after its second Commons readingMore than 1,200 public health leaders have called for the tobacco and vapes bill to be passed swiftly through parliament to “protect future generations”.They said in a cross-party letter that the “gamechanging” measures outlined were “far too important to let it slip off the agenda”. Continue reading...",
+      "content_length": 419,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Private rent in Britain now swallows 44% of the average wage",
+      "link": "https://www.theguardian.com/money/2025/oct/27/private-rent-britain-record-swallows-average-wage",
+      "published": "2025-10-27T00:01:17",
+      "content": "Monthly cost jumps to record £1,385 outside London, and £2,736 in the capital, with hotspots showing hefty rises Average private rents in Great Britain have climbed to record highs, with the amount tenants are being asked to pay in some hotspots rising more than 25% in a year, data shows.The typical advertised private rent outside London for properties coming on to the market rose to a record £1,385 a calendar month in the third quarter of this year, according to the property website Rightmove. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-backed Milei scores surprise midterm win, revives Argentina reform drive",
+      "link": "https://www.france24.com/en/americas/20251026-milei-reforms-argentinal-midterm-vote",
+      "published": "2025-10-26T23:05:26",
+      "content": "Argentina’s libertarian President Javier Milei scored a surprise victory in Sunday’s midterm elections, bolstering his embattled reform drive. His La Libertad Avanza party won 40.84% of votes for Congress, far outpacing the opposition and marking a rebound for the US-backed right-winger after months of economic turmoil and political resistance.",
+      "content_length": 346,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US Boeing workers continue midwest strike after rejecting latest contract offer",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/boeing-workers-strike-midwest-reject-contract",
+      "published": "2025-10-26T22:54:48",
+      "content": "Nearly three-month strike includes 3,200 machinists at plants where military aircraft and weapons are developedBoeing workers at three midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago.The strike by about 3,200 machinists at the plants in Mascoutah, Illinois, and the Missouri cities of St Louis and St Charles is smaller in scale than a walkout last year by 33,000 Boeing workers who assemble commercial jetliners but threatens to complicate the aerospace company’s progress in regaining its financial footing. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Münchner Bürger stimmen für Olympia-Bewerbung",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/olympia-entscheid-muenchen-100.html",
+      "published": "2025-10-26T20:49:49",
+      "content": "   Beim Bürgerentscheid über eine mögliche Olympia-Bewerbung Münchens haben sich die Befürworter durchgesetzt. Rund 1,1 Millionen Menschen konnten über Sommerspiele in den Jahren 2036, 2040 oder 2044 abstimmen.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Caribbean braces for impact as Melissa surges into a Category 4 hurricane",
+      "link": "https://www.france24.com/en/americas/20251026-caribbean-braces-for-impact-as-melissa-surges-into-a-category-4-hurricane",
+      "published": "2025-10-26T20:28:09",
+      "content": "Hurricane Melissa is expected to make landfall in Jamaica Monday night or Tuesday morning, with local officials warning of possibly catastrophic flooding. The storm, now strengthened into a Category 4 hurricane, has already killed at least four people as it grinds across the Caribbean.",
+      "content_length": 286,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US airports report over 20 air traffic controller shortage incidents in one day",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/air-traffic-controller-shortages-shutdown",
+      "published": "2025-10-26T19:42:15",
+      "content": "Transportation secretary says figure is ‘one of the highest we’ve seen’ since 1 October as shutdown drags onUS airports have reported more than 20 incidents of air traffic controller shortages on Saturday, said Sean Duffy, transportation secretary, in the latest sign of the government shutdown’s impact.A ground stop was issued by the agency at Los Angeles international airport due to the air traffic controller staffing shortages at around 11.30am ET (15.30 GMT). The restriction covered most of the southern California region and delays are likely when flights resume. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US warship docks in Trinidad and Tobago as Trump steps up military pressure on Venezuela",
+      "link": "https://www.france24.com/en/americas/20251026-us-warship-docks-in-trinidad-and-tobago-as-trump-steps-up-military-pressure-on-venezuela",
+      "published": "2025-10-26T19:31:09",
+      "content": "A US guided missile destroyer docked in the twin island nation of Trinidad and Tobago Sunday as the administration of US President Donald Trump continued its campaign of military pressure against Venezuela. The warship will remain in Trinidad until Thursday.",
+      "content_length": 258,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bericht aus Berlin: Spahn stärkt Merz in \"Stadtbild\"-Debatte",
+      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-merz-stadtbild-spahn-100.html",
+      "published": "2025-10-26T18:41:36",
+      "content": "   Die \"Stadtbild\"-Äußerungen von Kanzler Merz sorgen weiter für Kontroversen - dabei denke die Mehrheit der Deutschen wie der Kanzler, sagt Unions-Fraktionschef Spahn. Den Koalitionspartner SPD griff er dabei direkt an.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "One killed and six injured after shooting at Pennsylvania’s Lincoln University",
+      "link": "https://www.theguardian.com/us-news/2025/oct/26/pennsylvania-lincoln-university-shooting",
+      "published": "2025-10-26T18:11:52",
+      "content": "One armed person detained as historically Black school shooting comes amid rising violence at homecoming eventsAt least one person was killed and six others wounded in a shooting at Lincoln University in Pennsylvania late on Saturday, as students and alumni celebrated homecoming at outdoor festivities at the historically Black university, authorities said.A person who had a firearm was detained, and officials are investigating the possibility that there was more than one shooter but don’t believe there is any active threat to the campus, Chester county’s district attorney, Christopher de Barrena-Sarobe, said during a brief news conference early on Sunday. Continue reading...",
+      "content_length": 683,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rekordbeteiligung bei Olympia-Bürgerentscheid in München",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-buergerentscheid-olympia-100.html",
+      "published": "2025-10-26T18:03:34",
+      "content": "   Die Münchnerinnen und Münchner haben abgestimmt, ob ihre Stadt sich um Olympische und Paralympische Sommerspiele bewerben soll. Fest steht bereits: Das nötige Quorum des Bürgerentscheids wurde erreicht.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mbappé and Bellingham secure Real Madrid victory over Barcelona in tense El Clasico",
+      "link": "https://www.france24.com/en/sport/20251026-mbapp%C3%A9-and-bellingham-secure-real-madrid-victory-over-barcelona-in-tense-el-clasico",
+      "published": "2025-10-26T17:58:38",
+      "content": "Jude Bellingham's goal, following an early scoring by Kylian Mbappé, helped Real Madrid beat Barcelona 2-1 to win a tense El Clasico and move five points clear of their bitter rivals at the top of La Liga on Sunday.",
+      "content_length": 215,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand to let Myanmar refugees work to counter aid cuts and labour shortages",
+      "link": "https://www.theguardian.com/global-development/2025/oct/22/thailand-to-let-myanmar-refugees-work-aid-cuts-labour-shortages",
+      "published": "2025-10-22T03:00:53",
+      "content": "The move, welcomed by UN, will allow thousands of people living in camps to support themselves and their familiesThailand is setting a regional precedent this month by giving refugees permission to work in the country in an effort to tackle aid cuts and its own labour shortages.More than 87,000 refugees living in nine refugee camps along Thailand’s border with Myanmar have been totally reliant on handouts of food and foreign aid. Continue reading...",
+      "content_length": 453,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
