@@ -1,0 +1,1040 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-28T07:13:51.654054",
+    "deduplicated_at": "2025-10-28 07:13:51",
+    "lookback_days": 7,
+    "total_input": 541,
+    "duplicates_removed": 427,
+    "new_articles": 114,
+    "deduplication_rate": "78.9%",
+    "historical_files_checked": 5
+  },
+  "articles": [
+    {
+      "title": "Verteidigung - Bundeswehr stoppt Umwandlung von Militärgelände in zivile Nutzung",
+      "link": "https://www.deutschlandfunk.de/bundeswehr-stoppt-umwandlung-von-militaergelaende-in-zivile-nutzung-102.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Das Bundesverteidigungsministerium gibt keine Liegenschaften mehr für die zivile Nutzung frei.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Reformpläne der Regierung - SPD-Mitglieder starten Begehren gegen Bürgergeld-Reform",
+      "link": "https://www.deutschlandfunk.de/spd-mitglieder-starten-begehren-gegen-buergergeld-reform-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Teile der SPD versuchen, mit einem Mitgliederbegehren die Pläne der schwarz-roten Bundesregierung zur Reform des Bürgergeldes zu durchkreuzen.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rohstoffe - IW-Experte Matthes: Partnerschafen mit anderen Ländern ausbauen",
+      "link": "https://www.deutschlandfunk.de/iw-experte-matthes-partnerschafen-mit-anderen-laendern-ausbauen-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Der Rohstoffexperte des Instituts der deutschen Wirtschaft, Matthes, hat neue Partnerschaften mit anderen Ländern angemahnt. Die Quasi-Monopolstellung Chinas etwa bei den Seltenen Erden sei ein Problem, sagte Matthes im Deutschlandfunk. Die hiesigen Unternehmen hätten es versäumt, eigene Lagerbestände aufzubauen.",
+      "content_length": 314,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "UNO-Bericht - Russische Drohnen jagen gezielt ukrainische Zivilisten",
+      "link": "https://www.deutschlandfunk.de/russische-drohnen-jagen-gezielt-ukrainische-zivilisten-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Russland verfolgt offenbar mit Drohnen gezielt ukrainische Zivilisten.",
+      "content_length": 70,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Trump in Tokio - Gegengewicht zu China: Japan und USA stärken Allianz",
+      "link": "https://www.deutschlandfunk.de/gegengewicht-zu-china-japan-und-usa-staerken-allianz-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Bei dem Besuch von US-Präsident Trump in Japan haben beide Länder eine weitere Stärkung ihrer Sicherheitsallianz angekündigt - auch im Wirtschaftsbereich. Trump und Japans neue Premierministerin Takaichi unterzeichneten in Tokio ein Abkommen zur Förderung, Verarbeitung und Lieferung seltener Erden.",
+      "content_length": 299,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan - Bundesregierung und UNO-Generalsekretär verlangen sofortiges Ende der Gewalt gegen Zivilisten",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-und-uno-generalsekretaer-verlangen-sofortiges-ende-der-gewalt-gegen-zivilisten-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Nach der Einnahme der Großstadt Al-Faschir im Sudan durch die RSF-Miliz hat die Bundesregierung ein sofortiges Ende der Gewalt gefordert. Man sei erschüttert über die Berichte von dort, erklärte das Auswärtige Amt im Onlinedienst X. Kämpfer der RSF seien tief in die Stadt vorgedrungen und töteten wahllos Zivilisten.",
+      "content_length": 317,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "KI-Rechenzentrum - Stillgelegtes Atomkraftwerk in den USA wird für Google reaktiviert",
+      "link": "https://www.deutschlandfunk.de/stillgelegtes-atomkraftwerk-in-den-usa-wird-fuer-google-reaktiviert-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "In den USA soll ein weiteres stillgelegtes Atomkraftwerk reaktiviert werden, um Energie für ein Rechenzentrum für Künstliche Intelligenz zu liefern.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Hamas übergibt weitere Leiche einer israelischen Geisel ans Rote Kreuz",
+      "link": "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-einer-israelischen-geisel-ans-rote-kreuz-108.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Die Hamas hat im Gazastreifen eine weitere Leiche einer israelischen Geisel übergeben. Wie das israelische Militär mitteilte, nahmen Vertreter des Roten Kreuzes den Sarg entgegen. Damit wurden erst 16 von den im Vertrag über die Waffenruhe mit Israel vereinbarten 28 toten Geiseln übergeben.",
+      "content_length": 291,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hamas-Techniker im Gazastreifen - Union kritisiert ZDF: \"Vertrauen in öffentlich-rechtlichen Rundfunk erschüttert\"",
+      "link": "https://www.deutschlandfunk.de/union-kritisiert-zdf-vertrauen-in-oeffentlich-rechtlichen-rundfunk-erschuettert-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Nach dem Tod eines Technikers einer Produktionsfirma im Gazastreifen, der der Hamas angehörte, steht das ZDF in der Kritik.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Spanien - Flughafen Alicante wegen Drohnensichtung vorübergehend geschlossen",
+      "link": "https://www.deutschlandfunk.de/flughafen-alicante-wegen-drohnensichtung-voruebergehend-geschlossen-102.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Wegen einer Drohnensichtung ist der Flughafen von Alicante im Südosten Spaniens vorübergehend geschlossen worden.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Onlinehandel - Bericht: Amazon streicht bis zu 30.000 Stellen",
+      "link": "https://www.deutschlandfunk.de/bericht-amazon-streicht-bis-zu-30-000-stellen-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Der amerikanische Online-Händler Amazon plant einem Bericht zufolge den Abbau von bis zu 30.000 Arbeitsplätzen in der Verwaltung.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fischfang in der Ostsee - Verhandlungen in Brüssel in der entscheidenden Phase",
+      "link": "https://www.deutschlandfunk.de/verhandlungen-in-bruessel-in-der-entscheidenden-phase-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "In Brüssel gehen die Verhandlungen über die erlaubten Fischfangmengen in der Ostsee heute in die entscheidende Phase.",
+      "content_length": 117,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Drei Jahre nach Tat - In Japan beginnt der Prozess zum tödlichen Attentat auf den früheren Ministerpräsidenten Abe",
+      "link": "https://www.deutschlandfunk.de/in-japan-beginnt-der-prozess-zum-toedlichen-attentat-auf-den-frueheren-ministerpraesidenten-abe-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "In Japan hat gut drei Jahre nach dem tödlichen Attentat auf den früheren Ministerpräsidenten Abe der Prozess begonnen.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Jamaika - Hurrikan Melissa mit Windgeschwindigkeiten bis zu 260 Kilometern pro Stunde",
+      "link": "https://www.deutschlandfunk.de/hurrikan-melissa-mit-windgeschwindigkeiten-bis-zu-260-kilometern-pro-stunde-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Die Karibikinsel Jamaika bereitet sich auf den Hurrikan Melissa vor.",
+      "content_length": 68,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ausbreitung der Vogelgrippe - 500.000 Tiere getötet - Warnung vor weiterem Anstieg der Zahlen",
+      "link": "https://www.deutschlandfunk.de/500-000-tiere-getoetet-warnung-vor-weiterem-anstieg-der-zahlen-108.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "In Deutschland breitet sich die Vogelgrippe weiter aus. In diesem Herbst geschehe dies ungewöhnlich früh und rasant, meldet das Friedrich-Loeffler-Institut. Es hätten bereits mehr als 500.000 Hühner, Enten, Gänse und Puten getötet werden müssen. Besonders viele Fälle seien im Osten Deutschlands und in Niedersachsen zu verzeichnen. Auch aus dem Saarland wurde ein erster Fall gemeldet.",
+      "content_length": 386,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verfassungsschutzamt wird 75 - Dobrindt will bessere Abwehr von Spionage und Cyberangriffen",
+      "link": "https://www.deutschlandfunk.de/dobrindt-will-bessere-abwehr-von-spionage-und-cyberangriffen-108.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Der Verfassungsschutz soll 75 Jahre nach seiner Gründung neu ausgerichtet werden, um besser gegen Spionage, Sabotage, Cyberangriffe gewappnet zu sein. Es gebe \"eine steigende Bedrohung durch fremde Mächte\", erklärte Bundesinnenminister Dobrindt.",
+      "content_length": 245,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Abkommen - Russland und Venezuela vereinbaren strategische Partnerschaft",
+      "link": "https://www.deutschlandfunk.de/russland-und-venezuela-vereinbaren-strategische-partnerschaft-104.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Russland und Venezuela haben eine strategische Partnerschaft geschlossen.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Präsident Selenskyj will Luftangriffe auf Russland ausweiten",
+      "link": "https://www.deutschlandfunk.de/praesident-selenskyj-will-luftangriffe-auf-russland-ausweiten-106.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Der ukrainische Präsident Selenskyj hat damit gedroht, die Drohnen- und Raketenangriffe auf weitere russische Regionen auszuweiten.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elfenbeinküste - Amtsinhaber Ouattara siegt bei Präsidentenwahl",
+      "link": "https://www.deutschlandfunk.de/amtsinhaber-ouattara-siegt-bei-praesidentenwahl-104.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Die Wahlkommission der Republik Elfenbeinküste hat Amtsinhaber Ouattara offiziell als Sieger der Präsidentenwahl verkündet.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Zollstreit - Mexiko einigt sich mit den USA auf Fortführung der Verhandlungen",
+      "link": "https://www.deutschlandfunk.de/mexiko-einigt-sich-mit-den-usa-auf-fortfuehrung-der-verhandlungen-104.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Kurz vor Ablauf einer erneuten Zollfrist haben sich die Vereinigten Staaten und Mexiko auf eine Verlängerung ihrer Handelsgespräche geeinigt.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Absage der China-Reise - Außenminister Wadephul: Setzen auf fairen Handel mit Peking",
+      "link": "https://www.deutschlandfunk.de/aussenminister-wadephul-setzen-auf-fairen-handel-mit-peking-102.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Nach der kurzfristigen Absage seiner China-Reise hat Bundeaußenminister Wadephul gegenüber Peking Bereitschaft zum Dialog signalisiert. Man sei zu einem fairen Austausch bereit, sagte Wadephul.",
+      "content_length": 193,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Abkommen in Ankara - Türkei will 20 Eurofighter aus britischer Produktion kaufen",
+      "link": "https://www.deutschlandfunk.de/tuerkei-will-20-eurofighter-aus-britischer-produktion-kaufen-106.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Die Türkei erhält Eurofighter-Kampfjets.",
+      "content_length": 40,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza - Israel begründet Ablehnung türkischer Beteiligung an Friedenstruppe",
+      "link": "https://www.deutschlandfunk.de/israel-begruendet-ablehnung-tuerkischer-beteiligung-an-friedenstruppe-104.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Israel lehnt eine türkische Beteiligung an einer möglichen Friedenstruppe für den Gazastreifen ab.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westtürkei - Erdbeben der Stärke 6,1 - keine Meldungen über Opfer",
+      "link": "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-keine-meldungen-ueber-opfer-104.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Ein Erdbeben der Stärke 6,1 hat die Westtürkei erschüttert.",
+      "content_length": 59,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Razzia - Waffenarsenal in Remscheid entdeckt",
+      "link": "https://www.deutschlandfunk.de/waffenarsenal-in-remscheid-entdeckt-110.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Bei einem Einsatz gegen den organisierten Waffenhandel im nordrhein-westfälischen Remscheid sind zahlreiche Kriegswaffen sichergestellt worden.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nations League - DFB-Frauen spielen gegen Frankreich um Einzug ins Finale",
+      "link": "https://www.deutschlandfunk.de/dfb-frauen-spielen-gegen-frankreich-um-einzug-ins-finale-100.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Die deutschen Fußballerinnen spielen heute um den Einzug ins Endspiel der Nations League.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Bewölkt mit Regen, südlich der Donau teils sonnig",
+      "link": "https://www.deutschlandfunk.de/bewoelkt-mit-regen-suedlich-der-donau-teils-sonnig-108.html",
+      "published": "2025-10-28T07:01:12",
+      "content": "Der Wetterbericht, die Lage: Tiefausläufer sorgen mit einer lebhaften westlichen Strömung zunächst weiter für unbeständiges und windiges Wetter. Ab der Wochenmitte wird es deutlich milder.",
+      "content_length": 188,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Pluribus&#8217; Vince Gilligan on making shows that ‘attract really smart viewers’",
+      "link": "https://www.theverge.com/entertainment/807102/pluribus-vince-gilligan-interview-apple-tv-breaking-bad",
+      "published": "2025-10-28T07:00:00",
+      "content": "\n\n\n\t\n\tRhea Seehorn in Pluribus.\t\n\nNow he's best known for the crime-fueled duology of Breaking Bad and Better Call Saul, but when Vince Gilligan was first starting out in television, it was in the realm of sci-fi. Over seven years he penned a number of classic episodes of The X-Files, ranging from a monster-themed spoof of Cops to a bizarre high-speed car chase that was his first collaboration with Breaking Bad star Bryan Cranston. And now he's back in the genre with the upcoming Apple TV series Pluribus, which starts streaming in November.\nBut Gilligan tells me that, while he had been itching to return to sci-fi, actually getting there was a bit of an accident. \"I didn't m …\nRead the full story at The Verge.",
+      "content_length": 718,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Australia politics live: Jane Hume renews push to lift nuclear energy ban in watered-down version of election policy",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/28/federal-parliament-algae-report-senate-social-media-age-assurance-labor-coalition-anthony-albanese-sussan-ley-barnaby-joyce-telco-penalties-ntwnfb",
+      "published": "2025-10-28T06:46:46",
+      "content": "Follow the latest updates liveQueensland’s controversial puberty blocker ban overturned by supreme courtGet our breaking news email, free app or daily news podcastThe Greens say the cost of not acting on climate change will be “far, far greater” than any cost associated with acting on it.On the Today show this morning, Senator Nick McKim says the government needs to stop approving new coal and gas mines (something his party has been saying for years).The costs of not acting on climate change are astronomical and they’re already being felt in our communities through things like floods and bushfires and they’re also being felt in household budgets through things like a massive spike in insurance premiums …If they [Labor] don’t do things like protect forests and if they don’t do things like protect our climate, [the laws are] not going to be worth the paper they’re printed on. Continue reading...",
+      "content_length": 906,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Mögliches Handelsabkommen kein Kurstreiber",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-fed-leitzins-102.html",
+      "published": "2025-10-28T06:43:09",
+      "content": "   Vor wichtigen Entscheidungen der EZB und der Fed bleiben die Investoren angespannt. Während die Rekordjagd in den USA weitergeht, drohen im DAX Kurseinbußen. [mehr]",
+      "content_length": 167,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Woman charged after allegedly sabotaging gas supply at two Sydney hospitals",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/28/woman-arrested-allegedly-sabotaging-gas-supplies-sydney-hospitals-sutherland",
+      "published": "2025-10-28T06:29:04",
+      "content": "NSW police allege water and gas mains were cut at first hospital in Sutherland before gas main switched off at nearby facilityFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA woman has been charged after gas supplies were allegedly sabotaged at two Sydney hospitals, putting patients into potentially “catastrophic” situations.New South Wales police alleged that the woman, 42, cut Kareena private hospital’s non-medical gas supply and water mains at 12.20am on Tuesday. Continue reading...",
+      "content_length": 556,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tuesday briefing: What the mistaken release of Hadush Kebatu reveals about a Prison Service in crisis",
+      "link": "https://www.theguardian.com/world/2025/oct/28/tuesday-briefing-what-does-the-accidental-release-of-an-inmate-tell-us-about-the-state-of-the-prison-system",
+      "published": "2025-10-28T06:27:16",
+      "content": "In today’s newsletter: Rising numbers of prisoners released by accident are laying bare systemic failings in England and Wales, from overworked staff to issues with probationGood morning. Maybe the most gobsmacking detail about the accidental release of Hadush Kebatu from HMP Chelmsford was this, from a delivery driver who was delivering equipment to the prison as he left: Kebatu, who was serving a sentence for sexual assault and was due to be deported, appeared baffled as he walked free, and lingered outside the gates for an hour and a half before heading away. “They [the officers] were basically sending him away, saying, ‘Go, you’ve been released, you go,’” the driver told Sky News. “He kept scratching his head and saying, ‘Where do I go, where do I go?’”On its face, that might look like incompetence. But the fiasco of Kebatu’s release may point to much bigger issues in the prison system. Yesterday, the justice secretary, David Lammy blamed “human error” – while the Prison Officers’ Association (POA) called the suspension of a single officer “unjust”.Hurrican Melissa | Jamaicans have started to take shelter from Hurricane Melissa as the category 5 storm neared the coast amid warnings of catastrophic flooding, landslides and extensive infrastructure damage. The slow-moving giant is set to make landfall early on Tuesday.Climate crisis | Humanity has failed to limit global heating to 1.5C and must change course immediately, the secretary general of the UN has warned. In his only interview before next month’s Cop30 climate summit, António Guterres acknowledged it is now “inevitable” that humanity will overshoot the target.Reform UK | Nigel Farage has defended remarks made by a Reform MP who said seeing adverts full of black and Asian people “drives her mad”. The Reform UK leader said if he felt Sarah Pochin’s words were “deliberately and genuinely racist”, he would have “taken action” against her.Sudan | Fears grew for hundreds of thousands of civilians trapped in El Fasher after the paramilitary Rapid Support Forces said it had captured the city, which it has been besieging for more than a year in Sudan’s civil war.Ministry of Defence | At least 49 family members and colleagues of Afghans affected by the MoD’s mass data breach have been killed, according to research submitted to a parliamentary committee. Continue reading...",
+      "content_length": 2365,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump-Besuch: Japan will \"neues goldenes Zeitalter\" mit den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-japan-104.html",
+      "published": "2025-10-28T06:25:34",
+      "content": "   Die USA und Japan sind enge Verbündete. Bei einem Gipfeltreffen in Tokio kündigten beide Länder eine Vertiefung der Beziehungen an. Japan will mehr Waffen in den USA kaufen und seltene Erden liefern. Für Trump gab es obendrein noch Kirschbäume. [mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hurrikan \"Melissa\": Verheerende Zerstörung in Jamaika befürchtet",
+      "link": "https://www.tagesschau.de/ausland/amerika/jamaika-hurrikan-melissa-100.html",
+      "published": "2025-10-28T06:17:14",
+      "content": "   Der Hurrikan \"Melissa\" könnte der stärkste je auf Jamaika registrierte Sturm werden. Für Teile des Landes wurden Evakuierungen angeordnet. Schon jetzt sind Ausläufer zu spüren: Viele Menschen sind ohne Strom.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wikipedia-Alternative von Elon Musk: Grokipedia mit 885.000 Artikeln freigegeben",
+      "link": "https://www.heise.de/news/Wikipedia-Alternative-von-Elon-Musk-Grokipedia-mit-885-000-Artikeln-freigegeben-10960496.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-28T06:04:00",
+      "content": "Die Wikipedia ist Elon Musk ein Dorn im Auge, Anfang des Monats hat er eine KI-generierte Alternative angekündigt. Diese Grokipedia ist nun abrufbar.",
+      "content_length": 149,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "HMRC cuts child benefit for 35,000 families based on incomplete travel data",
+      "link": "https://www.theguardian.com/society/2025/oct/28/hmrc-cuts-child-benefit-for-35000-families-based-on-incomplete-travel-data",
+      "published": "2025-10-28T06:00:20",
+      "content": "UK tax agency apologises after flagging people as having emigrated, often when they return via different routesParents who went from Liverpool to Amsterdam with their autistic children are among thousands who have had their child benefit wrongly stopped as part of a crackdown on benefit fraud, it has emerged.The error by HM Revenue and Customs emerged 48 hours after the Guardian and the Detail reported on hundreds of families in Northern Ireland who had child benefit stopped after they returned home from holiday via Dublin airport, leaving HMRC with the impression they had taken a one-way ticket out of the country and were fraudulently collecting child benefit. Continue reading...",
+      "content_length": 689,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Prozess nach Zugunfall bei Garmisch-Partenkirchen beginnt",
+      "link": "https://www.tagesschau.de/inland/regional/prozessbeginn-zugunglueck-garmisch-partenkirchen-100.html",
+      "published": "2025-10-28T05:58:28",
+      "content": "   Im Juni 2022 starben bei einem Zugunglück nahe Garmisch-Partenkirchen fünf Menschen, viele wurden verletzt. Heute beginnt in München der Prozess gegen zwei Bahnmitarbeiter - wegen fahrlässiger Tötung und Körperverletzung.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Queensland government considers reissuing puberty blocker ban after supreme court overturns it",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/28/queenslands-controversial-puberty-blocker-ban-overturned-by-supreme-court",
+      "published": "2025-10-28T05:48:45",
+      "content": "Parent of transgender child successfully challenged LNP decision to prevent new patients under 18 accessing hormone treatments for gender dysphoriaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQueensland’s ban on puberty blockers for transgender patients has been overturned by the supreme court, but the health minister says he is considering issuing the same order again.On Tuesday, Justice Peter Callaghan ruled in favour of a challenge by the parent of a transgender child, judging that the directive establishing the ban was made improperly and was unlawful. Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "First person arrives on Nauru triggering Australia’s $2.5bn deal with island nation",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/28/nauru-australia-deal-payment-as-first-man-arrives-nzyq",
+      "published": "2025-10-28T05:06:07",
+      "content": "Deal between federal government and Nauru expected to last 30 years and apply to around 350 people released under high court’s NZYQ rulingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia has commenced its $2.5bn deal with Nauru to offload more than 350 people from the NZYQ cohort after the home affairs minister, Tony Burke, confirmed the first arrival had landed on the tiny Pacific island last week.Burke said Nauruan authorities had confirmed the arrival on Friday, as reported by the ABC, triggering the first yearly instalment of $408m. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK military equipment used by militia accused of genocide found in Sudan, UN told",
+      "link": "https://www.theguardian.com/global-development/2025/oct/28/uk-military-equipment-rapid-support-forces-rsf-militia-accused-genocide-found-sudan-united-nations",
+      "published": "2025-10-28T05:00:20",
+      "content": "Exclusive: two dossiers of material seen by the security council raise questions over export of British arms to the UAE, which has been accused of supplying weapons to paramilitary RSF groupBritish military equipment has been found on battlefields in Sudan, used by the Rapid Support Forces (RSF), a paramilitary group accused of genocide, according to documents seen by the UN security council.UK-manufactured small-arms target systems and British-made engines for armoured personnel carriers have been recovered from combat sites in a conflict that has now caused the world’s biggest humanitarian catastrophe. Continue reading...",
+      "content_length": 631,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wind power has cut £104bn from UK energy costs since 2010, study finds",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/wind-power-cut-uk-energy-costs-ucl-study",
+      "published": "2025-10-28T05:00:19",
+      "content": "Reduction comes from energy generated from windfarms and lower cost of gas owing to lower demandWind power has cut at least £104bn from energy costs in the UK since 2010, a study has found.Users of gas have been among the biggest beneficiaries, the research suggested. Continue reading...",
+      "content_length": 288,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tod nach Narkose - Wenn Ärzte pfuschen",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/arztpraxen-narkose-mindeststandards-100.html",
+      "published": "2025-10-28T05:00:12",
+      "content": "   In den vergangenen zehn Jahren sind 21 Patienten nach Vollnarkosen in Arztpraxen gestorben, weil ärztliche Standards ignoriert wurden. Das zeigen Report Mainz-Recherchen. Sechs Patienten erlitten demnach schwere Hirnschäden.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hannah McGuire’s killer motivated by ‘male entitlement’ and disregarded her dignity after murder, court hears",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/28/hannah-mcguires-killer-motivated-by-male-entitlement-and-disregarded-her-dignity-after-court-hears-ntwnfb",
+      "published": "2025-10-28T04:14:16",
+      "content": "Prosecutor tells Victorian court of abuse afflicted by Lachlan Young, after judge holds a minute’s silence for McGuireFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA killer was motivated by male entitlement, jealousy and rage when he strangled his ex-girlfriend and then burnt her remains in remote Victorian bushland, a prosecutor has told a court.Hannah McGuire had the right to leave Lachlan Young after months of abusive and controlling behaviour, crown prosecutor Kristie Churchill told the Victorian supreme court in Ballarat on Tuesday.In Australia, the crisis support service Lifeline is on 13 11 14 and the national family violence counselling service is on 1800 737 732. In the UK, Samaritans can be contacted on freephone 116 123 and the domestic abuse helpline is 0808 2000 247. In the US, the suicide prevention lifeline is 988 and the domestic violence hotline is 1-800-799-SAFE (7233). Other international helplines can be found via www.befrienders.org Continue reading...",
+      "content_length": 1054,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NSW Labor ignores own drugs summit advice by keeping sniffer dogs and strip-searches at festivals",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/28/nsw-government-fails-drop-sniffer-dogs-strip-searches-music-festivals",
+      "published": "2025-10-28T04:13:11",
+      "content": "Police minister Yasmin Catley says high-visibility tactics remain important ‘investigative tools’ – even at music festivals trialling pill testingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe New South Wales government has “squibbed” the opportunity for major drug reform, advocates say, after Labor announced it would ignore some recommendations of a landmark report it commissioned.The government on Tuesday said it would continue using sniffer dogs and strip-searches at music festivals despite evidence that such high-visibility tactics “increases rather than decreases” the risk associated with illicit drug use. Continue reading...",
+      "content_length": 708,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Medienberichte: Amazon will 30.000 Bürojobs streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/amazon-stellenstreichung-100.html",
+      "published": "2025-10-28T03:51:25",
+      "content": "   Beim US-Konzern Amazon soll es offenbar von heute an einen deutlichen Stellenabbau geben: Medienberichten zufolge werden 30.000 Bürojobs gestrichen. Der Konzern selbst hat sich bislang noch nicht zu den Berichten geäußert. [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sorge um Hunderttausende Zivilisten in eroberter Stadt Al-Faschir",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-rsf-al-faschir-100.html",
+      "published": "2025-10-28T01:06:50",
+      "content": "   Nach der Einnahme der sudanesischen Stadt Al-Faschir durch die RSF-Miliz wächst die Sorge um Hunderttausende eingeschlossene Zivilisten. Ärzte und Menschenrechtler berichten von Gräueltaten.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Elon Musk’s Grokipedia contains copied Wikipedia pages",
+      "link": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied",
+      "published": "2025-10-28T00:46:59",
+      "content": "\n\n\n\t\n\t\t\n\nxAI’s Grokipedia, its Wikipedia-like online encyclopedia, is now live. The similarities go deeper than expected.\n\nGrokipedia’s design is pretty basic right now; like Wikipedia, the homepage is mostly just a big search bar, and entries resemble very basic Wikipedia entries, with headings, subheadings, and citations. I haven’t seen any photos on the site yet. Wikipedia lets users edit pages, but it doesn’t appear that users can currently do that on Grokipedia; a big edit button at the top only appeared on a few pages for me, and when I clicked the button, it only showed edits that had already been completed without specifying who is actually suggested or made the changes, and I wasn’t able to suggest changes of my own.&nbsp;\n\nEntries also claim that Grok has fact-checked them — a controversial idea, given how large language models tend to make up false “facts” — and how long ago the “fact check” happened.\n\nHowever, despite Elon Musk promising that Grokipedia would be a “massive improvement” over Wikipedia, some articles appear to be cribbing information from Wikipedia. At the bottom of the page for the MacBook Air, for example, you can see this message: “The content is adapted from Wikipedia, licensed under Creative Commons Attribution-ShareAlike 4.0 License.” In some cases, the cribbing goes farther than a rewrite: I’ve also seen that message on pages for the PlayStation 5 and the Lincoln Mark VIII, and both of those pages are almost identical — word-for-word, line-for-line — to their Wikipedia counterparts.\n\n“Even Grokipedia needs Wikipedia to exist,” Lauren Dickinson, a spokesperson for the Wikimedia Foundation, the non-profit that operates Wikipedia tells The Verge. You can read Dickinson’s full statement in full at the end of this article.\n\nIt’s not the first time xAI’s AI has been caught pointing to Wikipedia; last month, in response to an X user pointing out that Grok cites Wikipedia pages, Musk said that “we should have this fixed by end of year.”\n\nNot all Grokipedia articles are based directly on Wikipedia ones, and some will be controversial.&nbsp;\n\nWhile both sites have articles on climate change, for example, Wikipedia’s page points out that “There is a nearly unanimous scientific consensus that the climate is warming and that this is caused by human activities. No scientific body of national or international standing disagrees with this view.”&nbsp;\n\nIn Grokipedia’s entry, meanwhile, the word “unanimous” only appears in one paragraph: “Critics contend that claims of near-unanimous scientific consensus on anthropogenic causes dominating recent climate change overstate agreement due to selective categorization in literature reviews.” It suggests that the media and advocacy organizations like Greenpeace are “contributing to heightened public alarm,” and are part of “coordinated efforts to frame the issue as an existential imperative, influencing public discourse and policy without always grounding in proportionate empirical evidence.”\n\nAccording to a ticker at the bottom of the homepage, Grokipedia has over 885,000 articles; Wikipedia currently maintains around 7 million English pages. However, this is an early version of Grokipedia — it has a v0.1 version number on the homepage.\n\nHere is Dickinson’s full statement:\n\n\nWe’re still in the process of understanding how Grokipedia works.\n\n\n\nSince 2001, Wikipedia has been the backbone of knowledge on the internet. Hosted by the Wikimedia Foundation, it remains the only top website in the world run by a nonprofit. Unlike newer projects, Wikipedia’s strengths are clear: it has transparent policies, rigorous volunteer oversight, and a strong culture of continuous improvement. Wikipedia is an encyclopedia, written to inform billions of readers without promoting a particular point of view.&nbsp;\n\n\n\nWikipedia’s knowledge is – and always will be – human. Through open collaboration and consensus, people from all backgrounds build a neutral, living record of human understanding – one that reflects our diversity and collective curiosity. This human-created knowledge is what AI companies rely on to generate content; even Grokipedia needs Wikipedia to exist.&nbsp;\n\n\n\nWikipedia’s nonprofit independence — with no ads and no data-selling — also sets it apart from for-profit alternatives. All of these strengths have kept Wikipedia a top trusted resource for more than two decades.\n\n\n\nMany experiments to create alternative versions of Wikipedia have happened before; it doesn’t interfere with our work or mission. As we approach Wikipedia’s 25th anniversary, Wikipedia will continue focusing on providing free, trustworthy knowledge built by its dedicated volunteer community. For more information about how Wikipedia works, visit our website and new blog series.\n",
+      "content_length": 4790,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "All schools in England with removal grants to be Raac-free by 2029, says Phillipson",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/28/all-schools-in-england-with-removal-grants-to-be-raac-free-by-2029-says-phillipson",
+      "published": "2025-10-28T00:01:13",
+      "content": "Education secretary promises ‘clear timelines’ are in place to permanently remove crumbling concreteAll schools in England that received grant funding to pay for the removal of reinforced autoclaved aerated concrete (Raac) should be free of it by the end of this parliament, the education secretary has pledged.Setting out a new timeline for dealing with the crumbling concrete crisis in schools, Bridget Phillipson said: “We inherited a crumbling education estate, but I won’t let that be our legacy. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Organised crime making millions from illegal waste dumping in UK, says committee",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/organised-making-millions-from-waste-dumping-in-uk-says-committee",
+      "published": "2025-10-28T00:01:13",
+      "content": "Peers say ‘woeful’ record on prosecutions has led to a ‘low-risk, high-reward’ criminal cultureOrganised crime groups in the UK are making millions every year from illegally dumping and burning rubbish, peers have told ministers, after an inquiry found a lack of enforcement made it a “low-risk, high-reward” criminal enterprise.“Criminality is endemic in the waste sector,” a Lords committee told the government on Tuesday, after it found at least 38m tonnes of waste was illegally managed every year, “leading to serious environmental, economic and social consequences”. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Change course now’: humanity has missed 1.5C climate target, says UN head",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/change-course-now-humanity-has-missed-15c-climate-target-says-un-head",
+      "published": "2025-10-28T00:01:12",
+      "content": "Exclusive: ‘Devastating consequences’ now inevitable but emissions cuts still vital, says António Guterres in sole interview before Cop30I am the first Indigenous journalist to exclusively interview António Guterres. How many others will listen?Humanity has failed to limit global heating to 1.5C and must change course immediately, the secretary general of the UN has warned.In his only interview before next month’s Cop30 climate summit, António Guterres acknowledged it is now “inevitable” that humanity will overshoot the target in the Paris climate agreement, with “devastating consequences” for the world. Continue reading...",
+      "content_length": 631,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "How to sign up for Amazon Prime",
+      "link": "https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free",
+      "published": "2025-10-27T23:49:20",
+      "content": "\n\n\n\t\n\t\t\n\nCan you believe that the holiday season is already creeping up on us? I can’t. But at least that means we can begin looking forward to all the deals we’re likely to see during Black Friday and Cyber Monday, the bulk of which will drop on November 28th. Everything from gaming gear and headphones to the latest smart home tech — well, almost everything — will be on sale, including plenty of Verge favorites.\n\nBut be aware: some of the best deals will only be available for Amazon Prime subscribers. Fortunately, if you’re interested in all of Amazon’s discounted goodies but haven’t signed up for Prime, don’t worry — Amazon makes it very easy to lock in a premium account.\n\nIf you’re attracted by the goodies being offered but haven’t signed up for Prime, Amazon makes it very easy\n\nBesides giving access to Prime Day bargains, Amazon includes a bunch of features to entice people to sign up for its Prime service. These include access to its streaming video service, Prime Video, which sadly is no longer ad-free, though you can pay extra for that; free and faster shipping on purchases (with two-day or one-day delivery for many items and even same-day delivery for some); discounts on a selection of Amazon Fresh and Whole Foods groceries along with a free GrubHub Plus membership; Amazon Music ad-free audio streaming (not to be confused with the more extensive Amazon Music Unlimited, which is an additional $10.99 per month for Prime members and $11.99 per month for non-members); free access to Amazon Luna gaming; unlimited photo storage (along with 5GB of video storage); and Prime Reading, which gives you access to a rotating library of comics, books, and magazines as well as early access to a curated selection of new books. Amazon also added discounts at BP and Amaco gas stations last year.\n\nYou can share your Prime account with one other adult, up to four children, and up to four teens (as long as they were added before April 7th, 2025) using the Amazon Family program. Shared benefits include fast delivery, Prime streaming access, purchased ebooks and other media, and early access to lightning deals. (Some features, such as Music Prime, are not shared.) \n\nHere’s how to sign up.\n\nChoose a plan\n\n\nGo to https://www.amazon.com/amazonprime and scroll down to where it says Choose your plan. You can immediately click on the button that says Start your free 30-day trial if you want, but don’t you want to see what your options are first?\n\n\n\nChoose which plan you want. The basic plan lets you sign up for the service for $14.99 per month or $139 per year, which comes out to a little over $12 a month. \n\n\n\nPrime for Young Adults is for anyone who is between the ages of 18 and 24 or can verify that they are an enrolled student. You’ll get a free six-month trial subscription (if you’re a new member), and after that, you’ll only have to pay $7.49 a month or $69 a year. \n\n\n\nIf you’re on any of a variety of government assistance programs, like SNAP and Medicaid, you can also join for less with Prime Access: $6.99 a month with a free 30-day trial.\n\n\n\nIs it your birthday soon? If you have a generous friend or relative, they can gift you a Prime membership using one of Amazon’s gift cards.\n\n\nCreate an account\n\n\nOnce you’ve decided which plan you’re going to go with, you’ll need an Amazon account. If you don’t already have one, you’ll need to sign up. Click on Start your free 30-day trial and then Create your Amazon account to set one up with your name, email, and password. We strongly recommend setting up two-factor authentication for your account as well.\n\n\n\nOn the next page, Amazon will verify your account by sending what it calls an OTP (one-time password) to your email. Go to your email, copy the OTP, paste it into the Amazon page, and click Verify.\n\n\n\nYou’ll then be asked to enter your credit or debit card information.\n\n\n\nAnd you’re done!\n\n\nWe should probably mention the obvious: you can sign up for a Prime membership, take advantage of the free 30-day trial, and then cancel it after Black Friday and Cyber Monday have ended. But you can only do that once, so you won’t be able to use that trick next year when Prime Day or Black Friday comes around.\n\nUpdate, October 27th: This article was first published on June 9th, 2021, and has been updated to reflect new information regarding Amazon’s forthcoming Black Friday / Cyber Monday sale.",
+      "content_length": 4392,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jamaicans take shelter as Hurricane Melissa bears down as category 5 storm",
+      "link": "https://www.theguardian.com/world/2025/oct/27/jamaicans-take-shelter-as-hurricane-melissa-bears-down-as-category-5-storm",
+      "published": "2025-10-27T23:35:00",
+      "content": "Landfall expected in coming hours amid warnings of catastrophic flooding, and landslidesHurricane Melissa – follow latest updates liveJamaicans have started to take shelter from Hurricane Melissa as the category 5 storm neared the coast amid warnings of catastrophic flooding, landslides and extensive infrastructure damage.The slow-moving giant, the strongest hurricane to hit Jamaica since records began in 1851, is set to make landfall early on Tuesday and to linger over the island. Continue reading...",
+      "content_length": 506,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘China is watching’: Finland warns defeating Russia’s invasion of Ukraine key to stability in Indo-Pacific",
+      "link": "https://www.theguardian.com/world/2025/oct/28/china-is-watching-finland-warns-defeating-russias-invasion-of-ukraine-key-to-stability-in-indo-pacific",
+      "published": "2025-10-27T23:07:45",
+      "content": "Defence minister says Xi Jinping should note resolve to stay the course by global democratic alliance, including AustraliaDefeating Russia’s invasion of Ukraine is critical to restraining China in the Indo-Pacific, Finland’s defence minister has said, warning Europe and democratic partners, including Australia, face a fight of global consequences.Antti Häkkänen praised Donald Trump’s decision to impose sanctions on two Russian oil companies last week, calling the move a major sign of resolve by the US president against Vladimir Putin’s three-year long war. Continue reading...",
+      "content_length": 582,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster",
+      "link": "https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/",
+      "published": "2025-10-27T23:01:06",
+      "content": "Porsche provided flights from Albany, New York, to Malaga, Spain, and accommodation so Ars could drive the 911 Turbo S. Ars does not accept paid editorial content.\nTurbochargers have been injecting more power into engines for over 100 years, but never before have they been so prevalent in our cars. A little boost can add a lot of power and efficiency, too, making a turbocharger a great solution to eke maximum performance out of today’s engines. Usually, though, that comes with the penalty of throttle lag: You put your foot to the floor, and nothing much happens for a beat or two.\nAs we’ve recently seen in our review of the new 911 GTS, Porsche’s engineers have worked some magic to create a turbocharger that provides all the power and fun of forced induction but with none of the throttle response penalty. If adding one high-tech, high-voltage turbocharger is good, surely two would be better, right? Indeed, it is, if you can afford the cost of entry. Meet the 701 hp (523 kW) 2026 911 Turbo S, Porsche’s new most powerful 911 ever.\nTwinning the T-Hybrid\nFor Porsche’s first hybrid 911, the GTS, the company didn’t simply add an electric motor and bigger battery into the mix and call it a day. It also inserted another high-speed motor into the turbocharger, enabling it to spin up to maximum speed in less than a second, nearly eliminating turbo lag.Read full article\nComments",
+      "content_length": 1389,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "ExxonMobil accuses California of violating its free speech",
+      "link": "https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws",
+      "published": "2025-10-27T22:42:33",
+      "content": "\n\n\n\t\n\tDarren Woods, chairman and chief executive officer of Exxon Mobil Corp, during the Summit on Methane and Other Non-CO2 Greenhouse Gases on day three of the COP28 climate conference at Expo City in Dubai, United Arab Emirates, on Saturday, Dec. 2, 2023. | Photo: Getty Images\t\n\nExxonMobil is suing California over state laws that compel large companies to share a more comprehensive picture of their greenhouse gas emissions, as well as disclose financial risks that climate change might pose to their investors.\n\nThe oil and gas company claims that the two laws in question aim to “embarrass” large corporations the state “believes are uniquely responsible for climate change” in order to push them to reduce their greenhouse gas emissions. There is overwhelming scientific consensus that greenhouse gas emissions from fossil fuels cause climate change by trapping heat on the planet. \n\nExxonMobil alleges that California is violating the First Amendment by setting specific standards for how certain companies report those emissions and the associated climate risks. Under laws the state passed in 2023, “ExxonMobil will be forced to describe its emissions and climate-related risks in terms the company fundamentally disagrees with,” a complaint filed Friday says. The suit asks a US District Court to stop the laws from being enforced.\n\nIt’s the latest in an ongoing saga over how transparent companies should be about their impact on the climate\n\nIt’s the latest in an ongoing saga over how transparent companies should be about their impact on the climate. California has set higher standards than many companies follow in their sustainability reports. That, plus the state’s enormous economy, has allowed it to raise the bar for corporate climate disclosures even as the federal government moves in the opposite direction. ExxonMobil’s accusations that the state is compelling corporations to adopt its views on climate change also follow a landslide of allegations that ExxonMobil has misled consumers about the impact its products would have on the environment. \n\nOne of the laws ExxonMobil is suing over, SB 253, requires companies doing business in California with more than $1 billion in annual revenue to disclose their emissions according to internationally recognized standards set in the Greenhouse Gas Protocol. The company already publicly shares data on its greenhouse gas emissions, but says it disagrees with the Greenhouse Gas Protocol’s methods. The big tussle is over requirements to include emissions from a company’s supply chain, electricity use, and consumer use of its products — considered “indirect” emissions. Those indirect emissions often make up the majority of a company’s carbon footprint, and SB 253 would require full disclosure of them by 2027. \n\nExxonMobil’s suit, however, claims that including indirect emissions leads to double counting. It would mandate that the company claim tailpipe emissions from cars and trucks that burn their fuels, for example, while the owners of those vehicles might also claim those emissions in their reporting.&nbsp;\n\nThe other law in dispute, SB 261, says that companies earning more than $500 million in annual revenue need to disclose financial risks they face from climate change, such as how coastal flooding or more extreme weather might impact their business, by January 2026. The suit calls such disclosures “speculative,” requiring “the company to engage in granular conjecture about unknowable future developments.” \n\nUnder the Biden administration, the SEC proposed similar rules at the federal level, which it ultimately weakened after facing pushback from industry over requirements to disclose indirect emissions. This year, the SEC under the Trump administration announced that it would no longer defend those rules in court.  \n\nSeparately, ExxonMobil is embroiled in another suit California filed against it last year over plastic pollution. That suit claims that the company “deceived Californians for almost half a century by promising that recycling could and would solve the ever-growing plastic waste crisis.” Plastics are made from fossil fuels and are difficult to recycle; less than 10 percent of plastic waste has ever been recycled. ExxonMobil subsequently filed a defamation lawsuit against the California Attorney General in January over the disputed recycling claims.  \n\nCalifornia filed another suit in 2023 against multiple oil and gas companies including Exxon, alleging their “deceptive and tortious conduct was a substantial factor in bringing about these devastating climate change impacts in California,” including more intense heat, droughts, wildfires. Over the past decade a series of investigations into ExxonMobil, as well as peer-reviewed research, have shown how the company’s own scientists accurately predicted climate change while publicly dismissing the issue.\n\nExxonMobil’s latest suit now says the company “understands the very real risks associated with climate change and supports continued efforts to address those risks,” but that California’s laws would force it “to describe its emissions and climate-related risks in terms the company fundamentally disagrees with.”&nbsp;\n\n“These laws are about transparency. ExxonMobil might want to continue keeping the public in the dark, but we’re ready to litigate vigorously in court to ensure the public’s access to these important facts,” Christine Lee, a spokesperson for the California Department of Justice, said in an email to The Verge. Officials with the state regulatory agency named as defendants in the suit declined to comment on pending litigation.",
+      "content_length": 5636,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump’s DHS is recruiting ICE officers with a Halo meme",
+      "link": "https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars",
+      "published": "2025-10-27T22:21:24",
+      "content": "\n\n\n\t\n\t\t\n\nAfter using the original Pokémon theme song in a montage of ICE raids, the Department of Homeland Security (DHS) is using another popular video game franchise to promote itself on social media: Halo. This morning, the DHS posted an image featuring Halo characters, a Warthog vehicle from the games, and the text “DESTROY THE FLOOD” and a link to ICE’s recruitment website. The DHS captioned the post, “finishing this fight.”\n\n\nFinishing this fight. pic.twitter.com/6Ezq9NUqMq&mdash; Homeland Security (@DHSgov) October 27, 2025\n\n\nLike with its Pokémon-themed post, which was captioned, “Gotta Catch ‘Em All,” the DHS’s Halo post implicitly compares immigrants to creatures from video games — this time, the parasitic alien species called the Flood.&nbsp;\n\nThe DHS’s post was the culmination of a social media exchange between the Trump administration and video game retailer GameStop, based on a joke that Trump had overseen the end of the “console wars” thanks to the announcement of the Halo: Combat Evolved remake for PlayStation next year. GameStop, whose CEO and chairman Ryan Cohen has been a vocal supporter of Trump, quoted the joke with a picture of Trump shaking hands with Halo protagonist Master Chief. The White House followed up with an image of Trump in a suit of armor similar to Master Chief’s, and GameStop responded with its own photoshopped Master Chief Trump, adding a meme-ified version of Vice President JD Vance’s head swapped onto what looks to be the feminine anthropomorphic AI Cortana.\n\n\nhttps://t.co/8DRFpgbFv5 pic.twitter.com/wWvOYrwSUR&mdash; GameStop (@gamestop) October 27, 2025\n\n\n\nhttps://t.co/jI0ZrstLgz pic.twitter.com/VS32cV0RG7&mdash; GameStop (@gamestop) October 27, 2025\n\n\nMicrosoft declined to comment about the DHS’s post, and didn’t immediately respond to a request for comment about the White House’s and GameStop’s posts. The Pokémon Company International, in response to Pokémon being associated with Trump’s mass deportation campaign, previously said in a statement to The Daily Beast that “our company was not involved in the creation or distribution of this content, and permission was not granted for the use of our intellectual property.”\n\nCorrection, October 27th: The Pokémon Company International provided the statement to The Daily Beast, not Nintendo, as we originally stated.",
+      "content_length": 2341,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
+      "link": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership",
+      "published": "2025-10-27T22:16:48",
+      "content": "\n\n\n\t\n\t\t\n\nAMD has sealed a $1 billion deal with the US Department of Energy to develop two supercomputers, Lux and Discovery, in collaboration with Oracle and Hewlett Packard Enterprise (HPE). Both supercomputers will live at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. Lux is slated to come online fairly soon in early 2026, with Discovery following in 2029.&nbsp;\n\nBoth build on the work that went into the Frontier supercomputer, which is also housed at ORNL and was the fastest in the world until El Capitan came online last year at Lawrence Livermore National Laboratory. AMD also helped develop those supercomputers, so this isn’t its first time working with the US government on a project like this.&nbsp;\n\nA press release announcing the partnership describes Lux as an “AI Factory,” stating:\n\n\nLux at ORNL is the nation’s first dedicated AI Factory for science, energy, and national security—purpose-built to train, fine-tune, and deploy AI foundation models that will accelerate discovery and engineering innovation. Lux is designed to accelerate AI-driven science through its advanced architecture, optimized for data-intensive and model-centric workloads.\n\n\nMeanwhile, Discovery is described as having a “Bandwidth Everywhere” design that improves on the performance and energy efficiency the Frontier supercomputer offers, delivering more computing output at a similar cost. That processing power will support scientific research in a variety of areas, as the press release explains:\n\n\nDiscovery will drive breakthroughs in energy, biology, advanced materials, national security, and manufacturing innovation. It will help design next-generation reactors, batteries, catalysts, semiconductors, and critical materials.\n",
+      "content_length": 1747,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "New Yorkers sue state elections board as battle over House maps intensifies",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/new-york-elections-board-lawsuit-map",
+      "published": "2025-10-27T21:49:39",
+      "content": "Lawsuit alleges congressional map illegally dilutes voting power of Black and Latino residents of Staten Island A group of New Yorkers has filed a lawsuit against the state’s board of elections alleging that its congressional map unconstitutionally dilutes the voting power of Black and Latino residents of Staten Island.The complaint, filed Monday, is another volley in the battle between Democrats and Republicans to redraw congressional districts in a way that favors their party in advance of the midterm elections. Continue reading...",
+      "content_length": 539,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hamas returns remains of Israeli hostage after Red Cross’s help in search",
+      "link": "https://www.theguardian.com/world/2025/oct/27/red-cross-accompanies-hamas-in-search-for-bodies-of-israeli-hostages-in-gaza",
+      "published": "2025-10-27T21:34:50",
+      "content": "Exclusive: Red Cross acts as ‘neutral intermediary’ to recover hostages’ remains in areas under Israeli controlThe International Committee of the Red Cross has accompanied members of Hamas inside areas of Gaza still under the control of the Israeli military to facilitate the search for the bodies of Israeli hostages, as the Palestinian militant group delivered the remains of another captive.Under the US-brokered ceasefire, which took effect on 10 October, Hamas is required to return the remains of all Israeli hostages as soon as possible. In exchange, Israel has agreed to hand over 15 Palestinian bodies for each Israeli. Continue reading...",
+      "content_length": 648,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bundeswehr stoppt Umwandlung von Militärgelände für Zivilnutzung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-liegenschaften-umwandlung-100.html",
+      "published": "2025-10-27T21:06:17",
+      "content": "   Nach Jahrzehnten des Schrumpfens soll die Bundeswehr wieder wachsen. Das Verteidigungsministerium stoppt daher die Umwandlung von militärisch genutzten Liegenschaften - auch mit Folgen für Länder und Kommunen.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spotify finally brings video podcasts and music videos to its Apple TV app",
+      "link": "https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts",
+      "published": "2025-10-27T20:57:08",
+      "content": "\n\n\n\t\n\tYou can now watch your favorite video podcasts on your big screen with Spotify’s new tvOS app update. | Image: Spotify\t\n\nSpotify has announced a redesigned version of its Apple TV app that the company says has been “rebuilt from the ground up for a faster, smarter, more visual experience.” The tvOS version of the Spotify app is also gaining several welcome features from the mobile version, but the biggest updates include the addition of video podcasts and music videos.&nbsp;\n\nSome users have had access to the update for a few days already, but the new version is now available to download for everyone through Apple’s App Store, while devices using automatic updates should get the new experience by mid-November. Users of the old version of Spotify’s tvOS app have previously taken to online forums, including Reddit, to complain about everything from its frustrating navigation to missing features that have long been included in the Google TV version of the app, but it looks like this version is addressing them.&nbsp;\n\nWatching music videos on Spotify isn’t available in the US or Canada yet, but the feature has already expanded to 97 different markets around the world, with a limited catalog for Spotify Premium subscribers. They’re easily accessible using a “switch to video” prompt that appears when a song you’re listening to has an accompanying music video in Spotify’s catalog.\n\nPodcasts offering a video version will work in a similar manner in the new Spotify tvOS app, and will include an option to adjust the playback speed. Earlier this month, the company’s podcast studio announced a partnership with Netflix and The Ringer to bring 16 video podcast series to the video streaming platform in the US starting in 2026, including The Bill Simmons Podcast and shows based on the NFL, NBA, Fantasy Football, and F1.\n\nThe updated Spotify Apple TV app also adds new mobile features like queue management, seamless playback, song lyrics, and access to Spotify DJ, which uses AI to recommend what to listen to next. You’ll also be able to control playback on the Apple TV using your smartphone or tablet and the mobile app through Spotify Connect.",
+      "content_length": 2169,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Hamas übergibt weiteren Leichnam an Rotes Kreuz",
+      "link": "https://www.tagesschau.de/ausland/asien/hamas-uebergabe-leiche-israel-102.html",
+      "published": "2025-10-27T20:51:50",
+      "content": "   Die  Hamas hat im Gazastreifen eine weitere Leiche an das Rote Kreuz übergeben, bei der es sich um eine tote, aus Israel entführte Geisel handeln soll. US-Präsident Trump erhöht indes den Druck auf die Terrororganisation.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The best phone to buy right now",
+      "link": "https://www.theverge.com/22163811/best-phone",
+      "published": "2025-10-27T20:19:12",
+      "content": "\n\n\n\t\n\t\t\n\nHaven’t you heard? Phones are boring now. And that’s just fine! Most people buying a new phone just want something familiar that works better than the device they’re replacing. If that’s your MO, then you’re sure to find something reliable in my recommendations below.\n\nBut even if you’re looking for something a little more extra, you’ve got some great options. They’re going to be pretty iterative compared to whatever you’re using now — we’re in more of a software era than a hardware innovation cycle these days — but you can still find a delightful new device. We finally have a folding phone that offers full water and dust resistance, there are flip phones that offer more than just nostalgia, and you can still buy a phone with no fewer than four cameras on the back. Not bad for a boring season of phone hardware.\n\nA lot of people in the US get their phones through carrier deals, and no judgment here if that’s the route you take — it’s how I bought mine. Just be sure you know what you’re getting into and how many years you’ll need to stay on that Super 5G Everything Unlimited Plus plan to keep the monthly device reimbursements coming.\n\n\n\nIf you’re looking to spend a little less and still get the best smartphone on a budget, you can find something really good for under $600. For those recommendations, check out our guide to budget smartphones.\n\nThe best iPhone for most people\nApple iPhone 17\n\nScore: 8ProsConsAlways-on display makes it vastly more usefulHigh refresh rate makes using the phone smootherThe cameras are solidBattery lasts well through the dayThe price isn’t going upNo redesign, but the green is niceZoom capabilities are weak compared to the ProGets hot during heavy gaming sessionsApple Intelligence is still somewhere between useless and MIA\nWhere to Buy: $799 at Apple (256GB) $829.99 at Best Buy (256GB) $999 at Apple (512GB)\nScreen:&nbsp;6.3-inch 2622 x 1206 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 /&nbsp;Cameras:&nbsp;48-megapixel f/1.6 main with sensor-shift IS; 48-megapixel ultrawide; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;40W wired, 25W wireless MagSafe (Qi2) /&nbsp;Weather-resistance:&nbsp;IP68\n\nThis year’s standard iPhone offers a handful of major upgrades over its predecessor, including a larger 6.3-inch screen with a 120Hz panel and an always-on display. These two features make the everyday experience meaningfully better, but they’re not the only ones: you also get faster performance, better battery life, and twice the amount of base storage at 256GB. It also has the same starting price of $799, which is a shockingly great deal.\n\nOn the camera front, the iPhone 17’s new 48-megapixel ultrawide matches the Pro’s resolution, delivering sharper, more vibrant shots, while the main camera remains reliably good in most conditions. It also features the Pro’s 18-megapixel selfie camera, which lets you take horizontal shots without rotating the device. If you care about zoom or portraits, the iPhone 17’s lack of a telephoto camera is the clearest reason to go Pro. For most people, though, the device’s 2x “optical quality” zoom will be fine for everyday snaps, making it a great upgrade.\n\nRead our full iPhone 17 review.\n\nThe best Android phone for most people\nGoogle Pixel 10\n\nScore: 8ProsConsQi2 wireless charging with magnets is greatAI is actually kind of useful, finallyTelephoto camera is a nice additionMain and ultrawide cameras aren’t quite as good as the ProBattery life is just okay\nWhere to Buy: $799 at Amazon (128GB) $799 at Best Buy (128GB) $799 at Google (128GB)\nScreen: 6.3-inch, 1080p 120Hz OLED / Processor: Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 13-megapixel f/2.2 ultrawide; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel selfie / Battery: 4,970mAh / Charging: 30W wired, 15W wireless / Weather resistance: IP68\n\nThe Pixel 10 is an easygoing Android phone that offers some handy upgrades over its predecessor. The addition of Qi2 with built-in magnets is a delight, making it easier than ever to quickly charge up without plugging in. AI features like Magic Cue, which can proactively suggest information based on what you’re doing on your phone, are finally showing promise. And for the first time ever, the base model features a dedicated telephoto lens.\n\nBut, alas, there’s a catch: The Pixel 10 no longer features the same main and ultrawide camera hardware as the Pro. You’re essentially getting the two rear cameras found in the midrange Pixel 9A, plus a telephoto lens. Still, as a whole, the device’s triple camera system produces images that are totally fine. Beyond the cameras, the Pixel 10 features the same Tensor G5 chipset that’s found in the Pro phones — handy for those aforementioned AI features.\n\nOverall, the Pixel 10 mostly improves upon what made last year’s Pixel 9 such a solid release. We’re not thrilled with the downgraded camera, but the addition of Qi2 and a telephoto lens helps to soften the blow. If you can live with the camera tradeoffs, the Pixel 10 is still a smart pick for anyone who wants a flagship experience at a more approachable price.\n\nRead our full Pixel 10 review.\n\nThe best high-end Android phone\nSamsung Galaxy S25 Ultra\n\nScore: 8ProsConsExcellent screenImproved ultrawide cameraRounded corners are comfierExpensiveBulkyAI is (still) hit or miss\nWhere to Buy: $1299.99 $949.99 at Amazon (256GB) $1299.99 $949.99 at Best Buy (256GB) $1419.99 $1141.08 at Amazon (512GB)\nScreen: 6.9-inch, 1440p 120Hz OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 200-megapixel main with OIS; 50-megapixel 5x telephoto with OIS; 10-megapixel 3x telephoto with OIS; 50-megapixel ultrawide; 12-megapixel selfie / Battery: 5,000mAh / Charging: 45W wired, 15W wireless, Qi2 ready / Weather resistance: IP68\n\nSamsung’s “Ultra” S-series phone is still your best bet for a maximalist Android phone, even if ultra doesn’t quite mean what it once did. You still get four rear cameras — including a 3x and 5x telephoto — a massive screen, and a built-in S Pen stylus. The battery goes all day, the processor is top-notch, and there are AI features aplenty if you’re into that sort of thing. There’s just no other phone quite like it. \n\nThis year, Samsung removed the Bluetooth features from the stylus. That stings a little, especially considering that the company swapped a 10x zoom for the shorter 5x camera the year before. It still amounts to a great phone, but it’s one of the priciest slab-style phones you can buy, and Samsung seems to be cutting features without adding back any extra value. It’s still “ultra” alright, but it doesn’t feel quite as special as it used to.\n\nRead my full Galaxy S25 Ultra review.\n\nThe best phone for around $500\nGoogle Pixel 9A\n\nScore: 8ProsConsRobust IP68 ratingSeven years of software updatesBrighter, bigger screenMissing a couple of AI featuresAI is occasionally handy, usually weird\nWhere to Buy: $499 $484.49 at Amazon (128GB) $499 at Best Buy (128GB) $499 at Google (128GB)\nScreen: 6.3-inch, 1080p OLED, 120Hz / Processor: Tensor G4 / Cameras: 48-megapixel f/1.7 with OIS, 13-megapixel ultrawide, 13-megapixel selfie / Battery: 5,100mAh / Charging: 23W wired, 7.5W wireless / Weather-resistance: IP68\n\nEvery year, we’re pleasantly surprised by how much Google packs into its midrange Pixel A-series devices. Last year, it was the Pixel 8A, and this year, it’s the even better Pixel 9A. For $500, the 9A offers Google’s fourth-gen custom Tensor G4 chipset (the very same chip that’s in the pricier Pixel 9 and Pixel 9 Pro), a brighter and larger 6.3-inch OLED display, and an IP68 rating for improved durability. Plus, you get the benefit of seven years of software updates and security support. What you end up with is a device that delivers fantastic value, especially compared to other inexpensive devices.\n\nThe Pixel 9A offers a handful of other features that put it above the pack, like a 120Hz refresh rate, wireless charging, and the largest battery across the Pixel line. It does fall short in a few areas, though — the camera’s low light performance and Portrait mode could be better. That said, the 9A’s camera is still great for everyday snaps, and for the price, the device is an easy recommendation as the best in this category.\n\nRead my full Pixel 9A review.\n\nThe best high-end iPhone\niPhone 17 Pro\n\nScore: 8ProsConsSolid battery lifeBrighter screen outdoorsCenter Stage cameraFaster chargingDoesn’t get blazing hotOrangeWhat’s up with Siri?Heavier than last year\nWhere to Buy: $1099 at Apple (256GB) $1099.99 at Best Buy (256GB) $1299 at Apple (512GB)\nScreen:&nbsp;6.3-inch 2622 x 1206 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 Pro /&nbsp;Cameras:&nbsp;48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;40W wired, 25W MagSafe (Qi2) /&nbsp;Weather-resistance:&nbsp;IP68\n\nThe iPhone 17 Pro is the model to get if you want Apple’s most capable camera system and the longest battery life you can get in an iPhone. All three rear sensors use 48-megapixel lenses — including the telephoto with 4x zoom — and support creator-focused tools like ProRes RAW. Apple’s switch to an aluminum body with a vapor chamber also helps keep temperatures low during intensive tasks, including high-res video recording, while the Ceramic Shield 2 front improves durability. And it’s all wrapped in a fresh, rounded design.\n\nAs part of that redesign, Apple carved out the frame to fit a larger battery, which lasts through a typical day of mixed use while browsing social media, gaming, etc. The 17 Pro supports 40W wired charging and slightly faster MagSafe charging, allowing you to take it from zero to 50 percent in as little as 20 minutes. It also supports USB 3 for lightning-fast transfer speeds, so you can quickly copy over all your vacation photos and videos to your laptop.\n\nSince the standard iPhone 17 has the same 120Hz refresh rate and an always‑on display, it’s easier to skip the Pro this year. That being said, if you want longer battery life and the most flexible camera system in the lineup, the 17 Pro is the way to go. Plus, it comes in a bold orange shade that’s unlike anything else in Apple’s lineup.\n\nRead our full iPhone 17 Pro review.\n\nThe best flip phone\nSamsung Galaxy Z Flip 7\n\nScore: 8ProsConsSamsung finally adopted the big cover screenAll-day batteryReliable cameraMore susceptible to dust than your average phoneStill too hard to run full apps on the cover screen\nWhere to Buy: $1099.99 $849.99 at Amazon (256GB) $1099.99 at Best Buy (256GB) $1219.99 $1149 at Amazon (512GB)\nScreen: 6.9-inch, 1080p, 120Hz OLED inner screen; 4.1-inch, 948p, OLED cover screen / Processor: Samsung Exynos 2500 / Cameras: 50-megapixel f/1.8 main with OIS; 12-megapixel ultrawide; 10-megapixel selfie (inner screen) / Battery: 4,300mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather resistance: IP48\n\nSamsung finally got the memo with the Galaxy Z Flip 7’s cover screen. The company’s latest flip phone ditches the file folder-shaped look of its predecessor for a 4.1-inch, edge-to-edge display that wraps around the cameras. With more outer screen real estate, it’s easier to respond to texts and punch in a coffee order without flipping open the phone and getting sucked into a digital rabbit hole.\n\nThe Flip 7 still makes you jump through a few hoops if you want to run full apps on the cover screen, but once you’ve wrangled the settings, it unlocks a lot of convenience for everyday tasks. That said, the cover screen isn’t perfect for every app. Sometimes a button hides behind the camera cutout, forcing you to change the app’s window size. But most tasks are a breeze, and opening the phone is always an option.\n\nUnder the hood, Samsung swapped out Qualcomm’s processor for an in-house Exynos chip, though we didn’t notice any hits to performance. The new 4,300mAh battery will last you all day with moderate use, but heavy gaming and hotspot use will significantly impact battery life. The camera system, meanwhile, remains unchanged from the Z Flip 6, which isn’t a bad thing. You still get a 50-megapixel main shooter and all the fun flex mode tricks, which are great for capturing candids.\n\nUnfortunately, the Flip 7 still offers no protection against fine particles like dust or sand, which might work their way into the hinge and cause damage. This raises concerns about how the device might hold up over time. But Samsung’s beefed-up warranty and repair program can provide extra peace of mind. Plus, with seven years of OS and security updates, the Flip 7 should prove reliable until you decide to upgrade.\n\nRead our full Galaxy Z Flip 7 review.\n\nThe best folding phone\nGoogle Pixel Pro 10 Fold\n\nScore: 8ProsConsFull dust resistance! On a foldable!Qi2 support with built-in magnetsHeavy and chunkyCameras aren’t as good as the other 10 Pro phones’Pricier than a regular phone\nWhere to Buy: $1799 at Amazon (256GB) $1799 at Best Buy (256GB) $1799 at Google (256GB)\nScreen:&nbsp;8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen /&nbsp;Processor:&nbsp;Google Tensor G5 /&nbsp;Cameras:&nbsp;48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera /&nbsp;Battery:&nbsp;5,015mAh /&nbsp;Charging:&nbsp;30W wired, 15W wireless (Qi2) /&nbsp;Weather resistance:&nbsp;IP68\n\nConcerns over long-term durability have kept us from recommending foldables to anyone but the most diehard gadget nerd. Then Google said “hold my USB-C cable” and bestowed an IP68 rating on the Pixel 10 Pro Fold, making it the first foldable to provide full water and dust resistance. That means the device can survive a tumble on the beach without the hinge and inner screen failing. What’s more, the device features Qi2 support with built-in magnets for accessories and wireless charging. And with a new Tensor G5 chip, it offers smooth performance, whether you’re playing intensive games like Diablo Immortal or multitasking on the larger inner display.\n\nAs much as we love the 10 Pro Fold’s improved durability, its cameras can’t quite keep up with those of other 10 Pro models. The device is also heavy and rather chunky; it’s over 40 grams heavier than Samsung’s Galaxy Z Fold 7 and nearly 2 millimeters thicker when folded shut. There’s a plus side to the thicker frame, though: it leaves more room for the phone’s larger battery, which can last a full day with minimal use of the inner display. If you find yourself spending most of your time using the larger display, you may need to find the nearest outlet by the end of the day.\n\nRead our full Pixel 10 Pro Fold review.\n\n\n\nOther phones we tested\n\n\nThe Samsung Galaxy S25 is a very good device, and it’s basically the last small-ish Android phone you can buy in the US. I find the software to be fussier and more cluttered than the Pixel 9’s, so it’s not my overall pick, but it’s a reliable device — and your best bet for a phone that isn’t gigantic. Read our review.\n\n\n\nThe iPhone 16E is a great phone that makes a lot of interesting trade-offs. Apple’s latest entry-level phone starts at $599 and comes with the company’s latest A18 processor, USB-C and wireless charging, a 60Hz OLED display, and the customizable Action Button found on Apple’s more premium handsets. The 6.1-inch phone doesn’t have MagSafe support or a Camera Control button, though, and it’s limited to a single 48-megapixel Fusion camera (sorry, ultrawide stans). That makes it hard for us to recommend over the standard iPhone 16, even if it does start at $200 less. Read our review.\n\n\n\nThe Motorola Razr Ultra 2025 is an excellent foldable that exemplifies what makes the brand’s phones so unique. It’s one of the best-looking phones you can buy, thanks to its gold-bronze chassis and wooden back. Plus, it features a spacious cover screen that’s handy for quickly performing tasks without opening the device. However, as much as we enjoy the Razr Ultra, Motorola’s promise of three OS upgrades and four years of security updates is on the shorter side. Read our review.\n\n\n\nThe Samsung Galaxy S25 Edge is an ultra-thin alternative to the big, chunky flagships we’ve seen over the past year. At just 5.8mm thick, it packs a 6.7-inch 1440p OLED display with a refresh rate of up to 120Hz, a 3,900mAh battery, and a Snapdragon 8 Elite processor. Despite its thinner frame, battery life is surprisingly acceptable, though it won’t last as long as other flagship devices. The S25 Edge also lacks a telephoto camera, so it’s not the best phone for portrait photos. Read our review.\n\n\n\nThe OnePlus 13R stands out in two key ways: battery life and screen. The 6.78-inch OLED display has a variable refresh rate of up to 120Hz and a resolution of 1264 x 2780, both of which are great specs for a midrange phone. Meanwhile, its 6,000mAh battery can last for a long time — most people are likely to squeeze out two days before the device needs to be recharged. That said, the 13R lacks features like wireless charging and more robust water resistance, and OnePlus is only promising four major OS upgrades and six years of security updates, which is fewer than the seven years of OS upgrades on the Google Pixel 9A. Read our review.\n\n\n\nThe&nbsp;Nothing Phone 3 is the brand’s “first true flagship phone,” with a 6.67-inch OLED screen, a Snapdragon 8S Gen 4 chip, and a 5,150mAh battery. It also features four cameras — three on the back and one on the front — all of which are 50 megapixels. Additionally, the Phone 3 ditches Nothing’s&nbsp;signature light strips&nbsp;for a small dot-matrix LED display on the back, which can display images or emoji tied to specific apps and contacts. Read our review.\n\n\n\nThe&nbsp;Pixel 9 Pro Fold&nbsp;is an impressive sophomore effort from Google. Like the Z Fold 7, the outer screen matches the dimensions of a regular slab-style phone, while the inner screen is great for multitasking. The whole package is also light enough that it sometimes doesn’t feel like you’re holding a foldable, though it does suffer from a slightly downgraded camera system compared to other Pixel 9 devices. There’s also no formal dust resistance, so long-term durability remains a concern.&nbsp;Read our review.\n\n\n\nThe Pixel 10 Pro is Google’s most refined flagship yet, blending a premium design with meaningful hardware upgrades like the Tensor G5 chip and Pixelsnap wireless charging. Magic Cue delivers genuinely useful on-device AI that can surface helpful info in real-time, while the camera’s portrait mode is much improved over its predecessor. Battery life is just average, though, and some AI features still feel like they’re being shoved into corners of the device where it doesn’t really need to be. Most readers will be better served by the cheaper Pixel 10. Read our review.\n\n\n\nThe Samsung Galaxy Z Fold 7 is another thin book-style foldable that feels like a regular phone when folded shut, though its IP48 rating means it isn’t fully dust resistant. The spacious inner display is great for multitasking and gaming, and its battery can last all day with moderate use. However, with a starting price of $2,000 — $200 more than the 10 Pro Fold — it’s the most expensive device on this list, even if we have seen it occasionally drop to $1,599.&nbsp;Read our review.\n\n\n\nThe iPhone Air is Apple’s biggest redesign in years, one that measures 5.6mm thick and weighs a mere 165 grams. It’s&nbsp;more durable&nbsp;than you might expect, too, thanks to its titanium frame and Ceramic Shield 2, and it feels deceptively small despite having a 6.5-inch display. However, there are a few downsides to the thinner frame, including shorter battery life and the lack of an ultrawide camera. Read our review.\n\n\n\n\nWhat’s coming next\n\nWe’re in a relatively quiet period now that Google and Apple have released their latest handsets. There might be a few more surprises in store for the remainder of 2025 — Samsung has yet to release its heavily rumored trifold — but we haven’t heard much since the summer. Regardless, now is a great time to start taking stock of any deals you see, especially with Black Friday and Cyber Monday around the corner.\n\nUpdate, October 27th: Adjusted pricing / availability and added the iPhone 17, iPhone 17 Pro, and Pixel 10 Pro Fold as new picks. Brandon Russell also contributed to this post.",
+      "content_length": 20494,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "AI-powered search engines rely on “less popular” sources, researchers find",
+      "link": "https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/",
+      "published": "2025-10-27T20:18:05",
+      "content": "Since last year’s disastrous rollout of Google’s AI Overviews, the world at large has been aware of how AI-powered search results can differ wildly from the traditional list of links search engines have generated for decades. Now, new research helps quantify that difference, showing that AI search engines tend to cite less popular websites and ones that wouldn’t even appear in the Top 100 links listed in an “organic” Google search.\nIn the pre-print paper “Characterizing Web Search in The Age of Generative AI,” researchers from Ruhr University in Bochum, Germany, and the Max Planck Institute for Software Systems compared traditional link results from Google’s search engine to its AI Overviews and Gemini-2.5-Flash. The researchers also looked at GPT-4o’s web search mode and the separate “GPT-4o with Search Tool,” which resorts to searching the web only when the LLM decides it needs information found outside its own pre-trained data.\nThe researchers drew test queries from a number of sources, including specific questions submitted to ChatGPT in the WildChat dataset, general political topics listed on AllSides, and products included in the 100 most-searched Amazon products list.Read full article\nComments",
+      "content_length": 1219,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump comments about a third term spark concern – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/27/donald-trump-japan-sanae-takaichi-asia-canada-trade-news-updates-us-politics-live",
+      "published": "2025-10-27T20:11:26",
+      "content": "This live blog is now closedAs Republican states launch more redistricting efforts, Democrats in blue states are still deciding how or if they will respond.House minority leader Hakeem Jeffries is said to be headed to Illinois today to meet with local leaders about redrawing the congressional maps. Punchbowl reports that Jeffries will meet with the Illinois Legislative Black caucus and Black members of Congress, a nod to the fact that Black lawmakers will be needed to pass a new map. Continue reading...",
+      "content_length": 508,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj droht mit Angriffen auf weitere russische Regionen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-118.html",
+      "published": "2025-10-27T20:00:07",
+      "content": "   Die Ukraine hat eine Talsperre in Russland mit Drohnen angegriffen. Anwohner sind zur Vorsicht aufgerufen. Der ukrainische Präsident Selenskyj droht zudem mit einer Ausweitung der ukrainischen Angriffe.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AT&T ad congratulating itself for its ethics violated an ad-industry rule",
+      "link": "https://arstechnica.com/tech-policy/2025/10/att-ad-congratulating-itself-for-its-ethics-violated-an-ad-industry-rule/",
+      "published": "2025-10-27T19:58:43",
+      "content": "AT&amp;T committed a big no-no in its latest advertising campaign against T-Mobile, according to the organization that runs the ad industry’s self-regulatory system.\nBBB National Programs’ National Advertising Division said Friday that AT&amp;T “violated Section 2.1(I) of the National Advertising Division (NAD)/National Advertising Review Board (NARB) Procedures for the US advertising industry’s process of self-regulation by issuing a video advertisement and press release that use the NAD process and its findings for promotional purposes. NAD has demanded that AT&amp;T immediately remove such violative promotional materials and cease all future dissemination.”\nThe NAD said that AT&amp;T’s action threatens the “integrity and success of the self-regulatory forum,” and “undermines NAD’s mission to promote truth and accuracy of advertising claims and foster consumer trust in the marketplace.”Read full article\nComments",
+      "content_length": 927,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "First banker jailed over Libor interest rate rigging to sue UBS for $400m",
+      "link": "https://www.theguardian.com/business/2025/oct/27/first-banker-jailed-over-libor-interest-rate-rigging-to-sue-ubs-for-400m",
+      "published": "2025-10-27T19:52:09",
+      "content": "Tom Hayes claims he was ‘hand-picked scapegoat’ for the Swiss bank as it tried to avoid regulatory scrutinyTom Hayes, the first banker jailed over Libor interest rate rigging, is suing his former employer UBS for $400m (£300m), claiming he was a “hand-picked scapegoat” for the Swiss bank as it tried to avoid regulatory scrutiny.The claim, which was publicly filed in a US court in Connecticut on Monday, alleges that UBS misled US authorities and called him an “evil mastermind” behind the alleged Libor scandal, in order to protect senior executives and minimise fines. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Alassane Ouattara wins landslide fourth term as Ivory Coast’s president",
+      "link": "https://www.theguardian.com/world/2025/oct/27/alassane-ouattara-wins-landslide-fourth-term-as-ivory-coasts-president",
+      "published": "2025-10-27T19:48:07",
+      "content": "Low turnout said to have made for most peaceful election in years, as 83-year-old accused of clampdown on dissent wins 89.77% of voteAlassane Ouattara has been declared the winner of the presidential election in Ivory Coast by a landslide.According to provisional results announced by the Independent Electoral Commission (CIE) on Monday evening, the 83-year-old won a fourth term as head of the west African country with 89.77% or 3.75m votes. Continue reading...",
+      "content_length": 464,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie die AfD Anschluss in den USA sucht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-vernetzung-usa-medien-100.html",
+      "published": "2025-10-27T19:22:47",
+      "content": "   Der AfD-Politiker Paul wird wegen Verfassungstreue-Zweifeln von der Kommunalwahl ausgeschlossen. Kurze Zeit später fällt sein Name im Weißen Haus. Sein Fall zeigt, wie Desinformation zur transatlantischen Strategie wird.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "25 years, one website: ISS in Real Time captures quarter-century on space station",
+      "link": "https://arstechnica.com/space/2025/10/25-years-one-website-iss-in-real-time-captures-quarter-century-on-space-station/",
+      "published": "2025-10-27T19:19:37",
+      "content": "With the milestone just days away, you are likely to hear this week that there has now been a continuous human presence on the International Space Station (ISS) for the past 25 years. But what does that quarter of a century actually encompass?\nIf only there was a way to see, hear, and experience each of those 9,131 days.\nFortunately, the astronauts and cosmonauts on the space station have devoted some of their work time and a lot of their free time to taking photos, filming videos, and calling down to Earth. Much of that data has been made available to the public, but in separate repositories, with no real way to correlate or connect it with the timeline on which it was all created.Read full article\nComments",
+      "content_length": 717,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ten people go on trial in Paris accused of online harassment of Brigitte Macron",
+      "link": "https://www.theguardian.com/world/2025/oct/27/trial-paris-brigitte-macron-online-harassment-jean-michel-trogneux",
+      "published": "2025-10-27T18:51:04",
+      "content": "Trial is latest phase in legal battle against false claim that French first lady is a man named Jean-Michel TrogneuxTen people have gone on trial in Paris charged with online harassment of Brigitte Macron – the latest phase of a legal battle on both sides of the Atlantic against the false claim that the French first lady is a man named Jean-Michel Trogneux.The president, Emmanuel Macron, and his wife filed a defamation lawsuit in the US at the end of July, in connection with a rumour amplified and repeated online that Brigitte Macron was born a man. Continue reading...",
+      "content_length": 575,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK in £8bn deal to sell Typhoon jets to Turkey despite human rights concerns",
+      "link": "https://www.theguardian.com/business/2025/oct/27/uk-in-8bn-deal-to-sell-typhoon-jets-to-turkey-despite-human-rights-concerns",
+      "published": "2025-10-27T18:41:42",
+      "content": "Starmer’s announcement on visit to Ankara comes as jailed opposition leader Ekrem İmamoğlu faces fresh chargesBritain has agreed to sell 20 Typhoon fighter jets to Turkey in an £8bn deal despite concerns about alleged human rights violations by its government.Keir Starmer signed the deal during a visit on Monday to Ankara to meet the country’s president, Recep Tayyip Erdoğan. The prime minister said the deal would boost the Nato alliance, despite criticism of Turkey’s increasingly authoritarian administration. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The last-gen Kindle is a steal at just $65 refurbished",
+      "link": "https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale",
+      "published": "2025-10-27T18:39:11",
+      "content": "\n\n\n\t\n\tThe last-gen Kindle is a great budget-friendly e-reader.\t\n\nIn case you didn&#8217;t know, the last-gen Kindle is nearly just as good as the current model. Not only is the reading experience nearly identical, it also has the same sharp 300PPI display with dark mode, an adjustable front light, and USB-C charging. If you want a great e-reader, but you also want to save some money, you can grab the refurbished 2022 Kindle with ads and 16GB of storage at Woot with a 90-day Amazon warranty for just $64.99 through October 30th when you apply the promo code FIREFIVE at checkout.&nbsp;\n2022 Kindle (with ads)\n\nWhere to Buy: $99.99 $64.99 at Woot (with code FIREFIVE)\nThe $109.99 2024 model is my current favorite budget-friendly e-reader, thanks to its slightly brighter, faster display, its slightly improved battery, and slick matcha green color option. But going for the last-gen model nets you an e-reader that is similarly lightweight (lighter than even the iPhone Air), and its compact 6.2-inch frame makes it easy to slip into a bag or read comfortably with one hand.\n\nRead our Kindle (2022) review.",
+      "content_length": 1110,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet",
+      "link": "https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet",
+      "published": "2025-10-27T18:27:00",
+      "content": "\n\n\n\t\n\t\t\n\nLast week, General Motors CEO Mary Barra caused a stir when she said that the company would eventually kill Apple CarPlay and Android Auto in all of its gas cars. The company had already successfully removed phone mirroring capabilities from most of its electric vehicles, and now it was plotting how to drop support from its internal combustion engine vehicles too. \n\nBut today, the company is clarifying that this won’t happen overnight. \n\n“We are not making any changes to existing vehicles,” Malorie Lucich, a spokesperson for GM, said in a statement. “If your car supports Apple CarPlay or Android Auto, that will continue. Both will remain available in all GM gas-powered vehicles for the foreseeable future. As we advance toward our centralized computing platform, we’ll gradually move to a better, more deeply integrated experience — a direction the broader industry is taking as vehicles become more software-defined. This will happen over time, not overnight. We value our collaboration with Apple and Google and remain focused on delivering experiences customers love.”\n\n(The statement was originally provided to MacRumors.)\n\nOn the Decoder podcast, Barra seemed to suggest that the removal would happen as new models were refreshed. “As we move forward with each new vehicle and major new vehicle launch, I think you’re going to see us consistent on that,” she said. \n\nNow it seems like it won’t happen until GM is ready to roll out the new centralized vehicle computing platform it announced last week. That system, which reduces the number of control modules and improves the ability for over-the-air software updates, is set to make its debut on the Cadillac Escalade IQ in 2028, before moving on to the automaker’s gas lineup. ",
+      "content_length": 1752,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Suche nach Geiselleichen in Gaza - Hamas zeigt wieder Präsenz",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-hamas-104.html",
+      "published": "2025-10-27T17:32:11",
+      "content": "   Im Gazastreifen läuft die Suche nach den Leichen der verbliebenen Geiseln. Räumungsfahrzeuge und Bagger graben sich durch die Trümmer. Gleichzeitig tritt die Hamas wieder zunehmend offen auf - sehr zum Ärger Israels. Von Bettina Meier.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warming oceans probably fueling Hurricane Melissa’s rapid intensification",
+      "link": "https://www.theguardian.com/world/2025/oct/27/hurricane-melissa-warming-oceans-climate-crisis",
+      "published": "2025-10-27T17:16:09",
+      "content": "Climate scientists have long warned that warming oceans are making explosive storm development more commonHurricane Melissa – latest updatesThe extraordinary intensification of Hurricane Melissa, set to be one of the strongest storms to ever hit Jamaica, is probably a symptom of the rapid heating of the world’s oceans, scientists have said.Melissa was a tropical storm on Saturday, before exploding in strength to a category 4 hurricane early on Sunday. The storm’s winds escalated from 70mph to 140mph in just a day, one of the fastest intensifications on record in the Atlantic Ocean.The Associated Press contributed reporting Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "F1 in Mexico City: We have a new championship leader",
+      "link": "https://arstechnica.com/cars/2025/10/f1-in-mexico-city-we-have-a-new-championship-leader/",
+      "published": "2025-10-27T16:35:52",
+      "content": "Mexico City is one of the more unusual places that Formula 1 races, and it’s all thanks to altitude. The city sits at than 7,350 feet (2,240 m) above sea level, which makes the air noticeably thin compared to the average Grand Prix held at sea level. Like humans, F1 cars need air.\nOxygen is necessary if you want any internal combustion to happen inside the turbocharged 1.6 L V6 engine. A good flow of air across the various radiators and heat exchangers in the car is vital if you want to make it to the end of the race. And the downforce-generating wings and underbody only generate downforce by creating differences in air pressure above and below the car.\nAt over a mile above sea level, there’s about 20 percent less air, and therefore less power created by combustion, less efficient cooling of the cars, and less downforce able to be generated.Read full article\nComments",
+      "content_length": 879,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump’s bailout threat may have been key to Milei’s electoral triumph in Argentina",
+      "link": "https://www.theguardian.com/world/2025/oct/27/trump-javier-mileis-electoral-triumph-argentina",
+      "published": "2025-10-27T16:30:26",
+      "content": "Voters appear to have responded to idea that US president’s ‘generosity’ would evaporate if Milei failed to win“The dollar always talks in the end,” Donald Trump wrote in his 1987 bestseller The Art of the Deal.Javier Milei’s surprise triumph in Argentina’s midterm elections – after Trump bailed him out with 40bn of them – suggests there may be some truth to that assertion. Continue reading...",
+      "content_length": 396,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nordrhein-Westfalen: Festnahmen nach SEK-Einsatz und Waffenfund",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizei-kriegswaffen-remscheid-100.html",
+      "published": "2025-10-27T16:23:00",
+      "content": "   Spezialeinsatzkräfte der Polizei haben in Remscheid Kriegswaffen wie etwa Panzerminen und Sprengstoff entdeckt. Dem waren monatelange Ermittlungen vorausgegangen. Drei Männer wurden festgenommen.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Türkei nimmt prominente Regierungskritiker ins Visier",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-popstars-im-visier-100.html",
+      "published": "2025-10-27T16:15:02",
+      "content": "   Immer wieder geht die türkische Regierung gegen Kritiker im eigenen Land vor. In letzter Zeit geraten dabei zunehmend Prominente ins Visier - unter ihnen Popstars und Schauspieler. Jüngst gab es eine Drogen-Razzia gegen sie. Von K. Willinger.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Exxon sues California over climate laws, alleging free speech violations",
+      "link": "https://www.theguardian.com/business/2025/oct/27/exxon-lawsuit-california-climate-emissions",
+      "published": "2025-10-27T16:04:51",
+      "content": "Oil firm asks court to block enforcement of laws that would require disclosure of planet-heating carbon emissionsExxon, an oil firm consistently ranked among the world’s top contributors to global carbon emissions, is suing the state of California over two climate-focused state laws, arguing that the rules infringe upon the corporation’s right to free speech.The 2023 laws, known collectively as the California Climate Accountability Package, will require large companies doing business in the state to disclose both their planet-heating carbon emissions and their climate-related financial risks, or face annual penalties. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Why imperfection could be key to Turing patterns in nature",
+      "link": "https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/",
+      "published": "2025-10-27T16:04:35",
+      "content": "\n  \n    A mixture of two types of pigment-producing cells undergoes diffusiophoretic transport to self-assemble into a hexagonal pattern. Credit: Siamak Mirfendereski and Ankur Gupta/CU Boulder\n  \n\n  \n    \n    \n    \n    \n      A mixture of two types of pigment-producing cells undergoes diffusiophoretic transport to self-assemble into a hexagonal pattern. Credit: Siamak Mirfendereski and Ankur Gupta/CU Boulder\n\n          \n  \n  \n\n\nA zebra’s distinctive black-and-white stripes, or a leopard’s spots, are both examples of “Turing patterns,” after mathematician and computer scientist Alan Turing, who proposed an intriguing hypothetical mechanism for how such complex, irregular patterns might emerge in nature. But Turing’s original proposal proved too simplified to fully re-create those natural patterns. Scientists at the University of Colorado at Boulder (UCB) have devised a new modeling approach that achieves much more accurate final patterns by introducing deliberate imperfections, according to a new paper published in the journal Matter.\nTuring focused on chemicals known as morphogens in his seminal 1952 paper. He devised a mechanism involving the interaction between an activator chemical that expresses a unique characteristic (like a tiger’s stripe) and an inhibitor chemical that periodically kicks in to shut down the activator’s expression. Both activator and inhibitor diffuse throughout a system, much like gas atoms will do in an enclosed box. It’s a bit like injecting a drop of black ink into a beaker of water. Normally, this would stabilize a system, and the water would gradually turn a uniform gray. But if the inhibitor diffuses at a faster rate than the activator, the process is destabilized. That mechanism will produce spots or stripes.\nScientists have tried to apply this basic concept to many different kinds of systems. For instance, neurons in the brain could serve as activators and inhibitors, depending on whether they amplify or dampen the firing of other nearby neurons—possibly the reason why we see certain patterns when we hallucinate. There is evidence for Turing mechanisms at work in zebra-fish stripes, the spacing between hair follicles in mice, feather buds on a bird’s skin, the ridges on a mouse’s palate, and the digits on a mouse’s paw.Read full article\nComments",
+      "content_length": 2319,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Polen nimmt zwei Ukrainer wegen Spionageverdachts fest",
+      "link": "https://www.tagesschau.de/ausland/europa/spionage-ukraine-polen-100.html",
+      "published": "2025-10-27T15:56:37",
+      "content": "   In Polen sind zwei Ukrainer festgenommen worden. Sie sollen im Auftrag eines fremden Geheimdienstes Militäranlagen ausspioniert und Überwachungsgeräte installiert haben. Polen sieht sich als Opfer hybrider Kriegsführung.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Trumponomics\" in der Kritik: Wie kreditwürdig sind die USA?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-verschuldung-scope-100.html",
+      "published": "2025-10-27T15:50:31",
+      "content": "   Eine führende europäische Ratingagentur hat die Bonitätsnote der USA gesenkt. Nicht nur die stetig steigende Verschuldung beunruhigt die Experten. Von Detlev Landmesser.[mehr]",
+      "content_length": 178,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lithuanian PM says Belarus balloon incidents ‘call for united, resolute response,’ as it closes border with Russia’s ally – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/27/lithuania-airport-russia-belarus-viktor-orban-pope-leo-europe-live-news-updates",
+      "published": "2025-10-27T15:43:04",
+      "content": "Inga Ruginienė says ‘no hybrid attack will be tolerated’ and pledges to shoot down balloons after 66 objects spotted by radar overnightMeanwhile over in the Czech Republic, the country’s president Petr Pavel has tasked the populist billionaire Andrej Babiš with leading talks on forming the new government after recent parliamentary election.Babiš told the president – who defeated him in the 2023 presidential elections – that the coalition talks were already under way, and “promised to hand over the text of the coalition agreement and programme priorities” later this week, according to a readout issued by the presidential office. Continue reading...",
+      "content_length": 655,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Italian ski pass price rises mean sport may become only for wealthy, watchdog warns",
+      "link": "https://www.theguardian.com/world/2025/oct/27/italian-watchdog-blasts-completely-unjustified-rise-in-cost-of-ski-passes",
+      "published": "2025-10-27T15:42:01",
+      "content": "Price increases of as much as 40% will make sport exclusive privilege of the wealthy, says Assoutenti “Completely unjustified” prices rises for ski passes in Italy this winter mean the sport is at risk of becoming the exclusive privilege of the wealthy, the president of an Italian consumers’ association has warned.From the Alps and the Dolomites in the north to the slopes of the central Italian region of Abruzzo, prices are poised to rise by as much as 40% compared with 2021, according to a report compiled by the watchdog, Assoutenti. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Melissa set to be the strongest hurricane to ever strike Jamaica",
+      "link": "https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/",
+      "published": "2025-10-27T15:05:07",
+      "content": "Hurricane Melissa will make landfall in southern Jamaica less than 24 hours from now, and it is likely to be the most catastrophic storm in the Caribbean island’s history.\nAs it crawled across the northern Caribbean Sea on Monday morning, Melissa officially became a Category 5 hurricane with 160 mph winds, according to the National Hurricane Center.\nThe hurricane will likely fluctuate in intensity over the next day or so, perhaps undergoing an eyewall replacement cycle. But the background conditions, including very warm Caribbean waters and low wind shear, will support a very powerful hurricane and the potential for further strengthening.Read full article\nComments",
+      "content_length": 672,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Two crucial Florida coral species left ‘functionally extinct’ by ocean heatwave",
+      "link": "https://www.theguardian.com/environment/2025/oct/27/coral-florida-functionally-extinct-climate-crisis",
+      "published": "2025-10-27T14:52:53",
+      "content": "Climate crisis drives near-total collapse of staghorn and elkhorn corals that formed backbone to state’s reefsTwo of the most important coral species that made up Florida’s reef are now functionally extinct after a withering ocean heatwave caused catastrophic losses, scientists have found.The near-total collapse of the corals that once formed the backbone of reefs in Florida and the Caribbean means they can no longer play their previously crucial role in building and sustaining reef ecosystems that host a variety of marine life. Continue reading...",
+      "content_length": 554,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "World’s oldest serving head of state declared winner in Cameroon election",
+      "link": "https://www.theguardian.com/world/2025/oct/27/cameroon-paul-biya-oldest-serving-head-of-state-declared-winner-in-election",
+      "published": "2025-10-27T14:47:44",
+      "content": "Paul Biya, 92, said to have won 53.66% of vote after volatile two weeks since election when opponent claimed victoryPaul Biya, the world’s oldest serving head of state, has been declared the winner of Cameroon’s election, granting him an eighth term that could keep him in office until he is nearly 100.The country’s constitutional council said Biya had won 53.66% of the vote, while his former ally turned challenger, Issa Tchiroma Bakary, got 35.19%. Continue reading...",
+      "content_length": 472,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Republican Indiana governor calls special session to redraw congressional maps",
+      "link": "https://www.theguardian.com/us-news/2025/oct/27/indiana-congressional-maps-redisctricting-governor",
+      "published": "2025-10-27T14:44:30",
+      "content": "GOP-led state is latest that Trump administration has put pressure on to undertake redistricting to favor RepublicansThe Indiana governor, Mike Braun, announced on Monday that he is calling a special session to consider redrawing congressional districts in the state, the latest state to work on its maps ahead of 2026.Indiana is one of several Republican-led states the Trump administration has pressured to undertake mid-decade redistricting to favor Republicans, which began with a push in Texas to redraw lines to add Republican seats. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Grave fears for civilians after Sudanese paramilitary claims capture of El Fasher",
+      "link": "https://www.theguardian.com/world/2025/oct/27/fears-civilians-sudan-paramilitary-rsf-capture-el-fasher",
+      "published": "2025-10-27T14:38:41",
+      "content": "RSF says it has seized control of army’s main base in Darfur, home to famine-stricken displacement campFears are growing for hundreds of thousands of civilians trapped in El Fasher, Sudan, after the paramilitary Rapid Support Forces said it had captured the city, which it has been besieging for more than a year in the country’s civil war.The group said on Sunday that it had seized control of the army’s main base in the city in Darfur, where famine was declared in a displacement camp last year. It then released a statement saying it had “extended control over the city of El Fasher from the grip of mercenaries and militias”. Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Litauen will nach Ballonflügen Grenze zum Nachbarn Belarus schließen",
+      "link": "https://www.tagesschau.de/ausland/europa/litauen-grenze-belarus-100.html",
+      "published": "2025-10-27T14:29:26",
+      "content": "   Wiederholt haben Wetterballons mit Schmuggelware aus Belarus den Flugverkehr in Litauen lahmgelegt. Jetzt will die Regierung in Vilnius die Grenze zum Nachbarn vorerst schließen - und notfalls NATO-Artikel 4 aktivieren.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hurrikan \"Melissa\" erreicht höchste Kategorie 5",
+      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-melissa-102.html",
+      "published": "2025-10-27T14:24:35",
+      "content": "   Als gefährlicher Hurrikan der höchsten Stufe 5 bewegt sich der Wirbelsturm \"Melissa\" auf Jamaika zu. Der Sturm könnte weiter an Stärke gewinnen und weiter nach Kuba ziehen. Es werden massive Zerstörungen befürchtet.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Studie: KI-Chatbots lügen bei 40 Prozent der Antworten",
+      "link": "https://www.tagesschau.de/wissen/technologie/kuenstliche-intelligenz-fakten-100.html",
+      "published": "2025-10-27T13:46:10",
+      "content": "   Eine neue Studie der Europäischen Rundfunkunion zeigt alarmierende Fehlerquoten bei populären KI-Chatbots. Die Systeme erfinden regelmäßig Informationen und geben sogar falsche Quellen an. Von Jörg Schieb.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "New image-generating AIs are being used for fake expense reports",
+      "link": "https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/",
+      "published": "2025-10-27T13:44:02",
+      "content": "Businesses are increasingly being deceived by employees using artificial intelligence for an age-old scam: faking expense receipts.\nThe launch of new image-generation models by top AI groups such as OpenAI and Google in recent months has sparked an influx of AI-generated receipts submitted internally within companies, according to leading expense software platforms.\nSoftware provider AppZen said fake AI receipts accounted for about 14 percent of fraudulent documents submitted in September, compared with none last year. Fintech group Ramp said its new software flagged more than $1 million in fraudulent invoices within 90 days.Read full article\nComments",
+      "content_length": 659,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wahlbehörde: Ältester Präsident der Welt im Amt bestätigt",
+      "link": "https://www.tagesschau.de/ausland/afrika/kamerun-wahlen-biya-100.html",
+      "published": "2025-10-27T12:58:58",
+      "content": "   Er ist mit 92 Jahren der älteste amtierende Staatschef der Welt, nun ist Paul Biya laut Wahlbehörde in seinem Amt als Präsident von Kamerun bestätigt worden. Die Opposition sieht sich als Sieger. [mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Firefox: Neue Erweiterungen müssen Datenerhebung offenlegen",
+      "link": "https://www.heise.de/news/Firefox-Neue-Erweiterungen-muessen-Datenerhebung-offenlegen-10909157.html",
+      "published": "2025-10-27T12:51:00",
+      "content": "Ab November müssen neue Firefox-Erweiterungen im Manifest angeben, welche Nutzerdaten sie erheben. Und bald gilt die Regelung auch für bestehende Extensions.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fünf Jahre nach BER-Eröffnung: Hauptstadtflughafen macht weiter Verlust",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ber-berliner-flughafen-passagierzahlen-schulden-verlust-100.html",
+      "published": "2025-10-27T12:48:45",
+      "content": "   Im Herbst 2020 wurde der Flughafen Berlin Brandenburg (BER) eröffnet - mit neun Jahren Verspätung und dreimal teurer als geplant. Weiter ist er in den roten Zahlen, auch die Passagierzahlen liegen unter den Erwartungen.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lithuania says it will shoot down smuggling balloons from Russia’s ally Belarus",
+      "link": "https://www.theguardian.com/world/2025/oct/27/lithuania-authorises-shooting-down-of-smuggling-balloons-from-belarus",
+      "published": "2025-10-27T12:38:58",
+      "content": "PM blames Alexander Lukashenko for not stopping ‘hybrid attacks’, which closed Vilnius airport four times last weekEurope live – latest updatesLithuania’s prime minister has authorised the shooting down of smuggling balloons that cross the border from Russia’s ally Belarus, calling them “hybrid attacks” in an echo of the term used to describe Moscow’s destabilisation efforts.Incursions by balloons carrying contraband cigarettes prompted the Nato and EU member state to close Vilnius airport four times last week and shut its border crossings with Belarus temporarily. Continue reading...",
+      "content_length": 591,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Vor welchen Herausforderungen der Verfassungsschutz steht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundesamt-verfassungsschutz-110.html",
+      "published": "2025-10-27T12:16:24",
+      "content": "   Das Bundesamt für Verfassungsschutz feiert heute den 75. Jahrestag seiner Gründung. Wie ist es organisiert, welche Befugnisse hat es und vor welchen Herausforderungen steht der Verfassungsschutz aktuell? Ein Überblick. Von Holger Schmidt.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Agrarminister Rainer gegen \"Veggie-Burger\"-Verbot in der EU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rainer-veggie-namen-eu-100.html",
+      "published": "2025-10-27T12:13:25",
+      "content": "   In der EU könnten Begriffe wie \"Veggie-Schnitzel\" bald verboten werden. Bundesagrarminister Rainer will sich dagegen einsetzen: Er hält die Debatte für \"unnötig\" - und sieht vor allem negative Folgen bei einem Verbot. [mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lebenszufriedenheit der Deutschen: Stimmung nach Corona hellt sich auf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gluecksatlas-2025-100.html",
+      "published": "2025-10-27T11:51:21",
+      "content": "   Hochzufrieden, aber auch oft wütend: Der neue \"Glücksatlas\" zeigt widersprüchliche Emotionen in der Bevölkerung. Die Pandemie scheint abgehakt, doch Geldsorgen spielen eine wachsende Rolle. Dafür schrumpft die \"Glückslücke\" zwischen Ost und West.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gericht in Italien billigt Auslieferung von Verdächtigen des Nord-Stream-Anschlags",
+      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-anschlag-auslieferung-saboteur-100.html",
+      "published": "2025-10-27T11:31:44",
+      "content": "   Ein Gericht in Bologna hat die Auslieferung eines Ukrainers nach Deutschland gebilligt. Er wird verdächtigt, die Anschläge auf die Nord-Stream-Pipelines geleitet zu haben. Sein Anwalt will aber weiterkämpfen.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Was bedeutet die Ausbreitung der Vogelgrippe für die Verbraucher?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tiere-gefluegelpest-verbraucher-100.html",
+      "published": "2025-10-27T11:11:51",
+      "content": "   Die Ausbreitung der Vogelgrippe hat in Deutschland ihren Höhepunkt noch nicht erreicht. Hunderttausende Tiere wurden bereits getötet. Ein Branchenexperte hält Preiserhöhungen etwa für Eier und Fleisch nicht mehr für ausgeschlossen.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rust Coreutils 0.3.0: Bis zu 3,7-mal schneller als GNU-Tools",
+      "link": "https://www.heise.de/news/Rust-Coreutils-0-3-0-Bis-zu-3-7-mal-schneller-als-GNU-Tools-10903184.html",
+      "published": "2025-10-27T11:02:00",
+      "content": "Die Rust-Reimplementierung klassischer Unix-Tools erreicht in Version 0.3.0 deutliche Performance-Steigerungen und verbesserte Sicherheit.",
+      "content_length": 138,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "10M people watched a YouTuber shim a lock; the lock company sued him. Bad idea.",
+      "link": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
+      "published": "2025-10-27T11:00:28",
+      "content": "“Opening locks” might not sound like scintillating social media content, but Trevor McNally has turned lock-busting into online gold. A former US Marine Staff Sergeant, McNally today has more than 7 million followers and has amassed more than 2 billion views just by showing how easy it is to open many common locks by slapping, picking, or shimming them.\nThis does not always endear him to the companies that make the locks.\nOn March 3, 2025, a Florida lock company called Proven Industries released a social media promo video just begging for the McNally treatment. The video was called, somewhat improbably, “YOU GUYS KEEP SAYING YOU CAN EASILY BREAK OFF OUR LATCH PIN LOCK.” In it, an enthusiastic man in a ball cap says he will “prove a lot of you haters wrong.” He then goes hard at Proven’s $130 model 651 trailer hitch lock with a sledgehammer, bolt cutters, and a crowbar.Read full article\nComments",
+      "content_length": 907,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "ifo-Geschäftsklima: Mehr Optimismus in der Wirtschaft",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-konjunktur-wirtschaft-belebung-100.html",
+      "published": "2025-10-27T10:30:19",
+      "content": "   Es herrscht wieder bessere Stimmung in den Chefetagen. Der ifo-Index zum Geschäftsklima ist überraschend kräftig gestiegen. Grund ist die Hoffnung auf eine Konjunkturbelebung in den kommenden Monaten. Trotzdem bleiben Ökonomen skeptisch.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Elfenbeinküste: Präsident Ouattaras Wahlsieg wohl ungefährdet",
+      "link": "https://www.tagesschau.de/ausland/afrika/elfenbeinkueste-wahl-praesident-100.html",
+      "published": "2025-10-27T09:25:36",
+      "content": "   Dem Präsidenten der Elfenbeinküste steht wahrscheinlich eine vierte Amtszeit bevor: Der erste der handverlesenen Konkurrenten gratulierte Präsident Ouattara bereits. Das offizielle Ergebnis wird in einigen Tagen erwartet.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die Produktwerker: Entscheidungen vertreten, die man selbst kritisch sieht",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Entscheidungen-vertreten-die-man-selbst-kritisch-sieht-10900326.html",
+      "published": "2025-10-27T09:13:00",
+      "content": "Oft muss man als Product Owner Entscheidungen vertreten, die man selbst nicht gutheißen kann. Wie das dennoch gut gelingt, klärt diese Podcastfolge.",
+      "content_length": 148,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Electron-Nerv: App zeigt, welche Programme mit macOS Tahoe Probleme machen",
+      "link": "https://www.heise.de/news/Electron-Nerv-App-zeigt-welche-Programme-mit-macOS-Tahoe-Probleme-machen-10865895.html",
+      "published": "2025-10-27T09:08:00",
+      "content": "Slack, Discord und viele andere Cross-Platform-Apps nutzen das Electron-Framework. Das Problem: Ein Bug macht sie zu macOS 26 inkompatibel. Ein Prüftool hilft.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple trifft auf Android: Programmiersprache Swift bekommt ein Android-SDK",
+      "link": "https://www.heise.de/news/Apple-trifft-auf-Android-Programmiersprache-Swift-bekommt-ein-Android-SDK-10900308.html",
+      "published": "2025-10-27T08:35:00",
+      "content": "Das erste Preview-Release des Swift SDK for Android markiert neues Terrain in der Cross-Plattform-Entwicklung mit Apples Programmiersprache.",
+      "content_length": 140,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Debatte nach Merz-Äußerung: SPD-Abgeordnete fordern \"Stadtbild\"-Gipfel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/stadtbild-merz-spd-gipfel-100.html",
+      "published": "2025-10-27T08:18:47",
+      "content": "   Die \"Stadtbild\"-Äußerung von Bundeskanzler Merz hat viel Kritik ausgelöst - aber auch Zuspruch geerntet. Auf jeden Fall hat sie eine Debatte angestoßen. Abgeordnete der SPD fordern jetzt einen Gipfel im Kanzleramt zum Thema. Von Georg Schwarte.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Streik in der Verteidigungssparte von Boeing geht in die 13. Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-streik-flugzeugbauer-tarifverhandlungen-100.html",
+      "published": "2025-10-27T07:58:47",
+      "content": "   Schon fast drei Monate streiken Tausende Beschäftigte der Verteidigungssparte von Boeing. Nun haben Mitarbeiter auch den neuen Tarifvorschlag des US-Flugzeugherstellers abgelehnt. Das hat Folgen für die Streitkräfte.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
