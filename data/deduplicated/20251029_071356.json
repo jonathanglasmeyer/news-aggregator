@@ -1,0 +1,1445 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-29T07:13:56.147271",
+    "deduplicated_at": "2025-10-29 07:13:56",
+    "lookback_days": 7,
+    "total_input": 700,
+    "duplicates_removed": 541,
+    "new_articles": 159,
+    "deduplication_rate": "77.3%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "GitHub: \"Generative KI ist jetzt der Standard\"",
+      "link": "https://www.heise.de/news/GitHub-Generative-KI-ist-jetzt-der-Standard-10251100.html",
+      "published": "2025-10-29T07:10:00",
+      "content": "GitHub veröffentlicht im Octoverse-Report aktuelle Zahlen zu seiner Entwicklerplattform. Die wächst – auch dank KI-Unterstützung beim Programmieren.",
+      "content_length": 148,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Russland meldet erneut ukrainische Drohnenangriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnen-104.html",
+      "published": "2025-10-29T07:09:59",
+      "content": "   Die Ukraine hat Russland offenbar mit zahlreiche Drohnen angegriffen. Nach Angaben aus Moskau wurden etwa 100 Drohnen abgewehrt - auch wieder nahe der Hauptstadt. Auf der annektierten Krim geriet ein Treibstofflager in Brand.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mindestlohn: Kabinett will deutliche Erhöhung auf den Weg bringen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/mindestlohn-steigerung-100.html",
+      "published": "2025-10-29T07:07:53",
+      "content": "   Die Bundesregierung will heute die Erhöhung des Mindestlohns auf den Weg bringen - die deutlichste seit seiner Einführung. Basis ist der Vorschlag einer unabhängigen Komission mit einem Plus in zwei Stufen. Von B. Sönnichsen.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Naher Osten - Israels Armee fliegt wieder Angriffe auf Gazastreifen - USA sehen Waffenruhe intakt",
+      "link": "https://www.deutschlandfunk.de/israels-armee-fliegt-wieder-angriffe-auf-gazastreifen-usa-sehen-waffenruhe-intakt-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die israelische Armee hat neue Angriffe im Gazastreifen geflogen. Es soll nach Angaben der palästinensischen Behörden mindestens 26 Todesopfer gegeben haben. Zuvor gab es Spannungen wegen der verzögerten Übergabe toter Geiseln.",
+      "content_length": 227,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südkorea - Trump will sich um Beilegung des Konflikts auf der koreanischen Halbinsel bemühen",
+      "link": "https://www.deutschlandfunk.de/trump-will-sich-um-beilegung-des-konflikts-auf-der-koreanischen-halbinsel-bemuehen-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "US-Präsident Trump hat angekündigt, sich um eine Beilegung des Konflikts auf der koreanischen Halbinsel zu bemühen.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Karibik - Jamaika wegen Hurrikan zum Katastrophengebiet erklärt - schwere Schäden und Überschwemmungen",
+      "link": "https://www.deutschlandfunk.de/jamaika-wegen-hurrikan-zum-katastrophengebiet-erklaert-schwere-schaeden-und-ueberschwemmungen-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In Jamaika hat die Regierung wegen der Verwüstungen durch den Hurrikan \"Melissa\" den gesamten Inselstaat zum Katastrophengebiet erklärt. Der jamaikanische Ministerpräsident Holness schrieb auf X, diese Anordnung gebe der Regierung die Handhabe, Hilfs- und Rettungsmaßnahmen zu koordinieren. Laut dem US-Hurrikanzentrum handelt es sich um einen der stärksten Wirbelstürme, die je im Atlantik aufgetreten sind.",
+      "content_length": 408,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Unwetter - Zyklon Montha sorgt für massive Überschwemmung an Indiens Küste - 100.000 Menschen in Sicherheit gebracht",
+      "link": "https://www.deutschlandfunk.de/zyklon-montha-sorgt-fuer-massive-ueberschwemmung-an-indiens-kueste-100-000-menschen-in-sicherheit-ge-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In Indien ist der Zyklon \"Montha\" an der Südostküste auf Land getroffen.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Urteil: US-Regierung darf während \"Shutdown\" keine Mitarbeiter entlassen",
+      "link": "https://www.deutschlandfunk.de/urteil-us-regierung-darf-waehrend-shutdown-keine-mitarbeiter-entlassen-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die US-Regierung darf während der andauernden Haushaltssperre bis auf weiteres keine Regierungsmitarbeiter entlassen.",
+      "content_length": 117,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Istanbul - Gespräche zwischen Afghanistan und Pakistan über Waffenruhe ohne Erfolg",
+      "link": "https://www.deutschlandfunk.de/gespraeche-zwischen-afghanistan-und-pakistan-ueber-waffenruhe-ohne-erfolg-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die Verhandlungen zwischen Afghanistan und Pakistan über einen langfristigen Waffenstillstand sind ohne eine Einigung zu Ende gegangen.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesverband BDF - Deutschen Flughäfen fehlen weiter Millionen an Passagieren",
+      "link": "https://www.deutschlandfunk.de/deutschen-flughaefen-fehlen-weiter-millionen-an-passagieren-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Das Passagieraufkommen an den deutschen Flughäfen liegt weiterhin unter jenem vor der Coronapandemie.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Ukraine greift erneut Ziele in Russland aus der Luft an",
+      "link": "https://www.deutschlandfunk.de/ukraine-greift-erneut-ziele-in-russland-aus-der-luft-an-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die ukrainische Armee hat in der Nacht erneut Ziele in Russland aus der Luft angegriffen.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Den Haag - Vorgezogene Parlamentswahl in den Niederlanden: Partei von Wilders laut Umfragen Favorit",
+      "link": "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-in-den-niederlanden-partei-von-wilders-laut-umfragen-favorit-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In den Niederlanden wird heute ein neues Parlament gewählt. Umfragen sehen die \"Partei für die Freiheit\" (PVV) des Rechtspopulisten Wilders vorne. Allerdings will keine der etablierten Parteien mit ihm zusammenarbeiten.",
+      "content_length": 219,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - \"Pille danach\" in England ab sofort kostenlos erhältlich",
+      "link": "https://www.deutschlandfunk.de/pille-danach-in-england-ab-sofort-kostenlos-erhaeltlich-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In England ist die sogenannte \"Pille danach\" ab sofort kostenlos in Apotheken erhältlich.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesellschaft - Merz lehnt in \"Stadtbild\"-Debatte Reaktion auf offenen Brief prominenter Frauen vorerst ab",
+      "link": "https://www.deutschlandfunk.de/merz-lehnt-in-stadtbild-debatte-reaktion-auf-offenen-brief-prominenter-frauen-vorerst-ab-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In der \"Stadtbild\"-Debatte hat Bundeskanzler Merz eine Reaktion auf den Offenen Brief prominenter Frauen zunächst abgelehnt.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rio de Janeiro - Mehr als 60 Tote bei Polizei-Großeinsatz gegen Verbrechersyndikat",
+      "link": "https://www.deutschlandfunk.de/mehr-als-60-tote-bei-polizei-grosseinsatz-gegen-verbrechersyndikat-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Im brasilianischen Rio de Janeiro sind bei einem Polizeieinsatz gegen ein Verbrechersyndikat mindestens 64 Menschen getötet worden.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Texas verklagt nach Trumps unbelegten Behauptungen über Paracetamol Hersteller",
+      "link": "https://www.deutschlandfunk.de/texas-verklagt-nach-trumps-unbelegten-behauptungen-ueber-paracetamol-hersteller-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Der US-Bundesstaat Texas hat zwei Hersteller des Schmerzmittels Tylenol verklagt.",
+      "content_length": 81,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - Merz: Milliarden-Investition von \"Global Foundries\" in Dresden ist Signal für Deutschland und Europa",
+      "link": "https://www.deutschlandfunk.de/merz-milliarden-investition-von-global-foundries-in-dresden-ist-signal-fuer-deutschland-und-europa-104.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Bundeskanzler Merz hat die Investition des Halbleiter-Herstellers GlobalFoundries von 1,1 Milliarden Euro am Standort Dresden als Signal für Deutschland und Europa bezeichnet.",
+      "content_length": 175,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - Mehrere Rathauschefs warnen Bund und Länder vor Finanz-Kollaps",
+      "link": "https://www.deutschlandfunk.de/mehrere-rathauschefs-warnen-bund-und-laender-vor-finanz-kollaps-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Angesichts der prekären Haushaltslage vieler Kommunen haben mehrere Oberbürgermeister Bund und Länder zur grundlegenden Neuordnung der Finanzen aufgefordert.",
+      "content_length": 157,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vor Trumps Südkorea-Besuch - Nordkorea testet erneut Marschflugkörper",
+      "link": "https://www.deutschlandfunk.de/nordkorea-testet-erneut-marschflugkoerper-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Kurz vor dem Besuch von US-Präsident Trump in Südkorea hat Nordkorea mehrere Marschflugkörper getestet.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Stromerzeugung - US-Regierung will 80 Milliarden Dollar in Atomkraft investieren",
+      "link": "https://www.deutschlandfunk.de/us-regierung-will-80-milliarden-dollar-in-atomkraft-investieren-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die USA wollen den Bau neuer Atomkraftwerke mit 80 Milliarden Dollar unterstützen.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fahrzeugmarkt - Neuzulassungen in der EU erneut gestiegen - vor allem dank E-Autos",
+      "link": "https://www.deutschlandfunk.de/neuzulassungen-in-der-eu-erneut-gestiegen-vor-allem-dank-e-autos-106.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die Zahl der neuzugelassenen Pkw in der Europäischen Union ist im September den dritten Monat infolge gestiegen.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Veränderte Sicherheitslage - Feuerwehr stellt sich auf zunehmende Waffen- und Munitionstransporte in der Öffentlichkeit ein",
+      "link": "https://www.deutschlandfunk.de/feuerwehr-stellt-sich-auf-zunehmende-waffen-und-munitionstransporte-in-der-oeffentlichkeit-ein-106.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die deutschen Feuerwehren stellen sich wieder verstärkt auf Waffen- und Munitionstransporte im öffentlichen Verkehr ein.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "National Express Rail - Zugausfälle einer Regionalbahn in NRW haben politisches Nachspiel",
+      "link": "https://www.deutschlandfunk.de/zugausfaelle-einer-regionalbahn-in-nrw-haben-politisches-nachspiel-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In Nordrhein-Westfalen haben mehrere Zugausfälle einer privaten Regionalbahn ein politisches Nachspiel.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesfachstelle - Männer als Opfer von häuslicher Gewalt - Fälle in Schutzeinrichtungen erneut gestiegen",
+      "link": "https://www.deutschlandfunk.de/maenner-als-opfer-von-haeuslicher-gewalt-faelle-in-schutzeinrichtungen-erneut-gestiegen-104.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die Zahl der von häuslicher Gewalt betroffenen Männer in Schutzeinrichtungen in Deutschland ist erneut gestiegen.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fall erinnert an \"White Tiger\" - Gründer von Online-Sadisten-Netzwerk in den Niederlanden angeklagt",
+      "link": "https://www.deutschlandfunk.de/gruender-von-online-sadisten-netzwerk-in-den-niederlanden-angeklagt-104.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In den Niederlanden steht seit Dienstag der Gründer eines sadistischen Online-Netzwerks vor Gericht.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeswirtschaftsministerium - Deutsche Rosneft-Tochter nicht von US-Sanktionen gegen Russland betroffen",
+      "link": "https://www.deutschlandfunk.de/deutsche-rosneft-tochter-nicht-von-us-sanktionen-gegen-russland-betroffen-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Die in Deutschland unter Treuhandverwaltung stehenden Tochtergesellschaften des Energiekonzerns Rosneft bleibt vorerst von US-Sanktionen gegen Russland ausgenommen. Das hätten die amerikanischen Behörden zugesichert, teilte ein Sprecher von Bundeswirtschaftsministerin Reiche mit.",
+      "content_length": 280,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verteidigung - Bundeswehr stoppt Umwandlung von Liegenschaften in zivile Nutzung - Kritik von Kommunen",
+      "link": "https://www.deutschlandfunk.de/bundeswehr-stoppt-umwandlung-von-liegenschaften-in-zivile-nutzung-kritik-von-kommunen-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Das Verteidigungsministerium setzt die Umwandlung militärisch genutzter Liegenschaften für zivile Zwecke aus. Grund sei der höhere Bedarf an Soldaten. Das hat Folgen für die Kommunen.",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Energy and Climate Intelligence Unit - Anteil erneuerbarer Energien weltweit laut britischer Studie deutlich schneller gestiegen als erwartet",
+      "link": "https://www.deutschlandfunk.de/anteil-erneuerbarer-energien-weltweit-laut-britischer-studie-deutlich-schneller-gestiegen-als-erwart-110.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Der Anteil erneuerbarer Energien an der weltweiten Energieerzeugung ist laut einer britischen Studie schneller gewachsen, als zunächst prognostiziert worden war.",
+      "content_length": 161,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - Studie: Windkraft bescherte Verbrauchern niedrigere Energiekosten von mehr als 100 Milliarden Pfund",
+      "link": "https://www.deutschlandfunk.de/studie-windkraft-bescherte-verbrauchern-niedrigere-energiekosten-von-mehr-als-100-milliarden-pfund-104.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In Großbritannien haben Verbraucher in den vergangenen Jahren mindestens 104 Milliarden Pfund an Energiekosten infolge des verstärkten Einsatzes von Windkraft gespart.",
+      "content_length": 167,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Nations-League - Deutsche Frauen mit Unentschieden in Frankreich im Endspiel gegen Spanien",
+      "link": "https://www.deutschlandfunk.de/deutsche-frauen-mit-unentschieden-in-frankreich-im-endspiel-gegen-spanien-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "In der Fußball-Nations-League hat die deutsche Nationalmannschaft der Frauen das Finale erreicht.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "DFB-Pokal - Dortmund gewinnt Spitzenspiel in Frankfurt im Elfmeterschießen",
+      "link": "https://www.deutschlandfunk.de/dortmund-gewinnt-spitzenspiel-in-frankfurt-im-elfmeterschiessen-100.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Im Fußball-DFB-Pokal gab es folgende Ergebnisse:",
+      "content_length": 48,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Überwiegend trocken, von Westen her Wolkenverdichtung",
+      "link": "https://www.deutschlandfunk.de/ueberwiegend-trocken-von-westen-her-wolkenverdichtung-102.html",
+      "published": "2025-10-29T06:59:01",
+      "content": "Der Wetterbericht, die Lage: Mit einer lebhaften westlichen Strömung sorgen Tiefausläufer zunächst weiter für unbeständiges Wetter. Es wird deutlich milder.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wednesday briefing: ‘Catastrophic’ reports as Jamaica reels from worst storm since records began",
+      "link": "https://www.theguardian.com/world/2025/oct/29/wednesday-briefing-catastrophic-reports-as-jamaica-reels-from-worst-storm-since-records-began",
+      "published": "2025-10-29T06:57:03",
+      "content": "In today’s newsletter: Meteorologists have called it ‘a dire situation unfolding in slow motion’ – what will it leave behind?Good morning. Hurricane Melissa, the strongest storm to hit Jamaica since records began in 1851, made landfall at about midday local time on Tuesday. With winds reaching 185mph and torrential rains, it knocked out power lines, cut off the internet, and demolished buildings; the death toll and extent of the damage are still unknown.The storm has already hit Haiti and the Dominican Republic; though it was at one stage downgraded to a tropical storm, now it has strengthened again and is expected to arrive imminently in Cuba, where more than 700,000 people have been evacuated. “The reports that are coming in are catastrophic,” Jamaican energy and transport minister Daryl Vaz told Sky News. “Not very much survives a Category 5 hurricane, in terms of infrastructure.”Economy | Rachel Reeves has said Britain can defy gloomy economic forecasts after the fiscal watchdog infuriated ministers by predicting a productivity downgrade would leave her with a £20bn gap to fill in her forthcoming budget.Sudan | Ethnically motivated mass killings and other atrocities are being reported from El Fasher after the paramilitary Rapid Support Forces took control of the city in Sudan’s western Darfur region over the weekend.UK news | Downing Street has defended the prospect of paying more to house asylum seekers in disused barracks instead of hotels, arguing that quelling public disquiet was worth the extra cost. No 10 said that “communities don’t want asylum seekers housed in hotels, and neither does the government”.Middle East | Israeli warplanes struck Gaza on Tuesday night, shortly after Israel’s prime minister, Benjamin Netanyahu, ordered the military to carry out “powerful strikes” in Gaza, in the most serious test of the increasingly shaky US-brokered ceasefire.Television | Prunella Scales, the actor best known for playing Sybil Fawlty in the classic comedy series Fawlty Towers, has died aged 93. Scales, who was married to fellow actor Timothy West, was diagnosed with Alzheimer’s disease in 2013. Continue reading...",
+      "content_length": 2156,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine - Wenn die Stromtabelle den Tag bestimmt",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-stomausfaelle-tschernihiw-100.html",
+      "published": "2025-10-29T06:54:17",
+      "content": "   Ob sie am kommenden Tag Strom haben werden, erfahren die Einwohner von Tschernihiw aus Stromtabellen. Russlands Angriffe zwingen die ukrainische Stadt, immer wieder den Strom für Reparaturen abzustellen. Wie lebt es sich damit? Von F. Kellermann.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australia news live: Sussan Ley had ‘a really strong point to make’ on Joy Division T-shirt, Melissa McIntosh says",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/29/federal-politics-parliament-victoria-queensland-bom-labor-coalition-anthony-albanese-sussan-ley-abs-inflation-apec-summit-afp-press-club-ntwnfb",
+      "published": "2025-10-29T06:52:00",
+      "content": "Follow updates liveInflation jumps to 3.2%, dashing hopes of a Melbourne Cup day rate cut for homeownersGet our breaking news email, free app or daily news podcastThe Coalition is still in the middle of a fight over the future of its energy policy, with big fractures between members over whether the 2050 net zero target should be kept.The party is working towards something of a compromise, but there are a few moderates who don’t want that target to change – including shadow housing minister Andrew Bragg.Look, I think we’ll get there on net zero. I know there’s a lot of interest in it. I think ultimately there’s an ability there for the Coalition to do this much better than Labor. Labor’s net zero [policy] has been a disaster …I think we could do net zero better than Labor in terms of emissions and cost and environmental protection, but you’ve got to keep net zero.I know that you probably find it all very interesting to talk about, but we do have a culture of openness in the Liberal party and the National party, and we seem to talk about a lot of things. I mean, frankly, I wonder what the nation will talk about if the Liberal party died, because I think we’d sort of run out of things to discuss.Communities around the country are trying to focus and talk about the issues that matter to them, not try to make some fake news thing out of a T-shirt the prime minister gets wearing off a plane. It’s ridiculous.Look, there’s a lot to legitimately criticise the prime minister about trillion dollar debt, skyrocketing house prices and job losses in our heavy industrial sector wearing a T-shirt is not one of them … So yeah, get on with acting on antisemitism. Continue reading...",
+      "content_length": 1694,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hurricane Melissa live updates: category 3 storm nears Cuba; ‘extensive’ damage in parts of Jamaica",
+      "link": "https://www.theguardian.com/world/live/2025/oct/29/hurricane-melissa-live-updates-strengthens-cuba-extensive-damage-parts-of-jamaica",
+      "published": "2025-10-29T06:44:05",
+      "content": "Reports of families trapped by floodwaters in Jamaica, as hurricane moves on to threaten Cuba’s second-largest cityHurricane Melissa makes landfall in JamaicaVisual guide to Hurricane MelissaTell us if you’ve been affectedAs Cuba prepares for the storm to make landfall any minute, officials in Jamaica are preparing to assess the damage on Wednesday.A video shared by the Jamaican Constabulary Force shows officers surveying extensive destruction in Black River, close to where Hurricane Melissa made landfall on Tuesday as a Category 5 storm. Continue reading...",
+      "content_length": 564,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Israeli strikes on Gaza kill at least 60, including dozens of children",
+      "link": "https://www.france24.com/en/middle-east/20251029-live-at-least-60-dead-including-dozens-of-children-in-israeli-strikes-on-gaza",
+      "published": "2025-10-29T06:36:32",
+      "content": "At least 60 people, of which more than half are children, have been killed in fresh Israeli strikes on Gaza, local hospital officials said Wednesday. Despite the many dead, US President Donald Trump said “nothing’s going to jeapordise” the truce between Israel and Hamas, saying the deadly strikes were launched after the killing of an Israeli soldier “so the Israelis hit back. And they should hit back.” Follow our liveblog for all the latest developments.",
+      "content_length": 458,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: DAX im Bann von Fed und Berichtssaison",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-ki-boom-nvidia-mercedes-deutsche-bank-gold-oel-100.html",
+      "published": "2025-10-29T06:36:11",
+      "content": "   Der deutsche Leitindex dürfte verhalten in den Handel zur Wochenmitte starten. Anleger schauen auf die Bilanzen zahlreicher großer DAX-Konzerne und den Zinsentscheid der US-Notenbank Fed am Abend.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Voting opens in Netherlands as polls suggest second Gert Wilders win",
+      "link": "https://www.theguardian.com/world/2025/oct/29/voting-opens-in-netherlands-as-polls-suggest-second-gert-wilders-win",
+      "published": "2025-10-29T06:30:34",
+      "content": "Major parties rule out coalition with rightwinger, giving his party little chance of being part of governmentVoting is under way in parliamentary elections in the Netherlands that polls suggest could again be won by the anti-immigration firebrand Geert Wilders’s Freedom party (PVV), although there is little chance of it being part of the next government.The PVV, which finished a shock first in the previous election and formed a four-party all-conservative coalition that lasted barely a year before collapsing, is marginally ahead in the polls and forecast to return between 24 and 28 MPs to the 150-seat parliament. Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "France are out of Nations League as they draw against Germany",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251029-france-are-out-of-nations-league-as-they-draw-against-germany",
+      "published": "2025-10-29T06:24:20",
+      "content": "France drew (2-2) against Germany in semi-final return leg and are out of Nations League. Germany will face Spain in the final.",
+      "content_length": 127,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hadush Kebatu, Epping sex offender, deported to Ethiopia, Home Office confirms",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/29/hadush-kebatu-epping-sex-offender-deported-to-ethiopia",
+      "published": "2025-10-29T06:22:48",
+      "content": "The Home Office said Kebatu, who was wrongly freed from prison on Friday, was put on a flight to Ethiopia on Tuesday night and arrived on Wednesday Hadush Kebatu has arrived in Ethiopia after being deported from the UK with no right to return, the Home Office has confirmed.The Ethiopian national was wrongly freed from HMP Chelmsford on Friday morning instead of being sent to an immigration detention centre. Continue reading...",
+      "content_length": 430,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump lands in South Korea amid deadlocked trade talks over $350bn deal on tariffs",
+      "link": "https://www.theguardian.com/world/2025/oct/29/trump-heads-to-south-korea-amid-deadlocked-trade-talks-over-350bn-deal-on-tariffs",
+      "published": "2025-10-29T06:06:45",
+      "content": "US president to be presented with replica royal gold crown before meeting his South Korean counterpart, Lee Jae Myung, but expectations of a breakthrough on tariffs are lowDonald Trump landed in South Korea on Wednesday to meet President Lee Jae Myung, with deadlocked talks over a $350bn trade deal between the two countries threatening to cast a shadow over the event.After arriving on a flight from Tokyo, where he signed a rare earths deal with Japan’s new prime minister, Sanae Takaichi, the US president addressed a summit of CEOs ahead of a meeting with Lee in the town of Gyeongju, a historical city playing host to the annual Apec summit. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Hurrikan \"Melissa\": Jamaika zum Katastrophengebiet erklärt",
+      "link": "https://www.tagesschau.de/ausland/amerika/jamaika-kuba-bahamas-hurrikan-100.html",
+      "published": "2025-10-29T06:04:09",
+      "content": "   Als ein Hurrikan historischen Ausmaßes traf \"Melissa\" in Jamaika auf Land. Noch ist unklar wie massiv die Schäden ausfallen. Die Regierung hat die Insel zum Katastrophengebiet erklärt. Die UN planen Hilfstransporte.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Storm in a teacup or dark clouds: why do people hate the BoM website redesign?",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/29/why-people-hate-bom-website-redesign",
+      "published": "2025-10-29T05:56:00",
+      "content": "The Bureau of Meteorology is on the back foot after its new website launched to a flurry of online – and political – angerFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Bureau of Meteorology has been ordered to make changes to its new website after facing criticism from farmers and politicians over missing or hard-to-find features on the new-look site.Is it a ticking timebomb or all a storm in a teacup? Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Victorian Labor forced to rely on One Nation and others to pass voluntary assisted dying bill after factional split",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/29/victorian-labor-forced-to-rely-on-one-nation-and-others-to-pass-voluntary-assisted-dying-bill-after-factional-split",
+      "published": "2025-10-29T05:34:36",
+      "content": "Exclusive: Reforms expected to pass parliament with support of motley crew of MPs after Labor’s SDA sub-faction attempts to curtail themFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Victorian government will be forced to rely on a motley crew of MPs including One Nation and the Liberals to pass its voluntary assisted dying laws after a group of Labor MPs railed against the legislation.The development comes as the lower house on Wednesday continued to debate amendments to the state’s laws that would allow doctors to initiate conversations about voluntary assisted dying and expand the eligibility timeframe for all terminal illnesses to 12 months, with MPs from both Labor and the Coalition granted a conscience vote. Continue reading...",
+      "content_length": 813,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica and heads for Cuba",
+      "link": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
+      "published": "2025-10-29T05:27:19",
+      "content": "Minister says parish of St Elizabeth is ‘under water’ and that families are trapped in their homes in the community of Black River in western JamaicaHurricane Melissa – latest updatesA visual guide to Jamaica’s strongest storm since 1851Tell us if you’ve been affectedHurricane Melissa is heading for Cuba after it made landfall as a category 5 storm in Jamaica, battering the country with ferocious winds, heavy flood waters and landslides as one of the strongest Atlantic hurricanes in history.Cuba’s president warned the country was in for a “very difficult night” as the category 4 storm headed for the island’s second-largest city, Santiago de Cuba. Continue reading...",
+      "content_length": 674,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Strafen die Wähler in den Niederlanden die Wilders-Koalition ab?",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-neuwahl-100.html",
+      "published": "2025-10-29T05:25:20",
+      "content": "   Im Streit über die Asylpolitik verließ Rechtspopulist Wilders mit seiner Partei im Sommer die niederländische Regierung. Nun wird ein neues Parlament gewählt. Bekommen die Koalitionsparteien einen Denkzettel? Von L. Kazmierczak.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Director of Bataclan terror attack drama rejects accusations of ‘indecency’",
+      "link": "https://www.theguardian.com/world/2025/oct/29/paris-bataclan-terror-attack-drama-director-rejects-accusations-of-indecency",
+      "published": "2025-10-29T05:00:33",
+      "content": "Jean-Xavier de Lestrade defends decision to film mini-series inside Paris theatre where 130 people died in 2016The Oscar-winning director of a TV mini-series about survivors of the 2015 terrorist attack at the Bataclan in Paris has rejected accusations his decision to film inside the theatre was “indecent”.Jean-Xavier de Lestrade said the hostages on whose story the eight-part docudrama was based wanted their terrifying ordeal recreated inside the building and to film it elsewhere would have been “trickery”. Continue reading...",
+      "content_length": 533,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Boris Johnson approved China’s London super-embassy proposal in 2018",
+      "link": "https://www.theguardian.com/politics/2025/oct/29/boris-johnson-approved-chinas-super-embassy-proposal-in-2018",
+      "published": "2025-10-29T05:00:33",
+      "content": "Exclusive: Former PM gave consent while foreign secretary for Royal Mint Court complex, a project still in limbo seven years laterBoris Johnson approved the China’s super-embassy proposal in 2018 and welcomed the fact it would represent “China’s largest overseas diplomatic investment” anywhere in the world, the Guardian can disclose.In a letter to Wang Yi, China’s top diplomat, Johnson gave his consent for Royal Mint Court to house a sprawling diplomatic complex in May 2018. The Chinese government bought the 20,000 sq metres site for £255m that same month. Continue reading...",
+      "content_length": 582,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump and Xi talks could end months of global economic chaos",
+      "link": "https://www.theguardian.com/us-news/2025/oct/29/trump-xi-talks-rare-earths-tariffs-us-china",
+      "published": "2025-10-29T05:00:32",
+      "content": "High on agenda for the leaders of the US and China will be rare earths and tariffs, with a chance of a relationship resetAhead of Thursday’s long-awaited first meeting between Donald Trump and Xi Jinping since the US president’s return to office, officials from both sides have been hammering out the contours of what a trade deal between Washington and Beijing might look like, an agreement that could bring an end to months of global economic chaos caused by the US-China trade war.The two leaders have not met in person since 2019. Since then, the war in Ukraine and increasing concern in Washington about China’s technological advances, as well as longstanding issues about the imbalanced US-China trade relationship, have strained the bonds between the two superpowers. Continue reading...",
+      "content_length": 794,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "USA sehen trotz neuer Angriffe keine Gefährdung der Gaza-Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-waffenruhe-104.html",
+      "published": "2025-10-29T04:49:06",
+      "content": "   Erneut fliegt Israels Militär Luftangriffe auf Ziele im Gazastreifen - mindestens 30 Menschen wurden lokalen Behörden zufolge getötet. US-Präsident Trump und Vizepräsident Vance betonen dennoch: Die Waffenruhe sei nicht gefährdet. [mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Allegations of violence, abuse and neglect in Victorian childcares jumped in 2024-25",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/29/allegations-violence-abuse-neglect-victoria-childcare-rise-ntwnfb",
+      "published": "2025-10-29T04:17:24",
+      "content": "Children’s commission report reveals mandatory reporting in sector up 32% while total across all sectors increased by 18% compared with 2023-2024 Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastReports of physical violence and neglect in Victorian childcare centres have surged, with mandatory reports up 32% in the last financial year.The Victorian Commission for Children and Young People’s annual report, tabled in state parliament on Wednesday, reveals that there were 705 notifications of reportable allegations in the childcare sector in the 2024-25 financial year, each of which can include multiple alleged acts, an increase of 32% on the previous year’s 534. Continue reading...",
+      "content_length": 752,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "All operational US liquefied natural gas terminals have violated pollution limits, says report",
+      "link": "https://www.theguardian.com/us-news/2025/oct/29/liquefied-natural-gas-terminal-pollution-limits",
+      "published": "2025-10-29T04:05:31",
+      "content": "Analysis of public records comes as Trump administration aims to fast-track approval of new LNG export terminalsEvery fully operational liquefied natural gas (LNG) terminal in the US has violated federal pollution limits in recent years, a new report has found.The analysis of public records comes as the Trump administration is aiming to fast-track the approval of new export terminals in an attempt to sell more domestic LNG to Europe and Asia. Joe Biden had previously placed a pause on LNG exports, which Donald Trump lifted on the first day of his return to office. Continue reading...",
+      "content_length": 590,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Urteil: US-Regierung darf Personal im Zuge des Shutdowns nicht entlassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-shutdown-entlassungen-urteil-100.html",
+      "published": "2025-10-29T04:05:04",
+      "content": "   Die Trump-Regierung darf auch weiterhin keine Stellen im öffentlichen Dienst streichen. Eine entsprechende Anordnung wurde von der zuständigen US-Richterin bis zum Hauptverfahren verlängert. Sie spricht von \"illegalen Entlassungen\".[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Withings’ urine scanning health tracker is now available for $350",
+      "link": "https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci",
+      "published": "2025-10-29T04:01:00",
+      "content": "\n\n\n\t\n\tThe U-Scan can be left installed in your toilet for up to three months between charges. | Image: Withings\t\n\nWithings first announced its U-Scan, a non-invasive device you install in your toilet to track various health metrics, at CES 2023 two years ago. Unlike Kohler’s Dekoda, which uses a camera to analyze your poop, the U-Scan detects and samples your urine, tests it using replaceable cartridges, and sends the results to the Withings app, where you’ll get tips on how to improve your health if needed.\n\nThe device is finally launching in the US and Europe today with two different cartridges. The U-Scan Nutrio monitors nutrition by measuring four urinary biomarkers — including hydration, ketones, and vitamin C — while the U-Scan Calci tracks parameters such as calcium levels to monitor kidney health and the potential for developing kidney stones. The cartridge for tracking reproductive health that was announced alongside the U-Scan at CES 2023 won’t be available at launch, and while the device was originally waiting for FDA clearance, Withings now classifies it as a “wellness product,” so clearance isn’t necessary.\n\nPricing starts at $349.95 for the Proactive option, which includes the U-Scan itself, a charging and cleaning station, access to the Withings Plus service, and a single Nutrio or Calci cartridge with 22 tests that will last up to three months with just two weekly measurements. The $429.95 Intensive option instead includes two cartridges and 44 tests, facilitating more tests per week. Replacement cartridges, which can be shipped regularly as part of a subscription plan, are $99.95 each or $179.95 a pair.",
+      "content_length": 1647,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bureau of Meteorology apologises for new website and promises changes after ‘flawed’ update",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/29/bureau-of-meteorology-bom-website-new-redesign-queensland-premier-criticism",
+      "published": "2025-10-29T03:59:58",
+      "content": "BoM’s statement comes after federal environment minister says site refresh ‘not meeting many users’ expectations’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Bureau of Meteorology has apologised for unpopular changes to its website and said “adjustments” will be made, after its top brass was hauled in by the environment minister after negative public feedback.Changes to the website’s design and accessibility have been criticised by many users online, with minister Murray Watt saying the website was “not meeting many users’ expectations” and the federal opposition saying it had affected the ability of Queenslanders to prepare for recent rain events. Continue reading...",
+      "content_length": 748,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Too bad I can’t run, but we’ll see what happens, says Trump on unconstitutional third term",
+      "link": "https://www.theguardian.com/us-news/2025/oct/29/trump-third-term-president-2028",
+      "published": "2025-10-29T03:58:53",
+      "content": "Trump says he has read about constitutional two-term limit preventing him from running for president in 2028 and it was ‘pretty clear’, but that he ‘would love to do it’Donald Trump said “it’s too bad” he is not allowed to run for a third term, conceding the constitutional reality even as he expressed interest in continuing to serve.“If you read it, it’s pretty clear,” Trump told reporters on board Air Force One from Japan to South Korea on Wednesday. “I’m not allowed to run. It’s too bad.” Continue reading...",
+      "content_length": 515,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
+      "link": "https://arstechnica.com/cars/2025/10/mazda-shows-a-rotary-hybrid-concept-for-tokyo-with-evolved-design-language/",
+      "published": "2025-10-29T03:30:56",
+      "content": "The Japan Mobility Show kicks off in Tokyo this week, and Mazda is using the occasion to show off a couple of concepts it says embody a theme called “the joy of driving fuels a sustainable tomorrow.” One of these is the Vision X-Coupe, which Mazda says shows off the evolution of its KODO design language—something we first saw at the Tokyo show a decade ago.\nYou can see a clear visual link between the renderings of the Vision X-Coupe and some of Mazda’s current models like the 3 hatchback or the CX-30 crossover, but translated through the long, low form factor of a four-door coupe. The design language is perhaps less interesting than some of the sustainability ideas that Mazda is exploring here, though.\n\n      \n      \n        \n    \n    \n      There's definitely hints of the Mazda RX-Vision in this shape.\n\n              \n          Credit:\n\n          \n          Mazda\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      It's a four-seat, four-door coupe. \n\n              \n          Credit:\n\n          \n          Mazda\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      Fun to drive AND sustainable? Sign us up.\n\n              \n          Credit:\n\n          \n          Mazda\n\n                  \n          \n  \n      \n    \n  \nThe powertrain is a 503 hp (375 kW) plug-in hybrid that uses a two-rotor turbocharged rotary engine as the internal combustion part of the equation. Mazda says it should have a total range of 500 miles (800 km), with a range of 100 miles (160 km) on battery power alone.Read full article\nComments",
+      "content_length": 1608,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tanzanian president poised to retain power as rivals barred from election",
+      "link": "https://www.theguardian.com/world/2025/oct/29/tanzania-election-president-samia-suluhu-hassan-poised-to-retain-power",
+      "published": "2025-10-29T03:00:30",
+      "content": "Government critics abducted, killed or arrested in run-up to vote as Samia Suluhu Hassan faces first electoral testTanzania’s president looks on course to strengthen her grip on the country as it holds a general election on Wednesday against the backdrop of rapidly intensifying repression and the exclusion of opposition candidates.Samia Suluhu Hassan, a former vice-president who took office after the death of her predecessor, John Magufuli, in 2021, has left nothing to chance for her first presidential and parliamentary electoral test. Continue reading...",
+      "content_length": 561,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel strikes Gaza after Netanyahu accuses Hamas of breaching ceasefire",
+      "link": "https://www.theguardian.com/world/2025/oct/28/returned-body-parts-were-of-hostage-recovered-two-years-ago-israel-says",
+      "published": "2025-10-29T02:38:35",
+      "content": "Prime minister accuses Hamas of ‘clear violation’ of truce as far-right ministers clamour to resume warIsraeli warplanes struck Gaza on Tuesday night, shortly after Israel’s prime minister, Benjamin Netanyahu, ordered the military to carry out “powerful strikes” in Gaza, in the most serious test of the increasingly shaky US-brokered ceasefire.Witnesses reported seeing Israeli planes launch strikes on Gaza City, as well as explosions across the strip shortly after Netanyahu’s announcement. At least seven people were killed in separate strikes in Gaza City and Khan Younis, including two children, medical sources said.  Continue reading...",
+      "content_length": 644,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pakistan erklärt Friedensgespräche mit Afghanistan für gescheitert",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-waffenruhe-100.html",
+      "published": "2025-10-29T02:31:27",
+      "content": "   Nach vier Verhandlungstagen hat Pakistan die Friedensgespräche mit Afghanistan für gescheitert erklärt. Die nach den schweren Grenzgefechten im Oktober vereinbarte Waffenruhe erscheint erneut brüchig.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dutch voters head to polls in high-stakes election testing populism’s grip",
+      "link": "https://www.france24.com/en/europe/20251029-dutch-election-populism-geert-wilders",
+      "published": "2025-10-29T02:08:44",
+      "content": "The Netherlands votes Wednesday in a pivotal national election that will determine whether the country doubles down on the anti-immigration populism of Geert Wilders or shifts back toward centrist politics. The result is seen as a bellwether for the strength of Europe’s far right, as nationalist movements surge across Britain, France and Germany.",
+      "content_length": 348,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ein \"Krieg\" gegen die Drogenkartelle mitten in Rio de Janeiro",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-polizeieinsatz-rio-de-janeiro-100.html",
+      "published": "2025-10-29T02:00:30",
+      "content": "   Brasiliens Regierung geht hart gegen Drogenkartelle vor - auch in den dicht besiedelten Favelas von Rio de Janeiro. Bei dem jüngsten Polizeieinsatz wurden 64 Menschen getötet. Anwohner sprechen von kriegsähnlichen Zuständen. Von A. Herrberg.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Court to reconsider ruling that allowed Trump to send troops to Portland",
+      "link": "https://www.theguardian.com/us-news/2025/oct/28/us-appeals-court-trump-portland-troops",
+      "published": "2025-10-29T01:48:22",
+      "content": "President remains barred from deploying national guard as appeals court agrees to ‘en banc’ rehearing of caseThe Trump administration remains barred from deploying the national guard in Portland, Oregon, following a federal appeals court ruling.The ninth circuit court of appeals agreed on Tuesday that it would rehear a case over the president’s authority with a broader court of 11 judges. The appeals court also vacated a ruling from a three-judge panel last week that sided with the Trump administration. Continue reading...",
+      "content_length": 528,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Border patrol leader told to go to court every weekday to report on Chicago enforcement",
+      "link": "https://www.theguardian.com/us-news/2025/oct/28/chicago-immigration-crackdown-gregory-bovino",
+      "published": "2025-10-29T01:26:12",
+      "content": "Federal judge gives orders to Gregory Bovino in exceptional bid to impose oversight over Trump officials’ raids in cityA federal judge has ordered Gregory Bovino, a senior border patrol official leading the Trump administration’s immigration crackdown in Chicago, to appear in federal court each weekday to report on the day’s incidents in an exceptional bid to impose oversight over the government’s militarized raids in the city.The order came following a terse hearing on Tuesday morning. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wole Soyinka, Nigerian Nobel laureate and Trump critic, says US visa revoked",
+      "link": "https://www.theguardian.com/books/2025/oct/28/wole-soyinka-nobel-us-visa-trump",
+      "published": "2025-10-29T01:14:01",
+      "content": "Soyinka, 91, who recently compared US president to Idi Amin, says ‘I have no visa – I am banned’The Trump administration has revoked the visa for Wole Soyinka, the acclaimed Nigerian Nobel prize-winning writer who has been critical of Trump since his first presidency, Soyinka revealed on Tuesday.“I want to assure the consulate … that I’m very content with the revocation of my visa,” Soyinka, who won the 1986 Nobel prize for literature, told a news conference. Continue reading...",
+      "content_length": 483,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Report warns climate change causing millions of preventable deaths each year",
+      "link": "https://www.france24.com/en/environment/20251029-climate-change-causes-millions-deaths-new-report",
+      "published": "2025-10-29T00:56:42",
+      "content": "An influential new Lancet report has warned that climate change is taking a devastating toll on global health, with policy failures contributing to millions of avoidable deaths annually. The study urges world leaders to act swiftly to protect lives as extreme heat, pollution and other climate-related disasters intensify.",
+      "content_length": 322,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US Senate passes bill with Republican support to rescind Trump’s tariffs on Brazil",
+      "link": "https://www.theguardian.com/us-news/2025/oct/28/us-senate-trump-tariffs-brazil",
+      "published": "2025-10-29T00:25:23",
+      "content": "Republicans break ranks as vote passes 52-48 in rare bipartisan rebuke of US president’s trade policiesThe US Senate on Tuesday approved a measure that would terminate Donald Trump’s sweeping tariffs on Brazilian imports, including coffee, beef and other products, in a rare bipartisan show of opposition to the president’s trade war.The legislation passed in a 52-48 vote, with five Republicans – senators Lisa Murkowski of Alaska, Susan Collins of Maine, Rand Paul of Kentucky, Thom Tillis of North Carolina and the former Republican leader Mitch McConnell of Kentucky – joining all Democrats in favor. The vote took place on day 28 of the federal government shutdown with both sides at loggerheads over spending legislation. Continue reading...",
+      "content_length": 747,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "BBC journalist barred from leaving Vietnam and repeatedly interrogated",
+      "link": "https://www.theguardian.com/world/2025/oct/29/bbc-journalist-barred-from-leaving-vietnam-and-repeatedly-interrogated",
+      "published": "2025-10-29T00:01:27",
+      "content": "BBC ‘deeply concerned’ for journalist’s wellbeing after Vietnamese police withhold their ID card and renewed passportVietnamese authorities have barred a BBC journalist from leaving the country and ​subjected them to days of interrogation, in a press freedom case that comes to light during a high-profile visit by Vietnam’s leader to the UK.The journalist, a Vietnamese citizen who lives and works in Thailand, had returned to their home country in August to renew their passport, according a source with knowledge of the situation. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "America’s super-rich are running down the planet’s safe climate spaces, says Oxfam",
+      "link": "https://www.theguardian.com/environment/2025/oct/29/americas-super-rich-running-down-planet-safe-climate-spaces-oxfam",
+      "published": "2025-10-29T00:01:27",
+      "content": "Exclusive: Data shows wealthiest 0.1% of the US burn carbon at 4,000 times the rate of the world’s poorest 10%The US’s super-rich are burning through carbon emissions at 4,000 times the speed of the world’s poorest 10%, according to an analysis provided to the Guardian.These billionaires and multimillionaires, who comprise the wealthiest 0.1% of the US population, are also running down our planet’s safe climate space at 183 times the rate of the global average. Continue reading...",
+      "content_length": 485,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NHS makes morning-after pill available for free across pharmacies in England",
+      "link": "https://www.theguardian.com/society/2025/oct/29/nhs-makes-morning-after-pill-available-for-free-across-pharmacies-in-england",
+      "published": "2025-10-29T00:01:27",
+      "content": "Those in need of free emergency contraception no longer have to see their GP or attend a sexual health clinicThe NHS has made the morning-after pill available for free across pharmacies in England in an effort to reduce a “postcode lottery” of access to emergency contraception.Almost 10,000 pharmacies are now able to offer the pill without charge, saving those in need of free emergency contraception from having to visit their GP or to get an appointment at a sexual health clinic. Continue reading...",
+      "content_length": 504,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "North Korea fires cruise missiles ahead of Trump’s South Korea visit",
+      "link": "https://www.france24.com/en/asia-pacific/20251028-north-korea-fires-missiles-trump-south-korea-visit",
+      "published": "2025-10-28T23:45:16",
+      "content": "North Korea launched a series of sea-to-surface cruise missiles into its western waters on Tuesday, state media said, in a show of force coinciding with US President Donald Trump’s trip to South Korea for a regional summit. The tests come as Pyongyang deepens military ties with Russia and continues to reject nuclear talks with Washington.",
+      "content_length": 340,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Truce talks between Afghanistan and Pakistan collapse in Istanbul",
+      "link": "https://www.france24.com/en/middle-east/20251028-truce-talks-afghanistan-pakistan",
+      "published": "2025-10-28T23:15:26",
+      "content": "Peace talks between Afghanistan and Pakistan ended in Istanbul without a deal, Pakistan’s information minister said on Wednesday, blaming Kabul’s delegation for obstructing progress. The failure of the negotiations casts doubt on efforts to stabilise relations between the uneasy South Asian neighbours.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "64 Tote und kriegsähnliche Szenen bei Polizeieinsatz in Rio",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-rio-de-janeiro-sechzig-tote-polizeieinsatz-100.html",
+      "published": "2025-10-28T23:12:48",
+      "content": "   Bei einem Polizeieinsatz gegen eine Drogengang in Rio de Janeiro sind 64 Menschen getötet worden. Etwa 2.500 Einsatzkräfte sollen beteiligt gewesen sein. Der Zeitpunkt der Aktion dürfte kein Zufall gewesen sein.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Five more prisoners freed in error after sex offender’s release from Essex jail",
+      "link": "https://www.theguardian.com/society/2025/oct/28/five-more-prisoners-freed-in-error-after-sex-offenders-release-from-essex-jail",
+      "published": "2025-10-28T23:09:05",
+      "content": "Union says staff shortages and confusion over early release schemes are driving a rise in mistakesFive other prisoners have also been released by mistake in the same week a convicted Ethiopian sex offender was allowed to walk free from an Essex jail, says the prison officers’ union.The disclosure of further mistakes highlights the intense pressure on prison staff, according to the Prison Officers’ Association (POA). Continue reading...",
+      "content_length": 439,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The best foldable phone you can buy",
+      "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
+      "published": "2025-10-28T23:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nA foldable phone isn’t for the faint of heart. They’re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. They’re also still not as durable as regular smartphones, though they’re not nearly as fragile as they once were. In fact, thanks to Google, we finally have a foldable phone we can take with us to the beach.\n\nThere are basically two kinds of foldables at the moment — the kind that fold like books and the ones that fold clamshell style, like your old flip phone. Here’s how I think of it: a book-style foldable is like a phone plus a tablet, and a flip-style foldable is a phone plus a smartwatch. The book foldables provide an outer screen for all your regular phone needs, and then a tablet-like inner screen when you want, well, more screen. Flip phones come with a smaller secondary display on the outer panel that’s useful for checking information quickly. When you need to do regular phone stuff, you unfold it.\n\n\n\nSo while they all fit in one category of folding tech, they’re suited to two very different kinds of people — someone who wants even more phone with their phone and someone who wants to be fully immersed a little less. Whichever category you fit into, you’d be wise to get the manufacturer’s extended warranty with your purchase; fixes can be expensive, and you won’t be able to walk into just any phone repair shop to get them. If you don’t opt for the warranty, you’ll want to be sure you can comfortably afford to replace your phone in the event of a sudden sand-related catastrophe. Death can come swiftly to a folding screen.\n\nIf I haven’t scared you off by this point, then you’re probably the kind of person who will have a heck of a good time with a foldable. I’ve used every phone under the sun, and folding phones are some of my favorite gadgets. Run four apps at once! Prop it up like a tiny laptop! Hold it like a camcorder when you shoot video! There are tons of possibilities, and the thrill you get when you fold your phone shut never fully wears off.\n\nBest book-style foldable\nGoogle Pixel Pro 10 Fold\n\nScore: 8ProsConsFull dust resistance! On a foldable!Qi2 support with built-in magnetsHeavy and chunkyCameras aren’t as good as the other 10 Pro phones’Pricier than a regular phone\nWhere to Buy: $1799 at Amazon (256GB) $1799 at Best Buy (256GB) $1799 at Google (256GB)\nScreen:&nbsp;8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen /&nbsp;Processor:&nbsp;Google Tensor G5 /&nbsp;Cameras:&nbsp;48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera /&nbsp;Battery:&nbsp;5,015mAh /&nbsp;Charging:&nbsp;30W wired, 15W wireless (Qi2) /&nbsp;Weather resistance:&nbsp;IP68\n\nDurability has long been the North Star of the foldable category, and the Pixel 10 Pro Fold marks a real milestone in that journey. With an IP68 rating, it’s the first foldable to offer full water and dust resistance. That means you can take the $1,799 device on a hike or to the beach without worrying that a stray grain of sand will absolutely destroy it. Add in Qi2 support with built-in magnets for accessories and wireless charging — along with Google’s more powerful Tensor G5 chip — and you have the most well-rounded foldable available.\n\nThe Pixel 10 Pro Fold isn’t without its shortcomings, though. It offers all-day battery life with minimal use of the inner display; however, if you spend most of your time using the inner screen, your battery will likely be in the red by bedtime. Also, while we love the device’s improved durability, its cameras fall short of Google’s other 10 Pro models, especially in low light. The foldable is a bit heavier and thicker than the Galaxy Z Fold 7, too, which is a fair trade for greater peace of mind.\n\nRead our full Pixel 10 Pro Fold review.\n\nBest flip-style foldable\nSamsung Galaxy Z Flip 7\n\nScore: 8ProsConsSamsung finally adopted the big cover screenAll-day batteryReliable cameraMore susceptible to dust than your average phoneStill too hard to run full apps on the cover screen\nWhere to Buy: $1099.99 at Amazon (256GB) $1099.99 at Best Buy (256GB) $1099.99 $1219.99 at Samsung (512GB)\nScreen: 6.9-inch, 1080p, 120Hz OLED inner screen; 4.1-inch, 948p, OLED cover screen / Processor: Samsung Exynos 2500 / Cameras: 50-megapixel f/1.8 main with OIS; 12-megapixel ultrawide; 10-megapixel selfie (inner screen) / Battery: 4,300mAh / Charging: 25W wired, 15W wireless, 4.5W reverse wireless / Weather-resistance rating: IP48\n\nThe latest Galaxy Z Flip may not be as fun as the newest Razr Ultra, but it does offer a few new tricks. Samsung ditched the old file-folder cover screen in favor of a glorious, 4.1-inch edge-to-edge panel that wraps around the cameras. The extra real estate means you have more room to quickly respond to messages or perform any task that doesn’t require you to open your phone (and risk getting lost in a digital rabbit hole).\n\nIn addition to the larger cover screen, the Flip 7 offers a couple of other thoughtful updates. It’s thinner than its predecessor and features a bigger 4,300mAh battery, which is a step up from the 4,000mAh battery found in the last-gen Flip 6. The camera system remains unchanged from last year’s model, too, though that’s not necessarily a bad thing. The 50-megapixel main shooter still produces great images, and you get all the versatility the flip form factor has to offer, including the ability to easily take selfies using the rear camera.\n\nDespite some welcome changes, the Flip 7 carries the same IP48 rating as last year’s model, which means long-term durability against fine dust particles remains a concern. However, Samsung offers a great warranty and repair program, along with seven years of OS and security updates. The Flip 7 isn’t perfect, but it’s the most powerful and polished version yet — just don’t drop it while lounging on the beach.\n\nRead our full Galaxy Z Flip 7 review.\n\nThe most fun foldable\nMotorola Razr Ultra (2025)\n\nScore: 7ProsConsOne of the best-looking phones you can buyGreat battery lifeOuter screen is useful in unexpected waysAI button is wasted real estate Long-term durability is still a question markCamera processing is occasionally weird\nWhere to Buy: $1299.99 $1099.99 at Amazon (512GB) $1299.99 $1099.99 at Best Buy (512GB) $1299.99 $1099.99 at Motorola (512GB)\nScreen: 7-inch 1224p OLED 165Hz inner screen; 4-inch 1080p OLED 165Hz outer screen / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 50-megapixel f/1.8 main with OIS; 50-megapixel f/2.0 ultrawide; 50-megapixel f/2.0 selfie / Battery: 4,700mAh / Charging: 68W wired, 30W wireless / Weather-resistance rating: IP48\n\nThe Razr Ultra is the newest and most advanced member of Motorola’s foldable lineup. Compared to the Razr Plus, it boasts a higher-resolution inner screen, Qualcomm’s most powerful mobile processor, double the storage space, and an upgraded selfie camera. The device is also one of the best-looking phones you can buy — the gold-bronze chassis and wooden back panel lend the Ultra a real elegance. When every phone tends to look the same — even in the foldable market — the Razr Ultra stands out in a crowd, which only adds to its charm.\n\nBeyond its appearance, the Ultra is just plain fun to use. The 4-inch outer screen covers almost the entire front of the phone, making it perfect for checking notifications, responding to messages, and taking quick actions such as hailing an Uber. The titanium hinge is also an upgrade over the stainless steel found in the Razr Plus. While the Ultra is enjoyable, it can’t overcome the gripes we’ve had with previous Motorola foldables, like inconsistent camera processing. Meanwhile, Motorola is only promising three OS upgrades and four years of security updates, which is on the shorter side considering the $1,300 retail price.\n\nRead our full Razr Ultra (2025) review.\n\nThe best battery life in a foldable\nOppo Find N5\n\nScore: 8ProsConsIt’s really, really thinExcellent battery lifeThe crease is almost invisibleFoldables are still fragileIt’s not launching in the US or Europe\nWhere to Buy: $2499 $2099 at Oppo (512GB)\nScreen: 8.12-inch, 2248p, 120Hz OLED inner screen; 6.62-inch, 1140p, 120Hz OLED outer screen size/ Processor: Qualcomm Snapdragon 8 Elite Cameras: 50-megapixel f/1.9 main with OIS, 50-megapixel 3x telephoto with OIS, 8-megapixel ultrawide, 8-megapixel selfie cameras (inner and outer) / Battery: 5,600mAh / Charging: 80W wired, 50W wireless / Weather-resistance rating: IPX8/IPX9\n\nLet’s get the bad news out of the way first: if you live in the US or Europe, you can’t buy the Oppo Find N5. That rules out, well, a lot of us. But if you live in China, Singapore, or any of the other Asian countries Oppo included in its so-called “global” release, then you’re in luck: you can pick up one of the world’s thinnest book-style folding phones, and the rest of us are all very jealous of you.\n\nThe Find N5 isn’t all about thinness, either. Its Qualcomm Snapdragon 8 Elite chipset is highly capable, the phone is fully water-resistant, and battery life is excellent. It utilizes silicon-carbon battery technology to accommodate a large (by foldable standards) 5,600mAh battery, which easily holds up after a long day of heavy use. What’s even more impressive is that, like the aforementioned Z Fold 7, the Find N5 is still barely thicker than a standard slab-style phone and only slightly heavier. That matters when you’re using the phone via the cover screen for long periods of time or stashing it in the side pocket of your yoga pants. When a foldable is only about as heavy and bulky as a regular phone, using the inner screen feels like getting away with something fantastic — not a benefit you have to make many other sacrifices for. Oppo delivers this in spades, and I just wish more of us could… find it.\n\nRead our full Oppo Find N5 review.\n\nOther foldables to consider\n\n\nThe latest Huawei Mate XTs gets an honorable mention for its sheer wow factor alone. It’s Huawei’s second trifold phone and features some minor upgrades over the original, which we found to be a great foldable that’s far too expensive. The second-gen Mate XTs is cheaper than the original at 17,999 yuan (about $2,520) and adds several new features, including stylus support, an upgraded Kirin 9020 chipset, and an improved 40-megapixel ultrawide.\n\n\n\nThe Motorola Razr Plus 2025 is new to the scene, replacing last year’s model. Although the two devices look identical, there are a few notable changes. The biggest difference is that the Razr Plus 2025 now features a titanium hinge, rather than stainless steel, promising better durability and a less noticeable crease when the device is open. Additionally, the Razr Plus 2025 offers IP48 dust and water resistance, whereas last year’s model featured an IPX8 rating. While we haven’t tested the newest model, it appears to be a solid alternative to the Ultra.\n\n\n\nThe standard Motorola Razr 2025 is a more affordable entry point into the world of foldables, starting at $699. The Razr 2025 offers improved performance, battery life, and durability — the kind of bumps we expect year after year. It boasts a smaller cover screen compared to the Razr Plus and Ultra, but still offers a spacious 6.9-inch internal display. We haven’t tested the Razr 2025 yet, but its relatively budget-friendly price is a good option for jumping into the foldable market.\n\n\n\nThe Pixel 9 Pro Fold is an impressive sophomore effort from Google, offering an ideal form factor that’s a joy to use. When folded, the outer screen matches the dimensions of a regular phone, and the inner screen can get nice and bright outdoors. The whole package is also light enough that it sometimes doesn’t feel like you’re holding a foldable, though it does suffer from a slightly downgraded camera system compared to its slab-style siblings. There’s also no formal dust resistance, so long-term durability remains a concern. Read our review.\n\n\n\nThe Galaxy Z Fold 7 is an excellent alternative to the Pixel 10 Pro Fold. The slim, lightweight foldable is just 8.9mm thick when folded shut, which is nearly as slim as standard slab-style devices. It has a spacious inner display that’s great for multitasking, and the battery can last a full day with moderate use. That being said, the Z Fold 7 has a starting price of $1,999 and doesn’t offer full dust and water resistance, making the hinge more susceptible to damage. Read our review.\n\n\nWhat’s coming next\n\nSamsung has been teasing a trifold device for months, and the company says it’s still on track to launch later this year. In fact, it recently showed off a prototype version of the hardware. Instead of folding in an accordion-style like the Huawei Mate XTs, Samsung’s trifold will seemingly feature a middle portion and two sides that fold inward. Beyond that, Samsung has yet to share details, such as what the trifold will be called or how much it will cost. Considering the Z Fold 7 has a starting price of $1,999, we’re bracing ourselves for the announcement.\n\nUpdate, October 28th: Adjusted pricing / availability and added the Pixel 10 Pro Fold as our top pick. Brandon Russell also contributed to this post.",
+      "content_length": 13259,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Senators propose banning teens from using AI chatbots",
+      "link": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
+      "published": "2025-10-28T22:42:04",
+      "content": "\n\n\n\t\n\t\t\n\nA new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News. \n\nThe bill comes just weeks after safety advocates and parents attended a Senate hearing to call attention to the impact of AI chatbots on kids. Under the legislation, AI companies would have to verify ages by requiring users to upload their government ID or provide validation through another “reasonable” method, which might include something like face scans.\n\nAI chatbots would be required to disclose that they aren’t human at 30-minute intervals under the bill. They would also have to include safeguards that prevent them from claiming that they are a human, similar to an AI safety bill recently passed in California. The bill would make it illegal to operate a chatbot that produces sexual content for minors or promotes suicide, too.\n\n“Our legislation imposes strict safeguards against exploitative or manipulative AI, backed by tough enforcement with criminal and civil penalties,” Blumenthal says in a statement provided to The Verge. “Big Tech has betrayed any claim that we should trust companies to do the right thing on their own when they consistently put profit first ahead of child safety.”",
+      "content_length": 1419,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Westinghouse is claiming a nuclear deal would see $80B of new reactors",
+      "link": "https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/",
+      "published": "2025-10-28T22:38:46",
+      "content": "On Tuesday, Westinghouse announced that it had reached an agreement with the Trump administration that would purportedly see $80 billion of new nuclear reactors built in the US. And the government indicated that it had finalized plans for a collaboration of GE Vernova and Hitachi to build additional reactors. Unfortunately, there are roughly zero details about the deal at the moment.\nThe agreements were apparently negotiated during President Trump’s trip to Japan. An announcement of those agreements indicates that “Japan and various Japanese companies” would invest “up to” $332 billion for energy infrastructure. This specifically mentioned Westinghouse, GE Vernova, and Hitachi. This promises the construction of both large AP1000 reactors and small modular nuclear reactors. The announcement then goes on to indicate that many other companies would also get a slice of that “up to $332 billion,” many for basic grid infrastructure.\nSo the total amount devoted to nuclear reactors is not specified in the announcement or anywhere else. As of the publication time, the Department of Energy has no information on the deal; Hitachi, GE Vernova, and the Hitachi/GE Vernova collaboration websites are also silent on it.Read full article\nComments",
+      "content_length": 1248,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Public concern for climate change drops amid war and conflict",
+      "link": "https://www.france24.com/en/tv-shows/business/20251028-public-concern-for-climate-change-drops-amid-war-and-conflict",
+      "published": "2025-10-28T22:32:16",
+      "content": "A new survey shows a sharp slide in public concern for climate change, with war and conflict now dominating public worries well ahead of climate change. France 24's Yuka Royer speaks with Subhra Batthachargee, Director General of the Forest Stewardship Council, who tells her that despite fewer people citing climate change as their top concern, consumers are still preferring to shop green. \"We have to translate the impacts of climate change into what it means for day to day action\", she says.",
+      "content_length": 496,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "YouTube will age-restrict more content showing &#8216;graphic violence&#8217; in video games",
+      "link": "https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction",
+      "published": "2025-10-28T22:14:52",
+      "content": "\n\n\n\t\n\t\t\n\nYouTube is updating its policy to age-restrict more content containing video game scenes with “graphic violence,” the company announced on Tuesday. The update will go into effect on November 17th and will prevent accounts under 18 and signed-out users from watching videos with games focused on showing “realistic human characters” involved in scenes of “mass violence against non-combatants” or torture.\n\nWhen choosing whether to restrict a video, YouTube says it will take the length of the graphic scene into account, as well as whether it’s zoomed in or the main focus of a scene. It will also evaluate whether the video shows violence targeted at a character “that looks like a real human.” YouTube’s post doesn’t clarify if this applies to the violence seen in games like Grand Theft Auto, a Call of Duty sequence like the infamous “No Russian” mission, or other kinds of realistically rendered scenes.\n\nHowever, YouTube spokesperson Boot Bullwinkle said in a statement to The Verge that “certain content may be age-restricted if it&#8217;s non-fleeting or zoomed in,” adding that “there may be ways the creator can choose to play the mission to avoid content that would lead to an age restriction.” Creators can also choose to blur or obscure the violence, according to Bullwinkle.\n\nThe update builds upon YouTube’s existing policies, which state that the platform may restrict videos featuring “dramatized violence” focused on torture, severe injuries, or violent deaths with blood, with an exception for games. The current policy says, “Generally, we do not remove dramatized violence when the content or metadata lets us know that the content is fictional, or when it’s apparent from the content itself, such as with animated content or video games.”\n\n“YouTube’s policies are designed to adapt to the evolving digital world, and these updates reflect our ongoing commitment to protect younger users and foster a responsible platform,” Bullwinkle said.\n\nIn addition to stricter policies surrounding video games, the update will also prevent creators from directing users to online gambling content involving digital goods, like video game skins, cosmetics, or NFTs. YouTube stopped allowing creators to verbally mention or display online gambling services not approved by Google in March. The platform started blocking approved online gambling content for users under 18 at this time, and now it’s planning to age-restrict social casino content as well.\n\nUpdate, October 28th: Added clarification from YouTube.",
+      "content_length": 2528,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fears of ethnic cleansing after Sudan's El-Fasher falls to paramilitaries",
+      "link": "https://www.france24.com/en/video/20251028-fears-of-ethnic-cleansing-after-sudan-s-el-fasher-falls-to-paramilitaries",
+      "published": "2025-10-28T22:03:57",
+      "content": "The paramilitary capture of El-Fasher, Sudan's oldest capital and Darfur's historic heart, sparked fears Tuesday of mass killings reminiscent of the region's darkest days. After an 18-month siege marked by starvation and bombardment, the city is now under the control of the Rapid Support Forces (RSF) -- descendants of the Janjaweed militias accused of genocide two decades ago. FRANCE 24 speaks with Dr Jan Pospisil of Coventry University's Centre for Peace and Security.",
+      "content_length": 473,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Can Elon Musk’s AI-generated \"Grokipedia\" be trusted?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251028-can-elon-musk-s-ai-generated-grokipedia-be-trusted",
+      "published": "2025-10-28T21:53:04",
+      "content": "In this edition of Truth or Fake we look at Elon Musk’s new website Grokipedia, which he has just launched to compete with Wikipedia, the online encyclopedia that he and others on the American right have accused of left-wing bias. Musk touts AI-generated Grokipedia as unbiased; is it really?",
+      "content_length": 292,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Fears of mass atrocities after Sudan's El-Fasher falls to paramilitaries",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251028-fears-of-mass-atrocities-after-sudan-s-el-fasher-falls-to-paramilitaries",
+      "published": "2025-10-28T21:39:06",
+      "content": "In tonight's edition, fears are mounting in Sudan after paramilitaries seized the key city of El-Fasher, amid reports of mass atrocities.\n \nAlso, French media giant Canal Plus recently finalized its takeover of Africa's top entertainment platform, Multichoice.\n \nAnd grieving families in the Central African Republic struggle to find somewhere to lay their loved ones to rest, and the lack of public cemeteries has led to a rise in the number of illegal burials.",
+      "content_length": 462,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man deported to Laos despite US court order blocking his removal, attorneys say",
+      "link": "https://www.theguardian.com/us-news/2025/oct/28/ice-deportation-alabama-laos",
+      "published": "2025-10-28T21:31:11",
+      "content": "District judge told Ice to keep Alabama man in US while he showed what judge called ‘substantial claim’ to citizenshipImmigration officials have deported a father living in Alabama to Laos despite a federal court order blocking his removal from the US on the grounds he has a claim to citizenship, the man’s attorneys said on Tuesday.US district judge Shelly Dick last week ordered US Immigration and Customs Enforcement to keep Chanthila “Shawn” Souvannarath, 44, in the United States while he presented what the judge called his “substantial claim of US citizenship”, court records show. He was born in a refugee camp in Thailand but was granted lawful permanent residence in the US before his first birthday, according to court filings. Continue reading...",
+      "content_length": 759,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Amazon is ditching MMOs and cranking out party games",
+      "link": "https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games",
+      "published": "2025-10-28T21:21:45",
+      "content": "\n\n\n\t\n\tNew World: Aeternum.\t\n\nAs part of Amazon’s mass layoffs announced today, the company is making “significant” changes to its gaming division, including halting much of its work on first-party AAA MMOs, according to a memo from Steve Boom, VP of audio, Twitch, and games.&nbsp;\n\n“While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team,” Boom said in the memo, which Amazon shared with The Verge.\n\nThe developers of New World: Aeternum, one of Amazon’s MMOs, have already announced plans to stop providing new content updates. The team said it&#8217;s not sunsetting the game “at this time” and that “servers will be live through 2026.” The developers will provide “a minimum of six months’ notice before making any changes that impact your ability” to play the game.\n\nAmazon also publishes the MMOs Throne and Liberty, which is developed by NCSoft and FirstSpark Games, and Lost Ark, developed by Smilegate RPG. “We will continue supporting Throne and Liberty and Lost Ark with regular updates and community engagement,” Amazon spokesperson Brittney Hefner told The Verge. They’ll get new content updates for the foreseeable future, Hefner confirmed.\n\nIn 2023, Amazon announced that it would be developing a Lord of the Rings MMO in partnership with Embracer Group. Amazon and Embracer didn’t immediately reply to a request for comment about that game.\n\nLast year, Amazon canceled a planned Western release of the Bandai Namco-developed MMO Blue Protocol, which was shuttered in Japan in January.\n\nAmazon isn’t fully pulling back on its work in games. Boom pointed to the launch of the revamped Luna and said that its Studio 5 team, which developed a courtroom game with an AI Snoop Dogg for the cloud gaming service, will “continue their focus on more casual and AI-focused games, optimized for Luna.” He also said Luna is a “great example” of “how we will have an impact with customers that fits the scale of Amazon” because it “leans into both streaming entertainment and delivering value for Prime members.”\n\nIn addition, Boom highlighted a “successful closed alpha” for the MOBA March of Giants and noted that Amazon is still working with Crystal Dynamics on a new Tomb Raider game (Amazon is also making a Tomb Raider series) and with Maverick Games on a new open-world driving game.\n\nYou can read Boom’s full memo below.&nbsp;\n\n\nDear Games Team,\n\n\n\nThis morning, we are making a number of changes in our Games business. While you’ve likely seen Beth Galetti’s note earlier this morning regarding the larger changes at Amazon that are taking place today, I wanted to dive a bit deeper with all of you, since the strategic changes we are making in Games go beyond what is happening company-wide.&nbsp;\n\n\n\nOver the last several months, we’ve been evaluating our go-forward plans, specifically through the lens of our mission to deliver the very best gaming experiences to customers while leaning into the things that Amazon does best. We believe that this is how we will have an impact with customers that fits the scale of Amazon. Last week’s launch of the all-new Luna is a great example, as it leans into both streaming entertainment and delivering value for Prime members, two tenets that are always top of mind in our group. Luna launched with a great catalog of social party games and AAA blockbusters, and we have a lot more to come from Jeff’s team on that front…it’s still Day 1.&nbsp;\n\n\n\nWe’ve also taken a critical look at the evolving dynamics of games industry and competitive landscape. While we’re proud of our successes in first-party AAA game development and publishing, we have made the difficult decision to halt a significant amount of our first-party AAA game development work – specifically around MMOs – within Amazon Game Studios, including making significant role reductions in our studios in Irvine and San Diego, as well as our central publishing team.\n\n\n\nWhile these changes are significant, we still have a lot going on in game development. Our Montreal studio recently concluded a successful closed alpha of March of Giants and is working hard to finish the game. Our Studio 5 team just released Courtroom Chaos: Starring Snoop Dogg as the launch title in Luna and will continue their focus on more casual and AI-focused games, optimized for Luna. Finally, we are continuing to work with our external studio partners Crystal Dynamics on an upcoming Tomb Raider title and Maverick Games on an upcoming open world driving game.\n\n\n\nOver the course of the day, both Christoph and Jeff will reach out with more details on how these changes will affect you and your teams. Most countries with impacted employees have been notified. Our other global hubs will follow local processes and be notified at a later date.&nbsp;\n\n\n\nThere is no getting around the fact that days like this are hard, and we will be losing team members whose work and dedication have had an incredible impact on our customers over the years. We don’t make these decisions lightly, and yet they are necessary for us to continue to drive our business forward.\n\n\n\nPlease reach out directly to your manager or to your HRBP with any specific questions.\n\n\n\nThank you,\n\n\n\nSteve\n\n\nUpdates, October 28th: Added details from the New World: Aeternum team and from Amazon about two of its other MMOs.",
+      "content_length": 5615,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Hurrikan \"Melissa\" erreicht Jamaika mit voller Wucht",
+      "link": "https://www.tagesschau.de/ausland/amerika/jamaika-hurrikan-melissa-102.html",
+      "published": "2025-10-28T21:09:50",
+      "content": "   Kurz nach dem Auftreffen auf die Küste von Jamaika hat \"Melissa\" leicht an Kraft verloren und ist ein Hurrikan der Kategorie 4. Zuvor hat der Sturm noch Windgeschwindigkeiten von bis zu 295 Kilometern pro Stunde erreicht.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nothing’s Ear Open earbuds are back under $100 right now",
+      "link": "https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale",
+      "published": "2025-10-28T21:00:00",
+      "content": "\n\n\n\t\n\tThe wireless earbuds feature an over-the-ear hook style for a more secure fit. | Image: The Verge\t\n\nIf you spend most of your time commuting, walking around, or exercising, the Nothing Ear Open earbuds are worth considering. These open-ear-style earbuds rest securely in your outer ear rather than inside of your ear canals, allowing you to more easily hear what’s going on around you at all times. Right now, they’re matching their all-time low of $99 ($50 off) at Amazon with a Prime membership and Nothing’s online storefront.\nNothing Ear Open\n\nWhere to Buy: $149 $99 at Amazon (with Prime) $149 $99 at Nothing\nThe Nothing Ear Open join the growing market of open-ear options, which also includes the pricier Shokz OpenRun Pro 2 and Bose Ultra Open. These models all feature designs that prioritize safety over sound quality. Rather than forming a seal in your ear for passive sound isolation, Nothing’s wireless earbuds always let ambient noise in. For runners and cyclists, that means being able to hear vehicles, pedestrians, and other potential hazards. That being said, if you wear glasses like I do, the over-the-ear style can sometimes be difficult to wear with thicker frames, so that’s something to keep in mind.\n\nAlthough Nothing’s earbuds can’t match the audio quality of modern in-ear models, the design of each speaker module helps minimize sound leakage. Meanwhile, each earbud includes a pair of microphones and Nothing’s latest noise-canceling technology, so your voice should sound crystal clear during phone calls. The earbuds also support multipoint Bluetooth and a “Low Lag Mode” for gaming, which can automatically activate if you own a Nothing Phone. Otherwise, you can activate the mode through Nothing’s mobile app.\n\nWhen it comes to battery life, Nothing says the earbuds get up to eight hours on a full charge, with a total of 30 hours with the charging case. Unfortunately, the case doesn’t support wireless charging, though a quick 10-minute charge over USB-C should provide two hours of listening time.",
+      "content_length": 2040,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US military kills 14 in attacks on vessels in the Pacific, according to Hegseth",
+      "link": "https://www.theguardian.com/us-news/2025/oct/28/latest-boat-strikes-caribbean-hegseth-trump",
+      "published": "2025-10-28T20:59:21",
+      "content": "US says one person survived latest strikes, having killed 51 people in attacks on at least 13 vessels in recent weeksThe US military killed 14 people and left one survivor in more strikes on alleged drug-trafficking boats in the eastern Pacific, the defense secretary, Pete Hegseth, said on Monday, as the Trump administration continued to expand its campaign beyond the Caribbean.The latest strikes mean the US has now attacked at least 13 vessels and brought the officially acknowledged death toll to 51 people since the campaign began at the start of September. Continue reading...",
+      "content_length": 584,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US alleged drug boat strikes 'push a dangerous boundary in international law', analyst says",
+      "link": "https://www.france24.com/en/video/20251028-us-alleged-drug-boat-strikes-push-a-dangerous-boundary-in-international-law-analyst-says",
+      "published": "2025-10-28T20:58:44",
+      "content": "Speaking with FRANCE 24's Mark Owen, Sergio Guzmán, Director and Co-Founder of Colombia Risk Analysis, says that with the strikes on boats accused of transporting illegal drugs, the US is pushing a dangerous boundary in international law, adding that 'the response from many Latin American countries has also been quite timid'.",
+      "content_length": 327,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best Garmin watches for training and everyday life",
+      "link": "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables",
+      "published": "2025-10-28T20:45:00",
+      "content": "\n\n\n\t\n\tGarmins aren’t just multisport behemoths anymore. | Illustration by Will Joel / The Verge\t\n\nFew brands are as synonymous with outdoor sports as Garmin. You’ll find these fitness trackers and smartwatches on dozens of wrists at any 5K, marathon, or Ironman. You’ll also find Garmin devotees among divers, thru-hikers, golfers, kiteboarders — you name it. But these devices aren’t just for athletes. The company’s made significant strides in its lifestyle offerings, so regardless of your fitness level, there’s a Garmin for everyone.\n\nIf you’re coming from a more traditional smartwatch, Garmin’s core strengths lie in fitness, GPS, adventuring, and durability. These are hardy devices that are meant to withstand the elements and last weeks on a single charge. Several models come with offline maps, advanced navigational features, and more training metrics than any other platform. Garmin devices tend to be on the pricier side, and the company announced in March that it would begin putting its newest features behind a paywall. That’s a bummer given Garmin spent years&nbsp;publicly stating it had no intention of charging its users extra.\n\n\n\nGarmins aren’t too shabby on smarts, either. While more fitness-focused than anything from Apple, Google, or Samsung, there’s enough to get you the basics like notifications and then some. For example, most Garmins have fall detection and safety features, and several Garmins released since 2023 have an FDA-cleared EKG feature. (You’ll need a phone on hand, however, as only one Garmin model has cellular connectivity.) Many Garmin devices also support offline music playback and come with a small third-party app ecosystem.\n\nThere are a lot of Garmin watches to choose from. No, seriously, there are six major lineups, and each has a multitude of models. But no worries — I test several Garmins every year and can help point you in the right direction.\n\nThe best Garmin for runners\nGarmin Forerunner 265 / 265S\nGarmin’s midrange Forerunner watch has an OLED display, a week’s worth of battery life, and dual-frequency GPS for better accuracy.\n\nScore: 9ProsConsMore intuitive menu navigationMultiband GPSLong battery life — even with AOD enabledAdds helpful training featuresOh, oh, it’s OLED, you knowIt’s $100 more than the 255OLED displays don’t cost $100\nWhere to Buy: $449.99 at Amazon $449.99 at Best Buy $449.99 at Garmin\nSizes: 42mm w/ 18mm straps; 46mm w/ 22mm straps / Weight: 39g (42mm); 47g (46mm) / Battery life: Up to 15 days (42mm); 13 days (46mm) in smartwatch mode / Display type: OLED touchscreen / GPS: All-systems GNSS and dual-frequency GPS / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 5ATM / Music storage: 8GB\n\nGarmin has many running watches, and a lot of them are great. But the Forerunner 265 or 265S (if you have petite wrists) strikes an excellent balance between price, feature set, and battery life. Its vibrant OLED display also impressed us. We got about a week on a single charge with always-on display enabled, and up to 15 days with that setting turned off. \n\nThe 265 has dual-frequency GPS (also known as multi-band), which gets you get much more accurate maps in challenging environments like cities and dense forests because you can access both the L1 and L5 satellite frequencies. You don’t lose a whole lot of battery life with dual-frequency GPS enabled. I wore it during a half marathon with that and the AOD enabled, and I still had over 80 percent battery by the time I got home. This is also an excellent price, as the majority of multi-band GPS watches cost well over $600.\n\nMy main complaint is that $450 (outside of a deal, at least), while not bad for Garmin, is still a lot when you consider that’s the same price as smarter smartwatches with great running features. Some runners won’t care. But if you’re on a budget — or you’re new to running and feel iffy about spending that much — then consider the Forerunner 165 series. It starts at $249.99 (add another $50 for onboard music) and does almost everything the 265 series does. The main things you’re missing are dual-frequency GPS and a few more niche sport profiles. But if you’re mostly sticking to running, gym equipment, cycling, swimming, and hiking, you’re covered.\nGarmin Forerunner 165 Music\nThe Garmin Forerunner 165 Music gets you in-depth training metrics but leaves out some of the more advanced features in exchange for a more palatable price.\n\nWhere to Buy: $299.99 at Amazon $299.99 at Garmin $300 at REI\nNeither has all of Garmin’s training features, but it’s got what you’ll need to run anything from a 5K to a full marathon. That includes a Race Predictor, which gives you an estimate of what your best time would be based on your actual training. You can also use PacePro to figure out your pacing strategy for a race. You also get Garmin’s Training Readiness feature to help gauge load and recovery, Garmin Coach plans, and a host of running form metrics. It also supports offline music and safety features like fall detection. The only thing they lack is advanced mapping. (They still have trackback, point-to-point navigation, and real-time breadcrumb trail support, however.)\n\nOn the other hand, if your budget allows, you could also consider the Forerunner 570 and  Forerunner 970, which were released in June and cost $549.99 and $749.99, respectively. Both models have a built-in speaker and microphone, OLED screen, skin temperature sensors, flashlight, and built-in EKG reader with atrial fibrillation detection. They also give you a daily evening report with suggestions on how much sleep you should get, plus a digest of your upcoming events, workouts, and the weather. You also get access to Garmin Coach, a free multipart workout program, which allows you to upload your course and receive notifications when you’ve hit certain distance benchmarks. \n\nWhile both smartwatches have a lot in common, they do have some key differences, the main being that the 970 has maps. The Forerunner 570 comes in 42mm and 47mm sizes, and Garmin says its battery lasts up to 10 or 11 days based on which model you pick  (with the always-on display off.) The Forerunner 970 only comes in a 47mm size, and Garmin says it can last up to 15 days per charge. The Forerunner 970 also includes three exclusive metrics: running tolerance, running economy, and speed step loss. \n\nThese three tools will give you a weekly maximum mileage recommendation (with the option to adjust it up or down), and assess running efficiency. The running economy and step speed loss features require Garmin’s $169.99 HRM 600 heart rate monitor.\n\nThe Forerunner 570 is a definite step up from the Forerunner 265, but not a big enough leap to recommend it to everyone instead of that model, especially because it doesn’t offer offline maps. The Forerunner 970 may be overkill for all but the most avid runners, but it’s good to see Garmin continually adding new features to the top of its line. \n\nRead my full Garmin Forerunner 265S review.\n\nThe best Garmin for endurance sports\nGarmin Epix Pro Sapphire Edition (42mm)\nThe Garmin Epix Pro comes in three sizes, includes a handy flashlight, and has multiband GPS. Plus, it lasts over a week on a single charge.\n\nScore: 8ProsConsNow comes in multiple sizesHands-free flashlight is SO handyGreat battery lifeMultiband GPSUpgraded heart rate sensorStarting price hasn’t changedAOD zaps battery life to three to four daysLots of incremental changesIt’s a Garmin review, so once again, the app\nWhere to Buy: $999.99 $689.95 at Amazon $999.99 at Garmin $1000 at REI\nSizes: 42mm w/ 20mm straps; 47mm w/ 22mm straps; 51mm w/ 26mm straps / Weight: 42mm: 63g stainless steel, 58g titanium; 47mm: 78g stainless steel, 70g titanium; 51mm: 98g stainless steel, 88g titanium / Battery life: 42mm: up to 10 days (4 with AOD); 47mm: up to 16 days (6 with AOD); 51mm: up to 31 days (11 with AOD) / Display type: OLED / GPS: All-systems GNSS and dual-frequency GPS / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 10ATM / Music storage: Up to 32GB\n\nThe Epix Pro will get you most fitness features Garmin had to offer, plus topographical maps, turn-by-turn navigation, and more training metrics than even a seasoned triathlete would know what to do with.\n\nThe Pro is more size-inclusive than the standard second-gen Epix, which only comes in 47mm. You can get the Pro in that size, too, but it also comes in 42mm and 51mm. This was a major complaint I had with the second-gen Epix, and you love to see companies actually take this sort of thing seriously. The best part is that the Pro models start at the same price as the regular Epix did. You’ll have to pay $100 extra for materials like titanium and sapphire crystal, but that’s also true of the standard Epix.\nGarmin Fenix 8\nThe Garmin Fenix 8 adds smart features like the ability to take calls on the wrist, and an on-board voice assistant.\n\nScore: 7ProsConsSmartens up Garmin’s flagship multisport watchExcellent battery and fitness trackingOffers MIP and OLED display optionsCondenses the Fenix and Epix lines into oneThe starting price is $350 more than the Fenix 7!Smart features are less helpful without LTE\nWhere to Buy: $999.99 at Garmin $1000 at REI $999.99 at Amazon\nThat said, it muddies the waters if you’re trying to pick between the Epix Pro, Fenix 7, Fenix 7 Pro, and now, the Fenix 8. The main difference is that the Epix watches all have OLED displays. One reason I prefer OLED screens is that they’re much easier to read indoors — where most of us spend the majority of our time. The Fenix 7 series’ memory-in-pixel displays (plus solar charging if you opt for it) allow for weeks and weeks of charge, but the smallest Epix Pro can get around 10 days with normal usage. The 47mm and 51mm Pro models can go longer between charges due to bigger batteries, but I felt that the 42mm has enough juice to satisfy most use cases. Garmin also has so many battery-saving modes and options that I highly doubt this will ever be an issue.\n\nNot helping matters is the fact that the Fenix 8 lets you choose between an OLED and an MIP display. You also get smart features like an onboard voice assistant, the ability to take calls from the wrist, and the Garmin Messenger app. The main problem is that the starting price is now $350 more (barring any deals) than the standard Fenix 7 and right about on par with the Epix Pro. My personal feeling is that the Fenix 8’s smart features are just okay and that you’re really not missing much by not having them. We also often see discounts on older models, so I would put on my bargain-hunting hat for a discounted Epix Pro or Fenix 7 Pro while inventory is still available.\n\nBut really, the winning feature of the Epix Pro is the hands-free flashlight. It’s so useful in my day-to-day life, and all you have to do is double-press a button. It’s as bright as your smartphone, comes with a red light option if you want something easier on the eyes, and can act as a strobe in an emergency situation. The Fenix 7 Pro and 8 watches also have a flashlight, so a lot of this is going to come down to personal preference for the display, price, and whether you care about smart features.\n\nWe haven’t had a chance to get our hands on it yet, but Garmin also recently announced the&nbsp;Fenix 8 Pro. The watch, which starts at $1,199.99, is available in 47mm and 51mm sizes with either an OLED or MicroLED display. All models feature LTE and satellite connectivity, which costs $7.99 a month and allows you to send text and voice messages through the Garmin Messenger app when your phone is unavailable. The expanded connectivity also enables LiveTrack location sharing and access to real-time weather forecasts, as well as SOS requests, which get routed to  Garmin’s Response Center and emergency services in the event of an emergency.\nGarmin Fenix 7S Pro\nLike the Garmin Epix Pro, the Fenix 7 Pro line has an updated optical heart rate sensor for improved accuracy. It also has excellent battery life, a slightly brighter MIP display, solar charging, and the option of upgrading to sapphire crystal.\n\nScore: 8ProsConsHands-free flashlightLong battery lifeMultiband GPSUpgraded heart rate monitorThe improved MIP display is still not the easiest to read in dim lightingToo similar to the standard Fenix 7\nWhere to Buy: $899.99 $730.33 at Amazon $899.99 $749.99 at Best Buy $899.99 at Garmin\nIf you’re set on getting the most battery life possible, I recommend the Fenix 7 Pro over the standard 7 for a few reasons. Its MIP display is slightly brighter, all sizes have the flashlight, and, like the Epix Pro, it has an updated sensor array. I also recommend it over the MIP versions of the Fenix 8 because it comes in more sizes, and costs around $300 less. Especially since the Fenix 8’s smart features are a bit half-baked.\n\nRead my full Epix Pro review.\n\nThe best Garmin for those on a budget\nGarmin Vivomove Sport\nGarmin’s entry-level hybrid smartwatch looks like a Swatch at first glance. However, it sports a hidden OLED display that delivers notifications without sacrificing fitness tracking.\n\nScore: 8ProsConsAesthetically pleasing and accurate trackingGood for smaller wristsAffordable priceThe hidden OLED is coolThe Garmin app is overly complicatedBattery life is shorter than other hybrids\nWhere to Buy: $179.99 $174.99 at Amazon $179.99 at Garmin\nSizes: 40mm w/ 20mm straps / Weight: 19g / Battery life: Up to 5 days / Display type: “Hidden” OLED touchscreen / GPS: Tethered GPS / Connectivity: Bluetooth, Ant Plus / Water resistance: 5ATM / Music storage: N/A\n\nWhat I love most about the Vivomove Sport is that it doesn’t look like what most people expect from a Garmin. It’s a hybrid smartwatch, which means it looks like a regular watch but can track fitness and deliver notifications. Garmin’s hybrids are also unique in that they all use an OLED display that stays hidden until you need it.\n\nThis is best suited for a casually active person who wants style and value in a lightweight package. Think wellness, more so than fitness. It gets you continuous heart rate monitoring and blood oxygen level monitoring, and can even provide abnormal heart rate alerts. You also get access to more in-depth metrics like respiration rate, fitness age, stress, and Body Battery, which is Garmin’s tool for visualizing how well-rested you are. For smart features, you get all the basics, like notifications, alarms, and timers.\n\nThe Sport isn’t quite as full-featured as some other Garmin watches you’ll find on this list. For instance, you’re giving up built-in GPS in favor of tethered GPS through your phone. There are no contactless payments, nor is there a microphone or speaker for taking calls on the wrist. But this is a budget pick, and you get a lot, considering this is an entry-level gadget that could pass for a Swatch at a glance.\n\nI don’t love that the battery life is short for a hybrid, at around three to four days. Even so, that’s still much better than what you’ll get on a recent Apple Watch or Android watch running Wear OS 5 or 6. If you’re willing to spend about $100 more, the $269.99 Vivomove Trend has more chic materials, gets you more screen real estate, and wireless Qi charging. Otherwise, this is a great lifestyle wearable that can serve as a classier alternative to your typical fitness band.\nGarmin Lily 2\nThe Garmin Lily 2 is a simple yet chic hybrid analog smartwatch that delivers basic fitness tracking, notifications, and up to five days of battery life.\n\nWhere to Buy: $249.99 $199.99 at Amazon $249.99 $199.99 at Best Buy $249.99 at Garmin\nIf you prefer something newer to the Sport that’s also stylish, the Garmin Lily 2 is another good option, especially if you’ve got particularly small wrists or prefer something extremely lightweight. The swipe and tap gestures are still a little fiddly to use — which was also the case with the first-gen model — but the fresh design is a fun way to lightly monitor your fitness without bogging yourself down with notifications. Garmin also offers the Lily 2 Active, which adds a physical button, GPS, and support for more sports tracking for a starting price of $299.99.\n\nRead my full Garmin Vivomove Sport review.\n\nThe best Garmin to replace a Fitbit\nGarmin Venu Sq 2\nThe Garmin Venu Sq 2 is a great replacement for a Fitbit smartwatch. Not only do they look similar, but the Venu Sq 2 has way more fitness features, long battery life, and no subscription.\n\nScore: 8ProsConsBright displayLong battery lifeTons of training and health featuresCluttered appProprietary USB-A charger\nWhere to Buy: $249.99 $184.9 at Amazon $249.99 at Garmin\nSizes: 40mm w/ 20mm straps / Weight: 38g / Battery life: Up to 11 days / Display type: OLED touchscreen / GPS: All-systems GNSS / Connectivity: Bluetooth, Ant Plus / Water resistance: 5ATM / Music storage: 4GB (for Music Edition)\n\nIf you were disappointed by the Fitbit Sense 2 and Versa 4, the Venu Sq 2 is the next best thing (and, in some ways, better).\n\nAt a glance, the Venu Sq 2 could easily be mistaken for an Apple Watch. On the wrist, you’ll notice it’s made of plastic, but it still looks quite chic and extremely lightweight. The screen is bright, easy to read, and looks better than any Versa or Sense ever did.\n\nThe feature set is also great for the price, with built-in GPS, a ton of watch faces, emergency safety features, and contactless payments. If you pay $50 more for the Music Edition, you’ll also get enough storage to hold about 500 songs, but we wouldn’t recommend it. This watch doesn’t have cellular connectivity and, therefore, isn’t truly standalone. You’ll most likely be carrying your phone with you anyway.\n\nAs for health features, the Venu Sq 2 basically has everything you’d get on a Versa or Sense smartwatch but with Garmin’s treasure trove of metrics as well. That includes heart rate tracking, blood oxygen tracking, intensity minutes (how much moderate exercise you get in a week), stress tracking, hydration tracking, respiratory rate, period tracking, and Garmin’s recovery feature, Body Battery. As far as fitness goes, you also get access to Garmin Coach, which provides free 5K, 10K, and half marathon training plans. You love to see it.\n\nAnother big leg-up Garmin has over Fitbit? None of these features or metrics are locked behind a paywall, even if Garmin’s AI-powered insights and a few other expanded features are only available as part of Garmin Connect Plus ($6.99 a month / $69.99 annually).\n\nRead my full Garmin Venu Sq 2 review.\n\nThe best Garmin smartwatch\nGarmin Venu 3S\nThe Garmin Venu 3S adds a heart rate sensor, a wheelchair mode, and much-improved sleep tracking and nap detection. \n\nScore: 7ProsConsGood battery lifeBetter sleep tracking and nap detectionEKG and AFib featuresCan take calls and use your phone’s voice assistantAudio meditation sessions done wellPricey compared to other lifestyle smartwatchesLimited third-party app ecosystemNo LTE capability\nWhere to Buy: $449.99 $384.95 at Amazon $449.99 $384.95 at Walmart $449.99 $384.99 at Best Buy\nSizes: 41mm w/ 18mm straps; 45mm w/ 22mm straps / Weight: 40g for the 3S; 47g for the 3 / Battery life: Up to 10 days for 3S; 14 days for 3 / Display type: OLED touchscreen / GPS: GPS, GLONASS, GALILEO / Connectivity: Bluetooth, Ant Plus, Wi-Fi / Water resistance: 5ATM / Music storage: 8GB\n\nGarmin has shored up the smarts in its watches over the past several years, and the Venu 3 series is one of the smartest (and most affordable) of the bunch.\n\nThe Venu 3 series comes in two sizes: 41mm and 45mm. Like the Venu 2 Plus, it has a microphone and speaker. You can take calls directly from the wrist and issue commands to your phone’s digital assistant via Bluetooth. It’s not the same as having Siri, Bixby, Amazon Alexa, or Google Assistant built directly into the watch, but it’s a clever workaround that works well for hands-free control. It also supports safety features like fall detection and live tracking, as well as contactless payments.\n\nLike other OLED Garmins, the display is both vibrant and easy to read. As for health and fitness, you get a nice mix of basic and more advanced features and metrics. It has a heart rate sensor that enables FDA-cleared EKG and AFib detection features. Overall, it leans a bit more on the wellness and health side of things, with intensity minutes, blood oxygen monitoring, sleep tracking, period tracking, abnormal heart rate alerts, and stress tracking. As for training, you still get built-in GPS, VO2 Max, heart rate zones, respiration rate, and downloadable training plans via Garmin Coach.\n\nThe Venu 3 and 3S have a sleep coach that factors in metrics like heart rate variability and recent activity to determine your sleep needs. It also adds nap detection, a feature that’s been long overdue for the Garmin platform, and audio-guided meditation sessions. From an accessibility standpoint, this also adds a wheelchair mode.\n\nTechnically, the Fenix 8 is slightly smarter in that it has an onboard voice assistant. However, it is also more than double the price and not what I’d consider a good value for the average athlete. It’s more for people who spend hours upon hours training every week.\n\nThis is the Garmin for you if you want the platform’s in-depth training without sacrificing the productivity of a smartwatch. The main features it’s lacking are cellular options and a robust third-party app ecosystem. That said, it’s got Spotify, Amazon Music, and Deezer for offline listening. It’s also a good option if you’re fed up with MIP displays and want a smarter Garmin rather than a full-on smartwatch.\n\nHowever, it is worth noting that Garmin recently launched the Garmin Venu 4. The new model is available in two sizes, 41mm and 45mm, both of which are available from Amazon, Best Buy, and Garmin for $549.99. The smartwatch features more advanced wellness features than the Venu 3, including the ability to log your caffeine and alcohol intake, providing insights into how they may be impacting your sleep. Garmin’s Fitness Coach can also create a personalized workout regimen from a pool of 25 exercises, which are based on your prior performance, recovery level, and recent sleep patterns.\n\nRead my full Garmin Venu 3S review.\n\nUpdate, October 28th: Adjusted pricing and availability. Brandt Ranj also contributed to this post.",
+      "content_length": 22339,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jihadists enforce a blockade on fuel in Mali",
+      "link": "https://www.france24.com/en/video/20251028-jihadists-enforce-a-blockade-on-fuel-in-mali",
+      "published": "2025-10-28T20:34:14",
+      "content": "The U.S. Embassy in Mali told American citizens Tuesday to leave the country by plane because of the threats of terrorism and a severe fuel crisis stemming from a jihadi group's blockade of fuel tankers entering the landlocked West African nation. Mali closed schools and universities nationwide starting Sunday due to a fuel scarcity.",
+      "content_length": 335,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US embassy urges citizens in Mali to 'depart immediately' over safety concerns",
+      "link": "https://www.france24.com/en/africa/20251028-us-embassy-urges-citizens-in-mali-to-depart-immediately-amid-fuel-blockade",
+      "published": "2025-10-28T20:26:09",
+      "content": "The US embassy in Mali on Tuesday urged American citizens to \"depart immediately using commercial aviation\" as a fuel blockade by jihadists renders daily life increasingly dangerous. The al Qaeda-linked fighters have targeted fuel tankers in an apparent attempt to isolate the capital Bamako.",
+      "content_length": 292,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netanjahu ordnet neue Angriffe im Gazastreifen an",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-angriffe-gaza-100.html",
+      "published": "2025-10-28T20:22:53",
+      "content": "   Die israelische Armee fliegt wieder Luftangriffe im Gazastreifen - das hatte Premier Netanjahu kurz zuvor angeordnet. Die Spannungen hatten zuletzt zugenommen, auch wegen der verzögerten Übergabe toter Geiseln.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "What the Trump family stands to gain from Changpeng Zhao’s pardon",
+      "link": "https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump",
+      "published": "2025-10-28T20:05:00",
+      "content": "\n\n\n\t\n\t\t\n\nHello and welcome to Regulator.\nWhen it comes to the news cycle, only the actual destruction of the White House could have overshadowed the slate of dubious pardons that President Donald Trump issued last week, including former Rep. George Santos, the compulsive fabulist who had been expelled from Congress for making false statements and went to prison for numerous counts of fraud, and Changpeng Zhao, billionaire and former CEO of the crypto exchange Binance. Unfortunately, the White House did get destroyed, and CZ's pardon seems to have been put on the news backburner as Washington stares at the literal pile of rubble that was the East Win …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Brazil: at least 64 reported killed in Rio’s worst day of violence amid police favela raids",
+      "link": "https://www.theguardian.com/world/2025/oct/28/brazil-rio-at-war-police-drug-raids-favelas",
+      "published": "2025-10-28T19:55:00",
+      "content": "Governor says city ‘at war’ after gunfights between troops and Red Command drug traffickers who reportedly used weaponised dronesAt least 64 people have reportedly been killed in Rio’s worst-ever day of violence as more than 2,500 officers and special forces stormed an area of favelas near Rio’s international airport that is considered the headquarters of one of Brazil’s most powerful organised crime groups.The predawn police raid – the deadliest in Rio’s history – sparked intense gunfights in and around Alemão and Penha favelas, which are home to an estimated 300,000 people. Continue reading...",
+      "content_length": 602,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Musk launches Grokipedia to rival 'left-biased' Wikipedia",
+      "link": "https://www.france24.com/en/video/20251028-musk-launches-grokipedia-to-rival-left-biased-wikipedia",
+      "published": "2025-10-28T19:33:59",
+      "content": "Elon Musk's company xAI has launched a website called Grokipedia to compete with online encyclopedia Wikipedia, which he and others on the American right wing have accused of ideological bias. But can Grok's information be trusted? FRANCE 24's International Affairs Editor Kethevane takes a look.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US launches strikes on alleged drug-running boats off Colombia, killing 14",
+      "link": "https://www.france24.com/en/video/20251028-us-launches-strikes-on-alleged-drug-running-boats-off-colombia-killing-14",
+      "published": "2025-10-28T19:28:44",
+      "content": "Defense Secretary Pete Hegseth announced Tuesday that the U.S. military has carried out three strikes in the eastern Pacific Ocean on four boats accused of carrying drugs, killing 14 people and leaving one survivor on the deadliest single day since the Trump administration began its divisive campaign against drug trafficking in the waters off South America. FRANCE 24's Caroline Baum reports.",
+      "content_length": 394,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli planes strike Gaza City after Netanyahu orders 'powerful attacks'",
+      "link": "https://www.france24.com/en/video/20251028-israeli-planes-strike-gaza-city-after-netanyahu-orders-powerful-attacks",
+      "published": "2025-10-28T19:20:07",
+      "content": "Israeli planes launched strikes on Gaza City on Tuesday after Prime Minister Benjamin Netanyahu accused the militant group Hamas of violating a ceasefire in the Palestinian territory and ordered the military to carry out \"powerful attacks\". The Israeli strikes targeted an area close to Shifa hospital, the largest operational hospital in northern Gaza, witnesses and Hamas media said. There was no word yet on any casualties.",
+      "content_length": 426,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "If things in America weren’t stupid enough, Texas is suing Tylenol maker",
+      "link": "https://arstechnica.com/health/2025/10/if-things-in-america-werent-stupid-enough-texas-is-suing-tylenol-maker/",
+      "published": "2025-10-28T19:12:29",
+      "content": "While the underlying cause or causes of autism spectrum disorder remain elusive and appear likely to be a complex interplay of genetic and environmental factors, President Trump and his anti-vaccine health secretary Robert F. Kennedy Jr.—neither of whom have any scientific or medical background whatsoever—have decided to pin the blame on Tylenol, a common pain reliever and fever reducer that has no proven link to autism.\nAnd now, Texas Attorney General Ken Paxton is suing the maker of Tylenol, Kenvue and Johnson &amp; Johnson, who previously sold Tylenol, claiming that they have been “deceptively marketing Tylenol” knowing that it “leads to a significantly increased risk of autism and other disorders.”\nTo back that claim, Paxton relies on the “considerable body of evidence… recently highlighted by the Trump Administration.”Read full article\nComments",
+      "content_length": 861,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "ARD-Korrespondentin: \"Luftangriffe an verschiedenen Orten im Gazastreifen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriffe-102.html",
+      "published": "2025-10-28T19:07:24",
+      "content": "   Erst gab es Angriffe im Süden, dann im Zentrum des Gazastreifens, berichtet ARD-Korrespondentin Sophie von der Tann. Trotzdem gebe es bei verschiedenen Akteuren ein großes Interesse daran, dass die Waffenruhe Bestand habe.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The latest Apple TV 4K just received a rare $30 discount",
+      "link": "https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale",
+      "published": "2025-10-28T18:57:05",
+      "content": "\n\n\n\t\n\t\t\n\nApple’s 4K streaming device rarely goes on sale, but right now it’s available for its lowest price to date at Costco.com. Now through October 31st, Costco members can buy the third-gen Apple TV 4K online with an expanded 128GB of storage for just $119.99 ($30 off). If you’re not already a member, you can still take advantage of the deal if you sign up for an annual subscription, which starts at $65 a year.\nApple TV 4K (third-gen)\n\nWhere to Buy: $149 $119.99 at Costco (128GB) $129 at Walmart (64GB) $129.99 at Best Buy (64GB)\nThe 2022 Apple TV 4K is an excellent choice for anyone invested in the Apple ecosystem, one that offers a level of integration you won’t find in competing products from Google, Amazon, or Roku. For example, you can use your iPhone as a remote, pair it with two sets of AirPods for private listening, or view your Apple Fitness Plus workout metrics on the big screen. It even supports Apple’s Continuity Camera feature, letting you take FaceTime calls directly from your TV.\n\nThanks to the recent release of tvOS 26, you can also access a new karaoke mode called Sing in Apple Music, which lets you use your iPhone as a mic and view song lyrics on your TV screen, with the appropriate translation and pronunciation cues. You can even pair the Apple TV 4K with an AirPlay-enabled speaker and quickly jump back into your favorite apps, courtesy of a new feature that automatically loads your profile when the device wakes up.\n\nNew tvOS features aside, the latest Apple TV 4K is just a good streaming device. Despite being nearly three years old, it’s still plenty fast, and supports HDR10 Plus, Dolby Vision, Dolby Atmos, and Wi-Fi 6. Plus, unlike the 64GB entry-level model, the 128GB configuration features a built-in ethernet port and support for the newer Thread protocol, making it a great option for smart home enthusiasts.\n\nRead our full Apple TV 4K (third-gen) review.",
+      "content_length": 1912,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The FCC just gave itself the power to make a DJI drone ban stick",
+      "link": "https://www.theverge.com/report/808104/fcc-order-retroactive-ban-transmitter-national-security",
+      "published": "2025-10-28T18:32:01",
+      "content": "\n\n\n\t\n\t\t\n\nThis morning, the Federal Communications Commission (FCC) voted 3-0 to let itself retroactively ban gadgets and radio components that it previously approved for entry into the United States, if the company that makes them is deemed a national security risk.\nOfficially, it's a way to close loopholes and protect US networks from backdoors in Chinese telecom gear. But it could also give the Trump administration a new way to block Chinese consumer electronics that run on the open airwaves, starting with those from dronemaker DJI, even though the US government hasn't publicly released evidence that they pose a threat.\nOn December 23rd, less tha …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "An autonomous car for consumers? Lucid says it’s happening.",
+      "link": "https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/",
+      "published": "2025-10-28T18:30:32",
+      "content": "Is it possible to be a CEO in 2025 and not catch a case of AI fever? The latest company to catch this particular cold is Lucid, the Saudi-backed electric vehicle startup. Today, it announced a new collaboration with Nvidia to use the latter’s hardware and software, with the aim of creating an autonomous vehicle for consumers. Oh, and the AI will apparently design Lucid’s production lines.\nFormed by refugees from Tesla who saw a chance to improve on their past work, Lucid has already built the most efficient EV on sale in North America. But until recently, it also just had variants of the same Air sedan to offer consumers, before the Gravity SUV joined the range this year.\nThe company will need to start selling tens of thousands of EVs a year before too long, especially if it’s ever to become profitable. And that will involve some smaller, cheaper models, starting with a midsize crossover sometime in 2027. A major goal for the first of those EVs is a starting price of less than $50,000, so I hope they’re getting a good deal on the Nvidia GPUs that Lucid now says will enable a “true eyes-off, hands-off, and mind-off” autonomous driving system for consumer-owned vehicles.Read full article\nComments",
+      "content_length": 1213,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
+      "link": "https://arstechnica.com/tech-policy/2025/10/senators-move-to-keep-big-techs-creepy-companion-bots-away-from-kids/",
+      "published": "2025-10-28T18:28:51",
+      "content": "The US will weigh a ban on children’s access to companion bots, as two senators announced bipartisan legislation Tuesday that would criminalize making chatbots that encourage harms like suicidal ideation or engage kids in sexually explicit chats.\nAt a press conference, Josh Hawley (R-Mo.) and Richard Blumenthal (D-Conn.) introduced the GUARD Act, joined by grieving parents holding up photos of their children lost after engaging with chatbots.\nIf passed, the law would require chatbot makers to check IDs or use “any other commercially reasonable method” to accurately assess if a user is a minor who must be blocked. Companion bots would also have to repeatedly remind users of all ages that they aren’t real humans or trusted professionals.Read full article\nComments",
+      "content_length": 771,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+      "link": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
+      "published": "2025-10-28T18:11:36",
+      "content": "An AI language model like the kind that powers ChatGPT is a gigantic statistical web of data relationships. You give it a prompt (such as a question), and it provides a response that is statistically related and hopefully helpful. At first, ChatGPT was a tech amusement, but now hundreds of millions of people are relying on this statistical process to guide them through life’s challenges. It’s the first time in history that large numbers of people have begun to confide their feelings to a talking machine, and mitigating the potential harm the systems can cause has been an ongoing challenge.\nOn Monday, OpenAI released data estimating that 0.15 percent of ChatGPT’s active users in a given week have conversations that include explicit indicators of potential suicidal planning or intent. It’s a tiny fraction of the overall user base, but with more than 800 million weekly active users, that translates to over a million people each week, reports TechCrunch.\nOpenAI also estimates that a similar percentage of users show heightened levels of emotional attachment to ChatGPT, and that hundreds of thousands of people show signs of psychosis or mania in their weekly conversations with the chatbot.Read full article\nComments",
+      "content_length": 1228,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
+      "link": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
+      "published": "2025-10-28T18:10:18",
+      "content": "After kicking off an unpopular pilot test last month, Samsung made the practice of having its expensive smart fridges display ads official this week.\nThe ads will be shown on Samsung’s 2024 Family Hub smart fridges. As of this writing, Samsung’s Family Hub fridges have MSRPs ranging from $1,899 to $3,499. The ads will arrive through a software update that Samsung will start issuing this month and display on the fridge’s integrated 21.5- or 32-inch (depending on the model) screen. The ads will show when the fridges are idle and display what Samsung calls Cover Screens.\nAs part of the Family Hub software update, we are piloting a new widget for select Cover Screens themes of Family Hub refrigerators. The widget will display useful day-to-day information such as news, calendar and weather forecasts, along with curated advertisements.\nSamsung also said that its fridges will only show contextualized ads, instead of personalized ads, which rely on collecting data on users.Read full article\nComments",
+      "content_length": 1007,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore",
+      "link": "https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/",
+      "published": "2025-10-28T18:00:21",
+      "content": "Hurricane Melissa made landfall in southwestern Jamaica, near New Hope, on Tuesday at 1 pm ET with staggeringly powerful sustained winds of 185 mph.\nIn the National Hurricane Center update noting the precise landfall time and location, specialist Larry Kelly characterized Melissa as an “extremely dangerous and life-threatening” hurricane. Melissa is bringing very heavy rainfall, damaging surge, and destructive winds to the small Caribbean island that is home to about 3 million people.\nThe effects on the island are sure to be catastrophic and prolonged.Read full article\nComments",
+      "content_length": 584,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "False claims online damaged Brigitte Macron’s quality of life, daughter tells court",
+      "link": "https://www.theguardian.com/world/2025/oct/28/false-claims-online-damaged-brigitte-macrons-quality-of-life-daughter-tells-court",
+      "published": "2025-10-28T17:57:53",
+      "content": "Tiphaine Auzière spoke at trial of 10 people accused of harassment by posting claims that French first lady was born a manBrigitte Macron’s daughter has told a Paris court that false claims online that the French first lady was born a man had damaged her mother’s quality of life, leaving her worrying every day about the clothes she wears and how she stands.Tiphaine Auzière, 41, a lawyer, was called as a witness at the trial of 10 people accused of online harassment of Brigitte Macron by creating or reposting social media posts falsely claiming she was a man. Continue reading...",
+      "content_length": 584,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Violent police raids in Rio de Janeiro kill at least 64 people",
+      "link": "https://www.france24.com/en/live-news/20251028-at-least-18-suspects-killed-in-rio-anti-drug-raid-governor",
+      "published": "2025-10-28T17:57:15",
+      "content": "At least 64 people were killed and 81 arrested in northern Rio de Janeiro on Tuesday as police launched their biggest ever raid on the city's main drug-trafficking gang. As many as 2,500 heavily-armed officers, backed by armoured vehicles, helicopters and drones, took part in the operation.",
+      "content_length": 291,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Python plan to boost software security foiled by Trump admin’s anti-DEI rules",
+      "link": "https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/",
+      "published": "2025-10-28T17:45:34",
+      "content": "The Python Software Foundation has rejected a $1.5 million government grant because of anti-DEI requirements imposed by the Trump administration, the nonprofit said in a blog post yesterday. The grant would have been the largest in the organization’s history.\nHoping to “address structural vulnerabilities in Python and PyPI,” the foundation submitted a grant proposal in January 2025 to the National Science Foundation’s Safety, Security, and Privacy of Open Source Ecosystems program. After a “multi-round proposal writing process” and a “months-long vetting process,” it appeared the foundation was close to obtaining a two-year grant worth $1.5 million.\nBut what at first seemed like good news quickly turned sour due to rules against Diversity, Equity, and Inclusion programs, the foundation said:Read full article\nComments",
+      "content_length": 828,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kommentar: Der Rechtsstaat wird mitabgeschoben",
+      "link": "https://www.tagesschau.de/kommentar/abschiebungen-rechtsprechung-bverfg-100.html",
+      "published": "2025-10-28T17:41:48",
+      "content": "   Karlsruhe pocht bei Festnahmen rund um Abschiebungen auf Kontrolle durch Gerichte - zu Recht, meint Max Bauer. Menschen in Abschiebungshaft mögen kein Aufenthaltsrecht in Deutschland haben, sie sind dennoch Menschen mit Rechten.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Studie: Ältere verursachen Unfälle oft wegen Notfällen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/senioren-verkehr-studie-100.html",
+      "published": "2025-10-28T17:25:24",
+      "content": "   Verpflichtende Tests für Senioren im Straßenverkehr? Die könnten nur einen Bruchteil der Unfälle verhindern, zeigt eine Studie. Was die Forscher stattdessen zur Vorbeugung empfehlen. Von L. Bisch und T. Denzel.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mass killings reported in Sudanese city seized by paramilitary group",
+      "link": "https://www.theguardian.com/world/2025/oct/28/mass-killings-reported-el-fasher-sudan-paramilitary-group-rapid-support-forces",
+      "published": "2025-10-28T17:10:03",
+      "content": "Rapid Support Forces accused of killing more than 2,000 unarmed civilians in El Fasher in recent daysReports of ethnically motivated mass killings and other atrocities are emerging from El Fasher after the paramilitary Rapid Support Forces took control of the city in Sudan’s western Darfur region over the weekend.Video released by local activists showed a fighter known for executing civilians in RSF-controlled areas shooting a group of unarmed civilians sitting on the ground at point-blank range. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hurricane Melissa batters Jamaica with catastrophic, record-breaking winds",
+      "link": "https://www.france24.com/en/live-news/20251028-jamaica-braces-for-historic-storm-as-hurricane-melissa-makes-landfall",
+      "published": "2025-10-28T17:10:00",
+      "content": "Hurricane Melissa made landfall on Tuesday in Jamaica as a catastrophic Category 5 storm, one of the strongest Atlantic hurricanes in history. Authorities urged people to seek shelter and stay indoors as a storm surge of up to 4 metres and wind speeds of 295 kph were expected across southern Jamaica.",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
+      "link": "https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/",
+      "published": "2025-10-28T16:46:56",
+      "content": "Earlier this year, Slate Auto emerged from stealth mode and stunned industry watchers with the Slate Truck, a compact electric pickup it plans to sell for less than $30,000. Achieving that price won’t be easy, but Slate really does look to be doing things differently from the rest of the industry—even Tesla. For example, the truck will be made from just 600 parts, with no paint or even an infotainment system, to keep costs down.\nAn unanswered question until now has been “where do I take it to be fixed if it breaks?” Today, we have an answer. Slate is partnering with RepairPal to use the latter’s network of more than 4,000 locations across the US.\n“Slate’s OEM partnership with RepairPal’s nationwide network of service centers will give Slate customers peace of mind while empowering independent service shops to provide accessorization and service,” said Slate chief commercial officer Jeremy Snyder.Read full article\nComments",
+      "content_length": 935,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "14 Tote bei US-Angriff auf mutmaßliche Drogenboote im Pazifik",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-angriffe-pazifik-drogen-100.html",
+      "published": "2025-10-28T16:45:13",
+      "content": "   Immer wieder hat die US-Armee in den vergangenen Wochen mutmaßliche Drogenschmuggler-Boote versenkt, meist in der Karibik. Nun gab es mehrere folgenschwere Angriffe im Pazifik.[mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ivory Coast’s economic champion Ouattara consolidates power with fourth presidential term",
+      "link": "https://www.france24.com/en/africa/20251028-ivory-coast-s-economic-champion-ouattara-consolidates-power-with-fourth-presidential-term",
+      "published": "2025-10-28T16:44:28",
+      "content": "Ivory Coast’s Alassane Ouattara was re-elected in a landslide victory on Monday for a fourth presidential term, in a vote that was marked by the lack of credible opposition. The former high-ranking civil servant, who has led the West African country since 2011, has been both lauded for his economic success and accused of being an increasingly authoritarian leader.",
+      "content_length": 366,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Australia’s social media ban is “problematic,” but platforms will comply anyway",
+      "link": "https://arstechnica.com/tech-policy/2025/10/social-media-firms-abandon-fight-against-australia-law-banning-under-16-users/",
+      "published": "2025-10-28T16:36:29",
+      "content": "Social media platforms have agreed to comply with Australia’s social media ban for users under 16 years old, begrudgingly embracing the world’s most restrictive online child safety law.\nOn Tuesday, Meta, Snap, and TikTok confirmed to Australia’s parliament that they’ll start removing and deactivating more than a million underage accounts when the law’s enforcement begins on December 10, Reuters reported.\nFirms risk fines of up to $32.5 million for failing to block underage users.Read full article\nComments",
+      "content_length": 510,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Cyberbullying led to a 'deterioration' in Brigitte Macron's health, daughter says",
+      "link": "https://www.france24.com/en/france/20251028-cyberbullying-led-to-a-deterioration-in-brigitte-macron-s-health-says-her-daughter",
+      "published": "2025-10-28T16:33:24",
+      "content": "Brigitte Macron's daughter Tiphaine Auziére told a French court on Tuesday that cyberbullying had led to a \"deterioration\" in the French first lady's health. Auziére spoke on the second day of the trial in Paris, where 10 people are accused of amplifying rumours that her mother was assigned male at birth. French prosecutors announced earlier that day that they are seeking suspended prison terms of three months to 12 months for the defendants.",
+      "content_length": 446,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israel launches air strikes on Gaza after accusing Hamas of violating ceasefire",
+      "link": "https://www.france24.com/en/live-news/20251028-israeli-pm-netanyahu-orders-immediate-powerful-strikes-on-gaza",
+      "published": "2025-10-28T16:17:47",
+      "content": "Israeli air strikes killed at least eleven people and wounded four in Gaza City on Tuesday. This comes as Tel Aviv accused Hamas of ceasefire violations by carrying out an attack against Israeli forces. Hamas said in a statement that it remained committed to the truce in the enclave.",
+      "content_length": 284,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zelenskyy says Ukrainian and European officials will meet to discuss details of ceasefire plan – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/28/zelenskyy-ukraine-peace-talks-putin-russia-alexander-lukashenko-belarus-europe-live-news-latest-updates",
+      "published": "2025-10-28T16:03:16",
+      "content": "The Ukrainian president stressed that this would ‘not a plan to end the war’ but one to ‘begin diplomacy’EU’s von der Leyen also gets asked about the balloons disrupting the Lithuanian airspace.She says she wants to “express my full solidarity” with Lithuania, and calls it “a provocation, a hybrid threat,” which “we cannot tolerate.”We’re in for the long haul. We are ready to cover the financing needs of Ukraine, so that we are standing by Ukraine for as long as it takes. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Teenager from Gaza ‘stuck in hell’ after being prevented from joining mother in UK",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/28/teenager-from-gaza-stuck-in-hell-after-being-prevented-from-joining-mother-in-uk",
+      "published": "2025-10-28T16:00:36",
+      "content": "Dania Alafranji, 16, still waiting on visa from Home Office despite being offered school place in Berkshire 18 months agoA teenager from Gaza who has been denied an opportunity to attend school in Britain and be reunited with her mother has said she is “stuck in hell”, despite other European countries making exceptions for students from the region.Dania Alafranji, 16, was accepted on to the Nsouli Scholars Programme to attend Reddam House school in Berkshire more than 18 months ago, but has yet to receive a visa that would allow her to escape the war in Gaza, with her family saying that they feel helpless and have been “going in circles” trying to get her to Britain. Continue reading...",
+      "content_length": 695,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Health: mRNA Covid vaccines may help fight cancer",
+      "link": "https://www.france24.com/en/video/20251028-health-mrna-covid-vaccines-may-help-fight-cancer",
+      "published": "2025-10-28T15:41:34",
+      "content": "Preliminary research published in Nature suggests that COVID-19 vaccines, particularly Pfizer and Moderna, may offer unexpected benefits for cancer patients. People with advanced lung or skin cancer who received the vaccine within 100 days of starting immunotherapy lived significantly longer. Researchers found that the mRNA in the vaccines might enhance the immune system’s response to cancer treatments, independent of any virus-related effects.",
+      "content_length": 448,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US strikes on alleged drug-running boats in eastern Pacific kill 14",
+      "link": "https://www.france24.com/en/americas/20251028-us-strikes-on-alleged-drug-running-boats-in-eastern-pacific-kill-14",
+      "published": "2025-10-28T15:41:30",
+      "content": "The US military carried out three strikes off the coast of Colombia on Monday against suspected drug-running boats, killing 14 and leaving one survivor. The death toll from the 13 disclosed strikes since early September now stands at at least 57 people.",
+      "content_length": 253,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Texas sues Tylenol makers, claiming they hid drug's autism risks",
+      "link": "https://www.france24.com/en/video/20251028-texas-sues-tylenol-makers-claiming-they-hid-drug-s-autism-risks",
+      "published": "2025-10-28T15:40:14",
+      "content": "The makers of Tylenol, Johnson & Johnson and Kenvue, were sued on Tuesday by Texas Attorney General Ken Paxton, who accused them of knowingly hiding the drug's supposed links to autism and attention deficit hyperactivity disorder. Paxton, a Republican, sued five weeks after Republican President Donald Trump said using Tylenol during pregnancy can cause autism in children. Trump is not a doctor, and his claim is unproven and not backed by scientific evidence. FRANCE 24's Fraser Jackson has the details from Washington.",
+      "content_length": 522,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "AMD shores up its budget laptop CPUs by renaming more years-old silicon",
+      "link": "https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/",
+      "published": "2025-10-28T15:17:13",
+      "content": "As newer, more efficient silicon manufacturing processes have gotten more expensive and difficult to develop, chipmakers like Intel and AMD have repeatedly rebranded some of their older processors with new model numbers. This has allowed both companies to release “new” products that aren’t actually new at all, muddying the waters for people trying to buy lower-end and midrange laptops.\nAs spotted by Tom’s Hardware, AMD has quietly rebranded a swath of its Ryzen laptop chips with new model numbers without changing the silicon. The rebranded processors use either Rembrandt-R silicon with Zen 3+ CPU cores and RDNA 2 graphics cores or Mendocino silicon with Zen 2 CPU cores and RDNA 2 graphics cores. Both of these architectures first launched in 2022, but Mendocino’s Zen 2 CPU architecture dates all the way back to 2019. During the company’s model number decoder ring era, these designs had been sold as Ryzen 7035- and Ryzen 7020-series chips, respectively.\nThis is actually AMD’s second rebranding for the Rembrandt-R silicon, which was launched as the Ryzen 6000 series in 2022. These chips will compete most directly with Intel’s non-Ultra Core 100 series processors, most of which use 2022-vintage Raptor Lake silicon.Read full article\nComments",
+      "content_length": 1256,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Deutsche und ungarische Touristen sterben bei Flugzeugabsturz in Kenia",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-flugzeugabsturz-touristen-100.html",
+      "published": "2025-10-28T15:12:41",
+      "content": "   Kurz nach dem Start zu einer Safari ist ein Kleinflugzeug in Kenia abgestürzt. Alle elf Insassen kamen ums Leben. An Bord waren - neben dem kenianischen Piloten - zwei Deutsche und acht Ungarn.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Expert panel will determine AGI arrival in new Microsoft-OpenAI agreement",
+      "link": "https://arstechnica.com/information-technology/2025/10/expert-panel-will-determine-agi-arrival-in-new-microsoft-openai-agreement/",
+      "published": "2025-10-28T15:02:30",
+      "content": "On Monday, Microsoft and OpenAI announced a revised partnership agreement that introduces an independent expert panel to verify when OpenAI achieves so-called artificial general intelligence (AGI), a determination that will trigger major shifts in how the companies share technology and revenue. The deal values Microsoft’s stake in OpenAI at approximately $135 billion and extends the exclusive partnership through 2032 while giving both companies more freedom to pursue AGI independently.\nThe partnership began in 2019 when Microsoft invested $1 billion in OpenAI. Since then, Microsoft has provided billions in cloud computing resources through Azure and used OpenAI’s models as the basis of products like Copilot. The new agreement maintains Microsoft as OpenAI’s frontier model partner and preserves Microsoft’s exclusive rights to OpenAI’s IP and Azure API exclusivity until the threshold of AGI is reached.\nUnder a previous arrangement, OpenAI alone would determine when it achieved AGI, which is a nebulous concept that is difficult to define. The revised deal requires an independent expert panel to verify that claim, a change that adds oversight to a determination with billions of dollars at stake. When the panel confirms that AGI has been reached, Microsoft’s intellectual property rights to OpenAI’s research methods will expire, and the revenue-sharing arrangement between the companies will end, though payments will continue over a longer period.Read full article\nComments",
+      "content_length": 1490,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Häusliche Gewalt: Mehr Männer suchen Schutzeinrichtungen auf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/haeusliche-gewalt-maenner-schutz-100.html",
+      "published": "2025-10-28T14:51:43",
+      "content": "   Von häuslicher Gewalt sind vor allem Frauen betroffen, aber auch immer mehr Männer suchen Schutzeinrichtungen auf. Das geht aus einer neuen Statistik hervor. Das Problem: Die Plätze in Einrichtungen für Männer sind rar.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Jusos sammeln Unterschriften gegen die Bürgergeldreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-buergergeld-102.html",
+      "published": "2025-10-28T14:39:38",
+      "content": "   Begehrt die SPD-Basis nun gegen die geplante Reform des Bürgergelds von SPD-Ministerin Bas auf? Eine kleine Gruppe um Juso-Chef Türmer sammelt Unterschriften. Doch ein offizielles Mitgliederbegehren gibt es noch nicht. Von Evi Seibert.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hamas sorgt mit Übergabe von Leichnam für Empörung in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-empoerung-uebergabe-leichnam-100.html",
+      "published": "2025-10-28T14:37:57",
+      "content": "   Am Montag hat die Terrororganisation Hamas weitere sterbliche Überreste eines Mannes an das Rote Kreuz übergeben. Nun stellte sich heraus: Die Leiche des Getöteten war bereits in Israel beigesetzt worden.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "KanDDDinsky 2025: Eindrücke von Europas DDD-Community-Konferenz",
+      "link": "https://www.heise.de/blog/KanDDDinsky-2025-Eindruecke-von-Europas-DDD-Community-Konferenz-10794107.html",
+      "published": "2025-10-28T14:23:00",
+      "content": "Event Sourcing, CQRS und DDD sind keine Nische mehr. Ein Erfahrungsbericht von der KanDDDinsky 2025 in Berlin mit mehr als 250 Teilnehmenden.",
+      "content_length": 141,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Infrastructure-as-Code: Die neue Plattform formae soll Terraform & Co. ablösen",
+      "link": "https://www.heise.de/news/Infrastructure-as-Code-Die-neue-Plattform-formae-soll-Terraform-Co-abloesen-10771988.html",
+      "published": "2025-10-28T14:10:00",
+      "content": "Die Open-Source-Plattform formae will bestehende IaC-Ansätze reformieren und vereinfachen. Platform Engineering Labs tritt damit in Konkurrenz zu Terraform.",
+      "content_length": 156,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verfassungsgericht rügt Festnahmen vor Anordnung von Abschiebehaft",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bverfg-abschiebungen-festnahme-100.html",
+      "published": "2025-10-28T14:07:43",
+      "content": "   Abschiebungen sollen durch die Abschiebehaft abgesichert werden. Das Bundesverfassungsgericht betont nun: Vor jeder Festnahme muss ein Richter entscheiden - ein wichtiges Signal an Behörden und Gerichte. Von Max Bauer.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ostseefischer dürfen weiter Hering fangen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ostsee-fischer-hering-eu-100.html",
+      "published": "2025-10-28T14:00:44",
+      "content": "   Etwas weniger Scholle, aber gleich viel Hering wie im vergangenen Jahr: Die EU-Staaten erlauben Fischern höhere Fangmengen als von der Kommission vorgeschlagen. Umweltschützer sind nicht zufrieden.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "RSF-Miliz im Sudan: Krieg ohne Rücksicht auf Zivilisten",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-rsf-graeueltaten-100.html",
+      "published": "2025-10-28T13:20:24",
+      "content": "   Im Westen des Sudans ist laut UN-Angaben ein Ende der Gewalt nicht in Sicht. Die Armee hat die letzte Stadt in Darfur verlassen, Mitglieder der RSF-Miliz töten ungehemmt Zivilisten. Von Moritz Behrendt.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Weiteres Waffenversteck mit Sprengstoff in Remscheid entdeckt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-geheimraum-100.html",
+      "published": "2025-10-28T13:14:00",
+      "content": "   In einem Haus in Remscheid wurden mehr illegale Waffen gehortet als bislang angenommen. Die Staatsanwaltschaft bestätigte die Existenz eines zunächst unbekannten Raumes. Ein 59-Jähriger hatte eine Art NS-Museum eingerichtet.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pakistani farmers to sue German polluters over climate-linked flood damage",
+      "link": "https://www.theguardian.com/environment/2025/oct/28/pakistani-farmers-to-sue-german-polluters-over-climate-linked-flood-damage",
+      "published": "2025-10-28T13:00:36",
+      "content": "Claimants seek compensation from RWE and Heidelberg Materials after extreme flooding destroyed harvestsA group of Pakistani farmers whose livelihoods were devastated by floods three years ago has fired the starting shot in legal action against two of Germany’s most polluting companies.Lawyers acting for 43 men and women from the Sindh region sent the energy firm RWE and the cement producer Heidelberg formal letters before action on Tuesday warning of their intention to sue later this year. Continue reading...",
+      "content_length": 514,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Autoabsatz steigt, deutsche Hersteller gewinnen Marktanteile",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/acea-neuzulassungen-september-100.html",
+      "published": "2025-10-28T12:17:48",
+      "content": "   Der europäische Automarkt ist im September um zehn Prozent gewachsen. Damit dreht auch die bisherige Jahresbilanz ins Plus. Vor allem deutsche Hersteller gewinnen Marktanteile - und Elektromodelle boomen.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bericht von Stiftung: Zahl der Aktionen gegen CSDs auf Rekordhoch",
+      "link": "https://www.tagesschau.de/inland/csd-angriffe-100.html",
+      "published": "2025-10-28T12:10:34",
+      "content": "   Bei CSD-Paraden wird für Toleranz und Vielfalt demonstriert. 2025 ist fast die Hälfte davon laut Amadeu Antonio Stiftung Ziel von Angriffen, Störungen oder Verhinderungsversuchen geworden. Besonders betroffen war Ostdeutschland.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Python-Webframework: Django-Developer nutzen zunehmend HTMX und Alpine.js",
+      "link": "https://www.heise.de/news/Python-Webframework-Django-Developer-nutzen-zunehmend-HTMX-und-Alpine-js-10961300.html",
+      "published": "2025-10-28T11:54:00",
+      "content": "Das Webframework für Python feiert schon seinen 20. Geburtstag. Eine neue Studie zeigt, welche JavaScript-Libraries am häufigsten damit kombiniert werden.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again",
+      "link": "https://arstechnica.com/tech-policy/2025/10/trumps-ucla-deal-pay-us-1b-and-we-can-still-cut-your-grants-again/",
+      "published": "2025-10-28T11:30:16",
+      "content": "On Friday, the California Supreme Court ordered the University of California system to release the details of a proposed deal from the federal government that would restore research grants that were suspended by the Trump administration. The proposed deal, first issued in August, had remained confidential as a suit filed by faculty at UCLA made its way through appeals. With California’s top court now weighing in, the university administrators have released the document, still marked “draft” and “confidential attorney work product.”\nMost of the demands will seem unsurprising to those familiar with the Trump administration’s interest: an end to all diversity programs and those supporting transgender individuals, plus a sharp crackdown on campus protests. The eye-opening portion comes at the price tag of nearly $1.2 billion paid out, with UCLA covering all the costs of compliance. And, as written, the deal wouldn’t stop the Trump administration from cutting the grants for other reasons or imposing more intrusive regulations, such as those mentioned in its university compact.\nFamiliar concerns\nIn many ways, the proposed deal is much more focused than the odd list of demands the administration sent Harvard University earlier this year, in that it targets issues that the administration has focused on repeatedly. These include an end to all diversity programs at both the faculty and student levels. It demands that UCLA agree to “remove explicit or implicit goals for compositional diversity based on race, sex, or ethnicity, including eliminating any secretive or proxy-based ‘diversity’ hiring processes.”Read full article\nComments",
+      "content_length": 1649,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump and Republicans join Big Oil’s push to shut down climate liability efforts",
+      "link": "https://arstechnica.com/tech-policy/2025/10/trump-and-republicans-join-big-oils-push-to-shut-down-climate-liability-efforts/",
+      "published": "2025-10-28T11:15:50",
+      "content": "As efforts continue to hold some of the world’s largest fossil fuel corporations liable for destructive and deadly climate impacts, backlash from the politically powerful oil and gas industry and its allies in government is on the rise, bolstered by the Trump administration’s allegiance to fossil fuels.\nFrom lobbying Congress for liability protection to suing states over their climate liability laws and lawsuits, attempts to shield Big Oil from potential liability and to shut down climate accountability initiatives are advancing on multiple fronts.\n“The effort has escalated dramatically in the past six or seven months,” said Richard Wiles, president of the Center for Climate Integrity, an organization that advocates for holding fossil fuel companies accountable for selling products they knew were dangerously warming the planet.Read full article\nComments",
+      "content_length": 865,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Welche Liegenschaften die Bundeswehr nun doch behalten will",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-militaerliegenschaften-100.html",
+      "published": "2025-10-28T11:13:58",
+      "content": "   Die Bundeswehr soll wachsen und braucht dafür Platz. 200 Liegenschaften, die künftig zivil genutzt werden sollten, bleiben deshalb in ihrer Hand. Welche das sind, zeigt eine Liste, die dem ARD-Hauptstadtstudio vorliegt. [mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Online-Händler Amazon will 14.000 Stellen in der Verwaltung streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/amazon-stellenstreichung-verwaltung-100.html",
+      "published": "2025-10-28T11:00:56",
+      "content": "   Gerüchte über Entlassungen bei Amazon gab es bereits länger: Nun steht fest, dass der Konzern bis zu 14.000 Bürojobs streicht. Das Unternehmen will vor allem mit KI Geld in der Verwaltung sparen.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Drama zwischen zwei Weltkriegen: Arte kündigt VR-Adventure \"The Amusement\" an",
+      "link": "https://www.heise.de/news/Drama-zwischen-zwei-Weltkriegen-Arte-kuendigt-VR-Adventure-The-Amusement-an-10961321.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-28T10:49:00",
+      "content": "In Zusammenarbeit mit dem deutschen Studio Curvature Games hat der europäische Kultursender Arte das Virtual-Reality-Spiel \"The Amusement\" angekündigt. ",
+      "content_length": 152,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "\"Keine realistische Alternative\": Signal-Chefin verteidigt Nutzung von AWS",
+      "link": "https://www.heise.de/news/Keine-realistische-Alternative-Signal-Chefin-verteidigt-Nutzung-von-AWS-10961198.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-10-28T10:48:00",
+      "content": "Als AWS vor einer Woche ausgefallen ist, hatte Signal eine Weile massive Probleme. Meredith Whittaker erklärt nun, warum der Messenger darauf angewiesen ist.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mutmaßliche Terroristen bei Razzia im Westjordanland getötet",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-razzia-tote-100.html",
+      "published": "2025-10-28T10:38:22",
+      "content": "   Israels Armee und Polizei haben bei einer Razzia im Westjordanland mutmaßliche Terroristen getötet. Die drei Männer sollen in ihrem Unterschlupf einen Anschlag geplant haben. Die Militäreinsätze in der Region sollen offenbar weitergehen.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japanese PM promises golden age in relations with US during Trump visit",
+      "link": "https://www.theguardian.com/world/2025/oct/28/donald-trump-sanae-takaichi-japan-prime-minister-rare-earths-agreement",
+      "published": "2025-10-28T10:28:08",
+      "content": "Sanae Takaichi says she will nominate Trump for peace prize as two leaders sign agreement on rare earthsWhat are rare earths – explained in 30 secondsJapan’s new prime minister, Sanae Takaichi, has pledged to realise a “golden age” in relations with the US and to “fundamentally reinforce” her country’s defence posture at the start of a visit by Donald Trump.The US president, who is in Japan on the second leg of a week-long tour of Asia, and Takaichi quickly signed an agreement laying out a framework to secure the mining and processing of rare earths and other minerals. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Mehr städtischer Klimaschutz mit Bürgerbeteiligung",
+      "link": "https://www.tagesschau.de/wissen/kommunen-klimaneutral-100.html",
+      "published": "2025-10-28T10:27:05",
+      "content": "   Hamburg will bis 2040 klimaneutral werden, andere Städte noch früher. Damit das gelingt, muss der CO2-Ausstoß schnell gesenkt werden. Das klappt nur, wenn die Bürger überzeugt werden. Von Sven Kästner.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Experte: Die wenigsten Länder haben vor der COP ihre Klimaziele festgelegt",
+      "link": "https://www.tagesschau.de/wissen/klima/cop-klimakonferenz-klimaziele-100.html",
+      "published": "2025-10-28T10:26:40",
+      "content": "   Ein neuer UN-Bericht zeigt: Viele Länder, darunter auch EU-Staaten, haben die Abgabefrist zur Festlegung ihrer Klimaziele verpasst. Kein gutes Signal kurz vor der Konferenz, sagt Klimaforscher Niklas Höhne.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Martinsgans und Frühstücksei: Lässt die Vogelgrippe die Preise steigen?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auswirkungen-vogelgrippe-100.html",
+      "published": "2025-10-28T10:20:57",
+      "content": "   Die Vogelgrippe breitet sich in Deutschland aus. Engpässe im Supermarkt drohen derzeit nicht. Trotzdem könnten Eier zum Jahreswechsel teurer werden - allerdings aus anderen Gründen. Von Alina Leimbach.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ängste um den Arbeitsplatz: Konsumklima trübt sich weiter ein",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gfk-oktober-sparquote-100.html",
+      "published": "2025-10-28T10:05:41",
+      "content": "   Das Vertrauen in steigende Einkommen schwindet - und viele Verbraucher in Deutschland halten deswegen ihr Geld zusammen. Das Konsumklima hat sich im Oktober weiter verschlechtert.[mehr]",
+      "content_length": 188,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wachsende Konkurrenz verändert das Geschäft der Elektronikmärkte",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektromaerkte-ausland-deutschland-100.html",
+      "published": "2025-10-28T10:01:35",
+      "content": "   Das niederländische Unternehmen Coolblue will im deutschen Elektrofachhandel expandieren. Gleichzeitig ist der chinesische Konzern JD.com dabei, MediaMarkt und Saturn zu übernehmen. Was sind die Folgen? Von S. Salzbrunn.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Prominente fordern von Kanzler Merz mehr Sicherheit für Frauen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/merz-stadtbild-debatte-brief-100.html",
+      "published": "2025-10-28T09:46:38",
+      "content": "   In der \"Stadtbild\"-Debatte haben sich mehrere prominente Frauen an den Kanzler gewandt. In einem offenen Brief fordern sie mehr Sicherheit - auf der Straße und zu Hause. Die Mehrheit der Deutschen erwartet von Merz mehr Sorgfalt bei der Wortwahl.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Software Testing: Dynamische Analyse für Embedded Systems",
+      "link": "https://www.heise.de/blog/Software-Testing-Dynamische-Analyse-fuer-Embedded-Systems-10960957.html",
+      "published": "2025-10-28T09:44:00",
+      "content": "Richard Seidl diskutiert in dieser Podcastepisode mit Alexander Weiss und Martin Heininger über die Tücken beim Test von Gerätefirmware.",
+      "content_length": 136,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "UN werfen Russland gezielte Angriffe auf Zivilisten vor",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-zivilisten-100.html",
+      "published": "2025-10-28T09:29:06",
+      "content": "   Ein UN-Bericht wirft Russland vor, in der Ostukraine gezielt Zivilisten mit Drohnen und Brandbomben anzugreifen. Ziel sei deren Vertreibung aus den frontnahen Gebieten, so die Untersuchungskommission.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "DEI-Abschaffung in den USA: Python Software Foundation zieht Förderantrag zurück",
+      "link": "https://www.heise.de/news/Python-Software-Foundation-Chancengleichheit-wichtiger-als-US-Foerdergelder-10960933.html",
+      "published": "2025-10-28T09:03:00",
+      "content": "Die PSF verzichtet auf mögliche Fördergelder, weil die Vorgaben dafür explizit Programme zur Förderung der Chancengleichheit nach dem DEI verbieten.",
+      "content_length": 148,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump erhält in Japan einen Empfang ganz nach seinem Geschmack",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-japan-besuch-100.html",
+      "published": "2025-10-28T08:06:24",
+      "content": "   Japan gilt als wichtigster Verbündeter der USA in Ostasien. Nun ist US-Präsident Trump zu Besuch - und die neue Premierministerin Takaichi tut alles, um ihn zu beeindrucken. Von Anna-Lou Beckmann.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
