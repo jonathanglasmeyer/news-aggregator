@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 """
-Stage 5: Post Digest to Discord via Webhook
-============================================
+Stage 5: Post Digest to Discord via Bot (with Thread)
+======================================================
 
-Posts the generated digest to Discord using a webhook.
+Posts the generated digest to Discord:
+1. Posts a short summary message in the main channel
+2. Creates a thread under that message
+3. Posts all digest content in the thread
+
 Used by GitHub Actions for automated daily posts.
 
 Usage:
     python stage5_discord_webhook.py data/filtered/digest_20251026_144713_v4.md
+
+Environment Variables:
+    DISCORD_BOT_TOKEN: Discord bot token (from Developer Portal)
+    DISCORD_CHANNEL_ID: ID of the channel to post in
 """
 
 import os
@@ -21,6 +29,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 DISCORD_MESSAGE_LIMIT = 2000
+DISCORD_API_BASE = "https://discord.com/api/v10"
 
 
 def load_digest(digest_path: Path) -> str:
@@ -164,38 +173,80 @@ def format_for_discord(content: str) -> str:
     return content
 
 
-def post_to_discord(webhook_url: str, chunks: list[tuple[str, str]]):
-    """Post content chunks to Discord webhook"""
-    print(f"\n📤 Posting {len(chunks)} messages to Discord...")
+def post_initial_message(bot_token: str, channel_id: str) -> str:
+    """
+    Post the initial message in the main channel.
+    Returns the message ID for thread creation.
+    """
+    date = datetime.now().strftime('%Y-%m-%d')
+    message = f"📰 **News Digest** {date}"
+
+    headers = {
+        "Authorization": f"Bot {bot_token}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "content": message
+    }
+
+    url = f"{DISCORD_API_BASE}/channels/{channel_id}/messages"
+    response = requests.post(url, json=payload, headers=headers)
+    response.raise_for_status()
+
+    return response.json()['id']
+
+
+def create_thread(bot_token: str, channel_id: str, message_id: str) -> str:
+    """
+    Create a thread under the initial message.
+    Returns the thread ID.
+    """
+    date = datetime.now().strftime('%d.%m.%Y')
+    thread_name = f"News {date}"
+
+    headers = {
+        "Authorization": f"Bot {bot_token}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "name": thread_name,
+        "auto_archive_duration": 1440  # Archive after 24 hours
+    }
+
+    url = f"{DISCORD_API_BASE}/channels/{channel_id}/messages/{message_id}/threads"
+    response = requests.post(url, json=payload, headers=headers)
+    response.raise_for_status()
+
+    return response.json()['id']
+
+
+def post_to_thread(bot_token: str, thread_id: str, chunks: list[tuple[str, str]]):
+    """Post content chunks to Discord thread"""
+    print(f"\n📤 Posting {len(chunks)} messages to thread...")
+
+    headers = {
+        "Authorization": f"Bot {bot_token}",
+        "Content-Type": "application/json"
+    }
 
     for i, (chunk, section) in enumerate(chunks, 1):
-        # Add header to first message
-        if i == 1:
-            date = datetime.now().strftime('%Y-%m-%d')
-            header = f"📰 **News Digest** {date}\n\n"
-            # Ensure chunk + header doesn't exceed limit
-            chunk_content = chunk.rstrip()
-            if len(header) + len(chunk_content) > DISCORD_MESSAGE_LIMIT:
-                # Chunk is too long with header, truncate it
-                max_chunk_len = DISCORD_MESSAGE_LIMIT - len(header)
-                chunk_content = chunk_content[:max_chunk_len].rsplit('\n', 1)[0]  # Cut at last newline
-            message = f"{header}{chunk_content}"
+        # Add zero-width space on blank line for visual separation
+        # Only for MUST-KNOW and INTERESSANT sections, NOT for NICE-TO-KNOW
+        if i > 1 and section in ['MUST-KNOW', 'INTERESSANT']:
+            message = '\u200b\n' + chunk.rstrip()
         else:
-            # Add zero-width space on blank line for visual separation
-            # Only for MUST-KNOW and INTERESSANT sections, NOT for NICE-TO-KNOW
-            if section in ['MUST-KNOW', 'INTERESSANT']:
-                message = '\u200b\n' + chunk.rstrip()
-            else:
-                message = chunk.rstrip()
+            message = chunk.rstrip()
 
-        # Post to webhook
         payload = {
-            "content": message,
-            "username": "News Digest Bot"
+            "content": message
         }
 
+        url = f"{DISCORD_API_BASE}/channels/{thread_id}/messages"
+
         try:
-            response = requests.post(webhook_url, json=payload)
+            response = requests.post(url, json=payload, headers=headers)
             response.raise_for_status()
             print(f"   ✅ Posted chunk {i}/{len(chunks)}")
 
@@ -212,13 +263,18 @@ def post_to_discord(webhook_url: str, chunks: list[tuple[str, str]]):
 
 def main():
     print("\n" + "="*80)
-    print("STAGE 5: POST TO DISCORD (WEBHOOK)")
+    print("STAGE 5: POST TO DISCORD (THREAD)")
     print("="*80 + "\n")
 
-    # Get webhook URL
-    webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
-    if not webhook_url:
-        print("❌ DISCORD_WEBHOOK_URL environment variable not set")
+    # Get bot credentials
+    bot_token = os.getenv('DISCORD_BOT_TOKEN')
+    channel_id = os.getenv('DISCORD_CHANNEL_ID')
+
+    if not bot_token:
+        print("❌ DISCORD_BOT_TOKEN environment variable not set")
+        sys.exit(1)
+    if not channel_id:
+        print("❌ DISCORD_CHANNEL_ID environment variable not set")
         sys.exit(1)
 
     # Get digest file
@@ -251,14 +307,25 @@ def main():
 
     # Post to Discord
     try:
-        post_to_discord(webhook_url, chunks)
+        print(f"\n📝 Posting initial message to main channel...")
+        message_id = post_initial_message(bot_token, channel_id)
+        print(f"   ✅ Posted message (ID: {message_id})")
+
+        print(f"\n🧵 Creating thread...")
+        thread_id = create_thread(bot_token, channel_id, message_id)
+        print(f"   ✅ Created thread (ID: {thread_id})")
+
+        post_to_thread(bot_token, thread_id, chunks)
+
     except Exception as e:
         print(f"\n❌ Failed to post to Discord: {e}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
 
     print("\n" + "="*80)
     print(f"✅ DIGEST POSTED TO DISCORD")
-    print(f"   {len(chunks)} messages sent")
+    print(f"   1 main message + {len(chunks)} thread messages")
     print("="*80 + "\n")
 
 

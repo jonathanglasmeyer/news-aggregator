@@ -76,7 +76,8 @@ jobs:
 
       - name: Stage 5 - Post to Discord
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
         run: |
           # Get the digest we just created (only one should exist)
           LATEST_DIGEST=$(ls data/filtered/digest_*.md | head -n1)
