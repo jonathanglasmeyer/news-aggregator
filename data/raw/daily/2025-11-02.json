@@ -1,8 +1,89 @@
 {
   "date": "2025-11-02",
-  "timestamp": "2025-11-02T07:11:47.697431",
-  "total_articles": 303,
+  "timestamp": "2025-11-02T12:58:01.071060",
+  "total_articles": 311,
   "articles": [
+    {
+      "title": "USA: Angst und Sprachlosigkeit in Huntington Beach",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-trump-bilanz-100.html",
+      "published": "2025-11-02T12:21:17",
+      "content": "   Die USA waren schon vor dem Wahlsieg Trumps ein gespaltenes Land - ein Jahr später hat sich dieser Riss noch vertieft. Wie sehr, zeigt ein Besuch in Huntington Beach, einer Republikaner-Hochburg im demokratischen Kalifornien. Von K. Klein.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zahl der Erstanträge auf Asyl mehr als halbiert",
+      "link": "https://www.tagesschau.de/inland/zahl-asylantraege-ruecklaeufig-100.html",
+      "published": "2025-11-02T11:40:07",
+      "content": "   Die Zahl der Erstanträge auf Asyl ist in diesem Jahr im Vergleich zu 2024 deutlich gesunken. Innenminister Dobrindt sieht den Rückgang als Erfolg einer restriktiveren Migrationspolitik. Auch andere Gründe dürften eine Rolle gespielt haben.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "England: Polizei geht nach Angriff in Zug nicht von Terrorismus aus",
+      "link": "https://www.tagesschau.de/ausland/europa/england-zug-verletzte-102.html",
+      "published": "2025-11-02T12:19:30",
+      "content": "   Die britische Polizei bewertet den Messerangriff in einem Zug nördlich von London nicht als terroristische Tat. Es gibt zwei Festnahmen. Von zunächst neun Schwerverletzten schweben zwei Menschen noch in Lebensgefahr.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schwarzmeer-Hafen: Ukrainische Drohnen verursachen Feuer auf Öltanker",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-oelhafen-100.html",
+      "published": "2025-11-02T11:17:14",
+      "content": "   In der Nacht hat die Ukraine einen russischen Schwarzmeer-Hafen mit Drohnen angegriffen. Auf einem Tanker brach Behörden zufolge ein Feuer aus. In der Ukraine kamen bei russischen Angriffen mehrere Menschen ums Leben.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mit Hightech-Medizin gegen Schlaganfälle",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/behandlungsmethoden-schlaganfall-100.html",
+      "published": "2025-11-02T10:06:17",
+      "content": "   Schlaganfälle können zu Behinderungen und schlimmstenfalls zum Tod führen. Die Gefahr steigt mit dem Lebensalter, aber auch Jüngere sind gefährdet - abhängig von den Risikofaktoren. Die aber lassen sich beeinflussen. Von B. Augustin.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Südtirol: Zwei vermisste deutsche Bergsteiger tot gefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-104.html",
+      "published": "2025-11-02T09:45:09",
+      "content": "   Hoffnung gab es kaum, nun die Gewissheit: Nach dem Lawinenabgang in Südtirol sind die Leichen der zwei vermissten deutschen Bergsteiger gefunden worden. Zuvor waren bereits drei Opfer geborgen worden.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie Frauen sich nachts in der Öffentlichkeit schützen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-schutz-oeffentlichkeit-100.html",
+      "published": "2025-11-02T08:53:20",
+      "content": "   Sorglos abends nach Hause gehen ist für Frauen nicht immer möglich. Mit Hotlines, Apps und Frauentaxis gibt es Versuche, ihnen die Sorgen beim Heimweg zu nehmen. Fachleute sehen Handlungsbedarf - gerade bei Männern. Von Philipp Wundersee.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Drei Tote bei US-Angriff auf ein Boot in der Karibik",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-angriff-karibik-100.html",
+      "published": "2025-11-02T08:23:04",
+      "content": "   Bei einem erneuten US-Angriff auf ein Boot in der Karibik sind laut Regierungsangaben drei Menschen getötet worden. US-Kriegsminister Hegseth erklärte, das Boot sei genutzt worden, um Drogen in die USA zu schmuggeln.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Krankenkassen warnen trotz Einsparungen vor höheren Beiträgen",
+      "link": "https://www.tagesschau.de/inland/gesundheitswesen-krankenkassen-beitrag-100.html",
+      "published": "2025-11-02T08:04:42",
+      "content": "   Die Bundesregierung will erreichen, dass die Krankenversicherung nicht schon wieder teurer wird. Vor allem in den Kliniken soll gespart werden. Doch die Kassen sagen: Das wird wohl nicht reichen.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
     {
       "title": "Jamaika: Zahl der Toten nach Hurrikan \"Melissa\" gestiegen",
       "link": "https://www.tagesschau.de/ausland/amerika/opferzahlen-hurrikan-melissa-100.html",
@@ -13,11 +94,11 @@
       "category": "German News"
     },
     {
-      "title": "Lawine: Suche nach vermissten Deutschen in Tirol wird fortgesetzt",
+      "title": "Lawine: Bergwacht sucht weiter nach vermissten Deutschen",
       "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-102.html",
-      "published": "2025-11-02T04:31:59",
-      "content": "   Nach dem Lawinenabgang in Südtirol soll die Suche nach zwei vermissten deutschen Bergsteigern wieder aufgenommen werden. Die Bergwacht geht aber davon aus, dass sie \"mit Sicherheit tot\" sind. Drei Leichen wurden bereits geborgen.[mehr]",
-      "content_length": 238,
+      "published": "2025-11-02T08:37:06",
+      "content": "   Nach dem Lawinenabgang in Südtirol geht die Suche nach zwei vermissten deutschen Bergsteigern weiter. Die Bergwacht geht aber davon aus, dass sie \"mit Sicherheit tot\" sind. Drei Opfer wurden bereits geborgen.[mehr]",
+      "content_length": 217,
       "source": "Tagesschau",
       "category": "German News"
     },
@@ -283,92 +364,20 @@
       "category": "German News"
     },
     {
-      "title": "Was bei riskanter Geldanlage zu bedenken ist",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-geldanlage-investments-100.html",
-      "published": "2025-10-31T17:51:29",
-      "content": "   Immer mehr Menschen handeln mit riskanten Finanzprodukten wie Derivaten. Dabei reichen oft ein paar Euro, um große Mengen zu bewegen und enorme Gewinne oder Verluste zu verzeichnen. Von L.-M. Hiltscher und L. Sallamon.[mehr]",
-      "content_length": 227,
-      "source": "Tagesschau",
+      "title": "Südtirol: Zwei vermisste deutsche Bergsteiger tot gefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-104.html",
+      "published": "2025-11-02T09:45:09",
+      "content": "   Hoffnung gab es kaum, nun die Gewissheit: Nach dem Lawinenabgang in Südtirol sind die Leichen der zwei vermissten deutschen Bergsteiger gefunden worden. Zuvor waren bereits drei Opfer geborgen worden.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau Ausland",
       "category": "German News"
     },
     {
-      "title": "Unruhe wegen Bürgergeld und Wehrdienst - Wohin steuert die SPD?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-mitglieder-unruhe-100.html",
-      "published": "2025-10-31T17:43:00",
-      "content": "   In der SPD herrscht Unruhe. Teile der Basis haben ein Mitgliederbegehren gegen die Reformpläne beim Bürgergeld gestartet. Viele fordern ein schärferes sozialdemokratisches Profil. Hat die Parteispitze die Lage noch im Griff? Von J. Zimmermann.[mehr]",
-      "content_length": 252,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Niederlande: D66-Chef Jetten bejubelt \"historisches Ergebnis\"",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-parlamentswahl-ergebnis-jetten-100.html",
-      "published": "2025-10-31T17:38:28",
-      "content": "   Amtlich ist das Ergebnis der Parlamentswahl in den Niederlanden noch nicht. Doch nach vorläufigen Berechnungen haben sich die Linksliberalen bereits zum Sieger erklärt. Laut Spitzenkandidat Jetten sollen Sondierungen am Dienstag beginnen. Von Ludger Kazmierczak.[mehr]",
-      "content_length": 271,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Neue Sicherheitsmaßnahmen für den Louvre angekündigt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-louvre-sicherheitsvorkehrungen-100.html",
-      "published": "2025-10-31T15:45:42",
-      "content": "   Nachdem Einbrecher Schmuck im Wert von mehr als 80 Millionen Euro aus dem Louvre gestohlen haben, soll das Museum besser geschützt werden. Die Kulturministerin kündigt noch für dieses Jahr neue Maßnahmen an.[mehr]",
-      "content_length": 216,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Eine Woche zum Vergessen für die deutsche Wirtschaft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-konjunktur-podcast-berlin-100.html",
-      "published": "2025-10-31T15:42:49",
-      "content": "   Vor knapp einem Jahr zerbrach die Ampel wegen der schlechten Wirtschaftslage und dem Streit über Gegenmittel. Heute ringt die neue Regierung mit denselben Problemen - und das Umfeld ist noch schwieriger geworden. Von Martin Polansky.[mehr]",
-      "content_length": 242,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "AfD klagt auf Rückgabe von Millionenspende",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-spende-klage-rueckgabe-wahlplakate-bundeswahlkampf-100.html",
-      "published": "2025-10-31T15:21:24",
-      "content": "   Vor der Bundestagswahl ließ ein Österreicher Großplakate mit AfD-Werbung aufstellen. Schnell stand der Verdacht einer illegalen Parteispende durch einen Strohmann im Raum. Nun landet der Fall vor Gericht.[mehr]",
-      "content_length": 213,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Lange Haftstrafen nach Hotelbrand mit 78 Toten in türkischem Skigebiet",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-hotelbrand-kartalkaya-haftstrafen-100.html",
-      "published": "2025-10-31T15:13:57",
-      "content": "   Ein verheerendes Feuer in einem türkischen Skihotel kostetet im Januar viele Menschen das Leben. Nun hat ein Gericht hohe Strafen gegen Verantwortliche ausgesprochen. Kritiker meinen jedoch, dass einige davonkamen.[mehr]",
-      "content_length": 223,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Nexperia stellt Lieferung von Wafern an chinesisches Werk ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nexperia-chipherstellung-autoindustrie-lieferprobleme-100.html",
-      "published": "2025-10-31T14:27:24",
-      "content": "   Die Krise um Nexperia spitzt sich zu. Der niederländische Chiphersteller hat die Lieferung von Wafern nach China eingestellt. Sie sind bedeutsam als Vorprodukte für die Chipproduktion.[mehr]",
-      "content_length": 193,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Porträt Rob Jetten: \"Het kan wel - es geht doch!\"",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-portraet-jetten-100.html",
-      "published": "2025-10-31T13:56:50",
-      "content": "   Er habe das \"negative Getue\" im Land satt, das Geert Wilders verbreite - Rob Jetten hat beste Chancen, neuer Ministerpräsident der Niederlande zu werden. Er will vor allem soziale Probleme angehen. Von Ludger Kazmierczak.[mehr]",
-      "content_length": 230,
-      "source": "Tagesschau",
-      "category": "German News"
-    },
-    {
-      "title": "Lawine: Suche nach vermissten Deutschen in Tirol wird fortgesetzt",
+      "title": "Lawine: Bergwacht sucht weiter nach vermissten Deutschen",
       "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-102.html",
-      "published": "2025-11-02T04:31:59",
-      "content": "   Nach dem Lawinenabgang in Südtirol soll die Suche nach zwei vermissten deutschen Bergsteigern wieder aufgenommen werden. Die Bergwacht geht aber davon aus, dass sie \"mit Sicherheit tot\" sind. Drei Leichen wurden bereits geborgen.[mehr]",
-      "content_length": 238,
+      "published": "2025-11-02T08:37:06",
+      "content": "   Nach dem Lawinenabgang in Südtirol geht die Suche nach zwei vermissten deutschen Bergsteigern weiter. Die Bergwacht geht aber davon aus, dass sie \"mit Sicherheit tot\" sind. Drei Opfer wurden bereits geborgen.[mehr]",
+      "content_length": 217,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -454,11 +463,20 @@
       "category": "German News"
     },
     {
-      "title": "Niederlanden: Wahlergebnis erst in einigen Tagen - gute Chancen für Jetten",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-parlamentswahl-102.html",
-      "published": "2025-10-30T12:23:26",
-      "content": "   Gestern feierte die niederländische D66 schon den scheinbar klaren Wahlsieg. Doch nun ist das Rennen so knapp, dass es dauern wird, bis ein Ergebnis vorliegt. D66-Chef Jetten hat aber gute Chancen, Premier zu werden. Von L. Kazmierczak.[mehr]",
-      "content_length": 245,
+      "title": "USA: Angst und Sprachlosigkeit in Huntington Beach",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-trump-bilanz-100.html",
+      "published": "2025-11-02T12:21:17",
+      "content": "   Die USA waren schon vor dem Wahlsieg Trumps ein gespaltenes Land - ein Jahr später hat sich dieser Riss noch vertieft. Wie sehr, zeigt ein Besuch in Huntington Beach, einer Republikaner-Hochburg im demokratischen Kalifornien. Von K. Klein.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Drei Tote bei US-Angriff auf ein Boot in der Karibik",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-angriff-karibik-100.html",
+      "published": "2025-11-02T08:23:04",
+      "content": "   Bei einem erneuten US-Angriff auf ein Boot in der Karibik sind laut Regierungsangaben drei Menschen getötet worden. US-Kriegsminister Hegseth erklärte, das Boot sei genutzt worden, um Drogen in die USA zu schmuggeln.[mehr]",
+      "content_length": 225,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -526,20 +544,11 @@
       "category": "German News"
     },
     {
-      "title": "US-Haushaltssperre: Trump will Filibuster-Regel im Senat kippen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-filibuster-usa-senat-shutdown-100.html",
-      "published": "2025-10-31T10:12:57",
-      "content": "   Seit einem Monat stehen die Regierungsgeschäfte in den USA still. Der sogenannte Shutdown hängt auch mit einer alten Verfahrensregel für Abstimmungen im Senat zusammen: dem Filibuster. Präsident Trump will ihn nun abschaffen.[mehr]",
-      "content_length": 234,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
-      "title": "Abholzung im Regenwald geht weiter zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-regenwald-abholzung-100.html",
-      "published": "2025-10-31T09:51:33",
-      "content": "   Hohe Temperaturen, Trockenheit und Entwaldung gefährden den Regenwald im Amazonasbecken. Deshalb will Brasiliens Präsident Lula die Abholzung bis 2030 auf Null reduzieren. Neuen Zahlen zeigen, dass das Land auf dem richtigen Kurs ist.[mehr]",
-      "content_length": 243,
+      "title": "Schwarzmeer-Hafen: Ukrainische Drohnen verursachen Feuer auf Öltanker",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-oelhafen-100.html",
+      "published": "2025-11-02T11:17:14",
+      "content": "   In der Nacht hat die Ukraine einen russischen Schwarzmeer-Hafen mit Drohnen angegriffen. Auf einem Tanker brach Behörden zufolge ein Feuer aus. In der Ukraine kamen bei russischen Angriffen mehrere Menschen ums Leben.[mehr]",
+      "content_length": 226,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -612,15 +621,6 @@
       "published": "2025-10-27T15:56:37",
       "content": "   In Polen sind zwei Ukrainer festgenommen worden. Sie sollen im Auftrag eines fremden Geheimdienstes Militäranlagen ausspioniert und Überwachungsgeräte installiert haben. Polen sieht sich als Opfer hybrider Kriegsführung.[mehr]",
       "content_length": 229,
-      "source": "Tagesschau Ausland",
-      "category": "German News"
-    },
-    {
-      "title": "Gericht in Italien billigt Auslieferung von Verdächtigen des Nord-Stream-Anschlags",
-      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-anschlag-auslieferung-saboteur-100.html",
-      "published": "2025-10-27T11:31:44",
-      "content": "   Ein Gericht in Bologna hat die Auslieferung eines Ukrainers nach Deutschland gebilligt. Er wird verdächtigt, die Anschläge auf die Nord-Stream-Pipelines geleitet zu haben. Sein Anwalt will aber weiterkämpfen.[mehr]",
-      "content_length": 217,
       "source": "Tagesschau Ausland",
       "category": "German News"
     },
@@ -940,45 +940,117 @@
       "category": "German News"
     },
     {
-      "title": "Großbritannien - Messerangriff in Zug: Zehn Menschen zum Teil lebensbedrohlich verletzt",
-      "link": "https://www.deutschlandfunk.de/messerangriff-in-zug-zehn-menschen-zum-teil-lebensbedrohlich-verletzt-100.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Bei einem Messerangriff in einem Zug in Großbritannien sind laut Polizei zehn Menschen verletzt worden, davon neun lebensbedrohlich. Nach dem Vorfall in der ostenglischen Region Cambridgeshire wurden zwei Verdächtige festgenommen. Sie sollen in einem Zug auf Menschen eingestochen haben.",
-      "content_length": 287,
+      "title": "Großbritannien - Nach Messerangriff in Zug: Polizei sieht keinen Hinweis auf Terrorismus",
+      "link": "https://www.deutschlandfunk.de/nach-messerangriff-in-zug-polizei-sieht-keinen-hinweis-auf-terrorismus-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Nach dem Messerangriff in Großbritannien sieht die Polizei nach eigenen Angaben keinen Hinweis auf ein terroristisches Motiv. Bei dem Angriff wurden elf Menschen zum Teil lebensgefährlich verletzt. Es gab zwei Festnahmen.",
+      "content_length": 221,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Tote nach russischen Angriffen - Ukrainische Drohnen treffen Ölterminal in Russland",
+      "link": "https://www.deutschlandfunk.de/tote-nach-russischen-angriffen-ukrainische-drohnen-treffen-oelterminal-in-russland-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Im russischen Angriffskrieg gegen die Ukraine haben sich beide Seite erneut gegenseitig beschossen. Dabei gab es in mehreren ukrainischen Regionen Tote und Verletzte. Die Ukraine attackierte ihrerseits ein Ölterminal in Russland.",
+      "content_length": 229,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Chip-Krise - Nexperia will Versorgung der Kunden sicherstellen",
+      "link": "https://www.deutschlandfunk.de/nexperia-will-versorgung-der-kunden-sicherstellen-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Die Krise bei der Versorgung mit Halbleitern durch das niederländische Unternehmen Nexperia ist auch nach Einschätzung der Unternehmensleitung überwunden.",
+      "content_length": 154,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Afrika - Vorwurf der \"Tötung von Christen\": Trump droht Nigeria mit US-Militäreinsatz",
       "link": "https://www.deutschlandfunk.de/vorwurf-der-toetung-von-christen-trump-droht-nigeria-mit-us-militaereinsatz-100.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "US-Präsident Trump hat Nigeria mit einem Militäreinsatz gedroht. Als Grund führt er an, dass dort Christen getötet würden. In Nigeria gibt es allerdings zahlreiche Konflikte mit unterschiedlichen Hintergründen. Auch Muslime sind immer wieder Opfer von tödlicher Gewalt.",
       "content_length": 269,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Karibik - Hegseth: Drei Tote bei erneutem US-Angriff auf vermeintliches Drogenboot",
-      "link": "https://www.deutschlandfunk.de/hegseth-drei-tote-bei-erneutem-us-angriff-auf-vermeintliches-drogenboot-100.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Das US-Militär hat erneut ein angeblich mit Drogen beladenes Boot in der Karibik angegriffen.",
-      "content_length": 93,
+      "title": "Verteidigungsminister Hegseth in Hanoi - USA und Vietnam wollen bei Rüstung und Sicherheit zusammenarbeiten",
+      "link": "https://www.deutschlandfunk.de/usa-und-vietnam-wollen-bei-ruestung-und-sicherheit-zusammenarbeiten-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Die USA und Vietnam wollen bei Rüstung und Sicherheit enger zusammenarbeiten.",
+      "content_length": 77,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an",
+      "link": "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Die größte Oppositionspartei in Tansania will den Wahlsieg von Präsidentin Hassan nicht anerkennen. Das von der Nationalen Wahlkommission verkündete Ergebnis sei gefälscht, teilte die Partei Chadema mit.",
+      "content_length": 203,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Lawinenunglück in Südtirol - Letzte vermisste Bergsteiger aus Deutschland tot geborgen",
+      "link": "https://www.deutschlandfunk.de/letzte-vermisste-bergsteiger-aus-deutschland-tot-geborgen-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Nach dem Lawinenunglück in Südtirol sind auch die Leichen der beiden noch vermissten Deutschen gefunden worden. Das teilte die italienische Bergwacht mit. Danach handelt es sich um einen Vater und seine Tochter.",
+      "content_length": 211,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Afrika-Reise - Steinmeier verhalten optimistisch über Lage im Nahen Osten",
+      "link": "https://www.deutschlandfunk.de/steinmeier-verhalten-optimistisch-ueber-lage-im-nahen-osten-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Bundespräsident Steinmeier hat sich verhalten optimistisch über die Lage im Nahen Osten geäußert.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "IW-Umfrage - Jedes dritte Unternehmen will 2026 Stellen abbauen",
+      "link": "https://www.deutschlandfunk.de/jedes-dritte-unternehmen-will-2026-stellen-abbauen-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Jedes dritte deutsche Unternehmen will im kommenden Jahr Stellen abbauen. Nach einer kurzen Erholung im Frühjahr dieses Jahres hat sich die wirtschaftliche Stimmung zuletzt wieder eingetrübt. Das zeigt die aktuelle Konjunkturumfrage des Instituts der deutschen Wirtschaft (IW) in Köln.",
+      "content_length": 285,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vorbereitung auf Krisenfall - Bayern fordert Bund-Länder-Gipfel für Gesundheitssystem",
+      "link": "https://www.deutschlandfunk.de/bayern-fordert-bund-laender-gipfel-fuer-gesundheitssystem-104.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Die bayerische Gesundheitsministerin Gerlach sieht Krankenhäuser und Kliniken in Deutschland nur unzureichend auf Krisen und einen möglichen NATO-Bündnisfall vorbereitet.",
+      "content_length": 170,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Ukraine - Zahl russischer Raketenangriffe im Oktober auf höchstem Stand seit 2023",
       "link": "https://www.deutschlandfunk.de/zahl-russischer-raketenangriffe-im-oktober-auf-hoechstem-stand-seit-100.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Russland hat einem Medienbericht zufolge seine Raketenangriffe auf die Ukraine verstärkt.",
       "content_length": 89,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
+      "title": "Karibik - Hegseth: Drei Tote bei erneutem US-Angriff auf vermeintliches Drogenboot",
+      "link": "https://www.deutschlandfunk.de/hegseth-drei-tote-bei-erneutem-us-angriff-auf-vermeintliches-drogenboot-100.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Das US-Militär hat erneut ein angeblich mit Drogen beladenes Boot in der Karibik angegriffen.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
       "title": "Nahost - Außenminister Wadephul will Reisewarnung für Israel abschwächen",
       "link": "https://www.deutschlandfunk.de/aussenminister-wadephul-will-reisewarnung-fuer-israel-abschwaechen-102.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Außenminister Wadephul will die Reisewarnung für Israel abschwächen. Das erklärte er in Tel Aviv zum Abschluss seiner Nahost-Reise. Mit der Lockerung der Reisehinweise wolle er einen Beitrag zu mehr Austausch zwischen Israel und Deutschland leisten. Details zu der Lockerung will er Anfang der Woche bekanntgeben.",
       "content_length": 313,
       "source": "Deutschlandfunk",
@@ -987,43 +1059,34 @@
     {
       "title": "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington",
       "link": "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Der syrische Interimspräsident al-Scharaa wird nach US-Angaben noch in diesem Monat nach Washington reisen.",
       "content_length": 107,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Hermosillo-Mexiko - Bei einer Explosion in einem Supermarkt in Mexiko sterben mindestens 23 Menschen",
-      "link": "https://www.deutschlandfunk.de/bei-einer-explosion-in-einem-supermarkt-in-mexiko-sterben-mindestens-23-menschen-100.html",
-      "published": "2025-11-02T06:55:45",
+      "title": "Mexiko - Mehr als 20 Tote bei Explosion in Supermarkt in Hermosillo",
+      "link": "https://www.deutschlandfunk.de/mehr-als-20-tote-bei-explosion-in-supermarkt-in-hermosillo-100.html",
+      "published": "2025-11-02T12:50:33",
       "content": "Im Nordwesten Mexikos sind bei einer Explosion in einem Supermarkt mindestens 23 Menschen ums Leben gekommen.",
       "content_length": 109,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Buenos Aires - Proteste bei Pride Parade gegen Argentiniens Präsidenten Milei",
-      "link": "https://www.deutschlandfunk.de/proteste-bei-pride-parade-gegen-argentiniens-praesidenten-milei-100.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "In Argentinien haben zehntausende Menschen an der diesjährigen Pride-Parade teilgenommen.",
-      "content_length": 89,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Afrika-Reise - Steinmeier: bilaterale Gespräche mit Präsident al-Sisi und anderen Staats- und Regierungschefs in Kairo",
-      "link": "https://www.deutschlandfunk.de/steinmeier-bilaterale-gespraeche-mit-praesident-al-sisi-und-anderen-staats-und-regierungschefs-in-ka-100.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Bundespräsident Steinmeier trifft heute Vormittag im Rahmen seiner knapp einwöchigen Afrika-Reise Ägyptens Präsident al-Sisi.",
-      "content_length": 125,
+      "title": "Buenos Aires - Proteste gegen Präsident Milei bei Pride Parade in Argentinien",
+      "link": "https://www.deutschlandfunk.de/proteste-gegen-praesident-milei-bei-pride-parade-in-argentinien-102.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "In Argentinien haben zehntausende Menschen an der diesjährigen Pride-Parade teilgenommen. Bei der Demonstration in der Hauptstadt Buenos Aires gab es neben bunten Outfits auch viel Kritik am ultraliberalen Präsidenten Milei.",
+      "content_length": 224,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Frankfurt/M. - Polizei gibt Entwarnung nach Knall in Einkaufszentrum",
       "link": "https://www.deutschlandfunk.de/polizei-gibt-entwarnung-nach-knall-in-einkaufszentrum-102.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "In einem Einkaufszentrum in Frankfurt am Main sind Menschen wegen eines lauten Knalls in Panik geraten.",
       "content_length": 103,
       "source": "Deutschlandfunk",
@@ -1032,7 +1095,7 @@
     {
       "title": "Tarifstreit - Vorerst kein Streik bei Lufthansa",
       "link": "https://www.deutschlandfunk.de/vorerst-kein-streik-bei-lufthansa-100.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Passagiere der Lufthansa müssen vorerst nicht mit einem Streik der Piloten rechnen.",
       "content_length": 83,
       "source": "Deutschlandfunk",
@@ -1041,16 +1104,25 @@
     {
       "title": "Kassenbeiträge - Die gesetzlichen Krankenkassen warnen vor weiter steigenden Beiträgen wegen eines zusätzlichen Finanzbedarfs, trotz Sparpakets",
       "link": "https://www.deutschlandfunk.de/die-gesetzlichen-krankenkassen-warnen-vor-weiter-steigenden-beitraegen-wegen-eines-zusaetzlichen-fin-100.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Die gesetzlichen Krankenversicherungen warnen vor weiter steigenden Beiträgen im neuen Jahr auch mit dem vorgesehenen Sparpaket der Bundesregierung.",
       "content_length": 148,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
+      "title": "Interview der Woche - Leipziger Oberbürgermeister Jung : Kommunen weiter in schwieriger Finanzlage - Kultur und Vereine betroffen",
+      "link": "https://www.deutschlandfunk.de/leipziger-oberbuergermeister-jung-kommunen-weiter-in-schwieriger-finanzlage-kultur-und-vereine-betro-102.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Der Präsident des Deutschen Städtetages, Jung, sieht die Kommunen trotz aller Bemühungen zur Haushaltskonsolidierung in einer schwierigen Lage. Man sei gezwungen, Haushaltssperren zu verhängen, sagte der Leipziger Oberbürgermeister im Interview der Woche des Deutschlandfunks. Jede einzelne Ausgabe komme auf den Prüfstand.",
+      "content_length": 323,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
       "title": "Literaturauszeichnung - Autorin Ursula Krechel nimmt Georg-Büchner-Preis entgegen - Erinnerung an Opfer politischer Gewalt",
       "link": "https://www.deutschlandfunk.de/autorin-ursula-krechel-nimmt-georg-buechner-preis-entgegen-erinnerung-an-opfer-politischer-gewalt-108.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Die Schriftstellerin Ursula Krechel hat in Darmstadt den Georg-Büchner-Preis entgegengenommen. Die 77-Jährige erinnerte in ihrer Dankesrede an Menschen, die aus politischen Gründen gelitten haben oder gestorben sind.",
       "content_length": 216,
       "source": "Deutschlandfunk",
@@ -1059,74 +1131,83 @@
     {
       "title": "Mexiko - Tag der Toten: Rund 1,5 Millionen Menschen bei Parade in Mexiko-Stadt",
       "link": "https://www.deutschlandfunk.de/tag-der-toten-rund-1-5-millionen-menschen-bei-parade-in-mexiko-stadt-104.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "In Mexiko-Stadt haben rund 1,5 Millionen Menschen mit einer farbenfrohen Parade den Tag der Toten, den Día de los Muertos, gefeiert.",
       "content_length": 132,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Südtirol - Fünf deutsche Bergsteiger ums Leben gekommen",
-      "link": "https://www.deutschlandfunk.de/fuenf-deutsche-bergsteiger-ums-leben-gekommen-112.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Bei einem Lawinenunglück in Südtirol sind fünf deutsche Bergsteiger ums Leben gekommen.",
-      "content_length": 87,
+      "title": "Literatur - Ayse Irem gewinnt Deutsche Meisterschaft im Poetry Slam",
+      "link": "https://www.deutschlandfunk.de/ayse-irem-gewinnt-deutsche-meisterschaft-im-poetry-slam-104.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Ayse Irem aus Nordrhein-Westfalen ist neue deutschsprachige Meisterin im Poetry Slam. Die 26-Jährige setzte sich beim diesjährigen Wettbewerb gegen 80 Konkurrentinnen und Konkurrenten durch und bekam am Ende Standing Ovations von den rund 1.800 Zuhörern in der Chemnitzer Stadthalle.",
+      "content_length": 283,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Deutschlandfunk-Auszeichnung - Raabe-Literaturpreis an Schriftsteller Lüscher übergeben",
+      "link": "https://www.deutschlandfunk.de/raabe-literaturpreis-an-schriftsteller-luescher-uebergeben-108.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Der deutsch-schweizerische Schriftsteller Jonas Lüscher ist mit dem Wilhelm Raabe-Literaturpreis ausgezeichnet worden. Der mit 30.000 Euro dotierte Preis wird jährlich vom Deutschlandfunk und der Stadt Braunschweig vergeben.",
+      "content_length": 224,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hakenkreuz und Hitlergruß - Mehr rechtsextremistische Vorfälle an Schulen in Baden-Württemberg",
+      "link": "https://www.deutschlandfunk.de/mehr-rechtsextremistische-vorfaelle-an-schulen-in-baden-wuerttemberg-104.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "In Baden-Württemberg hat die Zahl rechtsextremistischer Vorfälle an Schulen in diesem Jahr deutlich zugenommen. Bis Mitte Oktober wurden laut Kultusministerium insgesamt 70 Vorfälle erfasst. Im gesamten Jahr 2024 waren es demnach 53, im Jahr zuvor 38.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "3. Liga - Rassismus-Vorfall beim Spiel 1860 München gegen Cottbus",
+      "link": "https://www.deutschlandfunk.de/rassismus-vorfall-beim-spiel-1860-muenchen-gegen-cottbus-102.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "In der 3. Liga ist es beim Spiel zwischen dem TSV 1860 München und Energie Cottbus zu rassistischen Anfeindungen gekommen. Der Cottbusser Justin Butler wurde nach eigenen Angaben in der 72. Minute aus der Zuschauertribüne heraus beleidigt.",
+      "content_length": 239,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Casablanca - Handball-Nachwuchs: Deutschlands U17-Auswahl ist Weltmeister",
+      "link": "https://www.deutschlandfunk.de/handball-nachwuchs-deutschlands-u17-auswahl-ist-weltmeister-102.html",
+      "published": "2025-11-02T12:50:33",
+      "content": "Deutschlands Junioren-Handballer haben die nächste Goldmedaille gewonnen und sind Weltmeister. Die U17-Auswahl des Deutschen Handballbundes (DHB) setzte sich im Finale von Casablanca gegen Ägypten mit 44:43 nach Verlängerung durch. Am Ende der regulären Spielzeit hatte es 37:37 (18:17) gestanden. ",
+      "content_length": 298,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
       "title": "Fußball-Bundesliga - Bayern schagen Leverkusen - erster Saisonsieg für Mönchengladbach",
       "link": "https://www.deutschlandfunk.de/bayern-schagen-leverkusen-erster-saisonsieg-fuer-moenchengladbach-106.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "In der Fußball-Bundesliga hat Bayern München Bayer Leverkusen mit 3:0 geschlagen. Der Meister bleibt somit ohne Punktverlust an der Tabellenspitze. Borussia Mönchengladbach konnte derweil den ersten Saisonsieg eingefahren.",
       "content_length": 222,
       "source": "Deutschlandfunk",
       "category": "German News"
     },
     {
-      "title": "Kultur - Großes Ägyptisches Museum an den Pyramiden eröffnet",
-      "link": "https://www.deutschlandfunk.de/grosses-aegyptisches-museum-an-den-pyramiden-eroeffnet-116.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Das Große Ägyptische Museum nahe den Pyramiden von Giseh ist mit einer Zeremonie feierlich eröffnet worden.",
-      "content_length": 107,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Tennis - Zverev verliert Halbfinale in Paris gegen Sinner",
-      "link": "https://www.deutschlandfunk.de/zverev-verliert-halbfinale-in-paris-gegen-sinner-106.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Der deutsche Tennis-Profi Alexander Zverev hat beim Masters-Turnier in Paris gegen den Italiener Jannik Sinner verloren und damit das Finale verpasst. Er musste sich dem Weltranglisten-Zweiten mit 0:6, 1:6 geschlagen geben. Das Match dauerte kaum länger als eine Stunde.",
-      "content_length": 270,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Interview der Woche - Leipziger Oberbürgermeister Jung : Kommunen weiter in schwieriger Finanzlage - Kultur und Vereine betroffen",
-      "link": "https://www.deutschlandfunk.de/leipziger-oberbuergermeister-jung-kommunen-weiter-in-schwieriger-finanzlage-kultur-und-vereine-betro-102.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Der Präsident des Deutschen Städtetages, Jung, sieht die Kommunen trotz aller Bemühungen zur Haushaltskonsolidierung in einer schwierigen Lage. Man sei gezwungen, Haushaltssperren zu verhängen, sagte der Leipziger Oberbürgermeister im Interview der Woche des Deutschlandfunks. Jede einzelne Ausgabe komme auf den Prüfstand.",
-      "content_length": 323,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
-      "title": "Lottozahlen - 7 - 18 - 28 - 29 - 35 - 38",
-      "link": "https://www.deutschlandfunk.de/7-18-28-29-35-104.html",
-      "published": "2025-11-02T06:55:45",
-      "content": "Die Lottozahlen:",
-      "content_length": 16,
-      "source": "Deutschlandfunk",
-      "category": "German News"
-    },
-    {
       "title": "Wetter - Verbreitet regnerisch, nur im Nordwesten Auflockerungen",
       "link": "https://www.deutschlandfunk.de/verbreitet-regnerisch-nur-im-nordwesten-auflockerungen-100.html",
-      "published": "2025-11-02T06:55:45",
+      "published": "2025-11-02T12:50:33",
       "content": "Das Wetter: Überwiegend stark bewölkt mit Regen, im Süden und Südosten teils länger anhaltend. An der Nordsee sowie im Westen Schauer und einzelne Gewitter. Nur im Nordwesten Auflockerungen. Höchstwerte 10 bis 15 Grad. Morgen wechselnd bewölkt, im Süden gebietsweise freundlich. Im Nordwesten aufkommender Regen. 9 bis 16 Grad.",
       "content_length": 327,
       "source": "Deutschlandfunk",
       "category": "German News"
+    },
+    {
+      "title": "He told the world what was happening in El Fasher. Then they sought him out. How Sudan lost ‘a true hero of the war’",
+      "link": "https://www.theguardian.com/global-development/2025/nov/02/he-told-the-world-what-was-happening-in-el-fasher-then-they-sought-him-out-how-sudan-lost-a-true-hero-of-the-war",
+      "published": "2025-11-02T12:00:03",
+      "content": "For months, Mohamed Khamis Douda shared accounts of what life was like under siege. He was killed when RSF fighters finally took the Darfur city, raising fears activists and civil society figures are being hunted downFor months, militiamen on the perimeters of El Fasher have asked those few who managed to escape the besieged Sudanese city whether Mohamed Khamis Douda was still inside. They shared videos threatening to kill him, which, as they hoped, made their way to the activist.Even as the hunger and fear of living under siege and bombardment made him desperate to leave, Douda remained inside El Fasher, constantly working to let the outside world know what was happening to the people there. Then, on Sunday 26 October, Sudan’s paramilitary Rapid Support Forces overran the city and it was too late. His friends and family have confirmed to the Guardian that Douda has been killed.Monday 4 AugustI awake each morning tired from the efforts of the previous day. Our first struggle is the merciless hunger and the second is the constant artillery shelling. Continue reading...",
+      "content_length": 1084,
+      "source": "The Guardian World",
+      "category": "International News"
     },
     {
       "title": "How al-Qaida-linked jihadist group JNIM is bringing Mali to its knees",
@@ -1161,15 +1242,6 @@
       "published": "2025-10-31T21:26:07",
       "content": "Move is strongest endorsement yet for retained rule over disputed territory, despite fierce opposition from AlgeriaThe UN security council has approved a US-backed resolution supporting Morocco’s claim to the disputed Western Sahara, despite fierce opposition from Algeria.Although Friday’s vote was divided, the resolution offers the strongest endorsement yet for Morocco’s plan to keep sovereignty over the territory, which also has backing from most European Union members and a growing number of African allies. Continue reading...",
       "content_length": 535,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Sudan’s RSF accused of ‘PR stunt’ after arresting fighters behind civilian killings",
-      "link": "https://www.theguardian.com/world/2025/oct/31/sudan-rsf-accused-pr-stunt-after-arresting-fighters-behind-civilian-killings",
-      "published": "2025-10-31T17:17:23",
-      "content": "Reports of indiscriminate violence and ethnic targeting in El Fasher have led to growing global outrageSudan’s paramilitary Rapid Support Forces claim to have arrested several of their fighters after outrage over the extent of killing in the city of El Fasher continues to build.But the paramilitary group’s move has been greeted with scepticism from human rights campaigners and Sudanese people, who see it as an attempt to temper criticism over the violence. Continue reading...",
-      "content_length": 480,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1267,7 +1339,7 @@
       "title": "Sussan Ley under pressure as Nationals formally scrap net zero target",
       "link": "https://www.theguardian.com/australia-news/2025/nov/02/nationals-party-room-meeting-net-zero-emissions-target-david-littleproud",
       "published": "2025-11-02T06:28:17",
-      "content": "David Littleproud says he informed the Liberal leader days ago of the policy position his party was consideringFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe National party has unanimously decided to its scrap net zero commitments after a party room meeting on Sunday, piling pressure on Sussan Ley and the Liberals as they continue to debate their own energy platform.The party leader, David Littleproud, said the Nationals would focus on “aspirations” rather than targets and align Australia’s emissions reduction to other OECD countries. Littleproud said he was “proud” of the decision. Continue reading...",
+      "content": "David Littleproud says he informed the Liberal leader days ago of the policy position his party was consideringFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe National party has unanimously decided to scrap its net zero commitments after a party room meeting on Sunday, piling pressure on Sussan Ley and the Liberals as they continue to debate their own energy platform.The party leader, David Littleproud, said the Nationals would focus on “aspirations” rather than targets and align Australia’s emissions reduction to other OECD countries. Littleproud said he was “proud” of the decision. Continue reading...",
       "content_length": 679,
       "source": "The Guardian World",
       "category": "International News"
@@ -1309,6 +1381,33 @@
       "category": "International News"
     },
     {
+      "title": "Ukraine deploys special forces to Pokrovsk in effort to hold key city",
+      "link": "https://www.theguardian.com/world/2025/nov/02/ukraine-deploys-special-forces-to-pokrovsk-in-effort-to-hold-key-city",
+      "published": "2025-11-02T11:47:14",
+      "content": "Escalating battle for city comes as overnight Russian drone and missile strikes kill six people, including two childrenUkraine has deployed special forces to the embattled eastern city of Pokrovsk in an attempt to push back an intense Russian assault involving thousands of troops, Kyiv’s top commander has said.The escalating battle in the strategically important city comes as an overnight wave of Russian drone and missile attacks on Ukraine killed six people, including two children, and cut power to tens of thousands, officials said on Sunday. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Five German climbers die in avalanche in northern Italy",
+      "link": "https://www.theguardian.com/world/2025/nov/02/five-german-mountaineers-die-in-northern-italy-after-being-hit-by-avalanche",
+      "published": "2025-11-02T11:36:56",
+      "content": "Mountaineers struck by avalanche on Saturday while climbing near the Cima Vertana, in the Ortles mountainsFive German mountaineers have died after being hit by an avalanche in northern Italy, rescuers said.The bodies of three victims – two men and a woman – were recovered on Saturday, while the bodies of two other missing people, a man and his 17-year-old daughter, were found on Sunday morning. Continue reading...",
+      "content_length": 417,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rosalía’s Berghain is a thundrous goth-pop hit – but is it opera?",
+      "link": "https://www.theguardian.com/music/2025/nov/02/rosalia-berghain-is-a-thundrous-goth-pop-hit-but-is-it-opera",
+      "published": "2025-11-02T08:00:01",
+      "content": "The Catalan star’s epic new single is delighting and dividing classical music fans in equal measureThe Top 10 of today’s Spotify Global Top 50 looks like business as usual: two Taylor Swift songs; Lady Gaga and Bruno Mars’ Die With a Smile hanging around for an eighth month; the eminently normal male pop stars Sombr and Alex Warren doing brisk business.But nestled among the crowd-pleasers is something of an outlier: a gothic, baroque assault powered by Vivaldi-style strings and operatic singing in German and Spanish. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Veteran actor Tchéky Karyo, star of Nikita and The Missing, dies aged 72",
       "link": "https://www.theguardian.com/film/2025/nov/01/veteran-actor-tcheky-karyo-star-of-nikita-and-the-missing-dies-aged-72",
       "published": "2025-11-01T19:47:41",
@@ -1327,29 +1426,11 @@
       "category": "International News"
     },
     {
-      "title": "Huge crowds gather on first anniversary of Serbian train station disaster",
-      "link": "https://www.theguardian.com/world/2025/nov/01/huge-crowds-gather-to-commemorate-victims-of-serbian-train-station-disaster",
-      "published": "2025-11-01T13:58:44",
-      "content": "Student-led movement continues to demand political change as embattled president issues rare apologyTens of thousands of Serbians have gathered to commemorate victims of a fatal railway station collapse a year ago, a tragedy that galvanised anti-government sentiment that still threatens the embattled president, Aleksandar Vučić.A student-led movement organised the rallies in the country’s second largest city, Novi Sad, where on 1 November 2024, the canopy at the newly renovated railway station collapsed. Continue reading...",
-      "content_length": 529,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Reform UK, the Russian spy and rolls of Kremlin cash: the inside story of Nathan Gill",
-      "link": "https://www.theguardian.com/news/ng-interactive/2025/nov/01/reform-a-russian-spy-and-the-bribes-the-inside-story-of-nathan-gill",
-      "published": "2025-11-01T06:00:28",
-      "content": "How did a former Mormon bishop end up pleading guilty to taking bribes to make statements in favour of Russia in the European parliament?The first thing most people recall about Nathan Gill is his imposing height.At 193cm (6ft 4in), the one-time Reform UK leader in Wales towered over colleagues and opponents – and he was taller still in his favourite cowboy boots. Continue reading...",
-      "content_length": 386,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Russia link suspected as Bulgarians jailed for vandalising Paris Jewish memorial",
-      "link": "https://www.theguardian.com/world/2025/oct/31/russia-link-suspected-as-bulgarians-jailed-for-vandalising-paris-jewish-memorial",
-      "published": "2025-10-31T21:04:44",
-      "content": "Four men given prison terms for desecration that was possibly ‘orchestrated by Russian intelligence services’A French court on Friday jailed four Bulgarians for desecrating a Jewish memorial with red handprints last year, in what prosecutors think may have been foreign interference linked to Russia.The Paris criminal court gave two-year sentences to Georgi Filipov and Kiril Milushev, described as the perpetrators, and four years and three years respectively to Nikolay Ivanov and Mircho Angelov, considered the operation’s “masterminds”. Angelov is still at large. Continue reading...",
-      "content_length": 588,
+      "title": "Israel threatens to step up attacks against Hezbollah in Lebanon",
+      "link": "https://www.theguardian.com/world/2025/nov/02/israel-threatens-to-step-up-attacks-against-hezbollah-in-lebanon",
+      "published": "2025-11-02T12:30:45",
+      "content": "Israel’s defence minister accuses Beirut of delaying efforts to disarm militant group a day after deadly Israeli airstrikeIsrael has threatened to step up its attacks against Hezbollah in southern Lebanon, a day after the Lebanese health ministry reported that four people had been killed in an Israeli airstrike.Despite the November 2024 ceasefire, Israel maintains troops in five areas in southern Lebanon and has kept up regular strikes. Continue reading...",
+      "content_length": 460,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1372,29 +1453,20 @@
       "category": "International News"
     },
     {
+      "title": "Egypt’s vast $1bn museum to open in Cairo after two-decade build",
+      "link": "https://www.theguardian.com/world/2025/oct/31/egypts-vast-1bn-museum-to-open-in-cairo-after-two-decade-build",
+      "published": "2025-10-31T05:00:16",
+      "content": "Grand Egyptian Museum next to pyramids of Giza billed as world’s largest archaeological facility for single civilisationA vast $1bn museum billed as the world’s largest archaeological facility dedicated to a single civilisation will open outside Cairo on Saturday, after countless delays over the course of its two-decade construction.The Grand Egyptian Museum, located a mile away from the pyramids of Giza, covers an area of 470,000 sq metres. The complex was announced in 1992 but it was not until 2005 that construction began. Some areas of the museum opened in a soft launch in 2024. Continue reading...",
+      "content_length": 608,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
       "title": "Hamas hands over bodies of two Israeli hostages amid fragile Gaza truce",
       "link": "https://www.theguardian.com/world/2025/oct/30/hamas-hands-over-bodies-of-two-israeli-hostages-amid-fragile-gaza-truce",
       "published": "2025-10-30T23:00:20",
       "content": "Remains of Amiram Cooper and Sahar Baruch returned to Israel for burial after identification process, Israeli military saidHamas handed over two bodies of deceased Israeli hostages on Thursday, a day after the tenuous Gaza ceasefire was shaken by deadly Israeli strikes across the strip.The bodies of the hostages Amiram Cooper and Sahar Baruch were returned to Israel for burial after an identification process was completed, the Israeli military said late on Thursday. Continue reading...",
       "content_length": 490,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "Lebanese president orders army to confront Israeli incursions after deadly raid",
-      "link": "https://www.theguardian.com/world/2025/oct/30/lebanese-president-orders-army-to-confront-israeli-soldiers-after-municipal-worker-killed-in-raid",
-      "published": "2025-10-30T14:11:32",
-      "content": "IDF says it was attacking Hezbollah infrastructure when it fired at a ‘suspect’ and the incident is under reviewIsraeli troops have killed a Lebanese municipal worker while carrying out a raid in the south of the country, prompting Lebanon’s president to order the army to confront future incursions.Lebanese state media identified the slain man as Ibrahim Salameh, an employee of the Blida municipality, a village near the border with Israel. The Israeli military confirmed the raid and said it was attacking Hezbollah infrastructure when it fired at a “suspect”. It said the incident was under review. Continue reading...",
-      "content_length": 623,
-      "source": "The Guardian World",
-      "category": "International News"
-    },
-    {
-      "title": "UK rule change allows some Palestinian scholars to bring families from Gaza",
-      "link": "https://www.theguardian.com/education/2025/oct/30/uk-rule-change-allows-palestinian-scholars-to-bring-families-from-gaza-university-students",
-      "published": "2025-10-30T11:10:17",
-      "content": "Previous visa policy had forced the students ‘to choose between their education and their family’Some Palestinian students taking up scholarships at UK universities will be allowed to bring their families with them from Gaza after the government announced it would consider case-by-case exemptions to its evacuation policy.After lobbying by MPs and supporters, the UK government has said partners and children could be allowed to accompany students on government-backed Chevening scholarships or studying for longer research degrees, such as PhDs. Continue reading...",
-      "content_length": 567,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1444,47 +1516,74 @@
       "category": "International News"
     },
     {
-      "title": "Cambridgeshire train stabbing: 10 people injured in attack; police arrest two suspects – latest updates",
+      "title": "Cambridgeshire train stabbing: suspects both British and ‘nothing to suggest’ attack was terrorism, say police – latest updates",
       "link": "https://www.theguardian.com/uk-news/live/2025/nov/02/cambridgeshire-train-stabbing-life-threatening-injuries-arrests-latest-updates",
-      "published": "2025-11-02T06:51:41",
-      "content": "Nine people hospitalised with life-threatening injuries; police say counter-terror officers involved in investigation. Follow the latest developmentsFull report: ten people taken to hospital following stabbing attack Explained: what we know so far Some more reaction is coming in.Kemi Badenoch, the Conservative leader, said she was “deeply disturbed” by the reports from Huntingdon. Continue reading...",
-      "content_length": 403,
+      "published": "2025-11-02T12:33:52",
+      "content": "Two men have been arrested on suspicion of attempted murder as two people remain in a life-threatening conditionTwo men in custody after mass stabbing on Cambridgeshire trainCambridgeshire train attack: what we know so farSome more reaction is coming in.Kemi Badenoch, the Conservative leader, said she was “deeply disturbed” by the reports from Huntingdon. Continue reading...",
+      "content_length": 377,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Tory patience wears thin as Badenoch’s critics count down to May elections",
-      "link": "https://www.theguardian.com/politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
-      "published": "2025-11-02T05:00:54",
-      "content": "With the party adrift and Reform surging, Jenrick’s allies are sharpening their pitch for a post-election resetAt an opulent speakeasy-style event at the Raffles hotel on Whitehall this week, the great and the good of what is left of the Conservative party marked the Spectator’s parliamentarian of the year awards.With the magazine’s editorial line still just about backing the Tories, despite the party facing an existential crisis from Reform UK, it was unsurprising that much of the gossip at the champagne-fuelled event was about whether Kemi Badenoch’s job was at risk. Continue reading...",
-      "content_length": 595,
+      "title": "UK ‘to lose 600,000 workers to illness without better health support at work’",
+      "link": "https://www.theguardian.com/money/2025/nov/02/uk-to-lose-600000-workers-to-illness-without-better-health-support-at-work",
+      "published": "2025-11-02T12:00:04",
+      "content": "Exclusive: Royal Society of Public Health says ‘fundamental shift’ needed in how firms help those with health conditionsAn extra 600,000 people will leave the British workforce in the next decade due to long-term health conditions unless ministers usher in “a fundamental shift” in how employers help maintain staff wellbeing, a report has warned.More than 3.3 million adults are expected to become economically inactive by 2035, according to analysis by the Royal Society of Public Health (RSPH), costing the UK £36bn a year. Continue reading...",
+      "content_length": 546,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Nine people suffering life-threatening injuries after train stabbing in Cambridgeshire, police say",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/01/two-arrested-after-multiple-people-stabbed-on-train-in-cambridgeshire",
-      "published": "2025-11-01T21:30:46",
-      "content": "Police have arrested two people and counter-terrorism police are also involved in an investigation into the mass stabbing on a train from Doncaster to London’s Kings Cross on SaturdayPolice declare ‘major incident’ – follow the latest updatesExplained: what we know so farNine people were being treated for life-threatening injuries after a series of stabbings on a train near Cambridge in eastern England on Saturday, and two men were arrested in what prime minister Keir Starmer called an “appalling incident”.British Transport Police said counterterrorism police were supporting its investigation while it works to establish the full circumstances and motivation for the incident. Continue reading...",
-      "content_length": 703,
+      "title": "UK charging industry could face £100m bill under business rate changes",
+      "link": "https://www.theguardian.com/environment/2025/nov/02/uk-charging-industry-could-face-100m-bill-under-business-rate-changes",
+      "published": "2025-11-02T12:00:03",
+      "content": "Industry bodies say proposals will force site closures, slow investment and cost drivers up to £300 a year moreThe UK charging industry has said it could face a £100m bill as the government considers making public charger operators pay business rates for the first time, at a time when slower-than-expected electric car sales have put pressure on the sector.ChargeUK, an industry body, said that its estimates suggest that operators will have to pay business rates on as many as 64,000 parking bays beside chargers which have not, up to now, been liable for the taxes. The lobby group said the change could add as much as £300 to the annual charging bill for some people if the cost is passed on to the customer. Continue reading...",
+      "content_length": 732,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Big belly, wavy fur and a nose for trouble: we exclusively reveal the new-look Paddington",
-      "link": "https://www.theguardian.com/stage/2025/nov/01/new-look-paddington-the-musical",
-      "published": "2025-11-01T19:30:42",
-      "content": "It’s been the biggest secret in theatre: what will the marmalade-loving, hyper-polite Peruvian look like in Paddington the Musical? As the curtain rises, we speak to the new bear’s creator, a veteran of Star Wars and PG Tips adsPaddington stands within touching distance. His fur flutters as he turns, his neat button nose sniffs the air, and his eyes soften with a smile. For years, design details of the bear for Paddington the Musical, directed by Luke Sheppard, have been kept top secret. Now here he is, in his blue duffel coat and red hat. A quiet theatrical marvel. “What we’re doing,” says producer Sonia Friedman, “has never been done before.”Standing around 1.2 metres (just under 4ft) tall, the bear is beautifully round, all belly and sloping shoulders. He is not an exact replica of the Paddingtons we’ve seen in illustrations or movies, but something new. His shaggy, caramel fur has a gentle wave, and his white snout is dotted with a brown nose, ideal for sniffing out trouble. Around his neck sits a label, threaded through an old piece of string, asking for someone to look after him. Continue reading...",
-      "content_length": 1122,
+      "title": "Two men in police custody after mass stabbing on Cambridgeshire train",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/02/two-men-in-police-custody-after-mass-stabbing-on-cambridgeshire-train",
+      "published": "2025-11-02T11:33:03",
+      "content": "Two people left with life-threatening injuries after attack police say they are not treating as terrorist incidentCambridgeshire train stabbing: latest updatesExplainer: Cambridgeshire train attack – what we know so farTwo men are in custody after multiple stabbings on a high-speed train in Cambridgeshire that left two people with life-threatening injuries, police have said.A 32-year-old black British national and a 35-year-old Briton of Caribbean descent have been arrested, British Transport Police have said, after the incident on Saturday night after which 11 people were treated in hospital. It is not being treated as a terrorist incident. Continue reading...",
+      "content_length": 669,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "Man killed in South Yorkshire helicopter crash named as Peter Smith",
-      "link": "https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
-      "published": "2025-11-01T17:38:50",
-      "content": "Peter Smith had a ‘passion for aviation’, according to his family.",
-      "content_length": 66,
+      "title": "Andrew to be stripped of naval title, says UK defence secretary",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/02/andrew-to-be-stripped-of-naval-title-says-uk-defence-secretary",
+      "published": "2025-11-02T10:49:22",
+      "content": "Former Duke of York to lose honorary rank of vice-admiral a week after having royal title of prince removedThe former Duke of York will lose his naval title, the defence secretary has said, as King Charles looks to draw a line under the scandal over his brother’s relationship with the convicted sex offender Jeffrey Epstein.Andrew Mountbatten Windsor will be stripped of his honorary rank of vice-admiral, which he was given in 2015 and has retained even after giving up other military positions in 2022, John Healey confirmed on Sunday. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The president who cried tariffs: will the US supreme court challenge Trump’s trade war?",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/trump-tariffs-supreme-court",
+      "published": "2025-11-02T12:00:04",
+      "content": "The US high court will hear arguments on whether Trump’s erratic imposition of global tariffs is legally validDonald Trump thrives on emergencies. He cried havoc on the very first day of his second term, declaring a national emergency caused by an “invasion” of “illegal aliens” from Mexico. He has since invoked emergencies more than any president since the passage of the National Emergencies Act in 1976.Next Wednesday, he faces another of his own making, as the US supreme court hears oral arguments on whether his globe-shaking signature economic policy – tariffs – is legally valid. Continue reading...",
+      "content_length": 608,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Has OpenAI really made ChatGPT better for users with mental health problems?",
+      "link": "https://www.theguardian.com/technology/2025/nov/02/openai-chatgpt-mental-health-problems-updates",
+      "published": "2025-11-02T12:00:02",
+      "content": "Prompts indicating suicidal ideation got alarming replies, which experts say shows ‘how easy it is to break the model’An OpenAI statement released this week claimed the company had made its popular service ChatGPT better at supporting users experiencing mental health problems like suicidal ideation or delusions, but experts tell the Guardian they need to do more to truly ensure users are protected.The Guardian tested several prompts indicating suicidal ideation with the ChatGPT GPT-5 updated model, which is now the default, and got alarming responses from the large language model (LLM) chatbot. Continue reading...",
+      "content_length": 621,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marjorie Taylor Greene tells Bill Maher she believes extraterrestrials are demons",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/marjorie-taylor-greene-real-time-bill-maher",
+      "published": "2025-11-02T09:00:01",
+      "content": "Georgia Republican lawmaker also claims she didn’t know Rothschild family, of her ‘space laser’ theory, was JewishRepublican US House member Marjorie Taylor Greene has said she believes in demons, surmising that they might be aliens who fell from heaven, and claims to have been unaware that key figures in the antisemitic space lasers conspiracy she floated were Jewish.She made those bizarre remarks as a guest on Friday on HBO’s Real Time With Bill Maher after winning some fans among Democrats who once loathed her – yet had come to appreciate how the far-right Georgia representative had recently broken with Republicans on various issues. Those include healthcare, Gaza, the federal government shutdown that began on 1 October and the handling of documents pertaining to the late convicted sex offender Jeffrey Epstein, who was friends with Donald Trump before the latter man won two presidencies. Continue reading...",
+      "content_length": 923,
       "source": "The Guardian World",
       "category": "International News"
     },
@@ -1501,44 +1600,152 @@
       "title": "LA Dodgers retain World Series after thrilling Game 7 win over Toronto Blue Jays",
       "link": "https://www.theguardian.com/sport/2025/nov/02/dodgers-win-world-series-game-7-blue-jays-baseball",
       "published": "2025-11-02T04:34:39",
-      "content": "Game 7: LA Dodgers 5–4 Toronto Blue JaysWill Smith’s 11th-inning home run proves decisiveDodgers becomes first repeat champion since 2000As it happened: Bryan Graham’s inning-by-inning reportThe Los Angeles Dodgers won their second consecutive title in stunning fashion in the early hours of Sunday morning, depriving the Toronto Blue Jays of a first World Series in 32 years in a stomach churning, epic Game 7. Will Smith’s solo home run with two outs at the top of the 11th inning off Shane Bieber gave LA a 5-4 lead before Yoshinobu Yamamoto, pitching in relief just a day after throwing 96 pitches, got Alejandro Kirk to ground out into a World Series ending double play, bringing a ninth title to the Dodgers organization.“Man, they’re a special group of guys,” Smith said after the game. “We just never gave up, kept fighting, pitching our asses off, hitting, taking great at-bats. Finally punched through there. Man, that was a fight for seven games. That’s a really good Toronto Blue Jays team. I’m just excited. There’s nothing better than this.” Continue reading...",
-      "content_length": 1075,
+      "content": "Game 7: LA Dodgers 5–4 Toronto Blue JaysWill Smith’s 11th-inning home run proves decisiveDodgers becomes first repeat champion since 2000As it happened: Bryan Graham’s inning-by-inning reportIn pictures: Fans around world react to Dodgers’ epic winThe Los Angeles Dodgers won their second consecutive title in stunning fashion in the early hours of Sunday morning, depriving the Toronto Blue Jays of a first World Series in 32 years in a stomach-churning, epic Game 7. Will Smith’s solo home run with two outs at the top of the 11th inning off Shane Bieber gave LA a 5-4 lead before Yoshinobu Yamamoto, pitching in relief just a day after throwing 96 pitches, got Alejandro Kirk to ground out into a World Series-ending double play, bringing a ninth title to the Dodgers organization.“Man, they’re a special group of guys,” Smith said after the game. “We just never gave up, kept fighting, pitching our asses off, hitting, taking great at-bats. Finally punched through there. Man, that was a fight for seven games. That’s a really good Toronto Blue Jays team. I’m just excited. There’s nothing better than this.” Continue reading...",
+      "content_length": 1132,
       "source": "The Guardian World",
       "category": "International News"
     },
     {
-      "title": "As Barack Obama stumps for other Democrats, the party gets to see what it lost",
-      "link": "https://www.theguardian.com/us-news/2025/nov/01/barack-obama-democratic-party",
-      "published": "2025-11-02T00:07:19",
-      "content": "The wit and wisdom of the superstar ex-US president make him the best candidate – too bad he can’t run“It’s not as if we didn’t see some of this coming,” said Barack Obama, a note of bleak humour in his voice. “I will admit it’s worse than even I expected, but I did warn y’all!”The crowd at a sports arena in Norfolk, Virginia, half-laughed and half-groaned. “I did,” Obama added. “You can run the tape.” Continue reading...",
-      "content_length": 425,
-      "source": "The Guardian World",
+      "title": "UK: Two Britis arrested for train stabbing, police say not terrorist incident",
+      "link": "https://www.france24.com/en/video/20251102-uk-two-britis-arrested-for-train-stabbing-police-say-not-terrorist-incident",
+      "published": "2025-11-02T11:50:13",
+      "content": "Two suspects were arrested after a mass stabbing on a London-bound train late Saturday that left ten people hospitalized, nine of them with potentially life-threatening injuries. Armed officers, supported by police vehicles and numerous ambulances, surrounded the railway station in the rural town of Huntingdon, Cambridgeshire, after the alarm was raised and the train was brought to an emergency stop there. France24 correspondent Bénédicte Paviot tells us the latest.",
+      "content_length": 470,
+      "source": "France 24 English",
       "category": "International News"
     },
     {
-      "title": "Obama criticizes Trump and Republican policy in stump speech for Abigail Spanberger",
-      "link": "https://www.theguardian.com/us-news/2025/nov/01/obama-virginia-abigail-spanberger",
-      "published": "2025-11-01T22:14:55",
-      "content": "Former US president headlines event for Democratic candidate for Virginia governor, who leads in pollsBarack Obama headlined a rally Saturday in Virginia to try to secure a victory for the state’s Democratic gubernatorial candidate, who leads in polls days before the election.Obama moved between criticizing Donald Trump and Republican policy and rhetoric – with a bit of humor – while also explaining how Abigail Spanberger could help counter what Democrats see as the country’s downward trajectory. Continue reading...",
-      "content_length": 521,
-      "source": "The Guardian World",
+      "title": "UK train stabbings injure nine, police arrest two suspects",
+      "link": "https://www.france24.com/en/video/20251102-uk-train-stabbings-injure-nine-police-arrest-two-suspects",
+      "published": "2025-11-02T11:17:05",
+      "content": "Nine people sustained life-threatening injuries in a series of stabbings on a train near Cambridge in eastern England on Saturday, leading to the arrest of two men in what Prime Minister Keir Starmer described as an “appalling incident.” British Transport Police said that counterterrorism officers are assisting in the investigation as authorities work to determine the full circumstances and motive behind the attack. Florent Marchais tell us more.",
+      "content_length": 450,
+      "source": "France 24 English",
       "category": "International News"
     },
     {
-      "title": "Trump threatens to go into Nigeria ‘guns-a-blazing’ over attacks on Christians",
-      "link": "https://www.theguardian.com/us-news/2025/nov/01/trump-nigeria-christian-persecution",
-      "published": "2025-11-01T21:48:38",
-      "content": "US president says he ordered Pentagon to begin planning for action, without mentioning Muslim persecutionDonald Trump on Saturday said he had ordered the Pentagon to begin planning for potential military action in Nigeria as he stepped up his criticism that the government was failing to rein in the persecution of Christians in the west African country.“If the Nigerian Government continues to allow the killing of Christians, the USA will immediately stop all aid and assistance to Nigeria, and may very well go into that now disgraced country, ‘guns-a-blazing,’ to completely wipe out the Islamic Terrorists who are committing these horrible atrocities,” Trump posted on social media. “I am hereby instructing our Department of War to prepare for possible action. If we attack, it will be fast, vicious, and sweet, just like the terrorist thugs attack our CHERISHED Christians!” Continue reading...",
-      "content_length": 901,
-      "source": "The Guardian World",
+      "title": "🔴 Two UK nationals held over train stabbing as police say 'nothing to suggest' attack was terrorism",
+      "link": "https://www.france24.com/en/live-news/20251102-uk-police-arrest-two-after-multiple-people-stabbed-on-train",
+      "published": "2025-11-02T11:15:33",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
       "category": "International News"
     },
     {
-      "title": "UK police arrest two suspects in mass train stabbing that leaves 10 wounded",
+      "title": "The week in pictures: Trump-Xi talks, Hurricane Melissa and Mexico's Day of the Dead",
+      "link": "https://www.france24.com/en/culture/20251102-the-week-in-pictures-trump-xi-talks-hurricane-melissa-and-mexico-day-of-the-dead",
+      "published": "2025-11-02T10:26:12",
+      "content": "US President Donald Trump hails an \"amazing\" meeting with China's Xi Jinping, Hurricane Melissa leaves a trail of destruction in the Caribbean, and Mexicans don colourful skeleton costumes as they celebrate El Dia de los Muertos – the Day of the Dead. FRANCE 24 takes a look back at the week's most striking images.",
+      "content_length": 315,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Who's who in the race to become New York's next mayor",
+      "link": "https://www.france24.com/en/americas/20251102-who-is-who-race-to-become-new-york-next-mayor-mamdani-cuomo-sliwa",
+      "published": "2025-11-02T10:22:32",
+      "content": "New Yorkers head to the polls to elect a new mayor on Tuesday, with 34-year-old Zohran Mamdani, a “democratic socialist”, the strong favourite to win. His two rivals are the Republican outsider, Curtis Sliwa, and former New York governor Andrew Cuomo.",
+      "content_length": 251,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Argentina marches for LGBTQ Pride, against government-fueled 'hate'",
+      "link": "https://www.france24.com/en/video/20251102-argentina-marches-for-lgbtq-pride-against-government-fueled-hate",
+      "published": "2025-11-02T09:54:08",
+      "content": "Thousands gathered in Buenos Aires on Saturday for Argentina’s 34th annual LGBTQ Pride march, demonstrating both solidarity and resistance to right-wing President Javier Milei. Marching under the slogan “Against hate and violence: more pride and unity,” participants paraded from the Plaza de Mayo, the city’s main square, to the National Congress. Gabrielle Nadler reports.",
+      "content_length": 374,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kenya’s Rift Valley: Landslides leave 21 dead, 30 others missing",
+      "link": "https://www.france24.com/en/video/20251102-kenya-s-rift-valley-landslides-leave-21-dead-30-others-missing",
+      "published": "2025-11-02T09:51:57",
+      "content": "Heavy rainfall has caused landslides in Kenya’s western Rift Valley region, leaving at least 21 people dead and destroying over 1,000 homes, officials reported. In a statement posted on X on Saturday, Interior Cabinet Secretary Kipchumba Murkomen said that at least 25 people with serious injuries had been airlifted from Elgeyo-Marakwet County to the city of Eldoret for treatment, while around 30 others remain missing. Daniel Quinlan reports.",
+      "content_length": 445,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Paris: Two more charged over Louvre jewellery heist",
+      "link": "https://www.france24.com/en/video/20251102-paris-two-more-charged-over-louvre-jewellery-heist",
+      "published": "2025-11-02T09:50:37",
+      "content": "Two more suspects, a man and a woman arrested this week over the jewel heist at the Louvre, have been charged and remanded in custody, prosecutors have said. The charges on Saturday brought to four the number of people now charged over the spectacular robbery. Daniel Quinlan and L. Nahon from France2 report.",
+      "content_length": 309,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Serbia: Thousands of Serbians commemorate anniversary of deadly station collapse",
+      "link": "https://www.france24.com/en/video/20251102-serbia-thousands-of-serbians-commemorate-anniversary-of-deadly-station-collapse",
+      "published": "2025-11-02T09:41:53",
+      "content": "Tens of thousands of people gathered in Novi Sad, Serbia, to mark the anniversary of the railway station roof collapse that claimed 16 lives on 1 November 2024. At 11:52 - the exact time of the tragedy - attendees observed a 16-minute silence in memory of the victims. The disaster sparked a nationwide wave of mass protests against political corruption. Jennie Shin and Ethan Hajji tell us more.",
+      "content_length": 396,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine deploys special forces to the eastern city of Pokrovsk after a Russian assault",
+      "link": "https://www.france24.com/en/video/20251102-ukraine-deploys-special-forces-to-the-eastern-city-of-pokrovsk-after-a-russian-assault",
+      "published": "2025-11-02T09:39:27",
+      "content": "Ukraine on Saturday deployed special forces to the eastern city of Pokrovsk, which is under an intense Russian assault. The city has been in Moscow's sights for over a year and lies on a major supply route for the Ukrainian army. Russia's army fired 270 missiles over October, up 46 percent on the previous month, according to an AFP analysis. France24 correspondent Emmanuelle Chaze reports the latest from Kharkiv.",
+      "content_length": 416,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UK: Police arrest two suspects in mass train stabbing that leaves 10 wounded",
+      "link": "https://www.france24.com/en/video/20251102-uk-police-arrest-two-suspects-in-mass-train-stabbing-that-leaves-10-wounded",
+      "published": "2025-11-02T09:36:20",
+      "content": "UK police said ten people were taken to hospital - nine with life-threatening injuries - following a multiple stabbing on a London-bound train in the eastern town of Huntingdon, Cambridgeshire. The motives and identity of the two people arrested for the attack were not immediately known. France24 correspondent Hervé Amoric tells us the latest from London.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French journalist banned from Russia: \"They made me pay for my reporting\"",
+      "link": "https://www.france24.com/en/video/20251102-french-journalist-banned-from-russia-they-made-me-pay-for-my-reporting",
+      "published": "2025-11-02T09:34:34",
+      "content": "As we mark the International Day to End Impunity for Crimes Against Journalists, France 24 speaks to former Moscow correspondent Julian Colling. In September he was expelled from Russia and banned for five years. He'd been in Moscow since 2017 and he says that while there was always pressure on journalists, it got a lot worse in 2022, in the wake of Russia's full-scale invasion of Ukraine. He believes his expulsion was meant to send a warning to fellow journalists and dissuade them from reporting on sensitive topics like the deaths of Russian soldiers.",
+      "content_length": 558,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French consumer watchdog reports Shein for selling 'childlike' sex dolls",
+      "link": "https://www.france24.com/en/france/20251102-french-consumer-watchdog-reports-shein-for-selling-childlike-sex-dolls",
+      "published": "2025-11-02T08:26:42",
+      "content": "France’s anti-fraud unit said on Saturday it had reported Chinese-founded e-commerce giant Shein for selling “sex dolls with a childlike appearance” on its web site. Shein responded by saying that the dolls in question had been withdrawn from its platform.",
+      "content_length": 256,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "On the trail of migrant smugglers 2/3: Shipwreck survivor to stand trial for involuntary homicide",
+      "link": "https://www.france24.com/en/france/20251102-on-the-trail-of-migrant-smugglers-2-3-shipwreck-survivor-to-stand-trial-for-involuntary-homicide",
+      "published": "2025-11-02T07:13:36",
+      "content": "Ibrahim A., a Sudanese migrant fleeing the civil war, boarded a small inflatable boat hoping to cross the English Channel in August 2023. When the boat sank, killing seven people, French authorities arrested the 31-year-old, who they suspected of piloting the deadly voyage. He now faces 10 years in prison, unless his lawyer can prove his innocence.",
+      "content_length": 350,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump threatens to send US military into Nigeria, alleging mass killing of Christians",
+      "link": "https://www.france24.com/en/africa/20251102-trump-threatens-to-send-us-military-into-nigeria-alleging-mass-killing-of-christians",
+      "published": "2025-11-02T07:12:25",
+      "content": "US President Donald Trump on Saturday threatened Nigeria with a possible military attack after accusing the country of allowing the killing of Christians by Islamists. Trump alleged on social media on Friday that “Radical Islamists\" in Nigeria were responsible for the \"mass slaughter” of Christians.",
+      "content_length": 300,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Police say UK train stabbing that wounded 10 people not a 'terrorist incident'",
       "link": "https://www.france24.com/en/live-news/20251102-uk-police-arrest-two-after-multiple-people-stabbed-on-train",
       "published": "2025-11-02T01:09:12",
-      "content": "UK police said ten people were taken to hospital -- nine with life-threatening injuries --  following a multiple stabbing on a London-bound train in the eastern town of Huntingdon, Cambridgeshire. The motives and identity of the two people arrested for the attack were not immediately known.",
-      "content_length": 291,
+      "content": "UK police said Sunday two British nationals were arrested on suspicion of attempted murder following a mass stabbing on a train in eastern England in which 10 people were wounded. “At this stage, there is nothing to suggest that this is a terrorist incident,” UK Transport Police superintendent John Loveless told reporters.",
+      "content_length": 324,
       "source": "France 24 English",
       "category": "International News"
     },
@@ -1602,141 +1809,6 @@
       "published": "2025-11-01T20:19:10",
       "content": "Please watch the Grand Egyptian Museum's opening ceremony in Cairo.",
       "content_length": 67,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "The Grand Egyptian Museum opens in lavish, pharaonic ceremony",
-      "link": "https://www.france24.com/en/video/20251101-the-grand-egyptian-museum-opens-in-lavish-pharaonic-ceremony",
-      "published": "2025-11-01T20:10:08",
-      "content": "Egypt at last opened the $1 billion Grand Egyptian Museum on Saturday as performers dressed in white tunics embroidered with designs inspired by ancient frescoes, greeted guests.  Dozens of performers dressed in elaborate Pharaonic costumes, their foreheads crowned with golden wreaths and sceptres in hand, played traditional tunes as a laser show depicting pharaohs and fireworks lit up the night sky above the museum.",
-      "content_length": 420,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "World’s fascination with ancient Egypt a 'heritage', Egyptologist says",
-      "link": "https://www.france24.com/en/video/20251101-world-s-fascination-with-ancient-egypt-a-heritage-egyptologist-says",
-      "published": "2025-11-01T19:51:55",
-      "content": "The world’s fascination with ancient Egypt is a cultural \"heritage\" passed down from the Greeks and Romans, said Vincent Rondot, Egyptologist and former director of the Egyptian Department at the Louvre Museum. Rondot noted that many aspects of Cairo’s Grand Egyptian Museum reflect that enduring allure. Speaking about visitors to the Louvre’s Egyptian collection, he said they don’t just come to view the artefacts but “have an appointment — they come for a meeting”.",
-      "content_length": 469,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Key objects missing from the Grand Egyptian Museum's collection",
-      "link": "https://www.france24.com/en/video/20251101-key-objects-missing-from-the-grand-egyptian-museum-s-collection",
-      "published": "2025-11-01T19:39:22",
-      "content": "As Cairo inaugurates the Grand Egyptian Museum Saturday, FRANCE 24's Culture Editor Eve Jackson discusses several key objects missing from the new museum which include the Rosetta Stone in the British Museum, the Dendera Zodiac in the Louvre and the bust of Nefertiti in Berlin.",
-      "content_length": 278,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Grand Egyptian Museum to display tomb paintings bringing ancient Egypt to life",
-      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-to-display-tomb-paintings-bringing-ancient-egypt-to-life",
-      "published": "2025-11-01T19:06:53",
-      "content": "The Grand Egyptian Museum, which held its opening ceremony on Saturday, will showcase tomb paintings and other artefacts offering insight into ancient Egyptian life, said Salima Ikram, Distinguished Professor of Egyptology at the American University in Cairo. The paintings depict ordinary people engaged in everyday activities — “they’re fishing, they’re fowling, they’re cooking,” Ikram said.",
-      "content_length": 394,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Replay: Watch Egyptian President Abdel Fattah al-Sisi's address",
-      "link": "https://www.france24.com/en/video/20251101-replay-watch-egyptian-president-abdel-fattah-al-sisi-s-address",
-      "published": "2025-11-01T18:48:00",
-      "content": "Please watch Egyptian President Abdel Fattah al-Sisi's address at the Grand Egyptian Museum's opening ceremony.",
-      "content_length": 111,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Grand Egyptian Museum opening ceremony music show",
-      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-opening-ceremony-music-show",
-      "published": "2025-11-01T18:45:35",
-      "content": "Please watch the Grand Egyptian Museum opening ceremony's music show",
-      "content_length": 68,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Survivors of Sudan's El-Fasher say RSF is separating families and killing children",
-      "link": "https://www.france24.com/en/africa/20251101-survivors-of-sudan-s-el-fasher-say-rsf-is-separating-families-and-killing-children",
-      "published": "2025-11-01T18:44:43",
-      "content": "Tens of thousands of people are still trapped in Sudan's El-Fasher five days after the paramilitary Rapid Support Forces (RSF) seized the city. Fleeing survivors said on Saturday that paramilitary fighters separated families and killed children in front of their parents, and fresh satellite images suggested mass killings were likely ongoing.",
-      "content_length": 343,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Egyptologists seeking to ‘give the credit where the credit is due’",
-      "link": "https://www.france24.com/en/video/20251101-egyptologists-seeking-to-give-the-credit-where-the-credit-is-due",
-      "published": "2025-11-01T17:50:59",
-      "content": "Egyptologists are aiming to “give credit where credit is due”, recognising not only Western archaeologists but also the Egyptians who carried out much of the “heavy lifting,” said Peter Der Manuelian, Barbara Bell Professor of Egyptology at Harvard University. Egyptian foremen assisted on expeditions and kept diaries in Arabic, and Der Manuelian said the goal is to give them “the recognition they deserve”.",
-      "content_length": 409,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Grand Egyptian Museum a 'symbol' to be shared with world",
-      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-a-symbol-to-be-shared-with-world",
-      "published": "2025-11-01T17:45:26",
-      "content": "Egypt was inaugurating the long-delayed Grand Egyptian Museum (GEM) on Saturday, the world’s largest museum dedicated to its ancient civilization. World leaders, including monarchs, heads of states and governments, were to attend the grand opening ceremony in Cairo. \"This (GEM) is a symbol of Egypt, but it's a symbol that Egypt wants to share\", FRANCE 24's Nurla Teson said, reporting from Cairo.",
-      "content_length": 398,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "🔴 Watch live: Egypt unveils billion-dollar museum displaying full Tutankhamun collection",
-      "link": "https://www.france24.com/en/culture/20251101-watch-live-egypt-unveils-grand-egyptian-museum-dedicated-to-its-ancient-civilization",
-      "published": "2025-11-01T17:04:30",
-      "content": "",
-      "content_length": 0,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "The Grand Egyptian Museum Finally Inaugurated in Cairo tonight",
-      "link": "https://www.france24.com/en/video/20251101-the-grand-egyptian-museum-finally-inaugurated-in-cairo-tonight",
-      "published": "2025-11-01T16:39:31",
-      "content": "Cairo's Grand Egyptian Museum (GEM) will officially be inaugurated this Saturday, November 1 in  what is a historic moment for the country. A grand inauguration ceremony will be held this Saturday from 6pm, with around 80 official international delegations expected to attend. French President Emmanuel Macron will be among the guests.",
-      "content_length": 335,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Billion-dollar Grand Egyptian Museum innaugurated with lavish ceremony",
-      "link": "https://www.france24.com/en/culture/20251101-watch-live-egypt-unveils-grand-egyptian-museum-dedicated-to-its-ancient-civilization",
-      "published": "2025-11-01T16:37:19",
-      "content": "Egypt opened the $1 billion Grand Egyptian Museum (GEM) on Saturday in a lavish, spectacle laden ceremony, which Egyptian President Abdel Fattah al-Sisi said was \"a new chapter in the history of the present and the future\". Cairo has pinned great hopes on the long-delayed museum, which is a key plank of plans to revive the tourism industry so vital to its troubled economy.",
-      "content_length": 375,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Mexicans honour Santa Muerte on Day of the Dead",
-      "link": "https://www.france24.com/en/video/20251101-mexicans-honour-santa-muerte-on-day-of-the-dead",
-      "published": "2025-11-01T16:35:13",
-      "content": "As Mexico marks Día de los Muertos, families adorn altars with marigolds, candles and colourful sugar skulls – calaveritas – to celebrate departed loved ones. Across the country, people honour the deceased as well as Santa Meurte, a folk saint who represents healing, protection and safe passage to the afterlife by devotees.",
-      "content_length": 325,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Paris Catacombs to close for renovations",
-      "link": "https://www.france24.com/en/video/20251101-paris-catacombs-to-close-for-renovations",
-      "published": "2025-11-01T15:37:35",
-      "content": "One of Paris's top tourist attractions – and certainly its most morbid – closes to visitors from Monday for six months of renovations. The Paris Catacombs, underground galleries that are the final resting place for millions of bodies disinterred from the capital's cemeteries between the Middle Ages and the French Revolution, are to become modernised, with better ventilation, lighting and an improved layout.",
-      "content_length": 410,
-      "source": "France 24 English",
-      "category": "International News"
-    },
-    {
-      "title": "Serbia protests: ‘The people are angry, the people want justice’, expert says",
-      "link": "https://www.france24.com/en/video/20251101-serbia-protests-the-people-are-angry-the-people-want-justice-expert-says",
-      "published": "2025-11-01T15:35:38",
-      "content": "Tens of thousands of protesters poured into Serbia's second city on Saturday a year after a railway station roof collapse that killed 16 people, unleashing discontent over alleged corruption and a lack of accountability many blame for the disaster. FRANCE 24 speaks to Helena Ivanov, associate research fellow at the Henry Jackson Society, to shed more light on the situation.",
-      "content_length": 376,
       "source": "France 24 English",
       "category": "International News"
     },
@@ -2733,14 +2805,14 @@
   ],
   "stats": {
     "by_category": {
-      "German News": 125,
+      "German News": 133,
       "International News": 68,
       "Tech News": 110
     },
     "by_source": {
       "Tagesschau": 40,
       "Tagesschau Ausland": 64,
-      "Deutschlandfunk": 21,
+      "Deutschlandfunk": 29,
       "The Guardian World": 45,
       "France 24 English": 23,
       "Ars Technica": 20,
