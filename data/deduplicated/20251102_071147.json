@@ -1,0 +1,842 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-02T07:11:47.881989",
+    "deduplicated_at": "2025-11-02 07:11:47",
+    "lookback_days": 7,
+    "total_input": 1105,
+    "duplicates_removed": 1013,
+    "new_articles": 92,
+    "deduplication_rate": "91.7%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "Jamaika: Zahl der Toten nach Hurrikan \"Melissa\" gestiegen",
+      "link": "https://www.tagesschau.de/ausland/amerika/opferzahlen-hurrikan-melissa-100.html",
+      "published": "2025-11-02T07:03:03",
+      "content": "   Im Karibikstaat Jamaika ist die Zahl der Toten nach Hurrikan \"Melissa\" gestiegen. Einige Gebiete sind noch immer von der Außenwelt abgeschnitten. Auch Touristen sitzen weiter fest: Viele für gestern geplante Flüge fielen aus.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - Messerangriff in Zug: Zehn Menschen zum Teil lebensbedrohlich verletzt",
+      "link": "https://www.deutschlandfunk.de/messerangriff-in-zug-zehn-menschen-zum-teil-lebensbedrohlich-verletzt-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Bei einem Messerangriff in einem Zug in Großbritannien sind laut Polizei zehn Menschen verletzt worden, davon neun lebensbedrohlich. Nach dem Vorfall in der ostenglischen Region Cambridgeshire wurden zwei Verdächtige festgenommen. Sie sollen in einem Zug auf Menschen eingestochen haben.",
+      "content_length": 287,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Afrika - Vorwurf der \"Tötung von Christen\": Trump droht Nigeria mit US-Militäreinsatz",
+      "link": "https://www.deutschlandfunk.de/vorwurf-der-toetung-von-christen-trump-droht-nigeria-mit-us-militaereinsatz-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "US-Präsident Trump hat Nigeria mit einem Militäreinsatz gedroht. Als Grund führt er an, dass dort Christen getötet würden. In Nigeria gibt es allerdings zahlreiche Konflikte mit unterschiedlichen Hintergründen. Auch Muslime sind immer wieder Opfer von tödlicher Gewalt.",
+      "content_length": 269,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Karibik - Hegseth: Drei Tote bei erneutem US-Angriff auf vermeintliches Drogenboot",
+      "link": "https://www.deutschlandfunk.de/hegseth-drei-tote-bei-erneutem-us-angriff-auf-vermeintliches-drogenboot-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Das US-Militär hat erneut ein angeblich mit Drogen beladenes Boot in der Karibik angegriffen.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Zahl russischer Raketenangriffe im Oktober auf höchstem Stand seit 2023",
+      "link": "https://www.deutschlandfunk.de/zahl-russischer-raketenangriffe-im-oktober-auf-hoechstem-stand-seit-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Russland hat einem Medienbericht zufolge seine Raketenangriffe auf die Ukraine verstärkt.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Außenminister Wadephul will Reisewarnung für Israel abschwächen",
+      "link": "https://www.deutschlandfunk.de/aussenminister-wadephul-will-reisewarnung-fuer-israel-abschwaechen-102.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Außenminister Wadephul will die Reisewarnung für Israel abschwächen. Das erklärte er in Tel Aviv zum Abschluss seiner Nahost-Reise. Mit der Lockerung der Reisehinweise wolle er einen Beitrag zu mehr Austausch zwischen Israel und Deutschland leisten. Details zu der Lockerung will er Anfang der Woche bekanntgeben.",
+      "content_length": 313,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington",
+      "link": "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Der syrische Interimspräsident al-Scharaa wird nach US-Angaben noch in diesem Monat nach Washington reisen.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hermosillo-Mexiko - Bei einer Explosion in einem Supermarkt in Mexiko sterben mindestens 23 Menschen",
+      "link": "https://www.deutschlandfunk.de/bei-einer-explosion-in-einem-supermarkt-in-mexiko-sterben-mindestens-23-menschen-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Im Nordwesten Mexikos sind bei einer Explosion in einem Supermarkt mindestens 23 Menschen ums Leben gekommen.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Buenos Aires - Proteste bei Pride Parade gegen Argentiniens Präsidenten Milei",
+      "link": "https://www.deutschlandfunk.de/proteste-bei-pride-parade-gegen-argentiniens-praesidenten-milei-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "In Argentinien haben zehntausende Menschen an der diesjährigen Pride-Parade teilgenommen.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Afrika-Reise - Steinmeier: bilaterale Gespräche mit Präsident al-Sisi und anderen Staats- und Regierungschefs in Kairo",
+      "link": "https://www.deutschlandfunk.de/steinmeier-bilaterale-gespraeche-mit-praesident-al-sisi-und-anderen-staats-und-regierungschefs-in-ka-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Bundespräsident Steinmeier trifft heute Vormittag im Rahmen seiner knapp einwöchigen Afrika-Reise Ägyptens Präsident al-Sisi.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Frankfurt/M. - Polizei gibt Entwarnung nach Knall in Einkaufszentrum",
+      "link": "https://www.deutschlandfunk.de/polizei-gibt-entwarnung-nach-knall-in-einkaufszentrum-102.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "In einem Einkaufszentrum in Frankfurt am Main sind Menschen wegen eines lauten Knalls in Panik geraten.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tarifstreit - Vorerst kein Streik bei Lufthansa",
+      "link": "https://www.deutschlandfunk.de/vorerst-kein-streik-bei-lufthansa-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Passagiere der Lufthansa müssen vorerst nicht mit einem Streik der Piloten rechnen.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kassenbeiträge - Die gesetzlichen Krankenkassen warnen vor weiter steigenden Beiträgen wegen eines zusätzlichen Finanzbedarfs, trotz Sparpakets",
+      "link": "https://www.deutschlandfunk.de/die-gesetzlichen-krankenkassen-warnen-vor-weiter-steigenden-beitraegen-wegen-eines-zusaetzlichen-fin-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Die gesetzlichen Krankenversicherungen warnen vor weiter steigenden Beiträgen im neuen Jahr auch mit dem vorgesehenen Sparpaket der Bundesregierung.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Literaturauszeichnung - Autorin Ursula Krechel nimmt Georg-Büchner-Preis entgegen - Erinnerung an Opfer politischer Gewalt",
+      "link": "https://www.deutschlandfunk.de/autorin-ursula-krechel-nimmt-georg-buechner-preis-entgegen-erinnerung-an-opfer-politischer-gewalt-108.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Die Schriftstellerin Ursula Krechel hat in Darmstadt den Georg-Büchner-Preis entgegengenommen. Die 77-Jährige erinnerte in ihrer Dankesrede an Menschen, die aus politischen Gründen gelitten haben oder gestorben sind.",
+      "content_length": 216,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mexiko - Tag der Toten: Rund 1,5 Millionen Menschen bei Parade in Mexiko-Stadt",
+      "link": "https://www.deutschlandfunk.de/tag-der-toten-rund-1-5-millionen-menschen-bei-parade-in-mexiko-stadt-104.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "In Mexiko-Stadt haben rund 1,5 Millionen Menschen mit einer farbenfrohen Parade den Tag der Toten, den Día de los Muertos, gefeiert.",
+      "content_length": 132,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südtirol - Fünf deutsche Bergsteiger ums Leben gekommen",
+      "link": "https://www.deutschlandfunk.de/fuenf-deutsche-bergsteiger-ums-leben-gekommen-112.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Bei einem Lawinenunglück in Südtirol sind fünf deutsche Bergsteiger ums Leben gekommen.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - Bayern schagen Leverkusen - erster Saisonsieg für Mönchengladbach",
+      "link": "https://www.deutschlandfunk.de/bayern-schagen-leverkusen-erster-saisonsieg-fuer-moenchengladbach-106.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "In der Fußball-Bundesliga hat Bayern München Bayer Leverkusen mit 3:0 geschlagen. Der Meister bleibt somit ohne Punktverlust an der Tabellenspitze. Borussia Mönchengladbach konnte derweil den ersten Saisonsieg eingefahren.",
+      "content_length": 222,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kultur - Großes Ägyptisches Museum an den Pyramiden eröffnet",
+      "link": "https://www.deutschlandfunk.de/grosses-aegyptisches-museum-an-den-pyramiden-eroeffnet-116.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Das Große Ägyptische Museum nahe den Pyramiden von Giseh ist mit einer Zeremonie feierlich eröffnet worden.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tennis - Zverev verliert Halbfinale in Paris gegen Sinner",
+      "link": "https://www.deutschlandfunk.de/zverev-verliert-halbfinale-in-paris-gegen-sinner-106.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Der deutsche Tennis-Profi Alexander Zverev hat beim Masters-Turnier in Paris gegen den Italiener Jannik Sinner verloren und damit das Finale verpasst. Er musste sich dem Weltranglisten-Zweiten mit 0:6, 1:6 geschlagen geben. Das Match dauerte kaum länger als eine Stunde.",
+      "content_length": 270,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interview der Woche - Leipziger Oberbürgermeister Jung : Kommunen weiter in schwieriger Finanzlage - Kultur und Vereine betroffen",
+      "link": "https://www.deutschlandfunk.de/leipziger-oberbuergermeister-jung-kommunen-weiter-in-schwieriger-finanzlage-kultur-und-vereine-betro-102.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Der Präsident des Deutschen Städtetages, Jung, sieht die Kommunen trotz aller Bemühungen zur Haushaltskonsolidierung in einer schwierigen Lage. Man sei gezwungen, Haushaltssperren zu verhängen, sagte der Leipziger Oberbürgermeister im Interview der Woche des Deutschlandfunks. Jede einzelne Ausgabe komme auf den Prüfstand.",
+      "content_length": 323,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Lottozahlen - 7 - 18 - 28 - 29 - 35 - 38",
+      "link": "https://www.deutschlandfunk.de/7-18-28-29-35-104.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Die Lottozahlen:",
+      "content_length": 16,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Verbreitet regnerisch, nur im Nordwesten Auflockerungen",
+      "link": "https://www.deutschlandfunk.de/verbreitet-regnerisch-nur-im-nordwesten-auflockerungen-100.html",
+      "published": "2025-11-02T06:55:45",
+      "content": "Das Wetter: Überwiegend stark bewölkt mit Regen, im Süden und Südosten teils länger anhaltend. An der Nordsee sowie im Westen Schauer und einzelne Gewitter. Nur im Nordwesten Auflockerungen. Höchstwerte 10 bis 15 Grad. Morgen wechselnd bewölkt, im Süden gebietsweise freundlich. Im Nordwesten aufkommender Regen. 9 bis 16 Grad.",
+      "content_length": 327,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Cambridgeshire train stabbing: 10 people injured in attack; police arrest two suspects – latest updates",
+      "link": "https://www.theguardian.com/uk-news/live/2025/nov/02/cambridgeshire-train-stabbing-life-threatening-injuries-arrests-latest-updates",
+      "published": "2025-11-02T06:51:41",
+      "content": "Nine people hospitalised with life-threatening injuries; police say counter-terror officers involved in investigation. Follow the latest developmentsFull report: ten people taken to hospital following stabbing attack Explained: what we know so far Some more reaction is coming in.Kemi Badenoch, the Conservative leader, said she was “deeply disturbed” by the reports from Huntingdon. Continue reading...",
+      "content_length": 403,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sussan Ley under pressure as Nationals formally scrap net zero target",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/02/nationals-party-room-meeting-net-zero-emissions-target-david-littleproud",
+      "published": "2025-11-02T06:28:17",
+      "content": "David Littleproud says he informed the Liberal leader days ago of the policy position his party was consideringFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe National party has unanimously decided to its scrap net zero commitments after a party room meeting on Sunday, piling pressure on Sussan Ley and the Liberals as they continue to debate their own energy platform.The party leader, David Littleproud, said the Nationals would focus on “aspirations” rather than targets and align Australia’s emissions reduction to other OECD countries. Littleproud said he was “proud” of the decision. Continue reading...",
+      "content_length": 679,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘What are they going to do, chase someone up?’ Victorian rock climbers scorn ban on Mount Arapiles Indigenous sites",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/02/victorian-rock-climbers-urge-people-defy-ban-indigenous-sites",
+      "published": "2025-11-02T06:23:20",
+      "content": "State park contains rock art dating back at least 3,000 years and tens of thousands of artefactsGet our breaking news email, free app or daily news podcastRock climbers are openly discussing flouting Victoria’s voluntary bans on routes near Mount Arapiles despite a plea from the state government to respect the area’s Indigenous heritage.The area in the state’s west is regarded as among Australia’s premier rock climbing destinations. It also contains millennia-old rock art, among other significant Indigenous sites. Continue reading...",
+      "content_length": 539,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Three killed in US military strike on alleged drug vessel in the Caribbean",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/three-killed-in-us-military-strike-on-alleged-drug-vessel-in-the-caribbean",
+      "published": "2025-11-02T06:19:08",
+      "content": "Defense secretary announces a new strike on alleged drug smugglers in the Caribbean Sea, bringing total killed in US strikes to at least 64 peopleThe US military has carried out another lethal strike on alleged drug smugglers in the Caribbean Sea, US defense secretary Pete Hegseth said.Hegseth said on Saturday the vessel was operated by a US-designated terrorist organization but did not name which group was targeted. He said three people were killed in the strike. Continue reading...",
+      "content_length": 488,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tory patience wears thin as Badenoch’s critics count down to May elections",
+      "link": "https://www.theguardian.com/politics/2025/nov/02/tory-patience-wears-thin-as-badenochs-critics-count-down-to-may-elections",
+      "published": "2025-11-02T05:00:54",
+      "content": "With the party adrift and Reform surging, Jenrick’s allies are sharpening their pitch for a post-election resetAt an opulent speakeasy-style event at the Raffles hotel on Whitehall this week, the great and the good of what is left of the Conservative party marked the Spectator’s parliamentarian of the year awards.With the magazine’s editorial line still just about backing the Tories, despite the party facing an existential crisis from Reform UK, it was unsurprising that much of the gossip at the champagne-fuelled event was about whether Kemi Badenoch’s job was at risk. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Decision to scrap net zero commitment shows Nationals ‘profoundly out of touch’, critics say – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/02/nationals-net-zero-party-room-meeting-coalition-labor-murray-watt-anthony-albanese-apec-mark-butler-medicare-bulk-billing-ntwnfb",
+      "published": "2025-11-02T04:57:08",
+      "content": "This blog is now closedNationals ‘proud’ to formally scrap net zero target after party room meetingGet our breaking news email, free app or daily news podcastWatt says Labor doesn’t have a policy to end native forest loggingAsked if he wanted native forest logging to continue (it’s not banned in the legislation, despite the significant negative environmental impact that it has), Watt dodges the question by saying the party doesn’t have a specific policy of ending native forest logging.What we have said, though, is that we will follow the recommendation from Graeme Samuel to apply national environmental standards to the regional forestry agreements that are used for native forestry, so what that means in practice is that native forestry would need to meet higher environmental standards than are currently required under the legislation. That’s a big step forward in terms of the environmental management of native forestry. But it doesn’t go as far as what the Greens party is seeking in being an all-out ban.Not in its own right. We haven’t taken the approach of saying that particular projects are altogether banned. Every project will be assessed on its merits whether it be a coal and gas project, whether it be a housing and renewable project, they have all got to demonstrate they’re not having a significant impact on one of the nine matters of national environmental significance under the act.If a coal or gas development was seeking approval, then it would need to meet the national environmental standards. It would need to avoid and minimise its environmental impacts and offset them to achieve a net gain. So they would be improvements compared to the criteria that apply to a project at the moment. If it was considered to have an unacceptable impact on the environment then it would get knocked back as would a housing development or a renewable project.We’re not trying to sort of put in particular criteria for particular sectors. What we’re trying to do is put in a balanced package for all sorts of projects, for all industries, that deliver environmental and business gains. Continue reading...",
+      "content_length": 2124,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "LA Dodgers retain World Series after thrilling Game 7 win over Toronto Blue Jays",
+      "link": "https://www.theguardian.com/sport/2025/nov/02/dodgers-win-world-series-game-7-blue-jays-baseball",
+      "published": "2025-11-02T04:34:39",
+      "content": "Game 7: LA Dodgers 5–4 Toronto Blue JaysWill Smith’s 11th-inning home run proves decisiveDodgers becomes first repeat champion since 2000As it happened: Bryan Graham’s inning-by-inning reportThe Los Angeles Dodgers won their second consecutive title in stunning fashion in the early hours of Sunday morning, depriving the Toronto Blue Jays of a first World Series in 32 years in a stomach churning, epic Game 7. Will Smith’s solo home run with two outs at the top of the 11th inning off Shane Bieber gave LA a 5-4 lead before Yoshinobu Yamamoto, pitching in relief just a day after throwing 96 pitches, got Alejandro Kirk to ground out into a World Series ending double play, bringing a ninth title to the Dodgers organization.“Man, they’re a special group of guys,” Smith said after the game. “We just never gave up, kept fighting, pitching our asses off, hitting, taking great at-bats. Finally punched through there. Man, that was a fight for seven games. That’s a really good Toronto Blue Jays team. I’m just excited. There’s nothing better than this.” Continue reading...",
+      "content_length": 1075,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lawine: Suche nach vermissten Deutschen in Tirol wird fortgesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-102.html",
+      "published": "2025-11-02T04:31:59",
+      "content": "   Nach dem Lawinenabgang in Südtirol soll die Suche nach zwei vermissten deutschen Bergsteigern wieder aufgenommen werden. Die Bergwacht geht aber davon aus, dass sie \"mit Sicherheit tot\" sind. Drei Leichen wurden bereits geborgen.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Prestigious Ballarat Grammar banned from accepting new boarders amid child safety reports",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/02/ballarat-grammar-ban-new-boarders-child-safety-reports",
+      "published": "2025-11-02T03:52:24",
+      "content": "School board apologises after regulator imposes six interim conditions while it conducts a review Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBallarat Grammar has apologised after the Victorian Registration and Qualifications Authority banned the prestigious school from accepting new boarding students until it proves it can comply with child safety standards.On Friday evening the VRQA chief executive, Stefanie Veal, announced the regulator had imposed six interim conditions on the regional school’s boarding premises registration while it continued a review. Continue reading...",
+      "content_length": 652,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "England: Mehrere Menschen in Zug Richtung London niedergestochen",
+      "link": "https://www.tagesschau.de/ausland/europa/england-zug-verletzte-100.html",
+      "published": "2025-11-02T01:23:33",
+      "content": "   Bei einem Angriff in einem Zug mit Ziel London sind mehrere Menschen lebensbedrohlich verletzt worden. Die Polizei nahm zwei Personen fest. Der britische Premier Starmer sprach von einem \"zutiefst beunruhigenden Vorfall\".[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UK police arrest two suspects in mass train stabbing that leaves 10 wounded",
+      "link": "https://www.france24.com/en/live-news/20251102-uk-police-arrest-two-after-multiple-people-stabbed-on-train",
+      "published": "2025-11-02T01:09:12",
+      "content": "UK police said ten people were taken to hospital -- nine with life-threatening injuries --  following a multiple stabbing on a London-bound train in the eastern town of Huntingdon, Cambridgeshire. The motives and identity of the two people arrested for the attack were not immediately known.",
+      "content_length": 291,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Vorwurf der Gewalt gegen Christen: Trump droht Nigeria mit Militäreinsatz",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nigeria-drohung-100.html",
+      "published": "2025-11-02T00:17:33",
+      "content": "   US-Präsident Trump hat Nigerias Regierung mit Militärschlägen gedroht. Als Grund führte er an, dass islamistische Terroristen dort Christen töteten. Nigerias Präsident Tinubu hatte schon zuvor Vorwürfe der religiösen Intoleranz zurückgewiesen.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "As Barack Obama stumps for other Democrats, the party gets to see what it lost",
+      "link": "https://www.theguardian.com/us-news/2025/nov/01/barack-obama-democratic-party",
+      "published": "2025-11-02T00:07:19",
+      "content": "The wit and wisdom of the superstar ex-US president make him the best candidate – too bad he can’t run“It’s not as if we didn’t see some of this coming,” said Barack Obama, a note of bleak humour in his voice. “I will admit it’s worse than even I expected, but I did warn y’all!”The crowd at a sports arena in Norfolk, Virginia, half-laughed and half-groaned. “I did,” Obama added. “You can run the tape.” Continue reading...",
+      "content_length": 425,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Obama criticizes Trump and Republican policy in stump speech for Abigail Spanberger",
+      "link": "https://www.theguardian.com/us-news/2025/nov/01/obama-virginia-abigail-spanberger",
+      "published": "2025-11-01T22:14:55",
+      "content": "Former US president headlines event for Democratic candidate for Virginia governor, who leads in pollsBarack Obama headlined a rally Saturday in Virginia to try to secure a victory for the state’s Democratic gubernatorial candidate, who leads in polls days before the election.Obama moved between criticizing Donald Trump and Republican policy and rhetoric – with a bit of humor – while also explaining how Abigail Spanberger could help counter what Democrats see as the country’s downward trajectory. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump threatens to go into Nigeria ‘guns-a-blazing’ over attacks on Christians",
+      "link": "https://www.theguardian.com/us-news/2025/nov/01/trump-nigeria-christian-persecution",
+      "published": "2025-11-01T21:48:38",
+      "content": "US president says he ordered Pentagon to begin planning for action, without mentioning Muslim persecutionDonald Trump on Saturday said he had ordered the Pentagon to begin planning for potential military action in Nigeria as he stepped up his criticism that the government was failing to rein in the persecution of Christians in the west African country.“If the Nigerian Government continues to allow the killing of Christians, the USA will immediately stop all aid and assistance to Nigeria, and may very well go into that now disgraced country, ‘guns-a-blazing,’ to completely wipe out the Islamic Terrorists who are committing these horrible atrocities,” Trump posted on social media. “I am hereby instructing our Department of War to prepare for possible action. If we attack, it will be fast, vicious, and sweet, just like the terrorist thugs attack our CHERISHED Christians!” Continue reading...",
+      "content_length": 901,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Aid workers struggle to reach communities cut off by Hurricane Melissa",
+      "link": "https://www.france24.com/en/americas/20251101-aid-workers-struggle-to-reach-communities-cut-off-by-hurricane-melissa",
+      "published": "2025-11-01T21:47:53",
+      "content": "Rescuers and aid workers across Jamaica on Saturday are struggling to reach communities still isolated four days after Hurricane Melissa hit the island. Melissa has left devastation in its wake, snapping power lines and toppling buildings, disrupting food and water distribution and destroying crop fields.",
+      "content_length": 306,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nine people suffering life-threatening injuries after train stabbing in Cambridgeshire, police say",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/01/two-arrested-after-multiple-people-stabbed-on-train-in-cambridgeshire",
+      "published": "2025-11-01T21:30:46",
+      "content": "Police have arrested two people and counter-terrorism police are also involved in an investigation into the mass stabbing on a train from Doncaster to London’s Kings Cross on SaturdayPolice declare ‘major incident’ – follow the latest updatesExplained: what we know so farNine people were being treated for life-threatening injuries after a series of stabbings on a train near Cambridge in eastern England on Saturday, and two men were arrested in what prime minister Keir Starmer called an “appalling incident”.British Transport Police said counterterrorism police were supporting its investigation while it works to establish the full circumstances and motivation for the incident. Continue reading...",
+      "content_length": 703,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine sends special forces to Pokrovsk as Moscow tightens grip",
+      "link": "https://www.france24.com/en/europe/20251101-ukraine-sends-special-forces-to-pokrovsk-as-moscow-tightens-grip",
+      "published": "2025-11-01T21:22:55",
+      "content": "Ukraine on Saturday deployed special forces to the eastern city of Pokrovsk, which is under an intense Russian assault. The city has been in Moscow's sights for over a year and lies on a major supply route for the Ukrainian army. Russia's army fired 270 missiles over October, up 46 percent on the previous month, according to an AFP analysis.",
+      "content_length": 343,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine says army holding out in Pokrovsk amid intensifying Russian offensive",
+      "link": "https://www.france24.com/en/video/20251101-ukraine-says-army-holding-out-in-pokrovsk-amid-intensifying-russian-offensive",
+      "published": "2025-11-01T21:21:13",
+      "content": "Ukraine's top military commander said on Saturday his troops were still holding out in the embattled eastern city of Pokrovsk, which Moscow said its forces were at last enclosing in a pincer movement after more than a year of fighting. Russia has been trying to capture Pokrovsk, dubbed \"the gateway to Donetsk\", since mid-2024 in its campaign to control the entirety of Donetsk, a Ukrainian province it claims to have annexed.",
+      "content_length": 427,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "'Seas of people': Huge crowds rally in Novi Sad to mark train station disaster anniversary",
+      "link": "https://www.france24.com/en/video/20251101-seas-of-people-huge-crowds-rally-in-novi-sad-to-mark-train-station-disaster-anniversary",
+      "published": "2025-11-01T21:19:24",
+      "content": "\"Seas of people\" gathered in Serbia's Novi Sad to commemorate the deadly train station incident that killed 16 people last November, FRANCE 24's Laurent Rouy said, adding that the demonstrators are urging President Vucic's government to call snap elections.",
+      "content_length": 257,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Deutsche Bergsteiger bei Lawinenabgang getötet",
+      "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-verunglueckt-100.html",
+      "published": "2025-11-01T21:09:27",
+      "content": "   Beim Abgang einer Lawine im Ortlergebirge in Südtirol sind mehrere deutsche Bergsteiger ums Leben gekommen. Drei Leichen wurden bereits geborgen. Zwei weitere Bergsteiger sind nach Angaben der Bergwacht ebenfalls \"mit Sicherheit\" tot.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tanzania's President Hassan wins contested election after crackdown on opposition",
+      "link": "https://www.france24.com/en/video/20251101-tanzania-s-president-hassan-wins-contested-election-after-crackdown-on-opposition",
+      "published": "2025-11-01T21:00:06",
+      "content": "Tanzania's President Samia Suluhu Hassan won the country’s disputed election with more than 97% of the vote, according to official results announced Saturday. Her two main opponents had both been prevented from running, leaving her virtually unopposed.",
+      "content_length": 252,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "White House says it will not send any high-level officials to COP30",
+      "link": "https://www.france24.com/en/americas/20251101-white-house-will-not-send-any-high-level-us-officials-to-cop30",
+      "published": "2025-11-01T20:36:02",
+      "content": "A White House official on Saturday said that the United States will not send any top officials to the COP30 climate talks in Brazil later this month, as President Donald Trump instead works to boost fossil fuels. Brazil said Friday that fewer than 60 world leaders have confirmed they will attend the climate summit.",
+      "content_length": 316,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Replay: The Grand Egyptian Museum's opening ceremony",
+      "link": "https://www.france24.com/en/video/20251101-replay-the-grand-egyptian-museum-s-opening-ceremony",
+      "published": "2025-11-01T20:19:10",
+      "content": "Please watch the Grand Egyptian Museum's opening ceremony in Cairo.",
+      "content_length": 67,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Grand Egyptian Museum opens in lavish, pharaonic ceremony",
+      "link": "https://www.france24.com/en/video/20251101-the-grand-egyptian-museum-opens-in-lavish-pharaonic-ceremony",
+      "published": "2025-11-01T20:10:08",
+      "content": "Egypt at last opened the $1 billion Grand Egyptian Museum on Saturday as performers dressed in white tunics embroidered with designs inspired by ancient frescoes, greeted guests.  Dozens of performers dressed in elaborate Pharaonic costumes, their foreheads crowned with golden wreaths and sceptres in hand, played traditional tunes as a laser show depicting pharaohs and fireworks lit up the night sky above the museum.",
+      "content_length": 420,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "World’s fascination with ancient Egypt a 'heritage', Egyptologist says",
+      "link": "https://www.france24.com/en/video/20251101-world-s-fascination-with-ancient-egypt-a-heritage-egyptologist-says",
+      "published": "2025-11-01T19:51:55",
+      "content": "The world’s fascination with ancient Egypt is a cultural \"heritage\" passed down from the Greeks and Romans, said Vincent Rondot, Egyptologist and former director of the Egyptian Department at the Louvre Museum. Rondot noted that many aspects of Cairo’s Grand Egyptian Museum reflect that enduring allure. Speaking about visitors to the Louvre’s Egyptian collection, he said they don’t just come to view the artefacts but “have an appointment — they come for a meeting”.",
+      "content_length": 469,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Veteran actor Tchéky Karyo, star of Nikita and The Missing, dies aged 72",
+      "link": "https://www.theguardian.com/film/2025/nov/01/veteran-actor-tcheky-karyo-star-of-nikita-and-the-missing-dies-aged-72",
+      "published": "2025-11-01T19:47:41",
+      "content": "French-Turkish actor appeared in a string of high-profile films, as well as hit BBC series The MissingTchéky Karyo, who appeared in some of director Luc Besson’s biggest hits and a string of international films, died on Friday at the age of 72, his family have announced.A statement from his wife and children sent to AFP said he had “succumbed to cancer”. Continue reading...",
+      "content_length": 376,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Key objects missing from the Grand Egyptian Museum's collection",
+      "link": "https://www.france24.com/en/video/20251101-key-objects-missing-from-the-grand-egyptian-museum-s-collection",
+      "published": "2025-11-01T19:39:22",
+      "content": "As Cairo inaugurates the Grand Egyptian Museum Saturday, FRANCE 24's Culture Editor Eve Jackson discusses several key objects missing from the new museum which include the Rosetta Stone in the British Museum, the Dendera Zodiac in the Louvre and the bust of Nefertiti in Berlin.",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Big belly, wavy fur and a nose for trouble: we exclusively reveal the new-look Paddington",
+      "link": "https://www.theguardian.com/stage/2025/nov/01/new-look-paddington-the-musical",
+      "published": "2025-11-01T19:30:42",
+      "content": "It’s been the biggest secret in theatre: what will the marmalade-loving, hyper-polite Peruvian look like in Paddington the Musical? As the curtain rises, we speak to the new bear’s creator, a veteran of Star Wars and PG Tips adsPaddington stands within touching distance. His fur flutters as he turns, his neat button nose sniffs the air, and his eyes soften with a smile. For years, design details of the bear for Paddington the Musical, directed by Luke Sheppard, have been kept top secret. Now here he is, in his blue duffel coat and red hat. A quiet theatrical marvel. “What we’re doing,” says producer Sonia Friedman, “has never been done before.”Standing around 1.2 metres (just under 4ft) tall, the bear is beautifully round, all belly and sloping shoulders. He is not an exact replica of the Paddingtons we’ve seen in illustrations or movies, but something new. His shaggy, caramel fur has a gentle wave, and his white snout is dotted with a brown nose, ideal for sniffing out trouble. Around his neck sits a label, threaded through an old piece of string, asking for someone to look after him. Continue reading...",
+      "content_length": 1122,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie Putins Kinderschutzbeauftragte ihren ukrainischen Adoptivsohn umerzog",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-entfuehrtekinder-100.html",
+      "published": "2025-11-01T19:24:47",
+      "content": "   Die russische Kinderschutzbeauftragte präsentiert sich als Retterin ukrainischer Kinder. Sie hat selbst einen Jungen aus Mariupol adoptiert - und einen \"Patrioten\" geformt. Stefanie Markert stellt die umstrittene 41-Jährige vor.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Two more suspects charged over Louvre heist taking total to four",
+      "link": "https://www.theguardian.com/world/2025/nov/01/two-more-suspects-charged-over-louvre-heist-taking-total-to-four",
+      "published": "2025-11-01T19:18:59",
+      "content": "Woman, 38, and man, 37, had been arrested on Wednesday in relation to theft of £76m worth of jewellery in Paris Two more suspects, a man and a woman arrested this week over the jewel heist at the Louvre, have been charged and remanded in custody, prosecutors have said.The charges on Saturday brought to four the number of people now charged over the spectacular robbery. Continue reading...",
+      "content_length": 391,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russel Vought - der Mann in Trumps Schatten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-vought-100.html",
+      "published": "2025-11-01T19:07:22",
+      "content": "   Vieles von dem, was Trump verfügt, ist von Russel Vought vorgedacht worden - und wird von ihm vorangetrieben. Im Weißen Haus kontrolliert er die Finanzen und folgt dabei dem Project 2025. Kein Wunder: Er hat es mitverfasst. Von N. Barth.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Grand Egyptian Museum to display tomb paintings bringing ancient Egypt to life",
+      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-to-display-tomb-paintings-bringing-ancient-egypt-to-life",
+      "published": "2025-11-01T19:06:53",
+      "content": "The Grand Egyptian Museum, which held its opening ceremony on Saturday, will showcase tomb paintings and other artefacts offering insight into ancient Egyptian life, said Salima Ikram, Distinguished Professor of Egyptology at the American University in Cairo. The paintings depict ordinary people engaged in everyday activities — “they’re fishing, they’re fowling, they’re cooking,” Ikram said.",
+      "content_length": 394,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Replay: Watch Egyptian President Abdel Fattah al-Sisi's address",
+      "link": "https://www.france24.com/en/video/20251101-replay-watch-egyptian-president-abdel-fattah-al-sisi-s-address",
+      "published": "2025-11-01T18:48:00",
+      "content": "Please watch Egyptian President Abdel Fattah al-Sisi's address at the Grand Egyptian Museum's opening ceremony.",
+      "content_length": 111,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Grand Egyptian Museum opening ceremony music show",
+      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-opening-ceremony-music-show",
+      "published": "2025-11-01T18:45:35",
+      "content": "Please watch the Grand Egyptian Museum opening ceremony's music show",
+      "content_length": 68,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Survivors of Sudan's El-Fasher say RSF is separating families and killing children",
+      "link": "https://www.france24.com/en/africa/20251101-survivors-of-sudan-s-el-fasher-say-rsf-is-separating-families-and-killing-children",
+      "published": "2025-11-01T18:44:43",
+      "content": "Tens of thousands of people are still trapped in Sudan's El-Fasher five days after the paramilitary Rapid Support Forces (RSF) seized the city. Fleeing survivors said on Saturday that paramilitary fighters separated families and killed children in front of their parents, and fresh satellite images suggested mass killings were likely ongoing.",
+      "content_length": 343,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Schriftstellerin Ursula Krechel mit Georg-Büchner-Preis geehrt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/ursula-krechel-mit-georg-buechner-preis-geehrt-100.html",
+      "published": "2025-11-01T17:56:44",
+      "content": "   Die Schriftstellerin Ursula Krechel ist mit dem Georg-Büchner-Preis ausgezeichnet worden - eine der wichtigsten literarischen Auszeichnungen im deutschsprachigen Raum. Auch ein Historiker und eine Übersetzerin wurden geehrt.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Egyptologists seeking to ‘give the credit where the credit is due’",
+      "link": "https://www.france24.com/en/video/20251101-egyptologists-seeking-to-give-the-credit-where-the-credit-is-due",
+      "published": "2025-11-01T17:50:59",
+      "content": "Egyptologists are aiming to “give credit where credit is due”, recognising not only Western archaeologists but also the Egyptians who carried out much of the “heavy lifting,” said Peter Der Manuelian, Barbara Bell Professor of Egyptology at Harvard University. Egyptian foremen assisted on expeditions and kept diaries in Arabic, and Der Manuelian said the goal is to give them “the recognition they deserve”.",
+      "content_length": 409,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Grand Egyptian Museum a 'symbol' to be shared with world",
+      "link": "https://www.france24.com/en/video/20251101-grand-egyptian-museum-a-symbol-to-be-shared-with-world",
+      "published": "2025-11-01T17:45:26",
+      "content": "Egypt was inaugurating the long-delayed Grand Egyptian Museum (GEM) on Saturday, the world’s largest museum dedicated to its ancient civilization. World leaders, including monarchs, heads of states and governments, were to attend the grand opening ceremony in Cairo. \"This (GEM) is a symbol of Egypt, but it's a symbol that Egypt wants to share\", FRANCE 24's Nurla Teson said, reporting from Cairo.",
+      "content_length": 398,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man killed in South Yorkshire helicopter crash named as Peter Smith",
+      "link": "https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith",
+      "published": "2025-11-01T17:38:50",
+      "content": "Peter Smith had a ‘passion for aviation’, according to his family.",
+      "content_length": 66,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Unübersichtliche Lage in Pokrowsk",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-pokrowsk-120.html",
+      "published": "2025-11-01T17:33:03",
+      "content": "   Die Stadt Pokrowsk im Donbass ist hart umkämpft. Der ukrainische Armeechef Syrsky setzt auf zusätzliche Spezialkräfte, um die Angreifer zu \"verjagen\". Nach russischer Darstellung wurde ein ukrainisches Spezialkommando vernichtet.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week",
+      "link": "https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale",
+      "published": "2025-11-01T17:09:31",
+      "content": "\n\n\n\t\n\tGoogle’s last-gen Pixel Watch 3 is on sale for $199.99 ($100 off) for a limited time.\t\n\nThere are plenty of good smartwatches out there, and Google’s last-gen Pixel Watch 3 is one of them. Right now, the 45mm / Wi-Fi model is available at Amazon, Walmart, and Target for $199.99 ($100 off), which is a new low price and $150 less than the Pixel Watch 4. In her review, our own Victoria Song noted how impressed she was by the larger size’s lengthy battery life, as well as how versatile a companion it was to Android phones, particularly Pixel devices. For example, you can use the watch as a remote for your Google TV, download offline Google Maps navigation routes, and create voice recordings that automatically sync and are transcribed on a Pixel phone.&nbsp;\nGoogle Pixel Watch 3 (Wi-Fi)\n\nWhere to Buy: $299.99 $199.99 at Amazon (45mm) $299.99 $199.99 at Walmart (45mm) $299.99 $199.99 at Target (45mm)\nThe Pixel Watch 3 recently received an overhaul, too, as Google rolled out an update to Wear OS 6, which introduced a refreshed design and Gemini AI to the watch (our initial tests show that it still has a long way to go before becoming vital). On the fitness and wellness side, the Pixel Watch 3 can track your activity, sleep, blood oxygen level, and heart rate. You can also use it to take an EKG from your wrist, if you feel the need.&nbsp;\nAnker 140W 2-in-1 USB-C to USB-C Cable\n\nWhere to Buy: $22.99 $16.99 at Amazon (black; with Prime) $22.99 $16.99 at Amazon (white; with Prime) $22.99 $16.99 at Anker (with code WSPDV22SVFBJ)\nIf you need to charge more than one device at a time, Anker’s 2-in-1 USB-C cable will let you do that. It’s a practical, inexpensive gadget we think you’ll enjoy, and it’s nearly matching its best-ever price at $16.99 ($9 off) at Amazon (with Prime) and Anker’s online storefront (with code WSPDV22SVFBJ). One end of the cable plugs into the power adapter, while the other splits into two USB-C cables that can be plugged into different devices.&nbsp;\n\nYou can use any USB-C power adapter with this cable, but you’ll take full advantage of its peak power throughput with a 140W adapter — such as Apple’s 140W USB-C Power Adapter, which is also on sale for $74.99 ($25 off) at Amazon. The cable will automatically allocate how much power to send to both devices, but if you plug in two laptops, the first one that’s plugged in gets priority.&nbsp;\nXbox Wireless Controller\n\nWhere to Buy: $64.99 $39.99 at Amazon $64.99 $39.99 at Target $64.99 $39.99 at Best Buy\nMicrosoft’s official Xbox Wireless Controller has held the top spot in our guide to the best Xbox controllers for years, and now the black and white versions are selling for a new low of $39.99 ($25 off) at Amazon, Best Buy, and Target. The wireless gamepad is comfortable to hold, and its buttons, triggers, joysticks, and D-pad feel satisfying to use. I’ve used the one that came with my Xbox Series X for nearly five years, and it still feels new, with no dropped inputs or other signs of wear.\n\nIt runs on a pair of AA batteries, which you can easily swap out. You can also purchase a rechargeable battery pack for the controller if you prefer, but be mindful that it’ll lose its charging capacity over time. Xbox’s wireless controller costs as much on sale as many of our wired recommendations, and its wire-free design means you won’t feel tied down when you use it.\n\nA few more deal standouts\n\n\nSteelSeries’ Arctis Pro Wireless is probably the only headset under $200 right now that offers swappable batteries, and right now it’s down to $149.99 ($130 off) at Best Buy. It comes with a pair of batteries, so you can always keep one freshly charged to pop in when needed. Another unique feature at this price point is its wireless base station, which lets you connect and manage audio from two different inputs. Additionally, it lets you control the headset’s EQ, as well as the audio mix of your game and chat. Verge senior editor Sean Hollister uses SteelSeries&#8217; headset every day, and has for years.&nbsp;\n\n\n\nIf you’ve been curious about trying a foldable phone, let us direct you toward the Motorola Razr (2024), which is down to just $349.99 ($350 off) at Best Buy as part of the retailer’s latest Black Friday promo. The phone features a 120Hz 6.9-inch 2640 x 1080 OLED display when unfolded, along with a 90Hz 3.6-inch OLED display on the outside. It comes with 256GB of storage, 8GB of RAM, and a dual rear-camera system comprising a 50-megapixel main lens and a 13-megapixel ultrawide. The phone comes unlocked, but you can snag it for just $249.99 if you activate it on AT&amp;T or Verizon through Best Buy.\n\n\n\nThe Logitech Lift may look unusual at first, but not only is it comfortable to use, it’s available for an all-time low of $49.99 ($30 off) at&nbsp;Amazon in white or black. The ergonomic mouse is designed for individuals who experience discomfort with standard mice; its vertically oriented design places your hand in a more handshake-like position, which should alleviate some wrist pain. It also features multiple programmable buttons, including a pair located near the elevated thumb rest&nbsp;and a clickable scroll wheel, which can be customized via the Logi Options Plus app. A circular DPI-switching button on the top, meanwhile, lets you quickly adjust the pointer speed.&nbsp;\n",
+      "content_length": 5329,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA schicken keine ranghohen Vertreter zur UN-Klimakonferenz",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-klimakonferenz-100.html",
+      "published": "2025-11-01T17:07:18",
+      "content": "   US-Präsident Trump betont immer wieder, dass er den Klimawandel für \"Schwindel\" hält. Seine Haltung erkennt man auch im Umgang mit der UN-Klimakonferenz in Brasilien. Die USA entsenden keine hochrangige Delegation.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "🔴 Watch live: Egypt unveils billion-dollar museum displaying full Tutankhamun collection",
+      "link": "https://www.france24.com/en/culture/20251101-watch-live-egypt-unveils-grand-egyptian-museum-dedicated-to-its-ancient-civilization",
+      "published": "2025-11-01T17:04:30",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding",
+      "link": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding",
+      "published": "2025-11-01T16:43:17",
+      "content": "\n\n\n\t\n\t\t\n\nAyaneo is best known for its retro gaming handhelds, but the company has now confirmed its first phone will be coming soon. Ayaneo briefly teased that it was working on a phone back in August during the event where it unveiled the dual-screen Pocket DS. Of course, many of the company’s gaming handhelds run a custom take on Android, so putting a cellular modem in one isn’t much of a stretch.\n\nWe don’t know much about the handheld. The video offers a quick glimpse at a pretty standard-looking rectangle. There are dual cameras in the top-left corner, and you can make out what appear to be shoulder buttons. Android Central has suggested that the Ayaneo phone could have a sliding design similar to the Sony Xperia Play, where the controls are hidden beneath the screen, but it’s impossible to tell from the video. \n\nAyaneo wouldn’t be the only company on the market with a gaming-focused phone, but modern versions typically eschew physical controls. They tend to be phones first and foremost, but with high-end chips and cooling to help them handle demanding games. Physical controls are usually reserved for accessories, but maybe the Ayaneo phone will buck that trend. Of course, we don’t even know if the Ayaneo phone will be coming to the US or not, so don’t get too excited just yet.\n",
+      "content_length": 1303,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The Grand Egyptian Museum Finally Inaugurated in Cairo tonight",
+      "link": "https://www.france24.com/en/video/20251101-the-grand-egyptian-museum-finally-inaugurated-in-cairo-tonight",
+      "published": "2025-11-01T16:39:31",
+      "content": "Cairo's Grand Egyptian Museum (GEM) will officially be inaugurated this Saturday, November 1 in  what is a historic moment for the country. A grand inauguration ceremony will be held this Saturday from 6pm, with around 80 official international delegations expected to attend. French President Emmanuel Macron will be among the guests.",
+      "content_length": 335,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/",
+      "published": "2025-11-01T16:38:09",
+      "content": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across each month. In the past, we’ve featured year-end roundups of cool science stories we (almost) missed. This year, we’re experimenting with a monthly collection. October’s list includes the microstructural differences between regular and gluten-free spaghetti, capturing striking snakes in action, the mystery behind the formation of Martian gullies, and—for all you word game enthusiasts—an intriguing computational proof of the highest possible scoring Boggle board.\nHighest-scoring Boggle board\n\n        Credit:\n          Dan Vanderkam\n      \nSometimes we get handy story tips from readers about quirkily interesting research projects. Sometimes those projects involve classic games like Boggle, in which players find as many words as they can from a 4×4 grid of 16 lettered cubic dice, within a given time limit. Software engineer Dan Vanderkam alerted us to a a preprint he posted to the physics arXiv, detailing his quest to find the Boggle board configuration that yields the highest possible score. It’s pictured above, with a total score of 3,625 points, according to Vanderkam’s first-ever computational proof. There are more than 1000 possible words, with “replastering” being the longest.Read full article\nComments",
+      "content_length": 1346,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mexicans honour Santa Muerte on Day of the Dead",
+      "link": "https://www.france24.com/en/video/20251101-mexicans-honour-santa-muerte-on-day-of-the-dead",
+      "published": "2025-11-01T16:35:13",
+      "content": "As Mexico marks Día de los Muertos, families adorn altars with marigolds, candles and colourful sugar skulls – calaveritas – to celebrate departed loved ones. Across the country, people honour the deceased as well as Santa Meurte, a folk saint who represents healing, protection and safe passage to the afterlife by devotees.",
+      "content_length": 325,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Paris Catacombs to close for renovations",
+      "link": "https://www.france24.com/en/video/20251101-paris-catacombs-to-close-for-renovations",
+      "published": "2025-11-01T15:37:35",
+      "content": "One of Paris's top tourist attractions – and certainly its most morbid – closes to visitors from Monday for six months of renovations. The Paris Catacombs, underground galleries that are the final resting place for millions of bodies disinterred from the capital's cemeteries between the Middle Ages and the French Revolution, are to become modernised, with better ventilation, lighting and an improved layout.",
+      "content_length": 410,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Serbia protests: ‘The people are angry, the people want justice’, expert says",
+      "link": "https://www.france24.com/en/video/20251101-serbia-protests-the-people-are-angry-the-people-want-justice-expert-says",
+      "published": "2025-11-01T15:35:38",
+      "content": "Tens of thousands of protesters poured into Serbia's second city on Saturday a year after a railway station roof collapse that killed 16 people, unleashing discontent over alleged corruption and a lack of accountability many blame for the disaster. FRANCE 24 speaks to Helena Ivanov, associate research fellow at the Henry Jackson Society, to shed more light on the situation.",
+      "content_length": 376,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "How al-Qaida-linked jihadist group JNIM is bringing Mali to its knees",
+      "link": "https://www.theguardian.com/world/2025/nov/01/how-al-qaida-linked-jihadist-group-jnim-is-bringing-mali-to-its-knees",
+      "published": "2025-11-01T14:00:35",
+      "content": "Political instability and fuel shortages caused by rebel group is driving Mali to brink of becoming Islamist republicArmed groups of JNIM fighters have blocked key routes used by fuel tankers, disrupting supply lines to the capital Bamako and other regions across Mali.The al-Qaida-linked jihadist group Jama’at Nusrat ul-Islam wa al-Muslimin (JNIM) is gradually converging on Mali’s capital, Bamako, with increasing attacks in recent weeks, including on army-backed convoys. Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday",
+      "link": "https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale",
+      "published": "2025-11-01T14:00:00",
+      "content": "\n\n\n\t\n\tBest Buy’s latest doorbuster deal nets you a cool $770 off the regular price. | Image: The Verge\t\n\nBest Buy’s early Black Friday deals are already live, with discounts to be had on everything from smartphones and gaming PCs to wireless headphones. If you’re in the market for a new 4K TV, Best Buy is also offering an exclusive doorbuster deal on LG’s 48-inch B5 OLED, bringing the price of the 4K TV down to just $529.99 ($770 off) for a limited time. You can also grab the 55-inch model from Amazon, Best Buy, and LG for around $896 ($604 off), an all-time low.\nLG B5 OLED TV\n\nWhere to Buy: $1299.99 $529.99 at Best Buy (48-inch) $1499.99 $896.99 at Amazon (55-inch) $1499.99 $899.99 at Best Buy (55-inch)\nLG’s entry-level B Series offers one of the most affordable ways to jump into the world of OLED technology. Although the B5 can’t match the brightness of comparably priced LED TVs, it delivers far better black level performance and contrast, as well as excellent viewing angles. As far as we can tell, the B5 closely matches the display performance of LG’s flagship C3 from a few years ago.\n\nIn addition to 4K resolution, the B5 features four HDMI 2.1 ports — all of which support up to 4K at 120Hz with variable refresh rate for gaming — along with support for premium formats such as Dolby Vision and HDR10. It supports Filmmaker Mode, too, which aims to present movies as directors intended by disabling certain settings, such as motion smoothing and image sharpening. The B5 also runs on LG’s speedy Alpha 8 AI Processor Gen 2, so swiping through LG’s webOS interface isn’t a slog. Meanwhile, support for Apple AirPlay 2 and Google Cast makes it easy to stream content from a compatible device, including your phone or tablet.\n\nAs great as the B5 is, the set offers middling peak brightness and struggles with handling reflections, according to the folks over at RTings. That said, it’s a great option for gaming, and if you can place it in a room without a lot of ambient light, it&#8217;s a nice upgrade for movie night. My 10-year-old Phillips TV broke at the beginning of summer, and I think I finally found a suitable replacement.",
+      "content_length": 2153,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ein Jahr nach Einsturz von Bahnhofsdach: Zehntausende gedenken der Opfer von Novi Sad",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-gedenken-novisad-100.html",
+      "published": "2025-11-01T13:59:06",
+      "content": "   Ein eingestürztes Vordach begrub vor einem Jahr Menschen am Bahnhof von Novi Sad in Serbien unter sich. Als Ursache gelten Korruption und Schlamperei. Die  ausgelöste Protestwelle setzt den autoritären Präsidenten Vucic unter Druck.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Huge crowds gather on first anniversary of Serbian train station disaster",
+      "link": "https://www.theguardian.com/world/2025/nov/01/huge-crowds-gather-to-commemorate-victims-of-serbian-train-station-disaster",
+      "published": "2025-11-01T13:58:44",
+      "content": "Student-led movement continues to demand political change as embattled president issues rare apologyTens of thousands of Serbians have gathered to commemorate victims of a fatal railway station collapse a year ago, a tragedy that galvanised anti-government sentiment that still threatens the embattled president, Aleksandar Vučić.A student-led movement organised the rallies in the country’s second largest city, Novi Sad, where on 1 November 2024, the canopy at the newly renovated railway station collapsed. Continue reading...",
+      "content_length": 529,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Finanzpolizei beschlagnahmt Campari-Aktien in Milliardenwert",
+      "link": "https://www.tagesschau.de/wirtschaft/campari-aktien-beschlagnahmung-100.html",
+      "published": "2025-11-01T13:26:05",
+      "content": "   Campari ist ins Visier von Italiens Finanzpolizei geraten: Der Konzern soll im großen Stil Steuern bei einer Fusion hinterzogen haben. Dafür beschlagnahmten Ermittler nun Stammaktien im Wert von fast 1,3 Milliarden Euro.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘We don’t feel safe’: after week of bombings, people in Gaza are losing faith in ceasefire",
+      "link": "https://www.theguardian.com/world/2025/nov/01/gaza-ceasefire-bombings-people-losing-faith",
+      "published": "2025-11-01T13:00:34",
+      "content": "After initial enthusiasm, people fear ceasefire does not mean end to war but just less frequent, more unpredictable violenceAmeen al-Zein, like many in Gaza, was overjoyed by the news of the ceasefire. It was a rare moment of relief after years of fear and loss. On Tuesday night he gave an interview to a local NGO urging people to return to their homes in northern Gaza now that fighting had stopped. Just half an hour later, Zein was dead, killed in an Israeli bombing on the school where he had been sheltering in Beit Lahia, northern Gaza.He died without being able to fulfil his vow to his wife that they would return to Beit Lahia and pitch a tent over the rubble, eager to be home even if their house was no longer there. Continue reading...",
+      "content_length": 749,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "You wish your phone had the Oppo Find X9 Pro&#8217;s battery life",
+      "link": "https://www.theverge.com/tech/808067/oppo-find-x9-pro-review",
+      "published": "2025-11-01T13:00:00",
+      "content": "\n\n\n\t\n\tThe Find X9 Pro features a large battery, but it’s still a pretty slender device.\t\n\nWhenever I review a phone, one of the first things I do after setting it up is charge it to full and then just… let it run, using it as my only phone for as long as I can, resisting every urge to charge it along the way.  \nThe Oppo Find X9 Pro lasted for three full days. 74 and a half hours, to be a little more exact. I couldn't quite believe it either, so I ran it again. This time I turned on the power-hungry always-on display, and the phone ran for 50-odd hours before the battery hit low single digits. \nThis is the best battery life of any phone I've tested in years, and by far the best of any flagship. The only real problem for Oppo is  …\nRead the full story at The Verge.",
+      "content_length": 773,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The Playdate is a great indie puzzle machine",
+      "link": "https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it",
+      "published": "2025-11-01T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nWe're living in a wonderful period for puzzle games. Seemingly everyone, from The New York Times to Linkedin, has fun puzzles to play, so every morning I have plenty of options to accompany my first coffee of the day. Lately, though, much of my daily puzzle time has come from an unlikely source: the Playdate.\nPanic's little yellow handheld is best known for being home to oddball indie games you can't find anywhere else, many of which utilize a crank to play. But it has also amassed a library of excellent puzzle games that are playable in quick bursts. It makes it easy to stick a Playdate in your pocket and grab it when you need to kill a fe …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ein Jahr Selbstbestimmungsgesetz: Zwischen Befreiung und Ablehnung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/selbstbestimmungsgesetz-bilanz-100.html",
+      "published": "2025-11-01T12:10:28",
+      "content": "   Betroffene sehen im neuen Selbstbestimmungsgesetz eine große Erleichterung. Doch die Kritik daran reißt nicht ab. Die Bilanz nach einem Jahr ist durchwachsen. Von Tobias Faißt.[mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ägyptens neues Riesenmuseum: \"\"Gigantisch\", \"pompös\" - und milliardenteuer",
+      "link": "https://www.tagesschau.de/ausland/afrika/museum-kairo-100.html",
+      "published": "2025-11-01T11:53:16",
+      "content": "   Nach langer Verzögerung ist das Grand Egyptian Museum bei Kairo eröffnet worden. Der monumentale Bau mit mehr als 100.000 Exponaten ist auch ein Denkmal für die ägyptische Regierung. Von Anna Osius.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spain expresses regret over ‘injustice’ suffered by Mexico’s Indigenous people during conquest",
+      "link": "https://www.theguardian.com/world/2025/nov/01/spain-expresses-regret-over-injustice-suffered-by-mexicos-indigenous-people-during-conquest",
+      "published": "2025-11-01T11:31:02",
+      "content": "Acknowledgment shows shift in tone after six years of diplomatic spats over colonial-era abusesSpain has acknowledged and expressed regret over the “pain and injustice” suffered by the Indigenous people of Mexico during its conquest of the Americas, heralding a shift in tone after six years of diplomatic spats over the abuses of the colonial period.In March 2019, Mexico’s then president, Andrés Manuel López Obrador wrote to King Felipe VI and Pope Francis, who was then the leader of the world’s Roman Catholics, urging them to apologise for the “massacres and oppression” of colonialism and the conquest. Continue reading...",
+      "content_length": 629,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Anti-Zoll-Werbespot: Carney entschuldigt sich bei Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-carney-zoelle-kanada-100.html",
+      "published": "2025-11-01T11:29:53",
+      "content": "   Kanadas Ministerpräsident Carney hat sich bei US-Präsident Trump für einen Werbespot gegen dessen Zollpolitik entschuldigt. Wegen des Clips der kanadischen Provinz Ontario hatte Trump die Handelsgespräche mit dem Land abgebrochen.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Inside the marketplace for vaccine medical exemptions",
+      "link": "https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/",
+      "published": "2025-11-01T11:15:57",
+      "content": "Maybe a client hears about them in the comment section of the Facebook group “Medical Exemption Accepted,” or on the r/unvaccinated forum on Reddit. Maybe it’s through an interview posted on the video-sharing platform Rumble. Or maybe it’s the targeted advertisements on Google: “We do medical exemptions.”\nCassandra Clerkin, a mother in upstate New York, first got in touch with Frontline Health Advocates near the start of the 2024–2025 school year, after hearing they had doctors who would write exemptions from school immunization requirements. One of Clerkin’s children, she said, had suffered seizures after receiving a vaccine. The family didn’t want more shots. But New York has some of the country’s strictest school immunization policies.\nPerhaps Frontline could help.Read full article\nComments",
+      "content_length": 804,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wohnen außerhalb von Metropolen: Wann lohnt sich das Pendeln?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pendeln-immobilienpreise-umland-metropolen-100.html",
+      "published": "2025-11-01T10:41:38",
+      "content": "   Die Immobilienpreise in den Großstädten sind enorm hoch. Wohnraum im Umland zu kaufen ist zwar günstiger, aber lohnt sich die Ersparnis? Schließlich kostet das Pendeln Zeit und Geld. Von Barbara Berner. [mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tickets im ÖPNV werden 2026 vielerorts teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/tickets-bahn-oepnv-nahverkehr-100.html",
+      "published": "2025-11-01T10:41:08",
+      "content": "   Bus- und Bahnfahren im ÖPNV werden im kommenden Jahr vielerorts teurer. Dann kostet nicht nur das Deutschlandticket mehr - auch für Einzel- und Mehrfahrtentickets müssen Fahrgäste mehr zahlen.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hamas übergibt wieder falsche Leichname an Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-geiseln-leichen-uebergabe-100.html",
+      "published": "2025-11-01T10:06:00",
+      "content": "   Die Terrororganisation Hamas hat immer noch nicht alle toten Geiseln übergeben. Laut forensischen Untersuchungen der Armee wurden nun erneut falsche Leichname übergeben. [mehr]",
+      "content_length": 179,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Jamaika kämpft mit den Folgen von Hurrikan \"Melissa\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/hurrikan-melissa-108.html",
+      "published": "2025-11-01T09:17:03",
+      "content": "   Viele Kliniken sind beschädigt, auch die Strom- und  Wasserversorgung ist betroffen: Nach dem Hurrikan \"Melissa\" arbeiten Ärzte in Jamaika unter schwierigsten Bedingungen. Immer mehr Feldlazarette werden aufgebaut. [mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "link": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10965399.html",
+      "published": "2025-11-01T08:48:00",
+      "content": "Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.",
+      "content_length": 145,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tansanias Präsidentin Hassan zur Wahlsiegerin erklärt",
+      "link": "https://www.tagesschau.de/ausland/afrika/tansania-wahlsieg-praesidentin-hassan-100.html",
+      "published": "2025-11-01T08:46:51",
+      "content": "   Die Wahlkommission hat Tansanias Präsidentin mit fast 98 Prozent der Stimmen zur Wahlsiegerin erklärt. Seit Tagen wird das Land von Protesten erschüttert - Kritiker werfen ihr massive Repressionen vor.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fachleute diskutieren Grippeimpfung für alle Kinder",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/grippe-kinder-impfung-100.html",
+      "published": "2025-11-01T07:19:14",
+      "content": "   Gesunde Kinder brauchen keine Grippe-Impfung - so die aktuelle Empfehlung der STIKO. Eine Expertenkommission fordert nun, alle Kinder zu impfen. Statt Spritzen könnte dabei ein Nasenspray zum Einsatz kommen. Von V. Simon und R. Kraft.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
