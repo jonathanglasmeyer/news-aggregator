@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-03T07:13:55.283837",
+    "deduplicated_at": "2025-11-03 07:13:55",
+    "lookback_days": 7,
+    "total_input": 1085,
+    "duplicates_removed": 992,
+    "new_articles": 93,
+    "deduplication_rate": "91.4%",
+    "historical_files_checked": 8
+  },
+  "articles": [
+    {
+      "title": "Hamas übergibt weitere Leichen israelischer Geiseln",
+      "link": "https://www.tagesschau.de/ausland/asien/hamas-leichen-geiseln-100.html",
+      "published": "2025-11-03T07:08:34",
+      "content": "   Die Terrororganisation Hamas hat dem Roten Kreuz erneut Leichen übergeben. Inzwischen bestätigte die israelische Armee, dass es sich um die sterblichen Überreste von in den Gazastreifen verschleppten Soldaten handelt.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australia news live: Optus customer who reported triple-zero outage told to go to store; Sydney man critical after dog attack",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
+      "published": "2025-11-03T07:04:46",
+      "content": "Follow today’s news livePush for Ley to dump net zero emissions pledge as some Liberals fear ‘tail is wagging the dog’Get our breaking news email, free app or daily news podcastMortgage arrears fall at Westpac after rate cutsMortgage holders are enjoying a reprieve from relentless cost of living pressures, as the number of home owners falling behind on their repayments falls.Notwithstanding the relief from interest rates, challenges remain, with inflation and unemployment increasing in recent months.Globally, uncertainty remains but this is an opportunity for Australia and we are in a good position to work through any impacts from events such as the ongoing geopolitical and trade tensions.I never started this process seeking to fail. I want to succeed, and that means we’ve all got to work together. And the way we have been constructively working together – obviously, there’s some noise here and noise there – but the way we have been working constructively together, I’m very confident that we’ll be able to reach a position which means we can all continue to work together in the best interests of the nation. Continue reading...",
+      "content_length": 1143,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bundesaußenminister - Parteiinterne Kritik an Wadephuls Äußerungen zu möglichen Abschiebungen nach Syrien hält an",
+      "link": "https://www.deutschlandfunk.de/parteiinterne-kritik-an-wadephuls-aeusserungen-zu-moeglichen-abschiebungen-nach-syrien-haelt-an-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Bundesaußenminister Wadephul steht nach seinen Äußerungen zur Rückkehr syrischer Flüchtlinge weiter in den eigenen Reihen in der Kritik. Unionsfraktionsvize Krings sagte der \"Bild\"-Zeitung, der syrische Bürgerkrieg sei vorbei. Für die allermeisten ausgereisten Syrer sei eine Rückkehr zumutbar. ",
+      "content_length": 295,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kommunale Finanzen - Niedersachsens Ministerpräsident Lies (SPD) sieht Bund in der Pflicht: \"Haushaltslage der Kommunen dramatisch verschlechtert\"",
+      "link": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-sieht-bund-in-der-pflicht-haushaltslage-der-kommunen-dram-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Im Streit um die Finanzierung der Aufgaben der Kommunen hat Niedersachsens Ministerpräsident Lies an die Verantwortung des Bundes appelliert. Bund und Länder hätten sich darauf verständigt, dass die Kommunen ihre Aufgaben erledigen können müssten, sagte Lies im Deutschlandfunk.",
+      "content_length": 278,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrdienst-Debatte - Generalinspekteur Breuer spricht sich gegen Losverfahren",
+      "link": "https://www.deutschlandfunk.de/generalinspekteur-breuer-spricht-sich-gegen-losverfahren-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "In der Wehrdienst-Debatte hat sich der Generalinspekteur der Bundeswehr, Breuer, gegen das Losverfahren ausgesprochen.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vietnam - Mindestens 37 Tote bei Überschwemmungen",
+      "link": "https://www.deutschlandfunk.de/mindestens-37-tote-bei-ueberschwemmungen-102.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "In Teilen Vietnams haben starke Regenfälle zu großflächigen Überschwemmungen geführt.",
+      "content_length": 85,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Naturkatastrophe - Mindestens 20 Tote bei neuem Erdbeben in Afghanistan",
+      "link": "https://www.deutschlandfunk.de/mindestens-20-tote-bei-neuem-erdbeben-in-afghanistan-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Im Norden Afghanistans hat es erneut ein Erdbeben gegeben.",
+      "content_length": 58,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Israels Ex-Militärstaatsanwältin nach freigegebenem Video mit Misshandlungen eines Palästinensers durch Soldaten festgenommen",
+      "link": "https://www.deutschlandfunk.de/israels-ex-militaerstaatsanwaeltin-nach-freigegebenem-video-mit-misshandlungen-eines-palaestinensers-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Die zurückgetretene oberste Staatsanwältin des israelischen Militärs, Tomer-Jeruschalmi, ist festgenommen worden. Hintergrund ist Berichten zufolge die Veröffentlichung von Videoaufnahmen, die die Misshandlung eines gefangenen palästinensischen Hamas-Mitglieds durch Soldaten belegen sollen.",
+      "content_length": 291,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Hamas übergibt erneut Leichen",
+      "link": "https://www.deutschlandfunk.de/hamas-uebergibt-erneut-leichen-106.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Israel hat die sterblichen Überreste von drei weiteren toten Hamas-Geiseln erhalten.",
+      "content_length": 84,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Istanbul - Außenminister muslimischer Staaten beraten über Friedensplan für Gazastreifen",
+      "link": "https://www.deutschlandfunk.de/aussenminister-muslimischer-staaten-beraten-ueber-friedensplan-fuer-gazastreifen-104.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "In Istanbul beraten die Außenminister mehrerer muslimischer Staaten heute über den Friedensplan der USA für den Gazastreifen.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Strafverfolgung - Aus für EU-Chatkontrolle gegen Kinderpornografie: Richter drängen auf Speicherpflicht für IP-Adressen auf nationaler Ebene",
+      "link": "https://www.deutschlandfunk.de/aus-fuer-eu-chatkontrolle-gegen-kinderpornografie-richter-draengen-auf-speicherpflicht-fuer-ip-adres-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Nach dem Scheitern einer EU-weiten Chatkontrolle gegen Kinderpornografie drängen Richter auf eine gesetzliche Pflicht zur befristeten Speicherung von IP-Adressen auf nationaler Ebene.",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Software - BSI verlangt zügigen Schutz von Wissenschaftlern und Computer-Hackern mit \"guten Absichten\"",
+      "link": "https://www.deutschlandfunk.de/bsi-verlangt-zuegigen-schutz-von-wissenschaftlern-und-computer-hackern-mit-guten-absichten-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Das Bundesamt für Sicherheit in der Informationstechnik drängt auf eine Gesetzesreform, die Wissenschaftler und Computerhacker mit \"guten Absichten\" vor Strafverfolgung schützen soll.",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Afrika-Reise - Bundespräsident Steinmeier reist nach Ghana",
+      "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-reist-nach-ghana-102.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Bundespräsident Steinmeier setzt seine Afrika-Reise heute in Ghana fort.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Klimaanpassung - Eine Million Bäume für Berlin - Abgeordnetenhaus will heute erstmals Gesetzentwurf einer Bürgerinitiative beschließen",
+      "link": "https://www.deutschlandfunk.de/eine-million-baeume-fuer-berlin-abgeordnetenhaus-will-heute-erstmals-gesetzentwurf-einer-buergerinit-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Berlin soll in den kommenden 15 Jahren Hunderttausende zusätzliche Bäume erhalten.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Justizministerkonferenz - Nach Fall der Kölner Joggerin Yanni Gentsch – Bund und Länder wollen Voyeur-Aufnahmen strafbar machen",
+      "link": "https://www.deutschlandfunk.de/nach-fall-der-koelner-joggerin-yanni-gentsch-bund-und-laender-wollen-voyeur-aufnahmen-strafbar-mache-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Bundesjustizministerin Hubig will nach eigenen Worten zügig einen praxistauglichen Gesetzentwurf vorlegen, um heimliche Bildaufnahmen aus sexueller Motivation heraus strafbar zu machen.",
+      "content_length": 185,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Atomwaffentests laut Energieminister Wright vorerst ohne nukleare Explosionen",
+      "link": "https://www.deutschlandfunk.de/atomwaffentests-laut-energieminister-wright-vorerst-ohne-nukleare-explosionen-104.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Die von US-Präsident Trump angeordneten Atomwaffentests werden nach Angaben von Energieminister Wright vorerst keine nuklearen Explosionen umfassen.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Migration - Zahl der Asylanträge in Deutschland geht weiter zurück",
+      "link": "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-geht-weiter-zurueck-112.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Die Zahl der Asylanträge in Deutschland geht weiter zurück.",
+      "content_length": 59,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Dschihadismus - Möglicher Anschlagsplan in Berlin - Haftbefehl gegen Verdächtigen",
+      "link": "https://www.deutschlandfunk.de/moeglicher-anschlagsplan-in-berlin-haftbefehl-gegen-verdaechtigen-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Der von der Polizei in Berlin wegen möglicher Anschlagspläne festgenommene Mann befindet sich in Untersuchungshaft.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - CDU-Generalsekretär Linnemann fordert EU-Einfuhrzölle auf chinesischen Stahl",
+      "link": "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-fordert-eu-einfuhrzoelle-auf-chinesischen-stahl-106.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "CDU-Generalsekretär Linnemann hat sich angesichts der Probleme in der Stahlindustrie für EU-Einfuhrzölle auf chinesischen Stahl ausgesprochen.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Husum - Bundeskanzler reist zum Antrittsbesuch nach Schleswig-Holstein",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-reist-zum-antrittsbesuch-nach-schleswig-holstein-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Bundeskanzler Merz wird heute zu einem Antrittsbesuch in Schleswig-Holstein erwartet.",
+      "content_length": 85,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bisher fast 60 Todesopfer - Dreitägige Staatstrauer in Haiti nach verheerendem Hurrikan \"Melissa\" - Jamaika plant Benefizkonzerte - USA helfen Kuba",
+      "link": "https://www.deutschlandfunk.de/dreitaegige-staatstrauer-in-haiti-nach-verheerendem-hurrikan-melissa-jamaika-plant-benefizkonzerte-u-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Aufgrund der dramatischen Folgen des Hurrikans \"Melissa\" hat Haitis Regierung drei Tage Staatstrauer angeordnet.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Iran - Präsident Peseschkian kündigt Wiederaufbau zerstörter Atomanlagen an",
+      "link": "https://www.deutschlandfunk.de/praesident-peseschkian-kuendigt-wiederaufbau-zerstoerter-atomanlagen-an-108.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Der Iran will die durch israelische und US-amerikanische Angriffe beschädigten Atomanlagen wieder aufbauen.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine - Selenskyj: Tausende Drohnen und Bomben in einer Woche",
+      "link": "https://www.deutschlandfunk.de/selenskyj-tausende-drohnen-und-bomben-in-einer-woche-112.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Russland hat nach Angaben des ukrainischen Präsidenten Selenskyj in dieser Woche fast 1.500 Kampfdrohnen, 1.200 Lenkbomben und mehr als 70 Raketen gegen die Ukraine eingesetzt. Es habe Angriffe auf Wohnhäuser, zivile Infrastruktur und den Energiesektor gegeben, schrieb Selenskyj auf X.",
+      "content_length": 286,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - Polizei lässt nach Messerangriff in Zug einen Festgenommenen frei",
+      "link": "https://www.deutschlandfunk.de/polizei-laesst-nach-messerangriff-in-zug-einen-festgenommenen-frei-102.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Nach dem Messerangriff in einem Zug im Osten von England ist einer von zwei festgenommenen Männern ohne Anklage wieder freigelassen worden. Der 35-Jährige sei nicht an der Tat beteiligt gewesen, teilte die Polizei mit. Damit ist noch ein Verdächtiger in Haft, wegen Verdachts auf versuchten Mord.",
+      "content_length": 296,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Netflix - \"Haftbefehl\"-Doku löst Hype um Reinhard Mey aus",
+      "link": "https://www.deutschlandfunk.de/haftbefehl-doku-loest-hype-um-reinhard-mey-aus-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Die \"Haftbefehl\"-Dokumentation auf Netflix hat zahlreiche Fans des Deutsch-Rappers Aykut Anhan an den Liedermacher Reinhard Mey herangeführt. In den Sozialen Medien wird Meys Lied \"In meinem Garten\" aus dem Jahr 1970 von ihnen zahlreich geteilt und nachgesungen.",
+      "content_length": 262,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ausleihe - Der Cranach-Triegel-Altar ist vom Naumburger Dom nach Rom umgezogen",
+      "link": "https://www.deutschlandfunk.de/der-cranach-triegel-altar-ist-vom-naumburger-dom-nach-rom-umgezogen-106.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Der Cranach-Triegel-Altar aus dem Naumburger Dom ist für zwei Jahre an eine Kirche in Rom ausgeliehen worden.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - Köln gewinnt gegen HSV, Wolfsburg verliert gegen Hoffenheim",
+      "link": "https://www.deutschlandfunk.de/koeln-gewinnt-gegen-hsv-wolfsburg-verliert-gegen-hoffenheim-106.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "In der Fußball-Bundesliga hat Wolfsburg mit 2:3 gegen Hoffenheim verloren. Köln gewann mit 4:1 gegen den HSV.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Im Norden etwas Regen, sonst wechselnd bewölkt",
+      "link": "https://www.deutschlandfunk.de/im-norden-etwas-regen-sonst-wechselnd-bewoelkt-100.html",
+      "published": "2025-11-03T06:59:16",
+      "content": "Der Wetterbericht, die Lage: Mit südwestlicher Strömung gelangt milde Luft nach Deutschland, die im Verlauf der Woche vor allem in der Südhälfte zunehmend unter Hochdruckeinfluss gerät.",
+      "content_length": 185,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Powerful Afghanistan earthquake leaves 20 dead and reportedly damages famous Blue Mosque",
+      "link": "https://www.theguardian.com/world/2025/nov/03/afghanistan-earthquake-death-toll-reportedly-damages-blue-mosque",
+      "published": "2025-11-03T06:48:50",
+      "content": "Northern provinces of Balkh and Samangan worst hit by magnitude 6.3 quake with hundreds injured, while Mazar-i-Sharif’s Blue Mosque reportedly affectedA powerful 6.3 magnitude earthquake that struck northern Afghanistan overnight has killed more than 20 people and injured about 320, the health ministry said on Monday.The preliminary tolls of deaths and injuries were recorded in the Balkh and Samangan provinces, which have suffered most of the damage, a ministry spokesperson, Sharafat Zaman, said in a video message shared with journalists. Continue reading...",
+      "content_length": 564,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Klingbeil will kriselnden Stahlherstellern helfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/stahlgipfel-bundesregierung-102.html",
+      "published": "2025-11-03T06:48:36",
+      "content": "   An der deutschen Stahlindustrie hängen Zehntausende Jobs. Deshalb will die Politik der kriselnden Branche helfen. Einfuhrzölle sind vor dem \"Stahlgipfel\" bereits im Gespräch. Vizekanzler Klingbeil macht weitere Vorschläge.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Monday briefing: ‘Heroic’ rail worker fights for life after 15 minutes of horror",
+      "link": "https://www.theguardian.com/world/2025/nov/03/monday-briefing-heroic-rail-worker-fights-for-life-after-15-minutes-of-horror",
+      "published": "2025-11-03T06:40:49",
+      "content": "In today’s newsletter: The attack left nine in life-threatening condition but the police have ruled out any suggestion that it was a terrorist incident Good morning. After Saturday night’s shocking knife attack on a train bound for King’s Cross from Doncaster, yesterday eyewitnesses started to tell their stories. They described a horrifying 15 minutes, in which a man armed with a knife made his way through the train as passengers tried to run away, blockaded themselves in toilets, and huddled at the end of the train without knowing where they would be able to get off.One victim, a member of staff whose bravery is said to have saved lives, remained in a very serious condition at last report. With initial suspicions of a terror motive later ruled out by police, a single suspect is now in custody. Today’s newsletter explains what we know so far. Here are the headlines.UK-China relations | A British university complied with a demand from Beijing to halt research about human rights abuses in China, leading to a major project being dropped, the Guardian can reveal.Budget | Proposals being considered by Rachel Reeves to cut tax on electricity bills will backfire, experts have warned, resulting in a giveaway to richer homeowners and undermining the UK’s climate commitments. The chancellor is understood to be looking at plans to eliminate the 5% VAT charge on electricity bills as a fast and simple way to reduce bills for consumers.France | The brazen daytime heist at the Louvre was carried out by petty criminals rather than professionals from the world of organised crime, the Paris prosecutor has said, describing two of the suspects as a couple with children. Four people have been charged over the robbery, with the jewels yet to be recovered.Reform UK | Nigel Farage will promise a bonfire of business regulation as he spells out his party’s economic policies in more detail than ever in an attempt to bolster its reputation for fiscal credibility. Farage is also dropping a commitment made at the last election to deliver £90bn of tax cuts.UK news | High street clinics offering pregnancy scans could be putting unborn babies and their mothers in danger through a lack of properly trained staff, UK experts have warned. Continue reading...",
+      "content_length": 2261,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Kampf um 24.000-Punkte-Marke im DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-24000-punkte-oelpreise-gold-biontech-100.html",
+      "published": "2025-11-03T06:35:28",
+      "content": "   Nachdem der DAX zum Monatsschluss unter die Marke von 24.000 Punkten gefallen war, zeichnet sich heute früh eine leichte Gegenbewegung ab. Am Ölmarkt ziehen die Preise nach dem Förderentscheid der OPEC+ weiter an. [mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ligue 1: Lens mount to 3rd in standings as they easily beat Lorient",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251103-ligue-1-lens-mount-to-3rd-in-standings-as-they-easily-beat-lorient",
+      "published": "2025-11-03T06:31:28",
+      "content": "RC Lens defeated Lorient (3-0) and are 3rd behind Paris and Marseille.",
+      "content_length": 70,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Keine US-Zusatzzölle gegen China bis Ende 2026",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-china-zusatzzoelle-100.html",
+      "published": "2025-11-03T06:18:13",
+      "content": "   Nach dem Treffen von US-Präsident Trump und Chinas Präsident Xi sollen angekündigte US-Zölle auf chinesische Waren ein Jahr auf Eis gelegt werden. China hatte zuvor angekündigt, Exportkontrollen auf seltene Erden auszusetzen.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Massive crocodile taken to Steve Irwin’s Australia Zoo despite traditional owners’ anger over removal",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/03/crocodile-steve-irwin-australia-zoo-traditional-owners-anger-old-faithful",
+      "published": "2025-11-03T06:17:29",
+      "content": "Old Faithful, measuring more than 4 metres, rehomed to Sunshine Coast facility after removal from far north Queensland waterholeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn “iconic” saltwater crocodile has been transported more than 1,600km to Australia Zoo – made famous by Steve Irwin – almost two months after its controversial removal from its far north Queensland habitat.But while the Sunshine Coast zoo said it was proud to become the “forever home” of Old Faithful, as the crocodile that measures longer than 4 metres is known, traditional owners said they were “very upset” by the outcome, which conservationists describe as a “cover-up”. Continue reading...",
+      "content_length": 738,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tote und Verletzte nach schwerem Erdbeben in Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-afghanistan-120.html",
+      "published": "2025-11-03T06:05:13",
+      "content": "   Wieder hat in Afghanistan die Erde gebebt. Nach Angaben der US-Erdbebenwarte hatte das Beben im Norden des Landes eine Stärke von 6,3. Laut Regierung gab es Tote und Hunderte Verletzte.[mehr]",
+      "content_length": 194,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘History won’t forgive us’ if UK falls behind in quantum computing race, says Tony Blair",
+      "link": "https://www.theguardian.com/technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
+      "published": "2025-11-03T06:00:27",
+      "content": "Exclusive: Former PM and ex-Tory leader William Hague warn UK lacks high-risk capital and infrastructure to harness benefits of powerful technologyTony Blair has said “history won’t forgive us” if the UK falls behind in the race to harness quantum computing, a frontier technology predicted to trigger the next wave of breakthroughs in everything from drug design to climate modelling.The former British Labour prime minister, whose thinktank and consultancy, the Tony Blair Institute, is backed by tech industry leaders including the Oracle founder, Larry Ellison, warned: “The country risks failing to convert its leadership in quantum research.” Continue reading...",
+      "content_length": 668,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sole survivor of Air India crash says death of brother ‘took all my happiness’",
+      "link": "https://www.theguardian.com/world/2025/nov/03/sole-survivor-of-air-india-crash-says-death-of-brother-took-all-my-happiness",
+      "published": "2025-11-03T06:00:26",
+      "content": "Vishwash Kumar Ramesh describes his survival as ‘miracle’ but says his sibling’s death in disaster has left him brokenThe sole survivor of the Air India plane crash that killed 241 people in June has said it is a miracle he is still alive, but the death of his brother “took all my happiness”.Almost four months on from the crash in the Indian city of Ahmedabad, Briton Vishwash Kumar Ramesh said the incident had left him with constant flashbacks. Continue reading...",
+      "content_length": 468,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Starwatch: look out for the largest supermoon of the year on Wednesday",
+      "link": "https://www.theguardian.com/science/2025/nov/03/starwatch-look-out-for-the-largest-supermoon-of-the-year-on-wednesday",
+      "published": "2025-11-03T06:00:25",
+      "content": "On 5 November, the moon will be just under 357,000km from Earth, making it appear bigger and brighterThis week brings the largest supermoon of the year. Supermoons occur because the moon’s orbit is not perfectly circular around the Earth. Instead, it is an ellipse, meaning that sometimes the moon will be closer to the Earth than at other times.When a full moon coincides with the moon being within 10% of its closest point to Earth, we call it a supermoon. Its proximity makes it appear subtly bigger and brighter than other full moons. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "In Grok we don’t trust: academics assess Elon Musk’s AI-powered encyclopedia",
+      "link": "https://www.theguardian.com/technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia",
+      "published": "2025-11-03T06:00:23",
+      "content": "From publishing falsehoods to pushing far-right ideology, Grokipedia gives chatroom comments equal status to researchThe eminent British historian Sir Richard Evans produced three expert witness reports for the libel trial involving the Holocaust denier David Irving, studied for a doctorate under the supervision of Theodore Zeldin, succeeded David Cannadine as Regius professor of history at Cambridge (a post endowed by Henry VIII) and supervised theses on Bismarck’s social policy.That was some of what you could learn from Grokipedia, the AI-powered encyclopedia launched last week by the world’s richest person, Elon Musk. The problem was, as Prof Evans discovered when he logged on to check his own entry, all these facts were false. Continue reading...",
+      "content_length": 760,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "On the trail of migrant smugglers 3/3: Gang war shootouts on a trafficking highway",
+      "link": "https://www.france24.com/en/france/20251103-on-the-trail-of-migrant-smugglers-3-3-gang-war-shootouts-on-a-trafficking-highway",
+      "published": "2025-11-03T05:59:06",
+      "content": "EXCLUSIVE. A motorway rest stop near Dijon became the site of a deadly bid for vengeance between migrant trafficking gangs in February 2025. An Iraqi migrant was killed and a police officer from France’s elite tactical unit wounded in a shootout that sparked an ongoing investigation into a major migrant trafficking group.",
+      "content_length": 323,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump wirft Russland und China heimliche Atomwaffentests vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/atomwaffen-trump-tests-100.html",
+      "published": "2025-11-03T05:56:17",
+      "content": "   US-Präsident Trump hat sich erneut zu geplanten US-Atomwaffentests geäußert. Dabei warf er Russland und China heimliche Tests vor, deshalb müssten die USA reagieren. Sein Energieminister präzisierte die US-Pläne.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australia’s richest person Gina Rinehart spotted at Donald Trump’s Halloween party",
+      "link": "https://www.theguardian.com/business/2025/nov/03/donald-trump-halloween-party-australia-richest-person-gina-rinehart-spotted",
+      "published": "2025-11-03T05:41:51",
+      "content": "The 1920s, Great Gatsby-themed bash also reportedly attracted the likes of One Nation leader, Pauline Hanson, though her office did not confirmAustralia’s richest person, Gina Rinehart, has been spotted at Donald Trump’s Halloween party at his Mar-a-Lago resort.The mining billionaire, who has never shied from publicly praising the controversial two-time US president, was seen in speaking at Trump’s ear while he read a piece of paper in a social media post at the lavish affair at the weekend, as first reported by the Nine newspapers. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Xi jokes about spying with Chinese phone gift for South Korea's Lee",
+      "link": "https://www.france24.com/en/live-news/20251103-xi-jokes-about-spying-with-chinese-phone-gift-for-south-korea-s-lee",
+      "published": "2025-11-03T05:33:10",
+      "content": "Xi Jinping joked about spying on South Korea's president as he gifted him a pair of smartphones, telling him to \"check if there is a backdoor\" in a rare jest from the Chinese leader that made headlines in Seoul.",
+      "content_length": 211,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "11KM-Podcast: Wie Ukrainer ohne Strom und Wasser leben",
+      "link": "https://www.tagesschau.de/ausland/europa/podcast-ukraine-alltag-100.html",
+      "published": "2025-11-03T05:22:20",
+      "content": "   Tage ohne Strom und Wasser sind Alltag in der Ukraine. 11KM erzählt, wie die Menschen sich an die Folgen der heftigen russischen Angriffe anpassen. Denn vor dem Kriegswinter zielen die gerade auf die Energieinfrastruktur.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Top 10 US billionaires’ collective wealth grew by $698bn in past year – report",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/wealth-billionaires-increase-trump",
+      "published": "2025-11-03T05:01:22",
+      "content": "Oxfam warns Trump policies risk driving inequality to new heights – but Democrats have also exacerbated wealth gapThe collective wealth of the top 10 US billionaires has soared by $698bn in the past year, according to a new report from Oxfam America published on Monday on the growing wealth divide.The report warns that Trump administration policies risk driving US inequality to new heights, but points out that both Republican and Democratic administrations have exacerbated the US’s growing wealth gap. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK university halted human rights research after pressure from China",
+      "link": "https://www.theguardian.com/education/2025/nov/03/uk-university-halted-human-rights-research-after-pressure-from-china",
+      "published": "2025-11-03T05:00:25",
+      "content": "Exclusive: Leading professor at Sheffield Hallam was told to cease research on supply chains and forced labour in China after demands from authorities A British university complied with a demand from Beijing to halt research about human rights abuses in China, leading to a major project being dropped, the Guardian can reveal.In February, Sheffield Hallam University, home to the Helena Kennedy Centre for International Justice (HKC), a leading research institution focused on human rights, ordered one of its best-known professors, Laura Murphy, to cease research on supply chains and forced labour in China. Continue reading...",
+      "content_length": 630,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainian computer game-style drone attack system goes ‘viral’",
+      "link": "https://www.theguardian.com/world/2025/nov/03/ukrainian-computer-game-style-drone-attack-system-goes-viral",
+      "published": "2025-11-03T05:00:25",
+      "content": "System rewards soldiers who achieve strikes with points that can be used to buy more weapons in an online storeA computer game-style drone attack system has gone “viral” among Ukrainian military units and is being extended to reconnaissance, artillery and logistics operations, the nation’s first deputy prime minister, Mykhailo Fedorov, has told the Guardian.Drone teams competing for points under the “Army of Drones Bonus System” killed or wounded 18,000 Russian soldiers in September, with 400 drone units now taking part in the competition, up from 95 in August, Ukrainian officials said. Continue reading...",
+      "content_length": 613,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rare white Iberian lynx captured on film in Spain by amateur photographer",
+      "link": "https://www.theguardian.com/environment/2025/nov/03/rare-white-iberian-lynx-caught-on-camera-in-spain",
+      "published": "2025-11-03T05:00:24",
+      "content": "Researchers to investigate whether environmental factors may have affected female animal’s pigmentationAn amateur photographer in southern Spain has captured unprecedented images of a white Iberian lynx, prompting researchers to investigate whether environmental factors could be at play as wildlife watchers revelled in the rare sighting.Ángel Hidalgo published the images on social media, describing the singular animal as the “white ghost of the Mediterranean forest”. Continue reading...",
+      "content_length": 491,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Terrorverdacht: Festgenommener Syrer ist in U-Haft",
+      "link": "https://www.tagesschau.de/inland/festnahme-berlin-108.html",
+      "published": "2025-11-03T04:50:46",
+      "content": "   Der 22-jährige Syrer, der einen Anschlag in Berlin geplant haben soll, sitzt in Untersuchungshaft. Laut Staatsanwaltschaft werden Speichermedien und Beweismittel ausgewertet. Vieles ist unklar.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Westpac says Labor’s expanded first home buyers scheme saw 150% jump in loan applications",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/03/westpac-labor-housing-deposit-scheme-jump-in-loan-applications",
+      "published": "2025-11-03T04:46:38",
+      "content": "Big bank also reveals it has ceased corporate lending to thermal coalmines, but it still funds oil and gas extraction businessesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastHome loan applications have surged in response to the government’s expanded 5% deposit scheme, according to Westpac, as first home buyers pile into a hot property market accelerating at its fastest pace in years.Applications for government-guaranteed mortgages at the big bank more than doubled in October 2025 compared with October 2024, after a 150% jump when the scheme expanded on 1 October, Nathan Goonan, the bank’s chief financial officer, said on Monday. Continue reading...",
+      "content_length": 723,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Dreitägige Staatstrauer in Haiti nach Hurrikan \"Melissa\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/melissa-haiti-100.html",
+      "published": "2025-11-03T04:18:36",
+      "content": "   Haitis Regierung hat angesichts der verheerenden Auswirkungen des Hurrikans \"Melissa\" eine dreitägige Staatstrauer ausgerufen. Sie gilt ab heute. Die USA sagten Kuba eine Nothilfe von drei Millionen Dollar zu.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump downplays US war threat in Venezuela, says Maduro’s days are ‘numbered’",
+      "link": "https://www.france24.com/en/americas/20251103-trump-us-venezuela-maduro",
+      "published": "2025-11-03T03:58:40",
+      "content": "President Donald Trump on Sunday downplayed the prospect of US military action in Venezuela but warned President Nicolas Maduro’s “days are numbered.” The comments come as Washington boosts its military presence in the Caribbean and targets alleged drug-trafficking operations.",
+      "content_length": 277,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Frankreich: Mit Medizincontainern gegen den Ärztemangel",
+      "link": "https://www.tagesschau.de/ausland/europa/aerztemangel-medizin-frankreich-medizincontainer-100.html",
+      "published": "2025-11-03T03:37:33",
+      "content": "   Mit sogenannten Medizinboxen tritt eine französische Firma dem Ärztemangel entgegen. Patienten können sich in den Containern selbst untersuchen, während der Arzt per Video zugeschaltet ist. Ärzteverbände sehen das Modell kritisch. Von C. Dylla.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Push for Ley to dump net zero emissions pledge as some Liberals fear ‘tail is wagging the dog’",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/03/push-for-ley-to-dump-net-zero-emissions-pledge-as-some-liberals-fear-tail-is-wagging-the-dog",
+      "published": "2025-11-03T03:24:50",
+      "content": "Opposition leader under pressure to call special party room meeting this week to resolve growing split over the policyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe opposition leader, Sussan Ley, is facing growing pressure from conservative Liberal MPs to dump their commitment to net zero emissions by 2050, with a new hardline position from the Nationals inflaming tensions within the Coalition.Ley has been urged to call a special party room meeting this week to resolve the growing split, as forces aligned with leadership rival Angus Taylor argue the Liberals should match the Nationals’ position which was announced over the weekend. Continue reading...",
+      "content_length": 729,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Scores killed as new high-magnitude quake strikes Afghanistan",
+      "link": "https://www.france24.com/en/asia-pacific/20251103-magnitude-6-3-earthquake-afghanistan",
+      "published": "2025-11-03T01:42:46",
+      "content": "A magnitude 6.3 earthquake struck northern Afghanistan overnight Sunday into Monday, killing at more than 20 people and injuring about 320, provincial officials said. The quake, at a depth of 28km (17 miles) near Mazar-i-Sharif, hit just two months after a tremor in the east killed more than 2,200.",
+      "content_length": 299,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "George Clooney says replacing Joe Biden with Kamala Harris ‘was a mistake’",
+      "link": "https://www.theguardian.com/film/2025/nov/03/george-clooney-joe-biden-kamala-2024-us-election",
+      "published": "2025-11-03T01:25:14",
+      "content": "Actor says Harris ‘was given a very tough task’ because ‘she had to run against her own record’, and extends an olive branch to Hunter BidenGeorge Clooney has said he feels it was a “mistake” for Kamala Harris to replace Joe Biden in the 2024 US presidential election, adding that he had no regrets about the New York Times opinion piece in which he called on the Democrats to find a new presidential nominee.Speaking on CBS’ Sunday Morning, the actor and activist, who is a prominent financial donor to the Democratic party, said he would write his op-ed again if given the chance, and that he wished the Democrats had held a new primary to elect a presidential candidate. Instead, Harris was nominated by a virtual vote of party delegates. Continue reading...",
+      "content_length": 761,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK set to strip Andrew of last remaining military title in latest royal shake-up",
+      "link": "https://www.france24.com/en/europe/20251103-uk-andrew-vice-admiral-title-iroyal",
+      "published": "2025-11-03T01:09:41",
+      "content": "The British government said on Sunday it would strip Prince Andrew of his honorary title of vice-admiral, his last remaining military rank. Andrew lost his other titles in 2022 when Queen Elizabeth II removed them after he was sued by Virginia Giuffre, Jeffrey Epstein’s main accuser.",
+      "content_length": 284,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best new movies to stream this week",
+      "link": "https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week",
+      "published": "2025-11-03T00:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nSpooky season is over, which means it's officially Mariah Carey season. It also means streaming services are already loading up on Christmas movies. On pure principle, they'll be omitted here - Santa doesn't need a full two months of our attention. Also, while not a movie, worth noting that season two of The Vince Staples Show premieres on November 6th. The first season is funny, surreal, and just an absolute blast. I've got high hopes for season two. Here's the best movies coming to streaming this week.\nHBO Max\nEddington - Ari Aster's latest just further proves that he is a master at making people squirm. It's tense, awkward, and laugh-ou …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Banaszak eröffnet \"Fenster zum Osten\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-fenster-zum-osten-100.html",
+      "published": "2025-11-03T00:01:10",
+      "content": "   Die Grünen haben es im Osten Deutschlands schwer: unterdurchschnittliche Wahlergebnisse, schlechtes Image, schwache Strukturen. Parteichef Banaszak will mehr Präsenz zeigen und eröffnete ein neues Büro in Brandenburg. Von Ruth Kirchner.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mississippi woman fatally shoots monkey escaped from overturned truck",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/mississippi-escaped-monkey-fatally-shot",
+      "published": "2025-11-02T23:15:06",
+      "content": "Jessica Bond Ferguson said her 16-year-old told her about animal in the yard and she shot it to ‘protect her children’One of the monkeys that escaped after a truck overturned on a Mississippi roadway on 28 October was shot and killed early Sunday by a homeowner who said she feared for the safety of her children.Jessica Bond Ferguson said she was alerted early Sunday by her 16-year-old son who said he thought he had seen a monkey running in the yard outside their home near Heidelberg, Mississippi. She got out of bed, grabbed her firearm and her cellphone, and stepped outside where she saw the monkey about 60 ft (18 meters) away. Continue reading...",
+      "content_length": 655,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Louisiana: Alexandria diocese files for bankruptcy over clergy abuse claims",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/louisiana-diocese-bankruptcy-clergy-abuse-claims",
+      "published": "2025-11-02T23:00:15",
+      "content": "More than 40 Roman Catholic dioceses have filed chapter 11 claims, 28 of which had obvious indicators of abuse falloutThe number of Roman Catholic dioceses in the US which have declared federal bankruptcy amid the worldwide church’s clergy abuse scandal has grown after one in central Louisiana recently filed for chapter 11 protection.The diocese of Alexandria announced in a statement Friday it had joined more than 40 Catholic institutions in the US which have filed for bankruptcy protection. According to Penn State’s law school, 28 of those bankruptcies had concluded in one of the most obvious indicators of the clergy abuse scandal’s fallout. Continue reading...",
+      "content_length": 670,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Mexican mayor killed during Day of the Dead celebrations",
+      "link": "https://www.theguardian.com/world/2025/nov/02/mexican-mayor-killed-during-day-of-the-dead-celebrations",
+      "published": "2025-11-02T22:47:06",
+      "content": "Carlos Alberto Manzo Rodríguez, who was under police protection, was shot dead in front of dozens of peopleA mayor in Mexico’s western state of Michoacán was shot dead in a plaza in front of dozens of people who had gathered for Day of the Dead festivities, authorities have said.The mayor of the Uruapan municipality, Carlos Alberto Manzo Rodríguez, was gunned down Saturday night in the town’s historic centre. He was rushed to a hospital where he later died, according to state prosecutor Carlos Torres Piña. Continue reading...",
+      "content_length": 531,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nine people injured in mass shooting at Ohio party held in Airbnb",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/ohio-party-mass-shooting-airbnb",
+      "published": "2025-11-02T22:34:55",
+      "content": "Teenagers had gathered at the house for a birthday party and the motive for the shooting was unclearNine people were injured by gunfire early Sunday at a large rental home where teenagers had gathered for a birthday party that was promoted on social media. The scene in north-eastern Ohio was chaotic as some people fled and first responders performed life-saving measures, police said.The shooting happened at about 12.15am local time in Bath Township, about 15 miles (24 km) north-west of Akron. Continue reading...",
+      "content_length": 517,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Opponents and loyalists of Serbia’s autocratic president clash in Belgrade",
+      "link": "https://www.theguardian.com/world/2025/nov/02/opponents-and-loyalists-of-serbias-autocratic-president-clash-in-belgrade",
+      "published": "2025-11-02T22:09:07",
+      "content": "Thousands throw bottles and flares as tensions soar after huge rally to mark anniversary of train station disasterHundreds of riot police separated opponents and loyalists of Serbia’s autocratic president, Aleksandar Vučić, in central Belgrade on Sunday as political tensions boiled after a year of anti-government protests.Several thousand people faced off on both sides of the police cordons, with officers in riot gear standing in rows between shouting crowds who threw bottles and flares at each other. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nur noch ein Tatverdächtiger nach Messerattacke in Zug in England",
+      "link": "https://www.tagesschau.de/ausland/europa/england-zug-verletzte-104.html",
+      "published": "2025-11-02T19:44:30",
+      "content": "   Nach der Messerattacke in einem Zug nahe der englischen Stadt Huntingdon ist nur noch ein Tatverdächtiger in Gewahrsam. Das Motiv ist weiter unklar, die Polizei geht aber nicht von einem Terrorakt aus. Ein Bahnmitarbeiter gilt als Held.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel warns of intensifying attacks in Lebanon against Hezbollah",
+      "link": "https://www.france24.com/en/live-news/20251102-israel-warns-of-intensifying-attacks-against-hezbollah",
+      "published": "2025-11-02T19:19:10",
+      "content": "Israeli Prime Minister Benjamin Netanyahu warned Beirut on Sunday to disarm Iran-backed Hezbollah, signalling that Israel could intensify operations in Lebanon against the militant group. Despite a November 2024 ceasefire with Hezbollah, Israel maintains troops in five areas in southern Lebanon and has kept up regular strikes.",
+      "content_length": 328,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Rehlinger und Linnemann für EU-Zölle zum Schutz der Stahlbranche",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/stahlgipfel-bundesregierung-100.html",
+      "published": "2025-11-02T18:54:19",
+      "content": "   Die Zukunft der deutschen Stahlindustrie ist Thema eines Gipfels im Kanzleramt am Donnerstag. Schon vorab gibt es viele Forderungen von Regierungsparteien und aus der Branche. Und Rufe nach EU-Einfuhrzöllen.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel receives remains of three deceased Gaza hostages, Netanyahu's office says",
+      "link": "https://www.france24.com/en/live-news/20251102-israel-says-red-cross-has-received-the-remains-of-three-deceased-gaza-hostages",
+      "published": "2025-11-02T18:46:50",
+      "content": "The prime minister's office in Israel on Sunday confirmed they had received the remains of three deceased Gaza hostages. The remains, which were found in a tunnel in southern Gaza according to a Hamas statement, will be transferred to a forensic medical centre for identification.",
+      "content_length": 280,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louvre-Einbrecher waren laut Ermittlern als Kleinkriminelle bekannt",
+      "link": "https://www.tagesschau.de/ausland/europa/louvre-verdaechtige-gestaendnis-102.html",
+      "published": "2025-11-02T18:23:57",
+      "content": "   Die bisher im Rahmen der Fahndung nach den Louvre-Dieben verhafteten Verdächtigen sind einschlägig vorbestraft und stammen aus dem kleinkriminellen Milieu. Ob es weitere Hintermänner gibt ist ebenso wenig bekannt wie der Verbleib der Juwelen.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "You need to watch the found footage classic, Lake Mungo",
+      "link": "https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo",
+      "published": "2025-11-02T18:00:00",
+      "content": "\n\n\n\t\n\tLake Mungo is haunting and heartbreaking.\t\n\nFound footage movies are tough to pull off. For every classic like The Blair Witch Project or Rec, there are 100 movies like Slender and Megan Is Missing that are, at best, forgettable, and at worst, an affront to the very concept of cinema. My personal favorite, though, is Lake Mungo, a slow burn mockumentary with found footage elements that manages to be both creepy and emotionally wrenching. Oh, and it's gloriously concise at under an hour and a half. \nLake Mungo is, first and foremost, one of the most convincingly realized mockumentary ever made. If you told someone it was a legit documentary about a supposed haunting, there's a chance  …\nRead the full story at The Verge.",
+      "content_length": 734,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mann in Berlin wegen mutmaßlicher Anschlagsplanung festgenommen",
+      "link": "https://www.tagesschau.de/inland/festnahme-berlin-106.html",
+      "published": "2025-11-02T17:25:39",
+      "content": "   Ein Spezialeinsatzkommando der Polizei hat in Berlin einen 22-jährigen Mann festgenommen. Im Raum steht Terrorverdacht. Bei Durchsuchungen wurden offenbar Substanzen gefunden, die sich zum Bau eines Sprengstoffs eignen. [mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Louvre jewel heist by petty criminals, not organised professionals, says Paris prosecutor",
+      "link": "https://www.theguardian.com/world/2025/nov/02/louvre-jewel-heist-petty-criminals-paris-prosecutor",
+      "published": "2025-11-02T17:07:25",
+      "content": "Laure Beccuau said ‘upper echelons of organised crime’ unlikely to be involved as one perpetrator remains at largeThe brazen daytime heist at the Louvre was carried out by petty criminals rather than professionals from the world of organised crime, the Paris prosecutor has said, describing two of the suspects as a couple with children.The assertion comes two weeks after thieves parked a stolen truck outside the world’s most-visited museum, used a furniture lift to reach the first floor, then smashed their way into one of the museum’s most ornate rooms. Less than seven minutes later, they escaped on scooters with crown jewels worth an estimated €88m (£76m). Continue reading...",
+      "content_length": 684,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pregnant British teen accused of drug-smuggling moved to baby unit in Georgian prison",
+      "link": "https://www.theguardian.com/world/2025/nov/02/pregnant-british-teen-bella-may-culley-accused-of-drug-smuggling-moved-to-baby-unit-in-georgian-prison",
+      "published": "2025-11-02T16:57:02",
+      "content": "Mother of Bella May Culley, 19, awaiting sentencing on Monday, says conditions have improved after transfer to new jailA pregnant British teenager accused of drug-smuggling has been moved to a mother-and-baby unit in a Georgian prison, her mother said.Bella May Culley, 19, who is reported to be eight months pregnant, was arrested at Tbilisi airport in May. Continue reading...",
+      "content_length": 378,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie es um die finanzielle Bildung in Deutschland steht",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzielle-bildung-deutschland-100.html",
+      "published": "2025-11-02T16:25:22",
+      "content": "   Nur ein Drittel der Deutschen hält das eigene finanzielle Wissen für gut. Gleichzeitig schlittern immer mehr in die Verschuldung. Helfen können gute Bildungsangebote. Wie steht es um die Finanzbildung? Von Till Bücker.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sinner reclaims world number one ranking with Paris Masters win",
+      "link": "https://www.france24.com/en/live-news/20251102-sinner-wins-paris-masters-reclaims-world-no-1-ranking",
+      "published": "2025-11-02T16:23:10",
+      "content": "24-year-old Jannik Sinner won the Paris Masters for the first time on Sunday by defeating Felix Auger-Aliassime. The Italian's maiden crown in Paris will see Sinner return to the pinnacle of men's tennis when the ATP rankings are updated on Monday.",
+      "content_length": 248,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Indien schickt mehr als vier Tonnen schweren Satelliten ins All",
+      "link": "https://www.tagesschau.de/ausland/indien-satellit-102.html",
+      "published": "2025-11-02T16:20:20",
+      "content": "   Mehr als vier Tonnen wiegt CMS-03. Es ist der bislang schwerste Satellit, den Indien eigenständig ins All transportiert hat. Das Land verfolgt ein ambitioniertes Ziel: Bis 2040 einen Astronauten zum Mond schicken.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "What the New York mayor’s race is revealing about the Democratic party",
+      "link": "https://www.france24.com/en/video/20251102-what-the-new-york-mayor-s-race-is-revealing-about-the-democratic-party",
+      "published": "2025-11-02T15:57:18",
+      "content": "New Yorkers head to the polls to elect a new mayor on Tuesday, with 34-year-old Zohran Mamdani, a “democratic socialist”, the strong favourite to win. His two rivals are the Republican outsider, Curtis Sliwa, and former New York governor Andrew Cuomo. According to our France24 International Affairs commentator Douglas Herbert, if Zohran Mamdani wins could be the template for a new type of democratic party going forward.",
+      "content_length": 423,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two French policemen charged over alleged rape of woman in custody",
+      "link": "https://www.france24.com/en/france/20251102-two-french-policemen-have-been-charged-for-raping-woman-in-custody",
+      "published": "2025-11-02T15:28:42",
+      "content": "Two French policemen, aged 23 and 35, have been charged over the alleged rape of a 26-year-old woman while she was in custody at a court in Bobigny, a town in the northeastern suburbs of Paris. Authorities said on Sunday that a video of the act had been discovered on the mobile phone of one of the officers.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump threatens to send US military into Nigeria, alleging mass killing of Christians",
+      "link": "https://www.france24.com/en/video/20251102-trump-threatens-to-send-us-military-into-nigeria-alleging-mass-killing-of-christians",
+      "published": "2025-11-02T15:13:42",
+      "content": "US President Donald Trump on Saturday threatened Nigeria with a possible military attack after accusing the country of allowing the killing of Christians by Islamists. Trump alleged on social media on Friday that “Radical Islamists\" in Nigeria were responsible for the \"mass slaughter” of Christians. France24 correspondent Chinwe Ossondu reports the latest from Lagos, Nigeria.",
+      "content_length": 378,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Police say UK train stabbing that wounded 10 people not a 'terrorist incident'",
+      "link": "https://www.france24.com/en/video/20251102-police-say-uk-train-stabbing-that-wounded-10-people-not-a-terrorist-incident",
+      "published": "2025-11-02T15:12:19",
+      "content": "UK police said Sunday two British nationals were arrested on suspicion of attempted murder following a mass stabbing on a train in eastern England in which 10 people were wounded. “At this stage, there is nothing to suggest that this is a terrorist incident,” UK Transport Police superintendent John Loveless told reporters. Vedika Bahl reports the latest.",
+      "content_length": 356,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nigeria offen für Kooperation mit den USA bei der Terrorabwehr",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-nigeria-drohung-102.html",
+      "published": "2025-11-02T14:52:50",
+      "content": "   Mit \"feuernden Gewehren\" werde man in Nigeria vorgehen, drohte US-Präsident Trump, sollten die dortigen Christen nicht geschützt werden. Das afrikanische Land zeigte sich offen für Hilfe bei der Terrorbekämpfung - unter einer Bedingung.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Why the Zune never killed the iPod",
+      "link": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history",
+      "published": "2025-11-02T14:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nThe Microsoft Zune is mostly just a footnote in tech history. Microsoft spent years - and vast sums of money - trying to create a true competitor to Apple's iPod, without ever coming close to actually pulling it off. The Zune was simply too little, too late.\nYou know what's surprising about the Zune, though? Microsoft made a lot of the right bets with the Zune. The company saw - well ahead of most of the rest of the tech industry - that adding social features could make its product stickier. It understood that these pocketable devices might eventually be useful for much more than just music. And it had a bunch of interface design ideas that …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "French prosecutor says Louvre heist work of petty criminals, not organised crime",
+      "link": "https://www.france24.com/en/france/20251102-french-prosecutor-says-louvre-heist-work-of-petty-criminals-not-organised-crime",
+      "published": "2025-11-02T14:24:44",
+      "content": "Paris prosecutor Laure Beccuau told franceinfo radio on Sunday that the audacious daytime robbery of historical jewels worth $102 million from the Louvre did not seem to be associated with \"the upper echelons of organised crime\", adding that the suspects appear to be locals from a low-income area north of Paris.",
+      "content_length": 313,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Grand Egyptian Museum: challenges for world’s largest museum dedicated to a single civilization",
+      "link": "https://www.france24.com/en/video/20251102-grand-egyptian-museum-challenges-for-world-s-largest-museum-dedicated-to-a-single-civilization",
+      "published": "2025-11-02T14:10:32",
+      "content": "Egypt was inaugurating the long-delayed Grand Egyptian Museum (GEM) on Saturday, the world’s largest museum dedicated to its ancient civilization. World leaders, including monarchs, heads of states and governments, were to attend the grand opening ceremony in Cairo. Reaserch fellow at the SOAS Middle East Institute, Maria Gloria Polimeno, gives her insights.",
+      "content_length": 360,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The perfect grocery list-making app doesn’t exist",
+      "link": "https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep",
+      "published": "2025-11-02T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThere is no more chaotic activity than willfully entering a grocery store without a list.\nI know. Some people thrive on vibes-based grocery shopping. They can come up with meals on the fly, buy what's on sale and work around that, or follow some bizarre \"3-3-2-2-1\" rule or whatever I'm always seeing on Instagram. I am not one of these people. \nBut while I know a list is essential for my survival at the store, I've never been able to work out a reliable meal planning and grocery list-making system. Every week I write out a list by hand, and every week I forget something crucial. So I asked myself, as I so often do when confronted with a pro …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA: Poll shows Zohran Mamdani's lead in NYC mayoral race narrowing",
+      "link": "https://www.france24.com/en/video/20251102-usa-poll-shows-zohran-mamdani-s-lead-in-nyc-mayoral-race-narrowing",
+      "published": "2025-11-02T13:47:49",
+      "content": "Early voting continues to draw huge numbers with the New York City Board of Elections saying that more than 584,000 residents have already cast their ballots. It comes as the three candidates crisscross the five boroughs with a slew of events aimed at reaching those still undecided. France24 correspondent Pamela Falk reports the latest from New York.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Syrian leader to discuss lifting sanctions, reconstruction in 'historic' US visit",
+      "link": "https://www.france24.com/en/middle-east/20251102-syrian-leader-to-discuss-lifting-sanctions-reconstruction-in-historic-us-visit",
+      "published": "2025-11-02T13:46:17",
+      "content": "Syrian President Ahmed al-Sharaa will make a \"historic\" visit to Washington DC later this month to discuss issues including lifting remaining sanctions, reconstruction and counter-terrorism with White House leadership, the country's top diplomat said Sunday.",
+      "content_length": 258,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russia fires wave of drones and missiles at Ukraine: At least 6 killed",
+      "link": "https://www.france24.com/en/video/20251102-russia-fires-wave-of-drones-and-missiles-at-ukraine-at-least-6-killed",
+      "published": "2025-11-02T13:40:30",
+      "content": "Russia launched a barrage of drones and missiles at Ukraine overnight, killing at least six people, including two children, and leaving tens of thousands without power, officials reported Sunday. Ukrainian President Volodymyr Zelensky condemned the attacks, which also injured a dozen others, saying they demonstrated Moscow’s intent to “inflict harm” on civilians. Despite U.S. calls to end its nearly four-year invasion, Russia has continued both its ground offensive and renewed strikes on Ukraine’s energy infrastructure. Former Advisor to Ukraine's Defence Ministry, Yuriy Sak, gives his insights.",
+      "content_length": 602,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The great tariff shakedown",
+      "link": "https://www.theverge.com/column/811549/trump-tariff-shakedown",
+      "published": "2025-11-02T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the real-world effects of Trump's tariffs, follow Mia Sato. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe economists tried to warn us. From the beginning, trade policy experts cautioned that tariffs would raise consumer prices and wouldn't create the American manufacturing renaissance that the Trump administration promised. One thing that I wrote about tariffs back in February keeps popping in my head: When I asked economists and policy folks what high tariffs would actu …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best things to watch over and over and over",
+      "link": "https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer",
+      "published": "2025-11-02T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 104, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Halloween, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about lotteries and Jennifer Lawrence and religious AI, shame-watching Finding Mr. Christmas, turning MyMind into my daily journal / commonplace book, learning a lot about Taylor Sheridan for some reason, letting James Hoffman teach me about cold brew, attempting to replace most of my laptop time with iPad Pro time, and trying my very best to not eat all our Halloween candy ahead of time. …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "New horrors emerge after RSF taking of Sudan’s el-Fasher: An analysis by professor Srinivasan",
+      "link": "https://www.france24.com/en/video/20251102-new-horrors-emerge-after-rsf-taking-of-sudan-s-el-fasher-an-analysis-by-professor-srinivasan",
+      "published": "2025-11-02T12:52:38",
+      "content": "Tens of thousands of people are still trapped in Sudan's El-Fasher five days after the paramilitary Rapid Support Forces (RSF) seized the city. Fleeing survivors said on Saturday that paramilitary fighters separated families and killed children in front of their parents, and fresh satellite images suggested mass killings were likely ongoing. Professor of International Politics and Fellow of King's College at Camrbidge, Sharath Srinivasan, gives his insights.",
+      "content_length": 462,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russian blitz on Ukraine kills six people, including two children",
+      "link": "https://www.france24.com/en/live-news/20251102-two-children-among-dead-in-russian-blitz-on-ukraine",
+      "published": "2025-11-02T11:29:25",
+      "content": "A wave of drones and missiles were fired into Ukraine by Russia overnight on Saturday and Sunday, killing at least six people including two boys aged 11 and 14. Russia's strikes on Ukraine's energy grid cut power to the entire eastern Donetsk region, as well as almost 58,000 households in the southern Zaporizhzhia region, Ukrainian officials said.",
+      "content_length": 349,
+      "source": "France 24 English",
+      "category": "International News"
+    }
+  ]
+}
