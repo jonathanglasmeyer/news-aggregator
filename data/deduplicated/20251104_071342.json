@@ -1,0 +1,1337 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-04T07:13:42.918216",
+    "deduplicated_at": "2025-11-04 07:13:42",
+    "lookback_days": 7,
+    "total_input": 1098,
+    "duplicates_removed": 951,
+    "new_articles": 147,
+    "deduplication_rate": "86.6%",
+    "historical_files_checked": 8
+  },
+  "articles": [
+    {
+      "title": "New York - Demokrat Mamdani Favorit bei Bürgermeisterwahl",
+      "link": "https://www.deutschlandfunk.de/demokrat-mamdani-favorit-bei-buergermeisterwahl-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "In New York wird heute ein neuer Bürgermeister gewählt. Als Favorit in der Acht-Millionen-Metropole gilt der 34-jährige linksgerichtete Demokrat Mamdani, der unter anderem eine Mietpreisbremse sowie kostenlose Busse und Kinderbetreuung verspricht. US-Präsident Trump will der Stadt Bundesmittel streichen, sollte Mamdani gewählt werden.",
+      "content_length": 336,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Wadephuls Zweifeln - Merz beharrt auf Abschiebungen nach Syrien",
+      "link": "https://www.deutschlandfunk.de/merz-beharrt-auf-abschiebungen-nach-syrien-110.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Bundeskanzler Merz hat anders als Außenminister Wadephul keine Bedenken gegen Abschiebungen von Geflüchteten nach Syrien. Merz sagte bei einem Besuch im schleswig-holsteinischen Husum, der Bürgerkrieg in Syrien sei zu Ende. Daher gebe es keinerlei Gründe mehr, Syrern Asyl in Deutschland zu gewähren.",
+      "content_length": 300,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Über Islamabad und Istanbul - Afghanen mit Aufnahmezusage fliegen nach Deutschland",
+      "link": "https://www.deutschlandfunk.de/afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-112.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Erneut werden Afghaninnen und Afghanen mit Aufnahmezusage per Flugzeug nach Deutschland gebracht.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - EU-Umweltminister erörtern Klimaziele - Grünen-Europaabgeordnete Reintke mahnt Einigkeit an",
+      "link": "https://www.deutschlandfunk.de/eu-umweltminister-eroertern-klimaziele-gruenen-europaabgeordnete-reintke-mahnt-einigkeit-an-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Vor Beginn der Weltklimakonferenz beraten die EU-Umweltminister heute über eine Reduzierung der europäischen Treibhausgas-Emissionen. Die 27 Mitgliedsländer sind bei diesem Thema uneins. Die Grünen-Europaabgeordnete Reintke mahnt eine Verständigung auf eine gemeinsame Linie an.",
+      "content_length": 278,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Atommüll - CDU-Umweltpolitiker Jung fordert Beschleunigung der Suche nach einem Endlager",
+      "link": "https://www.deutschlandfunk.de/cdu-umweltpolitiker-jung-fordert-beschleunigung-der-suche-nach-einem-endlager-102.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Der CDU-Umweltpolitiker Jung plädiert dafür, die Suche nach einem Endlager für Atommüll in Deutschland zu beschleunigen.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hurrikan Melissa - Welternährungsprogramm startet Hilfsaufruf",
+      "link": "https://www.deutschlandfunk.de/welternaehrungsprogramm-startet-hilfsaufruf-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Fast sechs Millionen Menschen in Jamaika, Kuba und Haiti sind nach Angaben des Welternährungsprogramms von den Folgen des Hurrikans „Melissa“ betroffen.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltsozialgipfel - Guterres fordert mehr Engagement gegen Armut und Ungleichheit",
+      "link": "https://www.deutschlandfunk.de/guterres-fordert-mehr-engagement-gegen-armut-und-ungleichheit-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "UNO-Generalsekretär Guterres hat die internationale Staatengemeinschaft aufgerufen, mehr gegen Armut und Ungleichheit zu unternehmen.",
+      "content_length": 133,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrdienst - CDU-Verteidigungsausschusschef Röwekamp rückt von Losverfahren für Musterung ab",
+      "link": "https://www.deutschlandfunk.de/cdu-verteidigungsausschusschef-roewekamp-rueckt-von-losverfahren-fuer-musterung-ab-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "In der Wehrdienst-Debatte ist der Vorsitzende des Bundestagsverteidigungsausschusses, Röwekamp, vom Losverfahren abgerückt.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vor Stahlgipfel im Kanzleramt - Wüst (CDU) fordert deutliche Entlastungen für Industrie",
+      "link": "https://www.deutschlandfunk.de/wuest-cdu-fordert-deutliche-entlastungen-fuer-industrie-102.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Vor dem sogenannten Stahlgipfel in Berlin spricht sich Nordrhein-Westfalens Ministerpräsident Wüst für weitergehende Entlastungen der Unternehmen aus.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Save the Children\"-Bericht - Jedes fünfte Kind wächst in Konfliktgebiet auf",
+      "link": "https://www.deutschlandfunk.de/jedes-fuenfte-kind-waechst-in-konfliktgebiet-auf-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Jedes fünfte Kind weltweit hat im vergangenen Jahr in einem Konfliktgebiet gelebt.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesarbeitsministerin - Bas plant Entlastung von Bürokratie beim Arbeitsschutz",
+      "link": "https://www.deutschlandfunk.de/bas-plant-entlastung-von-buerokratie-beim-arbeitsschutz-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Bundesarbeitsministerin Bas hat Maßnahmen zum Bürokratie-Abbau im Bereich des Arbeitschutzes angekündigt.",
+      "content_length": 105,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Turm-Einsturz in Rom - Arbeiter stirbt nach Bergung",
+      "link": "https://www.deutschlandfunk.de/arbeiter-stirbt-nach-bergung-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Nach dem Teil-Einsturz eines mittelalterlichen Turms in der Innenstadt von Rom hat es ein erstes Todesopfer gegeben.",
+      "content_length": 116,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Außenwert der Gemeinschafts-Währung - Euro fällt zum US-Dollar auf Drei-Monats-Tief",
+      "link": "https://www.deutschlandfunk.de/euro-faellt-zum-us-dollar-auf-drei-monats-tief-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Der Euro ist gegenüber dem US-Dollar auf ein Drei-Monats-Tief gefallen.",
+      "content_length": 71,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Triage\"-Regel - Karlsruhe entscheidet über Klage",
+      "link": "https://www.deutschlandfunk.de/karlsruhe-entscheidet-ueber-klage-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Das Bundesverfassungsgericht verkündet heute sein Urteil zur sogenannten Triage-Regel.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Russland verzeichnet laut Analyse langsam aber stetig Geländegewinne",
+      "link": "https://www.deutschlandfunk.de/russland-verzeichnet-laut-analyse-langsam-aber-stetig-gelaendegewinne-108.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Die russische Armee setzt ihren Vormarsch in der Ukraine laut einer Analyse der Nachrichtenagentur AFP langsam aber stetig fort.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brandenburg - Weitere 300 Kilogramm Drogen in Großlabor in Nauen gefunden",
+      "link": "https://www.deutschlandfunk.de/weitere-300-kilogramm-drogen-in-grosslabor-in-nauen-gefunden-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "In einem kürzlich ausgehobenen Drogenlabor im brandenburgischen Nauen sind weitere 300 Kilogramm Rauschgift gefunden worden.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kinderpornografie-Verdacht - Shein stoppt weltweit Verkauf von Sexpuppen",
+      "link": "https://www.deutschlandfunk.de/shein-stoppt-weltweit-verkauf-von-sexpuppen-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Die Online-Plattform \"Shein\" hat weltweit den Verkauf von Sex-Puppen gestoppt.",
+      "content_length": 78,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Messerangriff in Zug in England - Polizei prüft Zusammenhang mit anderen Taten",
+      "link": "https://www.deutschlandfunk.de/polizei-prueft-zusammenhang-mit-anderen-taten-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Der mutmaßliche Messerangreifer in einem Zug in England hatte nach Erkenntnissen der Polizei möglicherweise bereits zuvor mehrere Attacken verübt.",
+      "content_length": 146,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "737-MAX - Zivilprozess gegen Boeing nach Absturz von 2019 begonnen",
+      "link": "https://www.deutschlandfunk.de/zivilprozess-gegen-boeing-nach-absturz-von-2019-begonnen-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Gegen den Flugzeughersteller Boeing hat ein Zivilprozess zum Absturz einer 737-MAX-Passagiermaschine im Jahr 2019 in Äthiopien begonnen.",
+      "content_length": 136,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Festakt - Der Europäische Gerichtshof feiert 75 Jahre Menschenrechtskonvention mit einem Festakt in Straßburg",
+      "link": "https://www.deutschlandfunk.de/der-europaeische-gerichtshof-feiert-75-jahre-menschenrechtskonvention-mit-einem-festakt-in-strassbur-100.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Der Europäische Gerichtshof für Menschenrechte begeht heute den 75. Jahrestag der Europäischen Menschenrechtskonvention mit einem Festakt.",
+      "content_length": 138,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan - Zehntausende auch in Region Kordofan auf der Flucht vor Kämpfen zwischen Armee und RSF-Miliz",
+      "link": "https://www.deutschlandfunk.de/zehntausende-auch-in-region-kordofan-auf-der-flucht-vor-kaempfen-zwischen-armee-und-rsf-miliz-112.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Im Sudan sind nun auch in der Region Kordofan zehntausende Menschen auf der Flucht vor Kämpfen.",
+      "content_length": 95,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Haushaltssperre - Trump-Regierung kürzt Lebensmittelhilfen für Bedürftige",
+      "link": "https://www.deutschlandfunk.de/trump-regierung-kuerzt-lebensmittelhilfen-fuer-beduerftige-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "In den USA sollen wegen der Haushaltssperre die Lebensmittelhilfen für Millionen Bedürfte gekürzt werden.",
+      "content_length": 105,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Yad Vashem - Fünf Millionen Holocaust-Opfer identifiziert - KI soll weitere Namen finden",
+      "link": "https://www.deutschlandfunk.de/fuenf-millionen-holocaust-opfer-identifiziert-ki-soll-weitere-namen-finden-108.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Fünf Millionen der mehr als sechs Millionen im Holocaust ermordeten Juden sind inzwischen namentlich identifiziert.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Patentstreit - Nokia geht gegen Warner vor",
+      "link": "https://www.deutschlandfunk.de/nokia-geht-gegen-warner-vor-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Nokia weitet seinen Patentstreit aus und zieht gegen den amerikanischen Unterhaltungskonzern Warner Bros. Discovery vor Gericht.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mannheim - Dobrindt (CSU) will Kommunen stärken",
+      "link": "https://www.deutschlandfunk.de/dobrindt-csu-will-kommunen-staerken-106.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Die Kommunen in Deutschland benötigen nach den Worten von Bundesinnenminister Dobrindt Geld und mehr Freiheiten, um Probleme lösen zu können.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hamburg - Brandanschlag auf Auto von AfD-Bundestagsabgeordnetem Baumann",
+      "link": "https://www.deutschlandfunk.de/brandanschlag-auf-auto-von-afd-bundestagsabgeordnetem-baumann-106.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "In Hamburg ist ein Brandanschlag auf das Auto des AfD-Bundestagsabgeordneten Baumann verübt worden.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Therapie - Zweites Alzheimer-Medikament in Deutschland erhältlich",
+      "link": "https://www.deutschlandfunk.de/zweites-alzheimer-medikament-in-deutschland-erhaeltlich-104.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Das Alzheimer-Medikament mit dem Handelsnamen Kisunla ist ab sofort in Deutschland verfügbar.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Im Norden bewölkt, im Süden heiter",
+      "link": "https://www.deutschlandfunk.de/im-norden-bewoelkt-im-sueden-heiter-186.html",
+      "published": "2025-11-04T07:00:39",
+      "content": "Der Wetterbericht, die Lage: Die einfließende sehr milde Meeresluft gerät in der Südhälfte unter Hochdruckeinfluss, während die Nordhälfte von schwachen Tiefausläufern gestreift wird.",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "North Korea fires artillery rockets ahead of US defence secretary's border visit, Seoul says",
+      "link": "https://www.france24.com/en/asia-pacific/20251104-north-korea-fired-artillery-rockets-ahead-of-us-defence-secretary-border-visit",
+      "published": "2025-11-04T07:00:14",
+      "content": "Pyongyang fired around 10 rockets an hour before US Defence Secretary Pete Hegseth on Monday visited the demilitarised zone between North and South Korea, Seoul said on Tuesday.",
+      "content_length": 177,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Australia news live: federal watchdog investigating about 40 corruption matters including one that ‘relates to a grants scheme’",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/04/australia-politics-live-keating-trump-anthony-albanese-sussan-ley-david-littleproud-net-zero-policy-coalition-question-time-energy-policy-ntwnfb",
+      "published": "2025-11-04T06:54:41",
+      "content": "Follow today’s news live‘Not over’: Liberal MPs fearing calamity in city electorates launch rearguard action to salvage net zero policyGet our breaking news email, free app or daily news podcastMelissa McIntosh wants Liberals to ‘get their act together’Internal divisions haven’t stopped Coalition MPs fronting up to their morning interviews today, including shadow communications minister Melissa McIntosh, who tells ABC RN Breakfast the public want her party to “get their act together”.This is not an ideological thing that we don’t believe in climate change or any of that sort of stuff. They’re just really struggling. Their power prices are up … Dan Tehan has been very consultative with colleagues for weeks now, and there’s been a number of working groups, a number of meetings, a number of sessions for people to be involved with I think we’ll come to a position relatively soon.At the moment all [Liberals] seem to care about is their own political prospects, which are heading to oblivion if they continue to behave this way.I don’t think [Ley’s] been particularly impressive herself, to be honest, but, you know, people want the conservative side of politics to have a policy platform. We’ve seen in Victoria for many years what happens when you don’t have an effective Opposition. What you have is a poor government that can do what it likes and Australians deserve better. They need to have an effective Opposition. So I would hope that the Coalition can pull itself together in some shape or form so it can do that. Continue reading...",
+      "content_length": 1550,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jedes fünfte Kind wächst in Konfliktgebieten auf",
+      "link": "https://www.tagesschau.de/ausland/afrika/kinder-konfliktgebiete-102.html",
+      "published": "2025-11-04T06:32:43",
+      "content": "   520 Millionen Kinder lebten im vergangenen Jahr im Umfeld gewalttätiger Konflikte - vor allem in Afrika. Zehntausende wurden Opfer schwerer Verbrechen. Die Organisation Save the Children ruft die Politik zum Handeln auf.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: DAX wohl wieder im Rückwärtsgang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ki-100.html",
+      "published": "2025-11-04T06:30:13",
+      "content": "   Die schwindenden Aussichten auf eine Zinssenkung in den USA wird für die Märkte zum Belastungsfaktor. Im DAX bleibt die Marke von 24.000 Punkten eine schwere Hürde - zunächst dürfte es abwärts gehen.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Not over’: Liberal MPs fearing calamity in city electorates launch rearguard action to salvage net zero policy",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/04/liberal-mps-fear-city-electorates-poll-save-net-zero-policy",
+      "published": "2025-11-04T06:19:08",
+      "content": "Emissions policy brawl has become major threat to Sussan Ley’s leadership ahead of key meeting at end of NovemberFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLiberal MPs have launched a rearguard action to salvage a commitment to net zero emissions, with one warning the party “will pay dearly in city electorates” and undermine Australia’s international reputation if the Coalition abandons the target.The South Australian senator Andrew McLachlan said the internal campaign to preserve a net zero emissions policy was “not over” despite a growing expectation that the Liberals will follow the Nationals in dumping the climate goal. Continue reading...",
+      "content_length": 721,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bürgermeisterwahl in New York: Mamdani ist klarer Favorit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-mamdani-trump-102.html",
+      "published": "2025-11-04T06:06:11",
+      "content": "   Noch im Sommer kannten ihn nur wenige Experten - heute könnte er die Bürgermeisterwahl in New York gewinnen: Der 34-jährige linke Demokrat und Muslim Mamdani will die Stadt bezahlbar machen. Damit fordert er US-Präsident Trump heraus. Von Giselle Ucar.[mehr]",
+      "content_length": 261,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "75 Jahre Europäische Menschenrechtskonvention: Anlass zum Feiern - und zur Mahnung",
+      "link": "https://www.tagesschau.de/ausland/europa/europaeische-menschenrechtskonvention-104.html",
+      "published": "2025-11-04T05:57:42",
+      "content": "   Vor 75 Jahren wurde in Rom die \"Konvention zum Schutze der Menschenrechte und Grundfreiheiten\" unterzeichnet. Sie schreibt die Grundrechte in 46 Staaten fest. Doch immer wieder gerät das Instrument unter Druck. Von Max Bauer.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mittelalterlicher Turm in Rom stürzt ein - ein Toter",
+      "link": "https://www.tagesschau.de/ausland/europa/rom-einsturz-turm-100.html",
+      "published": "2025-11-04T05:27:28",
+      "content": "   In Rom sind Teile des mittelalterlichen Turms Torre dei Conti eingestürzt. Während Einsatzkräfte versuchten, eingeschlossene Bauarbeiter zu befreien, stürzten weitere Teile ein. Eine Person starb, drei weitere konnten gerettet werden.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Backlash after New Zealand government scraps rules on incorporating Māori culture in classrooms",
+      "link": "https://www.theguardian.com/world/2025/nov/04/new-zealand-maori-culture-school-classrooms-government-scraps-rules",
+      "published": "2025-11-04T05:08:52",
+      "content": "Minister says obligations for school boards to ‘give effect’ to the treaty are unfair while critics argue the move will sideline Indigenous educationNew Zealand’s Treaty of Waitangi – explained in 30 secondsA plan by New Zealand’s government to scrap a legal requirement on schools to incorporate local Māori culture in classrooms has been condemned by teachers, principals and school boards.Since 2020, school boards have been obligated to “give effect” to the Treaty of Waitangi, New Zealand’s founding document signed in 1840 between Māori tribes and the British Crown and instrumental in upholding Māori rights. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ofwat letting water firms charge twice to tackle sewage, court to hear",
+      "link": "https://www.theguardian.com/environment/2025/nov/04/ofwat-letting-water-firms-charge-twice-to-tackle-sewage-court-to-hear",
+      "published": "2025-11-04T05:01:19",
+      "content": "River Action bringing legal action against water regulator over who should foot bill for firms’ past failures to investOfwat is unlawfully allowing water companies to charge customers twice to fund more than £100bn of investment to reduce sewage pollution, campaigners will allege in court on Tuesday.Lawyers for River Action say the bill increases being allowed by Ofwat – which amount to an average of £123 a year per household – mean customers will be paying again for improvements to achieve environmental compliance that should have been funded from their previous bills. Continue reading...",
+      "content_length": 596,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Phillipson calls for ‘less public debate’ from EHRC on gender recognition rules",
+      "link": "https://www.theguardian.com/society/2025/nov/04/bridget-phillipson-public-debate-ehrc-gender-recognition",
+      "published": "2025-11-04T05:00:20",
+      "content": "Minister responds to calls from watchdog’s chair to approve new guidance on transgender rights ‘as soon as possible’Bridget Phillipson has urged the equalities watchdog to focus more on helping ministers do their jobs and less on having public debates as a row continues about how long it will take to implement new rules on gender recognition.The comments by Phillipson, who is the equalities minister as well as the education secretary, come after the Equality and Human Rights Commission took the unusual step of urging the government to “act with speed” in approving its statutory guidance on responding to a landmark supreme court ruling on transgender rights. Continue reading...",
+      "content_length": 685,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Spionagerisiko - Standortdaten von EU-Personal gehandelt",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/standortdaten-eu-spionage-risiko-100.html",
+      "published": "2025-11-04T05:00:06",
+      "content": "   Händler bieten Bewegungsdaten von Millionen EU-Bürgern zum Verkauf an. Weil sich nach Recherchen von BR und netzpolitik.org auch Personal von EU-Institutionen ausspähen lässt, passt die Kommission ihre Richtlinien für Mitarbeiter an. [mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Albanese government deports two more men to Nauru in secret, infuriating human rights advocates",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/04/secret-nauru-deal-nyyq-two-more-detainees-deported-albanese-government",
+      "published": "2025-11-04T04:38:39",
+      "content": "Exclusive: Sources say a Sudanese national and another man were chartered to the former regional processing centre last week, joining one other personFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnother two men from the NZYQ-affected cohort have been deported to Nauru in a process human rights advocates say is shrouded in secrecy.Sources told Guardian Australia a Sudanese national, who was detained in the Yongah Hill centre just outside of Perth, and another man held in a different centre were chartered to Nauru last week. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "RBA holds official interest rate at 3.6% while warning of rising house prices and rents",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/04/rba-holds-interest-rate-after-surprise-inflation",
+      "published": "2025-11-04T04:12:54",
+      "content": "Reserve Bank’s decision to leave cash rate on hold was widely expected and major banks predict no interest rates cut until 2026Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Reserve Bank has left the official interest rate on hold, as it warned house prices and rents will rise in 2026 after a surprise rebound in inflation.The RBA’s monetary policy board on Tuesday kept the cash rate at 3.6%, where it has sat since August. Economists and banks overwhelmingly expected no change. Continue reading...",
+      "content_length": 571,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Almost 120 flying foxes hospitalised after giant hail smashes Queensland colony",
+      "link": "https://www.theguardian.com/environment/2025/nov/04/giant-hail-queensland-flying-foxes-hospitalised",
+      "published": "2025-11-04T04:12:11",
+      "content": "Rescued bats taken to RSPCA wildlife hospital in Brisbane’s south-west with injuries including ‘faces that were smashed and broken wings’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen a severe hailstorm hit the tiny Queensland township of Esk on the weekend, it wasn’t just people ducking for cover.Almost 120 flying foxes were injured, some critically, before being rescued by volunteers and admitted to the RSPCA wildlife hospital in Wacol in Brisbane’s south-west. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Klimaziel für 2040 - Umweltminister versuchen Einigung",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-umweltrat-klimaziele-100.html",
+      "published": "2025-11-04T04:11:04",
+      "content": "   Wenige Tage vor der Weltklimakonferenz im brasilianischen Belém geht es heute in Europa um viel: Denn die EU-Umweltminister könnten die viel diskutierten Klimaziele für 2040 beschließen. Von Kathrin Schmid[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cement giant Lafarge goes on trial in France over alleged payments to jihadist groups in Syria",
+      "link": "https://www.france24.com/en/france/20251104-cement-lafarge-trial-france-jihadist-syria",
+      "published": "2025-11-04T03:59:56",
+      "content": "Cement maker Lafarge goes on trial in France on Tuesday, accused of paying the Islamic State group and other jihadists to keep its operations running in war-torn Syria. The French firm earlier pleaded guilty in the United States to providing material support to terrorists and paid a $778 million fine.",
+      "content_length": 302,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "30 Jahre nach Rabin-Ermordung: \"Jemanden wie ihn brauchen wir heute\"",
+      "link": "https://www.tagesschau.de/ausland/asien/rabin-ermordung-jahrestag-100.html",
+      "published": "2025-11-04T03:58:47",
+      "content": "   Vor 30 Jahren wurde Israels Premier Rabin nach einer Friedenskundgebung erschossen. Zum Jahrestag erinnern in Tel Aviv mehr als 100.000 Menschen an den Politiker, der den Dialog mit den Palästinensern suchte. Von B. Meier.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "New York set to elect socialist Mamdani as mayor, setting up clash with Trump",
+      "link": "https://www.france24.com/en/americas/20251104-new-yorkers-zohran-mamdani-mayor",
+      "published": "2025-11-04T03:21:25",
+      "content": "New Yorkers are projected to elect leftist Zohran Mamdani as mayor on Tuesday, a move seen as opening a new front in opposition to President Donald Trump and risking retaliation against his hometown. Off-year gubernatorial races in Virginia and New Jersey will serve as key tests of US political sentiment.",
+      "content_length": 306,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Senate Republicans strike down Democratic proposal to fully fund Snap",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/senate-republicans-snap-funds-resolution",
+      "published": "2025-11-04T03:03:23",
+      "content": "Democratic leaders decry ‘unbelievably cruel’ move, saying ‘Trump is using food as a weapon’ during shutdownSenate Republicans shot down a Democratic-led attempt to fully fund Supplemental Nutrition Assistance Program (Snap) benefits on Monday during the government shutdown – a move that heightens uncertainty for the 42 million Americans participating in the country’s biggest anti-hunger program.Jeff Merkley, a Democratic senator, and Chuck Schumer, the Senate Democratic leader, attempted to pass a resolution via unanimous consent that would have forced the Department of Agriculture to fund Snap benefits for the month of November. Continue reading...",
+      "content_length": 658,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Asyl für Ex-Regierungschefin: Peru bricht Beziehungen zu Mexiko ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-mexiko-diplomatische-beziehungen-100.html",
+      "published": "2025-11-04T02:42:45",
+      "content": "   Gegen die peruanische Ex-Ministerpräsidentin Chávez wird wegen versuchten Staatsstreichs ermittelt. Jetzt hat sie Asyl in der mexikanischen Botschaft in Lima  gefunden - für Perus Regierung ein \"unfreundlicher Akt\".[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU ministers in final push to seal emissions targets ahead of COP30 in Brazil",
+      "link": "https://www.france24.com/en/environment/20251104-eu-climate-cop30",
+      "published": "2025-11-04T02:42:24",
+      "content": "EU environment ministers will meet Tuesday for a final push to agree on 2035 and 2040 emissions targets before the UN climate summit in Belem, Brazil. “To come empty-handed… would really undermine the EU’s credibility,” an EU diplomat said, as negotiations among the bloc’s 27 states continue late into the night.",
+      "content_length": 313,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Albanese government rejects Bruce Lehrmann’s request for legal funding over corruption watchdog raid on his home",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/04/albanese-government-denies-bruce-lehrmann-legal-funding-nacc-raid-ntwnfb",
+      "published": "2025-11-04T02:26:10",
+      "content": "Former Liberal staffer, who denies allegations he misappropriated secret documents in 2019, indicates to court he fears Christmas raids from NaccFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFormer Liberal staffer Bruce Lehrmann’s request for financial assistance has been knocked back after his home was raided by the national anti-corruption watchdog.Officials from the National Anti-Corruption Commission searched the 30-year-old’s home in June 2024 over allegations he misappropriated secret documents related to French submarines five years earlier. Continue reading...",
+      "content_length": 641,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zohran Mamdani called out Donald Trump’s threat to withhold federal funding in New York City– as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/03/us-government-shutdown-donald-trump-latest-politics-news",
+      "published": "2025-11-04T02:16:34",
+      "content": "This live blog is now closed.Trump news at a glance: president endorses and threatens on eve of New York City mayoral electionLooking ahead, on Wednesday, the supreme court will hear arguments on whether Donald Trump’s sweeping tariffs on dozens of countries are legal. It’s set to be one of the most consequential rulings on the expanse of Trump’s presidential power in his second term.My colleague, Eduardo Porter, has this helpful breakdown on the question at the heart of this case. A dozen states have challenged the president’s contention that the International Emergency Economic Powers Act (IEEPA) of 1977 gives him the power to impose tariffs on imports from every country in the world to defend the nation from a several “threats” facing the US.Justices will focus much of their attention on whether IEEPA authorizes the president to levy a tariff – a word that is not mentioned in the text of the law and is, moreover, a form of taxation, over which, per the constitution, Congress has exclusive power.IEEPA gives the president authority “to deal with any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security, foreign policy, or economy of the United States, if the president declares a national emergency with respect to such threat”. Continue reading...",
+      "content_length": 1349,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Peru severs diplomatic relations with Mexico after former prime minister claims asylum",
+      "link": "https://www.theguardian.com/world/2025/nov/04/peru-severs-diplomatic-relations-mexico-former-prime-minister-claims-asylum",
+      "published": "2025-11-04T02:15:22",
+      "content": "Peru's government has severed diplomatic relations with Mexico over the asylum claim of former Peruvian prime minister Betssy ChávezPeru’s government has announced the country is severing diplomatic relations with Mexico over the asylum claim of former Peruvian prime minister Betssy Chávez, who is under investigation for rebellion.Peruvian foreign minister Hugo de Zela told reporters that Mexico’s decision to grant Chávez asylum at its embassy in Peru’s capital, Lima, constituted an “unfriendly act” that adds to the existing tensions between the two countries. The office of Peru’s president José Jerí in a statement then accused Mexico’s government of “repeated” interference with the internal affairs of the South American country. Continue reading...",
+      "content_length": 759,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/trump-mamdani-new-york-election-mayor-cuomo",
+      "published": "2025-11-04T02:12:59",
+      "content": "President backs Cuomo in election eve Truth Social post as Mamdani hits back at Trump’s ‘threat – it is not the law’On the eve of New York’s well-watched mayoral election, President Donald Trump issued a threat to its voters: stop Zohran Mamdani or pay.“If Communist Candidate Zohran Mamdani wins the Election for Mayor of New York City, it is highly unlikely that I will be contributing Federal Funds, other than the very minimum as required, to my beloved first home,” Trump said in a post on Truth Social. “I don’t want to send, as President, good money after bad.” Continue reading...",
+      "content_length": 588,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more",
+      "link": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
+      "published": "2025-11-04T02:08:26",
+      "content": "After several weeks of testing, Apple has released the final versions of the 26.1 update to its various operating systems. Those include iOS, iPadOS, macOS, watchOS, tvOS, visionOS, and the HomePod operating system, all of which switched to a new unified year-based version numbering system this fall.\nThis isn’t the first update that these operating systems have gotten since they were released in September, but it is the first to add significant changes and tweaks to existing features, addressing the early complaints and bugs that inevitably come with any major operating system update.\nOne of the biggest changes across most of the platforms is a new translucency control for Liquid Glass that tones it down without totally disabling the effect. Users can stay with the default Clear look to see the clearer, glassier look that allows more of the contents underneath Liquid Glass to show through, or the new Tinted look to get a more opaque background that shows only vague shapes and colors to improve readability.Read full article\nComments",
+      "content_length": 1047,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Vor Bürgermeisterwahl: Trump droht New York bei Wahlsieg Mamdanis",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-mamdani-trump-100.html",
+      "published": "2025-11-04T01:37:02",
+      "content": "   US-Präsident Trump will der Stadt New York Bundesmittel streichen, sollte der linke Kandidat Mamdini zum Bürgermeister gewählt werden. Letzterer gilt als Favorit - und wäre der erste muslimische Bürgermeister der Stadt.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Worker dies after being rescued from partially collapsed medieval tower in Rome",
+      "link": "https://www.theguardian.com/world/2025/nov/03/rome-tower-collapse-torre-dei-conti-italy",
+      "published": "2025-11-04T00:35:01",
+      "content": "Romanian worker was taken to hospital in ‘serious condition’ after being saved from Torre dei Conti rubble, but died soon afterA Romanian worker who was trapped for hours under rubble in Rome after the partial collapse of a medieval tower has died in hospital, just a short time after he was pulled free by emergency services.“I express deep sorrow and condolences, on behalf of myself and the government, for the tragic loss of Octay Stroici, the worker who was killed in the collapse of the Torre dei Conti in Rome,” Italy’s prime minister Giorgia Meloni said in a statement after midnight. “​We are close to his family and colleagues at this time of unspeakable suffering.” Continue reading...",
+      "content_length": 696,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jamaica rallies to aid survivors after Hurricane Melissa’s devastation",
+      "link": "https://www.france24.com/en/americas/20251104-jamaica-aid-survivors-hurricane-melissa",
+      "published": "2025-11-04T00:32:15",
+      "content": "Nearly a week after Hurricane Melissa struck Jamaica as one of the island’s strongest storms on record, authorities are rushing aid to devastated communities. The storm has killed at least 32 people in Jamaica and more than 60 across the Caribbean, Information Minister Dana Morris Dixon said Monday.",
+      "content_length": 300,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Counter-terror police investigate claim UK university halted research after Chinese pressure",
+      "link": "https://www.theguardian.com/education/2025/nov/04/counter-terror-police-investigate-claim-uk-university-halted-research-after-chinese-pressure",
+      "published": "2025-11-04T00:08:37",
+      "content": "Sheffield Hallam University ordered professor to cease human rights study into Uyghurs forced labour in ChinaAn investigation into allegations that a British university was subjected to pressure from Beijing authorities to halt research about human rights abuses in China has been referred to counter-terrorism police.The Guardian reported on Monday morning that Sheffield Hallam University, home to the Helena Kennedy Centre for International Justice (HKC) research institution, had ordered professor Laura Murphy to cease research on supply chains and forced labour in the country in February. Continue reading...",
+      "content_length": 615,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness",
+      "link": "https://www.theguardian.com/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
+      "published": "2025-11-04T00:05:13",
+      "content": "Scientists say almost all have weaknesses in at least one area that can ‘undermine validity of resulting claims’Experts have found weaknesses, some serious, in hundreds of tests used to check the safety and effectiveness of new artificial intelligence models being released into the world.Computer scientists from the British government’s AI Security Institute, and experts at universities including Stanford, Berkeley and Oxford, examined more than 440 benchmarks that provide an important safety net. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reeves to lay groundwork for tax rises in ‘candid’ speech about budget",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/04/rachel-reeves-to-lay-groundwork-for-tax-rises-speech-budget",
+      "published": "2025-11-04T00:01:14",
+      "content": "Chancellor to promise ‘fairness and opportunity’ but will not repeat manifesto pledge on tax, after PM’s hint at breachRachel Reeves will lay the groundwork for a tax-raising budget that could break Labour’s election promise on income tax, in a major speech in which she will be “candid” about the tough choices ahead.The chancellor will give the speech as the markets open on Tuesday, when she will promise to make fair choices at this month’s budget but decline to repeat her manifesto pledge of no rise in income tax, VAT or national insurance. Continue reading...",
+      "content_length": 567,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "John Lewis ad kickstarts Christmas countdown to the tune of 90s club classic",
+      "link": "https://www.theguardian.com/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives",
+      "published": "2025-11-04T00:01:13",
+      "content": "Department store chain banks on nostalgia to get customers into festive mood with Where Love LivesJohn Lewis is hoping that a dash of nostalgia will get consumers into the festive mood this year as it officially kickstarts the countdown to Christmas with the launch of its 2025 advert to the tune of the 1990s club classic Where Love Lives.The department store chain is appealing to ageing clubbers – and their teenage kids – with this year’s ad focused on a middle-aged dad transported back to his clubbing days after receiving a vinyl record from his son. Continue reading...",
+      "content_length": 577,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Schauspielerin Diane Ladd im Alter von 89 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/diane-ladd-tot-100.html",
+      "published": "2025-11-03T23:46:33",
+      "content": "   Im Alter von 89 Jahre ist die US-Schauspielerin Diane Ladd in Kalifornien gestorben. Die Mutter der Oscar-Preisträgerin Laura Dern war selbst dreimal für einen Academy Award nominiert, etwa für ihre Rolle in \"Wild at Heart\".[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "LA erupts in celebration after Dodgers clinch second World Series victory",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/los-angeles-celebrations-parade-world-series-victory",
+      "published": "2025-11-03T23:41:46",
+      "content": "Throngs of people took to the streets, and Dodger Stadium, to mark team’s nail-biting win against Toronto Blue JaysThe City of Angels erupted in celebration following the Los Angeles Dodgers’ nail-biting, seven game World Series win. Angelenos joined fans around the world in jubilation as the Dodgers became the first team in 25 years to secure back-to-back championships.Los Angeles area celebrations included a downtown parade on Monday morning, a ticketed rally at Dodger Stadium and a smattering of spontaneous parties across the city. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Worker dies after medieval tower collapses during renovation in Rome",
+      "link": "https://www.france24.com/en/europe/20251103-rescuers-worker-collapsed-medieval-tower-rome",
+      "published": "2025-11-03T23:14:10",
+      "content": "Rescuers in Rome on Monday pulled alive a worker trapped when a medieval tower partly collapsed during renovation, city authorities said. The man was taken to hospital with injuries. Prefect Lamberto Giannini described the effort as a “long rescue mission.”",
+      "content_length": 257,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US mass murderer George Banks dies in prison 43 years after rampage",
+      "link": "https://www.theguardian.com/us-news/2025/nov/03/mass-murderer-george-banks-dies",
+      "published": "2025-11-03T23:10:01",
+      "content": "Banks was convicted of killing 13 people, including his own children, in 1982 shooting in Wilkes-Barre, PennsylvaniaGeorge Banks, one of the most notorious mass murderers in the US, has died.Banks, 83, died on Sunday afternoon at Phoenix state prison in Pennsylvania, the state department of corrections said. Banks died of complications from renal neoplasm, or kidney cancer, said Montgomery county coroner Dr Janine Darby. Continue reading...",
+      "content_length": 444,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "I tested 30 smart locks, and these are the best",
+      "link": "https://www.theverge.com/23393163/best-smart-door-lock",
+      "published": "2025-11-03T22:42:23",
+      "content": "\n\n\n\t\n\t\t\n\nA smart lock is an easy solution to some common problems. Locked yourself out? Need to let a friend in to water the plants? Your latchkey kid lost their key? Hands are full, and it’s raining cats and dogs? A smart lock solves all of these problems and more.\n\nOne of the best smart home upgrades you can make, a smart lock gives you remote control access to your house from anywhere, plus easy, key-free ways to unlock and lock your door. Smart locks also remember everything that happened, so they can tell you when your door was unlocked, and sometimes who did it.\n\nFor most people, control and convenience are big enough selling points. However, smart locks also work nicely with other smart home devices, including video doorbells and smart lighting. My favorite way to integrate locks in my home is with an evening&nbsp;smart home&nbsp;routine, which locks the doors, dims the lights, and sets my thermostat to sleep mode. We have four exterior doors, so it saves me from walking around the house at night checking everything is secure.\n\nHaving a connected lock on your door is as secure as a standard lock, and sometimes more. Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it&#8217;s harder to physically pick a lock without a keyway. Plus, any smart lock is more secure than leaving a spare key under a flowerpot.\n\nI’ve been testing smart door locks for six years and have installed more than 30 for this guide alone. Here are my top picks for your front door. Whether you want the best of the best, don&#8217;t want to replace your existing lock, are on a budget, or want a smart lock that doesn&#8217;t look like a smart lock, there are great options for every need.\n\n\n\nBest smart lock\nKwikset Halo Select\n\nScore: 8ProsConsExcellent auto-unlock functionChoice of Wi-Fi or Matter-over-ThreadGreat designDiscreet door sensorCan be rekeyedHave to choose between Thread and Kwikset’s auto-unlockNo Home Key or biometric accessTouchscreen shows fingerprintsProminent Kwikset branding\nWhere to Buy: $279 $259 at Amazon $279 $259 at Home Depot $279 $259 at Lowes\nConnectivity: Wi-Fi, Thread / Access options: Key, keycode, app, voice / Auto-unlock: Yes / Battery type: Four AA batteries / Battery life: Six to 12 months / Guest codes: Yes / Security rating: ANSI Grade AAA / Works with: Amazon Alexa, Google Assistant, Matter (including Apple Home, Samsung SmartThings)\n\nThe Kwikset Halo Select ($279.99) is a good-looking, reliable smart lock with top-notch security ratings, broad smart home compatibility, and the best auto-unlock function I’ve tested to date.\n\nI strongly believe a smart lock should look good on your door, and the Halo Select does exactly that, plus it can blend in with both traditional and contemporary door sets. (But I could do without the prominent Kwikset branding.)\n\nOf the four entry methods — a keyway (which is re-keyable), a touchscreen keypad, app/smart home control, and auto-unlock by location — I liked the last one the best. It worked so well that I didn’t mind that it lacks a fingerprint reader or Apple Home Key.\n\nMy experience with automatic unlocking on other locks (which uses a combination of Bluetooth, GPS, and Wi-Fi to determine your location) has been generally frustrating, but on the Halo Select, it’s been flawless. It unlocks just as I approach my porch, making coming home and opening the door a virtually hands-free experience.\n\nThe Select can also auto-lock based on your location, not just after a set amount of time, as most locks offer. I also like the Halo Select’s LED lock indicator on the touchscreen, which tells you at a glance if the door is locked or unlocked.\n\nThe Halo Select has built-in Wi-Fi and a Thread radio, but you have to pick one. \n\nIf you set it up with Wi-Fi, you can use the Kwikset app and connect to Amazon Alexa and Google via the cloud. With Matter, you can connect to those platforms locally and also to Apple Home and others, but you won’t be able to use the Kwikset app after setup, so you lose the auto-unlock feature, among others.\n\nKwikset’s auto-unlock feature worked flawlessly in testing\n\nMatter-over-Thread does promise better battery life — and long-term testing bears this out — as well as the ability to easily share the lock with other ecosystems. I set it up in Apple Home, Google Home, and Samsung SmartThings via Matter with no issues and could control it with all three via routines, automations, and voice commands.\n\nIt’s a shame to have to choose between using Matter and some of this lock’s best features, but this is a problem across Matter, not specific to Kwikset. Kwikset’s solution allows you to use its advanced features today while still having the future-proofing potential of Matter for tomorrow.\n\nKwikset recently launched the Halo Select Plus, which we’re currently testing. This adds Apple Home Key support, but at $329, you’re paying a lot more for this one added function. Other recent updates include new finishes for the Halo Select line.\n\nRead my review of the Kwikset Halo Select.\n\nBest budget smart(ish) lock\nWyze Lock Bolt\nThis inexpensive smart door lock has a lightning-fast fingerprint reader plus an easy-to-use, backlit keypad. It’s Bluetooth-only (unless you also buy its compatible video doorbell to act as a Wi-Fi bridge), so the battery lasts over a year. At under $80, it’s the best budget lock we tested.\n\nScore: 7ProsConsInexpensive Good fingerprint readerOffline access codesLong battery lifeNo Wi-Fi No smart home supportLarge rear housing\nWhere to Buy: $79.98 $71.71 at Home Depot $79.98 at Amazon $79.98 at Wyze\nConnectivity: Bluetooth 5.0  / Access options: Fingerprint, keypad, app / Auto-unlock: No / Battery type: Four AA batteries  / Battery life: One year / Security Grade: ANSI/BHMA Grade 3 / Guest codes: Yes / Works with: N/A\n\nThe Wyze Lock Bolt is a good choice if you want something inexpensive and useful and don’t care about smart home integration — or prefer a lock without it. It’s not sleek or stylish; it’s just a big hunk of black plastic (there’s also a satin nickel version). Out of the box, it doesn’t connect to Wi-Fi or integrate with any smart home systems, but it does have an easy-to-use backlit keypad and a lightning-fast fingerprint reader. It’ll auto-lock if you want, and it’s half the price of most smart locks in this list.\n\nIn addition to the fingerprint reader and keypad, the Wyze Lock Bolt can be controlled over Bluetooth, and its range is very good. I could lock the door from my bedroom at the other end of the house using the Wyze app. That’s important, as there’s no way to lock the door on a schedule (although you can enable auto-lock).\n\nThe Wyze doesn’t connect to Wi-Fi or integrate with any smart home systems \n\nThe Bolt doesn’t integrate with smart home platforms, but if you don’t need to control your lock with your voice or plan to add it to any smart home routines, you won’t miss those features. It also delivers up to a year of battery life on four AAs — I tested it for three months and it only lost 15 percent.\n\nBut without Wi-Fi, I couldn’t check on it or control it when I was away from home, so turning on the auto-lock option is a must. If I wanted to let someone in while I was gone, I couldn’t unlock the door remotely, but I could generate an offline code in the Wyze app and share that. This uses similar technology to two-factor authentication codes and worked perfectly in my testing.&nbsp;\n\nSince I tested the lock, Wyze has introduced an integration with its Wyze Video Doorbell Pro that lets you unlock the Bolt remotely when paired with the doorbell — but it doesn’t let you lock it remotely, which is odd. Of course, if you enable auto-lock, this is less of an issue.\n\nBest retrofit smart lock\nNuki Smart Lock\nNuki Smart Lock\n\nScore: 9ProsConsLightning fastNice, compact designSimple to installSupports Wi-Fi and Matter over ThreadNo account requiredBroad smart home compatibilitySubscription required for remote access (without Matter)No Apple Home KeyProprietary charging cableNo door sensor included\nWhere to Buy: $159 at Amazon \nConnectivity: Bluetooth, Wi-Fi, and Matter-over-Thread / Access options: Key, app, voice, fingerprint and keypad (sold separately) /  Auto-unlock: Yes / Battery type: Non-removable, rechargeable / Battery life: Up to 12 months / Guest codes: Yes / Works with: Amazon Alexa, Google Home, Apple Home, Samsung SmartThings\n\nThe Nuki Smart Lock is the most advanced retrofit smart lock we’ve tested, and a worthy replacement for our previous pick, the August Wi-Fi Smart Lock. It features a compact design and lightning-fast locking — even quicker than manually turning the lock — and it works over Bluetooth, Wi-Fi, and Matter over Thread, the latter of which enables out-of-home control and notifications through any Matter-compatible smart home platform.\n\nWhereas most smart locks feature a big, bulky design, the Nuki Smart Lock boasts a minimalist style with a premium look and feel. Installation is straightforward — simply remove the thumbturn from your existing deadbolt, replace it with a blackplate, and snap the Nuki into place. Once it’s installed, you can get up and running without signing up for an account, which is a rare feature for a smart lock.\n\nThe Nuki app gives you access to multiple settings and customization options. In addition to standard features like key sharing with family members and enabling auto-lock and auto-unlock, it supports schedules, an activity log, and a convenient Night Mode, which can lock the door at a set time, disable auto-unlock, and enable auto-lock.\n\nIf you don’t have a Matter hub and a Thread border router — like a HomePod — Nuki offers a subscription service called Nuki Premium ($5.90 per month). It adds features like remote access, lock activity notifications, and integration with rental platforms like Airbnb. Another possible upgrade is the optional keypad, which supports both PIN codes and fingerprints, making it easy for friends, family, and guests to gain access without needing to download an app. Although the fingerprint reader works well, there is no backlight, making nighttime use tricky without a porch light. The current keypad doesn’t support Apple Home Key, though Nuki is planning to release one later this year with ultra-wideband unlocking (UWB) and NFC support.\n\nNuki’s smart lock has a built-in battery that can last for months, and it only takes a few hours to fully recharge. While a non-removable battery raises concerns about longevity — smart locks generally use AA batteries — Nuki claims it should last 10 years. After that, the company says a replacement plan will be offered.\n\nRead our review of the Nuki Smart Lock.\n\nBest smart lock for renters\nYale Approach Lock with Wi-Fi\nThis slimline, easy-to-install, inexpensive retrofit lock is a simple solution with a year of battery life. It requires a plug-in bridge for out-of-home control and doesn’t work with Apple Home. The optional keypad adds to the cost but also to the convenience. \n\nScore: 7ProsConsEasy installOption of fingerprint keypadA year of battery lifeRequires Wi-Fi bridgeKeypad is big and uglyNo support for Matter\nWhere to Buy: $129.99 $96.34 at Amazon $239.99 at Yale (with fingerprint keypad)\nConnectivity: Bluetooth and Wi-Fi (with plug-in module) / Access options: Key, app, voice, keypad and fingerprint reader sold separately / Auto-unlock: Yes / Battery type: Four AA alkaline batteries / Battery life: 12 months / Guest codes: Yes / Works with: Amazon Alexa, Google Home, Samsung SmartThings\n\nStarting at $130, the Yale Approach is a more affordable retrofit lock with no monthly subscription. It’s super easy to install, looks nice, and has a good list of features — auto-lock, auto-unlock, app and voice control. Add the Bluetooth keypad to get one-touch locking, key code, and fingerprint access.\n\nThe Approach replaces your thumb turn, so you can still use your current lock and key — making it a great option if you are renting and don’t want to annoy your landlord. It has a nice, slim profile and blends in better than the rear housing of most smart locks.\n\nThe lock comes in black or silver and took me less than five minutes to install. It uses four AA batteries and promises 12 months of battery life. This is because there is no built-in Wi-Fi; instead, it uses an included plug-in bridge.\n\nThe bridge adds out-of-home control and connection to smart home platforms, including Alexa and Google Home, but there’s no Apple Home support). This allows for voice control and adding it to smart home routines. Yale told me there’s an onboard Thread radio that will be activated to support Matter, but didn’t say when this would arrive.\n\nThe optional Bluetooth keypad lets you control the lock from the outside without using an app or key, and it worked promptly and reliably. There’s the option of a fingerprint version, and that was similarly a good experience — just touch and open. The keypad also allows you to lock the door when you leave by pressing the Yale logo button. \n\nThe keys are a bit sensitive; I frequently get double inputs when pressing. But I liked the LED indicator that notifies you with green if your code was accepted or red if there’s an issue. This made it easy to know if the input worked, as the lock is very quiet — it’s hard to hear it locking or unlocking.\n\nMy biggest disappointment is the look of the keypad. It’s big, wide, and black, with prominent white numbers that don’t disappear when not in use — it looks a bit like a toy keypad on your door.\n\nBest fingerprint smart lock\nYale Assure Lock 2 Touch\nThis fingerprint lock is fast and reliable, and the keypad is a good backup option for visitors. It works with Apple Home and can be upgraded to support Wi-Fi — which you’ll need for remote unlocking, Android phones, Amazon Alexa, and Google Home support. Auto-unlock can open the door as you approach, and you can also use a key if you just can’t let go.\n\nScore: 8ProsConsFast fingerprint readerNice, compact designWorks with Apple HomeCompatible with Wi-Fi and Z-WaveTouchscreen isn’t intuitiveAuto-unlock can be slow / unreliableNo Matter supportProminent Yale brandingAdditional connectivity options cost extra\nWhere to Buy: $189.99 $185.99 at Amazon (Bluetooth) $279.99 $269.99 at Amazon (Wi-Fi)\nConnectivity: Bluetooth (can add Wi-Fi, Z-Wave) / Access options: Key, keypad, fingerprint reader, app, voice / Auto-unlock: Yes / Battery type: Four AA batteries / Battery life: Six months to a year / Guest codes: Yes / Security rating: ANSI/BHMA Grade 2 / Works with: Apple Home, Amazon Alexa, Google Home, Samsung SmartThings\n\nThe Yale Assure 2 line — previously my top pick — has something for everyone. There’s an option with or without a keyway, with a touchscreen keypad or a physical keypad, or with Apple Home Key, but my favorite model is the Yale Assure Lock 2 Touch with a built-in fingerprint reader. It costs $279.99, and the built-in fingerprint reader is fast and efficient. I tested the touchscreen version, but Yale recently released a keypad version. Unless you really value the clean look of the touchscreen (which is blank when off), go with the keypad — it’s much easier to use.\n\nThe Yale Assure 2 is a good-looking lock that works with every smart home platform with its swappable modules. Its slimline design (both front and back), wide smart home compatibility, easy-to-use app, and good selection of unlocking options — including fingerprint unlock — make it a great option for your front door.&nbsp;\n\nThe lock supports Bluetooth out of the box and works with the Yale Access app and Apple Home app (which adds remote unlocking if you have an Apple Home hub). Along with a keycode, fingerprint reader, or key, you can also choose to use auto-unlocking. Auto-unlock is a decent alternative to fingerprint unlock, but I found I often had to wait at the door for a second or two before it worked. Still, it’s faster than fumbling through a purse for keys when your hands are full.\n\nSupport for other platforms and remote unlocking comes through Yale’s ingenious swappable networking modules, which cost around $80 each. There’s a Wi-Fi module to add Alexa and Google Home integration and a Z-Wave module for compatibility with (some) SmartThings hubs, Ring Alarm, and other Z-Wave hubs. Yale promised support for Matter via a Matter-over-Thread module back in 2022, but this still hasn’t materialized. They have announced a different lock that uses Thread, but it doesn’t have a fingerprint reader. I plan to test this soon.\n\nI tested the Wi-Fi module in the Assure 2 Touch, which worked well with Amazon Alexa and Google Home. It allowed me to add the lock to Alexa Routines, lock and unlock it with my voice, and control it away from home. The downside is that control over Wi-Fi is considerably slower than over Bluetooth and drains the battery more quickly. Yale estimates up to a year on Bluetooth only, compared to six months over Wi-Fi; I got about four months.\n\nRead my review of the Yale Assure Lock 2 Touch.\n\nBest smart lock that works with Apple Home Key\nSchlage Encode Plus\nThe Encode Plus is a high-end, reliable smart lock that works with Apple Home and has Home Key compatibility. It also has a Thread radio on board, which helps with connectivity and battery life.\n\nScore: 8ProsConsSupport for Apple Home and Home KeyWorks over ThreadEasy-to-use keypadNice design options that may match your hardwareExpensiveQuite loudNo Matter support\nWhere to Buy: $329.99 $259 at Amazon $329 $259 at The Home Depot $297.09 at Build\nConnectivity: Wi-Fi or Thread / Access options: Key, keypad, app, voice, Apple Home Key / Auto-unlock: No / Battery type: Four AA batteries / Battery life: Up to six months / Security Grade: ANSI Grade 1 / Guest codes: Yes / Works with: Apple Home Key, Amazon Alexa, Ring, and Google Home\n\nApple Home Key lets you use your iPhone or Apple Watch to tap to unlock your door in much the same way as you tap to pay. It uses an NFC chip in the lock, and is fast, efficient, and secure. There are no apps to open, no buttons to press, and no need to unlock your phone (although you can add that step as an extra security layer). However, it does require an Apple device; it won’t work on Android. \n\nHome Key took a while to gain adoption, but there are now several options (and should soon be more as Apple has made it part of Matter). The Schlage Encode Plus is still the best option — if one of the most expensive — as it has a built-in keypad and works over Thread. \n\nThe keypad is useful for giving access to people with whom you can’t share a Home Key (sharing is quite limited), and Thread makes for a rock-solid connection. While it won’t be updated to support Matter, the Thread radio adds better battery life and a more stable connection to Apple Home than Bluetooth. I have had numerous connectivity issues in HomeKit with Bluetooth-only locks.\n\nTo use Home Key, you need to have an Apple Home Hub, such as an Apple TV or HomePod. Adding the lock to the Home app automatically adds the Home Key card to your Wallet, as well as that of anyone else you have added to your Apple Home. That’s much easier than getting household members to download a whole new app for the door lock. I should know — I try regularly. \n\nTo allow someone not in your household to control the lock, you’ll have to give them a standard PIN, which you can do in the Apple Home app or the Schlage Encode app. If you like, you can set this lock up entirely in the Home app and never have to use the manufacturer’s app.&nbsp;\n\nRead our review of the Schlage Encode Plus.\n\nBest smart lock that doesn’t look like a smart lock\nLevel Lock Pro\n\nScore: 8ProsConsNo brandingSmall and unobtrusiveSupports Home KeyWorks over ThreadBroad smart home compatibility through MatterDoor senseExpensiveKeypad costs extraAuto-unlock can be unreliableNot ideal for older doors\nWhere to Buy: $349 at Level\nConnectivity: Bluetooth, Thread, Wi-Fi with bridge / Access options: Key, app, voice, keypad (sold separately), Apple Home Key / Auto-unlock: Yes / Battery type: One CR2 battery / Battery life: 12 months / Guest codes: Yes / Works with: Matter, Apple Home, Google Home, Amazon Alexa, Samsung SmartThings\n\nIf you don’t want a smart lock that looks like a smart lock, there’s the Level Lock Pro. It doesn’t feature a chunky battery box or prominent branding, yet it packs a ton of technology inside the footprint of a traditional lock. The newer model features an upgraded processor, Matter-over-Thread support, a passive infrared sensor for presence detection, and a built-in door sensor to tell you if the door is open or closed, not just locked. It also comes in one of two discreet finishes, matte black or nickel, and offers up to a year of battery life with a single CR2.\n\nIn terms of execution, the faster dual-core Bluetooth/Thread chip delivers more reliable performance than earlier models — including our former pick, the Level Lock Plus — and the lock offers support for multiple access options. You can unlock the Lock Pro with a regular key, Apple Home Key, the Level app, voice control, auto-unlock, or a touch-to-unlock mode. We found the auto-unlock feature to be finicky at times, though, and the installation can be a headache on older doors. It’s also pricey, starting at $349 (plus an optional $79 Wi-Fi bridge).\n\nThat said, if you want a lock that offers premium features and a sleek design, the Lock Pro feels like the brand’s most fully realized vision of what a minimalist smart lock should be.\n\nRead our hands-on impressions of the Level Lock Pro.\n\nBest smart lever lock\nAqara Smart Lock U300\n\nWhere to Buy: $229.99 $179.99 at Amazon\nConnectivity: Thread / Access options: Key, app, voice, keypad, NFC tag, Apple Home Key / Auto-unlock: No / Battery type: Four AA batteries / Battery life: 10 months / Guest codes: Yes / Works with: Matter, Apple Home, Amazon Alexa, Google Home, Samsung SmartThings\n\nThe Aqara U300 is a lever-style smart lock; it replaces a knob or lever lock on a door with a single borehole rather than a door with a deadbolt lock with two holes. This type of lock is traditionally found on interior doors, pedestrian doors into garages, or side doors.\n\nThere are options for smart lever locks from Yale, Schlage, and Lockly, but the U300 is the only one with Home Key compatibility and a built-in fingerprint reader. It also works over Thread and supports Matter.\n\nI installed it on my garage door, and it works like a charm. The fingerprint reader is right where you put your thumb to open the door, so I barely notice it unlocking as I walk in. It also has a keypad, and I can use my iPhone or Apple Watch for Home Key. It’s set to auto-lock by default, but you can enable passage mode directly on the lock if you don’t want it to stay locked all the time.\n\nIt paired to Matter easily — I set it up in Apple Home and could add a code and Home Key all without even opening the Aqara app. Because it uses Thread, there’s no need for an Aqara hub. Thread also enables up to 10 months of battery life, according to Aqara.\n\nI love the idea of using smart locks on other doors in my home. I could see this working on a basement door, a home office, or any other room you like to keep people out of. However, I would like to see a way to permanently enable passage mode. Currently, you have to do it on the device, and it reverts to auto-lock after an undetermined period. This makes it somewhat useless for interior doors. It’s also very large and only comes in black or silver, so it likely wouldn’t blend in with your interior decor. A slimmer option, in more colorways, designed for inside use would be nice to see.\n\nThe U300 is expensive at $230, but it&#8217;s similar to other outdoor-rated options (it’s IPX4-rated). The addition of Thread — a protocol that works over a mesh network — makes it easier to extend connectivity further to places like a shed or garage.\n\nBest smart lock that’s also a video doorbell\nEufy FamiLock S3 Max\n\nScore: 7ProsConsDigital peephole is usefulPalm unlock is fastNo subscription fees for videoLock supports MatterFacial recognition with HomeBaseVery expensiveNighttime video is not greatNo package detectionHomeBase required for most smart alerts\nWhere to Buy: $399.99 $299.99 at Amazon $399.99 $299.99 at Eufy $399.99 at The Home Depot\nConnectivity: Wi-Fi or Eufy HomeBase / Access options: Key, palm unlock, keypad, app, voice / Auto-unlock: No / Battery type: Removable, rechargeable lithium-ion battery, AAA backup / Battery life: Five months / Guest codes: Yes / Security rating: ANSI Grade 1 / Works with: Matter (including Apple Home), Amazon Alexa, and Google Home\n\nEufy’s new FamiLock S3 Max combines a smart lock and video doorbell in one device and features a digital peephole and a wave-to-unlock function. It also has a keyway and keypad and supports Matter-over-Wi-Fi, so it can work with all the major smart home platforms.\n\nMy favorite of all these features is the video screen on the inside part of the lock, which shows a live feed of who is on the other side of the door. If you have a peephole or a window in your door, this might not be much use — and you can opt to get the lock without the screen for $50 less. But as a quick way to confirm who is at your door before opening it, it&#8217;s super handy.\n\nThe lock has another fairly unique feature: palm vein recognition technology. This lets you wave your hand over it to unlock it, and is an alternative form of biometric access to the popular fingerprint reader.\n\nPalm unlocking isn’t any faster or easier than using your fingerprint, though, and I found it harder to get used to. But once I got the hang of it, it worked reliably. Both my kids also picked it up quickly, and my husband, who has trouble with fingerprint locks in general, really liked it.\n\nThe main reason to buy this lock is for the video doorbell feature. The FamiLock’s 2K camera provides clear, crisp video during daylight hours and decent night vision, although my protruding door frame reflected the LEDs, causing the footage to blow out a bit.\n\nThe 180-degree diagonal field of view meant I could see top to bottom and all of one side (not the other side, though, due to the aforementioned door frame). But packages and people were clearly visible, which is most of what you want to see with a doorbell camera.\n\nThere’s no fee for viewing recorded footage of visitors in the Eufy app, and videos are stored locally on the device. Live view and recording pulled up promptly in the app, and the doorbell can alert you when it sees a person. For more advanced smart alerts, including facial recognition, you need to connect it to a Eufy HomeBase.\n\nBear in mind, Matter integration only controls the lock, as cameras aren’t supported by the standard yet, so the benefits of using Matter are fairly limited. (If you’re looking for a biometric Matter lock,&nbsp;Eufy’s E30 is a good fingerprint lock that uses Matter-over-Thread.)\n\nAdding a video doorbell to a smart lock puts a lot of strain on the battery. While you can adjust several settings to help save power, Eufy says you’ll only get about five months of battery life from the lock’s giant 15,000mAh removable battery. Handily, four AAA backup batteries are tucked into the top to keep it functioning while you’re recharging the battery (which takes a while). I’ve been testing it for over a week, and the battery indicator hasn’t budged yet.\n\nAt $400, this is a very expensive lock, but it works well and provides dual functionality of a doorbell and door lock.\n\nRead my review of the Eufy FamiLock S3 Max.\n\nBest facial recognition smart lock\nLockly Visage\n\nScore: 8ProsConsFacial recognition is super fastHome Key and a fingerprint readerCompact designComes with two rechargeable batteriesKeypad is hard to see, fiddly to useWired door sensor is uglyNo support for Matter\nWhere to Buy: $349 at Amazon $349 at The Home Depot $349 at Lockly\nConnectivity: Wi-Fi (2.4gHz) / Access options: Fingerprint, facial recognition, app, voice, keypad, Home Key, key / Auto-unlock: No / Battery type: 10,000mAh rechargeable / Battery life: Eight months / Guest codes: Yes / Security rating: ANSI Grade 1 / Works with: Apple Home, Amazon Alexa, Google Home\n\nI was very impressed with the Lockly Visage. The first facial recognition residential smart lock on the market, it also features a fingerprint reader, a keypad, a keyway, and Apple Home Key — that&#8217;s a lot of high-tech ways to unlock your door. And while it&#8217;s probably too much lock for most people, if you are a super smart home user or a major gadget nerd, you’ll love this lock.\n\nI was skeptical about the facial unlocking at first, but it worked really well, opening a second or two before I put my hand on the handle. The only caveat is that I had to be approaching face-on, which in most cases I was, but the couple of times I approached from a slightly odd angle, it failed to unlock. In those cases, though, I had the option of using my fingerprint or Home Key.\n\nThere’s also a touchscreen keypad, which is mainly useful for handing out codes to guests and visitors whose faces and fingers you don’t want to scan into your lock. The keypad is probably my least favorite part of the lock; it&#8217;s very small, which is good for the overall look, but fiddly to access. It&#8217;s also hard to see in bright light. But with all the other ways to unlock, this isn’t a deal-breaker.\n\nNote that the Visage doesn’t take video or still images; its infrared camera is only used for facial recognition, data for which is stored on the device. Lockly does have a video doorbell version for $429, though that doesn’t have facial recognition.\n\nSurprisingly, despite all the tech packed into it, the lock is compact and stylish-looking and works with the redesigned Lockly Home app, which is now more straightforward and easier to use. The lock works over Wi-Fi and supports Apple Home, Google Home, and Alexa, but there’s no support for Matter.\n\nLockly claims eight months of battery life with its included rechargeable 10,000mAh battery. Uniquely, it comes with two batteries, so you can swap one and keep the lock online while charging the other. \n\nAt $350, the Lockly Visage is very expensive, but considering the tech packed into this lock, plus the two batteries, it’s not outrageous. Its solid build, broad smart home compatibility, and multiple very cool ways to control it make this a great lock.\n\n\n\nOther smart locks to consider\n\n\nEufy’s E30 smart lock works with both Matter-over-Thread and Wi-Fi. It has a fingerprint reader, key, and keypad, and you can use the fingerprint access through the Eufy app while connecting it to platforms like Apple Home through Matter. Unlike the Kwikset Halo Select, you can use Wi-Fi and Thread simultaneously, which is unusual. I’ve not tested it long enough to determine if you still benefit from Thread’s better battery life. It’s cheaper than the Halo, has a fingerprint reader instead of auto-unlock, and promises 8 months of battery life. It can also integrate with a Eufy doorbell to control it from a live view. It has a nice compact design, but the rear housing is huge to fit 8 AA batteries. The lock is loud in operation, and the fingerprint reader was finicky; it also has the lowest ANSI/BHMA rating.\n\n\n\nU-tec’s Bolt Fingerprint Matter works over Thread and can be set up directly in your smart home platform of choice — no need to use U-tec’s U Home. But if you want to use its built-in fingerprint reader, you’ll need to download the app. And if you don’t use it, then it&#8217;s kind of a waste of space, so the whole “you only need one app” feature falls flat. I also don’t love the design of the Ultraloqs, while smaller on the exterior than most smart locks, they are squat and chunky looking, resembling a combination lock rather than door hardware. It also uses eight batteries, which is an absurd amount, and is very noisy.\n\n\n\nIf you’re an Amazon Alexa Ring household, the&nbsp;Schlage Encode Wifi&nbsp;lock is a good option; it integrates with the Ring app, so you can lock and unlock it while viewing a live feed from your&nbsp;Ring doorbell. Its design will also match a Schlage door set, which is important for some people. There’s no door-sensing or auto-unlock option, but you have three reliable ways to get in: a key, a PIN, and the app. It also lasts at least six months on one set of four AAs.\n\n\n\nIf you want Home Key but the Schlage is too expensive or not your style, the Aqara U50 is a good, inexpensive alternative that’s less than half the price of the Schlage. It doesn’t have as good a build quality, and the keypad is a bit finicky, but it works with Apple Home and Home Key out of the box. (You‘ll need an Aqara hub for any other smart home integrations, including Matter.) It also pairs with Aqara’s G4 video doorbell to unlock the door while viewing video from the live feed. (Aqara has a doorbell that’s also a hub).\n\n\n\nThe Aqara Smart Lock U100 is a Matter-compatible smart lock that also works with Apple HomeKit and Home Key. A full replacement deadlock that can be unlocked by key, keypad, NFC key fob, fingerprint, voice control, through an app, or with Apple Home Key. It&#8217;s a good lock, but its smart home integrations are complicated, and there are now better options.\n\n\n\nThe Yale Assure SL with Matter Module is a Matter-over-Thread deadbolt smart lock. It’s simple, with a clean design and a touchscreen keypad for entry. There’s no keyway, fingerprint reader, or Apple Home Key, but in terms of simplicity, reliability, and future-proofing, it’s a good option. It&#8217;s one of the few locks you can connect directly to your smart home platform of choice without needing to download the manufacturer’s app — the Assure SL doesn’t even work with Yale’s app.\n\n\n\nThe SwitchBot Lock Pro&nbsp;is an all-around upgrade to one of my previous favorite locks, the SwitchBot lock (which is now discontinued). It’s a great solution if you have an unusual lock, as it can work on almost any door; it has higher-quality materials than the original, but now requires you to replace the rear of your lock (as most retrofit locks do). It does support Matter through a bridge, but for $200, I would still opt for Nuki.\n\n\n\nThe Kwikset Halo Touch is a Bluetooth and Wi-Fi fingerprint lock with a traditional keyway. As there’s no keypad, it looks more like a standard lock with the bonus of easy access. This is more limiting when it comes to sharing access to your door, but it’s a good solution for anyone who wants a simple key-free way into their home and knows they won’t need to share lots of digital keys.\n\n\n\nThe Tapo DL100 is a $70 smart lock with built-in Wi-Fi, a keypad, and a physical key, plus access via the Tapo mobile app and smart home integrations. It’s cheaper than my budget pick, the Wyze Bolt, and includes Wi-Fi for remote access, but you don’t get a fingerprint reader. It works with Tapo’s excellent video doorbells.\n\n\n\n\nWhat’s coming next and what I’m currently testing\n\n\nThe SwitchBot Lock Ultra Vision is a retrofit smart lock that features a keypad with built-in facial recognition. The keypad also has a fingerprint reader and auto-unlock. The lock can work with almost any style of door lock, connects over Bluetooth, and works with Apple Home (through Matter), Amazon Alexa, and Google Home, with a SwitchBot hub. \n\n\n\nThe Yale Smart Lock with Matter (pictured) is a $170 smart lock that uses Thread and is a full-deadbolt replacement featuring a keypad and keyway for access. It’s designed to pair with Google’s Nest video doorbells.\n\n\n\nThe Ultraloq Bolt NFC ($249) is U-tec’s first Apple Home Key smart lock, and it now supports tap-to-unlock on Android phones. There’s no fingerprint reader, but there is a keypad and a physical key. Built-in Wi-Fi adds support for Amazon Alexa, Google Home, and Samsung SmartThings.\n\n\n\nThe Schlage Sense Pro is the company’s first lock to support Matter&nbsp;and one of the first to use&nbsp;ultra-wideband technology (UWB)&nbsp;for hands-free unlocking is scheduled to launch this year. It has a keypad but no keyway and will work with the Aliro standard when it launches. This means it should support a version of Apple Home Key.\n\n\n\nU-tec’s&nbsp;Ultraloq Bolt Mission&nbsp;is a $400 lock that will work with UWB for hands-free unlocking; it also has a keypad and a keyway, and the company says it will support Matter when it launches.\n\n\n\nKwikset says it&#8217;s launching the Aura Reach later this year, a Matter-over-Thread version of its midrange Aura line.\n\n\n\nWyze’s Palm Lock is a $130 palm-scanning door lock that allows users to unlock their door with the wave of a hand. It uses palm vein recognition to identify registered users, and it can also be unlocked using a physical key, a code, or Wyze’s mobile app. Battery life is rated at up to six months, while a backup battery can power the lock for up to two weeks. It also features Wi-Fi support, so it can be locked and unlocked from anywhere your phone has internet access.\n\n\n\nThe TCL D2 Pro is another palm-scanning door lock that promises near-instant recognition and 99.99 percent accuracy. It supports real-time notifications, a 10,000mAh battery, auto-lock, and multiple access options, including a physical key, a keypad, via Google Home or Amazon Alexa, app control, and a key FOB. Additionally, TCL says your data is stored locally for enhanced privacy and security.\n\n\nSmart lock FAQs\n\nPhotography by Jennifer Pattison Tuohy / The Verge\n\nUpdate, November 3rd: Updated to reflect current pricing / availability. Brandon Russell also contributed to this post.",
+      "content_length": 37670,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump threatens Nigeria with U.S. military action amid claims of Christian persecution",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251103-trump-threatens-nigeria-with-u-s-military-action-amid-claims-of-christian-persecution",
+      "published": "2025-11-03T22:38:56",
+      "content": "Nigerians across the religious spectrum hit back at Donald Trump's threats of US Strikes in the country, over the killing of Christians. Experts claim the ongoing violence is based on poor management and policing -- with all groups affected. The International Criminal Court warns that atrocities committed in Sudan's El-Fasher could constitute war crimes and crimes against humanity. And we head to Senegal, where beach wrestling is about to make its Olympic debut at the 2026 Youth Games in Dakar.",
+      "content_length": 499,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice",
+      "link": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
+      "published": "2025-11-03T22:20:38",
+      "content": "\n\n\n\t\n\t\t\n\nOpenAI says ChatGPT’s behavior “remains unchanged” after reports across social media falsely claimed that new s updates to its usage policy prevent the chatbot from offering legal and medical advice. Karan Singhal, OpenAI’s head of health AI, writes on X that the claims are “not true.”&nbsp;\n\n“ChatGPT has never been a substitute for professional advice, but it will continue to be a great resource to help people understand legal and health information,” Singhal says, replying to a now-deleted post from the betting platform Kalshi that had claimed “JUST IN: ChatGPT will no longer provide health or legal advice.”\n\nAccording to Singhal, the inclusion of policies surrounding legal and medical advice “is not a new change to our terms.”\n\nThe new policy update on October 29th has a list of things you can’t use ChatGPT for, and one of them is “provision of tailored advice that requires a license, such as legal or medical advice, without appropriate involvement by a licensed professional.”\n\nThat remains similar to OpenAI’s previous ChatGPT usage policy, which said users shouldn’t perform activities that “may significantly impair the safety, wellbeing, or rights of others,” including “providing tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations.”&nbsp;\n\nOpenAI previously had three separate policies, including a “universal” one, as well as ones for ChatGPT and API usage. With the new update, the company has one unified list of rules that its changelog says “reflect a universal set of policies across OpenAI products and services,” but the rules are still the same.",
+      "content_length": 1703,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now",
+      "link": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
+      "published": "2025-11-03T22:20:00",
+      "content": "\n\n\n\t\n\t\t\n\nApple has just released iOS 26.1, which includes a new transparency toggle for Liquid Glass. The toggle helps address some of the legibility issues introduced in iOS 26 by allowing iPhone users to tone down the glassy design for buttons, tabs, and other navigational elements.\n\nAs teased during the iOS 26.1 beta, with the toggle, users can switch between two Liquid Glass options. One is the current translucent design, while the other option provides a more frosted look that increases opacity and contrast.\n\n\n\t\n\t\t\n\n\n\n\t\n\t\n\t\tThe Liquid Glass menu in settings.\t\n\n\nHere are Apple’s full patch notes for the iOS 26.1 update:\n\n\nLiquid Glass setting gives you the option to choose between the default clear look or a new tinted look which increases opacity of the material in apps and notifications on the Lock Screen\n\n\n\nLive Translation with AirPods support for Chinese (Simplified and Traditional), Japanese, Korean and Italian\n\n\n\nApple Music MiniPlayer swipe gesture to go to the next or previous track\n\n\n\nApple Music AutoMix support over AirPlay\n\n\n\nGain control is available for external USB microphones when recording with local capture\n\n\n\nLocal capture files can be saved to a specific location\n\n\n\nManual workout logging is available directly from the Fitness app\n\n\n\nNew Camera setting to turn on or off Lock Screen swipe to open Camera\n\n\n\nImproved FaceTime audio quality in low-bandwidth conditions\n\n\n\nCommunication Safety and Web content filters to limit adult websites are enabled by default for existing child accounts for ages 13-17 (Age varies by country or region)\n\n\nApple has also released iPadOS 26.1, macOS Tahoe 26.1, watchOS 26.1, visionOS 26.1, and tvOS 26.1.",
+      "content_length": 1683,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Here are the best AirPods deals you can get right now",
+      "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+      "published": "2025-11-03T22:18:37",
+      "content": "\n\n\n\t\n\tThe last-generation AirPods Pro are $100 off at Costco, which matches their lowest price yet. | Photo: Chris Welch / The Verge\t\n\nIf you know where to look, you can often score discounts on Apple’s ever-expanding AirPods lineup. Both the newer AirPods Max and AirPods 4 (with or without ANC) now consistently receive discounts, as do the second-gen AirPods Pro with USB-C. Events like Prime Day, Black Friday, and Cyber Monday often bring the steepest discounts, though you can still find great deals throughout the year.\n\n\n&nbsp;\n\n\n\nFeatured ProductsThe best AirPods 4 dealsThe best AirPods Pro 3 dealsThe best AirPods Pro (second-gen) dealsThe best AirPods Max deals\n\n\nBelow, we’ve rounded up the best deals currently available on each model, including both iterations of the AirPods 4, the second- and third-gen AirPods Pro, and the AirPods Max. \n\nThe best AirPods 4 deals\nApple AirPods 4\n\nWhere to Buy: $129 $119 at Amazon $129 $119 at Walmart $129 $124 at B&amp;H PhotoAirPods 4 with Active Noise Cancellation\n\nWhere to Buy: $179 $149.99 at Amazon $179 $149.99 at Walmart $179 $168.99 at Costco\nAt the end of last year, Apple introduced the AirPods 4, a pair of wireless earbuds available in two variations: a $129 standard model and a $179 noise-canceling model. Both versions represent significant upgrades over the third-gen AirPods, with a more comfortable design and improved audio performance. They’re also better for taking calls thanks to Apple’s Voice Isolation feature, which focuses the mics on your voice so you can be heard more clearly in noisy environments.\n\nThe $179 AirPods 4 with Active Noise Cancellation offer a surprisingly effective noise-canceling mode, a helpful transparency mode, and several other Pro-level features. The latest AirPods Pro do a better job of tuning out noise, but the AirPods 4 with ANC still do a good job of reducing sound. They also feature other perks formerly reserved for Apple’s top-of-the-line earbuds, including wireless charging and a case with a built-in speaker that allows you to easily track it down via Apple’s Find My app.\n\nGiven they’ve been out for nearly a year, we consistently see discounts on both versions of the AirPods 4. Right now, for instance, the standard AirPods 4 are on sale at Amazon and Walmart for $119 ($10 off), which is $30 higher than their all-time low. The AirPods 4 with ANC, meanwhile, are currently available at Amazon and Walmart for $149.99 ($30 off), which is also $30 higher than the best-ever price.\n\nRead our full AirPods 4 review.\n\nThe best AirPods Pro 3 deals\nAirPods Pro 3\nThe third-gen AirPods Pro add a new built-in heart rate sensor and live translation feature. They also improve upon their predecessor with enhanced noise cancellation, improved sound quality, and a fifth swappable ear tip.\n\nWhere to Buy: $249 at Amazon $249.99 at Best Buy $249 at Walmart\nAt its recent “Awe Dropping” event, Apple introduced the AirPods Pro 3. In addition to improved ANC and sound, the third-gen earbuds include a built-in heart rate sensor that syncs with the iPhone Fitness app, allowing you to track your pulse and calories burned across more than 50 workout types. They’re also more comfortable and secure than their predecessor, thanks to a redesigned, angled fit and five ear tip sizes — including a new XXS option. Additionally, they carry a more robust IP57 rating and support Apple’s new live translation feature, which, in our testing, generally conveys the gist well but still can’t beat a human interpreter.\n\nGiven just how recently they launched, we have yet to encounter a sizable deal on the AirPods Pro 3 outside of a small $10 launch discount. That said, you can still pick them up at Amazon, Best Buy, and Walmart for their full retail price of $249.\n\nRead our full AirPods Pro 3 review.\n\nThe best AirPods Pro (second-gen) deals\nApple AirPods Pro (second-gen) with USB-C charging case\n\nWhere to Buy: $249 $149.99 at Costco (for members) $249 $199 at Walmart $249 $199 at B&amp;H Photo\nIf you’re looking to save, the second-gen AirPods Pro with USB-C remain a solid option and are still widely available despite no longer being part of Apple’s official lineup. Although they lack the heart rate sensor found on the newer AirPods Pro 3 — as well as the live translation feature and smaller XXS ear tips — they still deliver terrific noise cancellation and sound quality. They also include swipe-based controls, a USB-C charging case, and an IP54 rating for water and dust resistance. They even supports lossless audio when used with Apple’s Vision Pro headset and double as a pair of FDA-approved hearing aids.\n\nThe second-gen Pros are available to Costco members for $149, which matches their all-time low price at $100 off. Anyone without a Costco membership who’s looking for a deal can grab the last-gen AirPods Pro for around $199 ($50 off) at Walmart.\n\nRead our AirPods Pro with USB-C impressions.\n\nThe best AirPods Max deals\nApple AirPods Max\n\nWhere to Buy: $549 $495.81 at Amazon (USB-C) $549 $495.81 at Walmart (USB-C) $549 $499.99 at Best Buy (USB-C)\nThe AirPods Max aren’t the iconic in-ears that have become synonymous with the AirPods name. They’re large and luxurious, comprised of aluminum, steel, and mesh fabric that remains comfortable during extended listening sessions. They also sport excellent noise cancellation, Apple’s spatial audio feature, and expansive, balanced sound, even if they lag behind some of their peers when it comes to bass response and features. They’re not the best noise-canceling headphones for most people —&nbsp;blame the sticker price — but it’s hard to find a better pair of Bluetooth headphones if you’re an iPhone user.\n\nToward the end of last year, Apple replaced the first-gen Max with&nbsp;a new model that features support for USB-C charging and a few new color options. At the time of publication, they’re on sale at Amazon and Walmart in select colors starting at $495.81 (about $55 off), which is a far cry from the $399 asking price we saw during Prime Day in July.\n\nRead our original AirPods Max review.\n\nUpdate, November 3rd: Adjusted pricing for several AirPods products.\n\n",
+      "content_length": 6148,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "A commercial space station startup now has a foothold in space",
+      "link": "https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/",
+      "published": "2025-11-03T22:13:53",
+      "content": "A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday and promptly extended its solar panel, kicking off a shakedown cruise to prove the company’s designs can meet the demands of spaceflight.\nVast’s Haven Demo mission lifted off just after midnight Sunday from Cape Canaveral Space Force Station, Florida, and rode a SpaceX Falcon 9 rocket into orbit. Haven Demo was one of 18 satellites sharing a ride on SpaceX’s Bandwagon 4 mission, launching alongside a South Korean spy satellite and a small testbed for Starcloud, a startup working with Nvidia to build an orbital data center.\nAfter release from the Falcon 9, the half-ton Haven Demo spacecraft stabilized itself and extended its power-generating solar array. The satellite captured 4K video of the solar array deployment, and Vast shared the beauty shot on social media.Read full article\nComments",
+      "content_length": 888,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Violence in Sudan's El-Fasher could be war crimes, says International Criminal Court",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251103-violence-in-sudan-s-el-fasher-could-be-war-crimes-says-international-criminal-court",
+      "published": "2025-11-03T22:04:03",
+      "content": "The International Criminal Court warned on Monday that atrocities committed in Sudan's El-Fasher could amount to crimes against humanity and war crimes, as the UN said that thousands had fled a neighbouring region where paramilitaries have turned their focus. FRANCE 24's Yinka Oyetade speaks with Nicholas Westcott, Professor of Practice in Diplomacy, at the Department of Politics and International Studies at SOAS University of London.",
+      "content_length": 438,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best iPad deals you can get right now",
+      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "published": "2025-11-03T22:00:00",
+      "content": "\n\n\n\t\n\tApple’s latest iPad Pro just hit the scene, but it’s already on sale for up to $75 off at Amazon. | Photo: Amelia Holowaty Krales / The Verge\t\n\nWhile the best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day,&nbsp;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad, the iPad Mini, and the latest iPad Air. As for the iPad Pro, Apple just introduced a new model with an M5 chip, which is already on sale at multiple retailers. If you don’t need the latest tech, however, now may be a good time to save on the M4 Pro as inventory dwindles.\n\nAll that being said, it’s difficult to know where exactly you can find the most notable iPad deals unless you’re scouring the major retailers on a daily basis. But that’s often what our deal hunters at&nbsp;The Verge&nbsp;are doing, so let us help you out. Below, we’ve listed the best deals you can get on each iPad model that is available, from the 11th-gen base iPad to the more powerful models with M3 and M4 chips.\n\nThe best iPad (2025) deals\nApple iPad (11th-gen)\n\nWhere to Buy: $349 $299 at Amazon (128GB, Wi-Fi) $449 $399 at Amazon (256GB, Wi-Fi) $649 $586.49 at Walmart (512GB, Wi-Fi)\nApple’s 11th-gen iPad landed on the scene in March. The newest base model tablet is a fairly iterative update of the prior model, but with 128GB of base storage (as opposed to 64GB) and the A16 Bionic chip, which is nearly 30 percent faster than the A14 chip used in the 10th-gen iPad. However, the newer chip doesn’t support the various Apple Intelligence features introduced in iPadOS 18.1 and subsequent updates. For that, you’ll want to opt for a more recent iPad Air, iPad Mini, or iPad Pro model.\n\nPricing-wise, the latest iPad starts at $349 with Wi-Fi and 128GB of storage. You can also upgrade to 256GB or 512GB of storage for an additional $100 or $200, respectively, or purchase an LTE model starting at $499. We saw a pretty significant price drop to $279 during Amazon’s summer Prime Day event, though you can still find the entry-level model on sale at Amazon, Walmart, and Best Buy starting at $399 ($50 off). Alternatively, you can purchase the 256GB model at Amazon, Walmart, and Best Buy starting at $399 ($50 off), or the 512GB variant around $586.49 (about $63 off) at Walmart, Amazon and Best Buy.\n\nThe best iPad Mini (2024) deals\niPad Mini (2024)\n\nWhere to Buy: $499 $399 at Amazon (128GB, Wi-Fi) $499 $399 at Best Buy (128GB, Wi-Fi) $599 $499 at Amazon (256GB, Wi-Fi)\nThe seventh-gen iPad Mini is similar in several ways to the previous model, but comes with some big internal upgrades. It includes faster Wi-Fi and USB-C speeds, support for the Apple Pencil Pro, and a newer A17 Pro processor with 8GB of RAM to support Apple Intelligence. Otherwise, it boasts nearly identical specs and features as the last-gen model, meaning it has an 8.3-inch Liquid Retina display and options for 5G. It may not be worth upgrading if you already own a sixth-gen Mini, but newcomers to the category will appreciate the upgrades.\n\nThe 2024 iPad Mini starts at $499 with 128GB of storage, which was the price for the previous generation’s 64GB model. Electing for 256GB of storage brings the price up to $599, and the cellular models start at $649. These are some big numbers for a small iPad, so the larger iPad Air might be worth considering&nbsp;if you prefer your dollar to go further with more screen real estate. But if you want an Apple tablet in the smallest possible form factor, this is where the action is.\n\nRight now, the 128GB base model with Wi-Fi is discounted at Amazon, Best Buy, and Target, dropping it to $399 ($100 off). We’ve seen this model drop to as low as $379 in the past, so if you’re working with a tighter budget, you may want to hold off for a more significant discount. That said, if you need additional storage, you can pick up the 256GB variant at Amazon and Best Buy for $400 ($100 off), or the 512GB model at Amazon, Best Buy, and Target starting at $699 ($100 off).\n\nThe best iPad Air (2025) deals\n11-inch iPad Air M3\n\nWhere to Buy: $599 $542.17 at Walmart (128GB, Wi-Fi) $699 $629.32 at Walmart (256GB, Wi-Fi) $899 $808.13 at Walmart (512GB, Wi-Fi)13-inch iPad Air M3\n\nWhere to Buy: $799 $719.47 at Walmart (128GB, Wi-Fi) $899 $808.13 at Walmart (256GB, Wi-Fi) $1099 $999 at Amazon (512GB, Wi-Fi)\nThe 2025 iPad Air is little more than a spec bump over the previous model, with a few technical upgrades that should allow it to last longer into the future than either the entry-level iPad or the last-gen Air. It features an M3 chip with support for Apple Intelligence, plus compatibility with Apple’s latest Magic Keyboard that has a larger trackpad and an extra row of function keys. In short, the Air is a credible laptop replacement.\n\nThe 11-inch model starts at $599 and the 13-inch variant $799 — the same price as prior models — but it’s common to see discounts from third-party retailers. Right now, for instance, the 11-inch Air is on sale at Walmart and Amazon in its base configuration with Wi-Fi and 128GB of storage for around $542.17 (about $57 off). You can also grab the 256GB model at Walmart starting at $629.32 (about $70 off), or the step-up 512GB model at Walmart and Amazon starting at $808.13 (about $91 off). We often see the iPad Air discounted as much as $150 off, though, so it may be worth checking back later for a larger discount.\n\nThe larger 13-inch model, meanwhile, is on sale at Walmart with 128GB of storage starting at $719.47 (about $80 off). You can also pick up the 256GB model at Walmart starting at $808.13 (around $91 off), or the 512GB variant at Amazon starting at $999 ($50 off).\n\nThe best iPad Pro (2024) deals\n11-inch iPad Pro (2024)\n\nWhere to Buy: $999 $887 at Amazon (256GB, Wi-Fi) $1199 $1099 at Amazon (512GB, Wi-Fi) $1599 $1499 at Amazon (1TB, Wi-Fi)13-inch iPad Pro (2024)\n\nWhere to Buy: $1299 $1187.99 at Amazon (256GB, Wi-Fi) $1499 $1349.99 at Amazon (512GB, Wi-Fi) $1899 $1699 at B&amp;H Photo (1TB, Wi-Fi)\nThe 2024 iPad Pro is a far more impressive upgrade than the latest iPad Air. The 11- and 13-inch models still start at $999 and $1,299, respectively, and they were the first Apple devices to feature the company’s M4 chip, which brought moderate performance gains and introduced dedicated hardware for on-device Apple Intelligence processing. The last-gen Pro models can claim other firsts, too, such as being the first iPad models with OLED displays and the lightest Pros available, which is still true of both sizes. They also feature repositioned front-facing cameras that sit along the horizontal edge (also found in the 11th-gen iPad), which prevent you from looking as though you’re staring off into space on a video call.\n\nAs for deals, the base 11-inch iPad Pro with 256GB of storage is currently on sale at Amazon starting at $887 ($112 off), while the model with Wi-Fi and 512GB of storage is on sale at Amazon and B&amp;H Photo for around $1,099 ($100 off). The sleek and super-thin 13-inch model, meanwhile, is on sale in its 256GB base configuration at Amazon for $1,187.99 ($112 off) or in its 512GB configuration at Amazon for $1,349.99 ($150 off). B&amp;H Photo also has the 1TB model for $1,699 ($200 off) if you’re looking for more storage to hold your apps, photos, and videos.\n\nThe best iPad Pro (2025) deals\n11-inch iPad Pro (2025)\n\nWhere to Buy: $999 $949 at Amazon (256GB, Wi-Fi) $1199 $1149 at Amazon (512GB, Wi-Fi) $1599 $1549 at Amazon (1TB, Wi-Fi)13-inch iPad Pro (2025)\n\nWhere to Buy: $1299 $1248.5 at Amazon (256GB, Wi-Fi) $1499 $1440 at Amazon (512GB, Wi-Fi) $1899 $1824 at Amazon (1TB, Wi-Fi)\nWhile there are some enticing deals on the M4 iPad Pro, it’s worth noting that it’s more than a year old. That means if you want the latest tech, you may want to consider springing for the 2025 iPad Pro. The new high-end tablet offers a few upgrades over the last-gen model, including a faster M5 chip, Apple’s new C1X cellular modem (if you get the cellular version), and an N1 chip for Wi-Fi, Bluetooth, and Thread. Apple also increased read and write speeds to memory, and the latest Pro supports fast charging of up to 50 percent in about 30 minutes.\n\nAlthough the tablet just hit the market, we’re already starting to see the price drop at several retailers. The 11-inch base model with 256GB of storage is currently down to around $948 ($51 off) at Amazon, Walmart and Best Buy, while the model with Wi-Fi and 512GB of storage is on sale at Amazon and Best Buy for $1,149 ($50 off). You can also snag the configuration with Wi-Fi and 1TB of storage for $1,549 ($50 off) at Amazon and Best Buy. \n\nIf you want a larger display, you can get the 13-inch iPad Pro in its 256GB base configuration for around $1,249 ($50 off) at Amazon and Best Buy. The step-up model with Wi-Fi and 512GB of storage, meanwhile, is down to $1,440 ($59 off) at Amazon, while the Wi-Fi model with 1TB of storage can be had for $1,824 ($75 off) at Amazon.\n\nUpdate, November 3rd: Updated to reflect current pricing / availability and deals for the new iPad Pro with an M5 chip.",
+      "content_length": 9217,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shein bans sex dolls after France threatens to block market access",
+      "link": "https://www.france24.com/en/tv-shows/business/20251103-shein-bans-sex-dolls-after-france-threatens-to-block-market-access",
+      "published": "2025-11-03T21:54:03",
+      "content": "Chinese e-commerce giant Shein has come under renewed pressure in France, just days before it opens its first permanent physical retail space in Paris.  France's consumer watchdog said it had discovered child-like sex dolls on the e-commerce platform, prompting the government to warn it could block its market access.  In response the Chinese-owned company suspended its 'adult products' category.  Also in the segment, Huawei's massive factory being built in Alsace faces an uncertain future.",
+      "content_length": 494,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "No, this video does not show the UK train stabbing",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251103-no-this-video-does-not-show-onboard-the-uk-train-stabbing",
+      "published": "2025-11-03T21:53:26",
+      "content": "Just hours after the news broke of a mass knife attack on London-bound train, an AI-generated video appeared online claiming to show onboard the train, and the platform as the train came to an emergency stop. Vedika Bahl fact-checks the image in Truth or Fake.",
+      "content_length": 260,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Dutch centrist Jetten set to be youngest-ever PM after narrow election win",
+      "link": "https://www.france24.com/en/europe/20251103-dutch-centrist-jetten-set-to-be-youngest-ever-pm-after-narrow-election-win",
+      "published": "2025-11-03T21:41:44",
+      "content": "Dutch centrist leader Rob Jetten on Monday clinched a razor-thin election win over far-right lawmaker Geert Wilders with a winning margin of 28,455 votes. The result puts the charismatic Jetten on track to become the country’s youngest and first openly gay prime minister.",
+      "content_length": 272,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "How the fight for affordable housing shaped the New York mayoral race",
+      "link": "https://www.france24.com/en/americas/20251103-how-the-fight-for-affordable-housing-shaped-the-new-york-mayoral-race",
+      "published": "2025-11-03T21:32:00",
+      "content": "Faced with a historic housing crisis fuelled by decades of under-investment in new homes, New Yorkers cast their ballots Tuesday in a mayoral race that has seen democratic socialist Zohran Mamdani surge ahead to seize the lead on a platform of rent freezes and tripling state investment in subsidised housing.",
+      "content_length": 309,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Eyes-off driving’ is coming, and we’re so not ready",
+      "link": "https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash",
+      "published": "2025-11-03T21:27:18",
+      "content": "\n\n\n\t\n\tThis could be you in the near future, bingeing The White Lotus while your Cadillac Escalade handles the driving. But what happens when the car makes a mistake? | Image: GM\t\n\nLast month, General Motors added its name to the growing list of automakers who are pursuing a novel type of partially automated technology called \"eyes-off driving.\" What they didn't do, though, is provide a thorough description of how they'll take responsibility when something goes wrong. \nNot to be confused with the type of \"eyes-off\" distracted driving that many drivers seem to be practicing these days, GM's system would be a step toward the automaker's ultimate goal of selling privately owned, fully autonomous cars. Some GM-produced cars already include the company's Super Cruise system, which allows drivers to take their hands off the …\nRead the full story at The Verge.",
+      "content_length": 864,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
+      "link": "https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/",
+      "published": "2025-11-03T21:01:21",
+      "content": "Spotify profits off fake Drake streams that rob other artists of perhaps hundreds of millions in revenue shares, a lawsuit filed Sunday alleged—hoping to force Spotify to reimburse every artist impacted.\nThe lawsuit was filed by an American rapper known as RBX, who may be best known for cameos on two of the 1990s’ biggest hip-hop records, Dr. Dre’s The Chronic and Snoop Dogg’s Doggystyle.\nThe problem goes beyond Drake, RBX’s lawsuit alleged. It claims Spotify ignores “billions of fraudulent streams” each month, selfishly benefiting from bot networks that artificially inflate user numbers to help Spotify attract significantly higher ad revenue.Read full article\nComments",
+      "content_length": 677,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump 'allocating himself a power that he does not have' on tariffs, expert says",
+      "link": "https://www.france24.com/en/video/20251103-trump-allocating-himself-a-power-that-he-does-not-have-on-tariffs-expert-says",
+      "published": "2025-11-03T20:30:31",
+      "content": "The U.S. Supreme Court holds oral arguments on Wednesday over the legality of President Donald Trump's tariffs imposed under the International Emergency Economic Powers Act. Speaking on FRANCE 24, Frederick T. Davis, Former Federal Prosecutor and Lecturer in Law at Columbia University, says that Trump 'is allocating himself a power that he does not have' and that the Supreme Court 'should say so'.",
+      "content_length": 400,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "After confusing driver release, AMD says old GPUs are still actively supported",
+      "link": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+      "published": "2025-11-03T20:21:36",
+      "content": "Last week, AMD released version 25.10.2 of its Adrenalin driver package for Radeon GPUs. It seemed like a relatively routine driver release with a typical list of bug fixes and game performance improvements, except for one accompanying announcement: AMD said at the time that it would be moving support for Radeon RX 5000-series and 6000-series GPUs (and their RDNA 1 and RDNA 2 architectures) to “maintenance mode.” That meant that a bunch of GPUs, including some dedicated graphics cards launched as recently as 2022, would no longer get fresh fixes and performance optimizations for newly launched games.\nAs reported by Tom’s Hardware, AMD released several clarifying statements to address the ensuing backlash, saying that these older GPUs would still get “new features, bug fixes, and game optimizations” based on “market needs.” That must not have quieted the complaints, because AMD then made an entirely separate post to confirm that the 25.10.2 driver release “is not the end of support for RDNA 1 and RDNA 2,” and that integrated and dedicated GPUs based on these architectures would continue to receive “game support for new releases,” “stability and game optimizations,” and “security and bug fixes.”\nAMD confirmed that these older GPU architectures had been moved to a separate driver path, but the company says this is meant to keep fixes and features intended for newer RDNA 3 and RDNA 4-based GPUs from inadvertently breaking things for RDNA 1 and RDNA 2 GPUs.Read full article\nComments",
+      "content_length": 1502,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israel says arrested ex-military prosecutor after leaked abuse video",
+      "link": "https://www.france24.com/en/video/20251103-israel-says-arrested-ex-military-prosecutor-after-leaked-abuse-video",
+      "published": "2025-11-03T20:11:34",
+      "content": "Israeli police arrested former military prosecutor Yifat Tomer-Yerushalmi, the national security minister said Monday, following a scandal that erupted after she leaked a video appearing to show soldiers abusing a Palestinian detainee. Tomer-Yerushalmi disappeared for several hours on Sunday after she announced her resignation, with speculation swirling in the press of a possible suicide attempt. FRANCE 24's Jennie Shin reports.",
+      "content_length": 432,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "LLMs show a “highly unreliable” capacity to describe their own internal processes",
+      "link": "https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/",
+      "published": "2025-11-03T20:08:40",
+      "content": "If you ask an LLM to explain its own reasoning process, it may well simply confabulate a plausible-sounding explanation for its actions based on text found in its training data. To get around this problem, Anthropic is expanding on its previous research into AI interpretability with a new study that aims to measure LLMs’ actual so-called “introspective awareness” of their own inference processes.\nThe full paper on “Emergent Introspective Awareness in Large Language Models” uses some interesting methods to separate out the metaphorical “thought process” represented by an LLM’s artificial neurons from simple text output that purports to represent that process. In the end, though, the research finds that current AI models are “highly unreliable” at describing their own inner workings and that “failures of introspection remain the norm.”\nInception, but for AI\nAnthropic’s new research is centered on a process it calls “concept injection.” The method starts by comparing the model’s internal activation states following both a control prompt and an experimental prompt (e.g. an “ALL CAPS” prompt versus the same prompt in lower case). Calculating the differences between those activations across billions of internal neurons creates what Anthropic calls a “vector” that in some sense represents how that concept is modeled in the LLM’s internal state.Read full article\nComments",
+      "content_length": 1385,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple brings its App Store to the web",
+      "link": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
+      "published": "2025-11-03T20:02:52",
+      "content": "\n\n\n\t\n\t\t\n\nApple has launched its App Store on the web, offering a central hub where you can browse through different categories of apps across all of the company’s devices, as spotted earlier by MacRumors and 9to5Mac. Now, when you navigate to apps.apple.com, you’ll see the revamped interface instead of a webpage that just contains information about the App Store.&nbsp;\n\nThere’s no way to download apps from the App Store on the web, however. Apple just gives you the option to share an app or open it directly inside the App Store installed on your device.\n\nAlong with the ability to switch between listings of apps for the iPhone, iPad, Mac, Vision Pro, Apple Watch, and Apple TV, you can check out recommendations on the Today tab as well as sort apps by category, such as productivity, entertainment, adventure, and more.\n\nThe new web-based App Store also serves as a portal where you can search for apps, too. Apple previously offered webpages for each of its apps, but they weren’t easily accessible or searchable unless it was from a direct link.",
+      "content_length": 1055,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "I tested a bunch of gaming laptops and these are the best",
+      "link": "https://www.theverge.com/22295181/best-gaming-laptop",
+      "published": "2025-11-03T20:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nGaming laptops come in various shapes and sizes, though many of the heavy hitters remain thick and beefy machines that maximize cooling to get the most out of their powerful chips. Most are awash in RGB lighting and edgy designs geared toward capital-G Gamers, but there are also thinner, lighter options that are more portable and less showy.&nbsp;\n\nOur go-to recommendation that checks the boxes for most people is, and has been for a while, the Asus ROG Zephyrus G14. It’s a gaming laptop that doesn’t forget the “laptop” part. The G14 is a versatile machine for both play and work, and it travels exceptionally well.\n\nOther great, though pricey, recommendations include the big and heavy Asus ROG Strix Scar and Lenovo Legion Pro 7i, as well as the Razer Blade 16 for those looking for lots of graphics power in a thin, sleek package.\n\nThe most important part of any gaming laptop, just like desktop PCs, is the graphics card. Laptop GPUs can’t stack up to full-size cards that reach much higher wattage in desktops, but that doesn’t stop the likes of Nvidia from making things a little confusing with the naming scheme on its RTX brand of GeForce cards. So keep in mind that, for example, an RTX 5090 laptop card doesn’t come anywhere near the performance of a desktop 5090. Desktops may always win out in raw performance, but gaming laptops are a simpler turnkey solution that can easily go places (yes, even the ones that feel like you’re toting around a cinderblock).&nbsp;\n\nEven more confusing: the same GPU in one laptop may not perform as well in another if it’s throttled by thermal constraints. We try to test a wide range of gaming laptops, as well as regular laptops, and these are the ones we confidently recommend.\n\n\n\n\n\n\nThe best gaming laptop for most peopleThe most powerful gaming laptopThe best mid-to-high-tier gaming laptops for most peopleThe best budget gaming laptopA sleek 16-inch gaming laptopThe best convertible gaming laptop\n\n\nThe best gaming laptop for most people\nAsus ROG Zephyrus G14 (2025)\n\nProsConsBalanced performance, battery life, and portabilityOLED displayProgrammable LED strip on the lidGreat keyboard and smooth trackpadGets a bit hot and loud under loadSoldered RAMThermally throttles its GPUs\nWhere to Buy: $1799.99 $1449.99 at Best Buy (5060) $2099.99 at Asus $2399.99 at  Best Buy (5070 Ti)\nCPU: AMD Ryzen 9 270, HX 370 / GPU: Nvidia GeForce RTX 5060, RTX 5070, RTX 5070 Ti, RTX 5080 / RAM: 16GB, 32GB / Storage: 1TB / Display: 14-inch OLED, 2880 x 1800, 120Hz, 500 nits / Dimensions: 12.24 x 8.66 x 0.63 to 0.64 inches / Battery: 73Whr / Weight: 3.31 pounds\n\nAsus’s ROG Zephyrus G14 has been a favorite among Verge staffers for years, and it remains our go-to pick for its balance of power and portability. It can be your full-time gaming machine as well as your commuter-friendly everyday laptop. Asus redesigned it in 2024 and toned down its more playful aesthetics for a sleeker, refined look, and for 2025 it got a modest chip bump with RTX 50-series graphics and the ability to charge via USB-C on either side (but you still need to use its proprietary charger for max wattage).&nbsp;\n\nIt now starts at $1,799.99 instead of $1,699.99. But you get a little more for your extra money since even the base Zephyrus G14 comes with a lovely, high-res OLED 120Hz display, and it still has a great keyboard and trackpad. Games play well on high settings, though due to the thin chassis, the G14 — and even its 16-inch sibling, the Zephyrus G16 — are known to get a little hot to the touch, and their fans are quite noisy.\n\nZephyrus laptops are never going to offer quite the same performance as much thicker models, like the Asus ROG Strix or other chunkers running equivalent GPUs — they just don’t have as much thermal headroom. But if you want a jack-of-all-trades notebook that puts gaming at the forefront, the G14 (or G16, if you want to go bigger and have the budget) is unlikely to steer you wrong.\n\nThe most powerful gaming laptop\nMSI Titan 18 HX AI A2XWJGMSI Titan 18 HX AI (2025)\n\nScore: 6ProsConsTop-tier gaming performance in a laptopMassive, bright 4K Mini LED screenLoud but satisfying mechanical keyboardAs good as it is, it doesn’t blow away a much cheaper 5080 laptopAstronomically expensiveBattery drains after just a couple hours of everyday tasks120Hz refresh is half the speed of cheaper laptops with 2.5K OLEDs\nWhere to Buy: $5799.99 $5299 at MSI (RTX 5090)\nCPU: Intel Core Ultra 9 285HX&nbsp; / GPU: Nvidia Geforce RTX 5080, 5090 / RAM: 64GB, 96GB / Storage: 4TB, 6TB / Display: 18-inch Mini LED 4K (3840 x 2400), 120Hz display, 1,000 nits, 100 percent DCI-P3 / Dimensions: 15.9 x 12.08 x 1.26 inches / Battery: 99.9Whr / Weight: 7.93 pounds\n\nThe MSI Titan is our No. 1 pick if budget isn’t a concern. It’s a ridiculous $5,799.99 with Intel’s flagship Core Ultra 9 285HX CPU and Nvidia’s most powerful GPU, the RTX 5090. The Titan pairs its punchy hardware with a massive 18-inch 4K / 120Hz Mini LED screen that gets incredibly bright, along with 64GB of RAM and a 6TB SSD.\n\nThe Titan is loaded with RGB lighting (including an illuminated haptic trackpad), a super tactile and fairly loud mechanical keyboard by SteelSeries, five USB ports (two of which are Thunderbolt 5), and a four-speaker / dual-woofer sound setup. It can tackle most games you throw at it on ultra settings. The screen may not be as fast or rich in color contrast as other laptops with 2.5K / 240Hz OLED panels, but 4K at 18 inches in HDR looks ultra-crisp and super bright. You have to pay out the nose for this no-holds-barred experience, but the nearly eight-pound behemoth (10.5 pounds with its 400W power adapter in tow) is about as powerful as laptops get right now.\n\nIn the past, our choice for this tier of laptop was Asus’s ROG Strix Scar 17 with one of AMD’s X3D chips. That model was especially unique since it was significantly cheaper (under $4,000). An RTX 5080 laptop or a Razer Blade 16 with a 5090 — each outlined below — makes a lot more sense for the money than a Titan. But there’s still nothing quite like MSI’s monstrous laptop.\n\nThe best mid-to-high-tier gaming laptops for most people\nAsus ROG Strix Scar 16 (2025, RTX 5080)\n\nScore: 8ProsConsGreat graphics performance in the latest high-end gamesLots of ports and easy access to RAM / SSDsAnimated lid and wraparound RGB are funVery good QHD / 240Hz Mini LED screenTypical gaming laptop issues (pricey, hefty, and not great battery life)Competition offers OLED screensCustomizing lid animations is a pain\nWhere to Buy: $3299.99 $2799.99 at Walmart $3299.99 at Asus\nCPU: Intel Core Ultra 9 275HX / GPU: Nvidia GeForce RTX 5080 / RAM: 32GB / Storage:&nbsp; 2TB / Display: 16-inch Mini LED 2560 x 1600, 240Hz display / Dimensions: 13.94 x 10.55 x 0.9 to 1.21 inches / Battery: 90Whr&nbsp; Weight: 6.17 pounds\n\nYou don’t have to spend Titan money to land somewhere in the ballpark of excellent gaming performance. There are a few great options in the mid-to-high tier of gaming laptops, sporting RTX 5080 graphics (or the RTX 5070 Ti if you need to save a bit more). My top pick is the Asus ROG Strix Scar 16, followed closely by the Lenovo Legion Pro 7i.\nLenovo Legion Pro 7i (16-inch, Intel)\n\nScore: 8ProsConsGreat performance at 2.5K and even at 4K on an external monitorBeautiful OLED screenOne of the best keyboards in this class of gaming laptopsNo face or fingerprint unlockNumpad makes things slightly cramped, with off-center trackpadLenovo&#8217;s apps are slightly more invasive with notifications than others\nWhere to Buy: $3559.99 $2969.99 at Best Buy (RTX 5080, 1TB SSD) $3499 $2399.99 at B&amp;H Photo (RTX 5080, 2TB SSD) $3559.99 at Lenovo (RTX 5080, 1TB SSD)\nThe 16-inch ROG Strix Scar is decked out with a wraparound RGB light bar that creates a colorful underglow and a dot-matrix LED lid for adorning fun illuminated animations. The Strix Scar’s game performance is exceptional, with its RTX 5080 nearly matching the 5090 in the much thinner Razer Blade 16 — and for $1,200 less.\n\nThe Lenovo Legion Pro 7i is a similarly specced 16-incher, offering the same CPU and GPU in a better, metallic build. It’s got its share of RGB lighting, but it’s done a little more tastefully than the Asus. Meanwhile, the Strix Scar’s 2.5K / 240Hz screen is a Mini LED display that’s bright, colorful, and visually pleasing. It matches the resolution and refresh rate of the OLED on Lenovo’s Legion Pro 7i, but the OLED on the Lenovo is even better, with a punchier look. \n\nIt’s a bit of a toss-up between these two: the Lenovo has the better screen and build quality, yet it lacks face or fingerprint unlocking. But the Asus is $200 cheaper, and I prefer the trackpad and better key spacing of its numpad-less design. You can’t go wrong here, so picking one based on small nuances like that or just whatever you can get a deal on is fair.\n\nThe best budget gaming laptop\nHP Victus 15 (2025, RTX 4050)\n\nProsConsGood pricingAMD or Intel CPU optionsRTX 4050 is fine for 1080p gaming16:9 aspect ratio is outdatedNot a ton of ports, and only one of them is USB-C\nWhere to Buy: $1049.99 $599 at Walmart (Intel) $899.99 at Best Buy (AMD)\nCPU: AMD Ryzen 7 7445HS, Intel Core i5-13420H / GPU: Nvidia GeForce RTX 4050 / RAM: 16GB / Storage: 512GB / Display: 15.6-inch IPS, 1920 x 1080, 144Hz, no touch option / Dimensions: 14.09 x 10.04 x 0.93 / Battery: 70Wh&nbsp; Weight: 5.06 pounds\n\nOur previous pick among budget gaming laptops was the HP Victus 15 with an RTX 3050 GPU, which cost around $800 in 2022 when it wasn’t on a steep sale for less. It had a 60Hz screen and just 8GB of RAM, which feels a little paltry for gaming on Windows 11 in 2025. Now, you can get the same chassis with a 1080p / 144Hz screen, an RTX 4050 GPU, and either AMD Ryzen 7 7000-series or Intel 13th-Gen CPU for around $850 to $900.\n\nNvidia announced its RTX 5050 laptop GPU in June, which is set to slowly trickle out into laptops for about $999. We’ll have to see how that stacks up in future testing.\n\nThe Victus isn’t going to wow you with the best screen or highest-quality components for a keyboard or trackpad, but it does emphasize a solid graphics card in an affordable package. It’s the kind of laptop that will excel with live service games like Minecraft or Fortnite, as well as indie titles. Just don’t expect high or ultra settings on the latest AAA games. With the right expectations, a more inexpensive gaming laptop like the Victus can treat you well.\n\nA sleek 16-inch gaming laptop\nRazer Blade 16 (2025, RTX 5090)\n\nScore: 7ProsConsGreat fit, finish, and buildSlim and sleek design for a gaming laptopExcellent OLED screen comes standardVery good performance, especially in DLSS 4 supported gamesStarts expensive and gets expensive-erMiddling battery lifeThinness aside, minimal improvements over last year’s modelA cheaper 5080 laptop may be money better spentThe matte black finish smudges easily, and the Razer lid logo is still a little cringe\nWhere to Buy: $2399.99 $1699.99 at Razer (RTX 5060) $2799.99 $1999.99 at Razer (RTX 5070) $3499.99 at Razer (RTX 5080)\nCPU: AMD Ryzen AI 9 365, Ryzen AI 9 HX 370 / GPU: Nvidia Geforce RTX 5060, 5070, RTX 5070 Ti, RTX 5080, RTX 5090 / RAM: 16GB, 32GB, 64GB / Storage: 1TB, 2TB, 4TB / Display: 16-inch OLED, 2560 x 1600, 240Hz / Dimensions: 13.98 x 9.86 x 0.59 to 0.69 inches / Battery: 90Wh / Weight: 4.71 pounds\n\nThe Razer Blade 16 has long been touted as the MacBook Pro for gamers, and after thickening up for a few years, it’s back to an ultra-thin chassis without much compromise to performance. It’s flush with ports, has a great keyboard and massive trackpad, and its AMD chips can be paired with a variety of Nvidia GeForce RTX GPU — ranging from the 5060 for $2,399.99 to the top-tier 5090 for a much steeper $4,499.99. The high-end model is hard to find right now, but we still recommend any configuration you can afford.\n\nThe Blade sports a lovely 16-inch OLED display with 2560 x 1600 resolution and 240Hz refresh, even for the entry-level configuration. The look of its stealthy matte black design and green Razer logo may not be to everyone’s liking, but pair that with its thinness, and you’ve got something that can travel and blend in almost anywhere.\n\nI tested the RTX 5090 version in our review, and while it’s impressive, it can be a little hard to justify spending $4,500 without getting the maximum capabilities of that flagship GPU, since the Blade 16’s thinness throttles the 5090. But it’s such a nice overall package if you want your gaming laptop to do it all. The Blade also comes in 14- and 18-inch sizes, but I think the 16 is the sweet spot.\n\nRead our Razer Blade 16 (2025) review.\n\nThe best convertible gaming laptop\nAsus ROG Flow Z13 (2025)\n\nScore: 8ProsConsImpressive game performance for an iGPU on a tabletCapable 2.5K performanceLaptop-quality keyboard and trackpadBattery can get through a day of work (with no gaming breaks)Play games on your lap without heating up your legsExcellent kickstandStill a pricey, niche deviceWish the keyboard cover had Bluetooth like the latest Surface ProPower / sleep button is too flushNo auto-brightnessKeyboard case sometimes not detected after waking from sleepSingle-zone keyboard RGB looks basic\nWhere to Buy: $2099.99 at Asus (AMD Ryzen AI MAX 390) $2399.99 at Best Buy (AMD Ryzen AI Max Plus 395) $2299.99 $2169 at Amazon (AMD Ryzen AI Max Plus 395)\nCPU: AMD Ryzen AI Max 390, Ryzen AI Max Plus 395 / GPU: Integrated / RAM: 32GB, 64GB, 128GB / Storage: 1TB SSD / Display: 13.4-inch IPS, 2560 x 1600, 180Hz, touchscreen / Dimensions: 11.81 x 8.03 x 0.51 to 0.59 inches / Battery: 70Whr Weight: 2.65 pounds\n\nAsus’s ROG Flow Z13 gaming tablet has always been a niche device, but the latest generation with AMD’s new Strix Halo APU is the best version yet. That’s right, Asus switched from a discrete GPU to integrated graphics, but surprisingly, the chunky “Surface Pro for gamers” is actually better for it.\n\nIt may sound a little reckless to spend $2,100 or more on a gaming tablet, but the Z13 and its new Ryzen AI Max chip offer enough graphical prowess to make most games look great on its 2560 x 1600 / 180Hz IPS display. And it even has the battery chops to squeak through an eight-hour work day, making it an impressive multi-purpose device.\n\nA regular clamshell laptop may make more logical sense for most people, but the ROG Flow’s form factor just makes it kinda fun. Being able to remove the keyboard entirely allows you to comfortably plop it on your lap and game away without feeling like you’re going to set your legs on fire. And if you’re a mechanical keyboard nerd like me, you can connect your favorite board without the bottom half of a laptop in your way (this is surprisingly useful for using the Z13 as a second screen below a big monitor.\n\nRead our Asus ROG Flow Z13 (2025) review.\n\nMonica Chin and Joanna Nelius also contributed to previous versions of this buying guide.\n\nUpdate, November 3rd: Updated to reflect current pricing / availability and additional related links. Brandt Ranj also contributed to this post.",
+      "content_length": 15079,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merz sieht für Syrer keinen Grund mehr für Asyl",
+      "link": "https://www.tagesschau.de/inland/abschiebungen-syrien-merz-100.html",
+      "published": "2025-11-03T19:56:40",
+      "content": "   Kanzler Merz hat sich in die aktuelle Debatte um die Rückkehr syrischer Flüchtlinge eingeschaltet: Er rechne jetzt, da der Bürgerkrieg zu Ende ist, damit, dass viele Syrer freiwillig in ihre Heimat zurückkehrten, sagte er. Straftäter sollen abgeschoben werden.[mehr]",
+      "content_length": 269,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’",
+      "link": "https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei",
+      "published": "2025-11-03T19:54:20",
+      "content": "\n\n\n\t\n\t\t\n\nA person claiming to be one of the University of Pennsylvania hackers says that about \"1.2 million lines of data\" will be kept private for the group to sell before it is made public. The group also plans to make other documents public.\nIn comments to The Verge, the hacker or hackers distanced themselves from earlier hacks of other private universities including Columbia - which were aimed at demonstrating colleges had maintained unlawful pro-diversity policies. \"Our main goal was to get the wealthy donor database,\" they said via Signal. An email that said, \"We hire and admit morons, because we love legacies, donors, and unqualified affirmat …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shein halts online sales of sex dolls after France slams their 'childlike' appearance",
+      "link": "https://www.france24.com/en/live-news/20251103-shein-bans-sex-dolls-after-france-outrage-over-childlike-ones",
+      "published": "2025-11-03T19:47:12",
+      "content": "Asian e-commerce giant Shein said Monday it was banning sex dolls from sale online after France’s anti-fraud unit said “childlike” dolls of a likely pornographic nature were being sold on the company’s platform. The French finance minister has threatened to ban the retailer from the country if it resumed selling the dolls.",
+      "content_length": 324,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russia says its forces advance in ruins of Pokrovsk, Ukraine says defenders hold on",
+      "link": "https://www.france24.com/en/video/20251103-russia-says-its-forces-advance-in-ruins-of-pokrovsk-ukraine-says-defenders-hold-on",
+      "published": "2025-11-03T19:35:51",
+      "content": "Russia said on Monday that its troops had advanced in the eastern Ukrainian city of Pokrovsk, a transport and logistics hub that they have been trying to capture for over a year, but Ukraine said its forces were holding on.\n \nFRANCE 24's Camille Knight reports.",
+      "content_length": 261,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "White House to offer reduced food aid during shutdown after court order",
+      "link": "https://www.france24.com/en/americas/20251103-white-house-offer-reduced-snap-food-aid-during-shutdown-after-court-order",
+      "published": "2025-11-03T19:28:29",
+      "content": "The government will offer partial food assistance to 42 million low-income Americans after federal courts last week ordered the Trump administration to use emergency funds for the payments during the shutdown, the White House said Monday. The emergency funds cover about half of the food aid budget for November.",
+      "content_length": 312,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Is Bill Gates right? Call to put climate resilience before rising temperatures",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251103-is-bill-gates-right-call-to-put-climate-resilience-before-rising-temperatures",
+      "published": "2025-11-03T19:26:36",
+      "content": "Is too much effort devoted to planet’s warming and not enough to helping humans adapt to the new normal? The Microsoft co-founder-cum-billionaire philanthropist turning the heat up on activists traveling to the Cop 30, the annual UN climate summit this year in the Brazilian Amazon city of Belem.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Chile to end Pinochet henchmen’s pampered prison life of tennis and barbecues",
+      "link": "https://www.theguardian.com/world/2025/nov/03/chile-prison-punta-pueco-pinochet",
+      "published": "2025-11-03T19:23:07",
+      "content": "Punta Peuco – where military human rights offenders enjoy privileged conditions – set to join public prison networkInmates at an infamous high-security military prison in Chile, which houses the perpetrators of dictatorship-era human rights crimes, are set to lose their privileged conditions under plans to incorporate the prison into the public prison network.President Gabriel Boric announced on Monday that Punta Peuco is being transformed into a regular prison to help deal with overcrowding in the penitentiary system. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rechtsbündnis in Tschechien unterschreibt Koalitionsvertrag",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-koalitionsvertrag-100.html",
+      "published": "2025-11-03T19:21:38",
+      "content": "   Einen Monat nach der Parlamentswahl in Tschechien hat der EU-kritische Milliardär Babis einen Koalitionsvertrag mit rechten Bündnispartnern unterschrieben. Ukraine-Hilfen lehnen sie ebenso ab wie Klimaschutz. Von M. Allweiss.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
+      "link": "https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/",
+      "published": "2025-11-03T19:15:21",
+      "content": "President Trump says he still doesn’t know who Binance founder and former CEO Changpeng Zhao is, despite having pardoned Zhao last month.\nCBS correspondent Norah O’Donnell asked Trump about the pardon in a 60 Minutes interview that aired yesterday, noting that Zhao pleaded guilty to violating anti-money laundering laws. “The government at the time said that C.Z. had caused ‘significant harm to US national security,’ essentially by allowing terrorist groups like Hamas to move millions of dollars around. Why did you pardon him?” O’Donnell asked.\n“Okay, are you ready? I don’t know who he is. I know he got a four-month sentence or something like that. And I heard it was a Biden witch hunt,” answered Trump, who has criticized his predecessor for signing pardons with an autopen.Read full article\nComments",
+      "content_length": 809,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bahn: Nur knapp jeder zweite Fernzug im Oktober pünktlich",
+      "link": "https://www.tagesschau.de/inland/bahn-puenktlichkeit-oktober-100.html",
+      "published": "2025-11-03T19:14:00",
+      "content": "   Im Oktober war nur etwa jeder zweite Fernzug pünktlich. Damit erreicht die Deutsche Bahn einen neuen Tiefpunkt. Grund für die schlechte Quote sind laut Unternehmen vor allem die vielen Baustellen.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google’s TV Streamer (4K) is down to its best price to date ahead of Black Friday",
+      "link": "https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale",
+      "published": "2025-11-03T19:00:00",
+      "content": "\n\n\n\t\n\tGoogle’s discounted TV Streamer (4K) functions as both a streaming device and a Matter-compatible smart home hub.\t\n\nWith everything from the next Knives Out movie to the final season of Stranger Things on the way, there’s going to be a ton of great stuff to stream in the coming weeks. And if you want to watch it all in glorious 4K resolution, Google’s TV Streamer (4K) is a great streaming device that’s currently available at Best Buy for an all-time low $74.99 ($25 off) as part of an early Black Friday promotion. If you prefer a different retailer, it’s also available at Amazon and Walmart for the same price.\nGoogle TV Streamer (4K)\n\nWhere to Buy: $99.99 $74.99 at Amazon $99.99 $74.99 at Walmart $99.99 $74.99 at Best Buy\nGoogle’s snappy set-top box supports all the major HDR formats, including HDR10 Plus and Dolby Vision, as well as Dolby Atmos audio. It offers twice the RAM and four times as much storage as the last-gen Chromecast, allowing for smoother performance and more room for apps. Plus, it took us a mere 10 minutes to set up, and it runs on Google’s intuitive TV software, which provides recommendations across streaming services, complete with Rotten Tomatoes scores. The included remote also makes navigation a breeze with a customizable shortcut button, and as an added touch, you can even ping the remote using a handy button on the box.\n\nWhat makes the TV Streamer (4K) an even better value, however, is that it doubles as a Google Home Hub with support for Matter, Thread, and Google Assistant voice controls via the remote. That means you can adjust your thermostat, dim the lights, or view camera feeds right on your TV screen via a smart home panel. It even has a built-in ethernet port, which is perfect for those moments when your Wi-Fi gets spotty.\n\nRead our full Google TV Streamer (4K) review.\n\n",
+      "content_length": 1840,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "French taxi driver cleared of stealing from David Lammy after fare dispute",
+      "link": "https://www.theguardian.com/politics/2025/nov/03/french-taxi-driver-david-lammy-fare-dispute",
+      "published": "2025-11-03T18:49:52",
+      "content": "Nassim Mimun, who left with Lammy’s and his wife’s bags after ‘tone escalated’, acquitted owing to lack of evidenceA French taxi driver accused of stealing money and luggage from David Lammy has been acquitted due to lack of evidence, a prosecutor said.Nassim Mimun, 40, drove the deputy prime minister and his wife, Nicola Green, more than 600km (370 miles) from Forli, near Bologna in northern Italy, to the ski resort of Flaine in the French Alps on 11 April. Continue reading...",
+      "content_length": 482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Koalition versucht Debatte über \"Scheinkonflikt\" einzufangen",
+      "link": "https://www.tagesschau.de/inland/debatte-abschiebungen-syrien-100.html",
+      "published": "2025-11-03T18:43:25",
+      "content": "   Große Teile Syriens sind zerstört. Außenminister Wadephul sieht dort aktuell kaum Chancen für ein würdiges Leben - und damit für Rückkehrer. In der Union schlug das Wellen. Doch liegen die Positionen wirklich weit auseinander? Von S. Henkel.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
+      "link": "https://arstechnica.com/google/2025/11/google-removes-gemma-models-from-ai-studio-after-gop-senators-complaint/",
+      "published": "2025-11-03T18:28:22",
+      "content": "You may be disappointed if you go looking for Google’s open Gemma AI model in AI Studio today. Google announced late on Friday that it was pulling Gemma from the platform, but it was vague about the reasoning. The abrupt change appears to be tied to a letter from Sen. Marsha Blackburn (R-Tenn.), who claims the Gemma model generated false accusations of sexual misconduct against her.\nBlackburn published her letter to Google CEO Sundar Pichai on Friday, just hours before the company announced the change to Gemma availability. She demanded Google explain how the model could fail in this way, tying the situation to ongoing hearings that accuse Google and others of creating bots that defame conservatives.\nAt the hearing, Google’s Markham Erickson explained that AI hallucinations are a widespread and known issue in generative AI, and Google does the best it can to mitigate the impact of such mistakes. Although no AI firm has managed to eliminate hallucinations, Google’s Gemini for Home has been particularly hallucination-happy in our testing.Read full article\nComments",
+      "content_length": 1078,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "UN resolution on international stabilisation force for Gaza could be ready within two weeks",
+      "link": "https://www.theguardian.com/world/2025/nov/03/un-resolution-on-international-stabilisation-force-for-gaza-could-be-ready-within-two-weeks",
+      "published": "2025-11-03T18:22:25",
+      "content": "Resolution may be delayed without agreement over the force’s mandate and a timetable for Israeli withdrawal A UN security council resolution mandating the introduction of an international stabilisation force into Gaza is likely to be ready within two weeks, but may be delayed if disputes cannot be resolved over the force’s mandate, including the question of US military leadership, its relationship with the Palestinian civil police force and a timetable for Israeli military withdrawal.At a meeting in Istanbul of Muslim countries considering offering troops on Monday, the Turkish foreign minister, Hakan Fidan, said: “The countries will shape their decisions based on the mission and authority of the International Stabilization Force. I believe that if the mission conflicts with the principles and policies of the countries that will send troops, it will be difficult for these countries to send troops.” Continue reading...",
+      "content_length": 931,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Canada’s Liberal party says budget of ‘sacrifice’ needed to avoid recession",
+      "link": "https://www.theguardian.com/world/2025/nov/03/canada-budget-sacrifice-recession",
+      "published": "2025-11-03T18:16:39",
+      "content": "Country set to unveil PM Mark Carney’s spending plan as it battles trade war with US and protracted cost of living crisisCanada’s ruling Liberal party has said a budget of “sacrifice” is required to confront both a trade war with the US and a protracted cost of living crisis that threatens to push the country into a recession. But with opposition parties signalling they won’t support the fiscal plans of the prime minister, Mark Carney, a failed parliamentary vote on the budget could plunge the country into another federal election in the coming weeks.The country’s finance minister, François-Philippe Champagne, will on Tuesday unveil a spending plan his government has signalled will include both steep deficits and spending cuts. Few details have leaked ahead of the announcement, which will mark the first substantive look at how Carney plans to avoid a recession while locked in a trade war with the US, Canada’s biggest economic partner. Continue reading...",
+      "content_length": 968,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Former top lawyer of Israeli army arrested for leaking video of prisoner abuse",
+      "link": "https://www.france24.com/en/video/20251103-former-top-lawyer-of-israeli-army-arrested-for-leaking-video-of-prisoner-abuse",
+      "published": "2025-11-03T17:49:06",
+      "content": "Israeli police arrested the military's former top lawyer, Yifat Tomer-Yerushalmi, who leaked a video showing the abuse of a Palestinian detainee. The video has triggered international outrage. France 24's Noga Tarnopolsky reports from Jerusalem.",
+      "content_length": 245,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Reporters Without Borders head on group's list of 'press freedom predators'",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20251103-reporters-without-borders-head-on-group-s-list-of-press-freedom-predators",
+      "published": "2025-11-03T17:44:42",
+      "content": "The director general of Reporters Without Borders (RSF) has spoken to FRANCE 24 about the \"series of crises\" affecting journalism. Thibaut Bruttin hit out at the \"return of violence against journalists\" and the \"erosion of support\" for the protection of journalism. Bruttin was speaking to us to mark the International Day to End Impunity for Crimes Against Journalists. This year, his organisation is unveiling what it calls a list of 34 \"press freedom predators\" who attacked journalists and the right to information in 2025.",
+      "content_length": 527,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Outrage in Paris as Shein prepares to open its first permanent store",
+      "link": "https://www.theguardian.com/business/2025/nov/03/outrage-paris-shein-prepares-open-first-permanent-store",
+      "published": "2025-11-03T17:39:47",
+      "content": "Fast-fashion retailer faces political anger, fury from workers and warnings it will damage city’s progressive imageThe online fast-fashion retailer Shein will open its first permanent bricks-and-mortar store in the world in Paris this week amid political outrage, fury from workers and warnings from city hall that it will damage the French capital’s progressive image.The Singapore-based clothing company, which was founded in China, has built a massive online business despite criticism over its factory working conditions and the environmental impact of low-cost, throwaway fashion. Continue reading...",
+      "content_length": 605,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bertelsmann-Studie: AfD und Linke haben im Wahlkampf von Algorithmen profitiert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/studie-parteien-social-media-100.html",
+      "published": "2025-11-03T17:23:38",
+      "content": "   Vor der Bundestagswahl umwarben die Parteien junge Wähler vor allem auf Social Media. Laut einer Studie unterschied sich die Sichtbarkeit dabei stark: Die Nutzer erreichten öfter Botschaften der politischen Ränder.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "link": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
+      "published": "2025-11-03T17:23:11",
+      "content": "On Monday, OpenAI announced it has signed a seven-year, $38 billion deal to buy cloud services from Amazon Web Services to power products like ChatGPT and Sora. It’s the company’s first big computing deal after a fundamental restructuring last week that gave OpenAI more operational and financial freedom from Microsoft.\nThe agreement gives OpenAI access to hundreds of thousands of Nvidia graphics processors to train and run its AI models. “Scaling frontier AI requires massive, reliable compute,” OpenAI CEO Sam Altman said in a statement. “Our partnership with AWS strengthens the broad compute ecosystem that will power this next era and bring advanced AI to everyone.”\nOpenAI will reportedly use Amazon Web Services immediately, with all planned capacity set to come online by the end of 2026 and room to expand further in 2027 and beyond. Amazon plans to roll out hundreds of thousands of chips, including Nvidia’s GB200 and GB300 AI accelerators, in data clusters built to power ChatGPT’s responses, generate AI videos, and train OpenAI’s next wave of models.Read full article\nComments",
+      "content_length": 1093,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Al-Faschir: Weltstrafgericht will Gräueltaten in Al-Faschir untersuchen",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-448.html",
+      "published": "2025-11-03T17:05:34",
+      "content": "   Nach Berichten über Gräueltaten in Al-Faschir im Sudan hat der Internationale Strafgerichtshof eine Untersuchung angekündigt. Derweil flüchten laut UN Zehntausende aus der Region Kordofan - aus Angst vor Kämpfen.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France: 2026 budget bill debate continues",
+      "link": "https://www.france24.com/en/video/20251103-france-2026-budget-bill-debate-continues",
+      "published": "2025-11-03T16:59:47",
+      "content": "French left-wing parties boycotted a budget meeting, demanding stronger tax justice measures. Without their support, the bill faces hurdles, while MPs reinstated an expatriation tax and debate on the Social Security Financing Bill continues ahead of the November 23 deadline.",
+      "content_length": 275,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "NY mayoral election: What Mamdani’s rise means for progressives",
+      "link": "https://www.france24.com/en/video/20251103-ny-mayoral-election-what-mamdani-s-rise-means-for-progressives",
+      "published": "2025-11-03T16:57:56",
+      "content": "Progressive candidate Zohran Mamdani is leading the polls in New York’s mayoral race, focusing on economic concerns like cost of living and job security. Historian Michael Kazin analyzes why Mamdani is gaining support and what his potential victory could mean for the progressive wing of the Democratic Party, backed by figures like Bernie Sanders and AOC. While his campaign addresses local issues, the outcome could have broader implications for the party’s future nationwide.",
+      "content_length": 478,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
+      "link": "https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/",
+      "published": "2025-11-03T16:53:45",
+      "content": "In recent weeks, copies of an intriguing policy document have started to spread among space lobbyists on Capitol Hill in Washington, DC. The document bears the title “Athena,” and it purports to summarize the actions that private astronaut Jared Isaacman would have taken, were his nomination to become NASA administrator confirmed.\nThe 62-page plan is notable both for the ideas to remake NASA that it espouses as well as the manner in which it has been leaked to the space community.\nAfter receiving a copy of this plan from an industry official, I spoke with multiple sources over the weekend to understand what is happening. Based upon this reporting there are clearly multiple layers to the story, which I want to unpack.Read full article\nComments",
+      "content_length": 752,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Medieval tower partially collapses in central Rome",
+      "link": "https://www.france24.com/en/video/20251103-medieval-tower-partially-collapses-in-central-rome",
+      "published": "2025-11-03T16:50:53",
+      "content": "The Torre dei Conti medieval tower in central #Rome was under renovation when it partially collapsed on November 3 just after 11:30 am local time. One worker is believed to be trapped alive under rubble, while three others were evacuated, with one taken to hospital in critical condition, a firefighter spokesman told AFP. The tower is in a busy area, just off the Imperial Forum and close to the #Colosseum, #Italy's top tourist site.",
+      "content_length": 435,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "At least 36,000 Sudanese have fled since fall of El Fasher to RSF, says UN agency",
+      "link": "https://www.theguardian.com/world/2025/nov/03/sudanese-refugees-el-fasher-rsf-tawila-un",
+      "published": "2025-11-03T16:36:56",
+      "content": "International Organization for Migration says displaced are heading to Tawila, which is already sheltering 652,000 displaced peopleMore than 36,000 people have fled Sudan’s Kordofan region since Saturday amid a surge in fighting, the UN’s migration agency has said, after the capture last week of the city of El Fasher in neighbouring Darfur by the paramilitary Rapid Support Forces (RSF) after more than a year under siege.The strategic central area between the country’s Darfur provinces and the Khartoum-Riverine region that includes the capital, Khartoum, to the east, has in recent weeks become the latest battleground in the two-year civil war between the Sudanese armed forces (SAF) and the paramilitary group. Continue reading...",
+      "content_length": 737,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel top military lawyer arrested after she admitted leaking video of soldiers’ abuse",
+      "link": "https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse",
+      "published": "2025-11-03T16:20:52",
+      "content": "Rightwing politicians and pundits have called the soldiers accused of attack on Palestinian detainee ‘heroes’ and military investigators traitors Police in Israel have arrested and detained the military’s top legal officer after she admitted leaking footage of soldiers allegedly attacking a Palestinian detainee and then in effect lying about her actions to Israel’s high court.The military advocate general, Yifat Tomer-Yerushalmi, said in a resignation letter last week that she had authorised publication of the video to defuse attacks on military investigators and prosecutors working on the case. Continue reading...",
+      "content_length": 622,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘I can’t go on anymore’: Mazón resigns as Valencia leader and acknowledges mistakes during deadly 2024 floods – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/03/valencia-spain-europe-ukraine-serbia-czech-republic-latest-live-news-updates",
+      "published": "2025-11-03T16:13:33",
+      "content": "Mazón faced daily calls for his resignation after flooding in October 2024 killed 229 peoplein BerlinElsewhere, Germany’s foreign minister, Johann Wadephul of the co-ruling Christian Democrats (CDU), made waves with comments signalling a softer position on returns of Syrians who arrived during the 2015-16 influx than espoused by much of the government Continue reading...",
+      "content_length": 373,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Five climbers and two guides killed in Nepal avalanche, say officials",
+      "link": "https://www.theguardian.com/world/2025/nov/03/climbers-guides-killed-mount-yalung-ri-nepal-avalanche-officials",
+      "published": "2025-11-03T16:13:00",
+      "content": "Bad weather hampering rescue efforts after avalanche that swept through Mount Yalung Ri base camp on MondayAn avalanche has swept through a camp on Mount Yalung Ri in Nepal, killing five foreign climbers and two Nepali guides, officials said.Shailendra Thapa, an armed police force spokesperson, said five other people had been hurt at the base camp, located at 4,900 metres (16,070ft). Continue reading...",
+      "content_length": 406,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wegen fehlender Nexperia-Chips: Kurzarbeit bei Bosch in Salzgitter",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/zulieferer-kurzarbeit-chipkrise-100.html",
+      "published": "2025-11-03T16:03:56",
+      "content": "   Ein Mangel an Halbleitern des chinesisch kontrollierten Herstellers Nexperia bleibt ein Problem für die deutsche Autobranche. Der Zulieferer Bosch hat Kurzarbeit für ein Werk beantragt, weitere Unternehmen bereiten sich darauf vor.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Endlagersuche: Nur noch ein Viertel des Bundesgebiets im Rennen",
+      "link": "https://www.tagesschau.de/wissen/forschung/atommuell-endlagersuche-100.html",
+      "published": "2025-11-03T16:03:08",
+      "content": "   Wohin mit dem deutschen Atommüll - und zwar so sicher, dass er dort mindestens eine Million Jahre bleiben kann? Experten haben jetzt die Regionen eingegrenzt, die die Bedingungen erfüllen. Ein Bundesland ist rausgefallen.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Russland meldet Vormarsch in strategisch wichtiger Stadt Pokrowsk",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-vormarsch-pokrowsk-sumy-100.html",
+      "published": "2025-11-03T15:31:55",
+      "content": "   Seit mehr als einem Jahr versucht Russland die ukrainische Stadt Pokrowsk zu erobern und ist diesem Ziel nach eigenen Angaben nun näher gekommen. Auch andere ukrainische Landesteile melden russische Angriffe - etwa Sumy.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaftsministerin Reiche kündigt Industriestrompreis ab 2026 an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/reiche-industriestrompreis-2026-100.html",
+      "published": "2025-11-03T15:09:31",
+      "content": "   Seit Jahren wird über einen Industriestrompreis diskutiert, jetzt könnte er schnell kommen. Für die Wirtschaft wäre die neue Subvention eine wichtige Stütze - auf den Staat kommen aber hohe Kosten zu.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Regenfälle und Überschwemmungen: Zahl der Toten in Vietnam steigt auf 37",
+      "link": "https://www.tagesschau.de/ausland/vietnam-ueberschwemmungen-100.html",
+      "published": "2025-11-03T15:02:20",
+      "content": "   Schwere Überschwemmungen und starker Regen: In Teilen Vietnams stehen seit einer Woche Häuser unter Wasser. 37 Menschen kamen bisher ums Leben. Jetzt nähert sich auch noch ein Tropensturm.[mehr]",
+      "content_length": 197,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie reagieren Menschen in Nigeria auf Trumps Drohung?",
+      "link": "https://www.tagesschau.de/ausland/nigeria-reaktionen-drohung-trump-100.html",
+      "published": "2025-11-03T14:57:23",
+      "content": "   US-Präsident Trump hatte Nigeria mit einem Militäreinsatz gedroht, sollten Christen nicht besser vor Gewalt geschützt werden. In Nigeria sorgt das für Schlagzeilen. Doch die Lage ist komplexer, als von Trump dargestellt. Von K. Bensch.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disruption to science will last longer than the US government shutdown",
+      "link": "https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/",
+      "published": "2025-11-03T14:45:11",
+      "content": "US science always suffers during government shutdowns. Funding lapses send government scientists home without pay. Federal agencies suspend new grant opportunities, place expert review panels on hold, and stop collecting and analyzing critical public datasets that tell us about the economy, the environment, and public health.\nIn 2025, the stakes are higher than in past shutdowns.\nThis shutdown arrives at a time of massive upheaval to American science and innovation driven by President Donald Trump’s ongoing attempts to extend executive power and assert political control of scientific institutions.Read full article\nComments",
+      "content_length": 630,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "My Father’s Shadow looms over competition at British independent film awards",
+      "link": "https://www.theguardian.com/film/2025/nov/03/british-independent-film-awards-nominations-bifa-my-fathers-shadow-pillion",
+      "published": "2025-11-03T14:34:02",
+      "content": "Akinola Davies Jr’s Nigeria-set drama has 12 nominations, including best film and besr directorNigeria-set drama My Father’s Shadow is the leading contender at this year’s British independent film awards (Bifas), after it scooped 12 nominations, including best British independent film, best director for Akinola Davies Jr, and best screenplay for Davies’s brother Wale. The film came out ahead of Pillion, adapted from Adam Mars-Jones’s coming-of-age relationship story, which got 10 nominations, and biopic I Swear, which got nine.My Father’s Shadow, which stars Sope Dirisu and is Davies’s debut feature as a director, premiered at the Cannes film festival to admiring reviews. The Guardian’s Peter Bradshaw described it as “a transparently personal project and a coming-of-age film in its (traumatised) way, a moving account of how, just for one day, two young boys glimpse the real life and real history of their father who has been mostly absent for much of their lives”. The film is yet to be released in the UK, but has already come out in Nigeria. Continue reading...",
+      "content_length": 1076,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ryanair verbucht dank höherer Ticketpreise einen Gewinnsprung",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ryanair-gewinnsprung-100.html",
+      "published": "2025-11-03T14:29:10",
+      "content": "   Dank gestiegener Ticketpreise verdient Ryanair wieder Milliarden. Ihre Präsenz in Deutschland will die irische Billigfluglinie allerdings angesichts der hohen Standortkosten weiter zurückfahren.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die Produktwerker: Wie viel Zeit darf das Erstellen von User Stories kosten?",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Wie-viel-Zeit-darf-das-Erstellen-von-User-Stories-kosten-10984544.html",
+      "published": "2025-11-03T14:16:00",
+      "content": "Wie viel Aufwand lohnt sich für das Schreiben von User Stories? Entscheidend ist, dass Teams Zeit in gemeinsames Denken investieren, meinen die Produktwerker.",
+      "content_length": 158,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Messerangriff im Zug: Verdächtiger wegen versuchten Mordes angeklagt",
+      "link": "https://www.tagesschau.de/ausland/europa/england-zug-angriff-anklage-100.html",
+      "published": "2025-11-03T13:57:55",
+      "content": "   Nach dem Messerangriff in einem englischen Zug ist der Tatverdächtige des versuchten Mordes angeklagt worden. Das Motiv ist weiter unklar - die Polizei geht aber nicht von einem Terrorakt aus.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zero-Day-Lücke bei LNK-Anzeige in Windows gegen Diplomaten missbraucht",
+      "link": "https://www.heise.de/news/Windows-Zero-Day-Luecke-bei-LNK-Anzeige-gegen-Diplomaten-missbraucht-10983101.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-03T13:39:00",
+      "content": "Microsoft hält eine Lücke in der LNK-Anzeige für nicht behebenswert. Sie wurde inzwischen gegen europäische Diplomaten missbraucht.",
+      "content_length": 131,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israel and Hamas hand over bodies as part of Gaza ceasefire deal",
+      "link": "https://www.theguardian.com/world/2025/nov/03/israel-remains-hostages-gaza-hamas",
+      "published": "2025-11-03T13:36:21",
+      "content": "Hamas hands remains of three soldiers to Israel and bodies of 45 Palestinians are returned to Gaza amid fragile ceasefireIsrael has announced that the remains of three soldiers killed by Hamas during its raid into Israel on 7 October 2023 have been handed over by the militant group.The transfer is the latest since the precarious ceasefire in Gaza came into effect just over three weeks ago. Continue reading...",
+      "content_length": 412,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Münchner Eisbachwelle derzeit wegen Wassermangel nicht surfbar",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-eisbach-welle-100.html",
+      "published": "2025-11-03T13:04:03",
+      "content": "   Zu wenig Wasser zum Surfen: Am Eisbach in München im Englischen Garten gibt es nur noch ein Wellchen - und keine Welle mehr, die zum Surfen geeignet ist. Woran das liegt, ist noch nicht ganz klar.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "KI-Musik: Nutzer-Frust nach Einigung zwischen Universal Music und Udio",
+      "link": "https://www.heise.de/news/KI-Musik-Nutzer-Frust-nach-Einigung-zwischen-Universal-Music-und-Udio-10980796.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-03T12:55:00",
+      "content": "Universal Music hat eine Einigung zum KI-Training mit der Udio-Plattform erzielt. Nutzer sind frustriert: Downloads gibt es nicht mehr.",
+      "content_length": 135,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Schimpansen hinterfragen ihre Entscheidungen rational",
+      "link": "https://www.tagesschau.de/wissen/verhaltensbiologie-schimpansen-primaten-kognition-bewusstsein-100.html",
+      "published": "2025-11-03T12:53:18",
+      "content": "   Schimpansen denken komplexer als bisher gedacht: Sie können ihre Entscheidungen überdenken, wenn sie neue Argumente bekommen. Das zeigt eine neue Studie. Bisher kannte man das so nur vom Menschen. Von Veronika Simon.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie die USA ihre Atomwaffen testen, ohne sie zu zünden",
+      "link": "https://www.tagesschau.de/wissen/technologie/atomwaffentests-100.html",
+      "published": "2025-11-03T12:30:49",
+      "content": "   Seit 1992 testen die USA ihre Atomwaffen nicht mehr per Zündung. Stattdessen werden die Folgen einer nuklearen Explosion am Rechner simuliert. Uwe Gradwohl erklärt, wie die Tests ablaufen und welche Fragen dabei nicht beantwortet werden.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Internet Archive’s legal fights are over, but its founder mourns what was lost",
+      "link": "https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/",
+      "published": "2025-11-03T12:00:51",
+      "content": "Last month, the Internet Archive’s Wayback Machine archived its trillionth webpage, and the nonprofit invited its more than 1,200 library partners and 800,000 daily users to join a celebration of the moment. To honor “three decades of safeguarding the world’s online heritage,” the city of San Francisco declared October 22 to be “Internet Archive Day.” The Archive was also recently designated a federal depository library by Sen. Alex Padilla (D-Calif.), who proclaimed the organization a “perfect fit” to expand “access to federal government publications amid an increasingly digital landscape.”\nThe Internet Archive might sound like a thriving organization, but it only recently emerged from years of bruising copyright battles that threatened to bankrupt the beloved library project. In the end, the fight led to more than 500,000 books being removed from the Archive’s “Open Library.”\n“We survived,” Internet Archive founder Brewster Kahle told Ars. “But it wiped out the Library.”Read full article\nComments",
+      "content_length": 1013,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Staatsanwaltschaft ermittelt gegen CDU-Abgeordnete Bosbach",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bosbach-betrugsvorwurf-ermittlungen-100.html",
+      "published": "2025-11-03T11:57:38",
+      "content": "   Es geht um eine 2.500 Euro-Rechnung im Wahlkampf: Die Staatsanwaltschaft hat wegen Betrugsverdacht Ermittlungen gegen die CDU-Abgeordnete Bosbach aufgenommen. Sie bestreitet die Vorwürfe.[mehr]",
+      "content_length": 196,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Lawinenunglück in Südtirol: Alle deutschen Todesopfer identifiziert",
+      "link": "https://www.tagesschau.de/ausland/europa/suedtirol-bergsteiger-100.html",
+      "published": "2025-11-03T11:17:53",
+      "content": "   Fünf deutsche Bergsteiger starben am Samstag bei einem Lawinenunglück in Südtirol. Nun ist ihre Identität geklärt: die 17- bis und 58-Jährigen stammen alle aus Bayern. Gerätselt wird, warum sie spät am Nachmittag noch auf dem Weg zum Gipfel waren.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "APT-Umstellung auf Rust: Debian setzt exotische Ports unter Druck",
+      "link": "https://www.heise.de/news/Debian-APT-bekommt-ab-Mai-2026-harte-Rust-Abhaengigkeit-10968522.html",
+      "published": "2025-11-03T11:15:00",
+      "content": "Ab Mai 2026 wird Debian APT Rust zwingend voraussetzen. Ports ohne funktionierende Rust-Toolchain haben sechs Monate Zeit – oder werden eingestellt.",
+      "content_length": 148,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Polizei ermittelt nach Drohnensichtung am Bremer Flughafen",
+      "link": "https://www.tagesschau.de/inland/regional/bremen/drohnensichtung-bremen-flughafen-100.html",
+      "published": "2025-11-03T10:36:00",
+      "content": "   Nach der Sichtung einer Drohne am Bremer Flughafen gestern Abend ist der Flugbetrieb für gut 40 Minuten eingestellt worden. Eine Maschine wurde umgeleitet, vier andere flogen verspätet los.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Xi Jinping cracks joke about spying with phones given to South Korean president",
+      "link": "https://www.theguardian.com/world/2025/nov/03/xi-jinping-cracks-joke-about-spying-with-phones-given-to-south-korean-president",
+      "published": "2025-11-03T10:29:27",
+      "content": "Chinese leader says ‘check if there is a backdoor’ in reply to Lee Jae Myung’s quip about security of Xiaomi devices  It would take someone with nerves of steel to joke about the security of Chinese smartphones in front of Xi Jinping.Step forward the South Korean president, Lee Jae Myung, who, after being given a pair of smartphones by the Chinese leader before their state banquet at the weekend, wondered out loud if the devices were secure. Continue reading...",
+      "content_length": 465,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Valencia: Regionalpräsident Mazón tritt nach Flut zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/valencia-flut-ruecktritt-100.html",
+      "published": "2025-11-03T10:23:20",
+      "content": "   229 Tote, Tausende Verletzte und ein Milliardenschaden: Die Flutkatastrophe von Valencia vor einem Jahr war verheerend. Doch der verantwortliche Regionalpräsident Mazón wehrte sich lange gegen Rücktrittsforderungen - bis jetzt. [mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Windows bekommt gemeinsames Musikhören mit Bluetooth LE Shared Audio",
+      "link": "https://www.heise.de/news/Windows-bekommt-gemeinsames-Musikhoeren-mit-Bluetooth-LE-Shared-Audio-10967210.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-03T09:56:00",
+      "content": "Neue Windows-Insider-Vorschauen bringen \"Shared Audio\" für Bluetooth LE mit. Damit lässt sich der Klang auf zwei Geräten zugleich ausgeben.",
+      "content_length": 139,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Video-Leak: Israels Militäranwältin nach Rücktritt festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/militaeranwaeltin-israel-festnahme-100.html",
+      "published": "2025-11-03T09:32:01",
+      "content": "   Das geleakte Video hatte 2024 Empörung ausgelöst: Es zeigt offenbar, wie israelische Soldaten einen Palästinenser misshandeln. Erst trat die oberste Militäranwältin wegen des Leaks zurück - jetzt wurde sie festgenommen.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The Philippines braces for 20th tropical cyclone this year as Tino looms",
+      "link": "https://www.theguardian.com/environment/2025/nov/03/the-philippines-tropical-cyclone-tino-queensland",
+      "published": "2025-11-03T08:53:07",
+      "content": "Storm locally known as Kalmaegi expected to make landfall by Tuesday, while a supercell rocks QueenslandTropical Cyclone Tino formed to the east of the Philippines at the weekend, prompting a nationwide alert. Locally known as Kalmaegi, the storm is strengthening quickly and could reach typhoon status before making landfall early this week, which would make it the 20th tropical cyclone to hit the country this year.The weather system entered the Philippine Area of Responsibility on Sunday, with sustained winds of 52mph (84km/h) and 65mph gusts. The storm is tracking westward and is expected to intensify into a typhoon within the next 24 hours, before making landfall over Caraga or Eastern Visayas by Tuesday morning. Continue reading...",
+      "content_length": 744,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "100 Tage Handelsdeal: Wie Trump-Zölle die Wirtschaft treffen",
+      "link": "https://www.heise.de/news/100-Tage-Handelsdeal-Wie-Trump-Zoelle-die-Wirtschaft-treffen-10969514.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-03T08:50:00",
+      "content": "Ende Juli einigten sich Brüssel und Washington im Zollstreit. Mit dem Abkommen wurde das Schlimmste abgewendet, doch spürbare Folgen bleiben.",
+      "content_length": 141,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Geschmolzenes Glas: Erstmals fahrendes Fahrzeug von einem Meteoriten getroffen?",
+      "link": "https://www.heise.de/news/Australien-Moeglicherweise-erstmals-fahrendes-Fahrzeug-von-Meteorit-getroffen-10966995.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-03T08:41:00",
+      "content": "In Australien untersucht ein Museumsexperte, ob einem brandneuen Tesla von einem Meteoriten die Windschutzscheibe zerschlagen wurde. Noch besteht Skepsis.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Debatte um Syrien-Rückkehr: Wadephuls Zweifel sorgen für Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruckfuehrung-syrien-wadephul-kritik-100.html",
+      "published": "2025-11-03T08:04:08",
+      "content": "   \"Hier können wirklich kaum Menschen richtig würdig leben\": Bei seinem Syrien-Besuch hat Außenminister Wadephul sich skeptisch gezeigt, dass viele Flüchtlinge freiwillig zurückgehen. Aus der Union wird er nun kritisiert.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Generalinspekteur Breuer will alle jungen Männer mustern lassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-losen-wehrpflicht-100.html",
+      "published": "2025-11-03T07:30:18",
+      "content": "   Der Generalinspekteur der Bundeswehr hat sich in der Debatte über die Wehrpflicht für eine Musterung aller jungen Männer ausgesprochen. Breuer will auf Freiwilligkeit setzen - und den Wehrdienst attraktiver machen.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
