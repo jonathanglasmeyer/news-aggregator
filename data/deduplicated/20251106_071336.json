@@ -1,0 +1,1481 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-06T07:13:36.031218",
+    "deduplicated_at": "2025-11-06 07:13:36",
+    "lookback_days": 7,
+    "total_input": 1121,
+    "duplicates_removed": 958,
+    "new_articles": 163,
+    "deduplication_rate": "85.5%",
+    "historical_files_checked": 8
+  },
+  "articles": [
+    {
+      "title": "Bundestag beschließt härtere Strafen für Geldautomatensprengung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hoehere-strafe-sprengung-geldautomaten-100.html",
+      "published": "2025-11-06T07:03:14",
+      "content": "   Immer wieder sprengen Diebesbanden in Deutschland Geldautomaten. Härtere Strafen sowie zusätzliche Befugnisse für die Polizei sollen die Täter nun abschrecken. Das hat der Bundestag beschlossen. [mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "World leaders to rally in support of climate action before COP30 summit",
+      "link": "https://www.france24.com/en/environment/20251106-world-leaders-to-rally-in-support-of-climate-action-before-cop30-summit",
+      "published": "2025-11-06T07:02:29",
+      "content": "The heads of state of about 50 countries are expected in the Amazonian city of Belem for a summit on Thursday and Friday, before the annual UN Conference of Parties (COP) climate negotiations that open next week. Almost every nation is participating aside from the United States, with President Donald Trump having branded climate science a \"con job\".",
+      "content_length": 351,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pollution from Ineos’s Antwerp plastic plant ‘will cause more deaths than jobs created’",
+      "link": "https://www.theguardian.com/business/2025/nov/06/pollution-ineos-antwerp-plastic-plant-deaths-jobs-created",
+      "published": "2025-11-06T07:00:47",
+      "content": "Lawyers challenge €4bn Project One development, saying emissions and health impacts vastly underestimatedThe deaths from pollution caused by Europe’s biggest plastic plant, which is being built in Antwerp, will outstrip the number of permanent jobs it will create, lawyers will argue in a court challenge issued on Thursday.In documents submitted to the court, research suggests the air pollution from Ineos’s €4bn petrochemical plant would cause 410 deaths once operational, compared with the 300 permanent jobs the company says will be created. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Klimapolitik - IW-Chef Hüther kritisiert Verschiebung des europäischen Zertifikatehandels",
+      "link": "https://www.deutschlandfunk.de/iw-chef-huether-kritisiert-verschiebung-des-europaeischen-zertifikatehandels-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Der Direktor des Instituts der Deutschen Wirtschaft, Hüther, hat die Kompromisse der EU-Staaten in der Klimapolitik als Verlust an Planungssicherheit kritisiert. Hüther sagte im Deutschlandfunk, es sei keine gute Entscheidung, die Ausweitung des CO2-Zertifikatehandels um ein Jahr zu verschieben. Jede Verzögerung werde am Ende teurer.",
+      "content_length": 335,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Stahlgipfel im Kanzleramt - Merz hebt Bedeutung der Stahlindustrie für Deutschland hervor",
+      "link": "https://www.deutschlandfunk.de/merz-hebt-bedeutung-der-stahlindustrie-fuer-deutschland-hervor-108.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Vor dem heutigen Stahlgipfel hat Bundeskanzler Merz auf die strategische Bedeutung der Branche für Deutschland hingewiesen. Man brauche eine wettbewerbsfähige, zukunftsfähige und moderne Stahlindustrie, erklärte Merz. Sie sichere Arbeitsplätze und Wertschöpfungsketten und damit den Wohlstand des Landes.",
+      "content_length": 304,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Dresden - Prozess gegen mutmaßliche NSU-Unterstützerin beginnt",
+      "link": "https://www.deutschlandfunk.de/prozess-gegen-mutmassliche-nsu-unterstuetzerin-beginnt-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Vor dem Oberlandesgericht Dresden beginnt heute der Prozess gegen eine mutmaßliche Vertraute der NSU-Terroristin Beate Zschäpe.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheit - Drogenbeauftragter Streeck warnt vor sorglosem Umgang mit Alkohol",
+      "link": "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-sorglosem-umgang-mit-alkohol-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Der Bundesdrogenbeauftragte Streeck hat vor einem zu sorglosen Umgang mit Alkohol gewarnt.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrdienstdebatte - CDU-Experte für flächendeckende Musterung, Bundesjugendring gegen Wehrpflicht",
+      "link": "https://www.deutschlandfunk.de/cdu-experte-fuer-flaechendeckende-musterung-bundesjugendring-gegen-wehrpflicht-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In der Diskussion über das neue Wehrdienstmodell plädiert der Vorsitzende des Verteidigungsausschusses im Bundestag, Röwekamp, dafür, alle jungen Männer eines Jahrgangs zu mustern.",
+      "content_length": 180,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Hamas übergibt weitere Leiche an Rotes Kreuz",
+      "link": "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-an-rotes-kreuz-108.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Im Gazastreifen hat die Terrororganisation Hamas einen weiteren Leichnam an Mitarbeiter des Internationalen Komitees vom Roten Kreuz übergeben.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Serbien - Polizei hält Demos für und gegen die Regierung voneinander fern",
+      "link": "https://www.deutschlandfunk.de/polizei-haelt-demos-fuer-und-gegen-die-regierung-voneinander-fern-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In Serbien ist es nahe dem Parlament zu Demonstrationen für und gegen die Regierung gekommen.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Shutdown führt zu Flug-Streichungen",
+      "link": "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-flug-streichungen-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Wegen des sogenannten Shutdowns werden in den USA voraussichtlich von Freitag an Flüge gestrichen.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vor der Weltklimakonferenz - Kritik an Klimaschutzzielen der EU",
+      "link": "https://www.deutschlandfunk.de/kritik-an-klimaschutzzielen-der-eu-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Greenpeace hat die angepassten Klimaziele der Europäischen Union kritisiert. Mit Blick auf die bevorstehende UNO-Klimakonferenz in Brasilien erklärte die Umweltschutzorganisation, die EU fahre mit einem schwachen Klimaziel nach Belém und ignoriere die Warnungen der Wissenschaft.",
+      "content_length": 279,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nationaler Sicherheitsrat - Gremium zu erster Sitzung zusammengekommen",
+      "link": "https://www.deutschlandfunk.de/gremium-zu-erster-sitzung-zusammengekommen-104.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Der neu eingerichtete Nationale Sicherheitsrat der Bundesregierung ist zum ersten Mal zusammengekommen.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Vorstoß von Klöckner - Auch Bundesgesundheitsministerin Warken fordert Sexkauf-Verbot",
+      "link": "https://www.deutschlandfunk.de/auch-bundesgesundheitsministerin-warken-fordert-sexkauf-verbot-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Nach Bundestagspräsidentin Klöckner hat sich auch Bundesgesundheitsministerin Warken für ein Sexkaufverbot in Deutschland ausgesprochen.",
+      "content_length": 136,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Härtere Strafen für das Sprengen von Geldautomaten beschlossen",
+      "link": "https://www.deutschlandfunk.de/haertere-strafen-fuer-das-sprengen-von-geldautomaten-beschlossen-104.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Für das Sprengen von Geldautomaten drohen künftig härtere Strafen.",
+      "content_length": 66,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Angola - Steinmeier beendet Afrika-Reise",
+      "link": "https://www.deutschlandfunk.de/steinmeier-beendet-afrika-reise-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Bundespräsident Steinmeier beendet heute in Angola seine Afrika-Reise.",
+      "content_length": 70,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mexiko - Mann nach sexueller Belästigung von Präsidentin Sheinbaum festgenommen",
+      "link": "https://www.deutschlandfunk.de/mann-nach-sexueller-belaestigung-von-praesidentin-sheinbaum-festgenommen-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In Mexiko wird darüber diskutiert, wie man Frauen und Mädchen besser vor sexueller Belästigung schützen kann.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Bundesstaat Kentucky - Zahl der Toten bei Absturz von Frachtflugzeug auf 12 gestiegen",
+      "link": "https://www.deutschlandfunk.de/zahl-der-toten-bei-absturz-von-frachtflugzeug-auf-12-gestiegen-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Nach dem Absturz eines Frachtflugzeugs im US-Bundesstaat Kentucky ist die Zahl der Toten auf zwölf gestiegen.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Taifun \"Kalmaegi\" - Mehr als 100 Tote auf den Philippinen",
+      "link": "https://www.deutschlandfunk.de/mehr-als-100-tote-auf-den-philippinen-100.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Auf den Philippinen geben die Behörden die Zahl der Toten durch den Taifun \"Kalmaegi\" inzwischen mit mindestens 114 an.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Oberstes US-Gericht befasst sich erstmals mit Trumps Zöllen",
+      "link": "https://www.deutschlandfunk.de/oberstes-us-gericht-befasst-sich-erstmals-mit-trumps-zoellen-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In den USA hat sich der Oberste Gerichtshof erstmals mit der Zollpolitik von Präsident Trump befasst.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach US-Ankündigung - Putin ordnet Vorbereitung von Atomtests an",
+      "link": "https://www.deutschlandfunk.de/putin-ordnet-vorbereitung-von-atomtests-an-112.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Der russische Präsident Putin hat die Vorbereitung möglicher Atomwaffentests angeordnet. Er wies seine Spitzenbeamten an, entsprechende Vorschläge auszuarbeiten. Putin reagierte damit auf von Präsident Trump angekündigte Atomtests der USA.",
+      "content_length": 239,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Münster - Preis des Westfälischen Friedens 2026 geht an NATO",
+      "link": "https://www.deutschlandfunk.de/preis-des-westfaelischen-friedens-2026-geht-an-nato-104.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Die NATO erhält den Internationalen Preis des Westfälischen Friedens 2026.",
+      "content_length": 74,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Zugverkehr - EU-Kommission plant Hochgeschwindigkeitsnetz für Zugverbindungen zwischen EU-Metropolen",
+      "link": "https://www.deutschlandfunk.de/eu-kommission-plant-hochgeschwindigkeitsnetz-fuer-zugverbindungen-zwischen-eu-metropolen-106.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Die EU plant ein Hochgeschwindigkeitsnetz für Zugreisen zwischen europäischen Hauptstädten bis spätestens 2040.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bosnien-Herzegowina - Mindestens elf Tote nach Brand in Seniorenheim",
+      "link": "https://www.deutschlandfunk.de/mindestens-elf-tote-nach-brand-in-seniorenheim-108.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In Bosnien-Herzegowina sind bei einem Brand in einem Seniorenwohnheim mindestens elf Menschen ums Leben gekommen.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Internethandel - Frankreich sperrt \"Shein\" im Skandal um Sexpuppen in Kinderoptik",
+      "link": "https://www.deutschlandfunk.de/frankreich-sperrt-shein-im-skandal-um-sexpuppen-in-kinderoptik-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Im Skandal um Sexpuppen in Kinderoptik hat die französische Regierung angekündigt, den asiatischen Online-Händler \"Shein\" vorläufig zu sperren.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Aktuelle Stunde - Vorwürfe im Bundestag gegen AfD wegen Russland-Kontakten",
+      "link": "https://www.deutschlandfunk.de/vorwuerfe-im-bundestag-gegen-afd-wegen-russland-kontakten-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Im Bundestag sind die Russland-Kontakte der AfD als Sicherheitsrisiko kritisiert worden.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Union - Merz stellt sich in Syrien-Diskussion hinter Wadephul",
+      "link": "https://www.deutschlandfunk.de/merz-stellt-sich-in-syrien-diskussion-hinter-wadephul-114.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In der Diskussion um den Umgang mit syrischen Flüchtlingen in Deutschland hat Bundeskanzler Merz seinem Parteikollegen Wadephul den Rücken gestärkt. Regierungssprecher Kornelius sagte in Berlin, selbstverständlich stehe der Bundeskanzler hinter dem Außenminister.",
+      "content_length": 263,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Extremismus - Bundestagspräsidentin Klöckner verurteilt Anschlag auf Fahrzeug von AfD-Abgeordnetem Baumann",
+      "link": "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-verurteilt-anschlag-auf-fahrzeug-von-afd-abgeordnetem-baumann-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Bundestagspräsidentin Klöckner hat den Brandanschlag auf das Fahrzeug des AfD-Abgeordneten Baumann verurteilt.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Klimaschutz - Deutsche Bahn bestellt erstmals Schienen aus \"grünem\" Stahl",
+      "link": "https://www.deutschlandfunk.de/deutsche-bahn-bestellt-erstmals-schienen-aus-gruenem-stahl-104.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Die Deutsche Bahn hat ein Pilotprojekt für den Einsatz von sogenanntem \"grünen\" Stahl in ihrem Schienennetz auf den Weg gebracht.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Aachen - Ehemaliger Krankenpfleger wegen zehnfachen Mordes schuldig gesprochen",
+      "link": "https://www.deutschlandfunk.de/ehemaliger-krankenpfleger-wegen-zehnfachen-mordes-schuldig-gesprochen-112.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Das Aachener Landgericht hat einen Krankenpfleger wegen zehnfachen Mordes und 27-fachen Mordversuchs zu einer lebenslangen Freiheitsstrafe verurteilt.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Namensänderung - BSW soll künftig für \"Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft\" stehen",
+      "link": "https://www.deutschlandfunk.de/bsw-soll-kuenftig-fuer-buendnis-soziale-gerechtigkeit-und-wirtschaftliche-vernunft-stehen-102.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Die Spitze des BSW hat sich offenbar auf einen neuen Namen verständigt.",
+      "content_length": 71,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Aktivistin Karoline Preisler mit Paul-Spiegel-Preis für Zivilcourage geehrt",
+      "link": "https://www.deutschlandfunk.de/aktivistin-karoline-preisler-mit-paul-spiegel-preis-fuer-zivilcourage-geehrt-106.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Die Aktivistin Karoline Preisler ist mit dem Paul-Spiegel-Preis für Zivilcourage ausgezeichnet worden.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Champion-League - Leverkusen siegt in Lissabon, Dortmund verliert in Manchester",
+      "link": "https://www.deutschlandfunk.de/leverkusen-siegt-in-lissabon-dortmund-verliert-in-manchester-108.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "In der Fußball-Champions League gab es folgende Ergebnisse:",
+      "content_length": 59,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Meist sonnig oder leicht bewölkt",
+      "link": "https://www.deutschlandfunk.de/meist-sonnig-oder-leicht-bewoelkt-174.html",
+      "published": "2025-11-06T06:59:13",
+      "content": "Das Wetter: Im Nordwesten und Westen wolkig. Im Süden zäher Nebel. Sonst sonnig. Temperaturen 8 bis 19 Grad. Morgen oftmals anhaltend neblig. Am meisten Sonne im Westen. Bei Nebel 4 bis 8 Grad, bei Sonne 10 bis 16.",
+      "content_length": 214,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Liberal party sets date for net zero decision – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/06/australia-politics-live-wfh-working-from-home-banks-net-zero-nationals-liberals-coalition-sussan-ley-anthony-albanese-labor-question-time-ntwnfb",
+      "published": "2025-11-06T06:59:08",
+      "content": "This blog is now closedPauline Hanson skips parliament to speak at conservative conference at Trump’s Mar-a-LagoGet our breaking news email, free app or daily news podcastJane Hume plays down divisions in the Liberal partyThe Liberal party is in damage control, trying to hold itself together as it forms a position on energy and net zero.The Nationals have a position and the Liberal party will develop its position and we’ll announce it soon. The most important thing soon is that as a coalition, we then come up with a joint policy we can take to the next election … We need to make sure we protect our natural environment and by that I also mean our regional and rural communities who at the moment are being blanketed with renewable energy projects.Absolutely. Sussan is the leader and leading debate. We want to take the time and get it right.But, of course, I want to see older people and the people that love them being able to access an assessment and care system that is agile and able to respond to their needs. So we’ll keep working to make sure that that assessment system is part of a broader ecosystem is that is responsive to the needs of older people in our community. Continue reading...",
+      "content_length": 1205,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gaza ceasefire: 'Instead of just ceasing the war, we need to cease the conflict'",
+      "link": "https://www.france24.com/en/video/20251106-gaza-ceasefire-instead-of-just-ceasing-the-war-we-need-to-cease-the-conflict",
+      "published": "2025-11-06T06:55:43",
+      "content": "The United States has presented a draft UN Security Council resolution to partner nations aimed at bolstering President Donald Trump's Gaza peace plan, including by greenlighting an international security force, Washington's mission said. The US statement said the resolution \"welcomes the Board of Peace,\" a transitional governing body for Gaza envisioned in Trump's 20-point plan, which he would chair. It also \"authorizes the International Stabilization Force\" (ISF) outlined in the peace plan.For a broader perspective on the prospects for peace between Israelis and Palestinians, François Picard welcomes prominent Palestinian peace activist Ali Abu Awwad. Mr. Awwad asserts that \"If the international community was able to cease the fire in Gaza, then they are absolutely able to put pressure\" on Israelis and Palestinians for a lasting peace.",
+      "content_length": 849,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Warken spricht sich für Sexkaufverbot aus",
+      "link": "https://www.tagesschau.de/inland/warken-verbot-sexkauf-100.html",
+      "published": "2025-11-06T06:48:36",
+      "content": "   Bundestagspräsidentin Klöckner hat eine Debatte zur Prostitution angestoßen, Deutschland sei der \"Puff Europas\". Nun pflichtet ihr Gesundheitsministerin Warken bei und fordert eine neue gesetzliche Regelung.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Thursday briefing: ​Inside Labour’s ambitious rethink of the national curriculum",
+      "link": "https://www.theguardian.com/world/2025/nov/06/thursday-briefing-inside-labours-ambitious-rethink-of-the-national-curriculum",
+      "published": "2025-11-06T06:39:56",
+      "content": "In today’s newsletter: After decades of political tinkering, a new review of England’s national curriculum promises change without chaos – but can it really add without overwhelming​?Good morning. I’m Martin Belam, and this is my first time in your inbox for First Edition – though you may already know me from Guardian live blogs, my Doctor Who obsession, and the increasingly silly Thursday news quiz I write.I’m also old enough to have been part of the first ever cohort to take GCSEs instead of O-levels, and that exam upheaval has been followed by decades of successive governments tinkering with how children get educated. The latest attempt is a Bridget Phillipson-commissioned review of the entirety of England’s national curriculum, led by Prof Becky Francis, which has recommended shortening exams, streamlining some subjects, and adding in new components she suggests will better equip pupils for the modern world.UK news | David Lammy, the UK justice secretary, is under mounting pressure after two more prisoners, including a convicted foreign sex offender, were mistakenly freed.China influence | UK academics whose research is critical of China say they have been targeted and their universities subjected to “extremely heavy” pressure from Beijing. The Guardian this week revealed how Sheffield Hallam University complied with a demand from Beijing, halting a big project about human rights abuses in China.France | One of the men arrested on suspicion of stealing €88m (£77m) of crown jewels from the Louvre is reportedly a minor social media star with a passion for motorbikes who has worked as a security guard at the Pompidou centre. He has been identified by justice officials as Abdoulaye N, 39.Environment | There is still a chance for the world to avoid the worst ravages of climate breakdown and return to the goal of 1.5C if governments take concerted action on greenhouse gas emissions, a new assessment argues.UK politics | Lancashire’s Reform-run council has been accused of “selling off the family silver” with plans to save £4m a year by closing five council-run care homes and five day centres and selling off the land. Continue reading...",
+      "content_length": 2171,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frust über längsten Shutdown der US-Geschichte wächst",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-laengster-shutdown-100.html",
+      "published": "2025-11-06T06:35:39",
+      "content": "   Der längste Shutdown der US-Geschichte sorgt bei Bundesbediensteten für Frust: Nach 37 Tagen ohne Gehalt fühlen sich viele als politischer Spielball. Bei den Tafeln bilden sich lange Schlangen. Von A. Schneider. [mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Treiben Bilanzen den DAX heute an?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-bilanzsaison-100.html",
+      "published": "2025-11-06T06:33:20",
+      "content": "   Noch immer hängt der DAX an der Marke von 24.000 Punkten fest. Für Auftrieb könnte heute die Bilanzsaison sorgen, viele DAX-Unternehmen werden ihre Quartalsberichte vorstellen. [mehr]",
+      "content_length": 186,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sam Groth’s ambition to be premier meant articles on relationship with wife ‘not idle gossip’, News Corp claims",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/sam-groth-premier-ambition-stories-about-relationship-with-wife-not-idle-gossip-news-corp-claims-ntwnfb",
+      "published": "2025-11-06T06:05:59",
+      "content": "Court told new privacy laws shouldn’t apply to Herald Sun stories alleging Victorian MP’s wife, Brittany, was underage at start of relationshipFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNews Corp stories alleging Sam Groth began dating his wife, Brittany, while she was underage were far from “idle gossip” given the claims were being “weaponised” by rivals of the Victorian Liberal MP, who aspires to become premier, the publisher has told a court.The Herald and Weekly Times (HWT), reporter Stephen Drill and Herald Sun editor Sam Weir are being sued in the federal court over a series of articles published in July. Groth is suing for defamation while his wife has launched the first test case of new laws for serious invasions of privacy. Continue reading...",
+      "content_length": 832,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Garden shed of vaccine pioneer Edward Jenner added to heritage at risk register",
+      "link": "https://www.theguardian.com/culture/2025/nov/06/edward-jenner-vaccine-garden-shed-heritage-at-risk-register",
+      "published": "2025-11-06T06:00:49",
+      "content": "Hut where father of immunology trialled first smallpox vaccine among 138 additions to Historic England listA rustic, ordinary-looking English garden hut regarded as the birthplace of immunology – revolutionising global public health and saving countless lives – has been added to the nation’s heritage at risk register.The hut belonged to Edward Jenner (1749-1823, regarded as someone who has saved more lives than any other human. It was there that he first trialled a vaccine for smallpox in the late 18th century. Continue reading...",
+      "content_length": 536,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
+      "link": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
+      "published": "2025-11-06T06:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nCanon is announcing the EOS R6 Mark III camera, its latest jack-of-all-trades full-frame mirrorless model for both stills and video. The new camera has a 32.5-megapixel sensor, improved autofocus, up to 7K video recording, and a new dual-card arrangement with a faster CFexpress Type B slot. It’s set to launch November 25th and will sell body-only for $2,799 as well as in kits with the RF 24-105mm STM lens or RF 24-105mm L lens for $3,149 and $4,049, respectively.\n\nThe R6 line is aimed at a wider set of users who may not need the higher 45 megapixels of the pricier EOS R5 Mark II or want to spend well over $4,000 for the body alone. But the R6 Mark III seems no slouch now that it’s upping the res from 24 megapixels in the last-gen model to 32.5 megapixels. The Mark III can also capture higher-quality video up to 4K / 120p and 7K / 60p RAW, including support for full corner-to-corner open gate filming for extra cropping flexibility. \n\nThere are more gamma settings on offer as well, with Canon’s Log 2 mode and custom looks. But some of the most helpful functional changes for video shooters may be the inclusion of a tally lamp to make it obvious from afar when you’re filming and the move from a Micro HDMI port to a full-size Type A HDMI. As for the new camera’s autofocus system, you can now register a person’s face to ensure it prioritizes them when continuously tracking.\n\n\n\t\n\t\t\n\n\n\n\n\n\n\n\t\n\n\nOne change that may polarize some is Canon’s move from dual SD card slots on the R6 Mark II to an asymmetrical setup on the Mark III, with one CFexpress Type B and one SD. CFexpress can achieve faster speeds, and that’s likely in part responsible for the R6 Mark III’s ability to capture longer bursts of images while maintaining the same shooting speeds as the last-gen model (12 fps with the mechanical shutter or 40 fps electronic), even at its higher resolution. But CFexpress cards typically cost more, and managing multiple card formats is more cumbersome. Unlike CFexpress Type A, Type B card slots can’t be set up to also take an SD card — like you find in Sony cameras with their combo slots.\n\nLaunching alongside the EOS R6 Mark III, Canon has an interesting new lens: the RF 45mm f/1.2 STM. It’s a compact standard prime lens with a very bright maximum aperture for capturing shots in low light and with very shallow depth of field. It’s also one of the most affordable f/1.2 lenses I’ve ever heard of, priced at $469.99 and estimated to ship in early December. Full-frame-compatible autofocusing lenses with f/1.2 apertures usually run well north of $1,500, even from third parties like Sigma, so seeing one from Canon for under $500 is pretty wild.\n\n\n\t\n\t\t\n\n\n\n\n\n\n\n\t\n\n\nIt’s not an L lens, though, so it isn’t weather sealed, and you’ll have to pay an additional $59.99 for a lens hood. And while being briefed on it, Canon USA representative Drew MacCallum described the lens as not being for the most scrupulous of pixel peepers, due to its reliance on some in-camera corrections to support its image rendering and help compensate for its lower cost. Regardless, as someone whose favorite lens is a Sony FE 50mm f/1.2, I’d love to see affordable f/1.2 lenses become a trend.",
+      "content_length": 3204,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Pauline Hanson skips parliament to speak at conservative conference at Trump’s Mar-a-Lago",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/pauline-hanson-skips-parliament-to-speak-at-25k-a-head-conservative-conference-at-trumps-mar-a-lago",
+      "published": "2025-11-06T05:42:42",
+      "content": "One Nation leader also seen with Gina Rinehart – and many of her talking points align with mining magnateGet our breaking news email, free app or daily news podcastPauline Hanson skipped parliament this week to speak at a conservative conference at Donald Trump’s luxury resort in Florida, where she was pictured alongside Gina Rinehart, Australia’s richest woman.The One Nation leader, who resided at Mar-a-Lago ahead of her address at the multi-day event run by the Conservative Political Action Conference, lambasted both major parties in Australia during the speech while praising the US administration for deporting immigrants, bombing drug cartel boats and supercharging mining projects. Tickets to CPAC ranged from $US5,000 to $US25,000.This article and headline was amended on 6 November, 2025, to clarify that tickets to CPAC ranged from $US5,000 to $US25,000 per person. Continue reading...",
+      "content_length": 900,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "China-critical UK academics describe ‘extremely heavy’ pressure from Beijing",
+      "link": "https://www.theguardian.com/education/2025/nov/06/china-critical-uk-academics-speak-out-extremely-heavy-pressure-beijing",
+      "published": "2025-11-06T05:00:48",
+      "content": "Reliance on overseas students’ tuition fees under scrutiny as scholars describe chilling effect of being targetedUK academics whose research is critical of China say they have been targeted and their universities subjected to “extremely heavy” pressure from Beijing, prompting calls for a fresh look at the sector’s dependence on tuition fee income from Chinese students.The academics spoke out after the Guardian revealed this week that Sheffield Hallam University had complied with a demand from Beijing to halt research about human rights abuses in China, which had led to a big project being dropped. Continue reading...",
+      "content_length": 624,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Belgium to hold security meeting after drone sightings at airports and military bases",
+      "link": "https://www.theguardian.com/world/2025/nov/06/belgium-to-hold-security-meeting-after-drone-sightings-at-airports-and-military-bases",
+      "published": "2025-11-06T05:00:46",
+      "content": "Source says Russia ‘very probably’ responsible amid surge in incursions into European airspace since mid-SeptemberBelgium’s national security council will hold an emergency meeting on Thursday after drone sightings at airports caused chaos for travellers and raised security concerns.Arrivals and departures were halted for several hours on Tuesday evening at Belgium’s busiest airport, Brussels, leading to the cancellation of dozens of flights. The skies were also closed over Liège airport, an important hub for freight transport, leading to further cancellations, delays and diversions. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Philippines declares state of emergency after typhoon Kalmaegi death toll passes 100",
+      "link": "https://www.theguardian.com/world/2025/nov/06/philippines-state-of-emergency-typhoon-kalmaegi-death-toll",
+      "published": "2025-11-06T04:36:47",
+      "content": "The deaths were mostly from drowning in flash floods, with 127 people still missing, many in the hard-hit central province of CebuPhilippine president Ferdinand Marcos Jr has declared a state of emergency after typhoon Kalmaegi left at least 114 people dead and nearly 130 missing in central provinces in the deadliest natural disaster to hit the country this year.The deaths were mostly from drowning in flash floods, and 127 people were still missing, many in the hard-hit central province of Cebu. The tropical cyclone blew out of the archipelago on Wednesday into the South China Sea. Continue reading...",
+      "content_length": 608,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zahl der Toten nach Taifun auf den Philippinen steigt weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/philippinen-sturm-102.html",
+      "published": "2025-11-06T04:25:05",
+      "content": "   Durch den Taifun \"Kalmaegi\" sind auf den Philippinen mindestens 114 Menschen ums Leben gekommen. Viele weitere werden noch vermisst. Der nächste Taifun ist bereits im Anmarsch.[mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Philippine president declares state of emergency in the wake of Typhoon Kalmaegi",
+      "link": "https://www.france24.com/en/asia-pacific/20251106-philippines-state-of-emergency-typhoon-kalmaegi",
+      "published": "2025-11-06T03:54:29",
+      "content": "Philippine President Ferdinand Marcos Jr. declared a state of emergency on Thursday after Typhoon Kalmaegi left at least 114 people dead and hundreds missing in the country’s central provinces in what is the deadliest natural disaster to strike the Philippines this year.",
+      "content_length": 271,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Should Newcastle to Sydney bullet train really be first link built of Melbourne to Brisbane route?",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/should-newcastle-to-sydney-bullet-train-really-be-first-link-built-of-melbourne-to-brisbane-route",
+      "published": "2025-11-06T03:52:17",
+      "content": "Infrastructure Australia wants to know why NSW connection should be prioritised over Victorian, ACT and Queensland sections of high-speed railFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA high-speed train linking Sydney and Newcastle could cut the journey to an hour by 2039, an independent transport advisory body says, but more evidence is needed to justify prioritising that section over Melbourne and Brisbane connections.Infrastructure Australia said it supported a business case by the federal government’s High Speed Rail Authority (HSRA) moving to a further development phase. Continue reading...",
+      "content_length": 673,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "USA streichen ab Freitag Flüge wegen anhaltender Haushaltssperre",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstreichungen-100.html",
+      "published": "2025-11-06T03:29:50",
+      "content": "   Die US-Luftfahrtbehörde will ab Freitag zahlreiche Flüge landesweit streichen. Aufgrund der Haushaltssperre müssen aktuell tausende Flughafen-Angestellte ohne Lohn arbeiten. [mehr]",
+      "content_length": 183,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "FIFA unveils new Peace Prize ahead of 2026 World Cup draw in Washington",
+      "link": "https://www.france24.com/en/sport/20251106-fifa-peace-prize-2026-world-cup",
+      "published": "2025-11-06T03:23:03",
+      "content": "FIFA announced Wednesday that it has created a new annual honour, the FIFA Peace Prize – Football Unites the World, celebrating individuals who use football to promote unity and hope. The prize will be awarded during the 2026 World Cup draw in Washington.",
+      "content_length": 255,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Immer mehr Hinweise auf Gräueltaten im sudanesischen Al-Faschir",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-darfur-gewalt-102.html",
+      "published": "2025-11-06T03:00:46",
+      "content": "   Massenhinrichtungen, Vergewaltigungen, äußerste Brutalität - Berichte über die Situation im sudanesischen Al-Faschir bestätigen die Hinweise auf Gräueltaten an Zivilisten. In der Stadt sitzen wohl noch 150.000 Menschen fest. Von Heiko Wirtz.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Stahlgipfel im Kanzleramt: Industrie hofft auf Hilfe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/stahlgipfel-bundesregierung-104.html",
+      "published": "2025-11-06T03:00:01",
+      "content": "   Bundeskanzler Merz hat Minister, Vertreter der Länder, der Industrie und Gewerkschaften zum Stahlgipfel geladen. Es geht um Hilfen für die Branche. Gewerkschaftsvertreter warnen vor einem Kollaps. Von Philipp Eckstein.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ein Jahr Ampel-Aus: \"Große Chance fahrlässig nicht genutzt\"",
+      "link": "https://www.tagesschau.de/inland/ein-jahr-ampel-aus-100.html",
+      "published": "2025-11-06T02:40:34",
+      "content": "   Vor einem Jahr wachte Deutschland auf mit der Rückkehr von Trump ins Weiße Haus - und ging schlafen mit dem Aus für die Ampel. Ein Minister, der dabei war, sagt, die Ampel habe eine große Chance gehabt - und sie fahrlässig vertan. Von Gabor Halasz.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US to cut airline traffic by 10% due to shutdown, Trump transport chief says",
+      "link": "https://www.theguardian.com/us-news/2025/nov/05/government-shutdown-duffy-airspace-closures",
+      "published": "2025-11-06T02:32:08",
+      "content": "Sean Duffy says cuts at 40 locations to reduce stress on air traffic controllers will start Friday if solution not foundThe transportation secretary, Sean Duffy, and the FAA administrator, Bryan Bedford, said on Wednesday the federal government would be reducing airline traffic by 10% at 40 “high volume markets” beginning on Friday if the government shutdown does not end by then.The announcement did not specify which 40 airports would see the reduction and said that a complete list would be announced on Thursday with cuts likely at the nation’s 30 busiest airports, including those serving New York, Washington DC, Chicago, Atlanta, Los Angeles and Dallas. The reduction will affect cargo, private and passenger traffic. Continue reading...",
+      "content_length": 746,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "USA: Opferzahl bei Flugzeugabsturz steigt auf mindestens 12",
+      "link": "https://www.tagesschau.de/ausland/amerika/absturz-louisville-100.html",
+      "published": "2025-11-06T02:12:25",
+      "content": "   Nach dem Absturz eines Frachtflugzeugs in den USA suchen Rettungskräfte weiter nach Vermissten. Die Zahl der Opfer ist auf mindestens zwölf gestiegen. Die Ursache für den Absturz ist immer noch unklar.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Prosecutors asked if manslaughter charge will be considered if Greg Lynn overturns high country murder conviction",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/will-manslaughter-charge-be-considered-if-greg-lynn-overturns-high-country-conviction-ntwnfb",
+      "published": "2025-11-06T02:04:19",
+      "content": "Appeal judges also seek advice on whether motive of former Jetstar pilot would be considered in event of retrial over Carol Clay’s deathFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Victorian court of appeal has asked the office of public prosecutions if it would “amend its hand” – including on whether a manslaughter charge would be laid – in the event Greg Lynn was retried over the killing of an elderly camper.Lynn, 59, was found guilty in June last year of murdering grandmother Carol Clay, but was acquitted of murdering her fellow camper and lover, Russell Hill. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Election night at Kalshi HQ",
+      "link": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
+      "published": "2025-11-06T02:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nAt 8PM on election night in New York City, I arrived at an unmarked office building in the Meatpacking District.\nInside, a few dozen young Kalshi employees moved between clusters of desks, pizza boxes, and a large projector displaying live markets for the day's key races. The vibe was quiet but focused. On the screen, numbers flickered as bets adjusted in real time.\nNear the projector, co-founders Tarek Mansour and Luana Lopes Lara chatted with a CBS News crew filming a segment for the next morni …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Armed US immigration agents drive off with toddler after arrest of father",
+      "link": "https://www.theguardian.com/us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
+      "published": "2025-11-06T01:53:51",
+      "content": "‘Devastated’ family demands answers after two-year-old driven by armed agents from LA Home Depot parking lotMasked, heavily armed federal immigration agents arrested a US citizen in the parking lot of a Los Angeles Home Depot store, then entered his car and drove away with his toddler, who is also a US citizen, in the backseat.The child’s grandmother said the incident had left the whole family shaken. “I am devastated by what has happened to my son and demand an explanation,” she said at a press conference on Wednesday. Continue reading...",
+      "content_length": 545,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "FAA cancels thousands of flights amid US government shutdown strain",
+      "link": "https://www.france24.com/en/americas/20251106-faa-cancels-flights-us-government-shutdown",
+      "published": "2025-11-06T01:53:05",
+      "content": "The Federal Aviation Administration will reduce air traffic by 10% across 40 major markets from Friday to maintain safety, as unpaid air traffic controllers face growing fatigue and staff shortages during the longest government shutdown on record.",
+      "content_length": 247,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Federal judge orders immigration facility in Chicago to improve its conditions – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/05/zohran-mamdani-new-york-nyc-donald-trump-mayor-election-california-new-jersey-virginia-latest-news-results",
+      "published": "2025-11-06T01:48:57",
+      "content": "This live blog is now closed.Trump news at a glance: supreme court examines president’s global tariffsHere’s a look at some of the pictures from New York, as Zohran Mamdani was elected the next mayor of the city.In a short while, we’ll hear from Donald Trump when he hosts a breakfast with Republican senators at the White House. As we noted earlier, the president had choice words about Mamdani’s victory in New York, and other Democratic wins across the country – including the gubernatorial races in Virginia and New Jersey. Continue reading...",
+      "content_length": 547,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump’s gold sign outside Oval Office prompts backlash",
+      "link": "https://www.theguardian.com/us-news/2025/nov/05/trump-oval-office-sign",
+      "published": "2025-11-06T01:46:04",
+      "content": "Lawmakers outraged that president gilding White House as Snap food stamps in jeopardy amid longest US shutdownA new sign was spotted adorning the White House this week, prompting backlash from lawmakers who have noted that Donald Trump is quite literally gilding the White House during a government shutdown.Trump has been remaking the White House in his own image with the recent dramatic demolition of the East Wing and active construction of a new ballroom, doing so with plenty of gold. Written in cursive gold script, a sign identifying the Oval Office is now affixed beside the office’s door. Continue reading...",
+      "content_length": 618,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Experten befürchten Einkesselung ukrainischer Soldaten in Pokrowsk",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-pokrowsk-122.html",
+      "published": "2025-11-06T01:32:41",
+      "content": "   Seit mehr als einem Jahr versucht die russische Armee, die logistisch wichtige Stadt Pokrowsk im Osten der Ukraine einzunehmen. Jetzt befürchten viele Beobachter eine Einkesselung der ukrainischen Soldaten.Von Rebecca Barth.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Troubled New Zealand wildlife park euthanizes two lions, fate of five more unclear",
+      "link": "https://www.theguardian.com/world/2025/nov/06/new-zealand-wildlife-park-euthanizes-two-lions",
+      "published": "2025-11-06T01:31:59",
+      "content": "Members of the public have pleaded for a reprieve for the remaining lions, while former staff members hope the sanctuary will reconsider putting them downA troubled New Zealand wildlife park says it has been forced to euthanise two of its elderly lions, with the fate of its remaining five lions unclear, after it ran into financial difficulties.The privately owned Kamo Wildlife Sanctuary in the northern city of Whangārei closed its doors on the weekend. Continue reading...",
+      "content_length": 476,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Third Michigan man arrested over alleged Halloween terror plot",
+      "link": "https://www.theguardian.com/us-news/2025/nov/05/michigan-halloween-terror-plot",
+      "published": "2025-11-06T01:17:49",
+      "content": "Ayob Nasser, 19, accused of participating in planning of potential attack on LGBTQ+ bars in suburban DetroitInvestigators say a third Michigan man is now facing charges in a plot to stage a terror attack on Halloween. He traveled to an amusement park in the midwest to scout the location, they said.Ayob Nasser, 19, was arrested on Wednesday. He is accused of participating in the planning of a possible attack on LGBTQ+ bars in suburban Detroit that was inspired by the Islamic State, federal authorities have said. Continue reading...",
+      "content_length": 536,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rode’s all-in-one video production console is now smaller and cheaper",
+      "link": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
+      "published": "2025-11-06T01:00:00",
+      "content": "\n\n\n\t\n\tRode’s new console is slightly smaller and more than half the price of last year’s version. | Image: Rode\t\n\nRode has announced a new version of the Rodecaster Video portable production console it launched just over a year ago, but the Rodecaster Video S isn’t a replacement. The Rodecaster Video S offers similar functionality to the original, including switching and mixing multiple video and audio sources and replacing blue or green screens, but with an even smaller footprint and price.&nbsp;\n\nThe Rodecaster Video launched at $1,199 in late September 2024, while the new S version is available for preorder now for less than half that, at $499. The smaller version can’t accommodate as many video sources as the original, which itself was designed to be a limited but more affordable alternative to professional video switchers used in dedicated studios.&nbsp;\n\nAt nearly $500, the Rodecaster Video S still isn’t a cheap tool for amateur streamers. But for established podcasters looking to test the waters with video versions of their content, it’s an even more affordable and accessible all-in-one solution when you factor in the built-in functionality like chroma keying and compatibility with both professional and consumer-grade audio and video gear.\n\nThe Rodecaster Video S is powered by the same unnamed “high-performance octa-core processor” as the previous version, with video capabilities that max out at 1080p. It’s a couple inches shorter and almost 400 grams lighter, but the improved portability does come with some sacrifices. The Rodecaster Video featured four HDMI inputs, two HDMI outputs, and a pair of multifunction USB-C inputs for connecting mics and webcams. This new version has just three HDMI inputs, a single multifunction USB-C port for audio and video devices, and one HDMI video output.\n\nThe Video S does carry forward the original’s pair of combo XLR/1/4” jack inputs, so it’s still compatible with professional-grade microphones, but you can alternately connect USB mics or Rode’s Series IV wireless mics using two built-in wireless receivers. A pair of 1/4” jacks provide custom mixes and levels to two sets of wired headphones, but the dedicated speaker outputs found on the original have been removed.\n\nYou’ll still find a two-inch touchscreen on the Rodecaster Video S with its own dial controller for navigating settings and making adjustments, but the number of large buttons used to switch between video sources or load up to five preset scenes configurable using Rode’s desktop app has been reduced from 14 to 10.\n\nOther features carried over from the original Rodecaster Video include livestreaming to desktop software or directly to platforms like YouTube, Twitch, and Facebook. Or you can record broadcasts, including the individual video and audio sources separately, to an external USB storage drive for editing later. And because the Rodecaster Video S is designed for smaller productions, if you don’t have the budget for a dedicated operator, the console itself can automatically switch between multiple camera angles based on who’s speaking.",
+      "content_length": 3101,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "British military announces first delivery of Ajax armoured vehicles – eight years late",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/06/british-military-announces-first-delivery-of-ajax-armoured-vehicles-eight-years-late",
+      "published": "2025-11-06T00:01:39",
+      "content": "First 50 vehicles, costing nearly £10m each, finally ready to deploy to Nato’s eastern flank, where drones now dominateBritain’s military has announced the first delivery of Ajax armoured vehicles, eight years behind schedule and amid questions about their relevance as cheap drones dominate the battlefields of Ukraine.The junior defence minister Luke Pollard said the first 50 vehicles, costing nearly £10m each, were ready to deploy on Nato’s eastern flank, though he acknowledged the problems of the past when delivery deadlines of 2017, 2020 and 2021 were all missed. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Prison sentencing reforms will lead to up to 6% rise in crime, police chiefs say",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/06/prison-sentencing-reforms-rise-in-crime-police-chiefs",
+      "published": "2025-11-06T00:00:39",
+      "content": "Government plans include more short sentences being suspended and earlier releases from jailGovernment plans to radically reform sentencing will lead to an increase in crime by as much as 6% in a single year, according to police chiefs.The reforms, which cover England and Wales, involve a presumption against short sentences of a year or less, with community sentences used instead, and those jailed being released earlier than currently the case. Continue reading...",
+      "content_length": 468,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Films from YouTube and Google Play are no longer available on Movies Anywhere",
+      "link": "https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support",
+      "published": "2025-11-05T23:57:29",
+      "content": "\n\n\n\t\n\t\t\n\nIf you logged into your Movies Anywhere account in the past few days, you might have noticed some titles missing from your library, specifically content purchased on Google Play and YouTube. As of October 31st, movies from either platform are no longer available on Movies Anywhere.&nbsp;\n\nThe change was announced on a brief help page on Movies Anywhere, which simply states: “Effective 10/31/25, Google Play/YouTube will no longer participate in the Movies Anywhere program.” There are no further details about the reasoning behind the break-up. It appears that movies that were already synced to Movies Anywhere from a Google account are still accessible, but new purchases can’t be added to the platform.&nbsp;\n\nGoogle did not respond to a request for comment. Disney, which owns Movies Anywhere, did not immediately respond to a request for comment.\n\nMovies Anywhere has supported syncing with Google Play since 2017, allowing you to watch movies you purchased from Google Play or YouTube in the same place as films from other services. That support ended the same day that several Disney-owned channels went dark on YouTube TV due to an ongoing contract renewal dispute. Luckily, you can still watch your Google Play movies on YouTube or Google TV. ",
+      "content_length": 1264,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause",
+      "link": "https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/",
+      "published": "2025-11-05T23:50:26",
+      "content": "The University of Pennsylvania has a somewhat unusual distinction: It is the alma mater of two of the planet’s most polarizing figures, Elon Musk and Donald Trump. As the political power of both men rose over the last year, the US government began to pressure Penn, first by pulling its research funding and then by targeting the school for past actions related to a transgender swimmer.\nAfter the “sticks” were deployed, a “carrot” was offered. Penn became one of just nine schools nationally to be offered a special “compact” with the federal government, which would give the feds broad control over the school and its speech in return for preferential access to federal funds. Penn declined to sign the deal. (Making the whole surreal situation stranger was the fact that one of Penn’s own wealthy boosters apparently helped the Trump administration write the compact.)\nIn other words, Penn has become an obvious target of the Trump administration; now it has been targeted by a hacker claiming to share Trump and Musk’s grievances over affirmative action and “wokeness.”Read full article\nComments",
+      "content_length": 1100,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "83-year-old man married 50 years nearly stumps doctors with surprise STI",
+      "link": "https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/",
+      "published": "2025-11-05T23:29:42",
+      "content": "Syphilis can be a tricky disease to diagnose—especially when a patient may not be sharing the whole story.\nDoctors in Belgium met with a real head-scratcher when an 83-year-old married man came in with a rare form of secondary syphilis—the second of four stages of the sexually transmitted bacterial infection that has been called a “master of disguise.”\nThe man told doctors up front that he was in a monogamous 50-year-long marriage and had been sexually inactive in recent years following treatment for cancer. In a Clinical Problem-Solving report published today in the New England Journal of Medicine, doctors laid out the step-by-step tests and reasoning they used to get to the right diagnosis, which still didn’t answer all their questions.Read full article\nComments",
+      "content_length": 774,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Supreme Court signals doubts over Trump’s sweeping tariff powers",
+      "link": "https://www.france24.com/en/americas/20251105-supreme-court-trump-tariffs",
+      "published": "2025-11-05T23:11:16",
+      "content": "Several Supreme Court justices from both ideological wings voiced scepticism Wednesday over President Donald Trump’s claim that emergency powers allow him to impose vast global tariffs, raising the prospect of limits on one of his most aggressive uses of executive authority.",
+      "content_length": 275,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Here are the best Apple Watch deals available right now",
+      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "published": "2025-11-05T23:07:31",
+      "content": "\n\n\n\t\n\tThe Apple Watch Series 11 has received a modest discount. | Photo: Amelia Holowaty Krales / The Verge\t\n\nApple recently launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features). A new generation of watches means we probably won’t see big price drops soon, but we’re officially beginning our watch so we can note any change in price. Additionally, we’re still recommending some recent predecessors in Apple’s portfolio, including the Series 10 and Ultra 2, for which discounts are fairly common.\n\n\nFeatured ProductsApple Watch Series 11 dealsApple Watch Series 10 dealsApple Watch SE 3 dealsApple Watch SE (second-gen) dealsApple Watch Ultra 3 dealsApple Watch Ultra 2 deals\n\n\nBut with all of those options, which one should you pick? Generally speaking, you want to buy the newest watch you can afford so that it continues to receive software updates from Apple. The latest update, watchOS 26, launched in September on the Series 6 and newer models. That means those still using a Series 5 or older — including the original Apple Watch SE&nbsp;— are getting left behind in terms of features. \n\nApple Watch Series 11 deals\nApple Watch Series 11 (42mm, GPS)\n\nWhere to Buy: $399 $389 at Amazon $399 $389 at Walmart $399 at Best BuyApple Watch Series 11 (46mm, GPS)\n\nWhere to Buy: $429 $419.99 at Amazon $429 $419.99 at Walmart $429 at Best Buy\nThe new Apple Watch Series 11 is a fairly iterative update of the Series 10, meaning those who already own Apple’s last-gen flagship may not necessarily feel compelled to upgrade. That being said, the newest model does tout a more power-efficient 5G modem and a more scratch-resistant display, as well as an additional 6 hours of battery life over the Series 10. It’s also the slimmest Apple Watch to date&nbsp;and the first to offer FDA-cleared hypertension notifications out of the gate, which you can also now leverage on the Series 9 and Ultra 2.\n\nIf you’re looking to be an early adopter, however, you can pick up the Apple Watch Series 10 in the 42mm configuration with GPS at&nbsp;Amazon and Walmart for $389 ($10 off), which represents a slight launch discount (it’s also available at Best Buy for $399). If you prefer the larger 46mm / GPS model, it’s currently available at&nbsp;Amazon and Walmart for $419.99 ($9 off), or at&nbsp;Best Buy for its full retail price of $429.\n\nRead our full Apple Watch Series 11 review.\n\nApple Watch Series 10 deals\nApple Watch Series 10 (42mm, GPS)\n\nWhere to Buy: $399 $329 at Amazon $399 $329 at Walmart $399 $339.99 at Best BuyApple Watch Series 10 (46mm, GPS)\n\nWhere to Buy: $429 $309.99 at Amazon $429 $359 at Walmart $429 $364.99 at Best Buy\nIf you’re looking for a real deal — and you’re not particularly tempted by what the Series 11 offers — the Series 10 still holds its own. The last-gen smartwatch packs the same S10 SiP chip that’s in the Series 11, as well as support for fast-charging, a gorgeous wide-angle OLED display, and a design that’s still significantly slimmer and lighter than previous models. It also features both depth and water temperature sensors, along with an FDA-cleared sleep apnea detection feature and the aforementioned hypertension notifications, courtesy of watchOS 26.\n\nThankfully, the Series 10 remains on sale at Amazon in the 42mm sizing with GPS starting at $279.99 ($120 off), which matches prices from Amazon’s most recent Prime Day. The 46mm GPS variant, meanwhile, is available at Amazon for $309.99 ($120 off) — $10 shy of its all-time low — while the LTE models can be found at Walmart starting at $329 ($170 off).\n\nRead our Apple Watch Series 10 review.\n\nApple Watch SE 3 deals\nApple Watch SE 3 (40mm, GPS)\n\nWhere to Buy: $249 $199.99 at Amazon $249 $229.32 at WalmartApple Watch SE 3 (44mm, GPS)\n\nWhere to Buy: $279 $269.99 at Amazon $279 $269.99 at Walmart $279 at Best Buy\nWhile the Apple Watch Series 11 and Ultra 3 introduce a handful of iterative updates, the new Apple Watch SE 3 represents a significant upgrade over its 2022 predecessor. The entry-level watch features the same speedy S10 chip found in Apple’s flagship models, for one, letting you take advantage of Apple’s double tap feature, wrist flick gestures, and on-device Siri. The SE 3 also (finally) adds an always-on display, 5G connectivity, support for fast-charging, and audio playback so you can listen to music or podcasts directly from your wrist.\n\nOn the health front, the SE 3 introduces a wrist-temperature sensor for retrospective ovulation tracking, along with breathing disturbance alerts, sleep apnea notifications, and a new Sleep Score that breaks down time spent in each stage. What you won’t find are the Series 11’s EKG functionality, blood oxygen monitoring, or hypertension notifications — those are exclusive to the Series and Ultra models. \n\nIn terms of deals, the Apple Watch Series 3 is currently available from Amazon in its 40mm base configuration with GPS for $199.99 ($50 off), which is the lowest price we’ve seen since the watch arrived in mid-September. You can also pick up the larger 44mm model at Amazon and Walmart starting at $269.99 (also $9 off), though there currently are no discounts available on the 5G models.\n\nRead our full Apple Watch SE 3 review.\n\nApple Watch SE (second-gen) deals\n2022 Apple Watch SE (40mm, GPS)\n\nWhere to Buy: $249 $169 at Amazon $249 $169 at Walmart $249 $169 at Target2022 Apple Watch SE (44mm, GPS)\n\nWhere to Buy: $279 $199 at Amazon $279 $199 at Walmart $279 $229 at Best Buy\nIf you don’t need the latest upgrades, the last-gen SE remains a solid buy if you can pick it up at a significant discount. It has the same chipset as the Series 8, which still holds up well, but has fewer sensors (meaning fewer features), no always-on display, and a slightly outdated design compared to Apple’s newer watches. Those omissions might take it out of the running for some people, but it still may be exactly what you’re after.\n\nRight now, the best deal on the last-gen SE can be found at Walmart and Target, where you can pick up the 40mm model with GPS starting at around $169 ($80 off), its best price to date. The 44mm / GPS configuration, meanwhile, is available at Amazon and Walmart starting at $199 ($80 off), matching its all-time low. If you want the LTE configuration, the 44mm model is even cheaper at Walmart starting at $189 ($110 off).\n\nRead our Apple Watch SE (second-gen) review.\n\nApple Watch Ultra 3 deals\nApple Watch Ultra 3\n\nWhere to Buy: $799 $699.99 at Amazon (with Ocean Band) $799 $779.99 at Amazon (with Alpine Loop) $799 $799 at Amazon (with Trail Loop)\nUnsurprisingly, the new Apple Watch Ultra 3 offers the most features, sensors, and ruggedness of any Apple Watch available thus far. It features a larger, wide-angle OLED display with a 1Hz refresh rate and thinner bezels, as well as both satellite and 5G connectivity. Better yet, battery life has been extended from 36 hours to 42 hours — a marginal improvement, but one that allows you to squeeze out a bit more life when necessary.\n\nAs far as deals are concerned, the Ultra 3 is currently down to an all-time low price of $699.99 ($100 off) when you buy it with an an Ocean Band at Amazon. You can also buy it with an Alpine Loop for $779.99 ($19 off).\n\nRead our full Apple Watch Ultra 3 review.\n\nApple Watch Ultra 2 deals\nApple Watch Ultra 2\n\nWhere to Buy: $799 $639 at Best Buy (with Alpine Loop) $799 $649 at Amazon (with Alpine Loop) $799 at Best Buy (with Ocean Band)\nIf the latest Ultra isn’t what you’re after, you can save some money by opting for an Apple Watch Ultra 2, which isn’t vastly different than Apple’s latest top-of-the-line model. The wearable runs on the older S9 SiP and features Apple’s second-gen ultra wideband chip, but that may not matter to you since it still offers precise GPS tracking, a range of diving-friendly sensors, and long-lasting battery life.\n\nRight now, you can buy the Apple Watch Ultra 2 at Best Buy with an Alpine Loop starting at $639 ($150 off), which is its best price to date. Unfortunately, the models with a Trail Loop or Ocean Band aren’t on sale.\n\nRead our Apple Watch Ultra 2 review.",
+      "content_length": 8241,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
+      "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
+      "published": "2025-11-05T23:00:46",
+      "content": "Google on Wednesday revealed five recent malware samples that were built using generative AI. The end results of each one were far below par with professional malware development, a finding that shows that vibe coding of malicious wares lags behind more traditional forms of development, which means it still has a long way to go before it poses a real-world threat.\nOne of the samples, for instance, tracked under the name PromptLock, was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle.” The researchers, however, reported the malware had “clear limitations: it omits persistence, lateral movement, and advanced evasion tactics” and served as little more than a demonstration of the feasibility of AI for such purposes. Prior to the paper’s release, security firm ESET said it had discovered the sample and hailed it as “the first AI-powered ransomware.”\nDon’t believe the hype\nLike the other four samples Google analyzed—FruitShell, PromptFlux, PromptSteal, and QuietVault—PromptLock was easy to detect, even by less-sophisticated endpoint protections that rely on static signatures. All samples also employed previously seen methods in malware samples, making them easy to counteract. They also had no operational impact, meaning they didn’t require defenders to adopt new defenses.Read full article\nComments",
+      "content_length": 1428,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The heavy toll of the US shutdown on low-income families in California",
+      "link": "https://www.france24.com/en/video/20251105-the-heavy-toll-of-the-us-shutdown-on-low-income-families-in-california",
+      "published": "2025-11-05T22:50:05",
+      "content": "The US government shutdown is set to become the longest in history and its effects are starting to hit home for millions of Americans. One of the hardest-hit groups are low-income families who rely on food stamps. With funding frozen, many are left without aid and food banks are seeing a surge in demand. FRANCE 24's Wassim Cornet reports from Los Angeles.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Last-minute Samardzic strike stuns Marseille and ruins Champions League hopes",
+      "link": "https://www.france24.com/en/sport/20251105-samardzic-strike-marseille-atalanta",
+      "published": "2025-11-05T22:47:57",
+      "content": "Olympique de Marseille’s bid to reach the Champions League knockout stages suffered a devastating setback on Wednesday night, as a stoppage-time goal from Atalanta’s Lazar Samardzic sealed a 1-0 defeat at the Stade Vélodrome.",
+      "content_length": 225,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Belgium probes drone sightings after flights halted overnight",
+      "link": "https://www.france24.com/en/video/20251105-belgium-probes-drone-sightings-after-flights-halted-overnight",
+      "published": "2025-11-05T22:47:13",
+      "content": "Belgian authorities on Wednesday investigated drone sightings that halted air traffic overnight at several airports, as flights resumed after hundreds of passengers were left stranded. The main airport in Brussels and another in Liege had to suspend arrivals and departures late Tuesday for several hours after suspected drones were spotted nearby. FRANCE 24's Monte Francis reports.",
+      "content_length": 383,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Lancashire’s Reform-run council plans to close care homes and day centres",
+      "link": "https://www.theguardian.com/politics/2025/nov/05/lancashires-reform-run-council-plans-to-close-care-homes-to-save-4m-a-year",
+      "published": "2025-11-05T22:27:19",
+      "content": "Questions about potential conflict of interest as council’s cabinet member for social care owns private care company Lancashire’s Reform-run council has been accused of “selling off the family silver” through its plans to save £4m a year by closing five council-run care homes and five day centres and moving residents into the private sector.One of the care home residents, a 92-year-old woman, said she would leave only by “being forcibly removed or in a box”. Continue reading...",
+      "content_length": 482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'No international contingent is going to deploy to an area which is still a free-fighter zone'",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251105-no-international-contingent-is-going-to-deploy-to-an-area-which-is-still-a-free-fighter-zone",
+      "published": "2025-11-05T22:18:53",
+      "content": "The Israeli military said Wednesday that Hamas has handed over remains believed to be of a deceased hostage to the Red Cross in Gaza, the latest step forward under the U.S.-brokered ceasefire. FRANCE 24's YInka Oyetade speaks with Aaron David Miller, Senior Fellow at the Carnegie Endowment for International Peace.",
+      "content_length": 315,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Google Gemini’s Deep Research can look into your emails, drive, and chats",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized",
+      "published": "2025-11-05T22:09:51",
+      "content": "\n\n\n\t\n\t\t\n\nGemini can now draw from your emails and documents while performing “deep research” queries. Google’s announcement blog called this “one of our most-requested features” for Gemini Deep Research, which is an agentic feature styled specifically for creating research reports rather than just answering questions. The chatbot starts by creating a multi-step research plan, then it performs a series of web searches to create a report that you can ask it to tweak with additional info, or export the whole thing into a Google Doc or AI-generated podcast.\n\nGoogle says of the new connection between Deep Research and Workspace products:\n\n\nNow you can start a market analysis for a new product by having Deep Research analyze your team&#8217;s initial brainstorming docs, related email threads and project plans. Or you can build a competitor report about a rival product that cross-references public web data with your strategies, comparison spreadsheets and team chats.\n\n\nOnce “deep research” is selected on the Gemini’s prompt bar, users can pick which of the four options they want Gemini to use: a regular Google Search, Gmail, Drive, and/or Chat. That means that your emails in Gmail, your docs, slides, sheets, and PDFs in Drive, and your chatlogs — if you use Google Chat — will provide context for Google’s AI model.&nbsp;\n\nFor now, it’s only on desktop, but Google says it’ll soon start rolling out to mobile in the coming days.&nbsp;",
+      "content_length": 1447,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "NYC mayoral race: Musk blasts \"scam\" ballots promoting Mamdani",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251105-musk-falsely-accuses-new-york-of-scam-ballots-promoting-mamdani",
+      "published": "2025-11-05T21:52:59",
+      "content": "Billionaire Trump ally Elon Musk questioned the legitimacy of Zohran Mamdani's momentous win in the New York mayoral race. He called the ballots a \"scam\" for putting Andrew Cuomo's name lower down the list, with Mamdani and Curtis Sliwa's names appearing twice. But New York's ballots followed the state's election law, as Vedika Bahl explains in Truth or Fake.",
+      "content_length": 361,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Spreading famine puts more of Sudan at risk",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251105-spreading-famine-puts-more-of-sudan-at-risk",
+      "published": "2025-11-05T21:22:08",
+      "content": "At least 40 civilians were killed in El Obeid after Sudan’s paramilitary RSF attacked the North Kordofan capital, local media reported. The assault comes as the two-year war intensifies, with Kordofan and Darfur now the conflict’s epicentre. Last week, the RSF seized El Fasher and advanced into Kordofan. Both El Fasher and Kadugli are now facing famine, according to global hunger monitors.",
+      "content_length": 392,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "'Health is the face of climate change': how can cities mitigate the impact of global warming",
+      "link": "https://www.france24.com/en/video/20251105-health-is-the-face-of-climate-change-how-can-cities-mitigate-the-impact-of-global-warming",
+      "published": "2025-11-05T21:10:26",
+      "content": "A Lancet report released last week found that since the 1990s, heat-related deaths have increased 23% to 546,000 annually as global temperatures rise. We speak with Emilia Carrera, Director of the Health Initiative at the Rockefeller Foundation, about how urban areas can mitigate the impact of global warming in cities and protect residents in urban areas.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "DHS offers “disturbing new excuses” to seize kids’ biometric data, expert says",
+      "link": "https://arstechnica.com/tech-policy/2025/11/dhs-wants-to-use-biometrics-to-track-immigrant-kids-throughout-their-lives/",
+      "published": "2025-11-05T21:03:03",
+      "content": "Civil and digital rights experts are horrified by a proposed rule change that would allow the Department of Homeland Security to collect a wide range of sensitive biometric data on all immigrants, without age restrictions, and store that data throughout each person’s “lifecycle” in the immigration system.\nIf adopted, the rule change would allow DHS agencies, including Immigration and Customs Enforcement (ICE), to broadly collect facial imagery, finger and palm prints, iris scans, and voice prints. They may also request DNA, which DHS claimed “would only be collected in limited circumstances,” like to verify family relations. These updates would cost taxpayers $288.7 million annually, DHS estimated, including $57.1 million for DNA collection alone. Annual individual charges to immigrants submitting data will likely be similarly high, estimated at around $231.5 million.\nCosts could be higher, DHS admitted, especially if DNA testing is conducted more widely than projected.Read full article\nComments",
+      "content_length": 1010,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shein's 'extreme obsolescence and plagiarism' provides a 'quick fix' for consumers, expert says",
+      "link": "https://www.france24.com/en/video/20251105-shein-s-extreme-obsolescence-and-plagiarism-provides-a-quick-fix-for-consumers-expert-says",
+      "published": "2025-11-05T20:53:54",
+      "content": "France started proceedings to suspend online fast-fashion retailer Shein after childlike sex dolls and weapons were found being sold on its site, marring the opening of the company's first shop in a Paris department store. Speaking on FRANCE 24, Nick Rees-Roberts, Professor of Media and Culture at the Sorbonne, says that Shein's model is one of 'extreme obsolescence and plagiarism' pointing to a 'global consumer capitalism that is dysfunctional'.",
+      "content_length": 450,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Sun publisher agrees to pay Christopher Jefferies ‘substantial damages’",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/05/the-sun-publisher-agrees-to-pay-christopher-jefferies-substantial-damages",
+      "published": "2025-11-05T20:47:44",
+      "content": "Rupert Murdoch’s News Group Newspapers apologises for invading privacy of man wrongly arrested for high-profile murderRupert Murdoch’s news publisher in the UK agreed to pay “substantial damages” to a man wrongly arrested for a high-profile murder, after apologising for the invasion of his privacy.Christopher Jefferies, a retired schoolteacher and landlord from Bristol, was wrongfully arrested in 2010 for the murder of Joanna Yeates, a landscape architect. Continue reading...",
+      "content_length": 480,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday",
+      "link": "https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale",
+      "published": "2025-11-05T20:46:17",
+      "content": "\n\n\n\t\n\tApple’s slim laptop is the best of the best. | Image: The Verge\t\n\nIf you’ve been holding off on getting a new laptop, now’s a great time to pick one up. Ahead of Black Friday, you can snag the base 13-inch M4-powered MacBook Air for $749.99 ($250 off) in multiple colors at Amazon. That’s the lowest price we’ve seen on Apple’s slim laptop, letting you save more than ever for the holidays. Additionally, the 15-inch MacBook Air with an M4 chip is down to $949.99 ($250 off) at Amazon in multiple colors, another all-time low.\n13-inch MacBook Air (M4, 16GB RAM, 256GB SSD)\n\nWhere to Buy: $999 $749.99 at Amazon $999 $799 at Best Buy $999 at Apple\nApple’s entry-level MacBook Air is a fantastic value at full price, offering an impressive combination of performance and battery life. It’s also cheaper and more capable than its predecessor, delivering faster performance courtesy of Apple’s M4 chip. It also boasts double the base RAM at 16GB, so you can run Apple’s latest macOS 26 update and Apple Intelligence features without experiencing slowdown. Plus, it features an upgraded 12-megapixel Center Stage webcam, which produces a sharper image and a wider field of view. I’ve been rocking a company-issued 13-inch M4 Air model for the past several months, and I have yet to see it break a sweat. It’s easy to see why we consider it to be the best laptop available.\n\nLuckily, the sale applies to multiple colors, so you can opt for the classic silver or gold instead of the dark blue color, which is a fingerprint magnet. Whichever one you pick up, it’ll offer all-day battery life, a Thunderbolt 4 upgrade for the two ports, and the ability to connect two external displays with the lid still open. If you prefer the 15-inch Air’s larger display, you’ll also enjoy the benefits of the model’s six-speaker system over the 13-inch model’s four speakers. However, both sizes are limited to two Thunderbolt 4 / USB-C ports and a base storage capacity of 256GB.\n\nRead our full M4 MacBook Air review.",
+      "content_length": 2003,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "'A wasteland': FRANCE 24 journalist given rare glimpse of war-ravaged Gaza",
+      "link": "https://www.france24.com/en/middle-east/20251105-france-24-journalist-given-rare-glimpse-war-ravaged-gaza",
+      "published": "2025-11-05T20:41:26",
+      "content": "FRANCE 24 correspondent Noga Tarnopolsky entered the Gaza Strip on Wednesday as part of a “limited and circumscribed” press visit organised by the Israeli army, which has barred foreign journalists from entering the Palestinian enclave since the start of the Gaza war. Click on the video player to watch her report.",
+      "content_length": 315,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Erste Rettungsversuche für Münchner Eisbachwelle ohne Erfolg",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/eisbachwelle-100.html",
+      "published": "2025-11-05T20:36:44",
+      "content": "   Die ersten Rettungsversuche für die verschwundene Surfwelle am Münchner Eisbach sind ohne Erfolg geblieben. Obwohl Kies angekarrt und der Wasserpegel erhöht wurde, hat sich die beliebte wie berühmte Welle noch nicht wieder aufgebaut.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The best fitness trackers and watches we’ve tested",
+      "link": "https://www.theverge.com/22985108/best-fitness-tracker",
+      "published": "2025-11-05T20:35:00",
+      "content": "\n\n\n\t\n\t\t\n\nFitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness goals are, there’s probably a fitness tracker that can help you achieve them.\n\nCompared to some other gadgets, wearables are incredibly personal, which means there are a few extra considerations you’ll have to take into account before reaching for your wallet. It makes it hard to say that any one fitness tracker is the best for everyone. Thankfully, the best thing about fitness trackers in 2025 is that there’s enough variety to fit into every kind of lifestyle.&nbsp;\n\n\n\n\n\n\n\n\nBest fitness tracker overallBest fitness watch for casual usersBest for serious outdoor athletesBest non-wrist trackerBest fitness bandMost stylish fitness watchBest fitness tracker for iPhone usersBest fitness smartwatch for Samsung phonesBest fitness smartwatch for AndroidBest for early adopters and elite athletesWhat’s new\n\n\n\n\nBest fitness tracker overall\nAmazfit Active 2\nThe Amazfit Active 2 delivers outsized value for the price. It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data.\n\nScore: 7ProsConsStacked feature set for the priceLooks spiffyGood battery lifeTouchscreen and voice commands are finickyCan’t edit workoutsAI chatbots are meh\nWhere to Buy: $99.99 at Amazon $99.99 at Walmart $99.99 at Amazfit\nSize:&nbsp;43mm w/ 20mm straps /&nbsp;Weight:&nbsp;29.5g for standard, 31.7g for premium /&nbsp;Battery life:&nbsp;Up to 10 days /&nbsp;Display type:&nbsp;OLED touchscreen /&nbsp;GPS:&nbsp;Five GNSS systems /&nbsp;Connectivity:&nbsp;Bluetooth, Wi-Fi /&nbsp;Water resistance:&nbsp;5ATM /&nbsp;Music storage:&nbsp;N/A\n\nHear us out: the Amazfit Active 2 is the best all-rounder on the block. Smartwatches are definitely getting more high-tech, but the Active 2 keeps the spirit of a humble fitness tracker — a good price, all the basic health features with a holistic tracking approach, and a comfy yet stylish design. At $99.99 for the standard version, and $129.99 for the premium version with a leather band, you get an incredible amount of bang for your buck. \n\nThe hardware and design are surprisingly chic for the price. The standard version has a stainless steel case and tempered glass screen, while the premium version bumps you up to sapphire crystal and gets you an extra leather strap. The screen itself is nice and bright at 2,000 nits and you get an estimated 10 days of regular use on a single charge. (In testing, I got closer to eight to nine days as a power-user.) European users also get NFC payments. \n\nAs far as health features go, you get all the basics like continuous heart rate monitoring, blood oxygen rate, heart rate variability, stress tracking, alerts for abnormally high and low heart rate, and skin temperature tracking. It’s also got a daily readiness score and detailed sleep tracking if you’re into recovery metrics. (There’s also a Zepp Aura AI chatbot if you ever want to get more in-depth insights into your recovery metrics; It costs an extra $77 yearly including taxes, but it’s also totally optional.) For workouts, it supports 160 different sport types, including HYROX and a strength training mode that automatically counts reps. The Active 2 also adds offline maps, turn-by-turn directions, the ability to connect to third-party peripherals, and Zepp Coach — an AI-powered coach that can generate custom training plans for you. Built-in GPS with five satellite systems is also included.\n\nI don’t have a lot to complain about. My biggest gripes are the touch screen is hard to use with sweaty fingers and the onboard AI assistant for voice commands sometimes requires you to enunciate. You do lack advanced health features, like EKGs or sleep apnea detection, but that’s not really the point of something like the Active 2. This is meant to be a classic, basic fitness tracker that happens to look like a watch — and it does that with aplomb. \n\nRead our full Amazfit Active 2 review.\n\nBest fitness watch for casual users\nGarmin Venu Sq 2\nThe Garmin Venu Sq 2 is a great replacement for a Fitbit smartwatch. Not only do they look similar, but the Venu Sq 2 has way more fitness features, long battery life, and no subscription.\n\nScore: 8ProsConsBright displayLong battery lifeTons of training and health featuresNo subscriptionsCluttered appProprietary USB-A charger\nWhere to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Walmart $249.99 $149.99 at Garmin\nSizes:&nbsp;40mm w/ 20mm straps /&nbsp;Weight:&nbsp;38g /&nbsp;Battery life:&nbsp;Up to 11 days /&nbsp;Display type:&nbsp;OLED touchscreen /&nbsp;GPS:&nbsp;All-systems GNSS /&nbsp;Connectivity:&nbsp;Bluetooth, Ant Plus /&nbsp;Water resistance:&nbsp;5ATM /&nbsp;Music storage:&nbsp;4GB (for Music Edition)\n\nThe $250 Garmin Venu Sq 2 is the watch I recommend for anyone looking to replace their aging Fitbit Versa 2, 3, or 4. It’s got a similar look and vibe, with a much nicer OLED display and longer battery life.\n\nGarmin is known for its comprehensive fitness tracking, and that’s not an exception here. Of course, you get the basics, like steps and calories burned, but you get a whole lot more, too. There’s built-in GPS for tracking walks, runs, and bike rides, as well as plenty of other sports profiles like yoga and strength training. For smart features, you get push notifications, timers, contactless payments, and a bunch of safety features like Garmin’s Incident Detection, which is its take on fall detection. (You will need to carry your phone with you, however, as the Venu Sq 2 doesn’t have LTE.)\n\nIf you want the option of onboard music, you can shell out $50 extra for the Music Edition, which comes with enough storage for about 500 songs. I wouldn’t recommend it, however, as you’ll most likely have your phone on you since this isn’t a true standalone watch.\n\nWhat I like most about this watch, however, is that it’s one that you can grow with. On top of recovery metrics and sleep tracking, it also has Garmin Coach — a built-in, free training program for beginner and intermediate-level runners hoping to tackle a 5K, 10K, or half marathon. For health tracking, you can monitor heart rate, blood oxygen, intensity minutes (how many minutes of moderate exercise you get per week), stress, hydration, respiratory rate, and menstrual cycles. None of these existing data features are locked behind a paywall; however,&nbsp;Garmin introduced a premium tier&nbsp;earlier in the year that provides personalized AI-powered insights and additional features for $6.99 a month (or $69.99 a year).\n\nOne note: there is a Venu 3, which adds a newer heart rate sensor and nap detection. I liked it quite a bit, and it ticks off a lot of the right boxes — except for price. It’s $450, which puts it outside what I’d consider ideal for casual users. Another option is Garmin’s Forerunner 165 — it’s a $249 budget training watch that’s quite similar to the Venu Sq 2 feature-wise, albeit with a sportier vibe. \n\nBasically, go with what you find within your budget. I firmly believe older models are still a good choice if all you want is the fitness-tracking basics. This is especially true since newer software updates often make their way to older Garmin hardware. Garmin users also tend to hang onto their devices for a good while. Strava’s 2023 year-end survey found that the most popular smartwatch among its users was an eight-year-old Garmin!\n\nRead our full Garmin Venu Sq 2 review.\n\nBest for serious outdoor athletes\nGarmin Fenix 7S Pro\nLike the Garmin Epix Pro, the Fenix 7 Pro line has an updated optical heart rate sensor for improved accuracy. It also has excellent battery life, a slightly brighter MIP display, solar charging, and the option of upgrading to sapphire crystal.\n\nScore: 8ProsConsHands-free flashlightLong battery lifeMultiband GPSUpgraded heart rate monitorThe improved MIP display is still not the easiest to read in dim lightingToo similar to the standard Fenix 7\nWhere to Buy: $899.99 $733.98 at Amazon $899.99 $749.99 at Best Buy $899.99 at Garmin\nSizes:&nbsp;7S Pro: 42mm w/ 20mm straps; 7: 47mm w/ 22mm straps; 7X: 51mm w/ 26mm straps /&nbsp;Weight:&nbsp;7S Pro: 63g (Solar), 58g or 65g (Sapphire Solar, titanium or stainless steel); 7: 79g (Solar), 73g (Sapphire Solar); 7X: 96g (Solar), 89g (Sapphire Solar) /&nbsp;Battery life: 7S: up to 11 days, 14 w/ Solar; 7: up to 18 days, 22 days w/ solar; 7X: up to 28 days, 37 w/ solar /&nbsp;Display type:&nbsp;MIP touchscreen /&nbsp;GPS:&nbsp;All-systems GNSS and dual-frequency GPS /&nbsp;Connectivity:&nbsp;Bluetooth, Ant Plus, Wi-Fi /&nbsp;Water resistance:&nbsp;10ATM /&nbsp;Music storage:&nbsp;Up to 32GB\n\nGarmin’s Fenix 7 series is no joke, and the Fenix 7 Pro lineup takes it up a notch. It’s got built-in multiband GPS, solar charging on all models, the option of touchscreen or button navigation, topographical maps, and oodles upon oodles of data. Plus, every Fenix 7 Pro model has a hands-free LED flashlight, an upgraded heart rate sensor, and an improved memory-in-pixel display that’s slightly easier to read in low lighting.\n\nGarmin wearables are also known for providing extensive in-depth metrics, and the Fenix 7 Pro lineup is no exception. You get excellent recovery metrics as well as helpful training guides and coaching programs. The best part is that Garmin doesn’t charge extra for those features. That’s good news, as these are expensive watches.\n\nI appreciate how quickly these Fenix 7 watches can pick up a GPS signal. That’s a must if you’re training in the dead of winter. These watches can also take a beating. All models are built to military-grade standards and feature up to 10ATM of water resistance. That means they’re more than capable of a dunk in the ocean.\n\nAlthough the screen is brighter, MIP displays still aren’t my absolute favorite — the OLED on the Garmin Epix 2 and the Epix Pro are much easier on the eyes. It’s admittedly tough to pick between the Fenix 7, Fenix 7 Pro, Epix 2, and Epix Pro lineups — especially now that the Epix Pro also has great battery life, the LED flashlight, and now comes in multiple sizes. What it boils down to is whether you prioritize a brighter display, longer battery life, or price.\n\nPersonally, I prefer the Epix Pro for better readability, but the Fenix 7 Pro is the better choice if this is your first introduction to Garmin’s platform. You’ll get better battery life, the same LED flashlight, all the same training features, and a lower starting price. You should also consider Garmin’s Forerunner 570 and Forerunner 970, which were released in late May for $549.99 and $749.99, respectively. \n\nBoth watches have an OLED screen, built-in microphone and speaker system, skin temperature sensors, and the ability to generate a daily report that includes information about your upcoming workouts, events, estimated sleep needs, and the weather. The watches also support Garmin Coach, a free tool that helps you train for fitness events like marathons. The 970 has three exclusive fitness features called running tolerance, running economy, and step speed loss, which analyze your running efficiency and give you suggestions on how many miles to run each week. Some of these features require Garmin’s $170 HRM 600 chest strap, which provides non-wrist-based heart rate metrics. (You can check out our Garmin buying guide if you’d like even more alternatives.)\n\nTechnically, there’s the Fenix 8 series on the block. That said, I still think the standard Fenix 7 or 7 Pro lineup is the better overall value. The Fenix 8 adds diving features and voice assistant capabilities, but it also ups the standard Fenix 7’s starting price of $650 by an additional $350. That’s tough to swallow, especially since retailers may offer discounts on older models to get rid of existing inventory.\n\nRead our full Garmin Fenix 7S Pro review.\n\nBest non-wrist tracker\nOura Ring 4\n\nScore: 9ProsConsMore sizesSlimmer designExpanded auto workout detectionRedesigned appBetter battery lifeSubscription required to get all featuresI still wish this had a charging case\nWhere to Buy: $349 at Amazon $349 at Best Buy $349 at Oura\nSizes:&nbsp;12 proprietary sizes, 4–15, sizing kit needed /&nbsp;Weight:&nbsp;4–6g (depends on size) /&nbsp;Battery life:&nbsp;Up to seven days /&nbsp;Display type:&nbsp;None /&nbsp;GPS:&nbsp;None /&nbsp;Connectivity:&nbsp;Bluetooth /&nbsp;Water resistance:&nbsp;Up to 328 feet /&nbsp;Music storage:&nbsp;None\n\nThe vast majority of fitness trackers are worn on the wrist, but the $349 Oura Ring isn’t. The smart ring is a good option for people who are looking for something a little more discreet. It’s also less distracting than some other wrist-based options, as it lacks a screen and doesn’t mirror push notifications from your phone.&nbsp;\n\nThe Oura Ring 4 isn’t functionally that much different from the previous Gen 3. It’s slimmer, features a all-titanium design, has improved battery life, and has an updated sensor algorithm that Oura says is more accurate. None of these software features are gatekept to the Ring 4, so Gen 3 owners shouldn’t feel the need to upgrade unless their ring no longer lasts more than two days on a single charge. That said, the fourth-gen ring has an expanded size range spanning from 4 to 15. If you felt your Gen 3 was a bit snug or couldn’t find a size that fit right, you may have a better option now.\n\nWhile smaller than your average wearable, the Oura Ring still tracks a ton of metrics, including heart rate variability, body temperature, blood oxygen, all-day heart rate monitoring, and cycle tracking. Since launching, the Oura Ring has also added activity tracking, blood oxygen levels, chronotypes to help visualize your circadian rhythms, a social feature called Circles, improved stress tracking, and cardiovascular age and capacity metrics. \n\nMore recently, it’s added an AI chatbot, meal logging, and glucose tracking, though you&#8217;ll have to purchase a $99 Dexcom Stelo CGM to take advantage of the latter. It’s rolled out a more accurate sleep stages algorithm as well, and the app has been entirely revamped to better organize these features and metrics. An update that rolled out in May improved its step-tracking accuracy by using an algorithm that can better detect when movement is the result of a step. The same update improved its calorie burn estimates by using heart rate measurements to determine the intensity of your workouts.\n\nThe Oura Ring tracks typical metrics — such as steps and calories burned —&nbsp; but its main focus is sleep and recovery. Each day, you’re given three sets of scores for your readiness, sleep, and activity. It’s a simple, holistic look at your overall wellness and an ideal pick if you want a more hands-off experience with your data. Oura recently announced a new feature called Health Panels, which allows you to schedule a blood test with a local Quest Diagnostics location. The results include dozens of biomarkers relating to your cardiovascular and metabolic health and can be viewed within Oura’s app. You can also ask Oura Advisor, the company’s AI chatbot, to help you parse the results.\n\nIf you’ve got a Samsung Galaxy Watch, you may want to consider the $399.99 Galaxy Ring. It’s a bit more expensive than the base Oura Ring, but it doesn’t come with a subscription, and you get much better battery life when used with the Galaxy Watch. The hardware is also excellent, especially the charging case. That said, this is only an option for Android users, and even then, you don’t unlock its full potential unless you’ve got other Samsung gear. I also recommend the $349 Ultrahuman Ring Air for folks who don’t like the idea of Oura’s monthly subscription.\n\nYou can read my experiences with a bunch of other smart rings, but right now, the Oura Ring is the most polished with the best overall experience. \n\nRead our full Oura Ring 4 review.\n\nBest fitness band\nAmazfit Band 7\nThe Amazfit Band 7 offers a lot of features for the price, including an OLED display, long battery life, and features like abnormal heart rate notifications.\n\nScore: 7ProsConsSuper affordableGood feature set for the priceOLED display looks niceComfortable and lightweightLong battery lifeHard to put on one-handedSome app quirksGPS can be wonky\nWhere to Buy: $49.99 at Amazon $49.99 at Amazfit $49.99 at Best Buy\nSize:&nbsp;42mm x 24mm x 12.2mm with 16mm straps /&nbsp;Weight:&nbsp;28g /&nbsp;Battery life:&nbsp;Up to 18 days /&nbsp;Display type:&nbsp;OLED /&nbsp;GPS:&nbsp;Tethered /&nbsp;Connectivity:&nbsp;Bluetooth /&nbsp;Water resistance:&nbsp;5ATM /&nbsp;Music storage:&nbsp;None\n\nIt’s truly hard to beat the Amazfit Band 7’s $49.99 price — doubly so since you can often find it on sale for even less. Wearing the Band 7 feels like a throwback to 2014, which is great if all you’re looking for is a simple and casual tracker that won’t break the bank.\n\nNo one is going to compliment you on the Band 7’s design, but it’s got a handful of cute watch faces that make good use of its OLED touchscreen. And despite having an OLED display, you’ll still get roughly 14 days of battery life on a single charge. It’s also incredibly lightweight, making it a good option for sleep tracking as well.\n\nYou also get an absurd number of features for the price, including Amazon Alexa, continuous heart rate monitoring, blood oxygen monitoring, stress tracking, advanced sleep tracking, training metrics like VO2 max and load, abnormal heart rate alerts, menstrual tracking, push notifications, find my phone, a camera remote, and even a Pomodoro timer. You’re sacrificing contactless payments and will have to settle for tethered GPS, but this is a fair tradeoff considering everything else you’re getting. It’s not the best option for hardcore fitness tracking, but this is a great option if all you’re looking to do is casually track activity and your steps.\n\nAmazfit’s been making surprisingly good budget trackers for a while. That said, if you’re a little wary of a lesser-known brand, the $159.95 Fitbit Charge 6 is a decent alternative. It’s pricier, but you get a lot of what Amazfit is missing. That includes access to Google services like YouTube Music, Google Wallet, and Google Maps. Plus, it has built-in GPS and the ability to broadcast your heart rate with some Bluetooth-compatible gym equipment.\n\nRead our full Amazfit Band 7 review.\n\nMost stylish fitness watch\nWithings ScanWatch Light\nThe Withings Scanwatch Light is a hybrid analog smartwatch that tracks the basics like steps and activities, while delivering up to 30 days of battery life.\n\nScore: 7ProsConsLong battery lifeAlso gets you lots of complimentsComfortable to wearGreat priceAdds period trackingHas fewer sensors than the ScanWatch 2Again, the OLED display is tiny\nWhere to Buy: $249.99 at Amazon $249.99 at Target $249.95 at Withings\nSizes:&nbsp;37mm with 18mm straps  /&nbsp;Weight:&nbsp;45g /&nbsp;Battery life:&nbsp;Up to 39 days /&nbsp;Display type:&nbsp; OLED display /&nbsp;GPS:&nbsp;Tethered GPS /&nbsp;Connectivity:&nbsp;Bluetooth /&nbsp;Water resistance:&nbsp;5ATM /&nbsp;Music storage:&nbsp;N/A\n\nThe $249.95 Withings ScanWatch Light is a fetching hybrid analog smartwatch. Think of it as a dressier fitness band with some Swatch-like design sensibilities. It’s got all your basics like simple push notifications, timers, and alarms. Plus, you can track steps, sleep, menstrual cycles, and GPS activities straight from the wrist. It looks spiffy on the wrist, and if you like a pop of color, Withings offers minty green and pale blue color options. It’s also got excellent battery life, with an estimated 30 days on a single charge. I got a little less in testing at around 25 days, but that’s still much better than the vast majority of flagship smartwatches. This also looks way more stylish than beefier multisport watches with similar battery life.\n\nAs its name suggests, the Light is a pared-down version of the $369.95 ScanWatch 2. The main things you’re missing are an EKG sensor for atrial fibrillation detection, a temperature sensor, blood oxygen tracking, and an altimeter for tracking elevation. For basic fitness tracking, you don’t really need those sensors. That’s why I think the extra $100 in savings is worth it for the Light, especially since both are lacking in safety features, contactless payments, and some other bells and whistles you can get from other watches in the $350 price range. That said, if you want extras, the ScanWatch 2 also gets you a slightly more elegant look thanks to the second step-counter dial.\n\nAnother option I like is the $179.99 Garmin Vivomove Sport, which actually dominated this category in the past few years. It’s hard to beat the price, especially since it gets you access to Garmin’s platform. However, Garmin’s “hidden” OLED display can get washed out in bright lighting, and battery life was significantly shorter than other hybrid analog watches at around five days. Still, if you’d prefer a platform with a focus on fitness rather than wellness, the Vivomove Sport may be the better move over a Withings watch.\n\nRead my full reviews of the Withings ScanWatch 2 and Light.\n\nBest fitness tracker for iPhone users\nApple Watch SE 3\n\nScore: 9ProsConsWe finally get an always-on displayWe get double tap and wrist flick!So many more health features!5G!Fast charging!More durable!On-device Siri!Upgraded processorYou get a speaker tooThose bezels are still thiccWish the battery life was a skosh better\nWhere to Buy: $249 $199.99 at Amazon $249 at Best Buy $249 $229.32 at Walmart\nSizes:&nbsp;40mm, 44mm /&nbsp;Weight:&nbsp;26.3g (40mm), 32.9g (44mm) /&nbsp;Battery life:&nbsp;Up to 18 hours /&nbsp;Display type:&nbsp;Always-on LTPO OLED /&nbsp;GPS: Built-in GPS, plus GLONASS, Galileo, QZSS, Beidou&nbsp;/&nbsp;Connectivity:&nbsp;5G (optional), Bluetooth, Wi-Fi /&nbsp;Water resistance:&nbsp;Up to 50 meters /&nbsp;Music storage:&nbsp;64GB\n\nThe Apple Watch SE 3 being Apple’s most exciting smartwatch of 2025 was unexpected, but it’s true. Apple’s latest entry-level smartwatch has an always-on display that the company claims to be more scratch-resistant than its predecessor. Not to mention, it has the same S10 chip that’s in the Apple Watch Series 11 and Apple Watch Ultra 3, though it lacks the Ultra Wideband chip found in those higher-end models. Apple brought fast charging, on-device Siri, its double tap and wrist flick gestures, and a built-in speaker to the SE line for the first time. The cellular version of the Apple Watch SE 3 supports 5G for faster downloads and better coverage.\n\nThe better specs make it harder to recommend the pricier Apple Watch Series 11 unless you care about having a smartwatch that can take an EKG, although the SE 3 can passively check for signs of atrial fibrillation via irregular heart rhythm notifications. It can also send you sleep apnea notifications, and has more robust period tracking. The watch can’t record your blood oxygen level, a feature that was recently reintroduced to Apple Watch models that support it in the US after being removed due to a copyright dispute in 2023.\n\nThe Apple Watch SE 3 was released alongside WatchOS 26, which includes new fitness and wellness features.  Workout Buddy uses your fitness data to generate personalized insights, advice, and pep talks through a virtual assistant. Your Workout Buddy will remind you of your goals, recent achievements, and recap your results at the end of your workout. WatchOS 26 also comes to the Apple Watch SE 2, Apple Watch Series 6 and above, and all Apple Watch Ultra models.\n\nOne of the few technical details Apple didn’t improve was battery life — the SE 3 still lasts around 18 hours per charge. In one of our tests, which included a cross-country flight and 48-minute mini golf session, the watch has 27 percent battery left after around 13 hours of use with no reliance on low power mode. The Apple Watch SE 3 is the one to get unless you need an Apple Watch with a larger screen, or if you want more sophisticated health tracking, or you’d benefit from the ruggedness and multi-day battery life of the Apple Watch Ultra.\n\nRead our full Apple Watch SE 3 review.\n\nBest fitness smartwatch for Samsung phones\nSamsung Galaxy Watch Ultra\nThe Samsung Galaxy Watch Ultra is targeted at more outdoorsy folks with dual-frequency GPS, a new multisport activity, an emergency siren, and increased durability.\n\nScore: 7ProsConsLonger battery life than the regular Galaxy WatchDouble pinch is usefulAdds dual-frequency GPS and sleep apnea detectionCheaper than the Apple Watch UltraWhere is Samsung in this? The squircle chonk doesn’t fit small wristsSleep apnea feature is limited to Galaxy phonesAGEs metric is baffling\nWhere to Buy: $649.99 $589.99 at Amazon $649.99 $599.99 at Samsung $649.99 at Best Buy\nSizes:&nbsp;47mm /&nbsp;Weight:&nbsp;60.5g /&nbsp;Battery life:&nbsp;Up to 100 hours /&nbsp;Display type: Always-on OLED /&nbsp;GPS: Built-in GPS&nbsp;/&nbsp;Connectivity:&nbsp;LTE (optional), Bluetooth, Wi-Fi /&nbsp;Water resistance:&nbsp;10ATM, IP68 /&nbsp;Music storage:&nbsp;32GB\n\nTruthfully, the Samsung Galaxy Watch Ultra left me a bit disappointed after reviewing it — not because it’s a bad piece of hardware, but because it copies a bit too much from Apple. Even so, this is the most full-featured fitness smartwatch a Samsung phone owner can buy.\n\nThe Galaxy Watch 8’s squircle design may seem controversial at first, but it allowed Samsung to make the smartwatch slimmer than its predecessor. It also sits flatter against your skin, which made it more comfortable to wear. I preferred the Galaxy Watch 7 over the Ultra for casual fitness tracking and wearability, and that’s still true with the Watch 8, but the improvements over the previous generation aren’t significant. Its battery is barely bigger, and its brighter screen (up to 3,000 nits vs. 2,000) didn’t make a big difference even in direct sunlight.\n\nThere’s a Vascular Load feature, which measures how stressed your vascular system is while you sleep, but it doesn’t give a reason why this metric is important. Its Antioxidant Index, which gauges whether you’ve eaten enough fruits and vegetables, can help encourage you to eat more healthily when creating a new diet.\n\nIn testing, the sensor works by using blue, yellow, and infrared LEDs to pick up the carotenoid levels in your skin. Carotenoids are an antioxidant that gives fruits and vegetables their color. The sensor could be fooled by pressing any colorful objects — a piece of broccoli, blackberry (which exploded), marker-colored finger, and Cheeze-It — against it. I did find its Running Coach feature, which creates a training regimen based on your performance after a 12-minute run, to be helpful. Its assessment of my current fitness level was fair, and the workouts it suggested were well-structured.\n\nAs far as AI is concerned, the Galaxy Watch 8 has Google Gemini, which was hit or miss in my testing. It couldn’t send a message in Slack, and the K-pop-inspired running playlist it created had a few songs outside that genre, but it’s handy if you want to use Google’s AI on your wrist rather than taking out your phone. Google Gemini support is one feature of One UI 8 (Samsung’s fork of Wear OS 6, Google’s latest wearable operating system), which also includes Material 3 Expressive, a redesign optimized for circular watches. Live updates, which let you track things like deliveries, rideshares, and information from navigation apps, will also be coming in 2026. Samsung’s One UI 8 also came to the Galaxy Watch Ultra as a software update.\n\nHowever, there’s still a significant gap between the Galaxy Watch 8 and the Ultra in my testing as far as accuracy, especially for GPS tracking. And what really sealed the deal for me was the difference in battery life. (The gaps are much less egregious between the base Apple Watch and Ultra 2.) The caveat is, if all you want is casual fitness tracking, the Galaxy Watch 8 is the better choice for wearability. It’s just more comfortable for sleep tracking and lighter overall. Just keep in mind it lacks the Ultra’s emergency siren and shortcut button.\n\nBoth watches have the same processor, a 3-in-1 BioActive Sensor, some AI health features, and FDA-cleared sleep apnea detection. The hardware in both current-generation Galaxy smartwatches makes for a more future-proof purchase, but I found the AI health features to be hit-or-miss in practice. As always, some features, like EKGs and sleep apnea detection, are limited to Samsung owners. That makes this hard to wholeheartedly recommend this to non-Samsung Android users.\nSamsung Galaxy Watch 8\nSamsung&#8217;s latest smartwatch features a squircle design, Gemini, and some additional health features like an Antioxidant Index and Running Coach.\n\nWhere to Buy: $349.99 $329.99 at Samsung $349.99 $329.99 at Best Buy $349.99 $319.99 at Amazon\nIf the Ultra doesn’t float your boat, now is a good time to find the Galaxy Watch 7 series, particularly the base models, on sale. The base Galaxy Watch 8 is not a massive update over the Watch 7 as far as actual use goes.\n\nRead our full Samsung Galaxy Watch Ultra review.\n\nBest fitness smartwatch for Android\nGoogle Pixel Watch 4 (41mm, Bluetooth)\n\nScore: 8ProsConsAll-around better battery and fast-chargingMaterial 3 Expressive design refresh is smartBetter auto activity trackingRaise-to-Talk is quite naturalDomed display looks quite niceRepairability!Satellite SOSThird proprietary charger in four yearsGemini is still hit or missGPS maps are better, but still a bit wonky\nWhere to Buy: $349.99 at Google $349.99 at Amazon $349.99 at Best Buy\nSizes:&nbsp;41mm, 45mm /&nbsp;Weight:&nbsp;31g /&nbsp;Battery life:&nbsp;Up to 30 hours /&nbsp;Display type: Always-on OLED /&nbsp;GPS: Built-in Dual Frequency GPS&nbsp;/&nbsp;Connectivity:&nbsp;LTE (optional), Bluetooth, Wi-Fi /&nbsp;Water resistance:&nbsp;5ATM /&nbsp;Music storage:&nbsp;32GB\n\nThe Pixel Watch 4 isn’t just the best fitness smartwatch for Android, it’s the most interesting flagship smartwatch launch of the season. The watch has several hardware improvements over its predecessor, starting with display that has thinner bezels and a higher peak brightness. Google focused on repairability for Pixel Watch 4, and you can now have its screen and battery replaced on their own instead of scrapping the entire wearable.\n\nSpeaking of the battery, it can last a lot longer per charge. In our tests, the battery on the 45mm model lasted 45 hours on its first charge, which was 13 hours longer than the Pixel Watch 3. We averaged 36 to 42 hours with the always-on display enabled. Google also improved the Pixel Watch 4’s charging speed, and we were able to top up its battery from 14 to 97 percent in around 45 minutes.\n\nWear OS 6 comes preloaded on the Pixel Watch 4, which means Gemini is ready to go on your wrist. The smart assistant can be activated with a new Raise-to-Talk gesture, though it was hit-or-miss in our tests. A new AI-enabled feature called Smart Replies offers up personal replies to your incoming text messages, though it only works if you have a Pixel 8 Pro, Pixel 9 series, or Pixel 10 series phone. Notification cooldown can automatically change the frequency with which you receive certain notifications without enabling a do-not-disturb mode. Wear OS 6 was rolled out to the Pixel Watch 2 and Pixel Watch 3 as part of Google’s October update.\n\nOne of the biggest fitness improvements to the Pixel Watch 4 is improved activity detection. The watch can automatically record cardio activities for at least 15 minutes, and you’ll receive a notification and activity recap within an hour of finishing. You can train AI to better recognize your preferred activities, too. We tested these features during walks, runs, and cycling sessions, and it worked well each time. However, automatic activity detection is limited to tracking these activities: walking, running, bike riding, spinning, rowing, elliptical training, or team sport workout. \n\nThe Pixel Watch 4’s dual-frequency GPS allowed it to track my runs more accurately than the Pixel Watch 3, though the Galaxy Watch Ultra was even more accurate. The Pixel Watch 4 will also work with the new AI-powered Fitbit Health Coach, which can create exercise programs based on your goals, sleep, and it can adapt to extenuating circumstances like injuries. \n\nRead our full Pixel Watch 4 review.\n\nBest for early adopters and elite athletes\nWhoop MG\nThe new Whoop MG features the ability to take EKGs and get beta blood pressure insights. It comes with the premium Whoop Life subscription.\n\nScore: 6ProsConsGood hardware and software upgradesMore affordable — kind ofStreamlined app designBetter battery lifeWhoop Age will be my villain origin storyThe clasp still befuddlesThat whole upgrade debacleStraps are not backward-compatibleIt adds up to fresh paint on the same product\nWhere to Buy: $359 at Amazon $359 at Whoop $359 at Best Buy\nSizes:&nbsp;34.7 mm x 24 mm x 10.6 mm /&nbsp;Weight:&nbsp;27g /&nbsp;Battery life:&nbsp;Up to 14 days /&nbsp;Display type: None /&nbsp;GPS: None&nbsp;/&nbsp;Connectivity:&nbsp;Bluetooth /&nbsp;Water resistance:&nbsp;Up to 10 meters /&nbsp;Music storage:&nbsp;None\n\nThe Whoop MG isn’t a huge departure from the Whoop 4.0, which I reviewed previously, but it’s still the best choice for elite athletes. Its buckle still annoyed me, and bands from the previous generation are incompatible with this model, though Whoop will give you a credit for trading in your current bands. Its processor is 60 percent faster but I didn’t feel any difference in day-to-day use, save for faster data syncing with Whoop’s app. I did notice the bump in battery life from five to 14 hours, Whoop’s redesigned app, and a handful of new health and wellness features.\n\nA key part of the Whoop MG’s appeal is the dense daily reports on your health and wellness accessible within its app. They verge on overwhelming, with an emphasis on how much activities have strained your body. The Whoop Coach (an AI-powered chatbot) summarizes information about your sleep duration, activity, and heart rate to give you advice on hitting the fitness goals you selected during setup.\n\nSimilarly, a feature called Healthspan calculates your Whoop Age based on three weeks worth of sleep, exercise, steps, VO2 Max, heart rate, and lean body mass data. It’ll update your Whoop Age weekly after its first assessment, but be mindful that it discounts factors like genetics, your environment, and lifestyle, which significantly impact the rate your body actually ages. \n\nThe Whoop MG has an FDA-cleared EKG reader, and can send you notifications if it detects atrial fibrillation. It can also give you blood pressure insights, but is currently in beta. Whoop Advanced Labs is an upcoming service that will let you send in a blood test to be reviewed by clinicians to give you even more health insights. If you like the distraction-free design of a smart ring, but want your wearable on your wrist instead of your finger, consider the Whoop MG.  \n\nRead our full Whoop MG review.\n\nWhat’s new\n\n\nThe beta for Fitbit’s AI health coach is now available to Android users with an active Fitbit Premium subscription, with iOS availability coming “later this year.” The Gemini-powered tool can create personalized workouts based on your goals and fitness level, and make adjustments to accommodate upcoming conflicts or injuries. Fitbit is also shifting its focus from daily to weekly targets, providing insights based on your sleep, activity, and other factors. We were able to check out the new assistant&nbsp;in August, but haven’t had enough time with it to offer a full review. Stay tuned!\n\n\n\nDuring a recent media briefing, Fitbit announced that it will be releasing new hardware in 2026. The company didn’t provide any specific details on what that hardware might be, but Fitbit’s head of product, Andy Abramson, suggested that we should “stay tuned for an exciting year.”\n\n\nUpdate, November 5th: Adjusted pricing / availability and added info regarding Fitbit’s Gemini-powered AI health coach and the possibility of forthcoming hardware. Brandt Ranj also contributed to this post.",
+      "content_length": 36444,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The keyboard of choice for modular synth nerds gets a proper sequel after 10 years",
+      "link": "https://www.theverge.com/news/814658/the-keyboard-of-choice-for-modular-synth-nerds-gets-a-proper-sequel-after-10-years",
+      "published": "2025-11-05T20:28:17",
+      "content": "\n\n\n\t\n\t\t\n\nIf you’ve ever watched a synth video on YouTube, there’s a decent chance you’ve seen the Arturia KeyStep at some point. The affordable keyboard and controller has been a steady presence since its release in January of 2016, especially in DAWless circles. Now Arturia is finally releasing a proper successor, the KeyStep mk2, and on paper, it seems like a big upgrade.\n\nThe core of what makes the KeyStep beloved remains unchanged: 32 solid minikeys with aftertouch, a small footprint, decent connectivity options, and low price. The mk2 features USB-C for power and MIDI, five-pin MIDI in and out ports, analog sync in and out, a sustain / expression pedal input, plus CV and gate outputs for hooking up modular gear.\n\nThe headlining updates here are the new generative capabilities, Mutate and Spice, borrowed from the company’s Freak line of synths. Mutate makes semi-random changes to an arpeggio or sequence, endlessly iterating on ideas. And if you find something you like, you can save it as a new sequence. With this ability to create happy accidents, transforming arpeggios into sequences and back again, YouTuber Loopop said, “a new benchmark has been set for what a keyboard can do as a compositional assistant.”\n\nWhile Mutate will shift notes around, creating entirely new patterns, Spice is a little more subtle. It changes gate length, velocity, adds ratchets, and at higher settings, will introduce octave jumps. It’s focused almost exclusively on rhythmic variation.\n\nSynth influencer Starsky Carr said there’s “loads of fun and loads of inspirational tools” inside the KeyStep mk2. But some reviews have been down on the build quality. While the original had a metal baseplate that made it surprisingly heavy for its size and helped it withstand long-term abuse, the mk2 has an all-plastic build. Will people still be playing their KeyStep mk2s in 10",
+      "content_length": 1875,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Baseball broke containment during the World Series",
+      "link": "https://www.theverge.com/report/814483/world-series-dodgers-blue-jays-fandom-social-media",
+      "published": "2025-11-05T20:26:53",
+      "content": "\n\n\n\t\n\t\t\n\nWith the swing of a bat, another October came and went for those of us who love baseball. As languid and habitual as the rest of the season can feel, October baseball at its best is pure chaos: Night after night, there's a promise of something new, that you might see something that's never happened before and get to talk about it for years to come. The winner-takes-all Game 7 on Saturday, between the Toronto Blue Jays and the Los Angeles Dodgers, was one of those nights - and maybe, hopefully, the beginning for a whole new group of fans.\nAround 26 million people in the US watched the game on Saturday, making it the most-watched World Series …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nationaler Sicherheitsrat beschließt Plan gegen hybride Bedrohungen",
+      "link": "https://www.tagesschau.de/inland/nationaler-sicherheitsrat-erste-sitzung-100.html",
+      "published": "2025-11-05T20:15:32",
+      "content": "   Er soll bei Krisen helfen und Strategien für Bedrohungslagen erarbeiten: der Nationale Sicherheitsrat. In seiner ersten Sitzung fasste das Gremium einen Beschluss, der auf Russland abzielt.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "New quantum hardware puts the mechanics in quantum mechanics",
+      "link": "https://arstechnica.com/science/2025/11/new-quantum-computing-hardware-sorts-ions-for-computation/",
+      "published": "2025-11-05T20:00:26",
+      "content": "Quantum computers based on ions or atoms have one major advantage: The hardware itself isn’t manufactured, so there’s no device-to-device variability. Every atom is the same and should perform similarly every time. And since the qubits themselves can be moved around, it’s theoretically possible to entangle any atom or ion with any other in the system, allowing for a lot of flexibility in how algorithms and error correction are performed.\nThis combination of consistent, high-fidelity performance with all-to-all connectivity has led many key demonstrations of quantum computing to be done on trapped-ion hardware. Unfortunately, the hardware has been held back a bit by relatively low qubit counts—a few dozen compared to the hundred or more seen in other technologies. But on Wednesday, a company called Quantinuum announced a new version of its trapped-ion hardware that significantly boosts the qubit count and uses some interesting technology to manage their operation.\nTrapped-ion computing\nBoth neutral atom and trapped-ion computers store their qubits in the spin of the nucleus. That spin is somewhat shielded from the environment by the cloud of electrons around the nucleus, giving these qubits a relatively long coherence time. While neutral atoms are held in place by a network of lasers, trapped ions are manipulated via electromagnetic control based on the ion’s charge. This means that key components of the hardware can be built using standard electronic manufacturing, although lasers are still needed for manipulations and readout.Read full article\nComments",
+      "content_length": 1579,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Von Hamas übergebene Leiche war letzte deutsche Geisel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-148.html",
+      "published": "2025-11-05T19:54:30",
+      "content": "   Eine am Dienstag von der Hamas an Israel übergebene Leiche ist identifiziert worden: Es handelt sich um die sterblichen Überreste der letzten Geisel mit deutscher Staatsbürgerschaft. Die Familie des Toten hatte Kanzler Merz getroffen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disgraced former king of Spain’s memoir details ‘enormous respect’ for Franco",
+      "link": "https://www.theguardian.com/world/2025/nov/05/disgraced-former-king-of-spains-memoir-details-enormous-respect-for-franco",
+      "published": "2025-11-05T19:46:59",
+      "content": "Memoir chronicles Juan Carlos’s anointment as heir to dictator and death of younger brother when playing with pistolsA memoir by Spain’s disgraced former king chronicles his anointment as heir to the dictator Francisco Franco, his role in saving democracy from a coup attempt in 1981, and his grief at the death of his younger brother when the two were “playing” with a pistol as teenagers.The book, published 11 years after Juan Carlos’s abdication and exile, is titled Reconciliation but appears to do anything but, instead detailing how he feels abandoned and misunderstood by his son and heir, King Felipe VI, and by other close family members. Continue reading...",
+      "content_length": 668,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel says it has received remains believed to be of a Gaza hostage",
+      "link": "https://www.france24.com/en/middle-east/20251105-israel-army-says-hamas-handed-over-remains-believed-to-be-hostage",
+      "published": "2025-11-05T19:36:05",
+      "content": "Israel on Wednesday received a body believed to be of a hostage from Gaza as part of the ongoing ceasefire agreement with Hamas, said the prime minister's office, adding that the remains would be sent to a national forensic centre for identification.",
+      "content_length": 250,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Probleme bei Bundeswehr-Digitalfunk: Ausschuss kritisiert Pistorius",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-digitale-funkgeraete-100.html",
+      "published": "2025-11-05T19:20:35",
+      "content": "   Für 20 Milliarden Euro soll die Bundeswehr mit digitalen Funkgeräten ausgestattet werden. Bislang funktioniert aber so gut wie gar nichts. Im Verteidigungsausschuss gab es deswegen heftige Kritik - vor allem an Minister Pistorius. Von Uli Hauck.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lafarge trial: Multinational companies 'enjoying impunity, prioritising profits over human rights'",
+      "link": "https://www.france24.com/en/video/20251105-lafarge-trial-multinational-companies-enjoying-impunity-prioritising-profits-over-human-rights-1",
+      "published": "2025-11-05T19:17:51",
+      "content": "It is one of the most consequential legal proceedings in modern corporate history — a trial that could redefine what accountability means in the global economy. The Lafarge case, now before French courts, marks the first time a company as a legal entity is being prosecuted in France for financing a terrorist enterprise. Even more striking, it is the first case where a corporation faces this charge for payments made through a foreign subsidiary. At its heart lies a question that has haunted global business for decades: can a multinational corporation claim ignorance of crimes committed in its own supply chain, or by its own subsidiaries, when the profits keep flowing home? For in-depth analysis and a deeper perspective, Annette Young welcomes Cannelle Lavite, Director of the Business and Human Rights Program at the ECCHR (European Center for Constitutional and Human Rights).",
+      "content_length": 886,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Why Ukraine is struggling to hold on to the ruined city of Pokrovsk",
+      "link": "https://www.france24.com/en/europe/20251105-why-ukraine-struggling-to-hold-ruined-city-pokrovsk",
+      "published": "2025-11-05T19:12:04",
+      "content": "Russian and Ukrainian troops are locked in a desperate fight in the ruins of Pokrovsk, a road and railway hub at the heart of the Donets River coal basin. The near-emptied city has been the target of a grinding Russian offensive for more than a year – and one that has exposed the struggle Kyiv faces in manning a front line stretching some 1,250 kilometres.",
+      "content_length": 358,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "YouTube TV’s Disney blackout reminds users that they don’t own what they stream",
+      "link": "https://arstechnica.com/gadgets/2025/11/youtube-tvs-disney-blackout-reminds-users-that-they-dont-own-what-they-stream/",
+      "published": "2025-11-05T19:10:45",
+      "content": "Google and Disney have been in a contract dispute since October 30 that has resulted in YouTube TV subscribers losing access to 21 Disney-owned TV channels, including ABC, ESPN, and The Disney Channel.\nIn addition to reducing access to popular live content, the corporate conflict is highlighting another frustration in the streaming era. As Google and Disney continue duking it out, their customers have lost some access to content they thought was permanent: DVR files and digital movie purchases.\nA perk of subscribing to YouTube TV, per Google’s marketing, is the ability to “record it all with unlimited DVR space.” A footnote on the YouTube TV homepage notes that unlimited DVR is subject to “device, regional, and Internet restrictions” but overlooks an additional restriction in the form of multi-conglomerate spats.Read full article\nComments",
+      "content_length": 850,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Confidential Western Australian government report warns gas exports risk slowing Asia’s move to clean energy",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/confidential-western-australian-government-report-warns-gas-exports-risk-slowing-asias-move-to-clean-energy",
+      "published": "2025-11-05T19:00:32",
+      "content": "Report by consultants Deloitte undermines Labor’s public claims that WA’s gas exports help reduce emissions overseasFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastExports of Australian gas carry “substantial risks” of slowing the move to cleaner energy in Asian countries, according to a confidential report for the Western Australian government that undermines the government’s own narrative that the industry helps cut global emissions.The warning in the 2024 report by consultants Deloitte challenges the claim made by the Western Australian premier, Roger Cook, in 2023 that his state’s increased greenhouse pollution, largely driven by the vast amount of gas burnt to liquefy gas for export, is justified because it is good for the climate and displaces coal power in Asia. Continue reading...",
+      "content_length": 864,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Alle Macht dem Weißen Haus: Ein Jahr nach Trumps Wahlsieg",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-jahrestag-sieg-trump-100.html",
+      "published": "2025-11-05T18:56:24",
+      "content": "   Vor einem Jahr gewann Donald Trump die Wahl zum US-Präsidenten. Seitdem setzt er auf radikale Machtkonzentration und die Politisierung aller staatlichen Institutionen. Das Vertrauen in den Rechtsstaat ist auf dem Tiefpunkt. Von Samuel Jackisch.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nigeria facing 'multiplicity of security challenges': Communal clashes, separatists, insurgencies",
+      "link": "https://www.france24.com/en/video/20251105-nigeria-facing-multiplicity-of-security-challenges-communal-clashes-separatists-insurgencies",
+      "published": "2025-11-05T18:45:05",
+      "content": "The Nigerian government said it does not tolerate religious persecution, responding to US President Donald Trump's threats of military intervention over the killing of Christians by jihadists in the country. Trump said on social media that he had asked the Pentagon to map out a possible plan of attack in Africa's most populous nation because radical Islamists are \"killing the Christians and killing them in very large numbers\". But Foreign Minister Yusuf Tuggar insisted that the country's constitution did not allow religious persecution, in the first comment by a senior Nigerian government official following Trump's weekend threats. For in-depth analysis and a deeper perspective, François Picard welcomes Najim Animashaun, Nonresident Research Fellow at the African Policy Research Institute.",
+      "content_length": 800,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Vor Treffen in Kanzleramt: \"Der Stahlgipfel darf kein Stuhlkreis werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/laender-positionspapier-stahlgipfel-100.html",
+      "published": "2025-11-05T18:26:22",
+      "content": "   Strafzölle, Einfuhrverbote, Strompreis: Vor dem Stahlgipfel im Kanzleramt haben sechs Bundesländer konkrete Forderungen an die Bundesregierung gestellt. Sie sehen Hunderttausende Arbeitsplätze in Gefahr. Von M. Rödle.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Billiganbieter Shein eröffnet Laden in Paris - und empört Franzosen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-paris-marais-100.html",
+      "published": "2025-11-05T17:53:11",
+      "content": "   Der Billiganbieter Shein hat ausgerechnet im Pariser Traditionskaufhaus BHV ein Ladengeschäft eröffnet. Bei vielen Franzosen sorgt das für Entrüstung. Geht die Image-Aktion nach hinten los? Von Carolin Dylla.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Louvre heist suspect is social media star and former museum guard, reports say",
+      "link": "https://www.theguardian.com/world/2025/nov/05/louvre-heist-suspect-is-social-media-star-and-former-museum-security-guard-reports-say",
+      "published": "2025-11-05T17:42:55",
+      "content": "Man, identified as Abdoulaye N, is one of four accused over theft of historic jewels worth tens of millions of poundsOne of the men arrested on suspicion of stealing €88m (£77m) of crown jewels from the Louvre museum is a minor social media star with a passion for motorbikes who has worked as a security guard at the Pompidou centre, French media have reported.Identified by justice officials as Abdoulaye N, the 39-year-old man was arrested at his home in Aubervilliers, the suburb north of Paris where he was born, six days after the 19 October heist. He faces charges of organised theft and criminal conspiracy. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Großer Wurf oder nur ein Schritt? Kabinett für Bürokratieabbau",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-buerokratie-abbau-gesetzentwurf-100.html",
+      "published": "2025-11-05T17:41:40",
+      "content": "   Das Kabinett beschließt zwei Pakete, mit denen die Entbürokratisierung voranschreiten soll. Digitalminister Wildberger zeigt sich hochzufrieden, andere sind weniger erfreut. Von Kilian Pfeffer.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fördermittel-Vergabe in Berlin: Ex-Kultursenator Chialo in der Kritik",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-vorwuerfe-chialo-100.html",
+      "published": "2025-11-05T17:35:43",
+      "content": "   Hat Ex-Kultursenator Chialo Fördergelder in Berlin ohne ausreichende Prüfung und gegen den Rat der Verwaltung vergeben? Grüne und Linke fordern einen Untersuchungsauschuss. [mehr]",
+      "content_length": 182,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vonovia steigert Gewinn: Das lohnende Geschäft mit der Miete",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vonovia-geschaeftsbericht-100.html",
+      "published": "2025-11-05T17:33:40",
+      "content": "   Das aktuelle Jahr ist für Deutschlands größten Immobilienkonzern bisher erfolgreich verlaufen: Die Gewinne sind gestiegen - vor allem wegen höherer Mieten. Und der Konzern geht davon aus, dass das so weitergehen wird.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "In Gaza, education fights to survive",
+      "link": "https://www.france24.com/en/video/20251105-in-gaza-education-fights-to-survive",
+      "published": "2025-11-05T17:24:43",
+      "content": "Thanks to the humanitarian community, more than 25,000 children in Gaza have been able to return to school at the start of November. Many schools were destroyed, and the war has left deep scars on an entire generation – but since the October 10 ceasefire, the top priority has been to get children in Gaza learning again.",
+      "content_length": 321,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Shein: Opens first permanent store in Paris as scandal and criticism mount",
+      "link": "https://www.france24.com/en/video/20251105-shein-opens-first-permanent-store-in-paris-as-scandal-and-criticism-mount",
+      "published": "2025-11-05T17:15:04",
+      "content": "Despite administrative sanctions and an ongoing judicial investigation into the sale of child-like sex dolls, the Asian e-commerce giant opened its first permanent physical store in the world at the BHV on Wednesday.",
+      "content_length": 216,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "BGH: \"Schäden durch Pandemien\" dürfen ausgeschlossen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urteil-reise-pandemie-100.html",
+      "published": "2025-11-05T17:13:58",
+      "content": "   Eine Reiseversicherung hatte \"Schäden durch Pandemien\" von ihren Versicherungsleistungen ausgeschlossen. Die Verbraucherzentrale Bundesverband findet diese Formulierung missverständlich und klagte. Von Alena Lagmöller.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Syrien-Aussage von Wadephul: Debatte in der Union außer Kontrolle?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrien-cdu-debatte-100.html",
+      "published": "2025-11-05T17:04:57",
+      "content": "   Dass die Syrien-Aussage des Außenministers weiterhin die Fraktion beschäftigt, sagt viel über den politischen Druck in der Union aus. Auch ein Auftritt Wadephuls in der Fraktionssitzung hat die Debatte nicht beruhigt. Von D. von Osten.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Libyan general accused of crimes against humanity arrested in Tripoli",
+      "link": "https://www.theguardian.com/world/2025/nov/05/libyan-general-accused-of-crimes-against-humanity-arrested-in-tripoli",
+      "published": "2025-11-05T17:02:48",
+      "content": "Osama Almasri Najim was arrested in Italy in January on an ICC warrant, only to be released and flown back to LibyaA Libyan general wanted by the international criminal court (ICC) for alleged war crimes and crimes against humanity has been arrested in Tripoli.Osama Almasri Najim, the former chief of Libya’s judicial police, was arrested over allegations of torturing prisoners, leading to the death of one, at Tripoli’s main prison, Libya’s prosecutor’s office said on Wednesday. Continue reading...",
+      "content_length": 502,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sudan funeral attack kills at least 40 as fighting speads into Kordofan region",
+      "link": "https://www.france24.com/en/africa/20251105-sudan-funeral-attack-kills-at-least-40-fighting-speads-kordofan-region",
+      "published": "2025-11-05T16:48:40",
+      "content": "An attack on a funeral gathering in North Kordofan's capital El-Obeid killed at least 40 civilians and injured dozens more, the UN said Wednesday, as the two-year war pitting Sudan's army against the paramilitary Rapid Support Forces (RSF) intensifies.",
+      "content_length": 252,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Flock haters cross political divides to remove error-prone cameras",
+      "link": "https://arstechnica.com/tech-policy/2025/11/flock-haters-cross-political-divides-to-remove-error-prone-cameras/",
+      "published": "2025-11-05T16:45:22",
+      "content": "Flock Safety—the surveillance company behind the country’s largest network of automated license plate readers (ALPRs)—currently faces attacks on multiple fronts seeking to tear down the invasive and error-prone cameras across the US.\nThis week, two lawmakers, Sen. Ron Wyden (D-Ore.) and Rep. Raja Krishnamoorthi (D-Ill.), called for a federal investigation, alleging that Flock has been “negligently handling Americans’ personal data” by failing to use cybersecurity best practices. The month prior, Wyden wrote a letter to Flock CEO Garrett Langley, alleging that Flock’s security failures mean that “abuse of Flock cameras is inevitable” and that they threaten to expose billions of people’s harvested data should a catastrophic breach occur.\n“In my view, local elected officials can best protect their constituents from the inevitable abuses of Flock cameras by removing Flock from their communities,” Wyden wrote.Read full article\nComments",
+      "content_length": 944,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kommentar zu Wahlen in den USA: Trump muss auf Demokraten zugehen",
+      "link": "https://www.tagesschau.de/kommentar/wahlen-usa-106.html",
+      "published": "2025-11-05T16:39:44",
+      "content": "   Der Hauptgrund für die Wahlsiege der US-Demokraten seien die hohen Lebenshaltungskosten, meint Martin Ganslmeier. Dafür machten viele Wähler Präsident Trump verantwortlich. Der müsse nun auf die Demokraten zugehen.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "If you want to satiate AI’s hunger for power, Google suggests going to space",
+      "link": "https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/",
+      "published": "2025-11-05T16:36:12",
+      "content": "It was probably always when, not if, Google would add its name to the list of companies intrigued by the potential of orbiting data centers.\nGoogle announced Tuesday a new initiative, named Project Suncatcher, to examine the feasibility of bringing artificial intelligence to space. The idea is to deploy swarms of satellites in low-Earth orbit, each carrying Google’s AI accelerator chips designed for training, content generation, synthetic speech and vision, and predictive modeling. Google calls these chips Tensor Processing Units, or TPUs.\n“Project Suncatcher is a moonshot exploring a new frontier: equipping solar-powered satellite constellations with TPUs and free-space optical links to one day scale machine learning compute in space,” Google wrote in a blog post.Read full article\nComments",
+      "content_length": 801,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Man gropes Mexican president as she speaks to citizens on the streets",
+      "link": "https://www.theguardian.com/world/2025/nov/05/man-gropes-mexico-president-claudia-sheinbaum",
+      "published": "2025-11-05T16:31:06",
+      "content": "Man tries to kiss and embrace Claudia Sheinbaum, highlighting security risk and harassment women face in MexicoThe Mexican president, Claudia Sheinbaum, has been groped by a man as she mingled with citizens on the streets of Mexico City, raising questions about the lack of presidential security and the level of sexual harassment the country’s women face.A video of the incident on Tuesday shows a visibly drunk man trying to kiss the president on the neck and embrace her from behind, as she removes his hands and turns to face him, before a government official steps in and places himself between them. Continue reading...",
+      "content_length": 625,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gnome wirft X11-Backend endgültig raus",
+      "link": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T16:30:00",
+      "content": "Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.",
+      "content_length": 121,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gnome wirft X11-Backend endgültig raus",
+      "link": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html",
+      "published": "2025-11-05T16:30:00",
+      "content": "Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.",
+      "content_length": 121,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google settlement with Epic caps Play Store fees, boosts other Android app stores",
+      "link": "https://arstechnica.com/gadgets/2025/11/google-settlement-with-epic-caps-play-store-fees-boosts-other-android-app-stores/",
+      "published": "2025-11-05T16:26:02",
+      "content": "Google has spent the last few years waging a losing battle against Epic Games, which accused the Android maker of illegally stifling competition in mobile apps. Losses in court left Google to make sweeping changes to the Play Store, but Google appeared poised to take the case all the way to the Supreme Court. That is unlikely now that Epic and Google have reached a settlement in the case. It still needs to be approved by the judge, but the agreement provides a framework for long-term changes to Android app distribution that would apply globally.\nLate last month, Google was forced to make the first round of mandated changes to the Play Store to comply with the court’s ruling. It grudgingly began allowing developers to direct users to alternative payment options and app downloads outside of Google’s ecosystem. By next summer, Google was supposed to open up Android to third-party app stores in a big way.\nThese changes were only mandated for three years and in the United States. The new agreement includes a different vision for third-party stores on Android—one that Google finds more palatable and that still gives Epic what it wants. If approved, the settlement will lower Google’s standard fee for developers. There will also be new support in Android for third-party app stores that will reduce the friction of leaving the Google bubble. Under the terms of the settlement, Google will support these changes through at least June 2032.Read full article\nComments",
+      "content_length": 1476,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nach Trumps Ankündigung: Putin erwägt Wiederaufnahme von Atomtests",
+      "link": "https://www.tagesschau.de/ausland/asien/putin-atomtests-100.html",
+      "published": "2025-11-05T16:12:47",
+      "content": "   Nach der Ankündigung von US-Präsident Trump zu möglichen Atomtests folgt nun die Antwort des russischen Präsidenten: Sollten die USA dies tun, würde Russland nachziehen. Vorbereitungen habe er bereits angeordnet, so Putin.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Klimaschutz in der Wirtschaftskrise - Emissionshandel in der Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/emissionshandel-wirtschaft-krise-100.html",
+      "published": "2025-11-05T16:06:33",
+      "content": "   Die EU-Staaten haben sich nur unter großen Mühen auf eine Linie verständigen können. Einige sehen die Wettbewerbsfähigkeit durch die Klimapolitik in Gefahr. In der deutschen Industrie wird Kritik am Emissionshandel laut. Von Martin Polansky.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kommentar: Vereinbartes Klimaziel der EU gefährdet Europas Zukunft",
+      "link": "https://www.tagesschau.de/kommentar/eu-klimaziele-120.html",
+      "published": "2025-11-05T15:48:56",
+      "content": "   Eine völlige Blamage bei der Weltklimakonferenz sei dank der Last-Minute-Einigung der EU-Umweltminister zwar abgewendet, meint Kathrin Schmid. Langfristig werde das wenig ambitionierte Klimaziel Europa aber schaden.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
+      "link": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
+      "published": "2025-11-05T15:42:57",
+      "content": "It’s that time of year again—temperatures are dropping, leaves are changing color, and Microsoft is gradually rolling out another major yearly update to Windows 11.\nThe Windows 11 25H2 update is relatively minor compared to last year’s 24H2 update (the “25” here is a reference to the year the update was released, while the “H2” denotes that it was released in the second half of the year, a vestigial suffix from when Microsoft would release two major Windows updates per year). The 24H2 update came with some major under-the-hood overhauls of core Windows components and significant performance improvements for the Arm version; 25H2 is largely 24H2, but with a rolled-over version number to keep it in line with Microsoft’s timeline for security updates and tech support.\nBut Microsoft’s continuous update cadence for Windows 11 means that even the 24H2 version as it currently exists isn’t the same one Microsoft released a year ago.Read full article\nComments",
+      "content_length": 964,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tesla’s European and Chinese customers are staying away in droves",
+      "link": "https://arstechnica.com/cars/2025/11/after-a-great-q3-tesla-sees-double-digit-declines-all-over-europe/",
+      "published": "2025-11-05T15:40:58",
+      "content": "Tesla’s shareholders are ready to vote tomorrow on whether to give Elon Musk an even more vast slice of the company in an effort to keep him focused on selling electric vehicles. Currently, the trolling tycoon appears a little obsessed with the UK, a place he appears to conflate with Middle Earth, which investors may or may not take into account when making their decision. What they ought to take into account is how many cars Tesla sold last month.\nAlthough Tesla only publishes quarterly sales figures and does not divide those up by region, slightly more granular data is available from some countries via monthly new car registrations. And the numbers for October, when compared year on year to the same month in 2024, should be alarming.\nSales fell by double-digit margins in Sweden (89 percent), Denmark (86 percent), Belgium (69 percent), Finland (68 percent), Austria (65 percent), Switzerland (60 percent), Portugal (59 percent), Germany (54 percent), Norway (50 percent), the Netherlands (48 percent), the UK (47 percent), Italy (47 percent), and Spain (31 percent).Read full article\nComments",
+      "content_length": 1105,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Frankreich: Autofahrer fährt mehrere Passanten an",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorfall-auto-100.html",
+      "published": "2025-11-05T15:27:00",
+      "content": "   Auf der westfranzösischen Atlantikinsel Île d’Oléron sind mehrere Menschen angefahren und verletzt worden. Der Autofahrer wurde festgenommen. Er ist der Polizei bereits mehrfach aufgefallen.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Hoffen auf Rückkehr der Eisbachwelle",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/eisbach-welle-muenchen-100.html",
+      "published": "2025-11-05T15:06:47",
+      "content": "   Seit Tagen ist die berühmte Eisbachwelle in München verschwunden. Die Surfer hoffen, dass sie bald wieder auf das Wasser können. Jetzt meldet sich Oberbürgermeister Reiter zu Wort: Es würden alle möglichen Lösungen überprüft.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Sexpuppen-Skandal: Frankreich will Shein sperren",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-shein-sperrung-100.html",
+      "published": "2025-11-05T14:59:50",
+      "content": "   Frankreich will den umstrittenen Onlinehändler Shein vorläufig sperren. Grund ist der Skandal um Sexpuppen, die wie Kinder aussehen. Die Regierung habe ein entsprechendes Verfahren eingeleitet, teilte das Büro von Premierminister Lecornu mit.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Why being too attractive can hurt fitness influencers",
+      "link": "https://arstechnica.com/health/2025/11/why-being-too-attractive-can-hurt-fitness-influencers/",
+      "published": "2025-11-05T14:42:10",
+      "content": "“Sex sells” has been a mantra in marketing for decades. As researchers who study consumer behavior, we’ve seen plenty of evidence to support it: Attractive models and spokespeople have been shown to reliably grab attention, boost clicks, and make products seem more desirable.\nBut our new research suggests that in a digital world full of influencers—trusted tastemakers with large online followings—being too attractive can actually backfire, particularly in the fitness space.\nWe call this the “beauty backfire effect,” and we put it to the test in a series of laboratory experiments.Read full article\nComments",
+      "content_length": 612,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA melden weiteren tödlichen Angriff auf mutmaßliches Drogenboot",
+      "link": "https://www.tagesschau.de/ausland/usa-boot-angriff-pazifik-100.html",
+      "published": "2025-11-05T14:17:03",
+      "content": "   Vor etwa zwei Monaten begannen die USA damit, Boote anzugreifen, die mutmaßlich Rauschgift transportieren. Der neueste Fall ereignete sich laut Pentagon-Chef Hegseth im Pazifik. Zwei \"Drogenhändler\" seien getötet worden.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump nominiert Musk-Vertrauten Isaacman als neuen NASA-Chef",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nasa-weltraum-jared-isaacman-musk-trump-100.html",
+      "published": "2025-11-05T14:14:56",
+      "content": "   Nun also doch: US-Präsident Donald Trump will den Privat-Astronauten und Vertrauten von Elon Musk, Jared Isaacman, zum Chef der US-Raumfahrtbehörde NASA machen. Ende Mai klang das noch anders.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum sich eine neue Migrations-Route nach Europa etabliert",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/migration-europa-libyen-belarus-griechenland-100.html",
+      "published": "2025-11-05T14:02:58",
+      "content": "   Binnen eines Jahres hat sich ein neuer Migrationskorridor von Ost-Libyen nach Griechenland entwickelt. Eine wichtige Rolle dabei soll Belarus spielen: Flugzeuge fliegen laut EU von dort Migranten nach Nordafrika - und möglicherweise auch Waffen.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "So long, Assistant—Gemini is taking over Google Maps",
+      "link": "https://arstechnica.com/google/2025/11/so-long-assistant-gemini-is-taking-over-google-maps/",
+      "published": "2025-11-05T14:00:26",
+      "content": "Google is in the process of purging Assistant across its products, and the next target is Google Maps. Starting today, Gemini will begin rolling out in Maps, powering new experiences for navigation, location info, and more. This update will eventually completely usurp Google Assistant’s hands-free role in Maps, but the rollout will take time. So for now, the smart assistant in Google Maps will still depend on how you’re running the app.\nAcross all Gemini’s incarnations, Google stresses its conversational abilities. Whereas Assistant was hard-pressed to keep one or two balls in the air, you can theoretically give Gemini much more complex instructions. Google’s demo includes someone asking for nearby restaurants with cheap vegan food, but instead of just providing a list, it suggests something based on the user’s input. Gemini can also offer more information about the location.\nMaps will also get its own Gemini-infused version of Lens for after you park. You will be able to point the camera at a landmark, restaurant, or other business to get instant answers to your questions. This experience will be distinct from the version of Lens available in the Google app, focused on giving you location-based information. Maybe you want to know about the menu at a restaurant or what it’s like inside. Sure, you could open the door… but AI!Read full article\nComments",
+      "content_length": 1372,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gewinn mehr als verdreifacht - kommt BMW besser durch die Krise?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-autobranche-quartalszahlen-100.html",
+      "published": "2025-11-05T13:44:10",
+      "content": "   Die deutsche Autobranche steht unter Druck. Die Erträge bei Mercedes und Volkswagen sind zuletzt eingebrochen. Anders BMW - der Konzern meldet für das dritte Quartal einen Gewinnsprung. Von Sebastian Schreiber.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BSW will Wagenknecht aus Namen nehmen",
+      "link": "https://www.tagesschau.de/inland/bsw-neuer-name-100.html",
+      "published": "2025-11-05T13:44:01",
+      "content": "   Lange wurde gerätselt, wie sich das Bündnis Sahra Wagenknecht künftig nennen will. Jetzt hat sich die Führungsspitze offenbar geeinigt: Der Name der Parteigründerin soll wegfallen. Immerhin: Beim Kürzel soll es bleiben.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wahlen in den USA: \"Ein Hoffnungsschimmer für die Demokraten\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlen-new-york-100.html",
+      "published": "2025-11-05T13:42:42",
+      "content": "   Wahlen in verschiedenen Bundesstaaten an einem Tag - und alle erfolgreich für die Demokraten: Der USA-Experte Thimm sieht darin ein Zeichen der Unzufriedenheit mit Präsident Trump. Doch die Demokraten müssten eine Entscheidung treffen.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "“So much more menacing”: Formula E’s new Gen4 car breaks cover",
+      "link": "https://arstechnica.com/cars/2025/11/formula-e-gets-2x-the-power-and-awd-with-new-gen4-car/",
+      "published": "2025-11-05T13:00:50",
+      "content": "Formula E officially revealed its next electric racing car today. At first glance, the Gen4 machine looks similar to machinery of seasons past, but looks are deceiving—it’s “so much more menacing,” according to Formula E CEO Jeff Dodds. The new car is not only longer and wider, it’s far more powerful. The wings and bodywork now generate meaningful aerodynamic downforce. There will be a new tire supplier as Bridgestone returns to single-seat racing. The car is even completely recyclable.\nI’m not sure that everyone who attended a Formula E race in its first season would have bet on the sport’s continued existence more than a decade down the line. When the cars took their green flag for the first time in Beijing in 2014, as many people derided it for being too slow or for the mid-race car swaps as praised it for trying something new in the world of motorsport.\nDespite that, the racing was mostly entertaining, and it got better with the introduction of the Gen2 car, which made car swapping a thing of the past. Gen3 added more power, then temporary all-wheel drive with the advent of the Gen3 Evo days. That car will continue to race in season 12, which kicks off in Brazil on December 6 and ends in mid-August in London. When season 13 picks up in late 2026, we might see a pretty different kind of Formula E racing.Read full article\nComments",
+      "content_length": 1354,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU-Staaten einigen sich auf Klimaziel für 2040",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-klimaziel-2040-cop-102.html",
+      "published": "2025-11-05T12:55:45",
+      "content": "   Die EU-Umweltminister haben sich zu einem neuen Klimaziel für 2040 durchgerungen, das von Zugeständnissen geprägt ist. Um bei der Weltklimakonferenz etwas vorweisen zu können, wurde es eine Marathonsitzung. Von Sabrina Fritz.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japans Armee geht nach tödlichen Angriffen gegen Bären vor",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-baeren-angriffe-miltaer-100.html",
+      "published": "2025-11-05T12:11:42",
+      "content": "   Sie griffen Kunden in einem Supermarkt an, attackierten einen Touristen und zerfleischten einen Badmitarbeiter: Seit April haben Bären in Japan zwölf Menschen getötet. Nun soll die Armee das Problem in den Griff bekommen.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AfD-Abgeordnete planen Russlandreise",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-russland-reisen-100.html",
+      "published": "2025-11-05T12:07:41",
+      "content": "   Der Bundestag debattiert heute über Sicherheitsrisiken durch das Verhältnis der AfD zu Russland. Derweil planen zwei Abgeordnete nächste Woche eine Reise nach Sotschi. Es sei an der Zeit, die Kontakte ins Land zu \"intensivieren\". Von Julie Kurz.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Energieversorger klagen gegen Bauunternehmer Gröner",
+      "link": "https://www.tagesschau.de/investigativ/mdr/groener-immobilien-insolvenz-nebenkosten-100.html",
+      "published": "2025-11-05T12:02:33",
+      "content": "   Unternehmen der Gröner-Gruppe haben offenbar Rechnungen für Wasser und Heizen nicht bezahlt, wie MDR-Recherchen zeigen. Energieunternehmen in Berlin und Leipzig ziehen vor Gericht. Mieter in Köln bangen davor, im Kalten zu sitzen. [mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Entlastungskabinett\": Mehr als nur das offizielle Aus für DE-Mail",
+      "link": "https://www.heise.de/news/Entlastungskabinett-Mehr-als-nur-das-offizielle-Aus-fuer-DE-Mail-11066393.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T11:14:00",
+      "content": "Die schwarz-rote Bundesregierung will den Alltag für Bürgerinnen und Bürger, aber auch für Unternehmen einfacher machen. Das soll Kosten und Aufwand sparen.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Badcandy: Angreifer brechen tausendfach in alte Cisco-IOS-XE-Lücke ein",
+      "link": "https://www.heise.de/news/Badcandy-Alte-Luecke-in-Cisco-IOS-XE-noch-tausendfach-missbraucht-11064981.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T11:11:00",
+      "content": "Ein Update gegen die Cisco-IOS-XE-Lücke CVE-2023-20198 gibt es seit 2023. Die Shadowserver Foundation sieht 15.000 infizierte Geräte.",
+      "content_length": 133,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "software-architektur.tv: Teamwork – Müssen wir darüber sprechen?",
+      "link": "https://www.heise.de/news/software-architektur-tv-Teamwork-Muessen-wir-darueber-sprechen-10986000.html",
+      "published": "2025-11-05T11:00:00",
+      "content": "In dieser Episode gehen Aino Vonge Corry und Lisa Maria Schäfer der Frage nach, ob man heute überhaupt noch über Teamwork diskutieren muss.",
+      "content_length": 139,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "\"Operation Chargeback\": Umfangreicher Missbrauch mit Mini-Abbuchungen aufgedeckt",
+      "link": "https://www.heise.de/news/Operation-Chargeback-Grossangelegter-Betrug-mit-Kreditkartendaten-aufgedeckt-11061633.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T10:37:00",
+      "content": "Deutschen Strafverfolgungsbehörden ist nach eigenen Angaben ein großer Schlag gegen ein Betrugsnetzwerk gelungen. Das hat Zahlungsdienstleister kompromittiert.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gleich mehrere Wahlschlappen für Trumps Republikaner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-gouverneurswahlen-demokraten-100.html",
+      "published": "2025-11-05T10:32:19",
+      "content": "   Das müssen die Republikaner erst mal verdauen: Zwei Gouverneurswahlen haben sie verloren - und in New York regiert künftig ein linker Demokrat. Der Stimmungstest ein Jahr nach Trumps Sieg wurde für seine Partei zum Desaster. Von Anne Schneider.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "EU will Reisezeiten von Zügen zwischen Metropolen verkürzen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-zugverkehr-aktionsplan-100.html",
+      "published": "2025-11-05T10:27:32",
+      "content": "   Von Hauptstadt zu Hauptstadt in wenigen Stunden: Die EU will schnellere Zugreisen innerhalb Europas ermöglichen. Damit das Realität wird, müssen Netze modernisiert und Milliarden Euro ausgegeben werden.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Staaten einigen sich auf abgeschwächtes Klimaziel für 2040",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-klimaziel-2040-cop-100.html",
+      "published": "2025-11-05T09:35:54",
+      "content": "   Mehr Spielraum beim CO2-Ausstoß und ein späterer Start des Emissionshandels für Verkehr und Gebäude: Die EU-Umweltminister haben sich zu einem neuen Klimaziel für 2040 durchgerungen, das von Zugeständnissen geprägt ist.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Daily am Morgen vertreibt Kummer und Sorgen. Oder nicht?",
+      "link": "https://www.heise.de/blog/Daily-am-Morgen-vertreibt-Kummer-und-Sorgen-Oder-nicht-10879776.html",
+      "published": "2025-11-05T09:19:00",
+      "content": "Ich glaube zwar nicht an &quot;Best&quot; Practices, aber trotzdem frage ich manchmal danach. So auch bei der Frage, wann der beste Zeitpunkt für ein Daily ist.",
+      "content_length": 160,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Space junk may have struck a Chinese crew ship in low-Earth orbit",
+      "link": "https://arstechnica.com/space/2025/11/landing-postponed-for-chinese-astronauts-after-suspected-space-debris-strike/",
+      "published": "2025-11-05T09:15:41",
+      "content": "Three Chinese astronauts were due to depart the Tiangong space station, reenter the atmosphere, and land in the remote desert of Inner Mongolia on Wednesday. Instead, officials ordered the crew to remain at the station while engineers investigate a potential problem with their landing craft.\nThe China Manned Space Agency, run by the country’s military, announced the change late Tuesday in a brief statement posted to Weibo, the Chinese social media platform.\n“The Shenzhou 20 manned spacecraft is suspected of being impacted by small space debris,” the statement said. “Impact analysis and risk assessment are underway. To ensure the safety and health of the astronauts and the complete success of the mission, it has been decided that the Shenzhou 20 return mission, originally scheduled for November 5, will be postponed.”Read full article\nComments",
+      "content_length": 853,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "E-Mail des Bundesinnenministeriums schockt Afghanen auf der Flucht",
+      "link": "https://www.tagesschau.de/ausland/asien/aufnahmezusagen-afghanistan-102.html",
+      "published": "2025-11-05T09:03:55",
+      "content": "   Die E-Mail des deutschen Innenministeriums lässt Hunderte Afghanen verzweifelt zurück: Statt von Deutschland aufgenommen zu werden, sollen sie für Geld in ihre Heimat zurückkehren. Für viele ist das keine Option. Von Peter Hornung.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Insomnia 12 bringt MCP-Unterstützung und neue KI-Funktionen",
+      "link": "https://www.heise.de/news/Insomnia-12-Kong-erweitert-API-Tool-um-MCP-Unterstuetzung-und-KI-Hilfen-11057170.html",
+      "published": "2025-11-05T08:50:00",
+      "content": "Kong erweitert seinen API-Designer mit Version 12 um MCP-Unterstützung, KI-Funktionen und verbesserte Teamfeatures für API- und Agentenentwicklung.",
+      "content_length": 147,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Demokrat Mamdani wird neuer New Yorker Bürgermeister",
+      "link": "https://www.tagesschau.de/ausland/amerika/newyork-buergermeisterwahl-mamdani-102.html",
+      "published": "2025-11-05T08:23:06",
+      "content": "   Demokrat, links, muslimisch: Zohran Mamdani wird neuer Bürgermeister von New York. Der 34-Jährige sieht sich als \"Trumps schlimmsten Albtraum\" - und attackierte diesen nach dem Wahlsieg scharf. Von Giselle Ucar.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Microsoft gibt Tipps für erweiterten Support für kommerzielles Windows 10",
+      "link": "https://www.heise.de/news/Microsoft-gibt-Tipps-fuer-erweiterten-Support-fuer-kommerzielles-Windows-10-11057081.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T08:06:00",
+      "content": "Windows 10 erhält seit dem 14. Oktober keinen Support mehr. Microsoft gibt Admins Tipps für kommerziellen, erweiterten Support.",
+      "content_length": 127,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shutdown in den USA mit 36 Tagen so lang wie keiner zu vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/shutdown-usa-126.html",
+      "published": "2025-11-05T07:45:05",
+      "content": "   Wartezeiten, Zahlungslücken, Zwangsurlaub: An vielen Stellen in den USA geht seit Oktober nur noch wenig - oder nichts mehr. Das Parlament streitet über den Haushalt. Nun hat der Shutdown eine Rekord-Dauer erreicht.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Paukenschlag: Google und Epic einigen sich auf weltweite Android-Änderungen",
+      "link": "https://www.heise.de/news/Google-und-Epic-einigen-sich-auf-weltweite-Android-Aenderungen-11057051.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-05T07:25:00",
+      "content": "Überraschend haben sich Google und Epic im Android-Gerichtsstreit auf einen gemeinsamen Vorschlag geeinigt. Die geplanten Änderungen sollen weltweit gelten. ",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Coden mit KI verändert die Teamarbeit und den agilen Prozess",
+      "link": "https://www.heise.de/news/Coden-mit-KI-veraendert-die-Teamarbeit-und-den-agilen-Prozess-11056350.html",
+      "published": "2025-11-05T07:24:00",
+      "content": "Developer-Teams ändern ihre Strukturen und Arbeitsweisen durch den Einsatz von KI. Sie müssen sich neu aufstellen, meint Facundo Giuliani.",
+      "content_length": 138,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Canada budget adds tens of billions to deficit as Carney spends to dampen Trump tariffs effect",
+      "link": "https://www.theguardian.com/world/2025/nov/05/canada-federal-budget-adds-tens-of-billions-to-deficit-as-carney-spends-to-dampen-trump-tariffs-effect",
+      "published": "2025-11-05T03:43:47",
+      "content": "Budget envisions significant increase in defence spending, cuts to civil service and ‘generational investments’A protracted trade war with the United States and a weakening domestic economy has forced Mark Carney to run a deficit tens of billions larger than initially forecast in his first-ever federal budget.The spending plan, titled “Canada Strong” envisions significant new defence spending, a reduction of the country’s civil service and “generational investments” that would reshape the nature of the country’s economy. Continue reading...",
+      "content_length": 546,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "FDA described as “clown show” amid latest scandal; top drug regulator is out",
+      "link": "https://arstechnica.com/health/2025/11/fda-described-as-clown-show-amid-latest-scandal-top-drug-regulator-is-out/",
+      "published": "2025-11-04T23:24:50",
+      "content": "An alleged extortion attempt, a petty yearslong grudge, shocking social media posts, and ominous text messages make up the latest scandal at the Food and Drug Administration, an agency that industry outsiders are calling a “clown show” and “soap opera” amid the Trump administration’s leadership, according to reporting by Stat News.\nFederal health agencies, in general, have taken heavy blows in Trump’s second term. The Centers for Disease Control and Prevention, in particular, has seen the abrupt dismantling of whole programs and divisions—teams that provide critical health services to Americans. CDC staff regularly describe being demoralized over the last year. Their Senate-confirmed director didn’t make it a full month before being dramatically ousted after allegedly refusing to rubber-stamp vaccine recommendations from a panel filled with vaccine skeptics by anti-vaccine Health Secretary Robert. F. Kennedy Jr.\nWhile the CDC is in shambles, the FDA has turned into something of a sideshow, with concern mounting that it remains a serious enough regulator to keep America’s medicines and treatments modern and safe. Many of the scandals are tied to Vinay Prasad, the Trump administration’s top vaccine regulator, who also has the titles of chief medical officer and chief scientific officer. Prasad made a name for himself on social media during the pandemic as a COVID-19 response skeptic and, since joining the FDA, has been known for overruling agency scientists and sowing distrust, unrest, and paranoia among staff. He was pushed out of the agency in July only to be reinstated about two weeks later.Read full article\nComments",
+      "content_length": 1645,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    }
+  ]
+}
