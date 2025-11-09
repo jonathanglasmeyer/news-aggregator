@@ -1,0 +1,1148 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-09T07:11:46.724675",
+    "deduplicated_at": "2025-11-09 07:11:46",
+    "lookback_days": 7,
+    "total_input": 1208,
+    "duplicates_removed": 1082,
+    "new_articles": 126,
+    "deduplication_rate": "89.6%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "Sportpsychologie: Die zwei Seiten von Fitness-Apps",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/fitness-apps-100.html",
+      "published": "2025-11-09T07:06:59",
+      "content": "   Bei manchen Menschen lösen Fitness-Apps statt Motivation eher Gefühle wie Frust oder Scham aus. Das hat ein Forschungsteam aus London durch die Analyse von Social-Media-Beiträgen herausgefunden. Von A. Braun.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Little Berlin\": Museum erzählt vom Leben am Eisernen Vorhang",
+      "link": "https://www.tagesschau.de/kultur/little-berlin-museum-moedlareuth-100.html",
+      "published": "2025-11-09T07:06:03",
+      "content": "   Die innerdeutsche Grenze teilte ganz Europa und ging auch mitten durch das Dorf Mödlareuth. Ein neues Museum zeigt den damaligen Alltag und bietet ungewöhnliche Perspektiven auf die Mauer. Von Mareike Wiemann.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sozialreformen - SPD-Mitglieder sammeln Unterschriften gegen Veränderungen beim Bürgergeld",
+      "link": "https://www.deutschlandfunk.de/spd-mitglieder-sammeln-unterschriften-gegen-veraenderungen-beim-buergergeld-114.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Gegner der schwarz-roten Bürgergeld-Pläne innerhalb des Koalitionspartners SPD treiben ihr angestrebtes Mitgliederbegehren voran. Laut der früheren Juso-Vorsitzenden Drohsel kamen mehr als 4.000 Unterschriften dafür zusammen. Sie sollen morgen der Parteiführung übergeben werden.",
+      "content_length": 279,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "COP30 - Klimakonferenz in Belém: Das sind die wichtigsten Themen",
+      "link": "https://www.deutschlandfunk.de/klimakonferenz-in-bel-m-das-sind-die-wichtigsten-themen-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Am Montag beginnt die UNO-Klimakonferenz im brasilianischen Belém. Vertreter von fast 200 Staaten wollen sich auf neue Vorgaben für den Klimaschutz verständigen. Die USA nehmen nicht an der Konferenz teil.",
+      "content_length": 205,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Haushaltssperre - Shutdown führt zu Hunderten Flugausfällen in den USA",
+      "link": "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-in-den-usa-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In den USA sind in Folge des sogenannten Shutdown erneut Tausende Flüge ausgefallen oder waren verspätet. Grund ist, dass viele Fluglotsen ihren Dienst nicht mehr antreten, weil sie wegen der seit dem 1. Oktober geltenden Haushaltssperre ihr Gehalt nicht bekommen. Am Samstag wurden rund 1.500 Flüge gestrichen, etwa 6.000 waren verspätet.",
+      "content_length": 339,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Spanien - Starker Wellengang an Teneriffas Küste reißt Menschen ins Meer - drei Tote und mehrere Verletzte",
+      "link": "https://www.deutschlandfunk.de/starker-wellengang-an-teneriffas-kueste-reisst-menschen-ins-meer-drei-tote-und-mehrere-verletzte-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "An den Küsten der spanischen Ferieninsel Teneriffa sind drei Menschen wegen eines starken Wellengangs ums Leben gekommen.",
+      "content_length": 121,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "9. November - Berlin erinnert an 36. Jahrestag des Mauerfalls - Dissidenten aus 60 Ländern diskutieren über Freiheit, Demokratie und Menschenrechte",
+      "link": "https://www.deutschlandfunk.de/berlin-erinnert-an-36-jahrestag-des-mauerfalls-dissidenten-aus-60-laendern-diskutieren-ueber-freihei-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Berlin erinnert heute an den 36. Jahrestag des Mauerfalls am 9. November 1989.",
+      "content_length": 78,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "NS-Regime und Judenverfolgung - Veranstaltungen zum 87. Jahrestag der Pogromnacht mahnen zur Wachsamkeit",
+      "link": "https://www.deutschlandfunk.de/veranstaltungen-zum-87-jahrestag-der-pogromnacht-mahnen-zur-wachsamkeit-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Deutschland wird heute mit zahlreichen Veranstaltungen an den Mauerfall am 9. November erinnert. Vom Vormittag an sollen vor dem Jüdischen Gemeindehaus in Berlin die Namen von 55.696 Juden vorgelesen werden, die während des Holocaust in der Hauptstadt ermordet wurden.",
+      "content_length": 271,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Migration - EVP-Chef Weber für Ausnahmen bei Syrer-Abschiebungen",
+      "link": "https://www.deutschlandfunk.de/evp-chef-weber-fuer-ausnahmen-bei-syrer-abschiebungen-102.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In der Diskussion um den Umgang mit syrischen Flüchtlingen in Deutschland hat sich der Vorsitzende der Europäischen Volkspartei im EU-Parlament, Weber, für Ausnahmen ausgesprochen.",
+      "content_length": 180,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bildung - Erdkunde in der Schule verliert an Bedeutung - Fachleute fordern Maßnahmen",
+      "link": "https://www.deutschlandfunk.de/erdkunde-in-der-schule-verliert-an-bedeutung-fachleute-fordern-massnahmen-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Experten beklagen den Bedeutungsverlust des Schulfachs Erdkunde.",
+      "content_length": 64,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Delegiertenversammlung - Feuerwehrverband: \"Jeder ist ein Stück weit verpflichtet, sich im Katastrophen- oder Kriegsfall selbst zu schützen\"",
+      "link": "https://www.deutschlandfunk.de/feuerwehrverband-jeder-ist-ein-stueck-weit-verpflichtet-sich-im-katastrophen-oder-kriegsfall-selbst--100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Der Deutsche Feuerwehrverband mahnt die Förderung des Selbstschutzes an.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheitspolitik - Marburger Bund fordert höhere Steuern auf Nikotin und Alkohol - und Einführung einer Zuckersteuer",
+      "link": "https://www.deutschlandfunk.de/marburger-bund-fordert-hoehere-steuern-auf-nikotin-und-alkohol-und-einfuehrung-einer-zuckersteuer-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Die Ärztegewerkschaft Marburger Bund hat die Bundesregierung aufgefordert, die Steuern auf Alkohol und Nikotin zu erhöhen und eine Abgabe auf Zucker einzuführen.",
+      "content_length": 161,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Diplomatie - Gipfeltreffen von EU und Lateinamerika in Kolumbien beginnt heute",
+      "link": "https://www.deutschlandfunk.de/gipfeltreffen-von-eu-und-lateinamerika-in-kolumbien-beginnt-heute-102.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Kolumbien findet heute die vierte Konferenz zwischen Spitzenvertretern der Europäischen Union sowie der Gemeinschaft der lateinamerikanischen und karibischen Staaten, \"Celac\", statt.",
+      "content_length": 185,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Duisburger Filmwoche - 3sat- und Arte-Dokumentarfilmpreise für Beiträge über Palliativstationen, eine queere Baumarktbetreiberin in den USA und Flüchtlingsrouten",
+      "link": "https://www.deutschlandfunk.de/3sat-und-arte-dokumentarfilmpreise-fuer-beitraege-ueber-palliativstationen-eine-queere-baumarktbetre-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Der Film \"Palliativstation\" von Phillipp Döring ist auf der 49. Duisburger Filmwoche mit dem 3sat-Dokumentarfilmpreis ausgezeichnet worden.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestagung in Bremen - DLRG drängt auf Gleichstellung mit Feuerwehren und Technischem Hilfswerk",
+      "link": "https://www.deutschlandfunk.de/dlrg-draengt-auf-gleichstellung-mit-feuerwehren-und-technischem-hilfswerk-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Die Deutsche Lebens-Rettungs-Gesellschaft drängt auf die Gleichstellung ihrer ehrenamtlichen Helfer mit den Freiwilligen der Feuerwehren und des Technischen Hilfswerks.",
+      "content_length": 168,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nico Semsrott startet Kampagne - Tausende fordern Überprüfung rechtsextremer Parteien durch Bundesverfassungsgericht",
+      "link": "https://www.deutschlandfunk.de/tausende-fordern-ueberpruefung-rechtsextremer-parteien-durch-bundesverfassungsgericht-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Mehrere Tausend Menschen haben in Hamburg für eine generelle Überprüfung rechtsextremer Parteien durch das Bundesverfassungsgericht demonstriert.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brasilien - Tornado zerstört Stadt fast vollständig",
+      "link": "https://www.deutschlandfunk.de/tornado-zerstoert-stadt-fast-vollstaendig-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Brasilien hat ein Tornado schwere Verwüstungen angerichtet.",
+      "content_length": 62,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westjordanland - Erneut Angriff israelischer Siedler auf Palästinenser - auch Journalistin verletzt",
+      "link": "https://www.deutschlandfunk.de/erneut-angriff-israelischer-siedler-auf-palaestinenser-auch-journalistin-verletzt-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Im Westjordanland haben extremistische jüdische Siedler erneut Palästinenser angegriffen.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Leichnam des 2014 von der Hamas getöteten Soldaten Goldin kommt offenbar zurück nach Israel",
+      "link": "https://www.deutschlandfunk.de/leichnam-des-2014-von-der-hamas-getoeteten-soldaten-goldin-kommt-offenbar-zurueck-nach-israel-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Israel steht offenbar die Rückkehr des Leichnams eines Soldaten bevor, der im Jahr 2014 von der Hamas getötet wurde.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Nach Absturz: Flugverbot für alle MD-11-Maschinen",
+      "link": "https://www.deutschlandfunk.de/nach-absturz-flugverbot-fuer-alle-md-11-maschinen-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In den USA ist nach einem Flugzeugunglück im Bundesstaat Kentucky ein Startverbot für alle Maschinen des Typs McDonnell Douglas MD-11 erlassen worden.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Israels Botschafter Prosor wirft China Aufrüstung der Hisbollah vor",
+      "link": "https://www.deutschlandfunk.de/israels-botschafter-prosor-wirft-china-aufruestung-der-hisbollah-vor-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Der israelische Botschafter in Deutschland, Prosor, hat China vorgeworfen, die militant-islamistische Hisbollah-Miliz im Libanon zu unterstützen.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Amtsantritt von Präsident Paz - Bolivien und USA nehmen diplomatische Beziehungen wieder auf",
+      "link": "https://www.deutschlandfunk.de/bolivien-und-usa-nehmen-diplomatische-beziehungen-wieder-auf-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Nach dem Amtsantritt des bolivianischen Präsidenten Paz haben dessen Land und die USA die Wiederaufnahme diplomatischer Beziehungen vereinbart.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Terrorismus - Syrische Polizei geht landesweit gegen IS-Zellen vor",
+      "link": "https://www.deutschlandfunk.de/syrische-polizei-geht-landesweit-gegen-is-zellen-vor-104.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Syrien haben Sicherheitskräfte nach Regierungsangaben einen großangelegten Schlag gegen die Terrormiliz Islamischer Staat durchgeführt.",
+      "content_length": 138,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Evangelische Kirche - EKD-Synode in Dresden beginnt heute",
+      "link": "https://www.deutschlandfunk.de/ekd-synode-in-dresden-beginnt-heute-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Dresden beginnt heute die Synode der Evangelischen Kirche in Deutschland.",
+      "content_length": 76,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Shutdown\" - In US-Haushaltsstreit kommt offenbar Bewegung",
+      "link": "https://www.deutschlandfunk.de/in-us-haushaltsstreit-kommt-offenbar-bewegung-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Im US-Haushaltsstreit zeichnet sich nach 39 Tagen des teilweisen Stillstands der Regierungsgeschäfte offenbar eine Annäherung zwischen den Republikanern und den Demokraten ab.",
+      "content_length": 175,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verhandlungen in der Türkei - Friedensgespräche zwischen Pakistan und Afghanistan gescheitert",
+      "link": "https://www.deutschlandfunk.de/friedensgespraeche-zwischen-pakistan-und-afghanistan-gescheitert-104.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Nach der pakistanischen Regierung haben nun auch die in Afghanistan regierenden Taliban die von der Türkei angestoßenen Friedensgespräche offiziell für gescheitert erklärt.",
+      "content_length": 172,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Portugal - Massenprotest in Lissabon gegen Reform der Arbeitsgesetze",
+      "link": "https://www.deutschlandfunk.de/massenprotest-in-lissabon-gegen-reform-der-arbeitsgesetze-106.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In der portugiesischen Hauptstadt Lissabon haben zehntausende Menschen gegen die geplante Arbeitsmarktreform der Mitte-Rechts-Regierung protestiert.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Energieversorger Centrenergo kann nach Luftangriffen keinen Strom mehr produzieren",
+      "link": "https://www.deutschlandfunk.de/energieversorger-centrenergo-kann-nach-luftangriffen-keinen-strom-mehr-produzieren-108.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Der ukrainische Energieversorger Centrenergo kann eigenen Angaben zufolge nach schweren russischen Luftangriffen keinen Strom mehr produzieren.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Libanon - Tote bei israelischen Luftangriffen",
+      "link": "https://www.deutschlandfunk.de/tote-bei-israelischen-luftangriffen-116.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Bei erneuten israelischen Luftschlägen im Libanon sind nach libanesischen Angaben mehrere Menschen getötet worden.",
+      "content_length": 114,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Interview der Woche\" - Israels Ex-Premier Olmert verurteilt Gewalt extremistischer Siedler",
+      "link": "https://www.deutschlandfunk.de/israels-ex-premier-olmert-verurteilt-gewalt-extremistischer-siedler-102.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Der ehemalige israelische Premierminister Olmert hat die Gewalt extremistischer israelischer Siedler im besetzten Westjordanland mit deutlichen Worten verurteilt. Palästinenser würden dort Opfer von Gewalt und Gräueltaten, sagte Olmert im Interview der Woche des Deutschlandfunks.",
+      "content_length": 280,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Geplanter Besuch in Sotschi - AfD verteidigt Russlandreise mehrerer Politiker gegen Kritik",
+      "link": "https://www.deutschlandfunk.de/afd-verteidigt-russlandreise-mehrerer-politiker-gegen-kritik-110.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Die AfD hat erneut Kritik an einer geplanten Russlandreise mehrerer ihrer Politiker zurückgewiesen.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verbotene kurdische Arbeiterpartei - Tausende Menschen demonstrieren in Köln für Freilassung des in der Türkei inhaftierten PKK-Führers Öcalan",
+      "link": "https://www.deutschlandfunk.de/tausende-menschen-demonstrieren-in-koeln-fuer-freilassung-des-in-der-tuerkei-inhaftierten-pkk-fuehre-108.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "In Köln haben Tausende Menschen für die Freilassung des PKK-Führers Öcalan demonstriert.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - München patzt in Berlin - Gladbach schlägt Köln",
+      "link": "https://www.deutschlandfunk.de/muenchen-patzt-in-berlin-gladbach-schlaegt-koeln-104.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Die Siegesserie des FC Bayern München ist gerissen. Der Rekordmeister kam am 10. Spieltag der Fußball-Bundesliga nicht über ein 2:2 beim 1. FC Union Berlin hinaus. Im Abendspiel verlor der 1.FC Köln klar in Mönchengladbach.",
+      "content_length": 223,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"In meinem Garten\" - Reinhard Mey stürmt mit Rekorden die Charts nach Haftbefehl-Doku",
+      "link": "https://www.deutschlandfunk.de/reinhard-mey-stuermt-mit-rekorden-die-charts-nach-haftbefehl-doku-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Reinhard Mey ist mit seinem 55 Jahre alten Lied \"In meinem Garten\" neu in die offiziellen Charts eingestiegen.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Institut der deutschen Wirtschaft - Fachkräftemangel im Gesundheitswesen am größten",
+      "link": "https://www.deutschlandfunk.de/fachkraeftemangel-im-gesundheitswesen-am-groessten-106.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Einer Erhebung des Instituts der deutschen Wirtschaft zufolge fehlen in keiner Branche so viele Fachkräfte wie im Gesundheitswesen.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vatikan - Papst Leo trifft Missbrauchsopfer aus Belgien",
+      "link": "https://www.deutschlandfunk.de/papst-leo-trifft-missbrauchsopfer-aus-belgien-106.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Papst Leo XIV. hat sich in Rom mit Menschen aus Belgien getroffen, die als Kinder von katholischen Geistlichen missbraucht wurden.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Lottozahlen - 2 - 10 - 16 - 26 - 39 - 44",
+      "link": "https://www.deutschlandfunk.de/2-10-16-26-39-104.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Die Lottozahlen: 2 - 10 - 16 - 26 - 39 - 44",
+      "content_length": 43,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Verbreitet Nebel oder Hochnebel, teils leichter Regen - im Osten trocken",
+      "link": "https://www.deutschlandfunk.de/verbreitet-nebel-oder-hochnebel-teils-leichter-regen-im-osten-trocken-100.html",
+      "published": "2025-11-09T06:50:08",
+      "content": "Das Wetter: Verbreitet Nebel oder Hochnebel. Teils leichter Regen, in den ostbayerischen Mittelgebirgen ab etwa 1.000 Metern auch Schnee. Von der Ostsee bis in den Spreewald und später im Westen trocken. Höchsttemperaturen 5 bis 14 Grad.",
+      "content_length": 237,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Victoria police re-enact single gunshot heard hour after Dezi Freeman fled into Porepunkah bushland",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/09/victoria-police-re-enact-single-gunshot-heard-hour-after-dezi-freeman-fled-into-porepunkah-bushland",
+      "published": "2025-11-09T06:09:40",
+      "content": "‘Firearms testing’ triggered by reports of gunshot at about 11.45am on day Freeman is alleged to have killed two police officers serving warrantGet our breaking news email, free app or daily news podcastA reported single gunshot has sparked a fresh line of inquiry in the long-running manhunt for alleged police killer Desmond “Dezi” Freeman.Victoria police conducted “firearms testing” near Barrett Lane and Rayner Track in Porepunkah, about 300km north-east of Melbourne, on Wednesday as part of their search. Continue reading...",
+      "content_length": 531,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nächster Taifun trifft Philippinen: Fast eine Million Menschen evakuiert",
+      "link": "https://www.tagesschau.de/ausland/asien/taifun-fung-wong-philippinen-100.html",
+      "published": "2025-11-09T06:06:05",
+      "content": "   Erst vor wenigen Tagen riss der verheerende Taifun \"Kalmaegi\" Hunderte Menschen in den Tod, jetzt zieht ein neuer Tropensturm über die Philippinen. Fast eine Million Menschen verlassen ihre Häuser.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Royal College of Psychiatrists faces member backlash over Qatar partnership",
+      "link": "https://www.theguardian.com/society/2025/nov/09/royal-college-of-psychiatrists-faces-member-backlash-over-qatar-partnership",
+      "published": "2025-11-09T06:00:25",
+      "content": "More than 150 psychiatrists sign letter condemning contract to host exams in country with well-documented human rights abusesThe Royal College of Psychiatrists is facing a backlash from members over a controversial partnership with Qatar’s state healthcare provider.The college has signed a contract with the state-owned Hamad Medical Corporation to host international exams in Doha, enabling psychiatrists from across the Middle East and beyond to apply for membership. Continue reading...",
+      "content_length": 490,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Philippines evacuates nearly a million as floodwaters rise and super typhoon nears",
+      "link": "https://www.france24.com/en/live-news/20251109-philippines-evacuates-hundreds-of-thousands-as-super-typhoon-nears",
+      "published": "2025-11-09T05:39:16",
+      "content": "The Philippines evacuated hundreds of thousands of people on Sunday as a super typhoon Fung-wong moved west towards the archipelago nation. The storm is set to bring wind and heavy rain to broad swathes of the country just one week after another typhoon, Kalmaegi, killed hundreds of people in the Philippines.",
+      "content_length": 310,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Deutschland hält sich auf der Klimakonferenz mit klaren Zusagen zurück",
+      "link": "https://www.tagesschau.de/ausland/klimakonferenz-deutschland-zusagen-absichten-100.html",
+      "published": "2025-11-09T05:36:17",
+      "content": "   Die Ausgangslage auf der Weltklimakonferenz in Brasilien ist schwierig: Die USA sitzen nicht am Tisch, und die EU-Staaten reisen mit abgeschwächten Zielen an. Deutschland hält sich zudem zurück, eine Vorreiterrolle zu übernehmen. Von D. Hebestreit.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Syrian president al-Sharaa arrives in US for landmark White House visit",
+      "link": "https://www.france24.com/en/live-news/20251109-syrian-president-arrives-in-us-for-landmark-visit",
+      "published": "2025-11-09T05:25:22",
+      "content": "Syrian President Ahmed al-Sharaa arrived in the US on Ssturday where he is due to meet with President Donald Trump at the White House – the first such visit by a Syrian president since the country's independence in 1946. Ahead of al-Sharaa's visit the leader was removed from the US terrorism blacklist.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine facing widespread power cuts after generating capacity reduced to ‘zero’ by Russian attacks",
+      "link": "https://www.theguardian.com/world/2025/nov/09/ukraine-facing-widespread-power-cuts-after-generating-capacity-reduced-to-zero-by-russian-attacks",
+      "published": "2025-11-09T05:23:30",
+      "content": "Power to be cut for as much as 16 hours a day across most of Ukraine while repairs are carried outPower will be cut for between eight and 16 hours across most regions of Ukraine on Sunday, state transmission system operator Ukrenergo has said, after Russian attacks targeting energy infrastructure reduced the country’s generating capacity to “zero”.Moscow, which has escalated attacks on Ukraine’s infrastructure in recent months, launched hundreds of drones at energy facilities across the country from Friday into Saturday, which killed at least seven people, according to Ukrainian officials. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Crisafulli declares end to ‘cannoli diplomacy’ with Albanese over lack of hospital funding – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/09/australia-news-live-sunday-politics-nsw-parliament-royal-tour-weather-ntwnfb",
+      "published": "2025-11-09T04:24:54",
+      "content": "This blog is closed.BoM’s axing of free flood forecasting ‘potentially deadly consequences’Natural disaster-prone councils in south-east Queensland say the Bureau of Meteorology’s decision to axe its free real-time flood forecasting tool is a “cost shifting” exercise with “potentially deadly consequences”, with New South Wales emergency services also affected.The main treatment for viral gastroenteritis is to rest and drink plenty of fluids. Most people recover without complications, but more urgent care may need to be sought for infants, people with suppressed immune systems, and the elderly, who may experience more serious illness. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hunderte Flüge ausgefallen - Sondersitzung zu Shutdown in USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/shutdown-usa-flugausfaelle-sondersitzung-100.html",
+      "published": "2025-11-09T04:20:37",
+      "content": "   In den USA sind erneut Tausende Flüge ausgefallen oder hatten enorme Verspätung. Grund ist der Personalmangel bei den Fluglotsen wegen des Haushaltsstreits, der nach wie vor nicht gelöst ist. Heute soll es eine Sondersitzung geben.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "More than 100,000 evacuated in the Philippines as Fung-wong intensifies into super typhoon",
+      "link": "https://www.theguardian.com/world/2025/nov/09/more-than-100000-evacuated-in-the-philippines-as-fung-wong-intensifies-into-super-typhoon",
+      "published": "2025-11-09T04:08:31",
+      "content": "Fung-wong was preparing to hit the Philippines just days after the country was battered by typhoon Kalmaegi which killed 204 peopleMore than 100,000 people have been evacuated from eastern and northern regions of the Philippines as the latest storm to hit the country – Fung-wong – intensified on Sunday into a super typhoon before its expected arrival later in the day.Packing sustained winds of 185km/h and gusts of up to 230km/h, the super typhoon is threatening to unleash torrential rain, destructive winds and storm surges. Continue reading...",
+      "content_length": 549,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "9. November: Deutschland erinnert an Reichspogromnacht und Mauerfall",
+      "link": "https://www.tagesschau.de/inland/neunter-november-gedenken-100.html",
+      "published": "2025-11-09T03:39:53",
+      "content": "   Der 9. November ist für Deutschland in mehrfacher Hinsicht ein besonderer Tag. Auch dieses Jahr sind zahlreiche Gedenkveranstaltungen geplant. Bundespräsident Steinmeier will eine Grundsatzrede zu aktuellen Gefahren für die Demokratie halten.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NSW police accused of ‘sickening’ double standard over neo-Nazi rally as Jewish groups demand answers",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/09/nsw-police-accused-of-sickening-double-standard-over-neo-nazi-rally-as-jewish-groups-demand-answers",
+      "published": "2025-11-09T03:35:47",
+      "content": "Pro-Palestine and climate activists join Jewish voices criticising ‘entirely inconsistent police responses’ and ‘unfathomable approval’Get our breaking news email, free app or daily news podcastA former Greens candidate who required surgery after allegedly being struck by police at a pro-Palestine protest says she was “sickened” by the force’s authorisation of a neo-Nazi rally outside state parliament, alleging it showed “a clear double standard”.New South Wales police authorised Saturday’s neo-Nazi rally at which about 60 men clad in black called for the abolition of the Jewish lobby, with speakers repeating antisemitic tropes. The decision by NSW police was condemned as “unfathomable” on Sunday by one Jewish group. Continue reading...",
+      "content_length": 746,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nearly 1,500 flights canceled on second day of cuts tied to government shutdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
+      "published": "2025-11-09T02:56:13",
+      "content": "Charlotte, North Carolina, has the most cancellations – at 120 – as industry experts say other sectors might also feel effectsUS airlines canceled 1,460 flights on Saturday, the second day of the Federal Aviation Administration’s (FAA) order to reduce air traffic because of the government shutdown.So far, the slowdown at many of the nation’s busiest airports hasn’t caused widespread disruptions. But it has deepened the impact felt by what is now the nation’s longest federal shutdown. Continue reading...",
+      "content_length": 508,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Moderate Liberal decries ‘fatwa’ on net zero as he urges party not to become ‘fringe dwellers’",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/09/moderate-liberal-decries-fatwa-on-net-zero-as-he-urges-party-not-to-become-fringe-dwellers",
+      "published": "2025-11-09T02:13:08",
+      "content": "Andrew Bragg says he can’t imagine Liberals leaving Paris climate agreement and threatens to quit frontbench if party drops net zero emissions by 2050 targetGet our breaking news email, free app or daily news podcastThe Liberal frontbencher Andrew Bragg says any “fatwa” waged against the words “net zero” is “ridiculous”, as the moderate senator threatened to quit the frontbench if the party dumps the target and withdraws from the Paris climate agreement.Bragg’s ultimatum piles further pressure on the opposition leader, Sussan Ley, ahead of a series of high-stakes meetings this week to settle the Coalition’s position on net zero emissions. Continue reading...",
+      "content_length": 666,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Syriens Interimspräsident al-Scharaa in USA eingetroffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/syrien-al-scharaa-usa-100.html",
+      "published": "2025-11-09T01:45:51",
+      "content": "   Es ist ein historischer Besuch: Nur einen Tag, nachdem er von der Terrorliste gestrichen wurde, ist Syriens Übergangspräsident al-Scharaa zu einem Staatsbesuch in den USA eingetroffen. Er und Präsident Trump wollen künftig zusammenarbeiten.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ehemalige Geiseln der Hamas fordern Rückgabe aller Leichname",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-geiseln-rueckgabe-leichen-100.html",
+      "published": "2025-11-09T00:23:22",
+      "content": "   In Israel haben Tausende Menschen für die Rückgabe der sterblichen Überreste der letzten fünf Geiseln der Hamas demonstriert. Unter ihnen waren auch Personen, die bis vor kurzem selbst noch in der Gewalt der Terroristen waren.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Loophole’ in sanctions allowing Russian oil to be imported to Australia through port part-owned by Macquarie Bank",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/09/loophole-russian-sanctions-oil-imported-to-australia",
+      "published": "2025-11-08T23:00:15",
+      "content": "Australia stopped buying fuel directly from Russia after its invasion of Ukraine but has imported more than 3m tonnes of its oil products since 2023Get our breaking news email, free app or daily news podcastMillions of tonnes of Russian oil have been traded through a port part-owned by Macquarie Bank and potentially sold on to Australian businesses, new data shows.The identification of a new link between Australia and the trade in Russian-origin products exposes further gaps in government sanctions, as Australia lags behind the EU and the UK in tightening import rules. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "South Africa fights back to claim Autumn Nations Series win over France",
+      "link": "https://www.france24.com/en/live-news/20251108-fourteen-man-south-africa-fight-back-to-beat-france",
+      "published": "2025-11-08T22:33:10",
+      "content": "A fourteen-man South Africa beat France 32-17 in Paris on Saturday after Lood De Jager's shoulder charge on full-back Thomas Ramos saw the South African lock given a red card. Although les Bleus took an early lead in the second half the South African side fought back to win the Autumn Nations Series match.",
+      "content_length": 307,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man charged with attempted murder after woman stabbed in neck in Birmingham",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/woman-stabbed-in-neck-in-unprovoked-attack-in-birmingham-city-centre",
+      "published": "2025-11-08T22:21:55",
+      "content": "Djeison Rafael, 21, also charged with two counts of assault and possession of blade after incident in city centreA man has been charged with attempted murder after a woman was stabbed in the neck in Birmingham city centre.West Midlands police were called to reports of a stabbing at Smallbrook Queensway outside the Bullring shopping centre, shortly before 9pm on Friday. Continue reading...",
+      "content_length": 391,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russian missile attacks on Ukrainian energy facilities kill at least seven",
+      "link": "https://www.theguardian.com/world/2025/nov/08/russia-ukraine-drone-missile-attacks-energy-infrastructure-casualties",
+      "published": "2025-11-08T22:01:20",
+      "content": "Volodymr Zelenskyy calls for more sanctions on Moscow after 45 missiles and 450 drones launched at UkraineRussia launched a barrage of drones and missiles at Ukraine overnight, killing at least seven people and damaging energy infrastructure in three regions, according to Ukrainian officials.Ukraine’s president, Volodymyr Zelenskyy, said Russia had launched more than 450 drones and 45 missiles, most of which were shot down. Continue reading...",
+      "content_length": 447,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says",
+      "link": "https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/",
+      "published": "2025-11-08T21:27:42",
+      "content": "Blue Origin stands ready to help NASA achieve its goals with regard to landing humans on the Moon as soon as possible, the company’s chief executive said Saturday in an interview with Ars.\n“We just want to help the US get to the Moon,” said Dave Limp, CEO of the space company founded by Jeff Bezos. “If NASA wants to go quicker, we would move heaven and Earth, pun intended, to try to get to the Moon sooner. And I think we have some good ideas.”\nLimp spoke on Saturday, about 24 hours ahead of the company’s second launch of the large New Glenn rocket. Carrying the ESCAPADE spacecraft for NASA, the mission has a launch window that opens at 2:45 pm ET (19:45 UTC) at Cape Canaveral Space Force Station in Florida, and runs for a little more than two hours.Read full article\nComments",
+      "content_length": 785,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Syria carries out preemptive raids against Islamic State",
+      "link": "https://www.theguardian.com/world/2025/nov/08/syria-carries-out-preemptive-strikes-against-islamic-state",
+      "published": "2025-11-08T21:15:09",
+      "content": "Security operations came as Syrian president Ahmed al-Sharaa arrived in Washington to meet Donald TrumpSyria has carried out nationwide preemptive operations targeting Islamic State cells, a spokesperson for the interior ministry said on Saturday, as the country’s president arrived in the US for talks with Donald Trump.Syrian security forces carried out 61 raids, with 71 people arrested and explosives and weapons seized, the spokesperson told state-run Al Ekhbariya TV. Continue reading...",
+      "content_length": 493,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Car fleeing police slams into bar in Tampa, killing 4 people and injuring 11",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/car-crash-tampa-bar",
+      "published": "2025-11-08T20:29:29",
+      "content": "Police say vehicle was involved in street racing before driver fled from authorities and then crashed into Ybor City bar A speeding car fleeing police slammed into a crowded bar early on Saturday, killing four people and injuring 11 in a historic district of Tampa, Florida, known for its nightlife and tourists.An air patrol unit with the Tampa police department spotted the car driving recklessly on a freeway at about 12.40am after police said the silver sedan had been seen street racing in another neighborhood, according to a police department statement. Continue reading...",
+      "content_length": 580,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Environmental catastrophe’ fears as millions of plastic beads wash up on Camber Sands",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands",
+      "published": "2025-11-08T20:22:56",
+      "content": "MP asks for explanation from Southern Water amid concerns the spill could have dire impact on rare sea lifeSouthern Water is investigating after millions of contaminated plastic beads washed up on Camber Sands beach, risking an “environmental catastrophe”.The biobeads could have a dire impact on marine life, the local MP has said, with fears rare sea life, including seabirds, porpoises and seals, could ingest them and die. Continue reading...",
+      "content_length": 446,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tanzanian police arrest senior opposition official, hundreds charged with treason",
+      "link": "https://www.france24.com/en/africa/20251108-tanzanian-police-arrest-top-opposition-official-hundreds-charged-with-treason",
+      "published": "2025-11-08T20:16:15",
+      "content": "Tanzanian police on Saturday arrested a senior official from the opposition Chadema party and charged hundreds of people with treason in a continuing crackdown following last month's disputed elections.",
+      "content_length": 202,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Reformer Paz als neuer Präsident Boliviens vereidigt",
+      "link": "https://www.tagesschau.de/ausland/amerika/paz-vereidigung-102.html",
+      "published": "2025-11-08T19:52:45",
+      "content": "   In Bolivien geht eine fast 20 Jahre währende Ära linker Regierungen zu Ende: Mit Rodrigo Paz ist ein moderater Reformer als Präsident vereidigt worden. Die Herausforderungen in dem krisengeschüttelten Land sind groß.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kellie Sloane is tipped to replace Mark Speakman as NSW Liberal leader. That should make life tougher for Chris Minns",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/09/kellie-sloane-is-tipped-to-replace-mark-speakman-as-nsw-liberal-leader-that-should-make-life-tougher-for-chris-minns",
+      "published": "2025-11-08T19:00:13",
+      "content": "Sloane, an ex-journalist, is good at delivering lines. But if the state Coalition tears itself apart over net zero, she could be left talking up a fractured oppositionGet our breaking news email, free app or daily news podcastCompared with their federal colleagues, the New South Wales Coalition has been a relatively collegial conservative political grouping. But no more.Over the next fortnight, the NSW Liberals could well dump their leader, Mark Speakman, and face the almost impossible task of reconciling divergent positions on net zero emissions with junior coalition partner the Nationals. There is a real prospect that the state opposition could fracture. Continue reading...",
+      "content_length": 684,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russland greift massiv ukrainische Energieanlagen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-energie-100.html",
+      "published": "2025-11-08T18:43:38",
+      "content": "   Russland hat wieder ukrainische Energieanlagen und andere Infrastruktur mit Raketen und Hunderten Drohnen angegriffen. Stromausfälle waren die Folge. Ein ORF-Reporter im Donbass hatte einen \"Schutzengel\", wie er sagt.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tornado in Brasilien zerstört Kleinstadt und fordert Tote und Verletzte",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-tornado-100.html",
+      "published": "2025-11-08T18:19:31",
+      "content": "   Im Süden Brasiliens sind bei einem Tornado mindestens sechs Menschen ums Leben gekommen, Hunderte wurden verletzt. Eine Kleinstadt wurde fast völlig zerstört. Die Behörden warnen vor weiteren schweren Stürmen.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Powerful tornado slams Brazil's southern Parana state, kills six",
+      "link": "https://www.france24.com/en/live-news/20251108-tornado-kills-six-wrecks-town-in-brazil",
+      "published": "2025-11-08T18:13:11",
+      "content": "A powerful tornado slammed Brazil’s southern state of Parana, killing six people and injured around 750 others Friday night, officials said Saturday.",
+      "content_length": 149,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Brandenburger Koalition sagt Krisentreffen ab",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsstreit-brandenburg-100.html",
+      "published": "2025-11-08T17:18:49",
+      "content": "   Das BSW in Brandenburg stellt sich quer: Wegen seiner Vorbehalte gegen zwei Staatsverträge zur Rundfunkreform und zum Jugendschutz wollte die Regierungskoalition kurzfristig ein Krisentreffen ansetzen - nun wurde es überraschend gestrichen.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japan has deployed his army to counter beat attacks",
+      "link": "https://www.france24.com/en/video/20251108-japan-has-deployed-his-army-to-counter-beat-attacks",
+      "published": "2025-11-08T17:03:23",
+      "content": "A record 13 people have died in over 100 bear attacks in Japan this year,  with experts blaming food shortages as the animals venture further into residential areas. Simon Moritz has more.",
+      "content_length": 188,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best earbuds we’ve tested for 2025",
+      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "published": "2025-11-08T17:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds when we had to deal with mediocre sound quality and unreliable performance, all for the sake of ditching cables. Things are much different now. After several product generations of learned lessons, companies like Sony, Apple, Samsung, and others are releasing their most impressive earbuds to date.&nbsp;\n\nYou can get phenomenal noise cancellation and sound quality in the premium tier of earbuds if you’re willing to spend big. But those aren’t always the most important criteria for everyone: maybe you’re looking for the perfect fitness earbuds or for a set that works just as well for Zoom calls as for playing your favorite playlists and podcasts.\n\nTech companies are increasingly making their earbuds work best with their own products through exclusive features and functionality, so that’s another thing to consider as you shop around. If you want a perk like head-tracking spatial audio, you’ll need to use AirPods with an iPhone, Samsung buds with a Samsung phone, and so on.\n\n\n\n\n\n\n\n\nThe best overall wireless earbudsThe best budget earbuds under $100The best noise-canceling earbudsThe best earbuds for sports and working outThe best earbuds for iPhone ownersThe best earbuds for Samsung Galaxy phone ownersThe best earbuds for Google Pixel phone ownersThe best earbuds if you own both Apple and Android devicesThe best earbuds for sound qualityThe best earbuds for voice calls on iPhoneThe best earbuds for voice calls on Android\n\n\n\n\nThe best overall wireless earbuds\nSony WF-1000XM5\nSony&#8217;s flagship wireless earbuds offer the company&#8217;s best noise cancellation, powerful and lively sound, and a comfortable fit. Read our review.\n\nScore: 8ProsConsSmaller, more comfortable designUpgrades to ANC and sound qualityMuch clearer voice call performanceGlossy texture can make them harder to remove from caseSony’s bonus features aren’t as seamless as those of its competitorsPotential battery longevity concerns\nWhere to Buy: $329.99 $228 at Amazon $329.99 $228 at Best Buy $329.99 $229.99 at Target\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: LDAC, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Foam (XS, S, M, L)\n\nJust like their predecessors, Sony’s WF-1000XM5 earbuds have again topped our recommendations for the overall best noise-canceling earbuds. Thanks to their larger drivers, the audio quality is more detailed and dynamic than before while still retaining the warmth and clarity that made the WF-1000XM4 so enjoyable. Sony has also further improved its ANC and is nearing the same territory as Bose’s QC Earbuds II. These earbuds do a terrific job of eliminating background noise. Battery life can stretch to eight hours of continuous listening with noise cancellation turned on.\n\nSome people found the XM4 to be bulky and uncomfortable, so this time around, Sony has managed to shrink the XM5 by 25 percent. Like before, the company includes foam-style tips that expand in your ears to create an excellent seal — and now there’s a fourth (extra small) set of tips in the box.\n\nOn Android phones, the 1000XM5 support Sony’s LDAC codec for higher-quality music playback. And they’re capable of dynamic head tracking spatial audio through supported video apps like Netflix. But even if you’re not using LDAC (or have an iPhone), these are up there with the very best audio-focused premium earbuds — including Sennheiser’s Momentum True Wireless 4, only with substantially better noise cancellation. They’re also capable of multipoint Bluetooth connectivity, so you can pair them with two devices at the same time.\n\nIt’s worth noting that there were many reports of battery issues with the 1000XM4 over time as those earbuds aged, but Sony claims to have rectified that problem with the new model by tweaking the charging algorithm.\n\nRead our&nbsp;full WF-1000XM5 review.\n\nThe best budget earbuds under $100\nNothing Ear (a)\nNothing’s Ear (a) earbuds have the same stylish, semi-transparent design as the company’s other earbuds — but these come in a snazzy yellow. They combine decent ANC, enjoyable sound, and other features like multipoint for under $100.\n\nProsConsStandout color and designVery compact carrying caseGreat performer for the priceLimited retail availabilityPlastic case can show scuffs\nWhere to Buy: $99 $89 at Nothing $109 $89 at Amazon\nNoise cancellation: Yes / Battery life: 5.5 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: LDAC, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nWhen looking at Nothing’s Ear (a) earbuds, it’s easy to focus all your attention on the catchy yellow color or their fun, super compact carrying case. But at their $99 price, the company’s entry-level earbuds provide a ton of features, including active noise cancellation, a low-latency mode for gaming, multipoint Bluetooth pairing, and a decent IP54 dust and water resistance rating.&nbsp;\n\nAnd the sound quality you get outperforms my usual expectations for this price point. They’re not quite on par with Nothing’s higher-end Ears, but you do get expressive, very enjoyable audio — and you can customize the EQ further in Nothing’s mobile app.\n\nRead my Nothing Ear (a) hands-on impressions.\n\nThe best noise-canceling earbuds\nBose QuietComfort Ultra Earbuds (2nd Gen)\nThe second generation of the Bose Ultra Earbuds carry over the chunky design from the previous gen, with improved ANC and call quality.\n\nScore: 8ProsConsExceptional ANCSecure fitWireless charging caseBulky designMerely average battery life\nWhere to Buy: $299 at Amazon $299 at Bose $299 at Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC, aptX Adaptive&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nThe name Bose has been synonymous with noise cancellation for decades, and it’s again proven why with the QuietComfort Ultra Earbuds (Gen 2). They offer the best noise-canceling performance available in a set of earbuds, delivering the peace and isolation many of us crave throughout the day. The second-gen earbuds bring some much-needed improvements to call quality, too, and while they don’t match the performance of our best call quality picks, the AirPods 4 or Samsung Galaxy Buds, the Bose handle noisy environments far better and allow you to sound like you in conversations.\n\nAlthough Bose added wireless charging and there’s now a little screen in the ear tips to keep earwax out of the earbuds, there’s no visual upgrade to speak of. The second-gen earbuds maintain a chunky look that’s identical to the first-gen QC Ultra Earbuds, which were already extremely similar to 2022’s QC Earbuds II. They come with three ear tips and three stabilizer sizes, providing a variety of combinations and a secure fit for different ear shapes.\n\nAs with the design, the QC Ultra Earbuds (Gen 2) sound nearly identical to their first-gen counterpart. The bass and treble are boosted, providing more bass than competitors and a lively high-end — although it can get to be a bit much on some tracks. Bose continues to stick with its three-band EQ in the app, which doesn’t allow much meaningful adjustment, but most people will appreciate the stock sound. Bose also continues to offer Immersive Audio, first introduced with the Ultra Earbuds, which is similar to Apple’s spatial audio.\n\nRead our full QC Ultra Earbuds (Gen 2) review.\n\nThe best earbuds for sports and working out\nBeats Powerbeats Pro 2\n\nScore: 8ProsConsHuzzah! Wireless charging!Adds ANC, transparency modes, spatial audioSlimmer ear hook, smaller caseAdds heart rateGreat soundNo price hikeCase is still a chonkerHeart rate is not that useful for iOS users\nWhere to Buy: $249 at Amazon $249 at Walmart $249.99 at Best Buy\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L, XL)\n\nAfter a long wait, Beats finally introduced the Powerbeats Pro 2 in early 2025. They carry forward the signature ear hook design of past Powerbeats earbuds, but improve upon the original Powerbeats Pro in several key ways. Beats added active noise cancellation and a natural-sounding transparency mode to the Pro 2; the first-gen pair lacked both. The earbuds themselves are lighter, too, and the charging case is noticeably smaller.\n\nThe Powerbeats Pro 2 also feature heart rate monitoring thanks to built-in sensors on each earbud. You might already have a fitness tracker, chest strap, or smartwatch for this purpose, but if not, you can use these with compatible apps like Nike Run Club, Runna, Ladder, Slopes, Open, Peloton, and YaoYao. The downside is that they can’t simultaneously play music and broadcast heart rate to gym equipment when paired to an iOS device, rendering the Pro 2 a better heart rate monitoring alternative for Android users than iPhone users.\n\nThe Powerbeats Pro 2 remain rated IPX4 for water resistance. While that’s not as robust as some other fitness-focused buds, it should be sufficient to survive sweat and outdoor runs in various conditions. The earbuds still offer easy-to-use physical buttons and a dedicated volume rocker, so it’s easy to control them in the middle of a workout.\n\nIf you’re an iPhone owner, the Powerbeats Pro 2 earbuds include Apple-only features like dynamic head tracking for spatial audio, auto device switching, Find My integration, and more. For Android users, Beats has an app that packs in a smaller subset of these functions.&nbsp;\n\nRead our full&nbsp;Powerbeats Pro 2 review.\n\nThe best earbuds for iPhone owners\nAirPods Pro 3\n\nScore: 9ProsConsImproved ANC and soundLonger batteryStandalone workout trackingLive translationSame priceIP57Better fitCamera remote control is handy!If you’re hoping for traditional foam ear tips, this isn’t that\nWhere to Buy: $249 at Amazon $249 at Walmart $249.99 at Best Buy\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: iOS, macOS / Ear tips: Silicone (XXS, XS, S, M, L)\n\nApple continually adds to the features of the AirPods Pro line — either with a new product like the&nbsp;second-gen AirPods Pro,&nbsp;or with a software update, such as the one that introduced the hearing health features last year. The AirPods Pro 3 continue the trend, with (yet again) improved noise-canceling performance, heart rate sensing, newly designed ear tips with an extra XXS size, and more battery life. The splashiest update is Live Translation, which, unlike the other improvements, still needs some time to develop into a more streamlined experience.\n\nThe new foam-infused earbuds improve passive isolation and, in combination with better ANC performance, give the AirPods Pro 3 the best overall noise canceling from a pair of Apple earbuds yet. ANC performance is incredibly close to that of the Bose QC Ultra Earbuds (Gen 2), but the AirPods have a slight high-end hiss (although some people might not even notice it). A redesign of the acoustic architecture gives the AirPods Pro 3 improved bass performance over the second-gen model, and its spatial audio delivers a wider, richer listening experience.\n\nBut what’s important for many Apple users is how well the AirPods Pro 3 fit into the Apple ecosystem. A new heart sensor, which we first saw with the Powerbeats Pro 2 last winter, enables heart rate tracking for 50 different types of workouts directly from the iOS Fitness app. And unlike the Powerbeats Pro 2, the AirPods can work in conjunction with the Apple Watch, providing a secondary heart rate stream to ensure you always have the most accurate data.&nbsp;\n\nRead our full AirPods Pro 3 review.\n\nThe best earbuds for Samsung Galaxy phone owners\nSamsung Galaxy Buds 3 Pro\nThe Galaxy Buds 3 Pro are Samsung’s best-sounding wireless earbuds yet. They have a stemmed design similar to the AirPods Pro, but even if their design is a little bland, the Buds 3 Pro make up for it with great call quality, useful voice commands, and more.\n\nScore: 8ProsConsTerrific sound qualityCrisp, natural transparency / passthrough modeVoice commands are simple and so usefulGood voice callsUninspired designMidtier noise cancellation performanceNo true multipoint\nWhere to Buy: $249.99 $179.99 at Amazon $249.99 $199.99 at Samsung $249.99 $179.99 at 9Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: Samsung seamless, AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nSamsung’s Galaxy Buds 3 Pro ditch the company’s more discreet designs of the past for a stemmed style that’s similar to AirPods and any number of other wireless earbuds. Boring? Maybe, but thanks to that change, we’ve found them to be more comfortable and provide better stability than the Buds 2 Pro. The sound quality is even better than before — and it was already excellent. These are right up there with Sennheiser and Technics from an audio fidelity standpoint.\n\nThe Buds 3 Pro are also a standout performer when it comes to call quality. And our favorite thing about these earbuds are the hands-free voice commands that don’t require you to say any specific wake phrase beforehand. You can just say “volume up” and / or “next song,” and it happens.\n\nBut they’re not perfect: the Buds 3 Pro lack multipoint connectivity, so they can’t connect to two devices at the same time. Just like Apple, Samsung prefers to automatically hop between products within its own walled garden ecosystem. Some people might consider this a dealbreaker, but we’ve still enjoyed the earbuds plenty without it.\n\nRead our full Galaxy Buds 3 Pro review.\n\nThe best earbuds for Google Pixel phone owners\nGoogle Pixel Buds Pro 2\n\nScore: 9ProsConsSmaller and lighter design is supremely comfortableMore powerful noise cancellationCrystal-clear transparency modeVery pleasant and detailed sound qualityANC can’t quite match BoseGoogle still refuses to add higher-quality Bluetooth codecs, limiting overall fidelityGemini Live feels more feeble than futuristic\nWhere to Buy: $229 $169 at Amazon $229 $169 at Best Buy $229 $169 at Google Store\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nWith the Pixel Buds Pro 2, Google has addressed most of the downsides of the original pair. They’re far smaller and lighter than the chunky first-gen Pixel Buds Pro. And there’s a small nub on the buds to help lock them in place even during intensive activities like running or exercise.\n\nGoogle’s active noise cancellation still isn’t on the same tier as Bose, but the transparency mode on the Buds Pro 2 is among the very best you’ll find. It offers a crisp, natural passthrough for the outside world when needed. Multipoint support is included, and Google’s latest earbuds eke out impressive battery life that surpasses most competitors.\n\nGot a Pixel phone? With the Pixel Buds Pro 2, you can have lengthy conversations with Google’s Gemini AI while your phone stays in your pocket. Features like head-tracking spatial audio and Clear Calling are also exclusive to those within the Pixel ecosystem. If that’s you, the Pixel Buds Pro 2 are a big step up from the previous buds in a much smaller package.\n\nRead our full Pixel Buds Pro 2 review.\n\nThe best earbuds if you own both Apple and Android devices\nBeats Studio Buds Plus\n\nScore: 8ProsConsBetter sound, ANC, and battery life than Studio BudsStandout translucent case optionImproved voice call performanceANC and transparency fall short of second-gen AirPods ProDoesn’t offer all Apple ecosystem tricksNo wireless charging or in-ear detection\nWhere to Buy: $169.95 $149.95 at Amazon $169.95 $149.95 at Walmart $169.99 $149.99 at Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nBeats’ Studio Buds Plus are an upgraded, better-performing revision of the Studio Buds released in 2021. This time, the company has made the noise cancellation more powerful while also improving the quality of the transparency mode and extending battery life. If you’re going for style points, it doesn’t get much cooler than the translucent color option. These earbuds are very tiny and rank up with the best in terms of overall comfort.\n\nWhat’s interesting about the Studio Buds Plus is that they use a proprietary chip that allows them to support native software features on both iOS and Android. Plenty of earbuds offer companion apps on each platform, but in the case of the Beats, they work with both Apple’s Find My and Google’s Find My Device. You also get simple one-tap pairing, no matter which operating system you’re using.\n\nThe drawback to this dual-ecosystem life is that Apple customers don’t get all the usual bells and whistles that come with AirPods or even the Beats Powerbeats Pro 2; you lose out on audio sharing, head tracking spatial audio, and other tricks. Wireless charging and an ear detection sensor (for auto-pause when a bud is removed) are also MIA, which stings a bit considering the price.\n\nRead our full Beats Studio Buds Plus review.\n\nThe best earbuds for sound quality\nSennheiser Momentum True Wireless 4\n\nScore: 8ProsConsFantastic sound qualityImproved day-to-day reliabilityAuracast-enabledToo pricey for someNoise cancellation does the job, but isn’t anything specialLong-term durability remains to be seen\nWhere to Buy: $349.95 $299.95 at Amazon $349.95 $299.95 at B&amp;H Photo $349.95 $299.95 at Sennheiser\nNoise cancellation: Yes / Battery life: 7.5 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: AptX Adaptive, AptX, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nSennheiser’s Momentum True Wireless earbuds have always sounded fantastic; that’s never been the issue. But previous models in the series have been tainted a bit by bugs, unsteady performance, and battery reliability problems. The fourth-gen pair finally gets that part right while continuing to offer tremendous, detailed sound quality that stands above nearly all competitors. They’re a joy to listen to. The active noise cancellation can’t compete with the likes of Apple, Sony, and Bose, but if you care more about lush, intricate sound, the MTW4 won’t disappoint in the slightest.\n\nThese earbuds come with optional wing tips to help keep them securely locked in your ears. That could prove helpful for running or when hitting the gym. Sennheiser allows for plenty of EQ customization using its mobile app, and the Momentum True Wireless 4 support a range of Bluetooth codecs, including AAC, SBC, AptX, and AptX Adaptive. Sennheiser has also promised that they’re LE Audio and Auracast-ready for when those features become more widespread.\n\nRead our&nbsp;full Momentum True Wireless 4 review.\n\nThe best earbuds for voice calls on iPhone\nApple AirPods 4\n\nScore: 7ProsConsUpgraded sound qualityVoice isolation can noticeably improve call clarityDeep Apple ecosystem integrationNo wireless chargingNo built-in speaker on the caseNo proper multipoint\nWhere to Buy: $129 $119 at Amazon $129 $119 at Walmart $129.99 at Best Buy\nNoise cancellation: Optional / Battery life: 5 hours / Water resistance: IP54 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: iOS, Windows, macOS / Ear tips: None\n\nApple’s AirPods 4 come in two different versions, with a higher-priced option that includes active noise cancellation and wireless charging. But sound quality is identical on both sets, and equally as important in this case is that the same can be said of voice call clarity.\n\nOn the AirPods 4, there’s a new “voice isolation” feature — enabled by default — that uses machine learning both on the earbuds and your iPhone to eliminate distracting background noise on your end so that you come through clearly to whoever you’re speaking with.\n\nOverall call quality is excellent with the AirPods 4. And beyond that, compared to the third-gen model, you can expect upgraded audio quality (with richer bass), new ways of interacting with Siri through head movements, and yes&#8230; there’s a USB-C connector on the included charging case, as opposed to a Lightning port.\n\nThe AirPods still have a one-size-fits-most hard plastic form factor, so we recommend trying them before committing to a purchase. However, Apple says it used more than 50 million data points to further refine the contours and overall stability of its latest earbuds. So, if previous models worked well for you, these seem like a safe bet. The only question is whether you feel like spending a little more to gain ANC, a transparency mode, wireless charging, and a built-in speaker for Find My location tracking.\n\nRead our full AirPods 4 review.\n\nThe best earbuds for voice calls on Android\nSamsung Galaxy Buds 3 Pro\n\nScore: 8ProsConsTerrific sound qualityCrisp, natural transparency / passthrough modeVoice commands are simple and so usefulGood voice callsUninspired designMidtier noise cancellation performanceNo true multipoint\nWhere to Buy: $249.99 $179.99 at Amazon $249.99 $199.99 at Samsung $249.99 $179.99 at 9Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: Samsung seamless, AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nSony’s unconventional LinkBuds were our longtime pick for the clearest voice calls on Android, but we haven’t had the chance to review their successors. For now, the aforementioned Galaxy Buds 3 Pro are an easy-to-recommend choice. The built-in “voice pickup unit” detects the movement of your mouth to help isolate your voice from background noise and keep conversations clear.\n\nThe Buds 3 Pro have proven dependable for us during video chats on Google Meet, and people have been able to hear us without issue, even when answering a quick call on the street.\n\nRead our&nbsp;full Galaxy Buds 3 Pro review.\n\nUpdate, November 7th: Updated to add the Bose QuietComfort Ultra Earbuds (Gen 2) and Apple AirPods Pro 3 as picks, and to reflect current pricing / availability.",
+      "content_length": 22889,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bolivia’s President Paz sworn in, ties with US to resume at ambassador level",
+      "link": "https://www.france24.com/en/live-news/20251108-bolivia-s-new-president-takes-over-inherits-economic-mess",
+      "published": "2025-11-08T16:55:13",
+      "content": "Pro-business conservative Rodrigo Paz was sworn in as Bolivia’s new president on Saturday, ushering a new era after nearly 20 years of one-party rule. Bolivia is set to resume diplomatic relations with the US at the ambassadorial level after a 17-year break, Paz said Saturday.",
+      "content_length": 277,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "DHS head reportedly authorized purchase of 10 engineless Spirit Airlines planes that airline didn’t own",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/kristi-noem-spirit-airlines-planes",
+      "published": "2025-11-08T16:47:36",
+      "content": "Wall Street Journal reports Kristi Noem arranged purchase to expand deportation flights and for personal travelThe secretary of the US Department of Homeland Security (DHS), Kristi Noem, reportedly authorized the purchase of Spirit Airlines jets before discovering the airline didn’t actually own the planes – and that the aircraft lacked engines.The bizarre anecdote was contained in a Wall Street Journal report released on Friday, which recounted how Noem and Corey Lewandowski – who managed Donald Trump’s first winning presidential campaign – had recently arranged to buy 10 Boeing 737 aircraft from Spirit Airlines. People familiar with the situation told the paper that the two intended to use the jets to expand deportation flights – and for personal travel. Continue reading...",
+      "content_length": 786,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lange Trockenperiode: Trinkwasser in Teheran wird rationiert",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-wasserrationierung-100.html",
+      "published": "2025-11-08T16:37:48",
+      "content": "   Im Iran ist vielerorts seit Wochen kein Regen mehr gefallen, Stauseen haben zu wenig Wasser. 15 Millionen Menschen in der Hauptstadt Teheran wird deshalb nachts das Wasser abgedreht. Könnte das neue Proteste auslösen?[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tausende demonstrieren in Köln für Freilassung von PKK-Gründer Öcalan",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/demo-koeln-kurden-oecalan-100.html",
+      "published": "2025-11-08T16:15:00",
+      "content": "   Tausende haben in Köln für die Freilassung des in der Türkei inhaftierten PKK-Führers Öcalan demonstriert. Die PKK gilt in der EU als Terrororganisation. Im Mai hatte sie ihre Auflösung angekündigt und war damit einem Aufruf Öcalans gefolgt.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Supreme Court rules full Snap food benefits can be temporarily halted",
+      "link": "https://www.france24.com/en/video/20251108-supreme-court-rules-full-snap-food-benefits-can-be-temporarily-halted",
+      "published": "2025-11-08T16:14:51",
+      "content": "The US Supreme Court has issued an emergency order temporarily permitting the Trump administration to withhold billions of dollars in funding for food assistance relied on by millions of low-income Americans. The decision follows a White House appeal after a lower court had ordered that payments from the Supplemental Nutrition Assistance Program (SNAP), commonly known as food stamps, be fully distributed to recipients by Friday. France24 International Affairs Editor Kethevane Gorjestani gives her insights.",
+      "content_length": 511,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gedenken Pogromnacht: Holocaust-Überlebende warnen vor neuem Antisemitismus",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pogromnacht-warnungen-antisemitismus-100.html",
+      "published": "2025-11-08T16:14:45",
+      "content": "   Zum Jahrestag der Novemberpogrome gegen Juden 1938 warnen Holocaust-Überlebende vor neuem Antisemitismus. Der Präsident des Zentralrats der Juden hält israelfeindliche Demonstrationen in Berlin für eine \"Perversion der Geschichte\".[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "At least four killed by Russian strikes in Ukraine",
+      "link": "https://www.france24.com/en/video/20251108-at-least-four-killed-by-russian-strikes-in-ukraine",
+      "published": "2025-11-08T16:13:03",
+      "content": "A Russian drone slammed into a tower block in eastern Ukraine early Saturday while many were sleeping, killing four and injuring 12 people, Ukrainian authorities reported. Shirli Sitbon has the latest.",
+      "content_length": 201,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French anti-terror unit expands probe into 2015 attacker’s illicit possession of USB stick",
+      "link": "https://www.france24.com/en/france/20251108-french-anti-terror-unit-expands-probe-into-2015-attacker-s-illicit-possession-of-usb-stick",
+      "published": "2025-11-08T16:09:03",
+      "content": "As France prepares to mark the tenth anniversary of the deadly November 13, 2015 Paris attacks, three suspects were questioned over a USB stick found in the possession of Salah Abdeslam, the only surviving attacker, in a high security prison, an anti-terror unit said Saturday.",
+      "content_length": 277,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Driver livestreams herself on TikTok as she apparently hits and kills man in Chicago",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago",
+      "published": "2025-11-08T16:08:35",
+      "content": "TikTok video shows woman speaking into camera and reacting to a loud thud before she says ‘I just hit somebody’Authorities are investigating a newly surfaced video that suggests a woman who hit and killed a man while driving in the Chicago suburb of Zion, Illinois, on Monday night was livestreaming on TikTok at the time of the crash.The video in question was reportedly taken by a user in Zion, and it shows a woman behind the wheel of a car reacting to a loud thud by saying, “Fuck, fuck, fuck … I just hit somebody.” Continue reading...",
+      "content_length": 540,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple helped kill netbooks. Will it bring them back?",
+      "link": "https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back",
+      "published": "2025-11-08T16:00:00",
+      "content": "\n\n\n\t\n\tHow small will Apple’s affordable MacBook be?\t\n\nRumor has it, Apple is working on a low-cost MacBook. And not \"low-cost for a Mac,\" but a proper cheap laptop, possibly as low as $599. For a company that traditionally targets the more premium end of the market, this would be something of an about-face. \nOf course, Apple takes great pride in its design and aesthetics. So the company isn't going to simply take the innards of a MacBook Air, slap them in a cheap plastic case, and call it a day. Instead, Apple is supposedly building a smaller laptop, with a lower-resolution screen and an \"entirely new design\" around an iPhone processor.\nThat chip could be some version of the A19 found in the  …\nRead the full story at The Verge.",
+      "content_length": 737,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Im Streit um Nexperia deutet sich Entspannung an",
+      "link": "https://www.tagesschau.de/wirtschaft/nexperia-streit-andeutung-loesung-100.html",
+      "published": "2025-11-08T15:56:24",
+      "content": "   Im Streit um den Chiphersteller Nexperia könnte es Bewegung geben: Die Regierung in Peking zeigte sich gegenüber den Niederlanden gesprächsbereit, um den Konflikt beizulegen. Auch die EU vermeldet Fortschritte.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Irish football chiefs pass vote seeking Uefa ban on Israel from European competition",
+      "link": "https://www.theguardian.com/football/2025/nov/08/irish-football-chiefs-pass-vote-seeking-uefa-ban-on-israel-from-european-competition",
+      "published": "2025-11-08T15:30:44",
+      "content": "Republic of Ireland body alleges two statute violations FAI approved a resolution to submit a formal motionThe Football Association of Ireland (FAI) has approved a resolution to submit a formal motion to Uefa urging it to ban Israel from European club and international competitions.The governing body’s resolution – proposed by the Dublin club Bohemians – cited alleged violations by the Israel Football Association (IFA) of two provisions of Uefa statutes. They are its alleged failure to implement and enforce an effective anti-racism policy and the organisation of clubs in occupied Palestinian territories without the consent of the Palestinian FA. Continue reading...",
+      "content_length": 673,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli strikes in Lebanon kill three, EU calls for truce to be respected",
+      "link": "https://www.france24.com/en/middle-east/20251108-israeli-strikes-in-lebanon-kill-three-eu-calls-for-truce-to-be-respected",
+      "published": "2025-11-08T15:30:05",
+      "content": "Israeli strikes on southern Lebanon on Saturday killed three people, including two brothers in a car on the slopes of Mount Hermon. The IDF said they were \"terrorists\" smuggling weapons. The EU called on all parties to respect a ceasefire reached in November 2024.",
+      "content_length": 264,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tschechien: Ein Rechtsextremer als dritter Mann im Staat",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-okamura-parlamentspraesident-100.html",
+      "published": "2025-11-08T15:26:06",
+      "content": "   Nach einem Wahlkampf á la Musk und Milei hat Tomio Okamura sein Ziel erreicht: Der rassistische Anti-System-Politiker ist Tschechiens neuer Parlamentspräsident. Das verleiht ihm beträchtlichen Einfluss. Von M. Allweiss.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schwarz-Rot will China-Kommission einrichten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-rot-kommission-china-100.html",
+      "published": "2025-11-08T15:23:16",
+      "content": "   Es geht um Abhängigkeiten und Investitionen in die kritische Infrastruktur: Die schwarz-rote Koalition will eine Kommission einrichten, die den Handel mit China beleuchten soll. Schon am Freitag soll der Bundestag darüber debattieren. [mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tanzania police arrest opposition party official after deadly election protests",
+      "link": "https://www.theguardian.com/world/2025/nov/08/tanzania-officials-seek-arrest-key-opposition-figures-fatal-election-protests--samia-suluhu-hassan-",
+      "published": "2025-11-08T15:17:47",
+      "content": "Chadema party says deputy secretary general arrested and calls election of incumbent president fraudulentTanzanian authorities have detained a senior official from the main opposition party, Chadema, amid a spate of arrests in connection to deadly protests during elections last week.More than 1,000 people were killed by security forces during the demonstrations, according to Chadema and human rights bodies. The Tanzanian government has said these figures were exaggerated but did not give its own figures. Continue reading...",
+      "content_length": 529,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Generalsekretäre von CDU und SPD rufen zu Reformen und Kompromissen auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kluessendorf-100.html",
+      "published": "2025-11-08T15:14:23",
+      "content": "   Die Koalition gibt kein gutes Bild ab: Die Beliebtheitswerte sind im Keller, immer wieder gibt es Streit. Die Generalsekretäre von CDU und SPD  reagieren mit einem gemeinsamen Appell - gerichtet an die eigenen Parteien.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Why does UK government want to copy Denmark’s immigration system?",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/home-office-want-copy-denmark-immigration-system",
+      "published": "2025-11-08T15:01:12",
+      "content": "Some say Denmark’s rigid rules are key to Social Democrats’ power, but critical Labour MPs think model echoes far-right themesThe UK government is expected to announce changes to the country’s immigration rules, modelled on a controversial system used in Denmark which is widely seen as one of the most stringent in Europe. Continue reading...",
+      "content_length": 343,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Near Ohio air force base, food pantries and businesses grapple with effects of shutdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/ohio-food-pantry-government-shutdown",
+      "published": "2025-11-08T15:00:06",
+      "content": "As tens of thousands of military personnel work without pay and others are furloughed, a local pantry sees its numbers increasing as restaurants are losing customersWhen Jane Doorley and her husband Bill arrived at the Fairborn Fish Food Pantry they help run on 28 October, they couldn’t get into the parking lot, such was the number of cars belonging to people seeking food.“Our numbers are way up. Last Friday was really bad too,” says Jane. “Around 250 families, including 300 children, come to the pantry every day it’s open.” Continue reading...",
+      "content_length": 550,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sims streamers are distancing themselves from EA, but for some the choice is hard",
+      "link": "https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie",
+      "published": "2025-11-08T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThe Sims 4 community is in turmoil. Its biggest stars are distancing themselves from the game with the support of their millions of subscribers. Then there are creators in the middle: those big enough to be known, but not big enough to be insulated. And they are struggling with a difficult choice of whether or not to keep playing the game they love and, in some cases, depend on.\nLast month, The Sims' publisher EA announced that it would be acquired for $55 billion dollars by a combination of investors including the Saudi Arabia Private Investment Fund, and Affinity Partners, an investment firm founded by President Trump's son-in-law Jared K …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Iran plans water cuts for Tehran amid worst drought in decades",
+      "link": "https://www.france24.com/en/middle-east/20251108-iran-plans-water-cuts-for-tehran-amid-worst-drought-in-decades",
+      "published": "2025-11-08T14:36:46",
+      "content": "Iranian officials on Saturday were drawing plans for periodic water supply cuts to Tehran neighbourhoods a day after President Masoud Pezeshkian warned that the Iranian capital might have to be evacuated if there were no rains before the end of the year. Iran is experiencing one of its worst droughts in decades.",
+      "content_length": 313,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Apple Watches and advent calendars top our list of the best deals this week",
+      "link": "https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale",
+      "published": "2025-11-08T14:36:26",
+      "content": "\n\n\n\t\n\tThe Apple Watch SE 3 has dropped to its best price to date in several configurations.\t\n\nHey, all! The first week of November ushered in dozens of early Black Friday deals, and many of the best ones are still available as we delve further into the weekend. Some of our favorite fitness trackers have already plunged to new lows, for instance, and we’re even seeing early discounts on holiday decor. We’ve already published a full list of early Black Friday deals, which we aim to update on a weekly basis, but below is a quick overview of this week’s cream of the crop — including a few standouts that have nothing to do with the annual shopping event.\n\n\n\nIt’s possible that the Apple Watch SE 3 will drop further in price once Black Friday officially kicks off, but if you don’t feel like waiting, the 40mm / GPS configuration is already down to $199.99 ($50 off) at Amazon and Costco. That’s a new low on Apple’s latest smartwatch, which is a great value even at full price; however, note that the current Amazon promo only applies to the cream-colored “starlight” model.\n\nFor an entry-level wearable, the SE 3 offers several impressive features. It features an always-on display — a first for Apple’s cheaper SE lineup — and runs on the same snappy S10 chip found in the Apple Watch Series 11 and Apple Watch Ultra 3. That means, in addition to better performance, you’ll be able to take advantage of some of Apple’s more unique features, including on-device Siri and the new wrist flick gesture. You also get health and wellness features that were previously limited to more expensive models, including sleep apnea notifications, a wrist-temperature sensor, and ovulation tracking. Some features, such as EKG readings and blood oxygen measurements, are still reserved for the Series 11, but sacrifices are expected at this price.\n\nRead our Apple Watch SE 3 review.\nApple Watch SE 3\n\nWhere to Buy: $249 $199.99 at Amazon (40mm, GPS) $279 $229.99 at Amazon (44mm, GPS) $249 $199.99 at Costco (40mm, GPS)\n\n\nIf you’re planning to spend Thanksgiving binging the latest season of Stranger Things like me, Google’s TV Streamer (4K) allows you to experience The Upside Down in crisp, 4K resolution. And right now, it’s available from Amazon, Best Buy, and Google for an all-time low of $74.99 ($25 off).\n\nGoogle’s latest set-top box can make your favorite shows and movies sharper and more immersive, thanks to its support for HDR10 Plus, Dolby Vision, and Dolby Atmos audio. Its interface can pull content recommendations across streaming services — with Rotten Tomatoes scores — and it comes with a handy Find My feature for the remote, which lets you ping the clicker via the streaming box should you ever misplace it. The Google TV Streamer (4K) even doubles as a smart home hub with Matter and Thread support, allowing you to control your smart lights or check various camera feeds directly on your TV.\n\nRead our full Google TV Streamer (4K) review.\nGoogle TV Streamer (4K)\n\nWhere to Buy: $99.99 $74.99 at Amazon $99.99 $74.99 at Best Buy $99.99 $74.99 at Google\n\n\nIf you’re already feeling the holiday spirit, Lego’s 2025 Star Wars Advent Calendar is on sale at Target for $26.99 ($18 off), which is its best price to date. The 263-piece kit includes 24 daily surprises for each day of December, with a mix of minifigures, buildable droids, and small set pieces. It includes characters like Babu Frik, C-3PO, a holiday Jawa, and hat-topped BB-8, along with eight buildable droids (including a pit droid and the infamous GNK “Gonk” power droid from 1977’s A New Hope). Some of the mini builds come together to form larger displays, too, meaning as the month goes on, you’ll be slowly assembling a workshop. Plus, once you’re finished, all the figures and builds can be combined with other Lego sets.\nLego Star Wars Advent Calendar 2025\n\nWhere to Buy: $44.99 $26.99 at Target $44.99 at Lego\n\n\nThree more of this week’s best deals\n\n\nSamsung’s 512GB P9 microSD Express card is on sale for $94.99 ($5 off) at Amazon when you clip the on-page coupon, which is a small discount but the best we’ve seen. The card lets you store all of your digital Nintendo Switch and Switch 2 titles, but you can also use it to expand storage on certain cameras, tablets, and drones with a microSD USH-I slot. It supports sequential read speeds of up to 800MB/s, although only devices with a dedicated microSD Express slot can take advantage of the maximum speeds.\n\n\n\nThe Anker 521 PowerHouse is on sale for an all-time low of $128.99 at Amazon at checkout, down from $249.99. The 256Wh power station features two AC outlets, two USB-A ports, one USB-C port, and a car outlet, letting you recharge phones, cameras, and laptops several times over. It can also run power-hungry devices that draw up to 300W of power, including mini fridges, and comes with a useful display that shows you how much power you have left.\n\n\n\nSamsung’s 65-inch Frame Pro TV is down to an all-time low of $1,447.99 ($752 off) at Woot through December 6th, while the larger 75-inch model can be had for $1,897.99 ($1,302 off).&nbsp;Like the standard Frame, the Frame Pro displays artwork when idle, so it looks like wall decor; however, it’s noticeably brighter and comes with a faster 144Hz refresh rate, along with a wireless One Connect Box to keep cable clutter out of sight. Read our hands-on impressions.\n",
+      "content_length": 5368,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA: Hundreds of flights canceled nationwide amid government shutdown cuts",
+      "link": "https://www.france24.com/en/video/20251108-usa-hundreds-of-flights-canceled-nationwide-amid-government-shutdown-cuts",
+      "published": "2025-11-08T14:23:11",
+      "content": "More than 5,000 US flights were delayed or canceled on Friday, the first day of new mandates requiring airlines to cut air traffic as the government shutdown continues. The rules, implemented at 40 of the nation’s busiest airports, aim to reduce pressure on air traffic controllers and other federal workers who are reporting to duty without pay amid the historic funding impasse. Professor of Computer Science at University of Illinois at Urbana-Champain, Sheldon H. Jacobson, gives his insights.",
+      "content_length": 497,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France urges citizens to leave Mali temporarily due to jihadist blockade",
+      "link": "https://www.france24.com/en/video/20251108-france-urges-citizens-to-leave-mali-temporarily-due-to-jihadist-blockade",
+      "published": "2025-11-08T14:21:10",
+      "content": "France has urged its citizens in Mali to leave immediately, as Islamist insurgents maintain their blockade of the country. The French Foreign Ministry recommended that citizens use commercial flights while they are still available and avoid traveling overland. The two-month-long fuel blockade, enforced by an al-Qaeda-linked group, has disrupted daily life in the capital, Bamako, and other parts of the landlocked West African nation, a former French colony. A. Fenaux and S. Sitbon have this story.",
+      "content_length": 501,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louvre museum tightens security with additional CCTV cameras",
+      "link": "https://www.france24.com/en/video/20251108-louvre-museum-tightens-security-with-additional-cctv-cameras",
+      "published": "2025-11-08T14:16:44",
+      "content": "The Louvre museum is introducing new security measures in light of criticism it recieved following the recent robbery. Gabrielle Nadler has the story.",
+      "content_length": 150,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France urges citizens to leave Mali as armed group blockade intensifies",
+      "link": "https://www.france24.com/en/video/20251108-france-urges-citizens-to-leave-mali-as-armed-group-blockade-intensifies",
+      "published": "2025-11-08T14:15:31",
+      "content": "France has urged its citizens to leave Mali “as soon as possible” as an al-Qaeda-linked group, the Group for the Support of Islam and Muslims (JNIM), has been blockading fuel tankers since September, disrupting the flow of imported goods from Senegal and the Ivory Coast and upending daily life in Bamako and other regions of the West African country. Assistant professor of Anthropology at Lehigh University and Mali specialist, Bruce Whitehouse, joins us for more insights.",
+      "content_length": 475,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘The fear is real’: how Midlands attacks have changed Sikh women’s daily lives",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/midlands-attacks-walsall-sikh-womens-daily-lives",
+      "published": "2025-11-08T14:04:35",
+      "content": "Many women are afraid to go out, particularly on their own, after religiously aggravated rapes and assaultsSikh women in the Midlands have told how a spate of religiously motivated attacks have caused fear in their community, forcing some to “change everything” about their daily routines.Two rapes of Sikh women, both in their 20s, in Walsall and Oldbury, have been reported in recent weeks. John Ashby, 32, has been charged in connection with a religiously aggravated rape in relation to the alleged Walsall attack. Continue reading...",
+      "content_length": 537,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Matic robot vacuum is smarter, quieter, and gets the job done",
+      "link": "https://www.theverge.com/tech/816645/matic-robot-vacuum-review",
+      "published": "2025-11-08T14:00:00",
+      "content": "\n\n\n\t\n\tMeet my new best friend.\t\n\nRobot vacuums are amazing machines, but they can also be a pain in the arse. \nIn my home, testing a new robot vacuum often means digging it out from under my living room couch or unhooking it from the legs of my lounger. Then there's being woken at 3AM by a cheery \"resuming cleaning,\" getting down on my hands and knees to retrieve a pencil from their brushes or scrub the gunk out of the \"self-cleaning\" dock. And - my favorite - holding my nose while dumping the contents of a giant dirty water tank into the toilet.\nThen I met Matic. It's a complete rethink of the household robot. From design and navigation to cleaning performance and mobili …\nRead the full story at The Verge.",
+      "content_length": 716,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK to announce plans to emulate stringent Danish immigration system",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/uk-to-announce-plans-to-emulate-stringent-danish-immigration-system",
+      "published": "2025-11-08T13:55:13",
+      "content": "Shabana Mahmood’s proposals draw scorn from some Labour MPs, while others want government to go further• Why does the UK want to copy Denmark?Shabana Mahmood is to announce changes to the UK’s immigration rules modelled on the Danish system, largely seen as among the most stringent in Europe, the Guardian understands.Last month, the home secretary dispatched officials to Denmark to study its border control and asylum policies. Denmark’s tighter rules on family reunions and restricting some refugees to a temporary stay are among the policies being looked at. Continue reading...",
+      "content_length": 583,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Davina McCall reveals she has undergone surgery for breast cancer",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/nov/08/davina-mccall-reveals-she-has-undergone-surgery-for-breast-cancer",
+      "published": "2025-11-08T13:40:51",
+      "content": "Presenter says she is ‘in a much more positive place’ after having lumpectomy and catching cancer earlyDavina McCall has revealed she has undergone surgery for breast cancer and urged others to “get checked”.In a video posted to Instagram, the presenter said she was “very angry” when she found out about the cancer, but felt in a “much more positive place” after a lumpectomy. Continue reading...",
+      "content_length": 397,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach \"Kalmaegi\": Philippinen wappnen sich für nächsten Taifun",
+      "link": "https://www.tagesschau.de/ausland/asien/taifune-philippinen-vietnam-100.html",
+      "published": "2025-11-08T13:36:30",
+      "content": "   Nur wenige Tage nach der Verwüstung durch Taifun \"Kalmaegi\" müssen sich die Philippinen auf einen neuen Wirbelsturm vorbereiten. \"Fung-Wong\" könnte sich zu einem Supertaifun entwickeln und noch verheerender werden.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Guyana in turmoil after opposition leader arrested and faces US extradition",
+      "link": "https://www.theguardian.com/world/2025/nov/08/guyana-azruddin-nazar-mohamed-arrested-us-extradition",
+      "published": "2025-11-08T13:00:04",
+      "content": "Azruddin Mohamed had emerged as a surprise contender in the presidential election and claims political persecutionGuyana has been thrown into political turmoil following the arrest and possible extradition to the United States of the country’s main opposition leader just two months after he emerged as the surprise contender in the presidential election that kept incumbent Irfaan Ali in power.Azruddin Mohamed, 38, and his father, Nazar Mohamed, 73, two of Guyana’s wealthiest figures thanks to their gold mining empire, were arrested on 31 October in the capital, Georgetown, in response to a formal extradition request from the US government. Continue reading...",
+      "content_length": 666,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The endearing movie that affirms creativity as a human act",
+      "link": "https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview",
+      "published": "2025-11-08T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nPeter Hujar's Day began, as many great works of art do, with a DM. Director Ira Sachs (Passages, The Delta) had just finished reading a recently unearthed interview between the late portrait photographer Peter Hujar and writer Linda Rosenkrantz that took place in 1974. That dialogue - a conversation about creative anxieties, complete with the mundanities of daily life - had been published as a book in 2022.\nSo Sachs decided to message Rosenkrantz on Instagram about what would eventually become a film adaptation starring Ben Whishaw and Rebecca Hall as Peter and Linda. Deceptively simple and surprisingly moving, Peter Hujar's Day recreates t …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Soaring electricity rates fueled Democratic victories — now comes the hard part",
+      "link": "https://www.theverge.com/report/816946/electricity-rates-election-democrats",
+      "published": "2025-11-08T13:00:00",
+      "content": "\n\n\n\t\n\tDemocratic candidate for Virginia governor Abigail Spanberger takes the stage during a election night event at the Greater Richmond Convention Center on November 4th in Richmond, Virginia. | Photo: Getty Images\t\n\nWhile there's plenty for voters to be worried about right now, rising utility bills have become a hot-button issue. The success of Democrats in New Jersey, Virginia, and Georgia in this week's elections can be seen as something of a referendum on the state of energy policy and infrastructure in the US as power grids struggle to keep up with growing electricity demand from AI data centers, electric vehicles, and domestic manufacturing. \nThese issues aren't going to disappear, and Democrats now face a tough road ahead to meet those challenges and make good on their campaign promises to lower electricity prices.\n\"Consumers have sent a clear m …\nRead the full story at The Verge.",
+      "content_length": 902,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US-Shutdown: Der Unmut in der Bevölkerung wächst",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-shutdown-konsequenzen-100.html",
+      "published": "2025-11-08T12:44:36",
+      "content": "   Der Shutdown in den USA hält an: Während Millionen Menschen unter ausbleibenden Gehältern oder Lebensmittelhilfen leiden, ringt der Senat weiter um eine Lösung. Ob an diesem Wochenende eine Einigung erzielt wird, bleibt ungewiss. Von Anne Schneider.[mehr]",
+      "content_length": 258,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel’s underground jail, where Palestinians are held without charge and never see daylight",
+      "link": "https://www.theguardian.com/world/2025/nov/08/israel-underground-jail-rakefet-palestinians-gaza-detainees",
+      "published": "2025-11-08T12:24:02",
+      "content": "Exclusive: Detainees at Rakefet include nurse deprived of natural light since January, and teenager held for nine monthsIsrael is holding dozens of Palestinians from Gaza isolated in an underground jail where they never see daylight, are deprived of adequate food and barred from receiving news of their families or the outside world.The detainees have included at least two civilians held for months without charge or trial: a nurse detained in his scrubs, and a young food seller, according to lawyers from the Public Committee Against Torture in Israel (PCATI) who represent both men. Continue reading...",
+      "content_length": 607,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "BBC ‘100% fake news’, says Donald Trump’s press secretary",
+      "link": "https://www.theguardian.com/media/2025/nov/08/bbc-100-fake-news-says-donald-trumps-press-secretary",
+      "published": "2025-11-08T12:19:26",
+      "content": "Comments by Karoline Leavitt follow allegations that Panorama documentary misled viewers with its editing of a Trump speechDonald Trump’s press secretary has described the BBC as “100% fake news” and a “propaganda machine” in an outspoken interview that comes after allegations of bias at the broadcaster.Karoline Leavitt, a senior White House official in the Trump administration, said watching BBC bulletins while on trips to the UK “ruins” her day, saying taxpayers were being “forced to foot the bill for a leftist propaganda machine”. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Windows 11 26H1: Unterstützung für bestimmte Prozessoren",
+      "link": "https://www.heise.de/news/Windows-11-26H1-Unterstuetzung-fuer-bestimmte-Prozessoren-11071382.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-08T12:11:00",
+      "content": "Die Gerüchteküche brodelte, nun hat Microsoft eine Insider-Vorschau für Windows 11 26H1 herausgegeben. Sie unterstützt bestimmte CPUs.",
+      "content_length": 134,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Brandenburgs Regierung trifft sich zu Krisensitzung",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburg-streit-medienstaatsvertraege-100.html",
+      "published": "2025-11-08T12:09:47",
+      "content": "   Die bundesweit einzige Koalition von SPD und BSW ringt in Brandenburg um ihre Zukunft. Anlass ist die anstehende Abstimmung über die Rundfunkreform, die die BSW-Fraktion ablehnt. Ein Spitzentreffen morgen soll eine Lösung bringen.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Death of Iranian activist who burned picture of supreme leader causes outcry",
+      "link": "https://www.theguardian.com/world/2025/nov/08/death-iranian-activist-burned-picture-supreme-leader-omid-sarlak",
+      "published": "2025-11-08T12:00:02",
+      "content": "Iran’s police say Omid Sarlak, 22, shot himself, but fellow activists suspect he may have been killed for his viewsThe death of a young Iranian man who had filmed himself burning a photograph of the country’s supreme leader has sparked a war of words between state media and activists over how he died.Government-sanctioned news websites reported that Omid Sarlak, who was in his 20s, had been found in his car on Saturday in western Iran with a gunshot wound to his head and traces of gunpowder on his hands. Iranian police said Sarlak had “died by suicide”. Continue reading...",
+      "content_length": 579,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Carney survives two confidence votes on budget, quashing fears of winter election",
+      "link": "https://www.theguardian.com/world/2025/nov/08/carney-confidence-vote-canada-budget",
+      "published": "2025-11-08T11:00:01",
+      "content": "Minority government benefitted from opposition members voting across the aisle, paving way for billions in spendingCanada’s prime minister Mark Carney’s minority government has survived two confidence votes on its budget, quashing fears – for now – of a winter federal election.The Liberals managed to pass the second of three votes on the plan on Friday, paving the way for tens of billions in new spending. Continue reading...",
+      "content_length": 428,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Massive Russian attack damages Ukraine's energy network, killing one",
+      "link": "https://www.france24.com/en/video/20251108-massive-russian-attack-damages-ukraine-s-energy-network-killing-one",
+      "published": "2025-11-08T10:58:02",
+      "content": "A large-scale Russian attack damaged Ukraine's energy infrastructure prompting emergency power outages, Ukrainian authorities said on Saturday, as the emergency services said a Russian drone strike on a nine-storey building in Dnipro killed one woman and wounded six people. France24 correspondent Emmanuelle Chaze reports the latest from Kharkiv.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Art from Africa booms worldwide: Analysis with Marie-Cécile Zinsou",
+      "link": "https://www.france24.com/en/video/20251108-art-from-africa-booms-worldwide-analysis-with-marie-c%C3%A9cile-zinsou",
+      "published": "2025-11-08T10:55:44",
+      "content": "It’s a big week for art in Nigeria. Lagos hosts the Contemporary Fair this weekend, while Benin City prepares for the opening of the long-awaited Museum of West African Art. The multi-million-euro project, backed by France, Germany, the Getty Foundation, and the British Museum, was meant to house the famed Benin Bronzes, looted by British forces in 1897 - but that plan has sparked controversy. Marie-Cécile Zinsou, president of the Zinsou Foundation, explains why.",
+      "content_length": 467,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Turkey issues arrest warrant against Netanyahu for 'genocide' in Gaza",
+      "link": "https://www.france24.com/en/video/20251108-turkey-issues-arrest-warrant-against-netanyahu-for-genocide-in-gaza",
+      "published": "2025-11-08T10:54:27",
+      "content": "Turkey on Friday announced it had issued arrest warrants for Israel's Prime Minister Benjamin Netanyahu and other Israeli government officials for \"systematically\" perpetrating \"genocide and crimes against humanity\" in Gaza. France24 correspondent Noga Tarnopolsky reports the latest.",
+      "content_length": 284,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Neue Vorwürfe gegen SOS-Kinderdorf",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-sos-kinderdoerfer-missbrauch-100.html",
+      "published": "2025-11-08T10:39:13",
+      "content": "   Die Berichte über Gewalt und Missbrauch in österreichischen SOS-Kinderdörfern sorgten zuletzt für Entsetzen. Die Organisation bemüht sich um Aufarbeitung - doch nun kommen neue Vorwürfe ans Licht. Von Alexandra Pöhler. [mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France take on South Africa two years on from World Cup quarter-final defeat",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251108-france-take-on-south-africa-two-years-on-from-world-cup-quarter-final-defeat",
+      "published": "2025-11-08T10:37:57",
+      "content": "France host South Africa at the Stade de France on Saturday night for a blockbuster clash to kick off their Autumn Internationals campaign. Les Bleus will be facing the Springboks for the first time since narrowly losing in the same stadium to the eventual champions in the 2023 World Cup quarter-final.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Legendary Senegalese Orchestra Baobab returns to Paris stage",
+      "link": "https://www.france24.com/en/video/20251108-legendary-senegalese-band-baobab-returns-to-paris-stage",
+      "published": "2025-11-08T10:27:51",
+      "content": "For more than 50 years, Orchestra Baobab has emboded the elegance of West African sounds, blending traditional Senegalese and Afro-Cuban music. At the Paris Olympia concert hall the band returns to celebrate his legacy as part of their European tour. Olivia Bizot reports.",
+      "content_length": 272,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France: Drinking alcohol in Parliament? Should it not be covered by the parliamentary allowance?",
+      "link": "https://www.france24.com/en/video/20251108-france-drinking-alcohol-in-parliament-should-it-not-be-covered-by-the-parliamentary-allowance",
+      "published": "2025-11-08T10:25:37",
+      "content": "Is the tradition of French lawmakers sipping wine at the Assemblée Nationale nearing its end? A new report recommends banning alcohol sales at the Palais Bourbon bar as part of a review of public spending for the 2026 budget. Jennie Shin has more.",
+      "content_length": 247,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gaza's students celebrate their graduations after two years of war and amid ongoing hardship",
+      "link": "https://www.france24.com/en/video/20251108-gaza-s-students-celebrate-their-graduations-after-two-years-of-war-and-amid-ongoing-hardship",
+      "published": "2025-11-08T10:23:20",
+      "content": "Though the ceasefire between Israel and Hamas remains fragile, Gazans are finding reason to celebrate, their students. In Khan Yunis, in the south of the enclave, the first graduation ceremony in more than two years was held yesterday. Despite bombings and food shortages, the inaugural class since the war’s outbreak proudly received their diplomas, marking a rare moment of joy amid ongoing hardship. Lou Kziéla and Daniel Quinlan report.",
+      "content_length": 440,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "“Turn the volume up” Mamdani’s glory & the Dems’ dichotomy, Pokrovsk falling? Shein in France",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20251108-turn-the-volume-up-mamdani-s-glory-the-dems-dichotomy-the-fall-of-pokrovsk-shein-in-france",
+      "published": "2025-11-08T10:21:21",
+      "content": "It’s been a week that’s seen a remarkable political upset in New York, where 34-year-old Zohran Mamdani became the city’s youngest mayor in 130 years – and its first Muslim and immigrant leader in generations. The Democratic Socialist’s pledge to make New York more affordable galvanised young voters, though his call to tax the rich unsettled the party establishment. In Ukraine, fierce fighting continues for control of Pokrovsk, the fortress city key to Donetsk’s supply lines, as Russia claims to have encircled it and President Zelensky vows defiance on the front line. In Mexico, President Claudia Sheinbaum – after being groped by a man in public – has vowed to criminalise street harassment nationwide, calling it an attack on all women. And for Elon Musk, it’s been a record-breaking week, as Tesla shareholders approved what could become the biggest executive pay deal in history – worth up to a trillion dollars if he meets his ambitious targets.",
+      "content_length": 957,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US-Forscher und Nobelpreisträger James Watson gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/watson-forscher-nobelpreis-gestorben-100.html",
+      "published": "2025-11-08T09:44:24",
+      "content": "   Als einer der Entdecker der DNA-Doppelhelix erhielt James Watson den Medizin-Nobelpreis. Später allerdings sorgte er mit rassistischen Aussagen für Empörung. Nun ist er mit 97 Jahren gestorben.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Naturkatastrophen kosten den Industrieländer immer mehr Wohlstand",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/industrienationen-unwetter-schaeden-100.html",
+      "published": "2025-11-08T09:07:21",
+      "content": "   Seit 1980 haben sich die Kosten für Unwetterschäden in den großen Industrienationen vervielfacht. Besonders deutlich ist der Anstieg in den USA und Deutschland, berichtet der Rückversicherer Munich Re. Positiv sei der Trend in China.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "link": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11066369.html",
+      "published": "2025-11-08T08:05:00",
+      "content": "Die Übersicht enthält kleine, aber interessante Meldungen zu Jupyter, Android-Entwicklung, Vitess, GitLab, GitHub, Databricks, OpenTofu, Hermit und Parasoft.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Abschiebungen nach Afghanistan: In Deutschland ohne Perspektive",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/abschiebungen-afghanistan-132.html",
+      "published": "2025-11-08T07:43:33",
+      "content": "   Die deutsche Bundesregierung will bald schon mit regelmäßigen Abschiebeflügen nach Afghanistan starten - trotz der Taliban-Herrschaft. Damit trifft sie auch Menschen, die sich hier schon gut integriert haben. Von Paul Jens.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Streeck bei Social-Media-Nutzung für gestaffelte Altersfreigaben",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/streeck-altersfreigaben-social-media-100.html",
+      "published": "2025-11-08T07:18:45",
+      "content": "   Viele Kinder und Jugendliche sind in sozialen Netzwerken unterwegs - und das oft mehrere Stunden pro Tag. Um sie besser zu schützen, schlägt der Bundesdrogenbeauftragte nun gestaffelte Altersfreigaben für Apps vor.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
