@@ -1,0 +1,886 @@
+{
+  "metadata": {
+    "timestamp": "20251110_071350",
+    "input_file": "data/deduplicated/20251110_071350.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 102,
+      "filtered_count": 96,
+      "blacklisted_count": 6,
+      "reduction_rate": "5.9%",
+      "top_blacklist_reasons": {
+        "fußball": 2,
+        "weltmeister": 1,
+        "regen": 1,
+        "stau": 1,
+        "vermisst": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Prozess um Anschlag auf Magdeburger Weihnachtsmarkt startet",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/prozess-anschlag-magdeburger-weihnachtsmarkt-100.html",
+      "published": "2025-11-10T07:04:38",
+      "content": "   Am Landgericht Magdeburg beginnt der Prozess um den Anschlag auf den Weihnachtsmarkt. 47 Verhandlungstage sind bislang geplant - in einem extra für den Prozess errichteten Gerichtssaal mit Platz für 700 Menschen.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Brasilien - 30. UNO-Klimakonferenz beginnt in Belém",
+      "link": "https://www.deutschlandfunk.de/30-uno-klimakonferenz-beginnt-in-bel-m-106.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "In der brasilianischen Stadt Belém beginnt heute die 30. UNO-Klimakonferenz. An den zweiwöchigen Verhandlungen beteiligen sich Delegationen aus mehr als 190 Staaten. Insgesamt werden 50.000 Teilnehmer erwartet.",
+      "content_length": 210,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "30. UNO-Klimakonferenz - BDI fordert mehr Effizienz und Wettbewerb in der Energiepolitik",
+      "link": "https://www.deutschlandfunk.de/bdi-fordert-mehr-effizienz-und-wettbewerb-in-der-energiepolitik-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Vor dem heutigen Beginn der 30. UNO-Klimakonferenz hat der Bundesverband der Deutschen Industrie für mehr Effizienz und Wettbewerb in der Energiepolitik geworben. Der Hochlauf der Erneuerbaren werde am Ende das Spiel gewinnen, sagte der stellvertretende Hauptgeschäftsführer Lösch im Deutschlandfunk. Allerdings dauere dies länger als geplant.",
+      "content_length": 343,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "COP30 - Klimakonferenz in Brasilien: Das sind die wichtigsten Themen",
+      "link": "https://www.deutschlandfunk.de/klimakonferenz-in-brasilien-das-sind-die-wichtigsten-themen-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Vertreter von fast 200 Staaten wollen sich von heute an im brasilianischen Belém auf neue Vorgaben für den Klimaschutz verständigen. Die USA nehmen nicht an der UNO-Konferenz teil.",
+      "content_length": 180,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Bundesregierung über Zukunft von Heizungsgesetz weiter uneins",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-ueber-zukunft-von-heizungsgesetz-weiter-uneins-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Vertreter der Bundesregierung haben erneut ihre teils unterschiedlichen Positionen zum künftigen Umgang mit dem sogenannten Heizungsgesetz zum Ausdruck gebracht. CSU-Chef Söder plädierte für eine Streichung des Gesetzes und widersprach damit Umweltminister Schneider.",
+      "content_length": 267,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ex-Parteichefin - Kramp-Karrenbauer will Lammert an der Spitze der CDU-nahen Konrad-Adenauer-Stiftung ablösen",
+      "link": "https://www.deutschlandfunk.de/kramp-karrenbauer-will-lammert-an-der-spitze-der-cdu-nahen-konrad-adenauer-stiftung-abloesen-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Die ehemalige CDU-Chefin Kramp-Karrenbauer ist im Gespräch als künftige Vorsitzende der Konrad-Adenauer-Stiftung.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Haushaltssperre - US-Senat stimmt für Beratungen über einen Übergangsetat",
+      "link": "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-beratungen-ueber-einen-uebergangsetat-102.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "In den USA haben Republikaner und Demokraten einen ersten Schritt unternommen, um die seit mehr als 40 Tagen andauernde Haushaltssperre zu beenden.",
+      "content_length": 147,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südkorea - Weitere Anklage gegen Ex-Präsidenten Yoon",
+      "link": "https://www.deutschlandfunk.de/weitere-anklage-gegen-ex-praesidenten-yoon-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "In Südkorea hat die Staatsanwaltschaft weitere Vorwürfe gegen den früheren Präsidenten Yoon erhoben.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - BBC-Generaldirektor und Nachrichtenchefin treten nach Kritik an Beitrag über Trump zurück",
+      "link": "https://www.deutschlandfunk.de/bbc-generaldirektor-und-nachrichtenchefin-treten-nach-kritik-an-beitrag-ueber-trump-zurueck-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Nach Kritik an einem BBC-Beitrag über US-Präsident Trump sind der Generaldirektor der britischen Rundfunkanstalt, Davie, und die Nachrichtenchefin Turness zurückgetreten. Auslöser war ein internes Memo, das dem \"Daily Telegraph\" zugespielt wurde.",
+      "content_length": 246,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Landgericht - Prozess um Anschlag auf den Magdeburger Weihnachtsmarkt beginnt",
+      "link": "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-den-magdeburger-weihnachtsmarkt-beginnt-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Fast elf Monate nach dem Anschlag auf den Magdeburger Weihnachtsmarkt beginnt heute vor dem Landgericht der Prozess gegen den Täter.",
+      "content_length": 132,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrpflicht - Verteidigungsausschuss berät in öffentlicher Sitzung",
+      "link": "https://www.deutschlandfunk.de/verteidigungsausschuss-beraet-in-oeffentlicher-sitzung-102.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Der Verteidigungsausschuss des Bundestags befasst sich heute mit der künftigen Ausgestaltung der Wehrpflicht.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rede zur Pogromnacht - AfD kritisiert Steinmeiers Äußerung zu Parteiverbotsverfahren",
+      "link": "https://www.deutschlandfunk.de/afd-kritisiert-steinmeiers-aeusserung-zu-parteiverbotsverfahren-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Die AfD hat die Äußerungen von Bundespräsident Steinmeier zu einem möglichen Parteiverbotsverfahren scharf kritisiert.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kultusministerkonferenz - Schülerzahl in Deutschland steigt bis 2032 deutlich an",
+      "link": "https://www.deutschlandfunk.de/schuelerzahl-in-deutschland-steigt-bis-2032-deutlich-an-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Die Zahl der Schüler in Deutschland wird in den kommenden Jahren deutlich steigen.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bolivien - Bundesaußenminister Wadephul (CDU) berät in Bolivien über Lithium-Lieferungen",
+      "link": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-cdu-beraet-in-bolivien-ueber-lithium-lieferungen-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "In Bolivien berät Bundesaußenminister Wadephul heute mit Wirtschaftsvertretern unter anderem über Lithium-Lieferungen nach Deutschland.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - US-Präsident Trump empfängt Syriens Übergangspräsident al-Scharaa",
+      "link": "https://www.deutschlandfunk.de/us-praesident-trump-empfaengt-syriens-uebergangspraesident-al-scharaa-100.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Als erster syrischer Staatschef seit der Unabhängigkeit des Landes 1946 wird Übergangspräsident al-Scharaa heute im Weißen Haus in Washington empfangen.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Belgien - Drohnen über Kernkraftwerk und Flughafen gesichtet",
+      "link": "https://www.deutschlandfunk.de/drohnen-ueber-kernkraftwerk-und-flughafen-gesichtet-102.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "In Belgien sind drei Drohnen über einem Kernkraftwerk in der Nähe von Antwerpen gesichtet worden.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Nach Äußerungen des israelischen Botschafters: Linkspartei wehrt sich gegen Schuldzuweisungen bezüglich Antisemitismus",
+      "link": "https://www.deutschlandfunk.de/nach-aeusserungen-des-israelischen-botschafters-linkspartei-wehrt-sich-gegen-schuldzuweisungen-bezue-102.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Auch die Linkspartei hat vor einem erstarkenden Antisemitismus in Deutschland gewarnt und zugleich Schuldzuweisungen an das linke Lager zurückgewiesen. Die Vorsitzenden von Bundespartei und Bundestagsfraktion erklärten, aufrichtiges Gedenken verpflichte zu mehr als nur dem bloßen Erinnern.",
+      "content_length": 290,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Paris - Entscheidung über weitere Haft von Ex-Präsident Sarkozy",
+      "link": "https://www.deutschlandfunk.de/entscheidung-ueber-weitere-haft-von-ex-praesident-sarkozy-102.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Ein Berufungsgericht in Paris entscheidet heute, ob der frühere französische Präsident Sarkozy nach seiner Verurteilung in der Libyen-Affäre das Gefängnis unter Auflagen wieder verlassen darf.",
+      "content_length": 192,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza - Israel bestätigt Identität des übergebenen Leichnams - verschleppter Soldat Hadar Goldin",
+      "link": "https://www.deutschlandfunk.de/israel-bestaetigt-identitaet-des-uebergebenen-leichnams-verschleppter-soldat-hadar-goldin-106.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Bei dem heute von der Hamas im Gazastreifen übergebenen Leichnam handelt es sich um einen 2014 getöteten israelischen Soldaten.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mali - Afrikanische Union fordert internationale Antwort auf Benzin-Blockade",
+      "link": "https://www.deutschlandfunk.de/afrikanische-union-fordert-internationale-antwort-auf-benzin-blockade-106.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Die Afrikanische Union hat sich besorgt über die anhaltende Benzin-Blockade durch Dschihadisten in Mali geäußert.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Unwetter - Super-Taifun \"Fung-wong\" erreicht Philippinen - Mehr als eine Million Menschen evakuiert",
+      "link": "https://www.deutschlandfunk.de/super-taifun-fung-wong-erreicht-philippinen-mehr-als-eine-million-menschen-evakuiert-110.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "Der Taifun \"Fung-wong\" hat die Philippinnen erreicht.",
+      "content_length": 53,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Spanien - Riesenwellen an Teneriffas Küste reißen Menschen ins Meer - drei Tote und mehrere Verletzte",
+      "link": "https://www.deutschlandfunk.de/riesenwellen-an-teneriffas-kueste-reissen-menschen-ins-meer-drei-tote-und-mehrere-verletzte-104.html",
+      "published": "2025-11-10T07:02:03",
+      "content": "An den Küsten der spanischen Insel Teneriffa sind drei Menschen durch sogenannte Riesenwellen ums Leben gekommen.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Drohnen fliegen über Flughafen und Kernkraftwerk in Belgien",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-drohnen-flughafen-akw-100.html",
+      "published": "2025-11-10T06:54:12",
+      "content": "   In Belgien hat es erneut Vorfälle mit Drohnen unbekannter Herkunft gegeben. Es gab Sichtungen über einem wichtigen Flughafen und einem AKW. Nach Deutschland hilft nun auch Großbritannien mit Spezialisten.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NSW MP rebuffed by security after asking to relocate planned neo-Nazi protest away from parliament",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/10/nsw-mp-rebuffed-by-security-after-asking-to-relocate-planned-neo-nazi-protest-away-from-building",
+      "published": "2025-11-10T06:48:18",
+      "content": "Greg Piper says one of his staffers told him about the protest and his request to move it away from the building was rejectedGet our breaking news email, free app or daily news podcastThe New South Wales speaker says he knew about Saturday’s neo-Nazi rally outside parliament the day before it took place, but was told his request to relocate the protest from the front of the building was not possible.Greg Piper, the house speaker in NSW’s Legislative Assembly, told Guardian Australia a member of his staff advised him about the planned rally late on Friday afternoon. Continue reading...",
+      "content_length": 591,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jacinta Nampijinpa Price backs out as headlining speaker at anti-immigration rally due to feature Tommy Robinson",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/10/jacinta-nampijinpa-price-backs-out-speaker-anti-immigration-put-australia-first-rally-tommy-robinson",
+      "published": "2025-11-10T06:42:19",
+      "content": "Exclusive: Rallies, organised by anti-lockdown protester Monica Smit and others, are set to go ahead in Sydney, Melbourne and Brisbane at the end of NovemberGet our breaking news email, free app or daily news podcastLiberal Jacinta Nampijinpa Price backed out as the headlining speaker at an upcoming anti-immigration protest spanning several of Australia’s cities that was inspired by rightwing protests in the UK in September.The Northern Territory senator announced shortly before midday on Friday she was “honoured” to join the rally against “mass immigration” and net zero. Less than 24 hours later, and after Guardian Australia contacted Nampijinpa Price’s office with questions, her announcement was wiped from social media. Continue reading...",
+      "content_length": 751,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Paris court to hear Sarkozy’s request to be freed from jail pending appeal",
+      "link": "https://www.france24.com/en/france/20251110-paris-court-hear-sarkozy-request-be-freed-jail-pending-appeal",
+      "published": "2025-11-10T06:25:53",
+      "content": "Former French president Nicolas Sarkozy's request to be released from prison pending appeal will be heard by a Paris court Monday less than five weeks after the ex-head of state began serving a five-year prison sentence for conspiring to raise campaign funds from former Libyan dictator Muammar Gaddafi.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France's Fontainebleau forest serves as ‘laboratory' for climate change adaptation",
+      "link": "https://www.france24.com/en/france/20251110-france-fontainebleau-forest-serves-as-laboratory-for-climate-change-adaptation",
+      "published": "2025-11-10T06:21:55",
+      "content": "France’s Fontainebleau forest – one of the world's first nature reserves – has felt the impacts of the climate crisis for many years. Now the beloved forest, situated just 60 kilometres southeast of Paris, has become a “laboratory” for the rest of the country’s forests in how to adapt to a warming world.",
+      "content_length": 305,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ligue 1: PSG gets narrow win over Lyon to go back up to 1st in standings",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251110-ligue-1-psg-gets-narrow-win-over-lyon-to-go-back-up-to-1st-in-standings",
+      "published": "2025-11-10T06:14:53",
+      "content": "Paris Saint-Germain won (3-2) away at Olympique Lyonnais. PSG are back at the top of the table, while OL are 7th.",
+      "content_length": 113,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Shutdown in den USA: Senat stimmt für Kompromissvorschlag",
+      "link": "https://www.tagesschau.de/ausland/amerika/shutdown-148.html",
+      "published": "2025-11-10T06:06:28",
+      "content": "   Der US-Senat hat einen ersten Schritt zur Beendigung des Regierungsstillstands gemacht. Die Senatoren stimmten einem Kompromiss zu, der den Weg zu einer Übergangsfinanzierung freimachen könnte. Nun ist das Repräsentantenhaus gefragt.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Documentary explores whether JMW Turner may have been neurodivergent",
+      "link": "https://www.theguardian.com/artanddesign/2025/nov/10/documentary-jmw-turner-secret-sketchbooks-neurodivergence-bbc",
+      "published": "2025-11-10T06:00:54",
+      "content": "Programme uses artist’s sketches, drawings and watercolours to build unprecedented psychological portraitHe is widely regarded as England’s greatest painter, but despite his extraordinary output, elements of JMW Turner’s personality have remained a mystery.Now, a groundbreaking BBC documentary delves into Turner’s 37,000 sketches, drawings and watercolours to build an unprecedented psychological portrait, one that raises the possibility that Turner’s singular vision was shaped by childhood trauma and neurodivergence. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jay Weatherill named next high commissioner to UK – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/10/australia-news-live-john-laws-radio-social-media-age-ban-reserve-bank-pauline-hanson-sussan-ley-anthony-albanese-net-zerontwnfb",
+      "published": "2025-11-10T05:59:21",
+      "content": "This blog is now closedJacinta Nampijinpa Price backs out as headlining speaker at anti-immigration rally due to feature Tommy RobinsonGet our breaking news email, free app or daily news podcastAlbanese says outrage over Joy Division shirt ‘load of nonsense’Anthony Albanese has finally commented on the non-furore about his Joy Division T-shirt, calling it “a load of nonsense”.What a load of nonsense that was, hey? … It was rather extraordinary, I’ve got to say, but a few people commented exactly that on Friday night. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Syrian president to hold talks with Trump at White House",
+      "link": "https://www.theguardian.com/world/2025/nov/10/syrian-president-talks-trump-white-house",
+      "published": "2025-11-10T05:00:54",
+      "content": "Ahmed al-Sharaa is expected to push for full lifting of remaining sanctions imposed during 13-year civil warSyria’s president, Ahmed al-Sharaa, will on Monday hold talks with Donald Trump at the White House, the first such official visit by a Syrian leader since national independence in 1946. He is expected to push for a full lifting of the remaining sanctions on his war-ravaged country.Sharaa, whose Islamist rebel forces toppled the longtime ruler Bashar al-Assad late last year, has courted the US president to try to reverse the economic restrictions imposed during the 13-year civil war, arguing they are no longer justified. Continue reading...",
+      "content_length": 653,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Crisis charity to become a landlord in attempt to rectify ‘catastrophic’ housing in UK",
+      "link": "https://www.theguardian.com/society/2025/nov/10/crisis-charity-to-become-a-landlord-in-attempt-to-rectify-catastrophic-housing-in-uk",
+      "published": "2025-11-10T05:00:54",
+      "content": "Exclusive: Homelessness charity planning to buy properties as it can no longer rely on access to social housing‘Similar pressure to London’: the housing crisis reaches NewcastleThe homelessness charity Crisis is going to become a landlord for the first time in its 60-year history, saying the housing crisis in the UK has reached a “catastrophic scenario”.Matt Downie, the charity’s chief executive, said it was preparing to launch a fundraising appeal to buy its own housing stock as it can longer get access to social housing to help homeless people. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Female NSW MPs Allegra Spender and Kellie Sloane report death and rape threats after condemning neo-Nazi rally in Sydney",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/10/neo-nazi-rally-sydney-female-nsw-mps-allegra-spender-kellie-sloane-death-rape-threats",
+      "published": "2025-11-10T04:45:35",
+      "content": "Allegra Spender and Kellie Sloane report threats to police, as premier says government is investigating whether ban on Nazi symbols should be expandedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTwo female MPs have reported the threats they received following their condemnation of Saturday’s neo-Nazi rally outside New South Wales parliament to the police, as the premier rejected any suggestion there was a “double standard” in how the far right is dealt with compared with pro-Palestine activism.The alleged threats against federal MP Allegra Spender and state MP Kellie Sloane, which included death threats and calls to “rhetorically rape” the federal MP, came after both took to social media to condemn Saturday’s rally, in which about 60 men held a banner calling for the abolition of the “Jewish lobby”, with speakers repeating antisemitic tropes. Continue reading...",
+      "content_length": 942,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Fury as Indonesia declares late authoritarian ruler Suharto a national hero",
+      "link": "https://www.theguardian.com/world/2025/nov/10/indonesia-declares-president-suharto-national-hero",
+      "published": "2025-11-10T04:37:34",
+      "content": "Suharto presided over a period marked by rampant corruption, nepotism, censorship and allegations of mass human rights abusesIndonesia has awarded former authoritarian leader Suharto the title of national hero, in a move that has sparked accusations of historical revisionism in the world’s third-largest democracy.The award has deepened fears about attempts to whitewash Suharto’s rise and decades-long rule, a period marked by rampant corruption, censorship and accusations of mass human rights violations. Continue reading...",
+      "content_length": 528,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Durchschnittlicher Kassen-Zusatzbeitrag auf 2,9 Prozent festgelegt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-krankenkassen-100.html",
+      "published": "2025-11-10T03:46:39",
+      "content": "   Der durchschnittliche Zusatzbeitrag für gesetzliche Krankenkassen soll bei 2,9 Prozent bleiben. Das kündigte Gesundheitsministerin Warken an. Allerdings gibt das Ministerium nur eine Orientierungsmarke.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US senators reach deal aimed at ending longest government shutdown in history",
+      "link": "https://www.france24.com/en/americas/20251110-us-senators-government-shutdown",
+      "published": "2025-11-10T03:15:59",
+      "content": "The US Senate on Sunday advanced a bill to end the government shutdown after moderate Democrats agreed to drop demands for an immediate extension of health care subsidies, angering progressives. Lawmakers voted 60-40 in a procedural step toward passing compromise funding legislation, with final approval expected in coming days.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ecuador prison riot turns deadly as 27 inmates found asphyxiated, four shot dead",
+      "link": "https://www.france24.com/en/americas/20251110-ecuador-prison-riot-asphyxiated",
+      "published": "2025-11-10T02:59:21",
+      "content": "At least 27 inmates were found dead from asphyxiation Sunday at Ecuador’s Machala prison in El Oro province, hours after an armed riot killed four others and injured dozens, authorities said.",
+      "content_length": 191,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "BBC-Chef tritt nach Kritik an Bearbeitung von Trump-Aussagen zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/bbc-ruecktritte-100.html",
+      "published": "2025-11-10T02:50:30",
+      "content": "   Der Direktor und die Nachrichtenchefin der britischen Rundfunkanstalt BBC sind zurückgetreten. Hintergrund sind Vorwürfe im Zusammenhang mit einer Trump-Dokumentation. Wie es nach den Rücktritten weitergeht, ist unklar.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Anhörung zur Rente im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-366.html",
+      "published": "2025-11-10T02:46:43",
+      "content": "   Bundestagsabgeordnete hören heute Experten und Verbände an, danach könnten in den nächsten Wochen die Haltelinie beim Rentenniveau und die Mütterrente verabschiedet werden. Wenn nicht doch noch etwas dazwischenkommt. Von Jan-Peter Bartels.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US Senate vote marks step towards ending federal shutdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/09/senate-moves-vote-federal-government-shutdown",
+      "published": "2025-11-10T02:46:09",
+      "content": "Senators vote on advancing House-passed stopgap funding bill, suggesting end to historic 40-day shutdown in reachThe US Senate on Sunday took a key vote on a bill that would end the record-setting federal government shutdown without extending the healthcare subsidies that Democrats have demanded.Senators began voting on Sunday night to advance House-passed stopgap funding legislation that Senate majority leader John Thune said would be amended to combine another short-term spending measure with a package of three full-year appropriations bills. Continue reading...",
+      "content_length": 570,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Who is ‘fedora man’? Dapper French teenager in viral Louvre heist photo unmasked",
+      "link": "https://www.theguardian.com/world/2025/nov/10/fedora-man-louvre-photo-pedro-elias-garzon-delvaux",
+      "published": "2025-11-10T00:59:47",
+      "content": "Fifteen-year-old Pedro Elias Garzon Delvaux was captured looking suave in a  picture outside the Paris museum on the day of a crown jewels heistWhen 15-year-old Pedro Elias Garzon Delvaux realised an Associated Press photo of him at the Louvre on the day of the crown jewels heist had drawn millions of views, his first instinct was not to rush online and unmask himself.Quite the opposite. A fan of Sherlock Holmes and Hercule Poirot who lives with his parents and grandfather in Rambouillet, 30km (19 miles) from Paris, Pedro decided to let the mystery linger. Continue reading...",
+      "content_length": 582,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "No link between paracetamol in pregnancy and autism or ADHD in children, review finds",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/nov/10/no-link-between-paracetamol-tylenol-in-pregnancy-and-autism-or-adhd-in-children-review-finds",
+      "published": "2025-11-10T00:01:46",
+      "content": "Wide-ranging review finds no convincing connection after Trump said women should ‘fight like hell’ to avoid painkillerA wide-ranging review into paracetamol use by pregnant women has found no convincing link between the common painkiller and the chances of children being diagnosed with autism and ADHD.Publication of the work was fast-tracked to provide prospective mothers and their doctors with reliable information after the Trump administration urged pregnant women to avoid paracetamol – also known as acetaminophen or Tylenol – claiming it was contributing to rising rates of autism. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Growth in global demand for ‘green’ office buildings slows amid Trump policies",
+      "link": "https://www.theguardian.com/business/2025/nov/10/growth-in-global-demand-for-green-office-buildings-slows-amid-trump-policies",
+      "published": "2025-11-10T00:01:45",
+      "content": "Fall reported by Royal Institution of Chartered Surveyors as UN calls for accelerated action in buildings sector to meet global climate goalsThe growth in global demand for “green” office buildings has slowed after Donald Trump’s assault on environmental protection policies caused a slump in interest in the US, according to a survey of construction industry professionals.Building occupiers and investors across North America and South America expressed significantly lower growth in demand for green commercial buildings, a shift that “seems to be in response to a change in US policy focus”, according to a survey of members of the Royal Institution of Chartered Surveyors (Rics). Reported demand across the rest of the world also fell, albeit not as sharply. Continue reading...",
+      "content_length": 783,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Twice as effective as nets: shark-spotting drones to become ‘permanent fixture’ on Queensland beaches",
+      "link": "https://www.theguardian.com/environment/2025/nov/10/twice-as-effective-as-nets-shark-spotting-drones-to-become-permanent-fixture-on-queensland-beaches",
+      "published": "2025-11-10T00:00:46",
+      "content": "State government says expanded use of shark nets and drum lines will continue despite evidence of deadly impact on other marine lifeSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereQueensland will roll out shark-spotting drones to more beaches, after a major study found drones detected more than double the number of sharks caught in adjacent nets.But while drones would become a “permanent fixture” of the state’s shark-control operations, the Department of Primary Industries said Queensland would continue to rely on “traditional measures like nets and drum lines”, despite evidence of their deadly impact on dolphins, whales, turtles and dugongs. Continue reading...",
+      "content_length": 709,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lebanon vows crackdown on illicit finance after US sanctions Hezbollah members",
+      "link": "https://www.france24.com/en/middle-east/20251109-lebanon-terror-financing-president-us",
+      "published": "2025-11-09T23:47:29",
+      "content": "Lebanese President Joseph Aoun told visiting US officials Sunday that Beirut was combating money laundering and terrorism financing, days after Washington sanctioned three Hezbollah members. The US delegation visited as Washington moves to curb funding for Iran-backed Hezbollah and push for its disarmament.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump booed at Commanders NFL game before calling plays from Fox broadcast booth",
+      "link": "https://www.theguardian.com/sport/2025/nov/09/donald-trump-commanders-nfl-game-fan-reaction",
+      "published": "2025-11-09T23:44:19",
+      "content": "President greeted with jeers by many fans at gameTrump has appeared at several sports events this yearDonald Trump became the first sitting US president in nearly 50 years to attend a regular-season NFL game when he dropped in on the Detroit Lions’ win over the Washington Commanders on Sunday.There were boos from large sections of fans, as well as scattered cheers, at the Commanders’ Northwest Stadium when Trump was shown on the screens late in the first half – and again when the president was introduced by the stadium announcer at halftime. The Washington DC area has strong Democratic support, while Trump’s cuts to the government have affected many workers in the vicinity of the Commanders’ stadium. Sunday was not the first time Trump has received a hostile reception from a Washington sports crowd: he was greeted with ‘lock him up’ chants at the Washington Nationals’ home stadium during the 2019 World Series. Continue reading...",
+      "content_length": 943,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Cleveland Guardians&#8217; pitchers indicted for rigging online bets",
+      "link": "https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets",
+      "published": "2025-11-09T23:22:44",
+      "content": "\n\n\n\t\n\t\t\n\nCleveland Guardians pitchers Emmanuel Clase and Luis Ortiz were indicted in Brooklyn on charges that they conspired to illegally rig bets on pitches thrown during games. The two were charged with wire fraud conspiracy, conspiracy to influence sporting contests by bribery, and money laundering conspiracy, among other things. \n\nAccording to the indictment:\n\n\nThe defendants agreed in advance with their co-conspirators to throw specific types and speeds of pitches, and their co-conspirators used that inside information to place wagers on those pitches. In some instances, the defendants received bribes and kickback payments-funneled through third parties-in exchange for rigging pitches.\n\n\nThe scheme involved unnamed third-party bettors who allegedly earned over $400,000 on bets involving Clase and Ortiz. The pitchers, for their part, received kickbacks according to the indictment. In some instances, Clase and Ortiz even provided their coconspirators with money to fund the bets. \n\nTo organize the scheme, the two used their cellphones during games, which is prohibited by the MLB except under extenuating circumstances. The two are also facing a potential lifetime ban from the sport for violating the league&#8217;s rules against betting on their own games. \n\nHowever, if convicted, it’s unlikely they’d be released from prison while still young enough to compete anyway. Clase and Ortiz are facing a possible sentence of up to 65 years.",
+      "content_length": 1456,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump shares false claim Obama earned $40m in ‘royalties’ from Obamacare",
+      "link": "https://www.theguardian.com/us-news/2025/nov/09/trump-obama-obamacare-royalties-claim",
+      "published": "2025-11-09T22:09:27",
+      "content": "US president promoted fictional claim from satirical website that has been debunked repeatedly since 2017Donald Trump promoted the false claim that Barack Obama has earned $40m in “royalties linked to Obamacare” in a post to his 11 million followers on Truth Social on Sunday.The fictional claim that the former US president receives royalty payments for the use of his name to refer to the Affordable Care Act, which he signed into law in 2010, has been repeatedly debunked since at least 2017, when it was featured on America’s Last Line of Defense, a satirical website that produces fake news reports designed to generate engagement from outraged conservatives. Continue reading...",
+      "content_length": 684,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "You need to listen to this compilation of ‘80s Spanish ambient and electronic music",
+      "link": "https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music",
+      "published": "2025-11-09T21:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nMuch of La Ola Interior (Spanish Ambient &amp; Acid Exoticism 1983-1990) sounds shockingly contemporary for a collection of tracks recorded in the mid to late '80s. Ambient as a genre was already relatively well established by the time many of the artists on this compilation recorded their songs. But as we neared the end of the century,  much of the scene in the US and Japan was beginning to push into New Age territory. These artists from the Spanish peninsula were trafficking in something much more experimental.\nLa Ola Interior covers a lot of stylistic ground. There's despondent drones, classic analog synths excursions, detached chants, field …\nRead the full story at The Verge.",
+      "content_length": 697,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Steinmeier: Demokratie so bedroht wie seit Jahrzehnten nicht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-demokratie-bedrohung-100.html",
+      "published": "2025-11-09T21:16:48",
+      "content": "   Wachsender Rechtsextremismus, Hass und Populismus - Bundespräsident Steinmeier warnt vor der größten Bedrohung der deutschen Demokratie seit der Wiedervereinigung. Es sei an der Zeit sich einzumischen und für die Freiheit einzustehen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Will Tim Davie’s resignation be enough to restore public trust in the BBC?",
+      "link": "https://www.theguardian.com/media/2025/nov/09/tim-davies-resignation-restore-public-trust-in-bbc",
+      "published": "2025-11-09T20:47:32",
+      "content": "Senior insiders admit concern about big editorial errors and fear attacks are part of ongoing campaign to undermine the broadcasterThere is a joke regularly deployed by BBC staff that “deputy heads must roll” over big mistakes because they rarely appear to have any impact on those at the top of the organisation. That all changed on Sunday, when Tim Davie and Deborah Turness both quit their jobs.Davie oversaw no shortage of scandals during his five years as director general – in recent months these included rows over a Gaza documentary and Glastonbury coverage – and was nicknamed “Teflon Tim” by BBC insiders because nothing seemed to stick. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘I have to take ultimate responsibility’: Tim Davie’s BBC resignation statement",
+      "link": "https://www.theguardian.com/media/2025/nov/09/tim-davie-bbc-resignation-statement-deborah-turness",
+      "published": "2025-11-09T19:58:12",
+      "content": "Full text of director general’s note to staff and the resignation statement from head of news Deborah TurnessDavie resigns as BBC director general after accusations of ‘serious and systemic’ bias in coverageBBC bias row: how a week of hostile headlines from rightwing media led to resignationsTim Davie, the BBC’s director general, and the head of BBC News have resigned after a former adviser to the corporation accused it of “serious and systemic” bias in its coverage of issues including Donald Trump, Gaza and trans rights.This afternoon Davie sent the following note to staff:Dear all,I wanted to let you know that I have decided to leave the BBC after 20 years. This is entirely my decision, and I remain very thankful to the Chair and Board for their unswerving and unanimous support throughout my entire tenure, including during recent days.Dear all,I have never been more proud of the work that you do every day. You really are the best of the best. Continue reading...",
+      "content_length": 978,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump weighs giving Americans $2,000 from tariff revenues in bid for support",
+      "link": "https://www.theguardian.com/us-news/2025/nov/09/trump-tariffs-refund",
+      "published": "2025-11-09T19:50:15",
+      "content": "Congressional approval would likely be required for plan to take effect, an idea Trump has floated beforeDonald Trump on Sunday mused about giving most Americans $2,000 funded by tariff revenues collected by the president’s administration – an evident bid to rally public support on the issue.“A dividend of at least $2000 a person (not including high income people!) will be paid to everyone,” Trump wrote on his Truth Social platform on Sunday. Continue reading...",
+      "content_length": 466,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "YouTube TV, ESPN, and Disney: the latest on the blackout",
+      "link": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
+      "published": "2025-11-09T19:31:59",
+      "content": "\n\n\n\t\n\t\t\n\nOn October 31st, ESPN, ABC, Nat Geo, and over 20 other Disney-owned channels went dark on YouTube TV. As the two sides disagree about terms for a new content distribution contract, Google has accused Disney of trying to raise prices for its customers in an effort to boost its own Hulu + Live TV and Fubo offerings. \n\nMeanwhile, Disney claims that Google is being unreasonable and seeking preferential treatment and below-market rates, and streamed College GameDay for free during the dispute. It’s quite different from their 2021 carriage blackout, which was resolved within a couple of days.\n\nThe two don&#8217;t seem any closer to an agreement at this point, as the war of words continues, and now Google is even giving YouTube TV customers a $20 credit for the inconvenience.\n\nRead on below for all of the news and updates about Google and Disney&#8217;s ongoing battle.\n\n\t\t\t\t\t\n\t\t\t\tGoogle is issuing a $20 credit to YouTube TV subscribers.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tFilms from YouTube and Google Play are no longer available on Movies Anywhere\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNo Monday Night Football, no Election Night ABC News for YouTube TV.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tESPN, ABC, and other Disney channels go dark on YouTube TV\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDisney is suing YouTube for poaching a key media and sports executive\n\t\t\t\n\t\t\t",
+      "content_length": 1292,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "BBC director resigns after row over Trump documentary edit",
+      "link": "https://www.france24.com/en/europe/20251109-bbc-boss-tim-davie-resigns-after-criticism-over-trump-documentary-edit",
+      "published": "2025-11-09T18:55:31",
+      "content": "The director general of Britain's BBC, Tim Davie, and the chief executive of news, Deborah Turness, have stepped down following criticism over bias at the corporation, including in the way it edited a speech by US President Donald Trump.",
+      "content_length": 237,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Arturia&#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state",
+      "link": "https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block",
+      "published": "2025-11-09T18:30:00",
+      "content": "\n\n\n\t\n\tDon’t mind my desk toys.\t\n\nArturia's KeyStep is one of the most popular MIDI controllers ever made, especially with modular synth users and the DAWless crowd. It's small, cheap, has an easy-to-use sequencer, and offers decent connectivity. But it was also released way back in January of 2016. The world of music gear moves more slowly than, say, smartphones, but Arturia has several controllers released after the KeyStep that are already on their third generation. The $139 KeyStep mk2 takes this classic and updates it with a host of new sequencing and composition features developed by Arturia over the years.\nCompared to the original, the KeyStep mk2 has double the numb …\nRead the full story at The Verge.",
+      "content_length": 717,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Von Hamas übergebene Leiche ist verschleppter Soldat",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-leiche-102.html",
+      "published": "2025-11-09T18:22:03",
+      "content": "   Israel hat nach forensischen Untersuchungen die Identität einer von der militant-islamistischen Hamas ausgehändigten Leiche bestätigt. Es handele es sich um einen Soldaten, der bereits 2014 im Gazastreifen getötet wurde. [mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Reportage aus Guyana: \"Der Ölboom übersteigt unsere Kapazitäten\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/guyana-oelboom-umwelt-100.html",
+      "published": "2025-11-09T17:56:34",
+      "content": "   Vor zehn Jahren wurden vor Guyana riesige Ölvorkommen entdeckt. Seitdem wächst die Ölindustrie rasant, boomt der Export. Doch die Armut ist noch lange nicht überwunden, und Sorgen vor den Umweltfolgen bleiben. Von J. Barke.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Debate over Carlson’s interview highlights internal conservative tensions regarding nationalism",
+      "link": "https://www.france24.com/en/video/20251109-debate-over-carlson-s-interview-highlights-internal-conservative-tensions-regarding-nationalism",
+      "published": "2025-11-09T17:29:23",
+      "content": "The Heritage Foundation, an influential conservative think tank, is in turmoil after its leader defended former Fox News host Tucker Carlson, who interviewed white nationalist and Holocaust denier Nick Fuentes on his popular online show. France24 International Affairs Editor Kethevane Gorjestani joins for more.",
+      "content_length": 312,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russian activist held in Poland admits he worked as FSB agent, court papers say",
+      "link": "https://www.theguardian.com/world/2025/nov/09/russian-activist-held-in-poland-admits-he-worked-as-fsb-agent-court-papers-say",
+      "published": "2025-11-09T16:31:41",
+      "content": "Igor Rogov, who left Russia in 2021, due to go on trial accused of informing on other Russian opposition activistsA Russian opposition activist arrested in Poland and due to go on trial next month has admitted he worked as an undercover agent for Russia’s FSB security service and informed on other opposition figures, court documents claim.Igor Rogov, 30, has been associated with various opposition movements in the Russian city of Saransk, including Alexei Navalny’s Anti-Corruption Foundation and Open Russia, linked to the exiled businessman Mikhail Khodorkovsky. Continue reading...",
+      "content_length": 588,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zahl der Schüler wächst laut Prognose in den kommenden Jahren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schueler-zahlen-100.html",
+      "published": "2025-11-09T16:27:57",
+      "content": "   Die Schülerzahl in Deutschland wächst nach aktuellen Berechnungen der Bildungsministerkonferenz bis zum Jahr 2032 weiter deutlich an - und geht danach zurück. Allerdings gibt es große regionale Unterschiede.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Iran: Dams almost empty in Mashhad, home to 4 million people",
+      "link": "https://www.france24.com/en/video/20251109-iran-dams-almost-empty-in-mashhad-home-to-4-million-people",
+      "published": "2025-11-09T16:23:39",
+      "content": "Water levels at the dam reservoirs supplying Iran’s north-eastern city of Mashhad have plunged below 3%, according to reports, as the country suffers from severe water shortages. Director of the United Nations University for Water, Environment and Health, Kaveh Madani, gives his insights on this critical drought in Iran.",
+      "content_length": 322,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Afghanen mit Aufnahmezusage appellieren in Brief an Kanzler Merz",
+      "link": "https://www.tagesschau.de/inland/afghanen-aufnahmezusage-merz-100.html",
+      "published": "2025-11-09T16:07:29",
+      "content": "   Afghanen mit Aufnahmezusage haben einen Brief an Kanzler Merz geschrieben. Sie fordern Deutschland auf, sein Schutzversprechen einzuhalten. Das Angebot, gegen Geld darauf zu verzichten, nennen sie \"verletzend\". Von B. Schwarz.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ratsvorsitzende der evangelischen Kirche fordert Widerstand gegen AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ekd-kolping-afd-100.html",
+      "published": "2025-11-09T15:36:14",
+      "content": "   Die EKD-Ratsvorsitzende Bischöfin Fehrs sieht die AfD \"außerhalb der Grundlagen des Grundgesetzes\". Auf der Jahrestagung der Synode ruft sie zum Widerstand auf. Auch das katholische Kolpingwerk distanziert sich deutlich von der Partei.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission",
+      "link": "https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/",
+      "published": "2025-11-09T15:34:52",
+      "content": "Blue Origin scrubbed Sunday’s launch attempt due to poor weather, a cruise ship in restricted waters near the launch site, and ground system issues. The company says the next available launch opportunity is Wednesday, November 12, with a window opening at 2:50 pm EST (19:50 UTC).\nCAPE CANAVERAL, Florida—The field of astrodynamics isn’t a magical discipline, but sometimes it seems trajectory analysts can pull a solution out of a hat.\nThat’s what it took to save NASA’s ESCAPADE mission from a lengthy delay, and possible cancellation, after its rocket wasn’t ready to send it toward Mars during its appointed launch window last year. ESCAPADE, short for Escape and Plasma Acceleration and Dynamics Explorers, consists of two identical spacecraft setting off for the red planet as soon as Sunday with a launch aboard Blue Origin’s massive New Glenn rocket.Read full article\nComments",
+      "content_length": 884,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The tale of the Fire Phone, Amazon’s very strange smartphone",
+      "link": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history",
+      "published": "2025-11-09T15:20:24",
+      "content": "\n\n\n\t\n\t\t\n\nWhen Jeff Bezos decided Amazon needed to get in the smartphone game, he went all in. And the resulting device, the Fire Phone, wound up more densely packed with big ideas than just about any gadget you'll find anywhere. There was just one tiny problem: they were mostly bad ideas.\nThe Fire Phone shipped in 2014 with a feature list a mile long. The screen had a 3D effect! There were, like, 400 cameras! There was a whole home screen filled with something called \"delighters!\" But the Fire Phone was, above all, a way to buy things on Amazon. That was what Bezos wanted, after all. It's just not what users wanted.\n\n\nVerge subscribers, don't fo …\nRead the full story at The Verge.",
+      "content_length": 689,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bad Bridgets podcast about crime among Irish women in US inspires film",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/nov/09/bad-bridgets-podcast-about-irish-womens-lives-of-us-inspires-film",
+      "published": "2025-11-09T15:00:35",
+      "content": "Margot Robbie’s company to make movie based on Northern Ireland academics’ stories of poverty and prisonIt started as a trawl of dusty archives for an academic project about female Irish emigrants in Canada and the US by two history professors, a worthy but perhaps niche topic for research.The subjects, after all, were human flotsam from Ireland’s diaspora whose existence was often barely recorded, let alone remembered. Continue reading...",
+      "content_length": 443,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Deck out your tree with ornaments of retro consoles, movie moments, and more",
+      "link": "https://www.theverge.com/tech/811614/best-christmas-ornaments-2025",
+      "published": "2025-11-09T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nDo the ornaments you adorn your Christmas tree with reflect you or your family’s interests? If not, maybe you should rectify that. We recently went hands on with Hallmark’s realistic Xbox 360 replica ornament, which plays a snippet of audio from Halo 3. As it turns out, there are many other ornaments available that are specifically designed to evoke nostalgia and make us open our wallets (surprise, surprise). In fact, did you know that the company also makes a CRT monitor with The Oregon Trail displayed on it? It’s rad.\n\nEven if video games aren’t your jam, Hallmark has a stranglehold on the intersection of ornaments and entertainment, with numerous options covering your favorite TV shows, movies, or favorite brands (maybe your household is the type that’d proudly display a mac and cheese ornament, maybe not). We’ve included some of our favorites below, and even if you aren’t necessarily the target audience, they’d make for a great gift. We even threw in some non-Hallmark options, because why not?\n\nRetro Tech Glass Holiday Ornament &#8211; VHS Tape\nYou can almost smell the mustiness of your local video store — that is, assuming you still have one.\n\nWhere to Buy: $24 at MoMA Store $24 at Love and Victory\n\nNintendo Entertainment System Console Ornament\nNintendo’s first home gaming console in the US, immortalized as a replica ornament.\n\nWhere to Buy: $24.99 at Hallmark $24.99 at Amazon\n\nXbox 360 Console Ornament\nA replica that gets all of the details right, except for portraying the Xbox Red Ring of Death.\n\nWhere to Buy: $28.99 at Amazon $28.99 at Hallmark\n\nRecord Crate Ornament\nA throwback to the record-filled milk crates you once had, or perhaps the collection you’re just now building.\n\nWhere to Buy: $24 at Love and Victory\n\nSuper Mario Super Star Topper\nWhether you’re into gaming or not, the Super Star topper is a cute alternative for the star you have.\n\nWhere to Buy: $92.99 at Hallmark $92.99 at Amazon\n\nTerminator 2: Judgment Day &#8211; T1000 Ornament\nThe shape-shifting T1000 android is an ornament I didn’t know I’d want this year.\n\nWhere to Buy: $28.99 at Hallmark $28.99 at Amazon\n\nStar Wars: The Empire Strikes Back Into the Carbon-Freezing Chamber\nThis elaborate ornament depicts the scene from The Empire Strikes Back when Han Solo is frozen in carbonite. Just don’t forget the power cord.\n\nWhere to Buy: $80.99 at Hallmark $80.99 at Amazon\n\nThe Legend of Zelda: Tears of the Kingdom Decayed Master Sword\nThe almighty Master Sword from The Legend of Zelda took a beating in Tears of the Kingdom, as you can see here.\n\nWhere to Buy: $31.99 at Amazon $31.99 at Hallmark\n\nThe Oregon Trail Ornament\nThis year, add “You have died of dysentery” to your holiday tree.\n\nWhere to Buy: $24.99 at Amazon $24.99 at Hallmark\n\nDungeons &amp; Dragons Themberchaud Ornament\nThe Chungus dragon from the 2023 Honor Among Thieves film re-created as an ornament.\n\nWhere to Buy: $11.49 at Amazon $11.49 at Hallmark\n\nStar Wars: A New Hope “Let the Wookiee Win” Ornament\nGet cozy with C-3PO, R2-D2, Han Solo, and Chewie as they play Dejarik, complete with video and audio (requires a power cord).\n\nWhere to Buy: $99.99 at Hallmark $99.99 at Amazon\n\nStar Trek: The Next Generation Beware The Borg! Tabletop Decoration\nBehold this impressive interactive ornament that Star Trek fans will love.\n\nWhere to Buy: $124.99 at Amazon $124.99 at Hallmark\n\nSega Dreamcast Ornament\nSega’s final (and best) console gets the ornament replica treatment, complete with tunes from Sonic Adventure.\n\nWhere to Buy: $19.95 at Walmart\n\nStar Wars: Andor Cassian Andor Ornament\nDiego Luna as Cassian Andor, one of Star Wars’ most chaotic / best heroes. \n\nWhere to Buy: $31.99 at Amazon $31.99 at Hallmark\n\nThe Lord of the Rings One Ring Ornament\nWhile there’s only one true One Ring, there are many One Ring ornaments, such as this one.\n\nWhere to Buy: $17.48 at Amazon $18.9 at BoxLunch\n\nSega Genesis Console Ornament\nWhether you were on team SNES or Genesis, we can all agree that this Sega Genesis replica rules.\n\nWhere to Buy: $28.99 at Hallmark $28.99 $24.95 at Walmart\n\nThe Legend of Zelda Game Cartridge Metal Ornament\nThe actual 1987 special edition cartridge of The Legend of Zelda might set you back hundreds. This replica ornament won’t.\n\nWhere to Buy: $24.99 at Hallmark $24.99 at Amazon\n\nSuper Mario Question Block ornament\nSure, nothing happens when you hit this Question Block, but it’s still a fun addition to your tree.\n\nWhere to Buy: $11.49 at Hallmark $11.49 $11.21 at Amazon $11.49 $11.21 at Walmart",
+      "content_length": 4524,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tote durch Riesenwellen auf Teneriffa",
+      "link": "https://www.tagesschau.de/ausland/europa/teneriffa-tote-wellengang-100.html",
+      "published": "2025-11-09T14:53:49",
+      "content": "   Riesige Wellen haben Teneriffa getroffen. An mehreren Stellen der spanischen Insel wurden Menschen ins Wasser gerissen - teils von Uferpromenaden weg. Es gab Tote und Verletzte. Die Behörden hatten gewarnt.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US shutdown hits 40th day, senators seeking breakthrough work through weekend",
+      "link": "https://www.france24.com/en/americas/20251109-us-shutdown-hits-40th-day-senators-seeking-breakthrough-work-through-weekend",
+      "published": "2025-11-09T14:50:08",
+      "content": "The US government shutdown entered its 40th day Sunday with senators still deadlocked over a plan to reopen federal agencies. Disputes over health care subsidies stalled efforts to end a standoff that has halted paychecks, snarled air travel, and threatened food aid for millions.",
+      "content_length": 280,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Iraq: Early parliament polls begin with security forces and displaced people able to vote today",
+      "link": "https://www.france24.com/en/video/20251109-iraq-early-parliament-polls-begin-with-security-forces-and-displaced-people-able-to-vote-today",
+      "published": "2025-11-09T14:23:12",
+      "content": "Members of Iraq’s security forces, along with internally displaced citizens, began voting in the parliamentary elections on Sunday - the sixth since the 2003 US-led invasion that toppled Saddam Hussein. Polls opened at 7 am for 1.3 million security personnel across 809 polling centers and will close at 6 pm before they are deployed to provide security on the main election day on Tuesday. France24 correspondent Lina Malers reports the latest from Baghdad, Iraq.",
+      "content_length": 464,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France: Paris court to rule on Sarkozy's release",
+      "link": "https://www.france24.com/en/video/20251109-france-paris-court-to-rule-on-sarkozy-s-release",
+      "published": "2025-11-09T14:21:49",
+      "content": "Former French President Nicolas Sarkozy is set to learn the outcome of his appeal for release. Tomorrow,  Monday, starting at 9:30 am, the Paris Court of Appeal will review the request submitted by his lawyers. What criteria will the court take into account, and in what form could his release be granted? Daniel Quinlan reports.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world",
+      "link": "https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic",
+      "published": "2025-11-09T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt's not often that a band returns to soundtrack the same game nine years after its release - then again, most games aren't No Man's Sky. Once demoed on The Tonight Show with Jimmy Fallon and at splashy E3 press conferences, in 2016, No Man's Sky was heralded as gaming's future. And it was all made possible by the procedural generation that spawned its vast, sci-fi universe.\nNearly a decade later, as post-rock band 65daysofstatic returns to re-score the ever-evolving game, generated content is no longer the exciting futurism it once seemed. With AI slop flooding social media and AI-generated bands sneaking their way onto Spotify, the tech t …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zehntausende Menschen in Russland ohne Strom nach ukrainischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-energie-100.html",
+      "published": "2025-11-09T13:56:45",
+      "content": "   Nach den massiven russischen Angriffen auf die ukrainische Energieinfrastruktur hat die Ukraine nun zum Gegenschlag ausgeholt: Im russischen Grenzgebiet wurde das Energienetz attackiert. Etwa 20.000 Haushalte waren zeitweise ohne Strom. [mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Palestinian man dismissed from Gaza border assistance role to sue EU",
+      "link": "https://www.theguardian.com/world/2025/nov/09/palestinian-man-dismissed-from-gaza-border-assistance-role-to-sue-eu",
+      "published": "2025-11-09T13:00:14",
+      "content": "Exclusive: Mohammed Baraka’s case alleges discrimination on basis of nationality after EU counterparts were transferredA Palestinian man who was dismissed from his job in Gaza after the war broke out is suing the European Union for allegedly breaching Belgian law.Mohammed Baraka, who worked at the EU border assistance mission (EUBam) at Rafah after its inception in 2006 as an unarmed civilian third-party presence, has filed his case in a Belgian court. Continue reading...",
+      "content_length": 476,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The algorithm failed music",
+      "link": "https://www.theverge.com/column/815744/music-recommendation-algorithms",
+      "published": "2025-11-09T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to break free of the algorithm and discover things you love, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nI used to have this ritual. Every Tuesday, I would get off the train at 8th Street on my way home from work. I would pop into Other Music, buy a new CD (or three…) and then walk the rest of the way to the Staten Island Ferry listening to my new CD. Even if there wasn't a new record out that week that I was looking forward to, I would buy som …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ikea just took over your smart home",
+      "link": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home",
+      "published": "2025-11-09T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 105, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you've recovered from the clocks falling back, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about David Ellison and Common Crawl and Stephen Colbert, catching up on It's Always Sunny in Philadelphia and The Great British Baking Show, letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical, testing the Boox Palma 2 Pro, spending way too many hours trying to design my new home office / podcast studio, and packing every single thing …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Syrian president al-Sharaa arrives in US for landmark White House visit",
+      "link": "https://www.france24.com/en/video/20251109-syrian-president-al-sharaa-arrives-in-us-for-landmark-white-house-visit",
+      "published": "2025-11-09T12:45:23",
+      "content": "Syrian President Ahmed al-Sharaa arrived in the US on Ssturday where he is due to meet with President Donald Trump at the White House – the first such visit by a Syrian president since the country's independence in 1946. Ahead of al-Sharaa's visit the leader was removed from the US terrorism blacklist. Shirli Sitbon has this story.",
+      "content_length": 333,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine scrambles for energy as Russian attacks put power generation at 'zero'",
+      "link": "https://www.france24.com/en/video/20251109-ukraine-scrambles-for-energy-as-russian-attacks-put-power-generation-at-zero",
+      "published": "2025-11-09T12:44:01",
+      "content": "Ukraine faced power cuts of up to 16 hours across most regions on Sunday operators said, as the country scrambles to make repairs after massive Russian attacks targeted its energy infrastructure. The national energy provider said the attacks had put its generating capacity down to \"zero\", adding to the risk of heating outages in the coming months. France24 correspondent Emmanuelle Chaze reports from Kharkiv.",
+      "content_length": 411,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli army says Red Cross has received remains of hostage from Hamas in Gaza",
+      "link": "https://www.france24.com/en/middle-east/20251109-hamas-says-it-will-hand-over-body-of-israeli-soldier-hadar-goldin",
+      "published": "2025-11-09T12:38:43",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Water levels below 3% in dam reservoirs for Iran’s second city, say reports",
+      "link": "https://www.theguardian.com/world/2025/nov/09/water-levels-below-3-percent-in-dam-reservoirs-for-iran-second-city-say-mashhad-reports",
+      "published": "2025-11-09T12:37:36",
+      "content": "Storage dwindles in Mashhad, home to 4 million people, as country struggles with droughtWater levels at the dam reservoirs supplying Iran’s north-eastern city of Mashhad have plunged below 3%, according to reports, as the country suffers from severe water shortages.“The water storage in Mashhad’s dams has now fallen to less than 3%,” Hossein Esmaeilian, the chief executive of the water company in Iran’s second largest city by population, told the ISNA news agency. Continue reading...",
+      "content_length": 488,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Britain sends RAF specialists to help Belgium combat disruptive drones",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/09/britain-sends-raf-specialists-help-belgium-combat-disruptive-drones",
+      "published": "2025-11-09T12:31:54",
+      "content": "Incursions halted flights at Brussels and Liège airports last week with Russia said to be the most likely culpritBritain is deploying Royal Air Force specialists to help Belgium counter drone threats to the country’s airports after disruptive sightings last week that some politicians blamed on Russia.Sir Richard Knighton, the head of the UK’s armed forces, said the British military would provide “our people, our equipment” to help Belgium, though he was careful to say “we don’t yet know” the origin of the drones seen last week. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Blockade von Treibstoff-Einfuhr: Islamisten legen Mali lahm",
+      "link": "https://www.tagesschau.de/ausland/afrika/mali-islamisten-treibstoff-100.html",
+      "published": "2025-11-09T11:25:53",
+      "content": "   Mali steht nahezu still. Islamisten haben das westafrikanische Land weitgehend von Benzin- und Diesellieferungen abgeschnitten. Eine Zermürbungstaktik, die die Wut auf Malis Militärregierung schüren soll. Von Karin Bensch.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UK to send defence equipment to help Belgium combat drone disruptions",
+      "link": "https://www.france24.com/en/europe/20251109-uk-to-send-defence-equipment-to-help-belgium-combat-drone-disruptions",
+      "published": "2025-11-09T11:02:04",
+      "content": "The UK will send defence experts and equipment to Belgium to help it respond to drone sightings over military bases and airports, the head of the armed fores said on Sunday. Moscow has denied any connection to the incidents as European defence leaders have said the drones could be a form of Russian \"hybrid warfare\".",
+      "content_length": 317,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mali faces worsening jihadist violence amid fears of regional spillover",
+      "link": "https://www.france24.com/en/video/20251109-mali-faces-worsening-jihadist-violence-amid-fears-of-regional-spillover",
+      "published": "2025-11-09T10:41:31",
+      "content": "Mali’s fuel shortage shows no signs of easing, leaving residents of the capital, Bamako, struggling to secure petrol for everyday needs. The crisis stems from a blockade of imports by the al-Qaeda-linked jihadist group JNIM, which aims to cripple the economy and pressure the government into change. Senior researcher at University of Beyrouth, Dr. Adam Sandor, gives his insights.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The week in pictures: New York elects Mayor Mamdani, Shein arrives in Paris and a baby hippo",
+      "link": "https://www.france24.com/en/culture/20251109-the-week-in-pictures-new-york-mayor-mamdani-shein-arrives-in-paris-and-a-baby-hippo",
+      "published": "2025-11-09T10:28:40",
+      "content": "New York elected democratic socialist Zohran Mamdani its new mayor, Chinese e-commerce giant Shein faced suspension in France as it opened its first-ever physical store in Paris and a baby hippo made her debut appearance at Berlin zoo. FRANCE 24 takes a look back at the week's most striking images.",
+      "content_length": 299,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Italy: Hundreds of heritage sites at risk amid funding shortages",
+      "link": "https://www.france24.com/en/video/20251109-italy-hundreds-of-heritage-sites-at-risk-amid-funding-shortages",
+      "published": "2025-11-09T10:27:10",
+      "content": "Heritage preservation groups in Italy are raising the alarm — nearly 450 historic sites are reportedly at risk due to age and insufficient maintenance funding. Just days ago, a 13th-century tower collapsed in central Rome, killing one person and seriously injuring three others. The tragedy has renewed calls for support from the private sector and the European Union. This report from our sister channel France 2 is narrated by Nick Rushworth.",
+      "content_length": 444,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zohran Mamdani makes history as New York City’s first South Asian mayor",
+      "link": "https://www.france24.com/en/video/20251109-zohran-mamdani-makes-history-as-new-york-city-s-first-south-asian-mayor",
+      "published": "2025-11-09T10:23:14",
+      "content": "Zohran Mamdani’s election as New York City’s next mayor marks a historic first for South Asians in the United States. His campaign - drawing on his family’s roots in India - emphasized returning power to the people, tackling socio-economic inequality, and honoring the city’s multi-faith identity. Some have even compared the young politician’s rhetoric to that of Indian independence leader Jawaharlal Nehru. Olivia Salazar-Winspear reports.",
+      "content_length": 442,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Denmark leads the way with first large-scale e-methanol production",
+      "link": "https://www.france24.com/en/video/20251109-denmark-leads-the-way-with-first-large-scale-e-methanol-production",
+      "published": "2025-11-09T10:16:21",
+      "content": "With COP30 kicking off on Monday, world leaders are set to discuss new strategies to reduce greenhouse gas emissions - with a particular focus on the shipping industry. One potential solution is e-methanol, now being produced on a large scale for the first time in Denmark. Gabrielle Nadler has the story.",
+      "content_length": 305,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gaza's streets overwhelmed by waste causing a growing public heath crisis",
+      "link": "https://www.france24.com/en/video/20251109-gaza-s-streets-overwhelmed-by-waste-causing-a-growing-public-heath-crisis",
+      "published": "2025-11-09T10:14:21",
+      "content": "The October Peace Plan allowed those who had survived displacement from cities in Gaza to return home. In the heavily bombarded areas of Khan Younis and Gaza City, however, they now face a new challenge: a growing public health crisis caused by the collapse of waste disposal infrastructure. As garbage accumulates, so too do communicable diseases. Simon Moritz reports.",
+      "content_length": 370,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine: Women are taking on roles that were done by men before the war",
+      "link": "https://www.france24.com/en/video/20251109-ukraine-women-are-taking-on-roles-that-were-done-by-men-before-the-war",
+      "published": "2025-11-09T10:11:04",
+      "content": "As Ukraine is forced to send more and more soldiers to the frontline, women are taking on roles that were traditionally done by men. Daniel Quinlan reports.",
+      "content_length": 156,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Lateinamerika-EU-Gipfel: Ein Treffen überschattet von Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/celac-eu-lateinamerika-gipfel-trump-100.html",
+      "published": "2025-11-09T10:04:11",
+      "content": "   Eigentlich geht es beim EU-Lateinamerika-Gipfel in Kolumbien um eine engere Zusammenarbeit. Doch die jüngsten US-Angriffe auf mutmaßliche Drogenboote überschatten das Treffen - und die EU scheint das Thema am liebsten meiden zu wollen. Von M.-K. Boese und A. Demmer.[mehr]",
+      "content_length": 275,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US Government shutdown hits 39th day",
+      "link": "https://www.france24.com/en/video/20251109-us-government-shutdown-hits-39th-day",
+      "published": "2025-11-09T10:02:45",
+      "content": "Over 1,400 US flights were canceled Saturday after airlines cut traffic due to the federal government shutdown. Nearly 6,000 more were delayed, down from 7,000 on Friday, FlightAware reports. The FAA is reducing capacity at 40 busy airports as unpaid, fatigued air traffic controllers work. Lawmakers remain deadlocked over ending the shutdown, now in its second week. France24 correspondent Fraser Jackson reports the latest.",
+      "content_length": 426,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Unglück - US-Behörde verhängt Flugverbot für MD-11-Maschinen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flugverbot-mcdonnell-absturz-100.html",
+      "published": "2025-11-09T09:04:46",
+      "content": "   Kurz nach dem Start verliert eine Maschine des Frachtunternehmens UPS ein Triebwerk und stürzt ab. Nun haben die USA Konsequenzen gezogen, die Folgen für den weltweiten Transport haben könnte.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "British Asian families urged to share stories of ‘greatest generation’ who fought for Britain",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/09/british-asian-families-share-stories-greatest-generation-fought-for-britain",
+      "published": "2025-11-09T07:00:27",
+      "content": "Half of UK public unaware of contribution made by 2.5m British Asian members of armed forces who served in second world warBritish Asian families are being urged to record the experiences of relatives who fought for Britain for “future generations” as data reveals half the British public don’t know that Indian members of the armed forces served in the second world war.The My Family Legacy project, backed by the Royal British Legion, is building an online archive of Asian veterans’ experiences to raise awareness of the shared histories and sacrifices of Britain’s diverse communities. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
