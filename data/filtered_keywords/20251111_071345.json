@@ -1,0 +1,1370 @@
+{
+  "metadata": {
+    "timestamp": "20251111_071345",
+    "input_file": "data/deduplicated/20251111_071345.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 153,
+      "filtered_count": 150,
+      "blacklisted_count": 3,
+      "reduction_rate": "2.0%",
+      "top_blacklist_reasons": {
+        "regen": 1,
+        "olympia": 1,
+        "temperatur": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Iraqis head to polls in election drawing scrutiny from US and Iran",
+      "link": "https://www.france24.com/en/video/20251111-iraqis-head-to-polls-in-election-drawing-scrutiny-from-us-and-iran",
+      "published": "2025-11-11T07:09:40",
+      "content": "Iraqis vote on Tuesday to elect a new parliament in a closely watched poll that comes at a pivotal moment for the country and region. Both Iran and the United States are monitoring the outcome as Iraq, unusually stable in recent years, seeks to move beyond decades of war and repression.",
+      "content_length": 287,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Einigung im US-Senat nun Richtungsstreit bei Demokraten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-senat-shutdown-einigung-regierung-100.html",
+      "published": "2025-11-11T07:09:34",
+      "content": "   Der US-Senat hat den Weg für ein Ende des Shutdowns freigemacht - auch mit den Stimmen mehrerer demokratischer Abweichler. Dort gibt es jetzt Ärger, die Partei steht vor einer Zerreißprobe. Von Samuel Jackisch.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bilger - Heizungsgesetz: Parlamentarischer Geschäftsführer der Union fordert Abschaffung und mahnt bei der SPD Koalitionsdisziplin an",
+      "link": "https://www.deutschlandfunk.de/heizungsgesetz-parlamentarischer-geschaeftsfuehrer-der-union-fordert-abschaffung-und-mahnt-bei-der-s-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "In der Diskussion um den Umgang mit dem Heizungsgesetz hat der Erste Parlamentarische Geschäftsführer der Union, Bilger, die SPD aufgefordert, sich an den Koalitionsvertrag zu halten.",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - US-Senat stimmt für Übergangsetat - Ende von Shutdown rückt näher",
+      "link": "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-uebergangsetat-ende-von-shutdown-rueckt-naeher-102.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Der US-Senat hat für einen Übergangsetat gestimmt, mit dem die längste Haushaltssperre in der Geschichte der Vereinigten Staaten beendet werden könnte. Der Haushalt geht nun an das Repräsentantenhaus, das ebenfalls zustimmen muss.",
+      "content_length": 230,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - \"Stabiles Syrien von großer Bedeutung\": US-Präsident Trump empfängt Übergangspräsident al-Scharaa - Sanktionen bleiben ausgesetzt",
+      "link": "https://www.deutschlandfunk.de/stabiles-syrien-von-grosser-bedeutung-us-praesident-trump-empfaengt-uebergangspraesident-al-scharaa--100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "US-Präsident Trump hat dem syrischen Übergangspräsidenten al-Scharaa seine Unterstützung ausgesprochen. Die USA verlängerten inzwischen den Stopp bestimmter Sanktionen gegen Syrien.",
+      "content_length": 181,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrdienst-Debatte - Union besteht nicht auf Losverfahren für Rekrutenauswahl",
+      "link": "https://www.deutschlandfunk.de/union-besteht-nicht-auf-losverfahren-fuer-rekrutenauswahl-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "In der Debatte um die Ausgestaltung des Wehrdienstes besteht die Union nicht mehr auf einem Losverfahren zur Auswahl junger Männer für die Musterung.",
+      "content_length": 149,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verständigung in Brüssel - EU-Einigung: Weniger Bürokratie und Kontrollen für Landwirte",
+      "link": "https://www.deutschlandfunk.de/eu-einigung-weniger-buerokratie-und-kontrollen-fuer-landwirte-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Landwirte in der EU sollen künftig von Bürkokratie entlastet werden.",
+      "content_length": 68,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verwertungsgesellschaft - Gema gegen ChatGPT-Firma OpenAI: Landgericht München I verkündet Entscheidung",
+      "link": "https://www.deutschlandfunk.de/gema-gegen-chatgpt-firma-openai-landgericht-muenchen-i-verkuendet-entscheidung-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Im Urheberrechtsprozess der Verwertungsgesellschaft Gema gegen den KI-Anbieter OpenAI will das Landgericht München I heute eine Entscheidung verkünden. Laut Gema verwendet OpenAI systematisch geschützte Songtexte von deutschen Urheberinnen und Urhebern, um seine Systeme generativer Künstlicher Intelligenz zu trainieren.",
+      "content_length": 321,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Karneval, Fastnacht und Fasching - Auftakt zur fünften Jahreszeit",
+      "link": "https://www.deutschlandfunk.de/auftakt-zur-fuenften-jahreszeit-104.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Karneval, Fastnacht oder Fasching: Pünktlich um 11:11 Uhr beginnt heute die fünfte Jahreszeit.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "UNO-Klimagipfel in Brasilien - Bundesentwicklungsministerin Alabali Radovan: Wichtiges Gesprächsforum, gerade in schwierigen Zeiten",
+      "link": "https://www.deutschlandfunk.de/bundesentwicklungsministerin-alabali-radovan-wichtiges-gespraechsforum-gerade-in-schwierigen-zeiten-102.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Die Bundesministerin für wirtschaftliche Zusammenarbeit, Alabali Radovan, sieht die UNO-Klimakonferenz in Brasilien gerade in schwierigen Zeiten als wichtiges Gesprächsforum.",
+      "content_length": 174,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "COP30 in Brasilien - Weltklimakonferenz beginnt mit Kampfansage an Klimaleugner",
+      "link": "https://www.deutschlandfunk.de/weltklimakonferenz-beginnt-mit-kampfansage-an-klimaleugner-108.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Zum Auftakt der 30. UNO-Klimakonferenz hat Brasiliens Präsident Lula da Silva die Teilnehmerstaaten dazu aufgefordert, sich Desinformationen zur Klimakrise entgegenzustellen. Es sei nun an der Zeit, den Leugnern eine neue Niederlage zuzufügen, sagte er in Belem. Der brasilianische COP-Präsident do Lago rief zu entschlossenem Handeln auf.",
+      "content_length": 339,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Israel - Parlament stimmt in erster Lesung für Todesstrafe für Terroristen",
+      "link": "https://www.deutschlandfunk.de/parlament-stimmt-in-erster-lesung-fuer-todesstrafe-fuer-terroristen-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Das israelische Parlament hat in erster Lesung für einen Gesetzentwurf gestimmt, der die Einführung der Todesstrafe für verurteilte Terroristen vorsieht.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "21 Millionen Stimmberechtigte - Im Irak wird ein neues Parlament gewählt",
+      "link": "https://www.deutschlandfunk.de/im-irak-wird-ein-neues-parlament-gewaehlt-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Im Irak hat die Parlamentswahl begonnen.",
+      "content_length": 40,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Appell - UNHCR ruft zu Spenden auf - fehlende staatliche Mittel erschweren Winter-Versorgung",
+      "link": "https://www.deutschlandfunk.de/unhcr-ruft-zu-spenden-auf-fehlende-staatliche-mittel-erschweren-winter-versorgung-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Das UNO-Flüchtlingshilfswerk kann nach eigenen Angaben wegen fehlender Mittel Millionen von Menschen deutlich weniger bei der Vorbereitung auf den Winter helfen.",
+      "content_length": 161,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südamerika - Wadephul dringt auf engere Partnerschaft zwischen Bolivien und EU",
+      "link": "https://www.deutschlandfunk.de/wadephul-dringt-auf-engere-partnerschaft-zwischen-bolivien-und-eu-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Bundesaußenminister Wadephul dringt auf eine engere Partnerschaft zwischen Bolivien und der EU sowie Deutschland.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - Bundesregierung verschärft laut \"Rheinischer Post\" Gesetzentwurf gegen Schwarzarbeit - auch Lieferdienste für Essen im Visier",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-verschaerft-laut-rheinischer-post-gesetzentwurf-gegen-schwarzarbeit-auch-lieferdiens-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Die Koalition aus Union und SPD verschärft nach einem Medienbericht ihren Gesetzentwurf zur Bekämpfung von Schwarzarbeit.",
+      "content_length": 121,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Standort Deutschland - Bundeswirtschaftsministerin Reiche schlägt Neuausrichtung der Wirtschaftspolitik vor",
+      "link": "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-schlaegt-neuausrichtung-der-wirtschaftspolitik-vor-112.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Bundeswirtschaftsministerin Reiche hat angesichts der wirtschaftlichen Schwäche Deutschlands eine Neuausrichtung der Wirtschaftspolitik vorgeschlagen.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sozialdemokraten - Schleswig-Holsteins SPD-Landeschefin Midyatli gibt Vorsitz ab",
+      "link": "https://www.deutschlandfunk.de/schleswig-holsteins-spd-landeschefin-midyatli-gibt-vorsitz-ab-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Die Landeschefin der SPD in Schleswig-Holstein, Midyatli, hat angekündigt, ihren Vorsitz abzugeben.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Magdeburg - Vorerst keine Genehmigung für Weihnachtsmarkt 2025 - Prozess um Anschlag begonnen",
+      "link": "https://www.deutschlandfunk.de/vorerst-keine-genehmigung-fuer-weihnachtsmarkt-2025-prozess-um-anschlag-begonnen-102.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Der Magdeburger Weihnachtsmarkt erhält in diesem Jahr wegen Kritik am Sicherheitskonzept vorerst keine Genehmigung.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Malaysia - Flüchtlingsboot mit 70 Rohingya gesunken",
+      "link": "https://www.deutschlandfunk.de/fluechtlingsboot-mit-70-rohingya-gesunken-104.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Nach dem Kentern eines Bootes mit Migranten vor der Küste im Grenzgebiet zwischen Malaysia und Thailand ist die Zahl der Toten gestiegen.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Indien - Explosion in Neu-Delhi - mindestens acht Tote",
+      "link": "https://www.deutschlandfunk.de/explosion-in-neu-delhi-mindestens-acht-tote-106.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "In der indischen Hauptstadt Neu-Delhi sind bei der Explosion eines Autos mindestens acht Menschen getötet und 20 verletzt worden.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - Autor David Szalay erhält renommierten Booker Prize",
+      "link": "https://www.deutschlandfunk.de/autor-david-szalay-erhaelt-renommierten-booker-prize-104.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Der britisch-ungarische Schriftsteller David Szalay hat mit seinem Roman \"Flesh\" den renommierten Booker Prize gewonnen.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza-Friedensplan - US-Sonderberater Kushner berät nächste Schritte mit Israels Regierung",
+      "link": "https://www.deutschlandfunk.de/us-sonderberater-kushner-beraet-naechste-schritte-mit-israels-regierung-108.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Der US-Sonderberater Kushner und Israels Regierungschef Netanjahu haben über die weitere Umsetzung des von den USA vermittelten Gaza-Friedensplans beraten.",
+      "content_length": 155,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Krankenversicherung - Warken setzt Zusatzbeitrag für gesetzlich Versicherte auf 2,9 Prozent fest",
+      "link": "https://www.deutschlandfunk.de/warken-setzt-zusatzbeitrag-fuer-gesetzlich-versicherte-auf-2-9-prozent-fest-110.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Bundesgesundheitsministerin Warken hat den durchschnittlichen Zusatzbeitrag für die gesetzliche Krankenversicherung im kommenden Jahr auf 2,9 Prozent festgelegt.",
+      "content_length": 161,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russland - Kreml weist Gerüchte über Zerwürfnis zwischen Putin und Lawrow zurück",
+      "link": "https://www.deutschlandfunk.de/kreml-weist-geruechte-ueber-zerwuerfnis-zwischen-putin-und-lawrow-zurueck-102.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Russland hat Berichte über ein Zerwürfnis zwischen Präsident Putin und seinem langjährigen Außenminister Lawrow dementiert.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bürgergeld - Initiatoren übergeben SPD-Mitgliederbegehren an Parteivorstand",
+      "link": "https://www.deutschlandfunk.de/initiatoren-uebergeben-spd-mitgliederbegehren-an-parteivorstand-108.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Die Initiatoren des SPD-Mitgliederbegehrens gegen die geplante Bürgergeldreform haben dem Parteivorstand mehr als 4.000 Unterschriften übergeben. Damit wurde die Schwelle erreicht, um das Verfahren beantragen zu können. Die Initiatoren fordern, auf eine Verschärfung der Sanktionen beim Bürgergeld zu verzichten und Betroffene besser zu unterstützen. Zudem solle sich die SPD \"populistischen Narrativen\" stärker entgegenstellen.",
+      "content_length": 428,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Litauen - Kaunas zum neuen Verteidigungsminister ernannt",
+      "link": "https://www.deutschlandfunk.de/kaunas-zum-neuen-verteidigungsminister-ernannt-106.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "In Litauen ist der Sozialdemokrat Kaunas zum neuen Verteidigungsminister des baltischen Staates ernannt worden.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Europäischer Gerichtshof - Entscheidung über EU-Richtlinie für angemessene Mindestlöhne",
+      "link": "https://www.deutschlandfunk.de/entscheidung-ueber-eu-richtlinie-fuer-angemessene-mindestloehne-100.html",
+      "published": "2025-11-11T07:09:00",
+      "content": "Der Europäische Gerichtshof urteilt heute über eine Klage gegen die EU-Richtlinie über angemessene Mindestlöhne.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US Senate passes bill to end government shutdown, sending it to House",
+      "link": "https://www.france24.com/en/video/20251111-us-senate-passes-bill-to-end-government-shutdown",
+      "published": "2025-11-11T06:58:43",
+      "content": "The longest US government shutdown moved closer to ending on Monday after several Democrats joined Republicans in a 60-40 vote for a compromise funding deal, drawing party backlash. The shutdown, now in its 40th day, has left over a million workers unpaid and caused major air travel disruptions.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Australia news live: John Howard urges Sussan Ley to ‘get together’ with PM on four-year federal parliamentary terms",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/11/australia-news-live-net-zero-nationals-liberals-coalition-sussan-ley-remembrance-day-nsw-neo-nazi-rally-police-chris-minns-ntwnfb",
+      "published": "2025-11-11T06:53:57",
+      "content": "Follow today’s news livePaul Keating says he advised Gough Whitlam to put John Kerr ‘under police arrest’ during dismissal sagaGet our breaking news email, free app or daily news podcastJohn Howard says the Whitlam episode empowered Australians to better decide the country’s futureRN’s Sally Sara spoke to former prime minister John Howard this morning about his own reflection on Gough Whitlam’s removal. Howard called Whitlam an “outstanding parliamentarian”, and one of the best he ever saw.I think the greatest lesson is that we have a very durable and workable constitution, which ultimately allowed the people of Australia to decide the country’s future.And there wasn’t any doubt that once the Australian people had a clear run at deciding who was going to govern their affairs, what their answer was.For someone like my mum, who’d waited a long, long time, 23 years to see the election of a Labor government, it was seen to be this intervention that was very unfair, that was something that they didn’t expect could ever happen in Australia. Continue reading...",
+      "content_length": 1070,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nauruan president makes surprise visit to meet Albanese government as another man quietly deported to Pacific island",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/nauruan-president-makes-surprise-visit-to-meet-albanese-government-as-another-man-quietly-deported-to-pacific-island",
+      "published": "2025-11-11T06:44:07",
+      "content": "President David Adeang was spotted by ABC cameras as Nauru received its fourth member from the NZYQ cohortFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Nauruan president has stopped by Parliament House for a brief unannounced meeting amid media reports of alleged links between security contracts offered to an Australian bikie gang and his Pacific island government.The president, David Adeang, was spotted by ABC cameras with a small entourage heading into Capital Hill on Tuesday afternoon to meet the home affairs minister, Tony Burke. Continue reading...",
+      "content_length": 630,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Aussicht auf Ende des Shutdowns hilft dem DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-aktien-boerse-110.html",
+      "published": "2025-11-11T06:39:11",
+      "content": "   Der Senat hat den Weg für ein Ende der längsten Haushaltssperre in der Geschichte der USA freigemacht. Das sorgt nicht nur für steigende Kurse an der Wall Street, sondern auch an der Frankfurter Börse.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tuesday briefing: What the BBC’s new crisis reveals about its failures – and future",
+      "link": "https://www.theguardian.com/world/2025/nov/11/tuesday-briefing-what-the-bbcs-new-crisis-reveals-about-its-failures-and-future",
+      "published": "2025-11-11T06:38:59",
+      "content": "In today’s newsletter: The nation’s public service broadcaster is at a critical juncture as it deals with governance misfires and a political agenda against itGood morning. In 2004, when Greg Dyke quit the BBC in the wake of the Hutton inquiry, a much younger me was at the beginning of my media career, working at BBC Online. I remember staff felt the relatively popular director general had been the victim of the government lashing out after the death of David Kelly, and a failure to produce convincing evidence of the fabled weapons of mass destruction that supposedly supported Tony Blair’s decision to invade Iraq.Many BBC staff will no doubt have been feeling a similar grievance after the abrupt resignations of director general Tim Davie and head of BBC News Deborah Turness on Sunday. They departed after a week of concerted attacks on the organisation orchestrated by the rightwing press and figures closely associated with the Conservative party – particularly Boris Johnson’s administration.UK politics | Rachel Reeves is planning to remove the two-child benefit cap in full in the November budget, in a move that could cost more than £3bn but lift 350,000 children out of poverty.Environment | Governments failing to shift to a low-carbon economy will be blamed for famine and conflict abroad, the UN’s climate chief warned at the start of Cop30 climate talks in Brazil.France | The former French president Nicholas Sarkozy has been released from prison, after a judge ruled he could serve the rest of his sentence at home, pending an appeal. Earlier he had told a Paris appeal court that his three weeks in jail had been a “nightmare”.Protest | Ministers banned Palestine Action despite being told by their advisers it could “inadvertently enhance” the group’s profile, an official government document written three months before the proscription of the group shows.Books | Hungarian-British author David Szalay has won the 2025 Booker prize for his novel Flesh. Continue reading...",
+      "content_length": 1998,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach 15 Jahren: Facebook nimmt externe Like- und Kommentar-Buttons offline",
+      "link": "https://www.heise.de/news/Nach-15-Jahren-Facebook-nimmt-Like-und-Kommentar-Buttons-offline-11073094.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-11T06:20:00",
+      "content": "15 Jahre lang gehörte der Like-Button von Facebook zu einem festen Bestandteil des Internets. Nun steht das Ende an, am 10. Februar soll er verschwinden.",
+      "content_length": 153,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wenn jede Minute zählt: Predictive Maintenance in der modernen Landwirtschaft",
+      "link": "https://www.heise.de/news/Wenn-jede-Minute-zaehlt-Predictive-Maintenance-in-der-modernen-Landwirtschaft-11072991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-11T06:15:00",
+      "content": "Maschinenausfälle in der Landwirtschaft können die Ernte und die Existenz bedrohen. Smarte Sensoren und KI-gestützte Wartung sollen vorbeugen.",
+      "content_length": 142,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "BBC under pressure: Diminished resources, oversight; increasingly violent criticism in public sphere",
+      "link": "https://www.france24.com/en/video/20251111-bbc-under-pressure-diminished-resources-oversight-increasingly-violent-criticism-in-public-sphere",
+      "published": "2025-11-11T06:11:51",
+      "content": "\"There is increasingly violent cynicism and criticism of the BBC amongst the public, but particularly amongst politicians,\" warns François Picard's Top Story guest: Professor Charlie Beckett, veteran journalist, editor and Professor of Practice and the London School of Economics' Director of Polis and the Polis/LSE JournalismAI project. Professor Beckett argues that the current turbulence at the BBC goes far beyond the fallout from a “bad edit” of Trump's infamous January 6th speech in a special edition of Panorama on Trump's second run for the presidency. Our guest asserts that the BBC's \"extraordinary\" loss of its top two executives is symptomatic of a decline in institutional trust, squeezed resources, weakened oversight and an environment in which politicised criticism and commercial pressure undermine the idea of an independent public service broadcaster. And the fragility of journalism is becoming more evident in a fractured hyper-politicised media eco‑system, where the audience demands relevance, the players fight for funding, and the mission becomes harder to maintain. Professor Beckett contends that if the BBC cannot defend its distinctiveness, transparency and value, we may lose not just a broadcaster but a valued global institution that has long stood for “objective, evidence‑based” journalism. The crisis, then, is both internal and external: \"In the same way that Donald Trump attacked media organisations that weren't slavishly loyal to him, so we're getting a much more partisan approach from politicians in the UK, and indeed from our newspapers, like the Daily Telegraph, which has always been very honestly right-wing, but is increasingly anti-BBC.",
+      "content_length": 1687,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "2026 World cup: France kick off decisive week for qualification",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251111-2026-world-cup-france-kick-off-decisive-week-for-qualification",
+      "published": "2025-11-11T06:06:50",
+      "content": "France face Ukraine and Azerbaijan to qualify for the 2026 World Cup.",
+      "content_length": 69,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Crime gangs in UK start making own branded weight-loss drugs",
+      "link": "https://www.theguardian.com/society/2025/nov/11/crime-gangs-in-uk-start-making-own-branded-weight-loss-drugs",
+      "published": "2025-11-11T06:00:10",
+      "content": "Medicines watchdog says criminals are designing packaging and branding to look like legitimate productOrganised crime gangs have begun manufacturing their own branded weight-loss drugs, designed to look like legitimate medicines, in what authorities warn is a significant threat.The Medicines and Healthcare products Regulatory Agency (MHRA) said the trend had only just emerged, leading them to conduct the largest single seizure of trafficked weight-loss drugs ever recorded by any global law enforcement agency. Continue reading...",
+      "content_length": 534,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nexperia row shows how China is weaponising trade – and winning",
+      "link": "https://www.theguardian.com/business/2025/nov/11/nexperia-row-china-trade-brussels-beijing-chips",
+      "published": "2025-11-11T06:00:09",
+      "content": "Experts say Brussels must stand up against Beijing using supplies of vital chips and minerals as ‘sword of Damocles’As interventions go it was pretty audacious. The Dutch government decision at the end of September to take over Nexperia, a Chinese-owned chip factory, almost brought the entire European car industry to a halt.Tensions between Europe and China de-escalated over the weekend as Beijing confirmed it would ease restrictions on automotive chip supplies to the EU, prompting sighs of relief in car factories around the world. Continue reading...",
+      "content_length": 557,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Koalition will Schwarzarbeit bei Lieferdiensten bekämpfen",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-schwarzarbeit-lieferdienste-100.html",
+      "published": "2025-11-11T05:59:41",
+      "content": "   Im Kampf gegen Schwarzarbeit nimmt die Bundesregierung Lieferdienste für Essen ins Visier. Neben Barbershops und Kosmetikstudios sollen auch für sie künftig strengere Regeln gelten.[mehr]",
+      "content_length": 190,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "India police investigate vehicle involved in fatal Delhi explosion",
+      "link": "https://www.theguardian.com/world/2025/nov/11/india-police-investigate-vehicle-fatal-delhi-explosion-blast",
+      "published": "2025-11-11T05:53:43",
+      "content": "Cause of the blast remained unknown on Tuesday morning, as investigators turned their focus to the final movements of the vehicle before it explodedPolice were investigating the explosion outside Delhi’s historic Red Fort that killed eight people, with authorities focusing on the final movements of the vehicle allegedly involved.Police said the explosion occurred around 7pm on Monday evening outside the Red Fort metro station, a peak time when Delhi’s old city is usually packed with people, bustling markets and heavy traffic. Continue reading...",
+      "content_length": 551,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Parlamentswahl: Iraks fragile Machtverteilung auf dem Prüfstand",
+      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-irak-104.html",
+      "published": "2025-11-11T05:21:56",
+      "content": "   Zur heutigen Parlamentswahl im Irak zeichnet Ministerpräsident al-Sudani das Bild von einem Land im Aufbruch. Die Opposition erkennt dagegen vor allem Stillstand. Und ein mächtiger Prediger ruft zum Wahlboykott auf. Von Moritz Behrendt.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Linda Reynolds’ bankruptcy proceedings against Brittany Higgins stalled by paperwork glitch",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/linda-reynolds-bankruptcy-proceedings-against-brittany-higgins-stalled-by-paperwork-glitch-ntwnfb",
+      "published": "2025-11-11T05:10:56",
+      "content": "Ex-Liberal senator attempts to recoup legal costs awarded after defamation win against her former political stafferFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA former senator’s bid to discover where Brittany Higgins’ $2.4m compensation payout went after their bruising defamation battle has been frustrated by a bankruptcy paperwork glitch.The former Liberal senator Linda Reynolds successfully sued Higgins over a series of social media posts the former defence minister believed damaged her reputation. Continue reading...",
+      "content_length": 594,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reiten - Wie Pferde im Breitensport leiden",
+      "link": "https://www.tagesschau.de/investigativ/mdr/pferdesport-verletzungen-blut-regeln-100.html",
+      "published": "2025-11-11T05:01:40",
+      "content": "   Blutspuren am Pferd führten bisher zum Ausschluss bei Wettkämpfen. Jetzt lockert der Weltreiterverband die Regel und löste in Deutschland Protest aus. Doch team.recherche zeigt: Die Probleme beginnen schon im Breitensport.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Advisers told ministers banning Palestine Action could make it more popular",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/11/advisers-told-ministers-banning-palestine-action-could-make-it-more-popular",
+      "published": "2025-11-11T05:00:11",
+      "content": "Briefing paper warned proscription could also heighten Muslim-Jewish tensions and be seen as favouring IsraelMinisters banned Palestine Action despite being told by their advisers it could “inadvertently enhance” the group’s profile, an official government document shows.The briefing paper was written three months before the proscription of the group, which was set up to take direct action to halt UK arms supplies to Israel. Continue reading...",
+      "content_length": 448,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hopes of Irish language revival in public life as Catherine Connolly takes office",
+      "link": "https://www.theguardian.com/world/2025/nov/11/language-revival-public-life-catherine-connolly-ireland-president",
+      "published": "2025-11-11T05:00:09",
+      "content": "Advocates say presidency could be ‘transformative moment’ for Ireland after Gaelic’s cultural breakthroughsThe Irish language has scored cultural breakthroughs with the film The Quiet Girl and the controversial rap trio Kneecap and is now about to acquire a new talisman: Catherine Connolly.When the independent leftwing politician is inaugurated as Ireland’s president on Tuesday, she will carry hopes of a transformational Gaelic revival. Continue reading...",
+      "content_length": 460,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Paul Keating says he advised Gough Whitlam to put John Kerr ‘under police arrest’ during dismissal saga",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/paul-keating-gough-whitlam-dismissal-comments-john-kerr-arrest",
+      "published": "2025-11-11T04:23:16",
+      "content": "Former PM calls incident a ‘coup’ but recalls both he and Whitlam were concerned about potential for standoff between military and policeThe dismissal: the day the governor general sacked the Whitlam government – in picturesGet our breaking news email, free app or daily news podcastThe former prime minister Paul Keating says he advised Gough Whitlam to arrest the then governor general Sir John Kerr at the height of the dismissal saga, calling the incident a “coup” from which Australian politics “never really recovered”.Keating, recently promoted to a junior ministry position in the Labor government when Prime Minister Whitlam was dismissed on 11 November 1975, said Kerr should have been detained by officers of the law, but admitted he was concerned about a potential standoff between military and police. Continue reading...",
+      "content_length": 834,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Senat stimmt für Übergangshaushalt",
+      "link": "https://www.tagesschau.de/ausland/amerika/senat-zu-shutdown-100.html",
+      "published": "2025-11-11T04:21:06",
+      "content": "   In den USA rückt eine - zumindest zeitlich begrenzte - Lösung des Regierungsstillstands näher. Der US-Senat stimmte  einem Übergangshaushalt zu, der die Finanzierung bis Ende Januar sicherstellen soll. Nun ist das Repräsentantenhaus an der Reihe.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japan and China in growing row after PM Takaichi says Taiwan conflict could trigger military deployment",
+      "link": "https://www.theguardian.com/world/2025/nov/11/japan-china-row-takaichi-taiwan-conflict-military-deployment",
+      "published": "2025-11-11T04:17:49",
+      "content": "New prime minister says an attack on Taiwan could trigger the deployment of her country’s self-defence forces if the conflict poses threat to JapanJapan and China are embroiled in a row about Tokyo’s potential military involvement in the event of a conflict over Taiwan.Beijing reacted angrily this month after Japan’s new prime minister, Sanae Takaichi, said an attack on Taiwan could trigger the deployment of her country’s self-defence forces if the conflict posed an existential threat to Japan. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Planes came within metres of hitting Melbourne airport workers in ‘terrifying’ incidents after runway shortened",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/planes-narrowly-avoided-collision-with-melbourne-airport-workers-after-runway-shortened-by-1600-metres",
+      "published": "2025-11-11T03:53:14",
+      "content": "Australian safety investigation finds serious accidents involving two planes in September 2023 were only avoided ‘by luck’ Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTwo passenger planes only narrowly avoided colliding with construction vehicles and workers during takeoff at Melbourne airport in 2023, in one case by less than five metres, because the flight crews were unaware the runway was nearly 1,600m shorter than usual, an Australian safety investigation has found.The incidents, described as “terrifying” for workers on the ground, have prompted changes to domestic and international practices on notifying flight crews about critical safety information to reduce the potential for human error in takeoff. Continue reading...",
+      "content_length": 804,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘I can’t breathe in this city’: inaction over Delhi’s suffocating pollution sparks rare protest",
+      "link": "https://www.theguardian.com/world/2025/nov/11/delhi-air-pollution-protest",
+      "published": "2025-11-11T03:42:31",
+      "content": "The failure by state governments to do anything about pollution means it has often been met with apathy. But at a rare protest anger and frustration were rifeAs a familiar smoky evening haze gathered over Delhi, the crowd began to assemble in their hundreds. Mothers and children, students, retirees and environmentalists were all united by a basic but desperate demand: the right to breathe safely in India’s capital.“Delhi is not a liveable city any more, it’s a death trap,” said Radhika Aggarwal, 33, an engineer who joined the protest on Sunday. Continue reading...",
+      "content_length": 570,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Warum Kroatien den Wehrdienst wieder einführt",
+      "link": "https://www.tagesschau.de/ausland/europa/kroatien-wehrdienst-100.html",
+      "published": "2025-11-11T03:36:03",
+      "content": "   In Deutschland wird seit Wochen über ein Comeback der Wehrpflicht debattiert. Kroatien hat bereits Fakten geschaffen. Ab Januar kommt die Wehrpflicht in dem NATO-Mitgliedsland zurück. Von David Freches.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US Senate approves bill to end shutdown, sending it to the House",
+      "link": "https://www.france24.com/en/live-news/20251111-us-senate-approves-bill-to-end-shutdown-sending-it-to-the-house",
+      "published": "2025-11-11T03:27:23",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Alan Jones sexual abuse case to hear from 139 witnesses over up to four months",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/alan-jones-sexual-abuse-case-to-hear-from-139-witnesses-across-over-up-to-four-months-ntwnfb",
+      "published": "2025-11-11T03:26:44",
+      "content": "Radio host denies 25 charges of indecent assault and two of sexual touching against nine alleged victimsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA massive sexual abuse hearing against Alan Jones has been locked in despite claims the radio host was kept in the dark about the police investigation against him.The 84-year-old faces 25 charges of indecent assault and two of sexual touching against nine alleged victims. Continue reading...",
+      "content_length": 509,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Protests as rightwing Charlie Kirk activist group makes final campus tour stop",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/charlie-kirk-turning-point-usa-berkeley",
+      "published": "2025-11-11T03:22:03",
+      "content": "People shout ‘Fascists out of Berkeley’ as Turning Point USA brings message to college with history of leftwing activismTurning Point USA, the influential rightwing college group founded by Charlie Kirk, has brought Kirk’s message to a campus with a long history of leftwing activism two months after his death.An event at the University of California, Berkeley, on Monday evening marked the chaotic last stop of the American Comeback tour, which Kirk had just begun at the time of his death at Utah Valley University. In the aftermath of Kirk’s fatal shooting, the events have come to serve as memorials, with prominent conservative speakers, including JD Vance, highlighting the staggering impact the controversial rightwing influencer’s death has had on American politics. Continue reading...",
+      "content_length": 795,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump asks supreme court to throw out jury’s finding in E Jean Carroll lawsuit",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/trump-supreme-court-e-jean-carroll-lawsuit",
+      "published": "2025-11-11T03:19:02",
+      "content": "Writer and author had testified, and won, at trial that the president had sexually assaulted her in the mid-1990sDonald Trump asked the US supreme court on Monday to throw out a jury’s finding in a civil lawsuit that he sexually abused writer E Jean Carroll at a Manhattan department store in the mid-1990s and later defamed her.Trump’s lawyers argued in a lengthy filing with the high court that allegations leading to the $5m verdict were “propped up” by a “series of indefensible evidentiary rulings” that allowed Carroll’s lawyers to present “highly inflammatory propensity evidence” against him. Continue reading...",
+      "content_length": 620,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Senate approves package that would end the longest government shutdown in US history – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/10/us-government-shutdown-record-donald-trump-syria-president-ahmed-al-sharaa-rudy-giuliani-pardon-politics-live-news-updates",
+      "published": "2025-11-11T03:03:46",
+      "content": "This live blog is now closed.Trump news at a glance: Senate passes funding package to end shutdown after Democrats break ranksThe eight Democratic and Independent senators who broke ranks with the party to advance a bill that would end the government shutdown –&nbsp;the longest in US history – have defended their decisions amid furor from their party and base.“What happened tonight is not the closing of a chapter. It’s the opening of an opportunity. What the chapter does close is the damaging shutdown that is only getting worse, that is only going to impact more and more people,” said Angus King, the Independent lawmaker from Maine who caucuses with Democrats. Continue reading...",
+      "content_length": 688,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Why Trump is threatening to sue the BBC for $1bn – podcast",
+      "link": "https://www.theguardian.com/news/audio/2025/nov/11/why-trump-is-threatening-to-sue-the-bbc-for-1bn-podcast",
+      "published": "2025-11-11T03:00:05",
+      "content": "The broadcaster’s director general and head of news resigned on Sunday night. But were they unforgivable mistakes made or were they victims of an internal coup? Michael Savage reportsIt was only a week ago that the Telegraph ran its first story about anti-Trump bias at the BBC and for many readers it may not have struck them as anything more than the usual rightwing criticisms of the national broadcaster. But the complaints about the editing of a Donald Trump clip in a Panorama programme about the January 6 riots and other criticisms made in a leaked 19-page dossier began gathering steam. BBC bosses stayed silent until suddenly, on Sunday, the director general and the head of news both resigned.How did it all come about? Michael Savage reports on who put the dossier together and outlines the criticisms – of BBC Arabia, and coverage of gender – in it. He explains why BBC watchers are saying that Conservative figures inside the corporation are to blame for the row and are calling it a coup. Helen Pidd asks why the BBC has not done more to defend itself and who will take on these difficult roles now. And finally, how damaging is it to public trust? Continue reading...",
+      "content_length": 1183,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump scolds air traffic controllers and blames rivals for economy in interview",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/donald-trump-interview-laura-ingraham-economy",
+      "published": "2025-11-11T02:47:53",
+      "content": "President put forth his version of ‘Trump Care’ and insisted ‘we have the greatest economy we ever had’Donald Trump chastised overwhelmed air traffic controllers, cast blame and doubt in response to poor economic indicators and claimed that increased access to food stamps had put “the country in jeopardy”, in an exclusive interview on Fox News Monday evening.Speaking with Laura Ingraham, the president shared his thoughts on a wide range of topics from housing mortgages to foreign policy, interspersed with insults flung at his political opponents that were teed up by Ingraham’s questions, including Gavin Newsom, the California governor and Chuck Schumer, the Senate minority leader. Continue reading...",
+      "content_length": 709,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Canada no longer measles-free as outbreaks spread",
+      "link": "https://www.theguardian.com/world/2025/nov/11/canada-loses-measles-free-elimination-status",
+      "published": "2025-11-11T02:23:30",
+      "content": "Canada has lost its measles elimination status as vaccination rates have slipped below the 95% coverage rate needed to stop outbreaksCanada is no longer measles-free because of ongoing outbreaks, international health experts said on Monday, as childhood vaccination rates fall and the highly contagious virus spreads across North and South America.The loss of the country’s measles elimination status comes more than a year after the highly contagious virus started spreading. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Senate approves funding deal to end longest US government shutdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/senate-approves-funding-package-government-shutdown",
+      "published": "2025-11-11T02:07:37",
+      "content": "Bill, which passed 60-40 but does not include key health concession demanded by Democrats, now heads to HouseThe Senate on Monday approved a funding package that is expected to bring to a close the longest government shutdown in US history, after a coalition of Democrats broke from their party and voted with Republicans, in a move that has enraged many in their caucus.The vote passed in a 60-40 tally, with seven Democrats and one independent joining all Republicans to approve a compromise deal that would fund most federal agencies through January. The agreement, which next goes to the House of Representatives, does not directly address the expiring tax credits for healthcare premiums, the issue at the center of the 40-day stalemate between Democrats and Republicans, though the Senate majority leader John Thune has promised a Senate vote later this year on the subsidies. Continue reading...",
+      "content_length": 902,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
+      "link": "https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/",
+      "published": "2025-11-11T00:39:13",
+      "content": "During an earnings call on Monday, Rocket Lab chief executive Pete Beck announced that the company’s medium-lift launch vehicle, Neutron, would not launch this year.\nFor anyone with the slightest understanding of the challenges involved in bringing a new rocket to the launch pad, as well as a calendar, the delay does not come as a surprise. Although Rocket Lab had been holding on to the possibility of launching Neutron this year publicly, it has been clear for months that a slip into 2026 was inevitable.\nAccording to Beck, speaking during a third-quarter 2025 earnings call, the new timeline has the company bringing Neutron to Launch Complex 2 at Wallops Flight Facility in Virginia during the first quarter of next year. The first launch is scheduled to occur “thereafter,” according to the company’s plans.Read full article\nComments",
+      "content_length": 841,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump lobt Syriens Übergangspräsident al-Scharaa",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zu-syrien-100.html",
+      "published": "2025-11-11T00:15:28",
+      "content": "   Für Syriens Übergangspräsident al-Scharaa fand US-Präsident Trump beim Besuch im Weißen Haus nur lobende Worte: Al-Scharaa sei ein \"harter Typ\", der Syrien wieder auf die Beine bringen könne. Die Sanktionen gegen das Land bleiben zunächst ausgesetzt.[mehr]",
+      "content_length": 259,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Success is shutting them down’: Met police in fight against illegal vape and phone shops",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/11/success-is-shutting-them-down-met-police-in-fight-against-vape-and-phone-shops",
+      "published": "2025-11-11T00:01:04",
+      "content": "Products that fail fire safety checks, are counterfeit and breach laws protecting children targeted in raids in LondonA rainbow of vapes and Apple-branded products light up the window of a south London shop as a small army of police prepare to march through the door.Officers have been watching the shop for months and have already carried out tests in independent labs on products bought there. Most have come back with a high risk rate for possible electrocution and fires. Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "China’s CO2 emissions have been flat or falling for past 18 months, analysis finds",
+      "link": "https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds",
+      "published": "2025-11-11T00:01:03",
+      "content": "World’s biggest polluter on track to hit peak emissions target early but miss goal for cutting carbon intensityChina’s carbon dioxide emissions have been flat or falling for 18 months, analysis reveals, adding evidence to the hope that the world’s biggest polluter has managed to hit its target of peak CO2 emissions well ahead of schedule.Rapid increases in the deployment of solar and wind power generation – which grew by 46% and 11% respectively in the third quarter of this year – meant the country’s energy sector emissions remained flat, even as the demand for electricity increased. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US declares partial suspension of sanctions on Syria after historic meeting",
+      "link": "https://www.theguardian.com/world/2025/nov/10/us-declares-partial-suspension-of-sanctions-on-syria-after-historic-meeting",
+      "published": "2025-11-10T23:55:08",
+      "content": "Ahmed al-Sharaa and Donald Trump hold first White House summit between a US and Syrian leader since 1946The US has announced a partial suspension of sanctions on Syria after a historic meeting in Washington DC between its new leader, Ahmed al-Sharaa, and Donald Trump.Monday’s meeting was the first summit between a US and Syrian leader at the White House since 1946. The meeting is part of a remarkable turnaround in US-Syrian relations after the fall of Bashar al-Assad, who had prosecuted a deadly civil war in the country from 2011 until his forces collapsed in December 2024. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Intuitive Machines—known for its Moon landers—will become a military contractor",
+      "link": "https://arstechnica.com/space/2025/11/intuitive-machines-known-for-its-moon-landers-will-become-a-military-contractor/",
+      "published": "2025-11-10T23:34:09",
+      "content": "Intuitive Machines announced last week an $800 million acquisition that will catapult the one-time startup into the space industry establishment.\nThe company’s planned purchase of Lanteris Space Systems, a satellite manufacturer you may have never heard of, is rather significant. Lanteris is the latest addition to a line of corporate brands that dates back to 1957. Until last month, the company was known as Maxar Space Systems. Its acquisition by Intuitive Machines would be perhaps the industry’s most evident example of a “New Space” firm buying up an “Old Space” company.\nThe deal would help Intuitive Machines expand beyond its core competency of Moon missions to the broader sector of satellite manufacturing and space services. Lanteris has been owned since 2023 by Advent International, a private equity firm. The transaction is expected to close early next year, subject to “customary regulatory approvals and closing conditions,” according to Intuitive Machines.Read full article\nComments",
+      "content_length": 1001,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "France probes jihadist plot linked to jailed Salah Abdeslam’s ex-girlfriend",
+      "link": "https://www.france24.com/en/france/20251110-france-jihadist-plot-abdeslam",
+      "published": "2025-11-10T23:27:21",
+      "content": "French magistrates are investigating the ex-girlfriend of jailed Paris attacks gunman Salah Abdeslam over an alleged jihadist plot, prosecutors said Monday. The probe comes as France prepares to mark the 10th anniversary of the 2015 Islamic State group attacks that killed 130 people.",
+      "content_length": 284,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US has sent $7.5m to Equatorial Guinea to accept noncitizens deportees",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money",
+      "published": "2025-11-10T23:18:05",
+      "content": "Country is one of world’s most repressive and corrupt, raising concerns over rights abuses of those deportedThe United States has sent $7.5m to the government of Equatorial Guinea, one of the world’s most repressive and corrupt regimes, to accept noncitizen deportees from the US to the West African nation, according to a leading congressional Democrat, current and former state department officials and public government data.The money sent to Equatorial Guinea is the first taken from a fund apportioned by Congress to address international refugee crises – and sometimes to facilitate the resettlement of refugees in the US – that has instead been repurposed under the Trump administration to hasten their deportation. Continue reading...",
+      "content_length": 742,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reiche spricht sich für Wachstums-Agenda aus",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/reiche-neuausrichtung-wirtschaftspolitik-100.html",
+      "published": "2025-11-10T23:14:04",
+      "content": "   \"Agenda 2030\" - die ist aus Sicht der Bundeswirtschaftsministerin dringend notwendig, um Deutschland wieder auf Wachstumskurs zu bringen. Dafür fordert Reiche Reformen - etwa weniger staatliche Regulierung.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BSW-Chefin Wagenknecht gibt Parteivorsitz ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-sahra-wagenknecht-parteivorsitz-102.html",
+      "published": "2025-11-10T23:13:59",
+      "content": "   Sahra Wagenknecht zieht sich aus der Parteiführung des BSW zurück. Entscheidend Einfluss nehmen will sie aber weiterhin. Ändert sich also nur das Organigramm? Von Alexander Budweg.[mehr]",
+      "content_length": 189,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Researchers isolate memorization from reasoning in AI neural networks",
+      "link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
+      "published": "2025-11-10T23:06:42",
+      "content": "When engineers build AI language models like GPT-5 from training data, at least two major processing features emerge: memorization (reciting exact text they’ve seen before, like famous quotes or passages from books) and reasoning (solving new problems using general principles). New research from AI startup Goodfire.ai provides the first potentially clear evidence that these different functions actually work through completely separate neural pathways in the model’s architecture.\nThe researchers discovered that this separation proves remarkably clean. In a preprint paper released in late October, they described that when they removed the memorization pathways, models lost 97 percent of their ability to recite training data verbatim but kept nearly all their “logical reasoning” ability intact.\nFor example, at layer 22 in Allen Institute for AI’s OLMo-7B language model, the bottom 50 percent of weight components showed 23 percent higher activation on memorized data, while the top 10 percent showed 26 percent higher activation on general, non-memorized text. This mechanistic split enabled the researchers to surgically remove memorization while preserving other capabilities.Read full article\nComments",
+      "content_length": 1214,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israeli bill proposing death penalty for ‘terrorists’ clears first parliamentary vote",
+      "link": "https://www.france24.com/en/middle-east/20251110-israel-bill-death-penalty-terrorists",
+      "published": "2025-11-10T22:59:56",
+      "content": "Israel’s parliament on Monday approved a bill in its first reading that would allow the death penalty for “terrorists”, a measure pushed by far-right National Security Minister Itamar Ben Gvir and aimed largely at Palestinians convicted of killing Israelis. The bill passed 39-16 and requires two more readings.",
+      "content_length": 311,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two dead after small plane on hurricane relief trip to Jamaica crashes in Florida",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/plane-crash-florida-hurricane-melissa-jamaica-relief",
+      "published": "2025-11-10T22:51:52",
+      "content": "Aircraft headed to island on Hurricane Melissa aid mission crashed into a pond in a neighborhood in Coral SpringsA small turboprop plane on a hurricane relief mission to Jamaica crashed into a pond in a gated residential neighborhood of the Fort Lauderdale suburb of Coral Springs, killing two people shortly after takeoff and narrowly missing homes, authorities and a local resident said.The Coral Springs police department confirmed the deaths in a statement Monday afternoon. But police did not provide further details about the occupants of the plane and did not immediately return messages seeking more details. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Siri Shortcuts now works with Samsung SmartThings routines",
+      "link": "https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support",
+      "published": "2025-11-10T22:49:43",
+      "content": "\n\n\n\t\n\t\t\n\nSamsung’s latest SmartThings update adds support for Siri Shortcuts. In a press release, Samsung announced that you can now use Siri to run SmartThings routines, allowing you to use Apple’s voice assistant to control your smart home.\n\nSiri Shortcuts is a feature in iOS that lets you run automations by asking Siri. These can either be created by the user in the Shortcuts app or by the manufacturers in their app.\n\nThis update should make it easier to control your SmartThings home using your iPhone, HomePod, or other Apple device. For example, you can now call on Siri to trigger your “Good morning” routine through SmartThings that automatically adjusts the lights, turns on your coffee maker, and opens your blinds when you wake up. \n\nSamsung is also enhancing its SmartThings app for Apple devices. On the Apple Watch, you can now see a full list of your devices, send commands, and carry out routines, while the SmartThings app for iOS gives you the ability to view and control up to five of your most recently used devices from your lock screen with Live Activities.",
+      "content_length": 1083,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump hosts Syria’s Sharaa at White House as Damascus joins anti-IS group coalition",
+      "link": "https://www.france24.com/en/americas/20251110-trump-hosts-syria-s-sharaa-at-white-house-damascus-to-join-anti-is-group-coalition",
+      "published": "2025-11-10T22:12:24",
+      "content": "US President Donald Trump hosted his Syrian counterpart President Ahmed al-Sharaa for unprecedented talks at the White House on Monday. Although the meeting was held behind closed doors and few policy details were provided afterward, Washington welcomed the once-pariah state into its international coalition to fight the Islamic State (IS) group.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Canada fought measles and measles won; virus now endemic after 1998 elimination",
+      "link": "https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/",
+      "published": "2025-11-10T22:10:04",
+      "content": "Canada has lost its measles elimination status, meaning the highly infectious virus is considered endemic once again in the country, The Pan American Health Organization (PAHO) announced Monday.\nThe determination was made by a committee of PAHO experts, who spent last week poring over disease data to assess the measles status of countries across the entire region. The fact that Canada has lost its elimination status means that the region of the Americas overall has also lost the status, which it achieved in 2016. Of the 35 countries and territories in the region—a health region designated by the World Health Organization—Canada is currently the only country where measles is considered to be spreading endemically, though other countries, namely the US and Mexico, are headed in the same direction.\nMeasles is considered eliminated when a country can go 12 months without continuous local spread. Sporadic cases brought in from international travel can continue to occur, potentially causing limited outbreaks. But elimination is lost and endemicity is declared only when transmission is sustained over the course of a year.Read full article\nComments",
+      "content_length": 1158,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Paramount Plus is getting a price hike in early 2026",
+      "link": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
+      "published": "2025-11-10T22:09:14",
+      "content": "\n\n\n\t\n\t\t\n\nParamount Plus is going up in price again. As part of its earnings report released on Monday, Paramount announced that it will raise prices for subscribers in the US on January 15th, 2026, bringing the ad-supported Essential plan from $7.99 to $8.99 per month, while the ad-free Premium plan will go from $12.99 to $13.99 per month.\n\nParamount says the price increase will “fuel continued reinvestment in the user experience and deliver an even stronger slate of programming” going forward. Like many other streamers, Paramount has hiked the price of its streaming service on an almost yearly basis. Paramount Plus raised prices in 2023 before hiking them further last June. It also recently raised prices in Canada and Australia.\n\nThe price change comes just months after Paramount completed its deal to merge with Skydance, kicking off some big shifts at the company, including mass layoffs and the appointment of The Free Press founder Bari Weiss as the head of CBS News. Paramount has also announced that it will require employees to return to the office full-time, five days a week, starting in January.\n\nDuring Skydance’s first few months of ownership, Paramount Plus added 1.4 million subscribers, bringing its total to 79.1 million. Paramount struck a $7.7 billion deal that will bring live UFC fights to its streaming service as well.\n\nAlong with price hikes, Paramount revealed that it’s “retiring” free trials for its streaming service and “reviewing discount practices.” The company also plans to update the technology stack behind Paramount Plus and its free, ad-supported streaming service Pluto TV to enhance their performance, and is looking into how it can use AI to offer better personalization and recommendations.\n\nUpdate, November 10th: Added pricing information.",
+      "content_length": 1793,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "COP30: has Bill Gates become a climate denier?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251110-cop30-has-bill-gates-become-a-climate-denier",
+      "published": "2025-11-10T22:04:30",
+      "content": "The U.N. climate talks opened this Monday in Brazil, with world leaders set to discuss new ways to tackle global warming. Meanwhile, the spread of climate disinformation has doubled since July. Among the viral claims circulating online: that even Bill Gates is now denying climate change. In reality, the tech billionaire published a memo calling for a “strategic pivot”, away from short-term emissions targets and towards climate adaptation. We take a closer look in this edition of Truth or Fake.",
+      "content_length": 498,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Syria's grand pivot : What next after Al-Sharaa's historic White House visit ?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251110-syria-s-grand-pivot-what-next-after-al-sharaa-s-historic-white-house-visit",
+      "published": "2025-11-10T22:03:19",
+      "content": "From radical insurgent with a 10-million dollar bounty on his head to a red carpet welcome at the White House, the rebranding of Ahmed Al Sharaa’s now complete.",
+      "content_length": 160,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nintendo&#8217;s upcoming Black Friday sale includes up to $30 off Switch classics",
+      "link": "https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale",
+      "published": "2025-11-10T22:00:00",
+      "content": "\n\n\n\t\n\tSuper Mario Odyssey will be available for $29.99.\t\n\nNintendo rarely offers big discounts on its own games and gear throughout the year, but opportunities to save are coming soon. The company announced that multiple retailers will offer discounts of up to $30 off of beloved Switch games, as well as temporary price cuts on its amiibo figures, and a $20 off discount on microSD Express cards that are only compatible with the Switch 2.\n\nThese discounts begin at slightly different times. If you’re shopping for games digitally through your Switch or Switch 2, you can get the jump on deals in Nintendo’s Cyber Deals sale starting November 20th and lasting through December 3rd at 11:59 PM PT.\n\nThen, Nintendo and select retailers will offer deals on physical versions of first-gen Switch games beginning November 23rd. First-party titles like Princess Peach: Showtime!, The Legend of Zelda: Echoes of Wisdom, and Luigi’s Mansion 3 will be available for $39.99 each ($20 off). You can also save on Super Mario Odyssey, Splatoon 3, and Paper Mario: The Thousand-Year Door, each of which will be available for $29.99 ($30 off).\n\nNotably, there are no deals on Nintendo Switch 2-exclusive titles; however, Echoes of Wisdom, Super Mario Odyssey, and Splatoon 3 all offer a downloadable Switch 2 update for free with purchase. Those updates generally provide smoother gameplay at higher resolutions on the newer handheld.\n\nIf you’re into collecting amiibo, Nintendo will also offer discounts on select models, including Tulin, Yunobo, and Ruji from The Legend of Zelda series, along with Street Fighter 6 figures of Jamie, Kimberly, and Luke. Finally, starting November 30th, Nintendo stores in New York and San Francisco, along with select retail stores, will offer $20 off Samsung microSD Express cards, so presumably, you’ll be able to get the $59.99 256GB for $39.99.",
+      "content_length": 1870,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best doorbell cameras",
+      "link": "https://www.theverge.com/22954554/best-video-doorbell-camera",
+      "published": "2025-11-10T21:45:00",
+      "content": "\n\n\n\t\n\t\t\n\nWith a smart video doorbell, your front door’s communication skills go from 1980s landline to a modern smartphone. Combining a motion-activated camera with a microphone, speaker, and buzzer, a doorbell camera sends alerts to your phone, allowing you to see who’s at the door without needing to open it or even be at home. Whether you’re curled up on the couch, hard at work in your office, or sunning on a beach in the Bahamas, a video doorbell keeps you in touch with what’s happening on your doorstep.\n\nI’ve tested dozens of video doorbells, and while there’s no one-size-fits-all, like a smartphone, it’s a personal choice, I have thoughts on which are the best of the best and which work well for specific use cases.\n\nMy top advice is to use the existing doorbell wires if you have them. Wired doorbells are generally cheaper, work better, and are more compact, so they tend to look nicer.\n\nIf you don’t have wires and don’t want to pay for an electrician to run them, try using an AC power adapter (Ring and Google Nest sell their own; you can also find generic ones).&nbsp;But if all else fails, I’ve got recommendations for good battery-powered buzzers. Just plan to pick up an extra battery when you purchase, or factor in removing it from your door every few months to charge it for a few hours.\n\nBest doorbell camera\nNest Doorbell (wired, first generation)\nWith 24/7 recording, facial recognition, reliable smart alerts, and some free video recording, Google’s wired doorbell is the best option for most people. \n\nWhere to Buy: $179.99 at Google $179.99 at Best Buy $179.99 at The Home Depot\nVideo quality:&nbsp;960 x 1280p, 6x zoom, HDR /&nbsp;Smart alerts: Person, package, animal, vehicle, and facial recognition ($) Aspect ratio:&nbsp;3:4 /&nbsp;Field of view:&nbsp;145 degrees diagonal /&nbsp;Power options:&nbsp;Wired /&nbsp;Wi-Fi:&nbsp;2.4GHz and 5GHz /&nbsp;Storage:&nbsp;Cloud and local /&nbsp;Subscription fee:&nbsp;$10 a month&nbsp;/&nbsp;Works with:&nbsp;Alexa, Google, SmartThings\n\nThe Nest Doorbell Wired (2nd-gen) can record 24/7, and scrolling through a continuous timeline view of everything that’s happened at your front door can be very helpful if you don’t want to miss anything. This, along with a good price, great video quality, the ability to tell you what and who is at your door, and some free recorded clips, make it the best doorbell for most people.\n\nThe Nest Wired is also the best video doorbell that works with Google Home, and the best for protecting your packages. Its proactive package watch feature tells you when a package arrives and sends another alert when it’s gone. In my testing, it worked very well.\n\nUnlike many competitors — such as Ring and Arlo — Google doesn’t charge for smart notifications. The Nest Wired will tell you if it’s a person, package, animal, or vehicle at your door for free. You also get free activity zones to cut down on unwanted notifications, and three free hours of event-based recordings, thanks to local storage and local processing.\n\nYou can, in theory, use this doorbell without paying a subscription\n\nBut three hours isn’t enough to be particularly useful, and to get recorded video, you need a Google Home Premium subscription (starting at $10 per month, $100 per year). This does cover all your Google Nest cameras, though, and it adds Nest’s excellent Familiar Faces feature, which tells you who is at your door, plus new Gemini for Home features.\n\nIf you want 24/7 recording, you need Google Home Premium Advanced ($20 per month, $200 a year), but again, this subscription applies to all Google Nest cameras you have.\n\nOn paper, the Nest doesn’t have the best specs; the second-generation Ring Wired Pro is technically better. But it does deliver a 960 x 1280 pixel resolution with a 6x digital zoom, and video quality is very good, thanks to some digital trickery. Its 3:4 portrait aspect ratio and 145-degree field of view are very good, and I could see my porch from top to bottom and a fair amount from side to side.\n\nOn-device AI makes the Nest speedy with notifications, and it delivers rich alerts to both your phone and watch. These are interactive, allowing you to press and hold the video to see a clip and activate one of the three preset quick responses. It’s also quick to call up live video.\n\nNest’s doorbells and cameras work with Nest and Amazon Alexa smart displays for viewing a live feed. Google also now lets you have a live stream pull up automatically on your Google TV when someone rings the doorbell — a super handy feature.\n\nThere are a few quirks. There’s no reliable way to snooze notifications from the doorbell, and if you use multiple Nest speakers or displays, they’ll all announce your visitors. Not great if you have a Nest Mini in your kid’s nursery.\n\nGoogle recently launched a&nbsp;search and description feature&nbsp;for its cameras as part of Gemini for Home, its new AI-powered smart home features. This will send an alert describing exactly what’s happening in a clip, providing more context before opening the app. You’ll also be able to search through footage for specific events — like kids on bikes. We’re starting to test this now; it requires a Google Home Premium subscription.\n\nRead my full Nest Doorbell wired review.\n\nBest battery-powered doorbell camera\nRing Battery Doorbell Plus\nThis is a great battery-powered buzzer with excellent video quality, a good head-to-toe view, and very speedy response times for a battery doorbell. It integrates well with Amazon Alexa and can record locally to a Ring Alarm Pro, but the battery only lasts about two months unless you turn on battery-saving features.\n\nWhere to Buy: $149.99 $89.99 at Best Buy $149.99 $79.99 at Target (With Circle) $149.99 $79.99 at Amazon\nVideo quality:&nbsp;1536 x 1536p, HDR, color night vision /&nbsp;Smart Alerts: Person, package ($) Aspect ratio:&nbsp;1:1 /&nbsp;Field of view:&nbsp;150 degrees horizontal, 150 degrees vertical /&nbsp;Power options:&nbsp;Battery, wired trickle charge, solar /&nbsp;Wi-Fi:&nbsp;2.4GHz /&nbsp;Storage:&nbsp;Cloud and local (with Ring Alarm Pro) /&nbsp;Subscription fee:&nbsp;$4.99 a month&nbsp;/&nbsp;Works with:&nbsp;Amazon Alexa, Samsung SmartThings\n\nIf you really want a battery-powered buzzer, the Ring Battery Doorbell Plus is the way to go. It’s cheaper than the Ring Battery Pro, while still offering a head-to-toe view and high-quality video resolution to provide a clear picture of what’s happening at your door.\n\nUnlike the $100 Ring Battery Doorbell, the Plus uses removable, rechargeable batteries, making it easier to keep your doorbell charged. Just have a second on hand, charged and ready to swap in when you get low. Most other doorbells require you to take them down to recharge.\n\nThe Plus also has color night vision and was more responsive than any other non-Ring battery doorbell I’ve tested. It pulled up a live view in under four seconds, compared with upwards of 10 seconds for most others.\n\nAs with other battery-powered doorbells, there’s no preroll. If catching people as they approach your door — not just at your door — is crucial, consider the Battery Doorbell Pro ($229.99). That model adds preroll and improved motion detection using radar, which significantly cuts down on nuisance alerts.\n\nIt’s only really worth spending the extra $80 if you have lots of trees or passing cars in front of your door and/or you want to make sure you see the whole event when someone approaches your door. The Pro is also compatible with 5GHz Wi-Fi, which could mean faster responses if your front door is close enough to your router. The Plus is 2.4GHz only.\n\nBattery life isn’t great on either doorbell. They last around two months with all the features turned on except for extra-long recordings (the default is 30 seconds, but it can go up to 120). You can tweak settings to reduce power consumption, but then you have to give up features like HDR (which makes it easier to see faces) and snapshot capture, which takes a picture every five minutes to give you a better idea of what’s been happening at your door.\n\nAs with all Ring doorbells, there are no animal or vehicle alerts, only people and packages. These require a Ring Home plan starting at $4.99 a month, or $49.99 per year, which also includes 180 days of recorded video.\n\nAn AI-powered search feature introduced in 2024 lets you search recorded footage for things like animals, vehicles, and even the color of the coat you wore when you left the house. It’s handy for understanding what’s been going on around your home, but you still can’t get an alert when your cat is sitting on your porch.\n\nOther free features include pre-recorded quick replies, the option to set a motion alert schedule, live view, and two-way audio. The Plus can announce visitors on Echo speakers and automatically initiate a two-way audio/video call on an Echo Show. It won’t work with your existing chime unless you wire it (which also trickle-charges the battery), but Ring sells a plug-in chime.\n\nThe Plus also works with&nbsp;Ring Edge, a local storage and processing option&nbsp;that requires a&nbsp;Ring Alarm Pro&nbsp;smart hub and a Ring Home Premium subscription ($20 a month, $200 per year). This adds cellular backup through its built-in Eero Wifi system, so it can keep your doorbell online if both the power and internet go out.\n\nBest budget doorbell camera\nBlink Video Doorbell (first generation)\nBlink’s first-generation buzzer is the best if you’re looking for a budget-friendly option with motion-activated recording and alerts, night vision, two-way audio, and up to two years of battery life. \n\nWhere to Buy: $59.99 at Amazon $59.99 at Lowe’s $59.99 at The Home Depot\nVideo quality:&nbsp;1080p /&nbsp;Smart alerts:&nbsp;None /&nbsp;Aspect ratio:&nbsp;16:9 /&nbsp;Field of view:&nbsp;135 degrees horizontal, 80 degrees vertical /&nbsp;Power options:&nbsp;Wired or battery /&nbsp;Wi-Fi:&nbsp;2.4GHz /&nbsp;Storage:&nbsp;Cloud or local with a Sync Module /&nbsp;Subscription fee:&nbsp;$3 a month&nbsp;/&nbsp;Works with:&nbsp;Amazon Alexa\n\nThe first-generation Blink Video Doorbell is the best cheap doorbell with a no-subscription option. And while it works as a wired doorbell, it’s also a good option for a battery-powered buzzer, as it can go up to&nbsp;two years&nbsp;on two AAs. I don’t&nbsp;love&nbsp;this doorbell, as video and audio quality are not great, but it’s cheap, it gets the job done, and that battery life is phenomenal.\n\nThe Blink doesn’t have smart alerts or quick replies, and it only records 1080p video at a standard 16:9 aspect ratio). But the basics are here: motion-activated recording (with a max of 30 seconds), alerts, live view (with caveats), night vision, motion zones, and two-way audio.\n\nIf you want to pay $50 (often less) to have a camera at your door and be done with it, get the Blink.&nbsp;Cloud storage is also a bargain at $3 a month ($30 a year), or you can do local storage with the Sync Module 2&nbsp;and a USB stick. You need the Sync Module to initiate a live view through the camera in the app (or you have to pay for the subscription). Without it, you can only see video if there’s a motion event or someone rings the doorbell.\n\nThe Sync Module is sold with the doorbell as a “doorbell system” for $70, and should pay for itself compared to a monthly subscription.\n\nUniquely for a battery-powered doorbell, the Blink can&nbsp;also&nbsp;be a true hardwired doorbell\n\nThe biggest selling point for&nbsp;Blink&nbsp;is the feature that makes its similarly inexpensive&nbsp;security cameras&nbsp;so attractive: up to two years of battery life on two AA lithium batteries. The company has developed a super energy-efficient chip that will power its cameras longer than any other doorbell I’ve tested. (I managed almost a year with&nbsp;very heavy use).&nbsp;\n\nUniquely for a battery-powered doorbell, the Blink can&nbsp;also&nbsp;be a true hardwired doorbell. When wired, it will activate an existing chime (something neither the&nbsp;sub-$100 Ring&nbsp;nor&nbsp;Wyze&nbsp;doorbells can do) and provide constant power — not just trickle charge. This means it can wake up faster than a battery-powered buzzer and catch your visitor as they arrive. Wiring also adds on-demand two-way audio and live view (otherwise, you can only see the stream if there’s a motion event at the doorbell or someone presses the buzzer.)\n\nThe Blink comes in white or black and, because it uses just two AA batteries, isn’t as huge as most battery-powered doorbells, making it a more discreet option. However, it is a giant pain in the neck to install; make sure to follow the&nbsp;video instructions&nbsp;Blink provides closely to save a lot of frustration.\n\nThe biggest drawbacks are lower video quality and poor audio quality (it can be staticky, and it’s push-to-talk — not full duplex), short recording length, and no smart alerts. The app is also a bit tricky to navigate. It doesn’t work with Google Home, but it works great with Alexa, and you can see a live view on Echo Show devices and use any Echo speaker as an indoor chime.\n\nNote: Blink recently launched a second-generation video doorbell with higher image resolution, a head-to-toe view, and person detection for the same price. I plan to test this soon. You can read more details here.\n\nBest doorbell camera without a subscription\nTP-Link Tapo D225 Video Doorbell Camera\nAt under $100, this feature-packed, subscription-free doorbell offers a lot of value, including free local recording, 24/7 recording, and smart alerts, plus a robust smart home ecosystem. It’s big, you need a microSD card for recording, and there’s no HDR, but it’s a solid choice.\n\nWhere to Buy: $99.99 $89.99 at Amazon $99.99 $89.99 at Tapo\nVideo quality:&nbsp;2K HD (no HDR) /&nbsp;Smart alerts: People, packages, pets, vehicles (free) Aspect ratio:&nbsp;4:3 /&nbsp;Field of view:&nbsp;180 degrees horizontal /&nbsp;Power options:&nbsp;Battery, wired trickle charge /&nbsp;Wi-Fi:&nbsp;2.4GHz /&nbsp;Storage:&nbsp;microSD card or cloud /&nbsp;Subscription fee:&nbsp;$2.79 a month&nbsp;/&nbsp;Works with:&nbsp;Amazon Alexa, Google Home\n\nYou can use any doorbell on this list without a subscription, but you may sacrifice features like smart alerts, recorded video, and 24/7 continuous recording. If you want these but don’t want to pay a monthly fee, TP-Link’s Tapo D225 is an excellent choice.\n\nA wired and battery-powered doorbell, the D225 offers free smart alerts for people, packages, pets, and vehicles and can record locally to a microSD card (purchased separately) without paying a subscription. There is an optional cloud service if you want to store your video offsite that also adds rich notifications (where a clip or image shows in the notification), but no other features are locked behind a paywall.\n\nIt is a chunky doorbell and may not meet the spousal approval factor\n\nTo get the free recording of motion-activated events, you just need to insert a microSD card (up to 512GB) into the doorbell. While it can run on its built-in 10,000mAh battery, you will need to wire it up for continuous 24/7 recording. This will also trickle charge the battery, and the doorbell will still work and record video, even if your power and Wi-Fi go out.\n\nThere are a few hoops to jump through to get 24/7 recording working, which can be a bit confusing in the slightly cluttered Tapo app. However, once set up, it will capture everything that happens. This is a great option, considering Nest charges $15 a month for 24/7 recording.\n\nThe D225 also provides good video quality, a decent zoom, and a nice 4:3 aspect ratio that clearly shows your entire porch from top to bottom and a good view from side to side. There is no HDR imaging, though, so if your porch is covered, it can be hard to make out faces in some lights.\n\n\n\t\n\t\t\n\n\n\n\n\n\t\n\n\nThe doorbell can work with your existing chime (although, oddly, not if you enable 24/7 recording) but also comes with a plug-in chime. If you don’t wire it, you’ll have to remove it to charge, but the large battery can last up to eight months. The downside is that it is a huge, chunky doorbell, which may not meet the spousal approval factor for a good-looking doorbell.\n\nAnother neat feature of the Tapo is doorbell calling. When someone rings your doorbell, the alert comes in like a phone call, making it less likely that you’ll miss it. This is something first offered on Arlo buzzers, and Ring says it’s bringing it to its line.\n\nAs Tapo also offers a wide range of smart home products — including security cameras, smart lights,&nbsp;and robot vacuum cleaners — you can tie your doorbell into smart home routines.\n\nIf you have lots of devices, the Tapo app can get a bit cluttered. But it’s easy enough to use and packed with features, including quick replies, a privacy mode that turns the camera off, and the ability to schedule notifications, set detection zones, and specify the type of alert you want to get from each one (e.g., only notify me if you see people in this zone and packages in this zone).\n\nRead my full Tapo D225 review.\n\nMore expensive, but more flexible\nReolink Battery Doorbell\nThe Reolink is sleeker than the Tapo, with very good video quality and HDR support but no 24/7 recording. It can record local video on a microSD card, Reolink Hub, or FTP server and connect to a platform like Home Assistant. But its battery doesn’t last as long as Tapo’s, the app can be confusing, and the smart alerts are spotty. It works with Amazon Alexa and Google Home.\n\nWhere to Buy: $119.99 at Amazon $119.99 at Reolink\nBest wired video doorbell that works with Amazon Alexa and Ring\nRing Wired Doorbell Pro (second-generation)\nThe second-generation Ring doorbell has the best video quality, good connectivity, and excellent motion detection. It works smoothly with Amazon Alexa but is expensive, requires a subscription for most features, and doesn’t offer 24/7 recording.\n\nWhere to Buy: $229.99 $129.99 at Best Buy $229.99 $129.99 at Ring $229.99 $129.99 at The Home Depot\nVideo quality:&nbsp;1536 x 1536p, HDR /&nbsp;Smart alerts: Person, package ($) Aspect ratio:&nbsp;1:1 /&nbsp;Field of view:&nbsp;150 degrees horizontal, 150 degrees vertical /&nbsp;Power options:&nbsp;Wired /&nbsp;Wi-Fi:&nbsp;2.4GHz and 5GHz /&nbsp;Storage:&nbsp;Cloud and local (with Ring Alarm Pro) /&nbsp;Subscription fee:&nbsp;$4.99 a month&nbsp;/&nbsp;Works with:&nbsp;Amazon Alexa, Samsung SmartThings\n\nThe second-generation Ring Wired Doorbell Pro — previously my top pick — is the best wired doorbell camera that works with Amazon Alexa and integrates with Ring Alarm and other Ring cameras. It’s more expensive than the Nest Wired — which also works with Alexa — but its video is higher quality and much brighter.\n\nIt has an ideal square aspect ratio for a full front porch view, speedy notifications, and impressively accurate motion detection using three separate sensors — radar, video analysis, and passive infrared. It also has a nice slim design and multiple faceplate options to fit your decor.\n\nBut there’s no free video recording, no option for 24/7 recording (yet), and the smart alerts are limited to people and packages. However, you can now search for things like vehicles and animals after the fact with Ring’s&nbsp;Smart Video Search feature. This makes tracking down my cat or checking which delivery driver came by a little easier.\n\nThe Ring Pro also works with Samsung SmartThings, and while it doesn’t support Apple Home, it can be integrated with extra hardware. There’s no support for Google Home.\n\nA true wired doorbell, the Ring Pro is one of the most responsive doorbells I’ve tested, delivering notifications immediately. It also has the best range and connectivity, and built-in, full-color preroll helps ensure you don’t miss any crucial action.\n\nThe Pro has good color night vision, dual-band Wi-Fi, and smart responses (which let your doorbell talk to your visitor for you). The Ring app is best in class, and there are pages of settings you can tinker with. Plus, the timeline view for scrolling through your recordings is very good.\n\nThe Pro will work with your existing doorbell chime, plus Ring sells a plug-in Chime and Chime Wi-Fi extender that can help boost connectivity while providing a selection of fun doorbell tones.\n\nAs with most doorbell cameras, the Pro can use Echo smart speakers to announce when someone is at the door. As a Ring doorbell, it can also&nbsp;automatically pull up a live feed of your front door on an Echo Show&nbsp;or Fire TV-enabled television when someone presses the doorbell.\n\nThe downside is that the Pro is expensive. Its subscription fee starts at $4.99 a month (or $49.99 a year). This adds recorded footage, smart alerts, and an extra six seconds of preroll video, which, in lieu of 24/7 recording, provides plenty of time around motion events to catch all the action.\n\nThe Pro works with&nbsp;Ring Edge&nbsp;for local storage and video processing, plus the option of cellular backup. But you need a Ring Alarm Pro and Ring Home Premium subscription for this, which costs $20 a month and no longer includes professional monitoring of your alarm (that’s now a $10 add-on).\n\nRing added 24/7 recording to some wired cameras, a feature that’s included in the $20-a-month Ring Home Premium plan. While this isn’t coming to the wired doorbells at launch, Ring has said the feature will expand to more devices soon. \n\nA battery-powered alternative\nRing Battery Doorbell Pro\nIf you like the sound of the Wired Pro but don’t have wires, the Ring Battery Doorbell Pro has almost all of the same features —  including head-to-toe view, excellent video, dual-band Wi-Fi, color preroll, color night vision, and noise-canceling audio — in a battery package. It also features radar motion detection, which cuts down on nuisance notifications, and is a great alternative to the Pro 2.\n\nWhere to Buy: $229.99 $129.99 at Amazon $229.99 $199.99 at Best Buy $229.99 $199.99 at The Home Depot\nA great wired doorbell camera for Ecobee users\nEcobee Smart Doorbell Camera\nThis is the only video doorbell that can use an Ecobee thermostat as a video intercom, making it a no-brainer for Ecobee households, as long as you can hook it to your doorbell wiring. \n\nWhere to Buy: $159.99 at The Home Depot $159.99 at Ecobee\nVideo quality:&nbsp;1080p, 8x zoom, color and IR night vision /&nbsp;Smart Alerts: Person, package Aspect ratio:&nbsp;3:4 portrait /&nbsp;Field of view:&nbsp;187 degrees diagonal /&nbsp;Power options:&nbsp;Wired /&nbsp;Wi-Fi:&nbsp;2.4GHz, 5GHz /&nbsp;Storage:&nbsp;Cloud /&nbsp;Subscription fee:&nbsp;$5 a month or $50 a year &nbsp;/&nbsp;Works with:&nbsp;Amazon Alexa, Apple Home, Google Home\n\nThe Ecobee Smart Doorbell Camera is a great wired doorbell camera and the only one that can use an Ecobee thermostat as a video intercom — a neat feature. It sends fast, accurate alerts for people and packages, and thanks to radar detection and computer vision motion detection, it never once sent me a false alert.\n\nThe Ecobee has a comprehensive 187-degree diagonal field of view that lets you see top to bottom and side to side and offers decent 1080p HD video. A subscription is required for viewing recorded video, $5 a month / $50 a year, but alerts for people and packages are free. In 2024, Ecobee introduced the ability to control your Yale or August Wi-Fi-enabled door lock directly from its app, so you can more easily unlock the door for someone from afar.\n\nOne quirk is that while the Ecobee records all motion (if you subscribe), it only alerts you if it sees people or packages. This does cut down on the number of alerts you get, but I’d like the option to turn motion alerts on, mainly so I can know when my dog has gotten out and is sitting at my front door (especially because there are no animal or vehicle alerts). The doorbell does record all motion events for up to two minutes, so you can go back and view them, but you won’t get notified.\n\nThe Ecobee works with Apple Home and can ring a HomePod as a chime (as well as your existing chime), plus pull up a live view on your Apple TV. But it doesn’t support HomeKit Secure Video, so you have to pay Ecobee’s subscription fee if you want recorded videos. It also works with Amazon Alexa and recently added support for Google Home. If you have an Ecobee thermostat in a convenient location, this is an excellent option.\n\nRead my full Ecobee Smart Doorbell Camera review.\n\nBest video doorbell camera for Apple HomeKit Secure Video\nAqara G4 Video Doorbell\nThe Aqara G4 is an inexpensive HomeKit Secure Video doorbell that also works with Alexa and Google Home. It’s powered by batteries, wires or both, and offers 24/7 local recording. But a 16:9 aspect ratio and poorer video quality let it down. \n\nWhere to Buy: $119.99 $89.99 at Amazon $119.99 at The Home Depot\nVideo quality:&nbsp;1080p /&nbsp;Smart Alerts: Person, facial recognition and person, facial recognition, packages with HSV, / Aspect ratio:&nbsp;16:9 /&nbsp;Field of view:&nbsp;162 degrees horizontal /&nbsp;Power options:&nbsp;Wired or battery /&nbsp;Wi-Fi:&nbsp;2.4GHz /&nbsp;Storage:&nbsp;Cloud and local /&nbsp;Subscription fee:&nbsp;Seven days of free cloud storage or 99 cents a month with&nbsp;iCloud /&nbsp;Works with:&nbsp;Apple Home, Amazon Alexa, Google Home\n\nAqara’s G4 is currently the best video doorbell for Apple Home users, especially if you want 24/7 video recording. It’s also the only battery-powered doorbell that’s compatible with Apple Home, and it works with HomeKit Secure Video.\n\nIt runs on six standard AA batteries and can be hardwired to support 24/7 video recording (through Aqara’s app, though, not in Apple Home). It’s jam-packed with features, but it’s probably best suited for those who live in apartments as its landscape aspect ratio means it can’t really see packages at the doorstep, and it’s not very weather-resistant.\n\nAt $120, it’s the least expensive HomeKit option and pairs with the Aqara U100 smart lock (which also works with Apple Home and Home Key) for a nice, fully Apple Home-compatible setup on your front door. As a bonus, you can easily unlock the door from the same screen as viewing your doorbell footage.\n\nDownsides include a 16:9 aspect ratio (a problem if you want to see packages on your porch), no HDR imaging, which delivers pretty bad video quality, and a finicky chime box that has to be plugged in inside and near the doorbell. That chime also houses a microSD card, which is required for 24/7 recording. Unfortunately, the G4 can’t ring an existing electronic chime, but the chime box is plenty loud, and you can customize the heck out of the sounds.\n\nThe G4 has smart alerts for people, packages, animals, and vehicles, facial recognition, and the option to announce who is at the door on a connected HomePod or HomePod Mini (you need an Apple Home hub to use this in HomeKit).\n\nIt responded quickly to doorbell rings and motion alerts, but I had some connectivity issues. Plus, occasionally, I got an overheating warning while testing in May 2024 — and that was before the heatwave we experienced in South Carolina this summer.\n\nAqara has its own app, which has a ton of innovative features, including custom ringtones for different people, a voice changer, and the option to have your smart home devices react depending on who is at the front door.\n\nThe Aqara app adds access to 24/7 video, a nice feature to have, especially for free. The implementation is spotty, and video quality is not great, but it will do in a pinch. In addition to Apple Home, the Aqara doorbell works with Google Home and Amazon Alexa.\n\nNote: Aqara announced the $129.99 Aqara Doorbell Camera Hub G410 earlier this year, which adds 2K video quality, a 4:3 aspect ratio, and end-to-end encryption of video. It’s currently available at Amazon and from Aquara. You can read more details here. I’ll be testing it soon.\n\nRead my full Aqara Video Doorbell G4 review.\n\nBest video doorbell door lock\nEufy FamiLock S3 Max\nEufy FamiLock S3 Max Palm Vein Recognition Wi-Fi Smart Lock\n\nWhere to Buy: $399.99 $349.99 at Amazon $399.99 $349.99 at Eufy $399.99 at Best Buy\nVideo quality:&nbsp;2K HD /&nbsp;Smart Alerts: Person, motion, / Aspect ratio:&nbsp;16:9 /&nbsp;Field of view:&nbsp;150 degrees horizontal /&nbsp;Power options:&nbsp;Battery /&nbsp;Wi-Fi:&nbsp;2.4GHz, 5GHz /&nbsp;Storage:&nbsp;Local /&nbsp;Subscription fee:&nbsp;N/A /&nbsp;Works with:&nbsp;Apple Home, Amazon Alexa, Google Home\n\nEufy’s FamiLock S3 Max is a two-in-one video doorbell and smart lock that manages to handle both functions pretty well. Its $399 price tag may cause sticker shock at first but is easier to accept when you consider the price of a smart door lock and video doorbell together. \n\nThe FamiLock S3 Max has a 4-inch screen that shows a live video feed of what’s captured by the front camera, so you can check it at a glance without opening your phone. The screen also allows other people in your household to check who’s at the door without having Eufy’s app installed, which is especially helpful for kids and guests. \n\nYou can unlock the FamiLock S3 Max using an app, PIN code, key, or palm recognition, which works by using infrared light to scan the vascular patterns beneath the palm of your hand. Using palm recognition doesn’t require you to physically touch the door lock and can be more reliable than a fingerprint reader for older folks whose fingerprints have degraded over time. It took a little time to get used to unlocking my door this way, but it worked reliably once I did. To lock the door, you’ll need to push a button on the lock, or enable auto-lock within Eufy’s app.\n\nRunning both a video doorbell and smart lock takes a lot of power, and in our tests, the FamiLock S3 Max’s battery was down to 41 percent after one month. It does have four AAA batteries to keep basic functions operational while you charge the lock’s main battery. You can also pick up a spare battery from Eufy for $37 if you want to have a fully charged backup at all times. \n\nIn our tests, the FamiLock S3 Max recorded clear video both day and night, though a protruding door frame blocked part of the camera. You can save video footage for free within Eufy’s app because it’s stored locally rather than in the cloud. You’ll receive an alert when people or motion are detected, but the video doorbell can’t recognized specific events, like package recognition. Hooking it up to Eufy’s HomeBase 3 enables some smart alerts, including pet and vehicle detection and facial recognition, but will set you back $150. \n\nYou can view a live feed from the camera on an Amazon Alexa or Google Home smart speaker with a screen, but I found it easier to just check the display built into the smart lock. Apple Home support is available on the smart lock portion of the FamiLock S3 Max, but not the video doorbell. Still, if you want both a smart lock and video doorbell without having to install and manage two separate devices, Eufy’s FamiLock S3 Max is a compelling choice.\n\nRead my full Eufy FamiLock S3 Max review.\n\nOther doorbell cameras to consider\n\n\nThe Reolink Video Doorbell (starting at $119) is a wired version of Reolink’s battery model mentioned above. It’s worth considering if you can use Power over Ethernet (there’s also a Wi-Fi version). There’s also the option of dual-band Wi-Fi, local storage to a microSD card or FTP server, and 24/7 recording with compatible hardware. I tested the black Wi-Fi version ($119.99), which streams good 2K video but only supports person detection (which is fairly inaccurate) and has a more horizontal field of view. The white model has package detection and a more vertical field of view. The battery Reolink adds animal and vehicle alerts and has a better field of view, so it’s the better choice unless you want PoE.\n\n\n\nThe Tapo D210 ($59.99) is a battery-powered doorbell with a similar design to the D225, but there’s no wiring option, so it can’t record 24/7. It does have free local recording with a microSD card and free alerts for people, pets, and vehicles, but there’s no package detection. Its rectangular 16:9 aspect ratio shows less of my porch, and it’s only available in white. While it has a few more features than the similarly priced Blink, it is very big and bulky, has a shorter battery life, and can’t be wired to trickle-charge or ring your existing chime (it does come with a plug-in chime). \n\n\n\nThe Ring Battery Doorbell ($99.99) suffers badly from the back-of-the-head problem common with battery-powered buzzers. Other than that, it’s a fine basic buzzer, but it doesn’t have removable batteries. While the redesigned quick-release system makes it easier to remove the doorbell to charge, the Plus is worth the extra money for the added convenience and better video resolution. The one thing this Ring has going for it is its slim profile, which makes it a good option if you want something more discreet.\n\n\n\nThe&nbsp;Google Nest Doorbell (battery)&nbsp;is worth considering if you are in a Google household and can’t wire your doorbell, but it is big and bulky. Plus, you have to remove it to charge. Specs and price-wise, it’s the same as my top pick, the&nbsp;Nest Doorbell (wired), but it can’t record 24/7, which the wired Nest can. It’s also twice the size of the wired model. \n\n\n\nThe Eufy Video Doorbell Dual is a previous pick that doesn’t require any monthly fees and records footage locally. But at $250, it’s very expensive, and there are now better, cheaper options. It’s still great thanks to its dual camera feature that lets you see your porch and your visitor with a wide view, plus free smart alerts, including facial recognition and a neat uncollected package alert. It’s worth considering if you already have a Eufy HomeBase. You can read my full review here.\n\n\n\nThe Wyze Video Doorbell Pro is a battery buzzer with impressive features for its price, and if you hardwire it, you get preroll video. However, a five-minute cooldown period between recordings, unless you pay for a subscription, is an inexcusable amount of time that negates its offer of “free recording.” Plus, Wyze has had some major security issues in the past.\n\n\nDoorbell cameras we’re currently testing\n\n\nBlink launched an upgraded version of its doorbell in May. The Blink Video Doorbell (newest model) is the same price as the current model ($69.99) but adds a head-to-toe view of your porch, 1440p x 1440p image resolution, and person detection. It requires a Sync Module to work, which the current version doesn’t.\n\n\n\nThe Aqara Doorbell Camera Hub G410 ($129.99) is an upgrade to the G4. It offers 2K video quality, a 4:3 aspect ratio, and end-to-end encryption, along with a mmWave sensor for more accurate person detection. Uniquely, it uses dual-band Wi-Fi and is a Zigbee, Thread, and Matter smart home hub for Aqara’s wide smart home system.\n\n\n\nThe&nbsp;Arlo Video Doorbell (wired / wireless)&nbsp;is the second generation of the excellent Arlo Essential wired, which was a former pick in this guide. It doesn’t have the option of wiring only; instead, it’s a battery doorbell you can wire to trickle-charge and comes in a 1080p ($79.99) and 2K ($129.99) version.\n\n\n\nSwitchbot’s first video doorbell comes with an in-home display/chime to give you a quick way of seeing who is at the door. It’s available for $149.99 at Amazon.\n\n\n\nI’m testing several subscription-free doorbells from Eufy, including the&nbsp;Eufy Doorbell E3340,&nbsp;C210, and&nbsp;S220.\n\n\n\nRing’s third-generation Wired Doorbell Pro is the company’s first model that can record video in 4K. It features 10x zoom, better recording quality in low light, and 3D motion detection that’s meant to reduce unnecessary notifications. It’s available for $249.99 at Amazon, Best Buy, and from Ring’s store.\n\n\n\nThe third-generation Google Nest Video Doorbell has the same smart home control features as its predecessor, but it can record 2K video (up from 960p) and has a wider and taller field of view. You can get 24 / 7 recordings with a Google Home Premium Advanced subscription ($20 per month / $200 per year). The wired model is available for $179.99 at Amazon, Best Buy, and Target.\n\n\n\n\nPhotos by Jennifer Pattison Tuohy / The Verge\n\nUpdate, November 10th: Adjusted pricing and availability throughout and noted that we’re currently testing Ring’s 4K video doorbell and the third-generation Nest Video Doorbell (Wired). Brandt Ranj also contributed to this article.",
+      "content_length": 36431,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thousands of Malians fled to Mauritania over the last two weeks",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251110-thousands-of-malians-fled-to-mauritania-over-the-last-two-weeks",
+      "published": "2025-11-10T21:30:30",
+      "content": "In tonight's edition, thousands of Malians have fled westwards to the border with Mauritania over the last two weeks -- as a blockade by the Al Qaeda-linked Janim group continues to isolate communities.\n \nAlso, DRC and Rwanda have agreed to an economic pact as the US president seeks to implement a peace deal.\n \nAnd one legendary West African band, the Orchestra Baobab, celebrates its 50th anniversary.",
+      "content_length": 404,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Agenda for Cop30 agreed as crucial climate talks begin – as it happened",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/10/cop30-climate-talks-brazil-belem-latest-news-updates",
+      "published": "2025-11-10T21:30:05",
+      "content": "Ministers and high-ranking officials from nearly 200 countries have gathered in the Amazonian city of Belem, with Brazil insisting this will be ‘the Cop of implementation’Hundreds lined up for Cop30 on opening morning, with some in Indigenous headdresses and others in trouser suits, writes Dharna Noor, fossil fuels and climate reporter for the Guardian US.The conference is being held in a massive temporary building in Belem’s Parque da Cidade area. It was still under construction just days ago, but now seems to be ready to use. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "An annual Walmart Plus membership is half off right now",
+      "link": "https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale",
+      "published": "2025-11-10T21:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIf you have a mountain of holiday shopping to tackle over the next few weeks, Walmart is offering a great deal on Walmart Plus. New subscribers can snag an annual Walmart Plus membership for half off through December 2nd. The deal knocks the yearly price down to $49 ($49 off), which will automatically renew at the regular price next year if you decide to continue your subscription.\nWalmart Plus\n\nWhere to Buy: $98 $49 at Walmart\nWalmart Plus offers a number of enticing perks, including free delivery on orders over $35, free shipping with no order minimum, an ad-supported membership to either Paramount Plus or Peacock, and more. Walmart Plus members also get access to limited-time offers, like five free months of Apple Music. And if you’re on the hunt for early Black Friday deals, Walmart Plus members can get early access to Black Friday discounts five hours before the general public.\n\nSpeaking of which, Walmart is planning to roll out its Black Friday deals in waves, beginning online at 7PM ET on Thursday, November 13th, for Walmart Plus subscribers. For everybody else, the early deals will kick off on November 14th at 12AM ET, and will run both in-store and online through November 16th. There will be a second wave of deals before the event officially kicks off online and in-store at 12AM ET on November 28th and lasts through November 30th.\n\nIf you do a lot of shopping at the retailer, grabbing this discount is a great way to save during the holidays and throughout the year. Just remember to set a reminder for this time next year, so you can assess whether you want to continue paying for a membership before it automatically renews at full price.",
+      "content_length": 1681,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tote bei Explosion in Delhi",
+      "link": "https://www.tagesschau.de/ausland/asien/explosion-indien-100.html",
+      "published": "2025-11-10T20:53:53",
+      "content": "   Nahe einer bei Touristen beliebten Festungsanlage mitten im indischen Delhi ist ein Auto explodiert. Mindestens acht Menschen wurden getötet. Nun sucht die Polizei nach der Ursache der Explosion.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Syria seeks alliances with Turkey, Gulf states, West, and envisions a 'new partnership' with Russia",
+      "link": "https://www.france24.com/en/video/20251110-syria-seeks-alliances-with-turkey-gulf-states-west-and-envisions-a-new-partnership-with-russia",
+      "published": "2025-11-10T20:29:03",
+      "content": "Syria's President Ahmed al-Sharaa met US President Donald Trump at the White House on Monday for unprecedented talks, just days after Washington removed him from a terrorism blacklist. Sharaa, whose rebel forces ousted longtime ruler Bashar al-Assad late last year, is the first Syrian leader to visit the White House since the country's 1946 independence. For in-depth analysis and a deeper perspective, Yinka Oyetade welcomes Dr. Jerome Drevon, Author, Senior Analyst in Jihad and Modern Conflict at the International Crisis Group (ICG).",
+      "content_length": 539,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Several killed in car blast near New Delhi’s Red Fort",
+      "link": "https://www.france24.com/en/asia-pacific/20251110-several-killed-car-blast-near-new-delhi-red-fort",
+      "published": "2025-11-10T20:14:04",
+      "content": "At least eight people were killed and 19 others injured when a car exploded near New Delhi’s historic Red Fort on Monday, police said. The cause of the blast is still being investigated. According to local media, a former owner of the car has been arrested.",
+      "content_length": 257,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Google says its confusing Gemini Home rollout is going just great",
+      "link": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great",
+      "published": "2025-11-10T20:02:57",
+      "content": "\n\n\n\t\n\tGemini is the new smart home voice assistant slowly rolling out to Google’s smart displays and smart speakers.\t\n\nGoogle started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgraded with Gemini. It’s actually useful now beyond asking for today’s weather.” That’s some not-so-subtle shade right there.\n\nBut dig into the post’s FAQ, and things don’t look so rosy. Two of the most frequently asked questions from those who have the new assistant are:\n\n\nGemini for Home voice assistant is not fully understanding my query… (Example: I tried to set an alarm for 5pm but it set it for 5am.)\n\n\n\nGemini for Home voice assistant is not properly controlling my home devices. What should I do?\n\n\nThat’s not great.\n\nControlling connected devices such as lights and locks, and doing what you ask it to do, are two very basic requirements of a voice assistant in the home. And Gemini will be the new default voice assistant on all Google Home smart speakers and displays, so it really needs to do those two things well. \n\nGemini’s launch is part of a Gemini for Home overhaul of Google Home. This brings Gemini’s AI-powered smarts to the Google Home app in the form of a new Ask Home chatbot interface, which gives you access to the Google Home app’s capabilities using natural language text commands. And to Google’s Nest security cameras, which enable them to generate descriptions of what they see and feed them into your smart home in the form of a daily Home Brief.\n\nThe new app and new camera capabilities were introduced in early October for all users, although some features require a subscription. To get the Gemini voice assistant, however, you need to go through a convoluted Early Access sign-up process that started on October 28th, and is entirely separate from its Public Preview program. Then you wait. \n\nIn the vein of Amazon with its Alexa Plus, Gemini is rolling out very slowly to smart speakers. No one at The Verge has it yet, and based on the Google Home subreddit, it&#8217;s not arrived for many other users either. Google has indicated it won’t launch for everyone until next spring at the earliest, when its new Google Home smart speaker should arrive.\n\nWhen Gemini does land on your devices, it should bring an entirely new voice assistant to Google’s smart displays and smart speakers. The Verge saw a preview last month and heard a more conversational assistant that can understand natural language and interpret context. \n\nGoogle says Gemini will also be better at controlling your smart home, in part, because you won’t have to use specific wording to get it to do what you want, and can issue multiple commands at once. So, in theory, a command like “Hey Google, turn on the lights, except in the bedroom, turn on the TV, lock the front door, and make it warmer in here” should now work. \n\nHowever, we haven&#8217;t been able to test this, and some early comments on Reddit indicated that daisy-chaining any commands isn’t working yet. A limited version of this feature was already part of Google Assistant. Meaning, Gemini may have actually gone backwards.\n\nIf you have Gemini on your smart speakers, we want to hear about your experience with it so far. Comment here or email me at jennifer.tuohy@theverge.com. If you’re not sure, just ask your speaker: “Ok Google, who are you?”\n\nA smarter home\n\nHitting hurdles with smart home control is likely one reason Gemini is rolling out slowly. As we’ve seen from Alexa Plus’s rollout, generative AI and smart home are not easy bedfellows. The old Google Assistant and the original Alexa were built on a command-and-control infrastructure: when this statement occurs, do this. \n\nThe new, generative-AI-powered LLM assistants don’t operate the same way, and what gives these systems the ability to be more conversational and understand context also gives them a lot more room for error. “LLMs are great at being creative, but not so good at doing the same thing over and over again with the same predictable output,” Google Home’s Anish Kattukaran told The Verge in an interview.\n\nThis challenge is clearly something both Amazon and Google are still trying to overcome. Based on my testing of Alexa Plus and the early indications around the Gemini voice assistant’s capabilities, there’s still a long way to go before we can confidently leave our smart homes in the hands of this new breed of AI assistant. \n\n",
+      "content_length": 4572,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The next iPhone Air has reportedly been delayed",
+      "link": "https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed",
+      "published": "2025-11-10T20:02:52",
+      "content": "\n\n\n\t\n\t\t\n\nApple is no longer planning to launch a second-generation iPhone Air next fall and has “already sharply scaled back production of the first version,” The Information reports. The company launched the super-thin version of the iPhone in September, but it seemingly hasn’t proven to be a big hit, and Apple is now making some changes about its future.\n\nThe Information says that the company was aiming to announce a new iPhone Air next fall that would be lighter and have more battery capacity than this year’s model. The new phone would also have gotten a vapor chamber, like the iPhone 17 Pro lineup this year.\n\nBut with no second-generation iPhone Air, Apple’s fall 2026 iPhone lineup will apparently consist of the iPhone 18 Pro and its foldable iPhone, while the iPhone 18 and iPhone 18E will launch in spring 2027. However, according to one of The Information’s sources, Apple may still launch this new iPhone Air as soon as spring 2027.",
+      "content_length": 950,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fall Sarkozy: Warum die französische Justiz unter Druck steht",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sarkozy-haftentlassung-100.html",
+      "published": "2025-11-10T20:02:24",
+      "content": "   Nach rund drei Wochen im Gefängnis ist Frankreichs Ex-Präsident Sarkozy wieder frei. Seine Inhaftierung hatte für eine heftige Debatte gesorgt - nun folgte ein Kontaktverbot zum Justizminister. Von Carolin Dylla.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gemini for TV is coming to Google TV Streamer starting today",
+      "link": "https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out",
+      "published": "2025-11-10T19:44:07",
+      "content": "\n\n\n\t\n\t\t\n\nGemini for TV is rolling out to Google TV Streamer devices starting today, allowing almost anyone to try it out. Since it launched back in September, Gemini for TV has only been available on a limited number of smart TVs. If you didn’t have one of those devices, you were out of luck. Gemini for TV will soon be much more widely available — all you need is a TV with an HDMI port to connect a Google TV Streamer to, HDCP 1.3 or later, and a reliable internet connection. \n\nGemini for TV replaces Google Assistant, offering the same basic voice assistant capabilities but with a more conversational tone. For instance, you can ask Gemini for TV to suggest a movie for you and a friend to watch based on your preferred genres, or ask it to summarize the last season of a show you’re watching. You can also use Gemini for TV for smart home tasks, such as showing you a camera feed. \n\nGemini for TV will be rolling out “over the next few weeks” to Google TV Streamer devices, so don’t worry if you don’t have it on your device yet. You can check to see if the update’s available by going into the settings on your Google TV Streamer, selecting your account from “Accounts &amp; Profiles,” and selecting “Voice Assistant.” If your device is eligible for the update, you should see an option for “Gemini for TV.”",
+      "content_length": 1315,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Second man deported under ‘one in, one out’ scheme returns to UK on small boat",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/10/second-man-deported-under-one-in-one-out-scheme-returns-to-uk-on-small-boat",
+      "published": "2025-11-10T18:48:46",
+      "content": "Man was detected as one of 94 people who had been removed from Britain under UK-France treatyA second person who was removed to France under the government’s “one in, one out” deal has returned to the UK, the Home Office has confirmed.The unnamed man arrived back in the UK after joining nearly 400 people who crossed the Channel in small boats on Sunday. Continue reading...",
+      "content_length": 375,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple’s AirPods 4 just hit their lowest price yet at $85",
+      "link": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale",
+      "published": "2025-11-10T18:47:53",
+      "content": "\n\n\n\t\n\t\t\n\nI’ve seen dozens of solid deals trickle in ahead of Black Friday, but Apple’s AirPods 4 hitting a new all-time low is the first one that&#8217;s really stood out to me. Right now, you can buy Apple’s entry-level wireless earbuds for just $84.99 ($44 off) at Amazon, Best Buy, and Walmart, which beats the previous Prime Big Deal Days record low by $5.\nApple AirPods 4\nApple’s AirPods 4 improve on previous models with better sound, clearer voice calls, and an even more comfortable design. For $50 extra, you can purchase a model with active noise cancellation and wireless charging. Read our review.\n\nWhere to Buy: $129 $84.99 at Amazon $129 $84.99 at Walmart $129 $84.99 at Best Buy\nIf you want a reliable pair of wireless earbuds that play well with Apple’s ecosystem, the AirPods 4 are one of the best options under $100 you can get. They don’t offer active noise cancellation like the higher-end models, but they do deliver better sound than Apple’s previous entry-level buds with noticeably richer bass. If you rely on earbuds for calls, they now include the Pro’s Voice Isolation tech, which cuts background noise far more effectively than prior entry-level model’s, and Apple has added new head-gesture controls so you can answer calls or dismiss notifications with a nod.\n\nYou also get a more robust IP54 rating for water and dust resistance, meaning they can handle sweaty workouts and light rain. Plus, they integrate well with other Apple devices, offering automatic switching, audio sharing, Apple TV integration, and more.\n\nRead our AirPods 4 review.",
+      "content_length": 1573,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Todesfahrer von Magdeburg räumt ein, Wagen gefahren zu haben",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/verfahren-magdeburg-anschlag-weihnachtsmarkt-100.html",
+      "published": "2025-11-10T18:47:14",
+      "content": "   Fast elf Monate nach der Todesfahrt von Magdeburg ist das Verfahren gegen den mutmaßlichen Täter eröffnet worden. Zwar räumte Taleb A. ein, am Steuer des Wagens gesessen zu haben, ansonsten blieb seine Aussage aber wirr. Reue zeigte er nicht.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery",
+      "link": "https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/",
+      "published": "2025-11-10T18:41:42",
+      "content": "The heads of Apple TV have “no plans” to bring ads to the streaming service, balking, at least for now, at a strategy that has driven success for Apple’s streaming rivals.\nIn its November 2025 issue, British movie magazine Screen International asked Eddy Cue, senior vice president of Apple Services, if there are plans to launch an ad-based subscription tier for Apple TV. Cue responded:\nNothing at this time. … I don’t want to say no forever, but there are no plans. If we can stay aggressive with our pricing, it’s better for consumers not to get interrupted with ads.\nThe comments follow reports over the years suggesting that Apple has been seeking knowledge on how to build a streaming ads business. Most recently, The Telegraph reported that Apple TV executives met with the United Kingdom’s ratings body, Barb, to discuss what tracking ads on Apple TV would look like. In 2023, Apple hired advertising exec Lauren Fry as head of video and Apple News ad sales.Read full article\nComments",
+      "content_length": 993,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Turkish authorities arrest eight people and suspend 1,024 players in betting investigation",
+      "link": "https://www.theguardian.com/football/2025/nov/10/turkish-authorities-alleged-betting-investigation-arrests-tff-suspensions",
+      "published": "2025-11-10T18:38:37",
+      "content": "Eyupspor chairman reportedly among those arrested27 Super Lig players suspended over alleged bettingTurkish authorities formally arrested eight people, including a top-tier club chairman, on Monday as part of an investigation into alleged betting on football matches. The Turkish football federation (TFF) has also suspended 1,024 players pending disciplinary investigations.The TFF suspended 149 referees and assistant referees earlier this month, after an investigation found officials working in the country’s professional leagues were betting on football matches. Continue reading...",
+      "content_length": 587,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "New project brings strong Linux compatibility to more classic Windows games",
+      "link": "https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/",
+      "published": "2025-11-10T18:09:28",
+      "content": "For years now, Valve has been slowly improving the capabilities of the Proton compatibility layer that lets thousands of Windows games work seamlessly on the Linux-based SteamOS. But Valve’s Windows-to-Linux compatibility layer generally only extends back to games written for Direct3D 8, the proprietary Windows graphics API Microsoft released in late 2000.\nNow, a new open source project is seeking to extend Linux interoperability further back into PC gaming history. The d7vk project describes itself as “a Vulkan-based translation layer for Direct3D 7 [D3D7], which allows running 3D applications on Linux using Wine.”\nMore options are always welcome\nThe new project isn’t the first attempt to get Direct3D 7 games running on Linux. Wine‘s own built-in WineD3D compatibility layer has supported D3D7 in some form or another for at least two decades now. But the new d7vk project instead branches off the existing dxvk compatibility layer, which is already used by Valve’s Proton for SteamOS and which reportedly offers better performance than WineD3D on many games.Read full article\nComments",
+      "content_length": 1096,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nicolas Sarkozy says he wants to ‘prove his innocence’ as he is released from prison",
+      "link": "https://www.theguardian.com/world/2025/nov/10/nicolas-sarkozy-says-life-in-prison-is-gruelling-and-a-nightmare",
+      "published": "2025-11-10T17:48:32",
+      "content": "Former French president, who said his three weeks in jail had been a ‘nightmare’, will serve rest of sentence outside pending appealNicolas Sarkozy has said he wants to “prove his innocence” after being released from prison while he appeals against his conviction for criminal conspiracy over a scheme to obtain election campaign funds from Libya.After 20 days in jail that he had earlier described as “gruelling” and a “nightmare”, the former French president was driven away from La Santé prison in Paris on Monday accompanied by his wife, the singer Carla Bruni-Sarkozy. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Runaway black hole mergers may have built supermassive black holes",
+      "link": "https://arstechnica.com/science/2025/11/runaway-black-hole-mergers-may-have-built-supermassive-black-holes/",
+      "published": "2025-11-10T17:37:14",
+      "content": "A new simulation could help solve one of astronomy’s longstanding mysteries—how supermassive black holes formed so rapidly—along with a new one: What are the James Webb Space Telescope’s (JWST) “little red dots?”\nInvisible leviathans lurk at the cores of nearly all of the 2 trillion or so galaxies strewn throughout space-time. Monster black holes entered the cosmic scene soon after the Universe’s birth and grew rapidly, reaching millions or even billions of times the Sun’s mass in less than a billion years. Astronomers have long wondered how these supermassive black holes could have grown so hefty in such little time.\nThe monster black hole mystery became even more perplexing in 2022 when “little red dots” were spotted at the far edges of space. When these tiny scarlet orbs began unexpectedly popping up in JWST images of the distant Universe, their nature was hotly debated. Now that scientists have amassed a sample of hundreds of them, many think the dots are growing supermassive black holes.Read full article\nComments",
+      "content_length": 1033,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Release of Sarkozy, pending appeal, 'isn't end of sentence: It's morphing into something else'",
+      "link": "https://www.france24.com/en/video/20251110-release-of-sarkozy-pending-appeal-isn-t-end-of-sentence-it-s-morphing-into-something-else",
+      "published": "2025-11-10T17:25:45",
+      "content": "Former French President Nicolas Sarkozy will be released from prison and placed under judicial supervision, a Paris appeals court has ruled, less than three weeks after he began serving a five-year sentence over a scheme to finance his 2007 election campaign with funds from Libya. For in-depth analysis and a deeper perspective, Annette Young welcomes Paul Smith, Associate Professor in French History and Politics at the University of Nottingham.",
+      "content_length": 448,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Evangelische Kirche positioniert sich neu zu militärischer Gewalt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/evangelische-kirche-friedensdenkschrift-100.html",
+      "published": "2025-11-10T17:07:02",
+      "content": "   Um Frieden zu sichern, muss unter Umständen auch Gewalt als letztes Mittel angewendet werden, heißt es in einem Grundlagenpapier der Evangelischen Kirche in Deutschland. Diese Neupositionierung - etwa bei atomarer Abschreckung - polarisiert.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Börse nimmt Fahrt auf - DAX schließt 1,65 Prozent höher",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dollar-100.html",
+      "published": "2025-11-10T17:05:11",
+      "content": "   Hoffnungen auf ein baldiges Ende der US-Haushaltssperre haben dem DAX einen flotten Start in die neue Woche beschert. Im weiteren Wochenverlauf steht nun eine Fülle neuer Firmenbilanzen im Fokus.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UAE refuses to join Gaza stabilisation force without clear legal framework",
+      "link": "https://www.theguardian.com/world/2025/nov/10/uae-says-it-will-not-join-gaza-stabilisation-force-without-clear-legal-framework",
+      "published": "2025-11-10T16:49:26",
+      "content": "Decision reflects wider regional doubts about terms of US-drafted plan to disarm HamasPlans for a UN-mandated international stabilisation force charged with disarming Hamas inside Gaza face growing opposition after the United Arab Emirates said it would not participate because it did not yet see a clear legal framework for the force.Israel has already ruled out Turkey joining the force, and King Abdullah of Jordan has said Jordanian troops will not join. Azerbaijan, once mooted as a contributor, did not attend a planning meeting in Turkey last week and said it would not contribute unless a full ceasefire was in place. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Canada loses measles elimination status after deadly resurgence linked to religious group",
+      "link": "https://www.france24.com/en/live-news/20251110-deadly-measles-surge-sees-canada-lose-eradicated-status",
+      "published": "2025-11-10T16:35:16",
+      "content": "Canada has lost its measles elimination status after almost three decades, health officials said on Monday, citing a persistent resurgence of the virus largely among unvaccinated groups. Canada’s latest outbreak has lasted for more than a year.",
+      "content_length": 244,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Running Man’s final trailer amps up the high-octane action",
+      "link": "https://arstechnica.com/culture/2025/11/the-running-mans-final-trailer-amps-up-the-high-octane-action/",
+      "published": "2025-11-10T16:29:34",
+      "content": "\nIt’s shaping up to be an excellent season for Stephen King adaptations. In September, we got The Long Walk, an excellent (though harrowing) adaptation of King’s 1979 Richard Bachman novel. Last month, HBO debuted its new series IT: Welcome to Derry, which explores the mythology and origins of Pennywise the killer clown. And this Friday is the premiere of The Running Man, director Edgar Wright’s (Shaun of the Dead, Baby Driver, Last Night in Soho) take on King’s novel of the same name. So naturally Paramount has released a final trailer to lure us to the theater.\nAs previously reported, the 1987 action film starring Schwarzenegger was only loosely based on King’s novel, preserving the basic concept and very little else in favor of more sci-fi gadgetry and high-octane action. It was a noisy, entertaining romp—and very late ’80s—but it lacked King’s subtler satirical tone. Wright expressed interest in adapting his own version of The Running Man in 2017, and Paramount greenlit the project four years later. Wright and co-screenwriter Michael Bacall envisioned their film as less of a remake and more of a faithful adaptation of King’s original novel. (We’ll see if that faithfulness extends to the novel’s bleak ending.)\nPer the official premise:Read full article\nComments",
+      "content_length": 1284,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump droht BBC wegen Zusammenschnitt von Rede mit Milliardenklage",
+      "link": "https://www.tagesschau.de/ausland/europa/klage-bbc-trump-100.html",
+      "published": "2025-11-10T16:27:01",
+      "content": "   Die britische Rundfunkanstalt BBC steckt nach den Rücktritten von zwei Führungskräften weiter in der Krise. Nun sieht der weltbekannte Sender sich sogar mit einer Drohung des US-Präsidenten konfrontiert.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "French court orders release of Sarkozy after 20 days in jail",
+      "link": "https://www.france24.com/en/video/20251110-french-court-orders-release-of-sarkozy-after-20-days-in-jail",
+      "published": "2025-11-10T16:25:59",
+      "content": "Marc Perelman, our French politics editor, gives us his analysis.",
+      "content_length": 65,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "ESA will Astronautennahrung aus Luft und Urin herstellen",
+      "link": "https://www.heise.de/news/ESA-will-Astronautennahrung-aus-Luft-und-Urin-herstellen-11072760.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-10T16:22:00",
+      "content": "Die ESA entwickelt mit Solar Foods ein System zur Protein-Herstellung im All. Mikroben sollen aus Luft, Strom und Astronautenurin essbare Nährstoffe erzeugen.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mehrsprachigkeit hält das Gehirn fit",
+      "link": "https://www.tagesschau.de/wissen/forschung/mehrsprachigkeit-schuetzt-vor-schnellem-altern-100.html",
+      "published": "2025-11-10T16:20:40",
+      "content": "   Altern verläuft nicht bei allen gleich schnell. Eine neue Studie zeigt: Mehrsprachigkeit schützt offenbar vor beschleunigtem Altern. Menschen, die regelmäßig mehrere Sprachen nutzen, bleiben kognitiv länger fit. Von R. Kraft und A. Braun.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "How a fake IS group statement on Mamdani's win went viral on X",
+      "link": "https://www.france24.com/en/americas/20251110-fake-islamic-state-group-statement-mamdani-viral-social-media",
+      "published": "2025-11-10T16:20:11",
+      "content": "After the progressive Democrat Zohran Mamdani was elected mayor of New York City, pro-Trump influencers shared a fake statement from the Islamic State group commending the election result. The fabricated communique, which first surfaced on the 4chan online forum and was then relayed by Donald Trump supporters, accumulated several million views on the social network X.",
+      "content_length": 370,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "In India, New Delhi blast leaves 13 dead",
+      "link": "https://www.france24.com/en/video/20251110-in-india-new-delhi-blast-leaves-13-dead",
+      "published": "2025-11-10T16:18:26",
+      "content": "Navodita Kumari, our correspondant in India, has more.",
+      "content_length": 54,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Was kann die Klimakonferenz überhaupt noch bewirken?",
+      "link": "https://www.tagesschau.de/wissen/klima/faq-klimakonferenz-brasilien-100.html",
+      "published": "2025-11-10T16:17:36",
+      "content": "   Zehn Jahre nach dem Abkommen von Paris ist die Klimakrise alles andere als bewältigt, im Gegenteil:  Das Problem ist größer denn je. Nun gibt es ein Krisentreffen an einem ganz besonderen Ort - was aber kann das überhaupt noch bringen?[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Buchmesse \"Seitenwechsel\": Wo rechtsextreme Inhalte salonfähig werden",
+      "link": "https://www.tagesschau.de/kultur/buchmesse-seitenwechsel-proteste-100.html",
+      "published": "2025-11-10T16:15:44",
+      "content": "   Die Buchmesse Seitenwechsel in Halle stand schon vor dem Start heftig in der Kritik. Prominente Namen wie Hans-Georg Maaßen und Uwe Tellkamp sowie rechtsextreme Verlage waren am Wochenende Programm. In der Stadt formierte sich breiter Protest.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump to meet Sharaa at White House, capping major turnaround for Syria",
+      "link": "https://www.france24.com/en/video/20251110-trump-to-meet-sharaa-at-white-house-capping-major-turnaround-for-syria",
+      "published": "2025-11-10T16:11:14",
+      "content": "Syrian President Ahmed al-Sharaa's White House meeting with U.S. President Donald Trump on Monday caps a stunning year for the rebel-turned-ruler who toppled a longtime autocratic leader and has since toured the world as he seeks to end Syria's international isolation.",
+      "content_length": 269,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "F1 in Brazil: That’s what generational talent looks like",
+      "link": "https://arstechnica.com/cars/2025/11/f1-in-brazil-thats-what-generational-talent-looks-like/",
+      "published": "2025-11-10T16:10:06",
+      "content": "After a weekend off, perhaps spent trick or treating, Formula 1’s drivers, engineers, and mechanics made their yearly trip to the Interlagos track for the Brazilian Grand Prix. More formally called the Autodromo Jose Carlos Pace, it’s definitely one of the more old-school circuits that F1 visits—and invariably one of the more dramatic.\nFor one thing, it’s anything but billiard-smooth. Better yet, there’s elevation—lots of it—and cambers, too. Unlike most F1 tracks, it runs counterclockwise, and it combines some very fast sections with several rather technical corners that can catch out even the best drivers in the world. Nestled between a couple of lakes in São Paulo, weather is also a regular factor in races here. And indeed, a severe weather warning was issued in the lead-up to this weekend’s race.\nYou have to hit the ground running\nThis was another sprint weekend, which means that instead of two practice sessions on Friday and another on Saturday morning, the teams get one on Friday, then go into qualifying for the Saturday sprint race. The shortened testing time tends to shake things up a bit, and we definitely saw that this weekend.Read full article\nComments",
+      "content_length": 1181,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Statistisches Bundesamt: Mehr Zuzüge aus den USA als umgekehrt",
+      "link": "https://www.tagesschau.de/inland/studie-usa-auswandern-urlaub-100.html",
+      "published": "2025-11-10T16:07:18",
+      "content": "   Aus den USA sind zwischen Januar und September mehr Menschen nach Deutschland ausgewandert als umgekehrt. Daten des Statistischen Bundesamtes zeigen zudem, dass die Zahl der Fluggäste mit Reiseziel USA gesunken ist.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Eight people die and several injured after car explosion in Delhi, police say",
+      "link": "https://www.theguardian.com/world/2025/nov/10/car-explosion-in-delhi",
+      "published": "2025-11-10T16:00:10",
+      "content": "Several fire engines rushed to the scene after blast reported near the historic Red Fort, fire services saidA car explosion outside the historic Red Fort monument in Delhi has killed at least eight people and started a fire in the surrounding area, according to police.The cause of the explosion, which took place just before 7pm local time (1330 GMT) on Monday night, is being investigated. The registered owner of the car has reportedly been detained for questioning. Continue reading...",
+      "content_length": 489,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Unterwegs mit dem Pflegedienst: Mit Humor gegen die Einsamkeit",
+      "link": "https://www.tagesschau.de/inland/mittendrin/pflege-alltag-100.html",
+      "published": "2025-11-10T15:38:26",
+      "content": "   Reiner Weiss ist Rentner. Doch wegen der Personalnot in der Pflege fährt er trotzdem fast jeden Tag raus zu seinen Patienten. Mit Herzblut kämpft er gegen den grauen Alltag vieler Seniorinnen und Senioren an. Von Daniel Frevel.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "COP30: 10 years after the Paris Agreement, what has changed ?",
+      "link": "https://www.france24.com/en/video/20251110-cop30-10-years-after-the-paris-agreement-what-has-changed",
+      "published": "2025-11-10T15:37:04",
+      "content": "Valérie Dekimpe, France24 Environment Editor, has more.",
+      "content_length": 55,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "SPD-Mitgliederbegehren gegen Bürgergeldreform eingereicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-mitgliederbegehren-buergergeld-100.html",
+      "published": "2025-11-10T15:36:06",
+      "content": "   Teile der SPD-Basis sind gegen die geplante Reform des Bürgergelds. Nun wurde ein Mitgliederbegehren beim Parteivorstand eingereicht. Aus der Union kommt Kritik am Koalitionspartner - dort bezeichnet man das Vorgehen als \"bizarr\". [mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Music show: Max Baby on breakups, breakdowns and breakthroughs",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251110-music-show-max-baby-on-breakups-breakdowns-and-breakthroughs",
+      "published": "2025-11-10T15:30:17",
+      "content": "In this edition of our arts24 music show, Jennifer Ben Brahim chats with French multi-instrumentalist and producer Max Baby. A career in music was always on the cards for him, having made a drumkit at age six out of old biscuit tins. He dropped his debut record in 2024, and a year on is back with his EP \"Break\". It's a blend of post-modern indie, alt-rock and electro, and deals with the aftermath of losing control and the quiet that follows. He is also embarking on a European tour, with his first Parisian headline show.",
+      "content_length": 525,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Indigenous leaders join COP30 climate summit as it opens in Brazil",
+      "link": "https://www.france24.com/en/video/20251110-indigenous-leaders-join-cop30-climate-summit-as-it-opens-in-brazil",
+      "published": "2025-11-10T15:27:41",
+      "content": "Countries will be joined by Indigenous leaders, who arrived Sunday evening by boat.",
+      "content_length": 83,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie die Industrie klimaneutral werden kann",
+      "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz-klimaneutralitaet-chemieindustrie-100.html",
+      "published": "2025-11-10T15:24:14",
+      "content": "   Deutschland will bis 2045 klimaneutral werden. Allein der Industriesektor muss von mehr als 100 Millionen Tonnen Treibhausgasemissionen auf Null kommen. Ein hessisches Unternehmen hat die Weichen bereits gestellt. Von Jennifer Sieglar.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Protesters target major new Nigerian museum embroiled in looted artefacts row",
+      "link": "https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row",
+      "published": "2025-11-10T15:19:20",
+      "content": "Protest at Mowaa comes amid dispute over ownership of Benin bronzes looted by British colonial forcesProtesters have disrupted a preview event at a major new museum in the Nigerian city of Benin that has become embroiled in a row over the restitution of artefacts looted by British colonial forces.The demonstrators asserted that the opening of the Museum of West African Art (Mowaa) is a violation of Benin City’s cultural heritage, which falls under the authority of its traditional ruler, the Oba of Benin, Ewuare II. Continue reading...",
+      "content_length": 540,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Terrorist turf war battle in north-eastern Nigeria leaves about 200 dead",
+      "link": "https://www.theguardian.com/world/2025/nov/10/terrorist-turf-war-battle-north-eastern-nigeria",
+      "published": "2025-11-10T15:05:02",
+      "content": "Fighting between Boko Haram and rival militants from Islamic State West Africa Province broke out on shores of Lake ChadAs many as 200 terrorists were killed in a turf war on Sunday between rival jihadists in north-east Nigeria.The fighting between Boko Haram and rival militants from Islamic State West Africa Province (Iswap) broke out over the weekend in the village of Dogon Chiku, which lies on the shores of Lake Chad, a restive area located at the junction of Nigeria, Niger, Chad and Cameroon. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "MPs preparing to examine Chinese state influence at British universities",
+      "link": "https://www.theguardian.com/politics/2025/nov/10/mps-to-examine-chinese-state-influence-british-universities",
+      "published": "2025-11-10T15:03:11",
+      "content": "Committee’s inquiry into review of UK-China relations to be broadened after Sheffield Hallam University disclosuresThe foreign affairs select committee is drawing up plans to examine Chinese government interference in academia as part of its inquiry into the UK’s strategy towards Beijing.MPs are broadening the scope of their investigation into the China audit, an internal government review of UK-China relations that concluded in June, to look into Chinese state influence at British universities. Continue reading...",
+      "content_length": 520,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kundenbeschwerden über Trade Republic stark angestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/mehr-beschwerden-ueber-trade-republic-100.html",
+      "published": "2025-11-10T15:00:53",
+      "content": "   Der Kundenservice nur \"schwer oder nicht erreichbar\" - die Kritik am Neobroker Trade Republic reißt nicht ab. Seit Beginn des Jahres verzeichneten Verbraucherschützer einen massiven Anstieg an Beschwerden.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Taifun legt jahrhundertealtes Schiffswrack in Vietnam frei",
+      "link": "https://www.tagesschau.de/ausland/asien/vietnam-taifun-schiffswrack-100.html",
+      "published": "2025-11-10T14:58:30",
+      "content": "   An einem Strand in Vietnam hat der Taifun \"Kalmaegi\" ein altes Schiffswrack freigelegt. Es soll zwischen dem 14. und 16. Jahrhundert erbaut worden sein. Archäologen wollen die gut erhaltenen Überreste nun bergen.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Jacob Zuma’s daughter goes on trial over deadly South African riots",
+      "link": "https://www.theguardian.com/world/2025/nov/10/jacob-zuma-daughter-duduzile-trial-south-african-riots",
+      "published": "2025-11-10T14:31:59",
+      "content": "Duduzile Zuma-Sambudla is accused of inciting terrorism and public violence after her father was jailed in 2021Duduzile Zuma-Sambudla, a politician and daughter of the former South African president Jacob Zuma, has pleaded not guilty to incitement to commit terrorism and public violence over deadly riots in 2021.The trial, which began on Monday in the coastal city of Durban, is the first prosecution in South Africa in which terrorism‑related charges are being brought based on social media posts. Continue reading...",
+      "content_length": 520,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frankreichs Ex-Präsident Sarkozy kommt unter Auflagen frei",
+      "link": "https://www.tagesschau.de/ausland/europa/sarkozy-gefaengnis-auflagen-frei-100.html",
+      "published": "2025-11-10T14:13:29",
+      "content": "   Nach drei Wochen Haft kommt Frankreichs früherer Präsident Sarkozy wieder aus dem Gefängnis. Unter Justizaufsicht darf er den Ausgang eines Berufungsverfahrens in Freiheit abwarten, entschied ein Gericht in Paris.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verliert Deutschland bei Rechenzentren den Anschluss?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/rechenzentren-ki-kuenstliche-intelligenz-strombedarf-100.html",
+      "published": "2025-11-10T13:46:27",
+      "content": "   Die Nutzung von Künstlicher Intelligenz hängt entscheidend von der Rechenleistung ab, die zur Verfügung steht. Aber ausgerechnet beim Ausbau von Rechenzentren ist Deutschland laut einer Bitkom-Studie weit abgeschlagen. [mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ist Russlands Außenminister Lawrow bei Putin in Ungnade gefallen?",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-lawrow-abwesenheit-100.html",
+      "published": "2025-11-10T13:38:36",
+      "content": "   Russlands Außenminister Lawrow fehlte vergangene Woche bei einer Sitzung des Sicherheitsrates. Nun brodelt die Gerüchteküche. Ist er bei Putin in Ungnade gefallen? Während der Kreml das zurückweist, halten die Gerüchte an. Von Frank Aischmann.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Versuchte Wahlmanipulation: Trump begnadigt seinen Ex-Anwalt Giuliani",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-begnadigung-giuliani-100.html",
+      "published": "2025-11-10T13:32:10",
+      "content": "   US-Präsident Trump hat 77 Menschen begnadigt, die 2020 versuchten, das Wahlergebnis wegen angeblicher Manipulation anzufechten. Darunter sein Ex-Anwalt Giuliani. Damals verlor Trump gegen Biden.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pistorius rechnet bei Debatte um Wehrdienst mit Einigung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-verteidigung-musterung-pistorius-100.html",
+      "published": "2025-11-10T13:19:29",
+      "content": "   In der Wehrdienstdebatte gibt sich Verteidigungsminister Pistorius zuversichtlich, dass die Koalition noch in dieser Woche eine Lösung findet. Auch der CDU-Verteidigungsexperte Röwekamp ist optimistisch. Kritik kommt von jungen Menschen.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NASA is kind of a mess: Here are the top priorities for a new administrator",
+      "link": "https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/",
+      "published": "2025-11-10T12:00:24",
+      "content": "After a long summer and fall of uncertainty, private astronaut Jared Isaacman has been renominated to lead NASA, and there appears to be momentum behind getting him confirmed quickly as the space agency’s 15th administrator. It is possible, although far from a lock, the Senate could finalize his nomination before the end of this year.\nIt cannot happen soon enough.\nThe National Aeronautics and Space Administration is, to put it bluntly, kind of a mess. This is not meant to disparage the many fine people who work at NASA. But years of neglect, changing priorities, mismanagement, creeping bureaucracy, meeting bloat, and other factors have taken their toll. NASA is still capable of doing great things. It still inspires. But it needs a fresh start.Read full article\nComments",
+      "content_length": 779,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ägyptens Präsident lässt ein neues Parlament von seinen Gnaden wählen",
+      "link": "https://www.tagesschau.de/ausland/afrika/aegypten-parlament-wahl-100.html",
+      "published": "2025-11-10T11:57:55",
+      "content": "   Millionen Ägypter wählen heute ein neues Parlament. Am Ausgang gibt es wenig Zweifel: Denn das Regime von Präsident al-Sisi hat unliebsame Kandidaten aussieben lassen, um seine Macht auch in Zukunft abzusichern. Von Jürgen Stryjak.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Prozess nach Anschlag auf Magdeburger Weihnachtsmarkt hat begonnen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/magdeburg-prozess-weihnachtsmarkt-100.html",
+      "published": "2025-11-10T11:49:23",
+      "content": "   Sechs Tote, mehr als 300 Verletzte: Im Dezember 2024 ist ein Mann mit einem Auto über den Magdeburger Weihnachtsmarkt gerast. Heute hat der Prozess begonnen - eines der größten Verfahren der deutschen Nachkriegsgeschichte.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die Produktwerker: Welchen Einfluss auf die Retrospektive hat ein Product Owner?",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Welchen-Einfluss-auf-die-Retrospektive-hat-ein-Product-Owner-11072217.html",
+      "published": "2025-11-10T11:25:00",
+      "content": "Wie Product Owner ihren Einfluss auf die Retrospektive bewusst nutzen und damit Vertrauen und Teamwirksamkeit fördern, erklärt Bernd Joussen in dieser Folge.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Frankreich: Gericht entscheidet über vorzeitige Haftentlassung Sarkozys",
+      "link": "https://www.tagesschau.de/ausland/europa/sarkozy-gericht-prueft-haftentlassung-100.html",
+      "published": "2025-11-10T11:01:20",
+      "content": "   Bleibt Sarkozy hinter Gittern? Darüber entscheidet heute ein französisches Gericht. Zumindest bis zu einer Entscheidung über seine Berufung könnte der ehemalige Präsident freikommen - allerdings vermutlich nur unter Auflagen.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Watchguard Firebox: Gefährdung durch Standardpasswort für Admin",
+      "link": "https://www.heise.de/news/Watchguard-Firebox-Gefaehrdung-durch-Standardpasswort-fuer-Admin-11072045.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-10T11:00:00",
+      "content": "Watchguard versieht die Firebox-Firewalls mit Standardpasswörtern. Angreifer können sich dadurch leicht Admin-Rechte verschaffen.",
+      "content_length": 129,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Was ist dran an Erkältungstipps in den sozialen Medien?",
+      "link": "https://www.tagesschau.de/faktenfinder/erkaeltungsmythen-100.html",
+      "published": "2025-11-10T10:59:58",
+      "content": "   Ob Erkältung, Grippe oder Corona: Im Herbst steigen die Zahlen der Atemwegsinfekte. Die sozialen Medien sind voller Ratschläge, um schnell gesund zu werden. Doch wie viele davon sind wissenschaftlich belegt? Von Karin König.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Auftragsbestand in Chemiebranche so niedrig wie zuletzt vor 30 Jahren",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chemie-chemiebranche-auftragslage-geschaeftsklima-100.html",
+      "published": "2025-11-10T10:49:21",
+      "content": "   Die Stimmung in der deutschen Chemiebranche ist düster. Die Unternehmen bewerten ihren Auftragsbestand so schlecht wie zuletzt vor 30 Jahren. Die Politik soll für Entlastung sorgen. [mehr]",
+      "content_length": 191,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Netherlands presses on with plan to ban imports from illegal Israeli settlements",
+      "link": "https://www.theguardian.com/world/2025/nov/10/netherlands-ban-imports-israeli-settlements-palestine-sanctions",
+      "published": "2025-11-10T10:31:08",
+      "content": "Move follows rising Israeli violence against Palestinians and freeze on broader sanctions last monthEurope live – latest updatesThe Netherlands is still working on legislation to bar imports from illegal settlements in occupied Palestine, even though it has paused a push for broader sanctions on Israel after last month’s ceasefire deal in Gaza, the foreign minister has said during a visit to the region.The partial ban was a response to settlement expansion and spiralling Israeli violence against Palestinians that threatened the viability of the two-state solution, David van Weel said after visiting an area in the West Bank that had been targeted by settlers. Continue reading...",
+      "content_length": 686,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie sich Neapel auf einen Vulkanausbruch vorbereitet",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-vulkan-evakuierungsuebung-100.html",
+      "published": "2025-11-10T10:27:29",
+      "content": "   In Neapel hat am Sonntag wieder die Erde gebebt. Ein kleineres Beben, das vor allem dort zu spüren war, wo unter der Erde die Phlegräischen Felder liegen. Sie gelten als Supervulkan. Tilmann Kleinjung war bei einer Evakuierungsübung dabei.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spenden: Hilfe für die Menschen in Südostasien",
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-156.html",
+      "published": "2025-11-10T10:06:26",
+      "content": "   Wenn Sie für die Menschen in Südostasien spenden wollen, finden Sie hier Hilfsorganisationen und Bankverbindungen.[mehr]",
+      "content_length": 123,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Höhere Prämien: Kfz-Haftpflicht kann für Senioren teuer werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/senioren-haftpflicht-kritik-100.html",
+      "published": "2025-11-10T09:08:15",
+      "content": "   Versicherer lassen ältere Autofahrer erhebliche Zuschläge zahlen, weil diese statistisch öfter Schäden verursachen. Rechtlich ist das zulässig. Dennoch kritisieren Verbraucherschützer die Praxis. Von Peter Sonnenberg.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Welche Belastungen auf junge Menschen zukommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/politik-junge-menschen-wehrdienst-100.html",
+      "published": "2025-11-10T09:02:34",
+      "content": "   Wehrdienst, Rente, Klima: Junge Menschen in Deutschland stehen vor großen Aufgaben. Politikwissenschaftlerin Pia Jaeger erklärt, mit welchen Belastungen sie rechnen müssen - und was droht, wenn die Jugend ignoriert wird.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israeli soldiers speak out on killings of Gaza civilians",
+      "link": "https://www.theguardian.com/world/2025/nov/10/israeli-soldiers-breaking-ranks-gaza-civilians-human-shields",
+      "published": "2025-11-10T07:00:58",
+      "content": "IDF soldiers tell documentary of opening fire unprovoked and arbitrary designations of who was an enemyIsraeli soldiers have described a free-for-all in Gaza and a breakdown in norms and legal constraints, with civilians killed at the whim of individual officers, according to testimony in a TV documentary.“If you want to shoot without restraint, you can,” Daniel, the commander of an Israel Defense Forces (IDF) tank unit, says in Breaking Ranks: Inside Israel’s War, due to be broadcast in the UK on ITV on Monday evening. Continue reading...",
+      "content_length": 545,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Shutdown in den USA: Senat stimmt für Kompromissvorschlag",
+      "link": "https://www.tagesschau.de/ausland/amerika/shutdown-senat-abstimmung-100.html",
+      "published": "2025-11-10T06:06:28",
+      "content": "   Der US-Senat hat einen ersten Schritt zur Beendigung des Regierungsstillstands gemacht. Die Senatoren brachten einen Kompromiss auf den Weg, der zu einer Übergangsfinanzierung führen könnte. Nun muss der Vorschlag weitere Hürden im Kongress nehmen.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    }
+  ]
+}
