@@ -1,0 +1,1762 @@
+{
+  "metadata": {
+    "timestamp": "20251114_071334",
+    "input_file": "data/deduplicated/20251114_071334.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 205,
+      "filtered_count": 193,
+      "blacklisted_count": 12,
+      "reduction_rate": "5.9%",
+      "top_blacklist_reasons": {
+        "stau": 2,
+        "temperatur": 2,
+        "vermisst": 2,
+        "finale": 2,
+        "baustelle": 1,
+        "schwachstelle": 1,
+        "security update": 1,
+        "sicherheitslücke": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Finanzen - Bundeshaushalt für 2026 steht",
+      "link": "https://www.deutschlandfunk.de/bundeshaushalt-fuer-2026-steht-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der Haushaltsausschuss des Bundestags hat sich auf einen Etat für 2026 verständigt, der die zweithöchste Neuverschuldung in der Geschichte der Bundesrepublik vorsieht. Das Gremium beendete heute früh in Berlin nach mehr als 15-stündigen Beratungen die sogenannte Bereinigungssitzung.",
+      "content_length": 283,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Abstimmung im Parlament - Bundestag beschließt Senkung der Stromsteuer für Unternehmen",
+      "link": "https://www.deutschlandfunk.de/bundestag-beschliesst-senkung-der-stromsteuer-fuer-unternehmen-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der Bundestag hat die Stromsteuer für hunderttausende Unternehmen gesenkt.",
+      "content_length": 74,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ticketsteuer-Senkung - Fliegen soll wieder billiger werden",
+      "link": "https://www.deutschlandfunk.de/fliegen-soll-wieder-billiger-werden-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der Koalitionsausschuss von Union und SPD hat sich auf eine Senkung der Ticketsteuer im Luftverkehr geeinigt.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Entlastung für Industrie und Flugbranche - Worauf sich Union und SPD im Koalitionsausschuss verständigt haben",
+      "link": "https://www.deutschlandfunk.de/worauf-sich-union-und-spd-im-koalitionsausschuss-verstaendigt-haben-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Spitzen von CDU/CSU und SPD haben im Koalitionsausschuss über diverse Themen beraten. Im Mittelpunkt standen Entlastungen der Industrie bei den Strompreisen und eine Senkung der Ticketsteuer im Luftverkehr. Eine Einigung gab es in folgenden Punkten.",
+      "content_length": 253,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - USA stufen deutsche Gruppierung \"Antifa-Ost\" als terroristisch ein",
+      "link": "https://www.deutschlandfunk.de/usa-stufen-deutsche-gruppierung-antifa-ost-als-terroristisch-ein-106.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die US-Regierung stuft eine linksextreme Gruppierung aus Deutschland als terroristische Vereinigung ein.",
+      "content_length": 104,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Irreführender Beitrag - BBC bittet Trump um Entschuldigung",
+      "link": "https://www.deutschlandfunk.de/bbc-bittet-trump-um-entschuldigung-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der britische Rundfunksender BBC hat den US-Präsidenten Trump wegen eines irreführenden Beitrags über ihn um Entschuldigung gebeten.",
+      "content_length": 132,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bauarbeiten - Kölner Hauptbahnhof wird mehrere Tage gesperrt",
+      "link": "https://www.deutschlandfunk.de/koelner-hauptbahnhof-wird-mehrere-tage-gesperrt-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der Kölner Hauptbahnhof wird ab heute Abend für zehn Tage für den Fern- und Regionalverkehr gesperrt.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeswehr - NATO erleichtert nach Wehrdienst-Einigung in Deutschland",
+      "link": "https://www.deutschlandfunk.de/nato-erleichtert-nach-wehrdienst-einigung-in-deutschland-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "NATO-Generalsekretär Rutte hat sich erfreut über den Wehrdienst-Kompromiss der schwarz-roten Koalition in Deutschland geäußert. Es sei wichtig, dass es jetzt eine politische Einigung gebe, sagte er. Kritik regt sich dagegen in der Opposition.",
+      "content_length": 242,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Wehrdienst - Reservistenverband bezeichnet Einigung als wichtig und gut",
+      "link": "https://www.deutschlandfunk.de/reservistenverband-bezeichnet-einigung-als-wichtig-und-gut-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der Präsident des Reservistenverbandes der Bundeswehr, Sensburg, geht davon aus, dass sich in den ersten Jahren genügend Freiwillige für den neuen Wehrdienst melden werden.",
+      "content_length": 172,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Genf - UNO-Menschenrechtsrat befasst sich in Dringlichkeitssitzung mit Lage in sudanesischer Stadt Al-Faschir",
+      "link": "https://www.deutschlandfunk.de/uno-menschenrechtsrat-befasst-sich-in-dringlichkeitssitzung-mit-lage-in-sudanesischer-stadt-al-fasch-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Der UNO-Menschenrechtsrat befasst sich heute mit der Lage in der durch die RSF-Miliz eingenommenen Stadt Al-Faschir im Sudan.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Weißes Haus gibt Handelsabkommen mit lateinamerikanischen Ländern bekannt",
+      "link": "https://www.deutschlandfunk.de/weisses-haus-gibt-handelsabkommen-mit-lateinamerikanischen-laendern-bekannt-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die USA haben sich nach Angaben des Weißen Hauses auf Handelsabkommen mit mehreren lateinamerikanischen Staaten verständigt.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Lateinamerika - USA kündigen Militäroperation gegen Drogenhändler an",
+      "link": "https://www.deutschlandfunk.de/usa-kuendigen-militaeroperation-gegen-drogenhaendler-an-100.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Nach Angriffen auf angebliche Drogenschmuggler-Boote in der Karibik hat Pentagon-Chef Hegseth eine Militäroperation angekündigt.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Neue russische Angriffe auf Kiew",
+      "link": "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-kiew-106.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Aus der Ukraine werden neue russische Angriffe auf Kiew gemeldet.",
+      "content_length": 65,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Korruptionsskandal - Ukrainische Regierung weist Überprüfung aller Staatskonzerne an",
+      "link": "https://www.deutschlandfunk.de/ukrainische-regierung-weist-ueberpruefung-aller-staatskonzerne-an-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die ukrainische Regierung hat als Reaktion auf den Korruptionsskandal um einen nationalen Energiebetreiber die Überprüfung aller Staatskonzerne angekündigt.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - Mehrheit mit Rechtsaußen-Fraktionen: Kritik an EVP nach Votum für Lockerungen des EU-Lieferkettengesetzes",
+      "link": "https://www.deutschlandfunk.de/mehrheit-mit-rechtsaussen-fraktionen-kritik-an-evp-nach-votum-fuer-lockerungen-des-eu-lieferkettenge-108.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Nach dem Votum des EU-Parlaments für weitreichende Lockerungen des Lieferkettengesetzes erheben Sozialdemokraten und Grüne Vorwürfe gegen die christdemokratische EVP-Fraktion.",
+      "content_length": 175,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Hamas übergibt weitere Leiche an Israel",
+      "link": "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-an-israel-110.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die militant-islamistische Hamas hat die Leiche einer weiteren Geisel an Israel übergeben.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeswehr - Bundestag verlängert Marine-Einsätze im Mittelmeer",
+      "link": "https://www.deutschlandfunk.de/bundestag-verlaengert-marine-einsaetze-im-mittelmeer-108.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Bundeswehr soll sich auch weiterhin an zwei internationalen Einsätzen im Mittelmeer beteiligen.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Klimaschutz - Fridays for Future ruft zu Klimaprotesten auf",
+      "link": "https://www.deutschlandfunk.de/fridays-for-future-ruft-zu-klimaprotesten-auf-106.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Protestbewegung \"Fridays for Future\" will heute wieder vielerorts für mehr Klimaschutz demonstrieren.",
+      "content_length": 105,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Thüringen - Missbrauchsskandal an Erfurter Gymnasium – Schulleiter räumt Posten - 2 Lehrer wegen sexualisierter Gewalt an Schülerinnen vor Gericht",
+      "link": "https://www.deutschlandfunk.de/missbrauchsskandal-an-erfurter-gymnasium-schulleiter-raeumt-posten-2-lehrer-wegen-sexualisierter-gew-108.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Nach dem Missbrauchsskandal an einem Erfurter Gymnasium räumt der Schulleiter seinen Posten.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeswehr - Der neue Wehrdienst - das plant die Regierung",
+      "link": "https://www.deutschlandfunk.de/der-neue-wehrdienst-das-plant-die-regierung-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Regierungskoalition aus Union und SPD hat sich auf ein neues Modell für den Wehrdienst geeinigt. Dies gaben die Fraktionsvorsitzenden der drei Parteien zusammen mit Bundesverteidigungsminister Pistorius bekannt. Zentrales Element ist die Musterung.",
+      "content_length": 252,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltgesundheitsorganisation - Nikotinsucht bei Jugendlichen nimmt zu",
+      "link": "https://www.deutschlandfunk.de/nikotinsucht-bei-jugendlichen-nimmt-zu-106.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Weltgesundheitsorganisation hat sich besorgt über eine wachsende Nikotinabhängigkeit vor allem unter jungen Menschen geäußert.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesamt für Strahlenschutz - Beim Handykauf auf Strahlungswerte achten",
+      "link": "https://www.deutschlandfunk.de/beim-handykauf-auf-strahlungswerte-achten-106.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Das Bundesamt für Strahlenschutz rät dazu, beim Kauf von Mobiltelefonen auf die Strahlung zu achten.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Haftbefehl\" - Juso-Chef Türmer (SPD) nutzt Wirbel um Doku über Deutschrapper Aykut Anhan für Kritik an Kanzler Merz",
+      "link": "https://www.deutschlandfunk.de/juso-chef-tuermer-spd-nutzt-wirbel-um-doku-ueber-deutschrapper-aykut-anhan-fuer-kritik-an-kanzler-me-102.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Juso-Chef Türmer hat Bundeskanzler Merz zum Verständnis der deutschen Gesellschaft zur Musik des derzeit vieldiskutierten Rappers \"Haftbefehl\" geraten. Die Texte des Musikers, der mit bürgerlichem Namen Aykut Anhan heißt, könnten nicht nur Schülern dabei helfen, mehr Verständnis für die Lebensrealitäten in diesem Land zu entwickeln, sagte er dem Magazin \"Focus\".",
+      "content_length": 364,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltklimakonferenz - Teilnehmer verhandeln über Klimaschutzfinanzierung",
+      "link": "https://www.deutschlandfunk.de/teilnehmer-verhandeln-ueber-klimaschutzfinanzierung-108.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "Die Teilnehmer der Weltklimakonferenz im brasilianischen Belém ringen weiter um verbindliche Zusagen zur Klimaschutzfinanzierung.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bildung - Deutsche Gesellschaft für Geographie verweist in Erdkunde-Debatte auf hohes Interesse am Fach an Universitäten",
+      "link": "https://www.deutschlandfunk.de/deutsche-gesellschaft-fuer-geographie-verweist-in-erdkunde-debatte-auf-hohes-interesse-am-fach-an-un-108.html",
+      "published": "2025-11-14T07:09:01",
+      "content": "In der Debatte um die Bedeutung von Erdkunde hat die Deutsche Gesellschaft für Geographie auf das nach wie vor hohe Interesse an Universitäten verwiesen.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "China holt gestrandete Raumfahrer aus dem All zurück",
+      "link": "https://www.heise.de/news/China-holt-gestrandete-Raumfahrer-aus-dem-All-zurueck-11078306.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T07:04:00",
+      "content": "Drei chinesische Astronauten sitzen nach einem Vorfall mit vermutlich Weltraumschrott im All fest. Die Bodenkontrolle will sie am Freitag zurückholen.",
+      "content_length": 150,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "China and Saudi Arabia among nations receiving climate loans, analysis reveals",
+      "link": "https://www.theguardian.com/global-development/2025/nov/14/china-and-saudi-arabia-among-nations-receiving-climate-loans-analysis-reveals",
+      "published": "2025-11-14T07:00:23",
+      "content": "Investigation by Guardian and Carbon Brief finds just a fifth of funds to fight global heating went to poorest 44 countriesChina and wealthy petrostates including Saudi Arabia and UAE are among countries receiving large sums of climate finance, according to an analysis.The Guardian and Carbon Brief analysed previously unreported submissions to the UN, along with data from the Organisation for Economic Cooperation and Development (OECD), that show how billions of dollars of public money is being committed to the fight against global heating. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Not so Golden Brown: DJ plays 24-hours of No 2s in Lake District sewage protest",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/14/lake-district-sewage-pollution-dj-radio-protest-number-twos",
+      "published": "2025-11-14T07:00:23",
+      "content": "Radio host uses chart songs that didn’t quite make top spot to highlight issue of  Windermere pollutionIf you Sit Down and wonder why Britain’s streams, rivers and lakes are so filthy, you’re probably Holding Out for a Hero to halt this Scandalous discharge of sewage.Step forward the Lake District Radio DJ Lee Durrant, who will go Radio Ga Ga with a 24-hour live broadcasting marathon on Friday, playing songs that peaked at No 2 in the charts to highlight the ongoing stench of not quite Golden Brown “number twos” floating downstream. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Resident doctors begin five-day strike in latest walkout over pay",
+      "link": "https://www.theguardian.com/society/2025/nov/14/resident-doctors-begin-five-day-strike-in-latest-walkout-over-pay",
+      "published": "2025-11-14T07:00:22",
+      "content": "Thirteenth action since March 2023 will put further pressure on stretched budgets, say NHS groupsThousands of resident doctors have begun strike action across England in a dispute over pay.The five-day action, which began at 7am on Friday, is the 13th walkout by doctors since March 2023 and health leaders have warned that the NHS may have to cut frontline staff and offer fewer appointments and operations if the strikes continue. Continue reading...",
+      "content_length": 452,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "I rode in one of the UK’s first self-driving cars",
+      "link": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london",
+      "published": "2025-11-14T07:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nI never really believed self-driving cars would make it to the UK, so you can imagine my surprise when I found myself clambering into one of Wayve's autonomous vehicles for a journey around north London a few weeks ago. \nIn June, the company announced plans with Uber to begin trialing Level 4 fully autonomous robotaxis in the capital as soon as 2026, part of a government plan to fast-track self-driving pilots ahead of a potential wider rollout in late 2027. Alphabet-owned Waymo, now a staple fixture of US cities like San Francisco, Los Angeles, and Phoenix, also has its eyes on London, announcing plans for its own fully driverless robotaxi  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Analyse: Wie geht es mit dem Rentenniveau weiter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-reform-haltelinie-100.html",
+      "published": "2025-11-14T06:59:06",
+      "content": "   Was passiert, wenn sich Schwarz-Rot bei der Rente nicht einigt - und die Reform erstmal liegen bleibt? Ein Blick in die Mechanik der Rentenkasse zeigt: Deutschlands Rentner könnten erstmal sogar mehr Geld bekommen. Von Jan-Peter Bartels.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australia news live: severe weekend storms forecast for east coast; Bondi Sands recalls two sunscreens due to formulation concerns",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/14/australia-news-live-net-zero-coalition-sussan-ley-liberals-climate-change-anthony-albanese-labor-hobart-stadium-ntwnfb",
+      "published": "2025-11-14T06:57:02",
+      "content": "Follow today’s news liveGet our breaking news email, free app or daily news podcastSome ACT schools partially closed, with preschools also affected over asbestos warning for play sandThe list of schools closed in the ACT also includes partial closures affecting multiple classes and preschool closures.What we’ve done is been very clear and said we’re going back to an approach where the market will determine the types of technologies and the pathways. And that is the traditional Liberal approach to addressing these types of issues. And that’s how business gets certainty because it enables the market to dictate.I think people will understand that they don’t want us racing ahead of the rest of the world, costing us manufacturing jobs, costing us industry jobs and putting unrealistic and unreasonable pressure on households because of their electricity bills. Continue reading...",
+      "content_length": 885,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pentagon kündigt Operation \"Southern Spear\" in der Karibik an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-militaereinsatz-hegseth-100.html",
+      "published": "2025-11-14T06:46:04",
+      "content": "   Zahlreiche Angriffe auf mutmaßliche Drogenboote, Dutzende Tote, in die Region zusammengezogene Streitkräfte: Das Pentagon hat den Einsatz in der Karibik nun offiziell als Operation \"Southern Spear\" benannt.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France clinch 2026 World Cup spot on anniversary of Paris attacks",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251114-france-clinch-2026-world-cup-spot-on-anniversary-of-paris-attacks",
+      "published": "2025-11-14T06:42:27",
+      "content": "America, here we come! France secured their place in the 2026 World Cup by beating Ukraine 4-0 at the Parc des Princes. Kylian Mbappé led the team with a brace, reaching a new milestone of 400 career goals. The match featured a tribute before kickoff to the victims of the November 13, 2015 attacks.",
+      "content_length": 299,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Ruhe nach dem Sturm im DAX?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-nach-kursrutsch-aktien-oel-100.html",
+      "published": "2025-11-14T06:29:44",
+      "content": "   Nach dem gestrigen Kurssturz dürfte der DAX zum Wochenschluss einen Stabilisierungsversuch starten. Der gestrige Ausverkauf hat jedoch tiefe Spuren im deutschen Leitindex hinterlassen.[mehr]",
+      "content_length": 193,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Explosions rock Kyiv as mayor reports ‘massive’ Russian strikes across the capital",
+      "link": "https://www.france24.com/en/video/20251114-one-person-killed-after-moscow-targets-kyiv-with-massive-overnight-attack",
+      "published": "2025-11-14T06:29:34",
+      "content": "Almost every district of Ukraine’s capital Kyiv came under a “massive” attack on Friday, Mayor Vitaly Klitschko said. The attack killed at least one person and wounded at least 15 more, according to emergency services. Russia fired missiles and drones at energy, rail and other critical infrastructure, officials said, amid intensified strikes since its 2022 invasion.",
+      "content_length": 368,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Luis Rubiales has eggs thrown at him during book launch in Madrid",
+      "link": "https://www.theguardian.com/football/2025/nov/14/luis-rubiales-has-eggs-thrown-at-him-during-book-launch-in-madrid",
+      "published": "2025-11-14T06:26:13",
+      "content": "The man that former Spanish football president claimed was his uncle threw three in the direction of the 48-year-oldThe disgraced former Spanish football federation (RFEF) president Luis Rubiales had eggs flung at him, allegedly by his uncle, during the presentation of his new book on Thursday in Madrid.Rubiales, convicted of sexual assault for a forced kiss on player Jenni Hermoso, appeared to be struck on the back by an egg as the man Rubiales claimed was his uncle threw three in the direction of the 48-year-old. Continue reading...",
+      "content_length": 540,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Für Kontakt zu Weltraumsonden: NASA-Riesenantenne seit Monaten ausgefallen",
+      "link": "https://www.heise.de/news/Fuer-Kontakt-zu-Weltraumsonden-NASA-Riesenantenne-seit-Monaten-ausgefallen-11078249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T06:19:00",
+      "content": "Über das Deep Space Network kommuniziert die NASA mit Weltraumsonden und Rovern. Schon seit September ist eine der drei größten Antennen aber außer Betrieb.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Graeme Samuel calls for Labor to ditch ‘national interest’ workaround for environment laws",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/graeme-samuel-calls-for-labor-to-ditch-national-interest-workaround-for-environment-laws",
+      "published": "2025-11-14T05:59:51",
+      "content": "Former ACCC chair condemns proposed exemption allowing minister to approve projects that don’t comply with lawGet our breaking news email, free app or daily news podcastThe former competition watchdog chief Graeme Samuel says the government should axe its proposal to allow the environment minister to make decisions in breach of national laws if it is deemed in the “national interest”.Samuel, who led a 2020 review of the Environment Protection and Biodiversity Conservation (EPBC) Act, also argued a loophole that effectively exempts native forest logging from the laws “shouldn’t be there”. Continue reading...",
+      "content_length": 614,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Epstein-Akten: Entscheidender Schritt in Petition zur Offenlegung",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-fall-petition-mails-100.html",
+      "published": "2025-11-14T05:29:35",
+      "content": "   Eine neue Abgeordnete hat die entscheidende Stimme unter eine Petition gesetzt, die die Offenlegung der Epstein-Akten erzwingen will. Nach neuen Veröffentlichungen werden die Rufe nach Klarheit lauter - auch mit Blick auf Trump. Von A. Schneider.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ubisoft: Geschäftszahlen verzögert, Aktienhandel ausgesetzt",
+      "link": "https://www.heise.de/news/Ubisoft-Geschaeftszahlen-verzoegert-Aktienhandel-ausgesetzt-11078217.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T05:18:00",
+      "content": "Ubisoft hat seine aktuellen Geschäftszahlen nicht wie geplant am Donnerstag veröffentlicht – man brauche mehr Zeit. Der Börsenhandel wurde vorerst eingestellt.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "The UK wants to emulate Denmark’s hardline asylum model – but what does it actually look like?",
+      "link": "https://www.theguardian.com/world/2025/nov/14/the-uk-wants-to-emulate-denmarks-hardline-asylum-model-but-what-does-it-actually-look-like",
+      "published": "2025-11-14T05:00:21",
+      "content": "Denmark has slashed asylum numbers by granting only short-term status and by targeting ‘ghettoes’, which critics say has damaged the country’s valuesOf all the measures introduced to deter people from seeking asylum in Denmark over the last decade, it is the impermanence of refugees’ status that is often cited as the most effective.Before 2015, refugees in Denmark were initially allowed to stay for between five and seven years, after which their residence permits would automatically become permanent. But 10 years ago, when more than a million people arrived in Europe fleeing conflict and repression, largely from Syria, Afghanistan, Iraq and Eritrea, the Danish government dramatically changed the rules. Continue reading...",
+      "content_length": 731,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘We’re proud to be pioneers’: inside Spain’s community energy revolution",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/were-proud-to-be-pioneers-inside-spains-community-energy-revolution",
+      "published": "2025-11-14T05:00:18",
+      "content": "From Taradell to Galicia, cooperatives are supplying cheap, clean electricity to homes and helping tackle fuel povertyIt began in the small Catalan town of Taradell as a plan to provide local people with allotments where they could grow their own food.Four activists came together with the aim of promoting good environmental practices in local agriculture and business, as well as supplying renewable energy. The project, however, was about much more than growing vegetables. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US announces ‘Southern Spear’ mission amid naval buildup in Latin America",
+      "link": "https://www.france24.com/en/americas/20251114-us-new-military-operation-latin-america",
+      "published": "2025-11-14T04:56:53",
+      "content": "US Defence Secretary Pete Hegseth on Thursday announced “Operation SOUTHERN SPEAR” to target “narco-terrorists\", as regional tensions rose over a US naval buildup in Latin American waters. Hegseth gave no details on the mission or how it differs from existing military operations.",
+      "content_length": 280,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Multiple ACT schools shut after alert over asbestos in coloured sand products",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/multiple-act-schools-shut-after-alert-over-asbestos-in-coloured-sand-products",
+      "published": "2025-11-14T04:43:31",
+      "content": "Testing and remediation to take place in 16 schools after a consumer safety recall was issued for coloured sand used in sensory play and arts and craftsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMore than a dozen primary and preschools in the ACT have shut their doors, and a special school in Brisbane has made a snap closure, after an asbestos warning was issued for a range of colourful children’s sand products imported from China and sold at leading Australian retailers.As of Friday afternoon, 16 schools and six preschools were fully closed, up from three preschools and 10 schools when the alert was first issued around 9am. Eight schools and preschools were partially closed to multiple cohorts while testing and remediation took place. Continue reading...",
+      "content_length": 835,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Plan for Australia’s largest carbon capture project near Darwin criticised as creating ‘dumping ground’",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/darwin-carbon-capture-storage-ccs-proposal-inpex",
+      "published": "2025-11-14T04:29:30",
+      "content": "Climate advocates fear the project, proposed by Japanese oil and gas giant Inpex, would turn the area into the ‘world’s largest carbon dumping ground’Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereOil and gas giant Inpex has proposed Australia’s largest carbon capture facility in waters off the Northern Territory, which climate advocates have warned could turn Darwin into a carbon dumping ground.The Bonaparte carbon capture and storage (CCS) project proposes to pipe and store 8m to 10m tonnes of carbon dioxide (CO2) into an underground aquifer located about 250km offshore west of Darwin, according to documents lodged with the federal environment department. Continue reading...",
+      "content_length": 725,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Two hours a night: Japan PM’s sleep schedule prompts concerns about work-life balance",
+      "link": "https://www.theguardian.com/world/2025/nov/14/japan-pm-two-hours-sleep-schedule-sanae-takaichi",
+      "published": "2025-11-14T04:19:44",
+      "content": "Takaichi caused a stir last week after she summoned aides to her office for a 3am meeting to prepare for a budget committee hearingJapan’s prime minister, Sanae Takaichi, has said she gets by on just two to four hours sleep a night – prompting concern over her commitment to a better work-life balance among the country’s fatigued employees.Pointing to the bags beneath her eyes, Takaichi told MPs that she survives on minimal sleep – a habit she shares with her political hero Margaret Thatcher – after being asked how she would tackle Japan’s notoriously long working hours. Continue reading...",
+      "content_length": 596,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach 55 Jahren: Letzter Ford Focus läuft in Saarlouis bald vom Band",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ford-saarlouis-focus-fiesta-e-autos-100.html",
+      "published": "2025-11-14T04:14:04",
+      "content": "   Seit 1970 werden in Saarlouis Ford-Modelle gebaut. Doch damit ist nun bald Schluss. Auch in seinem Kölner Werk steht Ford vor massiven Problemen - der Autobauer kämpft im E-Auto-Geschäft mit hohen Verlusten. Von Angela Göpfert.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hunderte Millionen Euro werden von Erbschleichern erbeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/machtlos-gegen-erbschleicherei-100.html",
+      "published": "2025-11-14T04:06:34",
+      "content": "   In Deutschland werden jährlich rund 400 Milliarden Euro vererbt oder verschenkt. Allerdings landen geschätzt rund 400 Millionen auf den Konten von Erbschleichern. Diese gehen bei ihren Opfern strategisch vor. Von A. Zimmermann.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Russia attacks ‘every district’ of Kyiv, sparking fires across Ukrainian capital",
+      "link": "https://www.theguardian.com/world/2025/nov/14/russia-attack-every-district-kyiv-city-strikes",
+      "published": "2025-11-14T03:12:19",
+      "content": "Pictures posted on social media showed different sites in flames and residents gathering in rubble-strewn streets outside apartment buildingsRussia unleashed a massive combined attack on Kyiv early Friday, sparking fires and scattering debris across many districts of the capital, mayor Vitali Klitschko said. At least 11 people were injured as emergency crews responded to multiple strikes, he said in a statement.Five people were hospitalised, including one man in critical condition and a pregnant woman, after a series of powerful explosions sounded in the city and air defences were activated. Continue reading...",
+      "content_length": 618,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hegseth announces military operation to remove ‘narco-terrorists from our Hemisphere’– as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/13/donald-trump-jeffrey-epstein-files-us-government-shutdown-latest-news-updates",
+      "published": "2025-11-14T02:53:42",
+      "content": "This live blog is now closed.Trump news at a glance: president faces potentially damaging congressional vote over releasing Epstein filesDemocrats appear more enthusiastic than Republicans about voting in next year’s congressional elections following the party’s victories in recent state and local contests, according to a new Reuters/Ipsos poll, which showed Republican President Donald Trump’s approval steady at 40%.The six-day poll, which closed on Wednesday, showed 44% of registered voters who called themselves Democrats said they were “very enthusiastic” about voting in the November 3, 2026, elections, compared with 26% of Republicans who said the same. Some 79% of Democrats said they would regret it if they didn’t vote in the election, compared to 68% of Republicans. Continue reading...",
+      "content_length": 801,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel receives body of one of the last four hostages held in Gaza",
+      "link": "https://www.france24.com/en/middle-east/20251114-israel-gaza-hostages",
+      "published": "2025-11-14T02:52:41",
+      "content": "Israel on Thursday received from the Red Cross the body of Meny Godard, one of the last four hostages held in Gaza, under a ceasefire deal with Hamas, the prime minister’s office said. Forensics confirmed Godard, 73, was killed during the October 7, 2023 Hamas-led attacks, it added.",
+      "content_length": 283,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Jeff Bezos's Blue Origin launches NASA Mars spacecraft on first New Glenn flight",
+      "link": "https://www.france24.com/en/americas/20251114-blue-origin-s-new-glenn-sends-nasa-craft-toward-mars-lands-booster-successfully",
+      "published": "2025-11-14T02:35:10",
+      "content": "Jeff Bezos’s Blue Origin launched its New Glenn rocket on Thursday carrying NASA’s twin Mars-bound spacecraft, and in a major milestone successfully landed its booster for reuse. The launch, delayed for days by weather, marked only the second New Glenn flight and the first booster recovery by a company other than SpaceX.",
+      "content_length": 322,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The great escape: seal flees killer whales by jumping on to photographer’s boat",
+      "link": "https://www.theguardian.com/environment/2025/nov/13/seal-killer-whale-hunt",
+      "published": "2025-11-14T02:34:31",
+      "content": "Charvet Drucker captures dramatic video and photos of seal being hunted by orcas in Salish Sea, north-west of SeattleA wildlife photographer on a whale-watching trip in waters off Seattle captured dramatic video and photos of a pod of killer whales hunting a seal that survived only by clambering on to the stern of her boat.Charvet Drucker was on a rented 20ft (6 metre) boat near her home on an island in the Salish Sea about 40 miles north-west of Seattle when she spotted a pod of at least eight killer whales, also known as orcas. Continue reading...",
+      "content_length": 555,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "What insiders anonymously think about the AI race",
+      "link": "https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey",
+      "published": "2025-11-14T02:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nI spent yesterday at Eric Newcomer's Cerebral Valley conference in San Francisco, which is now in its third year. I've attended this event for three years in a row because Eric does a great job curating the speakers and the audience, and the conversations are more substantive than a typical industry event.\nThis year was no exception; however, I found the most interesting part of the day to be when the results of an anonymous audience survey were shared onstage. The more than 300 attendees who part …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Florida kills man on death row in state’s 16th execution this year",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/florida-execution-bryan-frederick-jennings",
+      "published": "2025-11-14T01:56:57",
+      "content": "Bryan Frederick Jennings, convicted over rape and murder of young girl in 1979, given three-drug lethal injectionA man found guilty in the 1979 rape and murder of a six-year-old girl was executed in Florida on Thursday.Bryan Frederick Jennings was pronounced dead at 6.20pm local time after being administered a three-drug lethal injection. Jennings was sentenced to death for the killing of Rebecca Kunash, whom he drowned in a canal, according to reports. Continue reading...",
+      "content_length": 477,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US justice department joins lawsuit to block California’s new electoral map",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/california-electoral-map-lawsuit-justice-department",
+      "published": "2025-11-14T01:44:17",
+      "content": "Move escalates legal battle over a redistricting effort designed to help Democrats flip House seats in 2026The justice department on Thursday joined a lawsuit brought by California Republicans to block the state’s new congressional map, escalating a legal battle over a redistricting effort designed to give Democrats a better chance of retaking the House of Representatives next year.The lawsuit, filed in federal court in California, challenges the congressional map championed by Gavin Newsom, the state’s Democratic governor, in response to a Republican gerrymander in Texas, sought by Donald Trump. The justice department’s intervention in the case sets up a high-profile showdown between the Trump administration and Newsom, one of the president’s chief antagonists and a possible 2028 contender. Continue reading...",
+      "content_length": 822,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lanlan Yang pleads not guilty to all charges over crash of $1.5m Rolls Royce SUV in Sydney’s east",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/14/lanlan-yang-high-profile-sydney-chinese-woman-pleads-not-guilty-rolls-royce-crash-rose-bay-ntwnfb",
+      "published": "2025-11-14T00:58:05",
+      "content": "Case has attracted attention from Chinese Australian community and on social media due to her lavish wealth and speculation about her backgroundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe high-profile Sydney Chinese woman Lanlan Yang has pleaded not guilty to all charges relating to a crash in Sydney’s eastern suburbs in July that left a driver for FM radio host Kyle Sandilands with serious injuries.The 23-year-old was accused of being at the wheel of a $1.5m Rolls-Royce SUV when it collided with a Mercedes driven by George Plassaras on New South Head Road in Rose Bay on 26 July. Continue reading...",
+      "content_length": 679,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rachel Reeves to abandon plans to raise income tax rates in budget",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/14/rachel-reeves-to-abandon-plans-to-raise-income-tax-rates-in-budget",
+      "published": "2025-11-14T00:19:56",
+      "content": "Labour had laid the ground to break a manifesto pledge on taxes for working people but has now made a U-turnRachel Reeves is set to abandon a plan to raise income tax in her budget with the chancellor reportedly “ripping up” the main measures in the wake of turmoil in the party.A source told the Guardian that plans to break the manifesto pledge on income tax had been ditched by the prime minister, Keir Starmer, and the chancellor. Continue reading...",
+      "content_length": 454,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rare bronze and iron age log boats reveal details of Cambridgeshire prehistory",
+      "link": "https://www.theguardian.com/science/2025/nov/14/rare-iron-bronze-age-log-boat-cambridgeshire-archaeology-history",
+      "published": "2025-11-14T00:01:12",
+      "content": "Well-preserved oak and maple boats used for transport and fishing to be displayed in PeterboroughAfter lying undisturbed in mud for more than 3,000 years, three rare bronze and iron age log boats have emerged to offer fresh insights into prehistoric life.The boats were among nine discovered in a Cambridgeshire quarry 13 years ago – the largest group of prehistoric boats found in the same UK site. Most were well preserved, with one still able to float despite its long incarceration. Continue reading...",
+      "content_length": 506,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brussels court convicts Belgian jihadist presumed dead of Yazidi genocide",
+      "link": "https://www.france24.com/en/europe/20251113-brussels-court-convicts-belgian-jihadist-presumed-dead-of-yazidi-genocide",
+      "published": "2025-11-13T23:41:27",
+      "content": "A Brussels court on Thursday found Belgian jihadist Sammy Djedou – presumed killed in a 2016 air strike – guilty of genocide against Iraq’s Yazidis. Djedou, an Islamic State fighter reported dead in Raqqa, was tried in absentia after Belgium received no formal confirmation of his death in its first Yazidi-related mass-crimes case.",
+      "content_length": 332,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie soll KI an Schulen eingesetzt werden?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ki-lehrer-schueler-100.html",
+      "published": "2025-11-13T23:34:29",
+      "content": "   In Berlin diskutieren Lehrerinnen und Lehrer über KI in der Schule. Welche Rolle soll sie im Unterricht spielen? Wie können Schüler und Lehrer davon profitieren? Ideen gibt es viele. Von Kilian Pfeffer.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "This flu season looks grim as H3N2 emerges with mutations",
+      "link": "https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/",
+      "published": "2025-11-13T23:22:41",
+      "content": "Health officials in the United Kingdom are warning that this year’s flu season for the Northern Hemisphere is looking like it will be particularly rough—and the US is not prepared.\nThe bleak outlook is driven by a new strain of H3N2, which emerged over the summer (at the end of the Southern Hemisphere’s season) sporting several mutations. Those changes are not enough to spark the direst of circumstances—a deadly pandemic—but they could help the virus dodge immune responses, resulting in an outsized number of severe illnesses that could put a significant strain on hospitals and clinics.\nIn the UK, the virus has taken off. The region’s flu season has started around five weeks earlier than normal and is making a swift ascent.Read full article\nComments",
+      "content_length": 758,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Your Party receives ‘small portion’ of withheld supporters’ donations",
+      "link": "https://www.theguardian.com/politics/2025/nov/13/your-party-receives-small-portion-of-withheld-supporters-donations",
+      "published": "2025-11-13T23:19:38",
+      "content": "Row continues between camps of Jeremy Corbyn and Zarah Sultana, whose company holds hundreds of thousands of pounds of party fundsThe leftwing Your Party, set up by Jeremy Corbyn and Zarah Sultana, is embroiled in another public row over donations to the party.A statement from Corbyn along with Shockat Adam MP, Adnan Hussain MP, Ayoub Khan MP and Iqbal Mohamed MP states that hundreds of thousands of pounds were donated to the party “by supporters in good faith, but have since remained beyond its reach”, which they describe as being “extremely frustrating and disheartening”. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "France qualify for 2026 World Cup with win over Ukraine on anniversary of Paris attacks",
+      "link": "https://www.france24.com/en/sport/20251113-france-2026-world-cup-ukraine-paris-attacks",
+      "published": "2025-11-13T23:08:09",
+      "content": "France clinched a spot at the 2026 World Cup with a 4-0 win over Ukraine on Thursday as the country marked the 10th anniversary of the 2015 Paris attacks. Portugal were forced to wait after a 2-0 loss in Dublin, while Italy’s late goal in Moldova delayed Norway’s qualification.",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Cannabiskonsum nach Teillegalisierung kaum verändert",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/cannabiskonsum-in-deutschland-100.html",
+      "published": "2025-11-13T23:00:50",
+      "content": "   Cannabis ist seit gut eineinhalb Jahren teilweise legal - das entsprechende Gesetz ist nach wie vor umstritten. Neue Erhebungen zeigen, dass sich der Konsum in den Monaten danach nicht wesentlich veränderte. Von Leila Boucheligua.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BBC apologises to Trump over film edit but rejects defamation claim",
+      "link": "https://www.france24.com/en/europe/20251113-bbc-trump-defamation-claim",
+      "published": "2025-11-13T22:54:43",
+      "content": "The BBC said on Thursday its chairman had apologised to US President Donald Trump for a misleading edit of one of his speeches, but denied it amounted to defamation. The broadcaster also said it was probing a possible second instance of a Trump speech edited in a misleading way.",
+      "content_length": 279,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "In newly released emails, Epstein suggests Donald Trump knew 'about the girls'",
+      "link": "https://www.france24.com/en/americas/20251113-emails-epstein-donald-trump",
+      "published": "2025-11-13T22:45:25",
+      "content": "Jeffrey Epstein suggested Donald Trump knew about his abuse and “spent hours” with a victim at his home, according to emails released by Democrats on Wednesday, raising fresh questions for the US president. Trump has denied any knowledge of Epstein’s sex-trafficking crimes and accused Democrats of political deflection.",
+      "content_length": 320,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best instant cameras you can buy right now",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2025-11-13T22:33:47",
+      "content": "\n\n\n\t\n\t\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nEven with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured by an instant camera aren’t as pristine or perfect as those produced by modern digital cameras, but their soft images and imperfections are often a big part of the allure.\n\nYet not all instant cameras are the same, and some of them are better suited for different needs and budgets. That’s why we tested some of the most popular instant cameras on the market from brands like Fujifilm, Polaroid, Leica, Canon, Kodak, and others.\n\nAll the models featured in our instant camera buying guide are enjoyable to use, but each offers a distinct set of features at a different price point. As a result, some are more appropriate for a child or budding photographer, while others are more advanced and provide added creative control (for a price). When it comes down to it, though, we consider print quality, ease of use, and affordability to be the hallmarks of a quality shooter. That’s why we picked Fujifilm’s Instax Mini 12 as the best instant camera for most people, as it ticks all three boxes wonderfully.\n\n\n\nIf you’re looking for more creative control or features like filters, however, the Instax Mini Evo is our choice, one that boasts great image quality and allows you to choose which photos you’d like to print. Other instant cameras, like Kodak’s Mini Retro 3, also offer a variety of advanced creative modes for those who desire more.\n\nTake a look at this list of our instant camera recommendations to find the best fit for you.\n\nThe best instant camera for most people\nFujifilm Instax Mini 12\n\nScore: 8ProsConsProduces relatively true-to-life photosTerrific ease of useVery affordableInstax film can get priceyMinimal creative controlFlash can be overpowering\nWhere to Buy: $93.95 $89 at Amazon $93.99 $93 at Walmart $93.95 at Best Buy\nFilm type: Fujifilm Instax Mini film (sold separately) / Film size: 2 x 3-inches / Weight: 306 grams / Charging method: AA batteries / Companion app: None / Other features: Built-in selfie mirror, film counter\n\nIf all you’re looking to do is just click a button and get a decent print for a reasonable price, we recommend Fujifilm’s Instax Mini 12. It’s a basic instant camera that’s similar to our former pick, the Instax Mini 11, but with some minor updates. It still takes less than five minutes to start shooting, but the setup process is easier since all you need to do is twist the lens to either “on” or “off.” Such ease of use, combined with the camera’s thinner build, makes it particularly well suited for those new to photography and kids.\n\nFor an instant camera, image quality is also better than most of the other cameras I tested, producing relatively true-to-life photos. Most of the cameras I tested struggled to capture low-light conditions well, and this one is no exception, but the built-in flash does help. Fujifilm claims the Mini 12 optimizes image quality in both dark and bright environments better than its predecessor, but I didn’t notice much of a difference. The flash — which you can’t disable — is also still overpowering in some instances, resulting in a few overexposed images. If anything, the photos actually seemed a little darker and less vivid than before.\n\nHowever, at least the Instax Mini 12 captured my features and skin color more accurately when I used the included selfie feature — which is really just a small mirror mounted on the front of the camera.\n\nYou can also now zoom in a little easier thanks to a new lens structure, which you can twist to enter the Close-Up Mode in lieu of pressing a button. When in this mode, you can take advantage of the camera’s new&nbsp;“Parallax Correction” feature, which is supposed to result in a more aligned photo. The lens was fun to play with and reminded me of a traditional point-and-shoot, but actually using it to take quality photos takes some time to figure out. As with the Mini 11, it’s still somewhat tricky to center your subject in the frame using this mode, even with the updated lens. Thankfully, it became easier to properly align photos after a couple of attempts (as well as some composition guidance from the manual).\n\nThe Mini 12 also offers a number of other niceties. I appreciated the larger-than-average viewfinder and the fact that the camera comes with a small counter that displays the remaining number of shots, which is a feature many of the other instant cameras I tested lacked. It’s easy to lose track of how many photos you’ve taken, especially when out for drinks or while sightseeing on vacation. Yet given each print costs about $1, it’s important to be mindful of how many shots you’ve got left.\n\nAll in all, the Instax Mini 12 is a basic camera that caters to all ages and experience levels and gets the job done — and done relatively well. It doesn’t feature Bluetooth or pair with a companion app that allows you to edit photos (only scan them), and it also doesn’t offer advanced features like filters, lens options, or portrait modes. But if you’re looking for an instant camera that offers a great traditional analog experience, this is it.\n\nBest premium instant camera\nFujifilm Instax Mini Evo\n\nScore: 8ProsConsGreat use of dials and buttonsLots of printing flexibilityGood battery lifeInternal storage is limitedMicro USB port is annoyingNo viewfinder\nWhere to Buy: $234 at Amazon $234 at B&amp;H Photo $234.99 at Best Buy\nFilm type: Fujifilm Instax Mini film (sold separately) / Film size: 2 x 3-inches / Weight: 285 grams / Charging method: USB-C (on newer models) / Companion app: Yes / Other features: LCD screen, smartphone printing\n\nOne of Fujifilm’s newest instant cameras, the Instax Mini Evo, was a favorite of my former colleague Becca Farcase — and it’s mine as well. A hybrid camera that bears a resemblance to Fujifilm’s more expensive Fujifilm X100 line of cameras, it looks good and boasts vintage dials and buttons so stylish that they even caught the attention of passersby as I walked around Los Angeles taking photos. I tested the black camera, but Fujifilm also sells a brown version and limited edition models in silver and gold.\n\nIt’s easy to balk at its $216.95 price tag, but this camera offers a level of flexibility that could save you money in the long run if you use it a lot. That’s because the Instax Mini Evo includes a full-color three-inch LCD screen that lets you preview and select which images you want to print, which can help you avoid wasting film on unwanted shots. The added flexibility gave me more room for creative experimentation, too, as I wasn’t worried about running out of film. I also loved using the Instax Mini Evo app to print photos from my smartphone. Plus, unlike the Instax Mini 12, the Evo now uses a USB-C port (though older black models still use the Micro USB port) for charging, so you don’t need to keep buying new batteries.\n\nUnlike Fujifilm’s Instax Mini 12, the Mini Evo comes with a few extra features that can help you capture better photos. For example, you can actually turn off the flash on the Mini Evo and use the three-inch LCD screen as a viewfinder. You can also use the menu to adjust how bright you want the film to look when it’s printed out, which was helpful given neither the Evo nor the Mini 12 are particularly great at capturing dark environments.\n\nAdditionally, there are dials you can use to apply various lens options and filters, ranging from retro to monochrome shades, as well as a mirror lens, vignette, soft focus, and more. You can take app-based remote shots, too, which adds an extra element of photographic control that can help you take better selfie shots than the selfie mirror in the front.\n\nOf course, it’s not a perfect device, and there are some downsides to consider outside the price. For instance, although you can add some filters and make a few edits using Fujifilm’s companion app, it just isn’t as feature-rich as some of the apps available for the other digital and hybrid instant cameras I tested. The Evo’s extensive menu system isn’t particularly easy to navigate, either, and it took me some time to figure out how to turn the flash on and off. Plus, if you rely on internal storage solely, you can only take 45 images before the device is full. Still, all of these are minor issues, and I was very happy overall with how portable the stylish camera is, as well as how easy it is to take good photos quickly.\n\nRead our Fujifilm Instax Mini Evo review.\n\nThe best instant camera for social occasions\nKodak Mini Shot 3 Retro\n\nScore: 6ProsConsLets you print photos from your phoneEntertaining companion appComes with filmSo-so image quality Unable to store imagesNot as stylish as the Instax Mini Evo\nWhere to Buy: $169.99 $154.99 at Walmart (with eight sheets) $169.99 $154.99 at Amazon (with eight sheets) $169.99 $154.99 at Kodak (with eight sheets)\nFilm type: Kodak Instant Print 3 x 3-inch cartridge (included) / Film size: 3 x 3-inch square prints / Weight: 467 grams / Charging method: Micro USB / Companion app: Yes / Other features: LCD screen, smartphone printing\n\nWhereas the Instax Mini Evo’s companion app is more functional, Kodak’s hybrid Mini Shot 3 Retro is all about fun. The camera’s accompanying mobile app allows you to apply frames, stickers, filters, and a plethora of customization options to photos, making the camera great for scrapbooking. There’s even a beauty feature within the app to conceal blemishes, as well as a set of Snapchat-like filters you can use to add, say, dog ears, making this a fun instant camera to use as a mini photo booth of sorts at parties.\n\nLike the Instax Mini Evo, Kodak’s Mini Shot 3 Retro comes with an LCD screen (albeit a much smaller one) you can use to decide whether or not you want to print a shot. It also supports Bluetooth, and you can use the Kodak Photo Printer app to upload photos to social media or print decent, relatively crisp photos from your smartphone. Unlike the Mini Evo, however, Kodak’s Mini Shot 3 Retro retails for around $170 and includes a pack of a film (it’s also often on sale for a lot less). It also uses cheaper film; you can currently pick up a 60-sheet cartridge for about $17.99, which equates to roughly $0.33 a shot. The fact that the film is cheaper arguably encourages play and creative experimentation, even if the large 3 x 3-inch square prints feel lower in quality and more flimsy than both Fujifilm’s and Polaroid’s.\n\nHowever, there are notable drawbacks to the Kodak Mini Shot 3. My biggest issue is that the resulting prints of photos taken with the camera aren’t nearly as crisp or clear as those taken with a smartphone. Photo quality wasn’t consistently as good as the Mini Evo’s or Mini 12’s nor, for the most part, as clear and sharp. The photos also sometimes had an excessive pink tint that can interfere with quality. It doesn’t store images the way the Mini Evo does, either, which means you can’t decide whether you’d like to print them later. It’s also noticeably heavier than the Mini Evo and, frankly, nowhere near as stylish.\n\nNonetheless, if you don’t mind compromising on photo quality and want a relatively affordable hybrid camera with fun app features, the Kodak Mini Shot 3 Retro is a good choice.\n\nThe best instant camera for retro fans\nPolaroid Flip\nThe Polaroid Flip is a great instant camera for retro fans that prints vintage-style photos and offers modern conveniences like USB-C. It also features a variety of creative modes via the companion app, making it a solid choice for artistic photography as well. \n\nScore: 7ProsConsAttractive, retro designPrints dreamy, vintage-style photos that are relatively sharp for a Polaroid photoSeveral creative modesUSB-CStruggles in low lightFilm takes up to 15 minutes to developBulky and relatively heavy\nWhere to Buy: $219.99 at Amazon $219.99 at Best Buy $219.99 at Polaroid\nFilm type:&nbsp;Polaroid i-Type Color Film (sold separately) /&nbsp;Film size:&nbsp;4.2 x 3.5-inch prints /&nbsp;Weight:&nbsp;648 grams /&nbsp;Charging method:&nbsp;USB-C /&nbsp;Companion app:&nbsp;Yes /&nbsp;Other features:&nbsp;Flip-up lid, scene analysis feature\n\nIf you’re looking for an instant camera that offers the most old-fashioned, instant-film experience, the Polaroid Flip is the camera for you. It resembles vintage instant cameras like the Polaroid 600 more than any other camera on our list, thanks to its classic, retro-inspired design and flip-up lid. Its square I-Type film prints and iconic white frame give photos an authentically vintage look, while modern touches like Bluetooth, USB-C charging, and a beginner-friendly companion app add greater convenience and creative control.\n\nCompared to the third-gen Polaroid Now Plus, my former retro pick, the Flip delivers clearer shots with fewer wasted photos, making the extra $50 worthwhile given that eight I-Type sheets are a spendy $16.99. The increased clarity can be attributed to several factors, including the Flip’s sonar autofocus and a four-lens hyperfocal system — which result in sharper, more focused images — along with its excellent flash. It’s the most powerful of any Polaroid camera, and while it can sometimes overexpose images, you can adjust exposure directly from the camera or app. The Scene Analysis feature also helps by warning if a shot is likely to be over- or underexposed, or if you’re too close to your subject. In my experience, the warnings didn’t always prevent overexposure, but they did leave me with shots that looked less blown than those from the Now Plus.\n\nIf there’s one thing the Polaroid Flip isn’t known for, it’s portability. Given it’s relatively heavy and awkwardly sized, it’s not the kind of instant camera you can easily slip into your purse or carry around. Additionally, it takes up to 15 minutes for prints to develop, and you must ensure they’re not exposed to light during this process. That’s quite an inconvenience if you’re out with friends, say, at the beach on a sunny day.&nbsp;\n\nLow-light performance is another weak spot. Although it does a better job than the Now Plus, I still struggled to capture crisp indoor shots. Even in daylight, both contrast and color saturation levels are lower in comparison to Instax film. Admittedly, this gave my pictures a more dreamy, vintage look that felt artistic, and you can use the Polaroid Lab to slightly adjust the saturation and exposure settings. However, doing so is time-consuming.&nbsp;\n\nTruth be told, however, you could argue that many of these shortcomings are typical of a retro Polaroid-inspired instant camera and, thus, part of the experience. If that’s what you’re looking for, the Polaroid Flip is the perfect camera for you.\n\n\n\nThe best instant camera for portability\nPolaroid Go (second-gen)\n\nScore: 7ProsConsTiny and lightweightPrints vintage-like photos just like the Polaroid FlipUSB-C chargingStruggles in low lightFilm takes up to 15 minutes to developNo Bluetooth support or companion app\nWhere to Buy: $89.99 $79.99 at Amazon $89.99 at Best Buy  $89.99 at Polaroid\nFilm type: Polaroid i-Type Color Film (sold separately) / Film size: 2.6 x 2.1-inch prints / Weight: 239 grams / Charging method: USB-C / Companion app: No / Other features: Self-timer, selfie mirror, film counter\n\nWhereas the Polaroid Flip is huge, the second-gen Polaroid Go is tiny. It easily fits into the palm of my hand — which is saying a lot, given I’m petite and a little over five feet tall — making it easily the most portable instant camera on our list. It also produces the smallest prints of all the instant cameras I tested, which could be nice if you’re trying to save some space and want something more compact than Instax Mini prints.\n\nWeighing just over a pound, the latest Polaroid Go is also the lightest instant camera I’ve ever held, and you can easily use it with one hand. That’s actually pretty convenient, given I sometimes struggled to take pictures with the heavier Polaroid Flip and, to a lesser extent, some of the other instant cameras I tested. In fact, if the images produced looked more true-to-life and didn’t require you to hide them from light for about 15 minutes while developing, I’d be tempted to call this the best instant camera for travel or small children.\n\nAt $89.99, the latest Polaroid Go is the most affordable Polaroid camera on the market, even with its recent $10 price increase. Its film also costs just a little more than Fujifilm’s Instax Mini shots (or about $19.99 for a 16-sheet pack). The camera also sports a small number of upgrades over the last-gen model despite retailing for less. The most significant is USB-C support, which allows for faster charging and prevents you from having to spend money on AA batteries.\n\nPolaroid also claims the camera produces clearer stills than its predecessor, but truthfully, I didn’t see a significant difference from one generation to the next. The photos are a little brighter, but if anything, the original Polaroid Go produced warmer pictures that I thought were truer to life. Still, the photos are charming in the way only a Polaroid photo can be. Contrast and color saturation levels are still low but in a way that exudes the vintage, almost dreamy look of the photos taken with the Flip.\n\nUnlike the Flip, however, the Go lacks creative modes and more advanced features, although it does offer a helpful self-timer and a larger selfie mirror. There’s also no Bluetooth support and, thus, no fancy app that will allow you to add extra effects. Instead, it’s just a simple point-and-shoot camera, just like the Instax Mini 12, which makes it a little easier to use. In addition, as mentioned, the prints are smaller than those of the Instax Mini, which could be a drawback for those who prefer larger, more traditional Polaroid photos. While it produces similar vintage-style shots, design-wise, it doesn’t look anything like old-school Polaroid cameras, which could also take away from the retro experience some desire.\n\nThat said, none of the older Polaroid cameras came with an app, either. All in all, the Go’s simplicity makes it a suitable candidate for those seeking an easy-to-use camera that provides a more traditional instant film experience — one they can take advantage of just about anywhere for less than half the price of the Polaroid Flip.\n\nOther instant cameras to consider\n\nInstax Mini 41\n\nIn April, Fujifilm announced the $116.95 $109.50 Instax Mini 41, the long-awaited follow-up to the Mini 40. The updated model retains the retro design found on the prior model but introduces parallax correction, a feature borrowed from the Instax Mini 12 to help users avoid off-center shots when taking close-ups.\n\nIt didn’t take long testing the Mini 41 for me to realize it’s simply the Mini 12 for adults. With its black-and-silver body and flatter, squarer edges, the Mini 41 looks sleeker and more stylish. The two cameras are nearly identical, aside from the design, with the same solid photo quality and feature set. Both battery-powered options turn on with a simple twist of the lens, and each comes equipped with a selfie mirror, a close-up mode, and a flash (which cannot be disabled).\n\nThere are a few subtle upgrades to the Mini 41, however. A textured grip in the front makes it easier to hold, and its shape makes shooting in landscape mode more comfortable. But those are small differences, and at their core, the cameras offer the same experience. Since the Instax Mini 12 retails for less, I ultimately believe it’s the better value; however, if a fashionable, mature look appeals to you, the Mini 41 is a great alternative, especially if you can find it on sale.\n\nInstax Mini 99\n\nIf you’re looking for an advanced analog instant camera, Fujifilm’s Instax Mini 99 is one to consider. At $212.03 $216.95, Fujifilm’s latest instant camera is not as affordable as the Instax Mini 12 or the Mini 41, but it’s certainly a step up from the one-button point-and-click cameras given it has multiple brightness settings, focus zones, color effects, and even two shutter buttons for greater creative control. The camera even comes with a tripod socket and an aluminum extension column, as well as a Sports Mode designed to further reduce blur while capturing fast-moving subjects.\n\nThanks to the added level of customization, I was able to capture higher-quality photos that looked truer to life than those from the Instax Mini 12, Mini 41, and Mini Evo. Granted, the Mini 99 is an analog camera and not a hybrid like the Evo, meaning you shouldn’t buy it if you also want to print smartphone photos. The newer model is also less user-friendly than the Mini 12 and Mini 41, so I wouldn’t recommend it for young children. Still, for an advanced analog instant camera, it’s relatively easy to set up and use, rendering it as much fun for budding photographers as more experienced shooters.&nbsp;\n\nKodak Smile Plus\n\nThe Kodak Smile Plus is another hybrid instant camera that allows you to print smartphone photos. It’s smaller and less expensive than Kodak’s Mini Shot 3 Retro 3 at $99.99, and it’s available in a variety of vibrant colors that should appeal to children. It also comes with a physical filter-changing lens and prints on Zinc paper, allowing you to use your photos as stickers. \n\nHowever, it lacks a built-in display, so you can’t choose which images you want to print directly on the camera itself. This often results in more wasted shots, especially since image quality is so-so at best, even when compared to those of the Retro 3. Photos are nowhere near as clear as the Instax Mini 12’s, either, especially in areas that are either too bright or too dark. \n\nThat being said, the Smile Plus does offer a microSD card slot, so you can store and view photos elsewhere. It pairs with an app that’s similar to the Retro 3’s as well, and although the software is not as snappy or feature-rich, it still allows you to add a variety of filters and frames. Ultimately, I’d recommend the Retro 3 since it can often be found for less than $120, but the Smile Plus is a good, budget-friendly alternative.\n\nLeica Sofort 2\n\nFrom photo quality to the lever you pull to print photos, Leica’s Sofort 2 is a terrific camera that’s remarkably similar to the Instax Mini Evo. In all of my tests, the photos I took with both looked identical. The two hybrid cameras also print smartphone photos via Instax Mini film and offer 10 film and lens effects, along with a macro mode for those who want more creative control. The Sofort 2’s minimalistic look is stylish, too, even if it’s not as charming as the retro-inspired Evo.\n\nThe drawback to the Sofort 2 is that it’s twice the price of the Evo. It’s challenging to recommend at $399, as most people would likely consider the differences between the two cameras relatively minor. The user interface is easier to navigate on the Leica, though, and I appreciate the included lens cap and extended two-year warranty. I also appreciate that it allows you to print photos taken with other Leica cameras via the companion app — a nice perk for Leica fans. Nonetheless, I don’t think those perks are enough to justify spending nearly $200 more.\n\nInstax Square SQ1\n\nWhile it didn’t make the cut, the Instax Square SQ1 is also worth a brief mention. Like the Mini 12, the Square SQ1 produces good-quality shots, is easy to set up and use, and features a built-in selfie mirror. The reason we didn’t include it above, however, is that it costs nearly twice as much as the Mini 12 at $159.95, though we do sometimes see it on sale for $100.\n\nThat said, it might be worth a look if you prefer large 2.4 x 2.4-inch square prints and relatively true-to-life photos over vintage-looking stills. After all, the SQ1 is still cheaper than the Polaroid Flip and produces higher-quality images than the Kodak Mini Shot 3 Square Retro, which also prints similarly sized square shots.\n\nFujifilm also sells the newer Instax Square SQ40. It’s similar to the Instax Square SQ1 but with a vintage look that’s more visually striking, yet it’s also more expensive at $199.95. Given it produces similarly good-quality photos, I’d recommend the Instax Square SQ1 or the more capable Instax Mini Evo for $50 more.\n\nInstax Wide Evo Hybrid\n\nFujifilm’s Instax Wide Evo Hybrid is nearly identical to the Instax Mini Evo. You can use it to print photos directly from your smartphone, though the $409.95 camera also comes with a 15.67mm lens — the widest used on any Instax camera — for taking wide-format pictures. \n\nUltimately, I preferred the smaller, more travel-friendly Mini Evo, but if you’re into wide prints (and don’t mind spending twice as much), the Wide Evo Hybrid is rather fun. The photo quality is solid and on par with both the Instax Mini Evo and Instax Mini 12. The main difference is that the Wide Evo’s lens captures a broader field of view. It also offers a few additional lenses and film effects, giving users a bit more creative control. I especially liked the Degree Control feature, which lets you fine-tune the intensity of each lens effect applied to your image.\n\nPlus, unlike the Wide 400, the Wide Evo Hybrid is a hybrid camera equipped with an LCD screen — a helpful feature that can reduce wasted shots. However, at $379.95, it costs significantly more than both the Mini Evo and the Wide 400. My other main complaint is that there’s a slight delay between pressing the shutter and the photo being taken — something I didn’t notice with the Mini Evo. It’s not a dealbreaker, but it can be frustrating when trying to capture fast-moving subjects, such as a dog or hyperactive toddler.\n\nInstax Wide 400\n\nIf you’re into wide-format instant cameras but don’t want to spend $349 — or prefer a more traditional analog experience — the $175.95 Instax Wide 400 is a solid pick. The basic point-and-shoot produces similar photos to the Wide Evo, and in some ways, it’s easier to use, thanks to its stripped-down feature set. That simplicity, however, comes at the cost of customization, making it harder to capture the perfect shot. It also swaps an LCD display for a large viewfinder and is noticeably heavier than the Instax Mini Evo. Nonetheless, if you’re after wide prints at a more affordable price, it’s a worthwhile option.\n\nWhat’s coming next\n\nFujifilm recently released the Instax Mini LiPlay Plus, which I will be testing soon. The $234.99 hybrid instant camera features a second rear-facing wide-angle lens for selfies and a 3-inch LCD screen on the back. It also introduces a new layered photo mode that lets you combine images from both cameras into a single shot, and you can even record short audio clips.\n\nUpdate, November 13th: Adjusted to reflect current pricing / availability and the fact the Instax Mini LiPlus is now available.\n\n",
+      "content_length": 27136,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple TV is getting MLS games at no extra cost",
+      "link": "https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass",
+      "published": "2025-11-13T22:33:28",
+      "content": "\n\n\n\t\n\t\t\n\nStarting with the 2026 Major League Soccer (MLS) season, “all MLS matches” will be available to Apple TV subscribers “at no additional cost,” Apple and the MLS announced today.\n\nSince the 2023 MLS season, streaming MLS games has required an MLS Season Pass subscription, which was available on its own or for a discount for Apple TV subscribers. But next year, like with Apple’s upcoming F1 streaming for Apple TV subscribers, MLS games will be bundled right into Apple TV.\n\n“Starting next season, fans can watch every regular-season match, the annual Leagues Cup tournament, the MLS All-Star Game, the Campeones Cup, the Audi MLS Cup Playoffs, and more — all included with an Apple TV subscription,” according to Apple’s press release. “The standalone MLS Season Pass subscription on the Apple TV app will conclude at the end of the 2025 season.”&nbsp;\n\nThe official announcement of the change followed reports from earlier on Thursday that it was in the works.",
+      "content_length": 971,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Online jihadism: 'I don't see the necessary level of attentiveness from policymakers', analyst says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251113-online-jihadism-i-don-t-see-the-necessary-level-of-attentiveness-from-policymakers-analyst-says",
+      "published": "2025-11-13T22:28:17",
+      "content": "As Paris commemorates ten years since the November 13 attacks that left 132 people dead, terrorism analyst Michael S Smith II says that 'there still remains a great deal that can be done by social media companies and internet companies to help blunt the influence capacities of groups like ISIS'.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo",
+      "link": "https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand",
+      "published": "2025-11-13T22:22:53",
+      "content": "\n\n\n\t\n\t\t\n\nAfter several successful launches this year, Project Kuiper has its official name: Amazon Leo. It’s a nod to the term Low-Earth Orbit (LEO), which refers to orbits at an altitude of 1,200 miles (2,000 kilometers) or less. That’s the region where Amazon’s constellation of 153 satellites orbit. The original code name referred to the Kuiper Belt, an asteroid belt in the outer solar system past Neptune. \n\nAmazon plans to launch over 80 missions containing some 3,000 spacecraft. Leo has had six launches so far, including three launches using SpaceX Falcon 9 rockets with a total of 72 satellites on board. Amazon’s main rival in this space is SpaceX’s Starlink, which recently launched its 10,000th satellite.&nbsp;\n\nAmazon is promising Leo will help “extend fast, reliable internet to those beyond the reach of existing networks,” much like Starlink has attempted to over the past several years. Starlink (and Amazon) may be able to achieve that under the right circumstances, and addressing a lack of good internet in many areas is an admirable goal. However, launching tens of thousands of satellites into orbit could introduce some major issues, like an excessive amount of debris, increased risk of collisions in orbit, and heightened danger for manned missions.",
+      "content_length": 1277,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google claims win for everyone as text scammers lost their cloud server",
+      "link": "https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/",
+      "published": "2025-11-13T22:10:13",
+      "content": "The day after Google filed a lawsuit to end text scams primarily targeting Americans, the criminal network behind the phishing scams was “disrupted,” a Google spokesperson told Ars.\nAccording to messages that the “ringleader” of the so-called “Lighthouse enterprise” posted on his Telegram channel, the phishing gang’s cloud server was “blocked due to malicious complaints.”\n“We will restore it as soon as possible!” the leader posted on the channel—which Google’s lawsuit noted helps over 2,500 members coordinate phishing attacks that have resulted in losses of “over a billion dollars.”Read full article\nComments",
+      "content_length": 615,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Democrat Eric Swalwell faces federal criminal inquiry for alleged mortgage fraud",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/eric-swalwell-federal-criminal-inquiry-trump",
+      "published": "2025-11-13T22:05:24",
+      "content": "Latest target of Trump’s retribution campaign says ‘only thing I am surprised about is that it took him this long’The Democratic congressman Eric Swalwell is the latest target of Trump’s retribution campaign against his critics, the congressman confirmed on Thursday.NBC News reports that Swalwell is facing a federal criminal investigation for alleged mortgage fraud, just as three other Democratic officials have faced in recent months. The outlet says the director of the Federal Housing Finance Agency sent a letter to the attorney general claiming Swalwell may have committed mortgage and tax fraud. Continue reading...",
+      "content_length": 624,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Are you ready for a $1,000 Steam Machine? Some analysts think you should be.",
+      "link": "https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/",
+      "published": "2025-11-13T21:57:52",
+      "content": "If you ask random gamers what price they think Valve will charge for its newly announced Steam Machine hardware, you’ll get a wide range of guesses. But if you ask the analysts who follow the game industry for a living the same question… well, you’ll actually get the same wide range of (somewhat better-informed) guesses.\nAt the high end of those guesses are analysts like F-Squared‘s Michael Futter, who expects a starting price of $799 to $899 for the entry-level 512GB Steam Machine and a whopping $1,000 to $1,100 for the 2TB version. With internal specs that Futter says “will rival a PS5 and maybe even hit PS5 Pro performance,” we can expect a “hefty price tag” from Valve’s new console-like effort. At the same time, since Valve is “positioning this as a dedicated, powerful gaming PC… I suspect that the price will be below a similarly capable traditional desktop,” Futter said.\nDFC Intelligence analyst David Cole similarly expects the Steam Machine to start at a price “around $800” and go up to “around $1,000” for the 2TB model. Cole said he expects Valve will seek “very low margins” or even break-even pricing on the hardware itself, which he said would probably lead to pricing “below a gaming PC but slightly above a high-end console.”Read full article\nComments",
+      "content_length": 1279,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "BBC entschuldigt sich bei Trump nach Streit um Videoschnitt",
+      "link": "https://www.tagesschau.de/ausland/bbc-entschuldigung-trump-100.html",
+      "published": "2025-11-13T21:56:33",
+      "content": "   Seit Tagen schwelt ein Streit zwischen dem Weißen Haus und der britischen Rundfunkanstalt BBC. Deren Chef bat US-Präsident Trump nun laut Sender-Angaben um Entschuldigung - sagte aber auch: Für eine Klage fehle die Grundlage.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France beats Ukraine to qualify for FIFA World Cup 2026",
+      "link": "https://www.france24.com/en/live-news/20251113-france-beats-ukraine-to-qualify-for-fifa-world-cup-2026",
+      "published": "2025-11-13T21:39:05",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Paris attacks 10 years on: how social media took centre stage",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251113-paris-attacks-10-years-on-how-social-media-took-centre-stage",
+      "published": "2025-11-13T21:30:35",
+      "content": "On the 10th anniversary of the deadliest terror attacks France has seen since WWII, we take a closer look at the major role social media played that tragic evening. From piecing together the initial timeline, hashtags to find shelter and global messages of solidarity, social media shaped how we understand the 2015 Paris attacks. Vedika Bahl explains in this special edition of Truth or Fake.",
+      "content_length": 393,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US federal employees go back to work after longest shutdown in history",
+      "link": "https://www.france24.com/en/tv-shows/business/20251113-us-federal-employees-go-back-to-work-after-longest-shutdown-in-history",
+      "published": "2025-11-13T21:30:25",
+      "content": "Federal agencies have started reopening after the longest-ever US government shutdown... but it's likely the lingering effects of it will be felt for months. Scotland says it plans to issue its own government bonds, nicknaming them \"kilts\". And a Russian humanoid robot falls flat on its face.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US-Regierung setzt deutsche \"Antifa-Ost\" auf Terrorliste",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ost-antifa-terror-100.html",
+      "published": "2025-11-13T21:19:53",
+      "content": "   Die US-Regierung von Präsident Trump hat die deutsche Gruppierung \"Antifa-Ost\" auf die Terrorliste setzen lassen. Auch linksextreme Gruppen aus Italien und Griechenland wurden als Terrororganisationen eingestuft.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Viel Verunsicherung an der Wall Street",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-aktienmarkt-geldanlage-100.html",
+      "published": "2025-11-13T21:14:53",
+      "content": "   Tiefe Verunsicherung vor neuen Wirtschaftsdaten nach dem Ende des Shutdown hat heute die Wall Street stark belastet. Auch der DAX sackte zuvor kräftig ab, vor allem Siemens stand dabei im Fokus.   [mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "A reckoning necessary to understand the 'most atrocious things' done in Gaza, campaigner says",
+      "link": "https://www.france24.com/en/video/20251113-a-reckoning-necessary-to-understand-the-most-atrocious-things-done-in-gaza-campaigner-says",
+      "published": "2025-11-13T21:12:35",
+      "content": "Reports suggest Israel discussed the use of human shields during operations to clear Gaza tunnels potentially lined with explosives. Speaking with FRANCE 24's Mark Owen, Joel Carmel, Advocacy Director at Breaking the Silence, says that a reckoning is necessary not only to bring justice for Palestinians but also for Israelis 'to take a good look at what happened here and understand how we got to doing the most atrocious things'.",
+      "content_length": 431,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tiny chips hitch a ride on immune cells to sites of inflammation",
+      "link": "https://arstechnica.com/science/2025/11/tiny-chips-hitch-a-ride-on-immune-cells-to-sites-of-inflammation/",
+      "published": "2025-11-13T21:11:18",
+      "content": "Standard brain implants use electrodes that penetrate the gray matter to stimulate and record the activity of neurons. These typically need to be put in place via a surgical procedure. To go around that need, a team of researchers led by Deblina Sarkar, an electrical engineer and MIT assistant professor, developed microscopic electronic devices hybridized with living cells. Those cells can be injected into the circulatory system with a standard syringe and will travel the bloodstream before implanting themselves in target brain areas.\n“In the first two years of working on this technology at MIT, we’ve got 35 grant proposals rejected in a row,” Sarkar says. “Comments we got from the reviewers were that our idea was very impactful, but it was impossible.” She acknowledges that the proposal sounded like something you can find in science fiction novels. But after more than six years of research, she and her colleagues have pulled it off.\nNanobot problems\nIn 2022, when Sarkar and her colleagues gathered initial data and got some promising results with their cell-electronics hybrids, the team proposed the project for the National Institutes of Health Director’s New Innovator Award. For the first time, after 35 rejections, it made it through peer review. “We got the highest impact score ever,” Sarkar says.Read full article\nComments",
+      "content_length": 1346,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "House prepares to vote on releasing Epstein files",
+      "link": "https://www.france24.com/en/video/20251113-house-prepares-to-vote-on-releasing-epstein-files",
+      "published": "2025-11-13T21:09:13",
+      "content": "The US House of Representative will vote next week on whether to require the Justice Department to publish all of its unclassified files on sex offender Jeffrey Epstein. Democrats said the emails, including one in which Epstein said Trump spent hours at his house with one of his victims, raised troubling new questions about what Trump may have known. FRANCE 24's Emerald Maxwell and Fraser Jackson report.",
+      "content_length": 407,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Merz asks Zelensky to 'ensure' fewer young Ukrainian men come to Germany",
+      "link": "https://www.france24.com/en/europe/20251113-merz-asks-zelensky-to-ensure-fewer-young-ukrainian-men-come-to-germany",
+      "published": "2025-11-13T21:04:05",
+      "content": "German Chancellor Friedrich Merz on Thursday told Ukrainian President Volodymyr Zelensky that he needed to ensure that young Ukrainian men do not come to Germany in large numbers. Since Ukraine relaxed the rules prohibiting working aged men from leaving the country in August, the number of Ukrainian refugees enerting Germany has swelled.",
+      "content_length": 339,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Koalitionsausschuss: Ticketsteuer soll sinken, Industriestrom günstiger werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-ticketsteuer-industriestrompreis-100.html",
+      "published": "2025-11-13T21:02:07",
+      "content": "   Wirtschaft und Energie waren zentrale Themen des Koalitionsausschusses. Ein Ergebnis: Der deutschen Industrie soll per eigenem Strompreis geholfen werden. Ein anderes: Die Ticketsteuer im Luftverkehr soll sinken.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cop30: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say – as it happened",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
+      "published": "2025-11-13T20:39:43",
+      "content": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heatingMore than half of all delegation members at Cop30 have withheld or obscured details of their affiliations, potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International.According to the campaign group’s examination of the UNFCCC’s official list of registered participants, 54% of participants in national delegations either did not disclose the type of affiliation they have or selected a vague category such as “Guest” or “Other”.Yet, at Cop30, thousands of delegates still do not share enough information, most from within national delegations. If Cop30 is indeed the Cop of truth, the lresidency and the UNFCCC Secretariat should now commit to reviewing and strengthening participant disclosure rules ahead of future summits, ensuring integrity and accountability at every level. Continue reading...",
+      "content_length": 966,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Valve wants Half-Life: Alyx to work well standalone on Steam Frame",
+      "link": "https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr",
+      "published": "2025-11-13T20:37:07",
+      "content": "\n\n\n\t\n\t\t\n\nWhen I tried Half-Life: Alyx streaming from a PC to Valve’s new Steam Frame VR headset, I was blown away; thanks to the Frame’s dedicated wireless adapter and a cool trick Valve calls “foveated streaming,” I didn’t detect any latency as I explored an industrial building and fought some head crabs.\n\nBut the Frame also has an Arm chip inside, meaning it can run games locally. While I didn’t get to test playing Half-Life: Alyx that way, based on comments Valve gave to other publications, it seems like Valve is optimistic that it might be able to make the game run well when played standalone.\n\n&#8220;Half-Life: Alyx is a great experience when streamed from a PC to Steam Frame, and we are looking into making it a good standalone experience as well,&#8221; Valve told Digital Foundry. And according to UploadVR, “Valve representatives think they can get Half-Life: Alyx running performant in standalone, but they’re not promising it yet and it’s clear there’s still a lot for them to do.”\n\nFingers crossed Valve finds a way to make it happen. I’ve actually never played Half-Life: Alyx, and if I get a Steam Frame, I’d definitely want to try playing it standalone.",
+      "content_length": 1177,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US designates four European anti-fascist groups as terrorist threats",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/us-antifa-terrorist-designation",
+      "published": "2025-11-13T20:30:25",
+      "content": "Marco Rubio, the US secretary of state, in Canada on Wednesday.",
+      "content_length": 63,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Paris gedenkt der Opfer der Terroranschläge vom 13. November 2015",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-gedenken-opfer-terroranschlaege-2015-100.html",
+      "published": "2025-11-13T20:28:14",
+      "content": "   Vor zehn Jahren hatten islamistische Terroristen in Paris 130 Menschen ermordet, Hunderte wurden verletzt. Zum Jahrestag der Anschläge mahnte Präsident Macron zur Wachsamkeit und warnte vor einem Erstarken des Dschihadismus.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Canada says Russia and China are ramping up spy efforts in Arctic region",
+      "link": "https://www.theguardian.com/world/2025/nov/13/canada-arctic-spy-threats-russia-china",
+      "published": "2025-11-13T20:21:26",
+      "content": "Canada’s spy agency says it has observed intelligence threats targeting country’s government and private sectorCanada’s domestic spy agency says Russia and China have a “significant intelligence interest” in Canada’s Arctic, and are targeting both the country’s government and its private sector.In his annual speech on threats facing Canada, Dan Rogers, director of the Canadian Security Intelligence Service (CSIS), flagged mounting concerns over hostile nations growing increasingly emboldened in the Arctic. Continue reading...",
+      "content_length": 531,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US intel revealed Israeli officials discussing use of human shields in Gaza, sources say",
+      "link": "https://www.france24.com/en/video/20251113-us-intel-revealed-israeli-officials-discussing-use-of-human-shields-in-gaza-sources-say",
+      "published": "2025-11-13T20:00:39",
+      "content": "Reuters reports that the U.S. gathered intelligence last year of Israeli officials discussing how their soldiers had sent Palestinians into Gaza tunnels the Israelis believed were potentially lined with explosives, according to two former U.S. officials familiar with the matter. FRANCE 24's Monte Francis reports.",
+      "content_length": 314,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Anthropic details how it measures Claude&#8217;s wokeness",
+      "link": "https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai",
+      "published": "2025-11-13T20:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nAnthropic is detailing its efforts to make its Claude AI chatbot “politically even-handed” — a move that comes just months after President Donald Trump issued a ban on “woke AI.” As outlined in a new blog post, Anthropic says it wants Claude to “treat opposing political viewpoints with equal depth, engagement, and quality of analysis.”\n\nIn July, Trump signed an executive order that says the government should only procure “unbiased” and “truth-seeking” AI models. Though this order only applies to government agencies, the changes companies make in response will likely trickle down to widely released AI models, since “refining models in a way that consistently and predictably aligns them in certain directions can be an expensive and time-consuming process,” as noted by my colleague Adi Robertson. Last month, OpenAI similarly said it would “clamp down” on bias in ChatGPT.\n\nAnthropic doesn’t mention Trump’s order in its press release, but it says it has instructed Claude to adhere to a series of rules — called a system prompt — that direct it to avoid providing “unsolicited political opinions.” It’s also supposed to maintain factual accuracy and represent “multiple perspectives.” Anthropic says that while including these instructions in Claude’s system prompt “is not a foolproof method” to ensure political neutrality, it can still make a “substantial difference” in its responses.\n\nAdditionally, the AI startup describes how it uses reinforcement learning “to reward the model for producing responses that are closer to a set of pre-defined ‘traits.’” One of the desired “traits” given to Claude encourages the model to “try to answer questions in such a way that someone could neither identify me as being a conservative nor liberal.&#8221;\n\nAnthropic also announced that it has created an open-source tool that measures Claude’s responses for political neutrality, with its most recent test showing Claude Sonnet 4.5 and Claude Opus 4.1 garnering respective scores of 95 and 94 percent in even-handedness. That’s higher than Meta’s Llama 4 at 66 percent and GPT-5 at 89 percent, according to Anthropic.\n\n“If AI models unfairly advantage certain views — perhaps by overtly or subtly arguing more persuasively for one side, or by refusing to engage with some arguments altogether — they fail to respect the user’s independence, and they fail at the task of assisting users to form their own judgments,” Anthropic writes in its blog post.",
+      "content_length": 2463,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple will take a mini commission from mini app developers",
+      "link": "https://www.theverge.com/news/820486/apple-mini-app-developers-commission",
+      "published": "2025-11-13T19:58:25",
+      "content": "\n\n\n\t\n\t\t\n\nApple is launching a new program for mini app developers that slashes its fees for in-app purchases. On Thursday, the company announced that mini app creators who join the program take advantage of a lower 15 percent commission rate — half of the up to 30 percent rate Apple charges other developers.\n\nApple describes mini apps as “self-contained experiences” built using HTML5 and JavaScript that exist within another app. The format has become popular in China, where apps like the Tencent-owned WeChat have built-in services for ride-hailing, food delivery, payments, and more. Telegram and Discord similarly offer mini apps, while Snapchat and TikTok have also experimented with them.\n\nThe news of the program comes just hours after Apple reached an agreement with Tencent, allowing it to take a 15 percent commission on purchases from WeChat’s mini apps. Part of the Department of Justice’s antitrust lawsuit against Apple accuses the company of stifling super apps, or apps that offer a range of services (or mini apps) on a single platform. This move may help lessen that antitrust pressure.\n\nApple says its new program will help “developers who host mini apps grow their business and further the availability of mini apps on the App Store.”",
+      "content_length": 1257,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "What if the aliens come and we just can’t communicate?",
+      "link": "https://arstechnica.com/science/2025/11/what-if-the-aliens-come-and-we-just-cant-communicate/",
+      "published": "2025-11-13T19:54:10",
+      "content": "Science fiction has long speculated about the possibility of first contact with an alien species from a distant world and how we might be able to communicate with them. But what if we simply don’t have enough common ground for that to even be possible? An alien species is bound to be biologically very different, and their language will be shaped by their home environment, broader culture, and even how they perceive the universe. They might not even share the same math and physics. These and other fascinating questions are the focus of an entertaining new book, Do Aliens Speak Physics? And Other Questions About Science and the Nature of Reality.\nCo-author Daniel Whiteson is a particle physicist at the University of California, Irvine, who has worked on the ATLAS collaboration at CERN’s Large Hadron Collider. He’s also a gifted science communicator who previously co-authored two books with cartoonist Jorge Cham of PhD Comics fame: 2018’s We Have No Idea and 2021’s Frequently Asked Questions About the Universe. (The pair also co-hosted a podcast from 2018 to 2024, Daniel and Jorge Explain the Universe.) This time around, cartoonist Andy Warner provided the illustrations, and Whiteson and Warner charmingly dedicate their book to “all the alien scientists we have yet to meet.”\nWhiteson has long been interested in the philosophy of physics. “I’m not the kind of physicist who’s like, ‘whatever, let’s just measure stuff,'” he told Ars. “The thing that always excited me about physics was this implicit promise that we were doing something universal, that we were learning things that were true on other planets. But the more I learned, the more concerned I became that this might have been oversold. None are fundamental, and we don’t understand why anything emerges. Can we separate the human lens from the thing we’re looking at? We don’t know in the end how much that lens is distorting what we see or defining what we’re looking at. So that was the fundamental question I always wanted to explore.”Read full article\nComments",
+      "content_length": 2044,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Hackers use Anthropic’s AI model Claude once again",
+      "link": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude",
+      "published": "2025-11-13T19:47:39",
+      "content": "\n\n\n\t\n\t\t\n\nAnthropic announced on Thursday that Chinese state-backed hackers used the company’s AI model Claude to automate roughly 30 attacks on corporations and governments during a September campaign, according to reporting from the Wall Street Journal.\n\nAnthropic said that up to 80% to 90% of the attack was automated with AI, a level higher than previous hacks. It occurred “literally with the click of a button, and then with minimal human interaction,” Anthropic’s head of threat intelligence Jacob Klein told the Journal. He added: “The human was only involved in a few critical chokepoints, saying, ‘Yes, continue,’ ‘Don’t continue,’ ‘Thank you for this information,’ ‘Oh, that doesn’t look right, Claude, are you sure?’”&nbsp;\n\nAI-powered hacking is increasingly common, and so is the latest strategy to use AI to tack together the various tasks necessary for a successful attack. Google spotted Russian hackers using large-language models to generate commands for their malware, according to a company report released on November 5th. \n\nFor years, the US government has warned that China was using AI to steal data of American citizens and companies, which China has denied. Anthropic told the Journal that it is confident the hackers were sponsored by the Chinese government. In this campaign, the hackers stole sensitive data from four victims, but as with previous hacks, Anthropic did not disclose the names of the targets, successful or unsuccessful. The company did say that the US government was not a successful target.",
+      "content_length": 1537,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Who is buying VR and XR headsets anyway?",
+      "link": "https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise",
+      "published": "2025-11-13T19:45:48",
+      "content": "\n\n\n\t\n\t\t\n\nFrom the outside, it looks like virtual and mixed reality is having a moment. Three new headsets have launched or been announced in the last month: There's Apple's M5 Vision Pro, the Samsung Galaxy XR, and, just this week, Valve announced the Steam Frame. Given the marketing, you might assume that means Big Tech thinks this tech finally has some mass-market appeal. But, in the nearly 60 years since the first VR headset, one thing remains true: This isn't the next iPhone. \n\"Let's put it this way,\" says Tuong Huy Nguyen, a director analyst on Gartner's emerging technologies and trends team. \"Everyone who wants a VR headset already has one.\" \n …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How has Paris changed since the 2015 terror attacks?",
+      "link": "https://www.france24.com/en/video/20251113-how-has-paris-changed-since-the-2015-terror-attacks",
+      "published": "2025-11-13T19:44:58",
+      "content": "Ten years ago, France's deadliest attacks since World War II hit Paris, killing 132 people and wounding at least 350. Clovis Casali, a FRANCE 24 Reporter, was present at one of the bars.",
+      "content_length": 186,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Merz will Zuwanderung auf den Arbeitsmarkt \"aus aller Herren Länder\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-merz-dobrindt-migration-100.html",
+      "published": "2025-11-13T19:36:32",
+      "content": "   Zuletzt waren beim Thema Migration aus der Union meist kritische Wortmeldungen zu hören. Nun haben sich Kanzler Merz und Innenminister Dobrindt positiv über Zuwanderung  geäußert - sie meinen allerdings nur eine bestimmte Gruppe. [mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Survivors' choir sings Rival Sons at 2015 Paris attacks commemoration ceremony",
+      "link": "https://www.france24.com/en/video/20251113-survivors-choir-sings-rival-sons-at-2015-paris-attacks-commemoration-ceremony",
+      "published": "2025-11-13T19:30:11",
+      "content": "On November 13, 2025, terrorist attacks conducted in Paris by Islamic State fighters killed 132 people. One year on, a choir made up of survivors and victims's relatives sang 'Shooting Stars' by Rival Sons at the commemoration ceremony.",
+      "content_length": 236,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Was wusste Selenskyj über die Schmiergeldzahlungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-100.html",
+      "published": "2025-11-13T19:24:32",
+      "content": "   Ein Korruptionsskandal erschüttert die Ukraine. Der Hauptverdächtige ist ein enger Vertrauter des ukrainischen Präsidenten. Was heißt das nun für Selenskyj? Von Rebecca Barth.[mehr]",
+      "content_length": 184,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "French national anthem, 'La Marseillaise', at 2015 terror attacks commemoration ceremony",
+      "link": "https://www.france24.com/en/video/20251113-french-national-anthem-la-marseillaise-at-2015-terror-attacks-commemoration-ceremony",
+      "published": "2025-11-13T19:07:50",
+      "content": "France marks ten years since harrowing Paris terror attacks. French singer Axelle Saint-Cirel sang the French anthem, La Marseillaise, at the ceremony commemorating the attacks.",
+      "content_length": 177,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tenured professor sues University of Kentucky for banning him from law school over comments on Israel",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/kentucky-professor-israel-lawsuit",
+      "published": "2025-11-13T18:55:59",
+      "content": "Exclusive: Ramsi Woodcock, who calls for an ‘end’ to Israel and military intervention against it, says the university violated his first amendment rightsA tenured law professor sued the University of Kentucky on Thursday after he was banned from teaching and from the law school for comments he made about Israel, including characterizations of the state as a “colonization project” and calls for the world to wage war against it.In a lawsuit filed in federal court, Ramsi Woodcock, an antitrust law scholar, argued that the public university violated his first amendment and due process rights when it abruptly placed him under investigation in July, just days after he was promoted to full professor, over allegations that he violated university policy – including anti-discrimination rules that incorporate a widely disputed definition of antisemitism. Continue reading...",
+      "content_length": 875,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Civil war is brewing in the wasteland in Fallout S2 trailer",
+      "link": "https://arstechnica.com/culture/2025/11/civil-war-is-brewing-in-the-wasteland-in-fallout-s2-trailer/",
+      "published": "2025-11-13T18:24:53",
+      "content": "\nWe got our first glimpse of the much-anticipated second season of Fallout (adapted from the popular video game franchise) in August when Prime Video released an extended teaser. We now have the official trailer, with all the deadpan humor, explosions, and mutant atrocities one could hope for—including ghoulish Elvis impersonators in New Vegas.\n(Spoilers for S1 below.)\nAs previously reported, in S1, we met Lucy MacLean (Ella Purnell), a young woman whose vault is raided by surface dwellers. The raiders kill many vault residents and kidnap her father, Hank (Kyle MacLachlan), so the sheltered Lucy sets out on a quest to find him. Life on the surface is pretty brutal, but Lucy learns fast. Along the way, she finds an ally (and love interest) in Maximus (Aaron Moten), a squire masquerading as a knight of the Brotherhood of Steel. And she runs afoul of a gunslinger and bounty hunter known as the Ghoul (Walton Goggins), a former Hollywood actor named Cooper Howard who survived the original nuclear blast, but radiation exposure turned him into, well, a ghoul.Read full article\nComments",
+      "content_length": 1094,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "After years of saying no, Tesla reportedly adding Apple CarPlay to its cars",
+      "link": "https://arstechnica.com/cars/2025/11/after-years-of-saying-no-tesla-reportedly-adding-apple-carplay-to-its-cars/",
+      "published": "2025-11-13T18:11:17",
+      "content": "Apple CarPlay, the interface that lets you cast your phone to your car’s infotainment screen, may finally be coming to Tesla’s electric vehicles. CarPlay is nearly a decade old at this point, and it has become so popular that almost half of car buyers have said they won’t consider a car without the feature, and the overwhelming majority of automakers have included CarPlay in their vehicles.\nUntil now, that hasn’t included Tesla. CEO Elon Musk doesn’t appear to have opined on the omission, though he has frequently criticized Apple. In the past, Musk has said the goal of Tesla infotainment is to be “the most amount of fun you can have in a car.” Tesla has regularly added puerile features like fart noises to the system, and it has also integrated video games that drivers can play while they charge.\nFor customers who want to stream music, Tesla has instead offered Spotify, Tidal, and even Apple Music apps.Read full article\nComments",
+      "content_length": 941,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kritische Infrastruktur: Bundestag verabschiedet NIS2-Gesetz",
+      "link": "https://www.heise.de/news/Kritische-Infrastruktur-Bundestag-verabschiedet-NIS2-Gesetz-11077959.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T18:11:00",
+      "content": "Deutschland hängt mit der NIS2-Umsetzung hinterher. Der Bundestag hat den Vorschlag der Regierung nun abgesegnet. Jetzt ist der Bundesrat am Zug.",
+      "content_length": 145,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Psychotherapie: Therapeutische KI-Chats nicht immer hilfreich",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/chatgpt-psychotherapie-100.html",
+      "published": "2025-11-13T18:07:45",
+      "content": "   Immer mehr Menschen suchen persönliche Hilfe bei ChatGPT und ähnlichen Apps. Eine US-Studie zeigt, dass die KI dabei ethische Standards verletzt. Doch Fachleute sehen auch Potenzial. Von Julia Nestlen.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kritik an \"kalten Überstellungen\" der Polizei in die Niederlande",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-deutschland-migranten-bundespolizei-100.html",
+      "published": "2025-11-13T17:51:41",
+      "content": "   Immer wieder hat die Bundespolizei zuletzt Migranten in den Niederlanden abgesetzt: an Plätzen oder Tankstellen nahe der deutschen Grenze. Diese Praxis der \"kalten Überstellungen\" wirft Fragen auf. Von Ludger Kazmierczak.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deutscher Außenhandel steht schlecht da",
+      "link": "https://www.tagesschau.de/wirtschaft/deutscher-aussenhandel-106.html",
+      "published": "2025-11-13T17:46:49",
+      "content": "   Obwohl die Gütermenge von in Deutschland ansässigen Logistikern zunimmt, steht es schlecht um den deutschen Außenhandel. Besonders die chinesische Stärke und US-amerikanische Zölle machen zu schaffen. Von Ingo Nathusius.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie der Wehrdienst-Kompromiss zustande kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-union-spd-pistorius-100.html",
+      "published": "2025-11-13T17:40:13",
+      "content": "   Die Koalition hat unter anderem eine flächendeckende Musterung für den Wehrdienst vereinbart. Der Weg zur Neuregelung war mehr als holprig. Doch für Verteidigungsminister Pistorius ist die Sache noch nicht erledigt. Von Claudia Buckenmeier.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google will let Android power users bypass upcoming sideloading restrictions",
+      "link": "https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/",
+      "published": "2025-11-13T17:30:50",
+      "content": "Google recently decided that the freedom afforded by Android was a bit too much and announced developer verification, a system that will require developers outside the Google Play platform to register with Google. Users and developers didn’t accept Google’s rationale and have been complaining loudly. As Google begins early access testing, it has conceded that “experienced users” should have an escape hatch.\nAccording to Google, online scam and malware campaigns are getting more aggressive, and there’s real harm being done in spite of the platform’s sideloading scare screens. Google says it’s common for scammers to use social engineering to create a false sense of urgency, prompting users to bypass Android’s built-in protections to install malicious apps.\nGoogle’s solution to this problem, as announced several months ago, is to force everyone making apps to verify their identities. Unverified apps won’t install on any Google-certified device once verification rolls out. Without this, the company claims malware creators can endlessly create new apps to scam people. However, the centralized nature of verification threatened to introduce numerous headaches into a process that used to be straightforward for power users.Read full article\nComments",
+      "content_length": 1260,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Idealo-Verfahren: Richter sehen Schaden durch Google",
+      "link": "https://www.heise.de/news/Idealo-Verfahren-Richter-sehen-Schaden-durch-Google-11077896.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T17:17:00",
+      "content": "Im Verfahren des Preisvergleichsdienstes Idealo gegen den US-Suchmaschinenriesen scheint eine Verurteilung Googles zu Schadenersatz wahrscheinlich.",
+      "content_length": 147,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Deutscher Journalisten-Verband: BBC soll nicht vor Trump einknicken",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/djv-bbc-trump-100.html",
+      "published": "2025-11-13T16:48:10",
+      "content": "   US-Präsident Trump droht der BBC wegen eines Fehlers in einer Reportage mit einer Milliardenklage. Der Deutsche Journalisten-Verband wirft Trump \"Autokratenmanier\" vor und fürchtet Konsequenzen für alle Journalisten weltweit.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Löwenbaby im Sportwagen wohl kein echtes Video aus Bremen",
+      "link": "https://www.tagesschau.de/faktenfinder/loewe-bremen-100.html",
+      "published": "2025-11-13T16:37:11",
+      "content": "   Ein Mann präsentiert sich auf Instagram mit einem Löwenbaby im Sportwagen und suggeriert, die Szene spiele in Bremen. Doch Recherchen zeigen: Das Video stammt nicht aus Bremen. Von C. Reveland und W. Rohwedder.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Valve says it’s still waiting for better chips to power Steam Deck 2",
+      "link": "https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/",
+      "published": "2025-11-13T16:30:28",
+      "content": "Yesterday’s announcement of new living room and VR hardware from Valve obviously has many gamers clamoring for any news of a more powerful version of the nearly 4-year-old Steam Deck. In a new interview with IGN, though, Valve Software Engineer Pierre-Loup Griffais says that portable gaming silicon still hasn’t advanced enough to justify brand-new benchmark hardware.\n“The thing we’re making sure of is that it’s a worthwhile enough performance upgrade [for a Steam Deck 2] to make sense as a standalone product,” Griffais told IGN. “We’re not interested in getting to a point where it’s 20 or 30 or even 50 percent more performance at the same battery life. We want something a little bit more demarcated than that.”\n“So we’ve been working back from silicon advancements and architectural improvements, and I think we have a pretty good idea of what the next version of Steam Deck is going to be, but right now there’s no offerings in that landscape, in the SoC [System on a Chip] landscape, that we think would truly be a next-gen performance Steam Deck,” Griffais continued.Read full article\nComments",
+      "content_length": 1105,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tracking the winds that have turned Mars into a planet of dust",
+      "link": "https://arstechnica.com/science/2025/11/tracking-the-winds-that-have-turned-mars-into-a-planet-of-dust/",
+      "published": "2025-11-13T16:11:18",
+      "content": "Mars is cold, parched, and extremely dusty. Powerful gusts of wind kick up literal tons of reddish dust that often takes the form of whorls known as dust devils. These winds also shroud the planet in dust by lifting material from the surface and blowing it into the atmosphere (what little Mars has left of an atmosphere), sometimes creating dust storms that rage for days.\nResearcher Valentin Bickel wanted to know just how intense winds can be on the red planet. Using data obtained by the Mars camera CaSSIS (Color and Stereo Surface Imaging System), the ExoMars Trace Gas Orbiter, and stereo camera HRSC (High Resolution Stereo Camera) on board ESA orbiter Mars Express, he and his team used deep learning to analyze stereo images that were taken seconds apart at the same location. These images can track the motion of dust devils, and the researchers use them to infer how the winds behind the dust devils move and lift dust from the surface. That dust goes on to have a big influence on the Martian weather.\nBickel, of the Center for Space and Habitability at the University of Bern, noticed that the tumultuous Martian winds are even faster than previous observations had made them out to be. They carry more dust than was previously thought. “Our observations show that strong near-surface winds are abundant on Mars and play an important role in atmospheric dust sourcing, directly informing more accurate models of Mars’ atmosphere, weather, and climate,” the researchers said in a study recently published in Science Advances.Read full article\nComments",
+      "content_length": 1564,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wehrdienst-Kompromiss der Regierung stößt auf Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-einigung-reaktionen-100.html",
+      "published": "2025-11-13T16:08:35",
+      "content": "   Aus der Opposition kommt Kritik an den Plänen der Regierung zum Wehrdienst. Die Grünen sprechen von \"Verschlimmbesserung\", die Linke von einer grundsätzlich \"schlechten Sache\". Schüler-Vertreter melden sich mit Forderungen.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Alkoholfreies Getränk darf laut EU-Urteil nicht als Gin verkauft werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-gin-alkoholfrei-100.html",
+      "published": "2025-11-13T15:45:17",
+      "content": "   Wann darf ein Gin als Gin bezeichnet werden? Der Europäische Gerichtshof hat entschieden, dass ein alkoholfreies Getränk nicht Gin genannt werden darf. Verbraucher müssten vor Verwechslungsgefahr geschützt werden. Von Robin Mai.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum Polens Präsident die Beförderung junger Richter blockiert",
+      "link": "https://www.tagesschau.de/ausland/richter-polen-justizwesen-100.html",
+      "published": "2025-11-13T15:42:26",
+      "content": "   Polen soll wieder ein unabhängiges Justizwesen bekommen - das möchte Ministerpräsident Tusk. Doch mit Nawrocki als Präsidenten hat er einen mächtigen Widersacher. Das PiS-Lager blockiert - und spekuliert auf Neuwahlen. Von L. Tomaszewski. [mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Waymo to roll out driverless taxis on highways in three US cities",
+      "link": "https://arstechnica.com/cars/2025/11/waymo-to-roll-out-driverless-taxis-on-highways-in-three-us-cities/",
+      "published": "2025-11-13T15:30:49",
+      "content": "Waymo is set to expand its self-driving taxi service onto highways in three US cities on Wednesday, an advance for the venture owned by Google’s parent company that raises the stakes on safety.\nThe company said it would add the high-speed roads to its routes in Los Angeles, Phoenix, and San Francisco, allowing Waymo cars to ferry passengers to more destinations including San Jose International Airport.\nWaymo’s rollout on highways marks a significant step for the robotaxi operator as it aims to encourage the mass adoption of driverless vehicles. It is the first time a company will carry out paid driverless services on the highway without a driver behind the wheel.Read full article\nComments",
+      "content_length": 697,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Row over definition of ‘gender’ hangs over Cop30 plans to support women",
+      "link": "https://www.theguardian.com/environment/2025/nov/13/row-over-definition-of-gender-hangs-over-cop30-plans-to-support-women",
+      "published": "2025-11-13T15:19:53",
+      "content": "Advocates say conservative states’ push to define gender as ‘biological sex’ would backslide on decade-old language within the UNA row over the definition of the term “gender” threatens to bog down pivotal talks at the Cop30 climate summit.Before the UN talks in Brazil, hardline conservative states have pushed to define gender as “biological sex” over their concerns trans and non-binary people could be included in a major plan to ensure climate action addresses gender inequality and empowers women. Continue reading...",
+      "content_length": 523,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU will Gebühr für günstige Pakete einführen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pakete-gebuehr-temu-shein-100.html",
+      "published": "2025-11-13T15:12:00",
+      "content": "   Shein, Temu, AliExpress und Co. müssen künftig Abgaben auf ihre Sendungen in die EU bezahlen. Darauf einigten sich heute die EU-Finanzminister. Bislang konnten günstige Pakete oft kostenfrei eingeführt werden.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "What would a “simplified” Starship plan for the Moon actually look like?",
+      "link": "https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/",
+      "published": "2025-11-13T15:09:52",
+      "content": "In what will likely be his most consequential act as NASA’s interim leader, Sean Duffy said last month that the space agency was “opening up” its competition to develop a lunar lander that will put humans on the surface of the Moon.\nAs part of this move, Duffy asked NASA’s current lunar lander contractors, SpaceX and Blue Origin, for more nimble plans. Neither has specified those plans publicly, but a recent update from SpaceX  referenced a “simplified” version of the Starship system it’s building to help NASA return humans to the Moon.\n“Since the contract was awarded, we have been consistently responsive to NASA as requirements for Artemis III have changed and have shared ideas on how to simplify the mission to align with national priorities,” the company said. “In response to the latest calls, we’ve shared and are formally assessing a simplified mission architecture and concept of operations that we believe will result in a faster return to the Moon while simultaneously improving crew safety.”Read full article\nComments",
+      "content_length": 1036,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "AfD-Chef Chrupalla verteidigt Russland-Reisen von Abgeordneten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-streit-russland-reise-weidel-chrupalla-100.html",
+      "published": "2025-11-13T14:58:21",
+      "content": "   In der AfD haben geplante Russland-Reisen von Parteimitgliedern für Diskussionen gesorgt. Während von Parteichefin Weidel zuletzt deutliche Kritik kam, hat sich nun auch Co-Chef Chrupalla geäußert - und die Pläne verteidigt.     [mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "10 Jahre CNCF: Neuigkeiten von Kubernetes – Cloud-Native und KI wachsen zusammen",
+      "link": "https://www.heise.de/news/10-Jahre-CNCF-Neuigkeiten-von-Kubernetes-Cloud-Native-und-KI-wachsen-zusammen-11077448.html",
+      "published": "2025-11-13T14:45:00",
+      "content": "Kubernetes wird flexibler beim Versionsmanagement. Die CNCF treibt KI-Integration voran und stellt neue Projekte für Cloud-Native-Entwickler vor.",
+      "content_length": 145,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Koalitionsausschuss: Einfach mal überraschen lassen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-spd-union-102.html",
+      "published": "2025-11-13T14:31:48",
+      "content": "   Die Koalitionsspitzen treffen sich heute erneut im Koalitionsausschuss. Nicht nur der Streit über die Bürgergeld-Abschaffung dauert an. Auch beim Erwartungsmanagement gehen die Positionen auseinander. Von Georg Schwarte.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BGH-Urteil: Wirecard-Aktionäre bekommen wohl kein Geld zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wirecard-insolvenzverfahren-aktionaere-100.html",
+      "published": "2025-11-13T14:12:43",
+      "content": "   Zehntausende Aktionäre von Wirecard haben jahrelang gehofft, ihr Geld im Insolvenzverfahren zurückzubekommen. Nach einem Urteil des Bundesgerichtshofs stehen die Chancen dafür nun aber schlecht. Von Egzona Hyseni.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "State-sanctioned fuel smuggling cost Libya $20bn over three years – report",
+      "link": "https://www.theguardian.com/world/2025/nov/12/state-sanctioned-fuel-smuggling-cost-libya-20bn-over-three-years-report",
+      "published": "2025-11-13T14:02:34",
+      "content": "Policy body calls for western-backed investigation into oil officials known to be at heart of illegal enterpriseA surge in state-sanctioned fuel smuggling between 2022 and 2024 cost the Libyan people about $20bn (£15bn) in lost revenue – an alarming sum that demands decisive international sanctions against those responsible, according to the most comprehensive report published on how Libya’s primary revenue source has been systematically pillaged.The report by the investigative and policy body the Sentry states that “politicians and security leaders who claim to serve the public and fight organised crime have, in fact, acted as the chief architects of Libya’s fuel-smuggling industry, often with backing from foreign states”. Some of the imported fuel has also been smuggled into Sudan, where it has prolonged that country’s civil war. Continue reading...",
+      "content_length": 863,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Google is rolling out conversational shopping—and ads—in AI Mode search",
+      "link": "https://arstechnica.com/google/2025/11/google-rolling-out-conversational-shopping-and-ads-in-ai-mode-search/",
+      "published": "2025-11-13T14:00:57",
+      "content": "In recent months, Google has promised to inject generative AI into the online shopping experience, and now it’s following through. The previously announced shopping features of AI Mode search are rolling out, and Gemini will also worm its way into Google’s forgotten Duplex automated phone call tech. It’s all coming in time for the holidays to allegedly make your gifting more convenient and also conveniently ensure that Google gets a piece of the action.\nAt Google I/O in May, the company announced its intention to bring conversational shopping to AI Mode. According to Google, its enormous “Shopping Graph” or retailer data means its AI is uniquely positioned to deliver useful suggestions. In the coming weeks, users in the US will be able to ask AI Mode complex questions about what to buy, and it will deliver suggestions, guides, tables, and other generated content to help you decide. And since this is gen AI, it comes with the usual disclaimers about possible mistakes.\n\n  \n    AI Mode shopping features.\n  \n\n  \n    \n    \n    \n    \n      AI Mode shopping features.\n\n          \n  \n  \n\n\nYou’re probably wondering where you’ll see sponsored shopping content in these experiences. Google says some of the content that appears in AI Mode will be ads, just like if you look up shopping results in a traditional search. Shopping features are also coming to the Gemini app, but Google says it won’t have sponsored content in the results for the time being.Read full article\nComments",
+      "content_length": 1486,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "BVerfG: Wer eine Demo blockiert, kann sich strafbar machen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bverfg-sitzblockaden-100.html",
+      "published": "2025-11-13T13:44:18",
+      "content": "   Weil er an einer Sitzblockade gegen eine Demo teilnahm, wurde ein Mann zu einer Geldstrafe verurteilt. Nun entschied das BVerfG: Auch seine Sitzblockade ist von der Versammlungsfreiheit geschützt - strafbar hat er sich dennoch gemacht. Von A. Lagmöller.[mehr]",
+      "content_length": 262,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Kommission leitet erneut Verfahren gegen Google ein",
+      "link": "https://www.tagesschau.de/wirtschaft/google-eu-kommission-100.html",
+      "published": "2025-11-13T12:49:54",
+      "content": "   Die EU-Kommission hat ein weiteres Verfahren gegen Google eingeleitet. Sie verdächtigt den Konzern, Nachrichtenseiten und Verlage bei den Suchergebnissen rechtswidrig zu benachteiligen. Bestätigt sich das, droht ein hohes Bußgeld.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Publikumsaktion \"Mitmischen!\": Wie die 20-Uhr-tagesschau geplant wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/aktion-mitmischen-102.html",
+      "published": "2025-11-13T12:40:35",
+      "content": "   Was schafft es in die 20-Uhr-Ausgabe der tagesschau? Und wie arbeitet die Redaktion? Auf der Suche nach Antworten haben sich 250 junge Erwachsene beim Dialogformat \"Mitmischen!\" einen Nachmittag lang eingebracht.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaftsverbände fordern Stopp des Rentenpakets",
+      "link": "https://www.tagesschau.de/inland/rentenpaket-kritik-wirtschaftsverbaende-100.html",
+      "published": "2025-11-13T12:34:20",
+      "content": "   Die Bundesregierung will das Rentenniveau in Deutschland mit Milliardensummen stabilisieren. Aus der Wirtschaft kommt nun harte Kritik an den Plänen. Diese seien weder generationengerecht noch finanzierbar.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Operation Endgame 3: 1025 Server von Netz genommen",
+      "link": "https://www.heise.de/news/Operation-Endgame-3-1025-Server-von-Netz-genommen-11077049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T12:17:00",
+      "content": "Internationalen Strafverfolgern ist ein neuerlicher Schlag gegen Malware und dahinterliegende Infrastruktur gelungen.",
+      "content_length": 117,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie Tattoos Betroffenen von Selbstverletzung helfen",
+      "link": "https://www.tagesschau.de/kultur/tattoo-projekt-selbstverletzung-100.html",
+      "published": "2025-11-13T12:11:05",
+      "content": "   Wenn Menschen sich selbst verletzen, sind die Hintergründe vielfältig. Die Narben bleiben meist ein Leben lang. Im Projekt \"Überwunden\" erzählen Betroffene ihre Geschichte - und wie Tattoos helfen, Krisen zu überwinden. Von Katrin Schwier.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Korruption: Selenskyj belegt zwei Hauptverdächtige mit Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-sanktionen-selenskyj-100.html",
+      "published": "2025-11-13T11:49:42",
+      "content": "   Im Korruptionsskandal im ukrainischen Energiesektor hat Präsident Selenskyj Sanktionen gegen zwei Verdächtige erlassen - darunter sein ehemaliger Geschäftspartner. Bundeskanzler Merz fordert rasche Aufklärung.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Docker Desktop 4.50: KI-Integration und kostenlose Debug-Tools für Entwickler",
+      "link": "https://www.heise.de/news/Docker-Desktop-4-50-KI-Integration-und-kostenlose-Debug-Tools-fuer-Entwickler-11076710.html",
+      "published": "2025-11-13T11:39:00",
+      "content": "Docker Desktop 4.50 bietet kostenlose Debug-Tools, erweiterte KI-Features und verbesserte Sicherheitsoptionen für Entwickler von Container-Anwendungen.",
+      "content_length": 151,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Analyse: Weltweiter CO₂-Ausstoß steigt trotz aller Fortschritte auch 2025",
+      "link": "https://www.heise.de/news/Analyse-Weltweiter-CO-Ausstoss-steigt-trotz-aller-Fortschritte-auch-2025-11077011.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T11:20:00",
+      "content": "Dass es der Menschheit noch gelingt, die Klimaerwärmung auf weniger als 1,5 Grad Celsius über dem vorindustriellen Niveau zu halten, \"ist nicht mehr plausibel\".",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zahl der Organspenden im Vergleich zum Vorjahr leicht gestiegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anstieg-organspenden-2024-100.html",
+      "published": "2025-11-13T11:03:50",
+      "content": "   Die Zahl der Organspenden in Deutschland ist leicht gestiegen. Doch von einer Trendwende kann keine Rede sein. Immer noch scheitern viele Transplantationen an der fehlenden Zustimmung von Angehörigen.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "software-architektur.tv: Subjektives Schätzen, beliebige Deadlines?",
+      "link": "https://www.heise.de/news/software-architektur-tv-Subjektives-Schaetzen-beliebige-Deadlines-11075141.html",
+      "published": "2025-11-13T11:01:00",
+      "content": "In dieser Folge beleuchtet Eberhard Wolff das Thema Aufwandsschätzung in Projekten, und wie Teams mit Deadlines umgehen sollten.",
+      "content_length": 128,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Was sehen die Pläne für den Wehrdienst vor?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-wehrdienst-plaene-100.html",
+      "published": "2025-11-13T10:46:55",
+      "content": "   Schon ab dem kommenden Jahr soll das geplante Gesetz für den neuen Wehrdienst in Kraft treten. Doch wie soll der aussehen? Und für wen soll er gelten? Ein Überblick.[mehr]",
+      "content_length": 174,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mexico takes action to combat sexual abuse after president publicly groped",
+      "link": "https://www.theguardian.com/world/2025/nov/13/mexico-sexual-abuse-president-groped",
+      "published": "2025-11-13T10:00:21",
+      "content": "Secretary for women presents plan, including prison sentences, after Claudia Sheinbaum was groped on streetThe shocking public groping of Mexico’s president, Claudia Sheinbaum, has prompted rapid political action to tackle sexual abuse, as well as public debate on how best to address the problem, which is widespread across the country.Citlalli Hernández, Mexico’s secretary for women, presented a presidential plan to confront the issue, which would include actions such as ensuring prison sentences for sexual abuse across Mexico, encouraging women to report incidents, and training prosecutors and other officials on how to handle the matter. Continue reading...",
+      "content_length": 666,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ruhe, bitte! Wärmepumpen müssen ab 2026 deutlich leiser werden",
+      "link": "https://www.heise.de/news/Ruhe-bitte-Waermepumpen-muessen-ab-2026-deutlich-leiser-werden-11076858.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T09:55:00",
+      "content": "Ab 1. Januar 2026 gelten strengere Fördervorschriften für Wärmepumpen. Die Geräte müssen dann 10 dB leiser sein als nach EU-Vorgabe, 5 dB leiser als bisher.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ist die neue Grundsteuer undurchsichtig und ungerecht?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/grundsteuer-berechnung-bundeslaender-ranking-100.html",
+      "published": "2025-11-13T09:34:54",
+      "content": "   Transparenter, einheitlicher und \"aufkommensneutral\" sollte die neue Grundsteuer werden. Das hat nicht geklappt, beklagt der Eigentümerverband Haus und Grund. Oft sei sie gestiegen, die Unterschiede sind beträchtlich. Von Andre Kartschall.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Einen Monat Waffenruhe in Gaza - Alles bleibt unsicher",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-waffenruhe-108.html",
+      "published": "2025-11-13T09:12:27",
+      "content": "   Seit einem Monat gilt eine Waffenruhe zwischen Israel und der Hamas. Doch hält sie? Die Umsetzung des Abkommens stockt - und vor allem die Entwaffnung der Hamas könnte zur entscheidenden Hürde werden. Von Julio Segador. [mehr]",
+      "content_length": 229,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Meta verdient Milliarden mit betrügerischer Werbung",
+      "link": "https://www.heise.de/news/Meta-verdient-Milliarden-mit-betruegerischer-Werbung-11076561.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T08:59:00",
+      "content": "Wir sehen dubiose Anzeigen, Zuckerberg wird reich: So lautet offenbar ein Teil des Geschäfts. Scam bringt Meta Milliarden ein.",
+      "content_length": 126,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Künstler Gao Zhen - Inhaftiert für längst bekannte Kunstwerke",
+      "link": "https://www.tagesschau.de/ausland/asien/china-kunst-repressionen-100.html",
+      "published": "2025-11-13T08:53:58",
+      "content": "   Der Künstler Gao Zhen wird wegen Werken, die mehr als ein Jahrzehnt alt sind, in China vor Gericht gestellt. Unter Staatschef Xi ist kritische Kunst kaum noch möglich. Und auch im Exil werden Künstler eingeschüchtert. Von J. Endriss.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "‘I’d do it all again,’ says Dutch minister at heart of car chip standoff with China",
+      "link": "https://www.theguardian.com/business/2025/nov/13/netherlands-china-nexperia-row-global-car-industry",
+      "published": "2025-11-13T08:00:17",
+      "content": "Exclusive: Vincent Karremans says row with Beijing that threatened global car production is ‘wake-up call’ to westA bitter battle over the future of a Chinese-owned chipmaker in the Netherlands that threatened to cripple the global car industry is a “wake-up call to Europe and the west”, the minister at the heart of the row has warned.The six-week standoff between the EU and Beijing over Nexperia and its vital supplies of automotive semiconductors has served up a sobering lesson to world leaders over their dependency on China, says Vincent Karremans. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Databricks: Wie KI-Agenten den Sprung in den Produktivbetrieb schaffen sollen",
+      "link": "https://www.heise.de/news/Databricks-Wie-KI-Agenten-den-Sprung-in-den-Produktivbetrieb-schaffen-sollen-11075902.html",
+      "published": "2025-11-13T07:35:00",
+      "content": "Databricks hat auf der Data+AI World Tour neue Funktionen seiner Data-Intelligence-Plattform vorgestellt. Im Mittelpunkt stand die Plattform Agent Bricks.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Epstein-Affäre: Druck auf Trump wächst - Parlament soll abstimmen",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-akten-trump-102.html",
+      "published": "2025-11-13T06:56:46",
+      "content": "   Immer wieder holt die Epstein-Affäre US-Präsident Trump ein - nun scheinen ihn neu veröffentlichte E-Mail-Auszüge zu belasten. Der republikanische Vorsitzende im Repräsentantenhaus kündigte eine Abstimmung zur Offenlegung der Akten an.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Amid Japan’s surge in bear attacks, a torrent of AI-generated videos is adding to anxiety",
+      "link": "https://www.theguardian.com/world/2025/nov/13/amid-japans-surge-in-bear-attacks-a-torrent-of-ai-generated-videos-is-adding-to-anxiety",
+      "published": "2025-11-13T05:37:10",
+      "content": "Videos show schoolgirls fighting off animals, while others show people feeding bears, with some so realistic that users struggled to distinguish between fact and fictionIf a record number of fatal bear attacks wasn’t terrifying enough, experts say a torrent of AI-generated videos in Japan purporting to show people in close encounters with the animals is only adding to public anxiety – and could put people at greater risk.While headlines about real attacks and disruption appear on a regular basis, monitors of online content are warning social media users not to be taken in by realistic videos on platforms such as TikTok of the animals attacking or interacting with humans. Continue reading...",
+      "content_length": 699,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ist Frankreich so frei und brüderlich wie vor dem Terror?",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-terror-2015-jahrestag-100.html",
+      "published": "2025-11-13T05:36:22",
+      "content": "   Vor zehn Jahren erschütterten islamistische Anschläge in Paris die Welt. Die Bluttaten galten einer offenen Gesellschaft - und Frankreich versprach sich daraufhin, genau für diese Werte einzustehen. Ist das gelungen? Von J. Borutta.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Donnerstag: Google gegen Phishing-Kartell, Prüfung auf DSA-Verstöße bei X",
+      "link": "https://www.heise.de/news/Donnerstag-Google-gegen-Phishing-Kartell-Pruefung-auf-DSA-Verstoesse-bei-X-11076395.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-13T05:15:00",
+      "content": "Online-Betrug als Geschäftsmodell + Widerspruchsrecht bei Löschanträgen + EU-Parlamentarier gegen KI-Kündigungen + Steam Frame VR-Headset ohne PC + #heiseshow",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Neu veröffentlichte Epstein-Mails belasten Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-akten-trump-100.html",
+      "published": "2025-11-13T04:26:33",
+      "content": "   Größtmögliche Distanz zwischen dem Sexualstraftäter Epstein und dem US-Präsidenten: Das will das Weiße Haus. Doch neu veröffentlichte E-Mail-Auszüge scheinen Trump zu belasten. Und nun rückt auch die Freigabe weiterer Akten näher.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Fatal clash on Thai-Cambodia border after Trump-brokered peace deal breaks down",
+      "link": "https://www.theguardian.com/world/2025/nov/13/thailand-cambodia-border-clash",
+      "published": "2025-11-13T04:03:19",
+      "content": "The truce broke down this week after a Thai soldier lost a leg to a landmine blast, prompting Thailand’s PM to say the peace deal was ‘now over’One person has been killed by gunfire along the Thai-Cambodia border as conflict heats up between the two nations days after a Trump-backed ceasefire agreement has broken down.Fighting erupted between Thai and Cambodian troops over five days in July, with 43 people killed and 300,000 displaced in the worst fighting along the border in a decade. Donald Trump oversaw the signing of a ceasefire agreement between the two nations in Malaysia this October, after the US president previously threatened to withhold trade privileges from the two countries unless they stopped fighting. Continue reading...",
+      "content_length": 745,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Utter hypocrisy’: tobacco firm lobbied against rules in Africa that are law in UK",
+      "link": "https://www.theguardian.com/global-development/2025/nov/13/british-american-tobacco-africa-zambia-uk",
+      "published": "2025-11-13T04:00:13",
+      "content": "British American Tobacco pushed Zambian ministers to drop or delay ad bans, health warnings and restrictions on flavoured products, letter showsBritish American Tobacco has been accused of “utter hypocrisy” for lobbying against tobacco control measures in Africa that are already in place in the UK.A letter seen by the Guardian, sent from the company’s subsidiary in Zambia to the country’s government ministers, asks for plans to ban tobacco advertising and sponsorship to be abandoned or delayed. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Repräsentantenhaus beschließt Haushalt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kongress-haushalt-shutdown-ende-100.html",
+      "published": "2025-11-13T03:39:01",
+      "content": "   Noch nie dauerte ein Stillstand der Regierungsgeschäfte in den USA so lange wie dieses Mal. Nun hat auch das Repräsentantenhaus einer Einigung im Haushaltsstreit zugestimmt. Der Übergangshaushalt gilt aber nur bis Ende Januar.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "US-Außenminister verteidigt umstrittene Angriffe auf Boote",
+      "link": "https://www.tagesschau.de/ausland/amerika/rubio-g7-aussenminister-karibik-100.html",
+      "published": "2025-11-13T03:03:29",
+      "content": "   Seit Wochen greifen die USA mutmaßlich mit Drogen beladene Schiffe in der Karibik an. EU-Vertreter werfen Washington deswegen eine Verletzung des Völkerrechts vor. US-Außenminister Rubio wies die Kritik nun mit deutlichen Worten zurück.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Bündnis von Regierungschef Sudani gewinnt Wahl im Irak",
+      "link": "https://www.tagesschau.de/ausland/asien/irak-parlamentswahl-100.html",
+      "published": "2025-11-12T23:59:38",
+      "content": "   Bei der Parlamentswahl im Irak hat das Bündnis von Ministerpräsident al-Sudani einen Sieg errungen. Ob er Regierungschef bleiben kann, wird sich aber wohl erst in den kommenden Wochen und Monaten zeigen.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
+      "link": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
+      "published": "2025-11-12T22:54:47",
+      "content": "On Wednesday, OpenAI released GPT-5.1 Instant and GPT-5.1 Thinking, two updated versions of its flagship AI models now available in ChatGPT. The company is wrapping the models in the language of anthropomorphism, claiming that they’re warmer, more conversational, and better at following instructions.\nThe release follows complaints earlier this year that its previous models were excessively cheerful and sycophantic, along with an opposing controversy among users over how OpenAI modified the default GPT-5 output style after several suicide lawsuits.\nThe company now faces intense scrutiny from lawyers and regulators that could threaten its future operations. In that kind of environment, it’s difficult to just release a new AI model, throw out a few stats, and move on like the company could even a year ago. But here are the basics: The new GPT-5.1 Instant model will serve as ChatGPT’s faster default option for most tasks, while GPT-5.1 Thinking is a simulated reasoning model that attempts to handle more complex problem-solving tasks.Read full article\nComments",
+      "content_length": 1071,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "With another record broken, the world’s busiest spaceport keeps getting busier",
+      "link": "https://arstechnica.com/space/2025/11/with-another-record-broken-the-worlds-busiest-spaceport-keeps-getting-busier/",
+      "published": "2025-11-12T22:12:36",
+      "content": "CAPE CANAVERAL, Florida—Another Falcon 9 rocket fired off its launch pad here on Monday night, taking with it another 29 Starlink Internet satellites to orbit.\nThis was the 94th orbital launch from Florida’s Space Coast so far in 2025, breaking the previous record for the most satellite launches in a calendar year from the world’s busiest spaceport. Monday night’s launch came two days after a Chinese Long March 11 rocket lifted off from an oceangoing platform on the opposite side of the world, marking humanity’s 255th mission to reach orbit this year, a new annual record for global launch activity.\nAs of Wednesday, a handful of additional missions have pushed the global figure this year to 259, putting the world on pace for around 300 orbital launches by the end of 2025. This will more than double the global tally of 135 orbital launches in 2021.Read full article\nComments",
+      "content_length": 884,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Algerien begnadigt Schrifsteller Sansal - nach Gesuch Steinmeiers",
+      "link": "https://www.tagesschau.de/ausland/afrika/algerien-begnadigung-schriftsteller-100.html",
+      "published": "2025-11-12T21:28:25",
+      "content": "   Ein Jahr lang war der französisch-algerische Schriftsteller Sansal in algerischer Haft - trotz Appellen und Widerspruch aus Frankreich. Nun kommt die Regierung in Algier einem offiziellen Gnadengesuch aus Deutschland nach.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Cop30 live: ‘literally insane’ that we are letting global heating happen, says Al Gore",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/12/cop30-live-talks-us-protests-belem-brazil",
+      "published": "2025-11-12T21:15:38",
+      "content": "This live blog is now closed. You can read the full Guardian coverage of the climate talks in Brazil hereHello comrades, this is Nina Lakhani in chilly New York City taking over the blog for the next few hours. Thanks very much to my colleague Matt Taylor in London Town who will be back in the hot seat on Friday morning.Leading climate activists and influencers have signed a letter criticising PR firm Edelman over its role at the Cop30 summit in Brazil. Continue reading...",
+      "content_length": 477,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frankreichs Parlament beschließt Aussetzen der Rentenreform",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rentenreform-nationalversammlung-100.html",
+      "published": "2025-11-12T20:48:42",
+      "content": "   Präsident Macron ließ das Rentenalter auf 64 anheben - das galt als sein wichtigstes Reformprojekt. Nun setzt Frankreichs Nationalversammlung diese Rentenreform bis 2028 aus - ein Zugeständnis der Regierung an die Sozialisten.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "An explosion 92 million miles away just grounded Jeff Bezos’ New Glenn rocket",
+      "link": "https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/",
+      "published": "2025-11-12T20:28:52",
+      "content": "CAPE CANAVERAL, Florida—The second flight of Blue Origin’s New Glenn rocket was postponed again Wednesday as a supercharged wave of magnetized plasma from the Sun enveloped the Earth, triggering colorful auroral displays and concerns over possible impacts to communications, navigation, and power grids.\nSolar storms like the one this week can also affect satellite operations. That is the worry that caused NASA to hold off on launching a pair of science probes from Cape Canaveral Space Force Station, Florida, on Wednesday aboard Blue Origin’s New Glenn rocket.\nIn a statement, Blue Origin said NASA, its customer on the upcoming launch, decided to postpone the mission to send the agency’s two ESCAPADE spacecraft on a journey to Mars.Read full article\nComments",
+      "content_length": 765,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israeli president condemns ‘serious’ attack by settlers on West Bank villages",
+      "link": "https://www.theguardian.com/world/2025/nov/12/israeli-settlers-new-attack-violence-west-bank-palestinians",
+      "published": "2025-11-12T19:26:00",
+      "content": "Isaac Herzog makes rare statement on often-ignored violence as settlers injure Palestinians and attack soldiersDozens of masked Israeli settlers attacked Palestinian villages in the occupied West Bank on Tuesday, injuring four Palestinians and attacking Israeli soldiers in the latest incident of rising settler violence.The settlers attacked the Palestinian villages of Beit Lid and Deir Sharaf, setting vehicles on fire and damaging property belonging to a Bedouin community, with charred remains of cars left behind the next day. Continue reading...",
+      "content_length": 552,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Audi goes full minimalism for its first-ever Formula 1 livery",
+      "link": "https://arstechnica.com/cars/2025/11/audi-goes-full-minimalism-for-its-first-ever-formula-1-livery/",
+      "published": "2025-11-12T19:17:52",
+      "content": "Audi provided flights from Washington, DC, to Munich and accommodation so Ars could visit its motorsports facility and see its F1 car. Ars does not accept paid editorial content.\nMUNICH, Germany—Audi’s long-awaited Formula 1 team gave the world its first look at what the Audi R26 will look like when it takes to the track next year. Well, sort of—the car you see here is a generic show car for the 2026 aero regulations, but the livery you see, plus the sponsors’ logos, will race next year.\n“By entering the pinnacle of motorsport, Audi is making a clear, ambitious statement. It is the next chapter in the company’s renewal. Formula 1 will be a catalyst for the change towards a leaner, faster, and more innovative Audi,” said Gernot Döllner, Audi’s CEO. “We are not entering Formula 1 just to be there. We want to win. At the same time, we know that you don’t become a top team in Formula 1 overnight. It takes time, perseverance, and tireless questioning of the status quo. By 2030, we want to fight for the World Championship title,” Döllner said.\n\n      \n      \n        \n    \n    \n      After the complicated liveries of cars like the R18 or Audi's Formula E program, the R26 is refreshingly simple.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      None of the sponsors have been announced yet, so the car is bare for now.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      The view Audi hopes its rivals get next year.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n  \n Read full article\nComments",
+      "content_length": 1803,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Astronomie: Erstmals initiale Geometrie einer Supernova ergründet",
+      "link": "https://www.heise.de/news/Astronomie-Erstmals-initiale-Geometrie-einer-Supernova-ergruendet-11075229.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T19:00:00",
+      "content": "Wenn ein Stern explodiert, expandiert er mit großer Geschwindigkeit. Wie eine Supernova direkt nach ihrem Beginn aussieht, war deshalb unbekannt – bis jetzt.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Quantum computing tech keeps edging forward",
+      "link": "https://arstechnica.com/science/2025/11/quantum-roundup-lots-of-companies-announcing-new-tech/",
+      "published": "2025-11-12T18:59:38",
+      "content": "The end of the year is usually a busy time in the quantum computing arena, as companies often try to announce that they’ve reached major milestones before the year wraps up. This year has been no exception. And while not all of these announcements involve interesting new architectures like the one we looked at recently, they’re a good way to mark progress in the field, and they often involve the sort of smaller, incremental steps needed to push the field forward.\nWhat follows is a quick look at a handful of announcements from the past few weeks that struck us as potentially interesting.\nIBM follows through\nIBM is one of the companies announcing a brand-new architecture this year. That’s not at all a surprise, given that the company promised to do so back in June; this week sees the company confirming that it has built the two processors it said it would earlier in the year. These include one called Loon, which is focused on the architecture that IBM will use to host error-corrected logical qubits. Loon represents two major changes for the company: a shift to nearest-neighbor connections and the addition of long-distance connections.Read full article\nComments",
+      "content_length": 1176,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Linux-Konsole: Valve kündigt neue Steam Machine an",
+      "link": "https://www.heise.de/news/Linux-Konsole-Valve-kuendigt-neue-Steam-Machine-an-11076221.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T18:34:00",
+      "content": "Ein Jahrzehnt nach dem Scheitern der Steam Machines wagt Valve einen neuen Versuch: Die neue Steam-Machine ist ein Würfel mit SteamOS. ",
+      "content_length": 135,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "French-Algerian writer Boualem Sansal pardoned and to be released from prison",
+      "link": "https://www.theguardian.com/world/2025/nov/12/french-algerian-writer-boualem-sansal-pardoned-and-to-be-released-from-prison",
+      "published": "2025-11-12T18:23:39",
+      "content": "Eighty-one year-old, who has prostate cancer, can now be transferred from Algeria to Germany for medical treatmentThe French-Algerian writer Boualem Sansal has been pardoned and is to be released from prison, the Algerian presidential office said in a statement on Wednesday.The move, which will mean Sansal can be transferred to Germany for medical treatment, comes after the German president, Frank-Walter Steinmeier, urged Algeria to free Sansal. Continue reading...",
+      "content_length": 469,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "India confirms deadly Delhi car blast being treated as terror incident",
+      "link": "https://www.theguardian.com/world/2025/nov/12/india-confirms-deadly-delhi-car-blast-being-treated-as-terror-incident-red-fort",
+      "published": "2025-11-12T17:46:13",
+      "content": "Cabinet says explosion near Red Fort that killed 12 is suspected to have been perpetrated by ‘anti-national forces’India has confirmed it is treating the explosion that killed 12 people outside Delhi’s Red Fort on Monday as a “terror incident” perpetrated by “anti-national forces”.The statement by the cabinet, led by the prime minister, Narendra Modi, confirmed mounting speculation that a terrorist attack was behind the blast that took place during peak time in one of the capital’s busiest areas and outside one of India’s major landmarks. Continue reading...",
+      "content_length": 564,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Polens Präsident verweigert Ernennung von 46 Richtern",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-richter-112.html",
+      "published": "2025-11-12T17:33:27",
+      "content": "   In Polen muss das Rechtssystem wieder unabhängig werden, um EU-Maßgaben zu erfüllen. Entsprechenden Bestrebungen der Regierung stellt sich aber der rechtsnationale Präsident Nawrocki entgegen. Er verweigerte die Ernennung von 46 Richtern.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Korruptionsvorwürfe: Zwei ukrainische Minister zurückgetreten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsvorwuerfe-ruecktritt-100.html",
+      "published": "2025-11-12T17:24:25",
+      "content": "   Die Schmiergeldaffäre in der Ukraine hat Konsequenzen: Sowohl Justizminister Haluschtschenko als auch Energieministerin Hryntschuk sind der Rücktrittsaufforderung von Präsident Selenskyj gefolgt. Doch es gibt noch weitere Verdächtige. [mehr]",
+      "content_length": 244,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Pakistani parliament votes to give army chief new powers and legal immunity",
+      "link": "https://www.theguardian.com/world/2025/nov/12/pakistan-parliament-constitutional-amendment-bill-asim-munir-supreme-court",
+      "published": "2025-11-12T17:05:43",
+      "content": "Critics say constitutional amendment, which will also limit supreme court’s independence, is ‘funeral for democracy’Pakistan’s parliament has passed a controversial amendment to its constitution that will expand the powers of the army chief and grant him lifelong legal immunity while limiting the independence of the supreme court, in a move critics described as a “funeral for democracy”.Field Marshal Asim Munir, Pakistan’s powerful army chief who is widely seen as a de facto ruler of the country, was the main benefactor from the 27th constitutional amendment, which was passed by the parliamentary lower house on Wednesday. Continue reading...",
+      "content_length": 649,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Uno Platform Studio 2.0 und Uno Platform 6.4: KI-Assistent und .NET-10.0-Support",
+      "link": "https://www.heise.de/news/Uno-Platform-Studio-2-0-und-Uno-Platform-6-4-KI-Assistent-und-NET-10-0-Support-11075898.html",
+      "published": "2025-11-12T17:04:00",
+      "content": "Mit .NET 10.0 und Visual Studio 2026 kompatibel, ist die neue Uno-Platform-Version erschienen. Für die kommerzielle Variante gibt es neue KI-Features.",
+      "content_length": 150,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "US-Flugzeugträger in der Karibik: Was plant Trump?",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-usa-karibik-100.html",
+      "published": "2025-11-12T16:47:24",
+      "content": "   Die USA haben ihre Präsenz in der Karibik-Region massiv erhöht. Angeblich geht es um den Kampf gegen die Drogenkartelle Venezuelas. Plant US-Präsident Trump eine Invasion - und mit welchem Interesse? [mehr]",
+      "content_length": 209,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Studie: DMA bringt Nutzern keine günstigeren App-Preise",
+      "link": "https://www.heise.de/news/Studie-DMA-bringt-Nutzern-keine-guenstigeren-App-Preise-11075918.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T16:00:00",
+      "content": "Die Vorschriften des Digital Markets Act (DMA) sollten für mehr Wettbewerb in App Stores sorgen, doch eine neue Studie zeigt: Nutzer sehen kaum Preissenkungen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Miniatur Wunderland Ziel von IT-Angriff: Kreditkartendaten abgeflossen",
+      "link": "https://www.heise.de/news/Miniatur-Wunderland-Ziel-von-IT-Angriff-Kreditkartendaten-abgeflossen-11076011.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T15:41:00",
+      "content": "Das Online-Buchungssystem des Miniatur Wunderlands wurde Ziel eines IT-Angriffs. Untersuchungen laufen derzeit noch.",
+      "content_length": 116,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Korruptionsvorwürfe: Skandal im Selenskyj-Umfeld erschüttert Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/korruptionsskandal-ukraine-selenskyj-100.html",
+      "published": "2025-11-12T14:56:02",
+      "content": "   Im Zentrum eines neuen Korruptionsskandals in der Ukraine steht ein Wegbegleiter von Präsident Selenskyj. Auch Regierungsbeamte geraten in Bedrängnis. Kritiker vermuten weitere Verstrickungen. Von Rebecca Barth.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Dire warnings over aid and hunger following RSF’s capture of Sudanese city",
+      "link": "https://www.theguardian.com/world/2025/nov/12/sudan-north-darfur-aid-malnutrition-rsf-el-fasher-tawila",
+      "published": "2025-11-12T14:37:45",
+      "content": "Fears rise for displaced civilians as UN reports deteriorating situation and MSF warns of ‘staggering’ malnutritionThere are grave fears for civilians who survived the capture of El Fasher by a Sudanese paramilitary group last month, as the UN warned relief operations were on the brink of collapse and an aid group said malnutrition in displacement camps had reached “staggering” levels.The Rapid Support Forces (RSF) captured El Fasher – the capital of North Darfur state and the last urban centre outside of its grasp in the wider Darfur region – on 26 October. Survivor accounts and video and satellite evidence suggest more than 1,500 people were killed in ethnically targeted massacres in the immediate aftermath. Continue reading...",
+      "content_length": 739,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pakistan opens investigation into Islamabad terror attack",
+      "link": "https://www.theguardian.com/world/2025/nov/12/pakistan-opens-investigation-into-islamabad-terror-attack",
+      "published": "2025-11-12T14:18:32",
+      "content": "Pakistani ministers attribute deadly suicide attack to Indian state terrorism but India denies claimPakistan has opened an investigation into the suicide attack that killed 12 people outside district court buildings in Islamabad, after the prime minister made unsubstantiated claims that “Indian state terrorism” was behind the blast.The attack took place in the middle of the day on Tuesday as the area was thrumming with people. The bomber made several attempts to get inside the buildings before detonating a device next to a police car, killing 12 people and injuring 27. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Warum objektive Schätzungen in der Softwareentwicklung nicht funktionieren",
+      "link": "https://www.heise.de/blog/Warum-objektive-Schaetzungen-in-der-Softwareentwicklung-nicht-funktionieren-11074323.html",
+      "published": "2025-11-12T14:13:00",
+      "content": "Der geschätzte Aufwand eines Softwareprojekts bezieht sich meist auf das jeweilige Team. Aber Aufwand ist nicht objektiv und unabhängig vom Team schätzbar.",
+      "content_length": 155,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump writes to Israeli president calling for Netanyahu pardon",
+      "link": "https://www.theguardian.com/world/2025/nov/12/key-netanyahu-aide-ron-dermer-quits-israel-strategic-affairs-minister",
+      "published": "2025-11-12T14:07:09",
+      "content": "Isaac Herzog can pardon convicted criminals in some circumstances, but cases against Israeli PM are ongoingDonald Trump has repeated a request to Israel’s president, Isaac Herzog, for a pardon for Benjamin Netanyahu, who is on trial in three separate corruption cases.The Israeli prime minister has repeatedly denied any wrongdoing in the ongoing court cases. No rulings have been delivered, and his supporters have dismissed the trials as politically motivated. Continue reading...",
+      "content_length": 482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie von der Leyen versucht, ihren Zwei-Billionen-Haushalt zu retten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-178.html",
+      "published": "2025-11-12T11:49:40",
+      "content": "   Rund zwei Billionen Euro soll der nächste EU-Haushalt umfassen. Doch es gibt Streit wegen Reformen der Budget-Struktur. Regionale Behörden befürchten abgehängt zu werden. Nun lenkt von der Leyen ein - denn die Zeit drängt. Von T. Spickhofen.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Microsoft ermöglicht externe Passkey-Verwaltung in Windows 11",
+      "link": "https://www.heise.de/news/Microsoft-ermoeglicht-externe-Passkey-Verwaltung-in-Windows-11-11075235.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T10:45:00",
+      "content": "Microsoft hat die Passkey-Verwaltung in Windows 11 aufgebohrt. Nun können das externe Programme übernehmen – etwa 1Password und Bitwarden.",
+      "content_length": 138,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zehn Monate alte Autobahnbrücke in China nach Erdrutsch eingestürzt",
+      "link": "https://www.tagesschau.de/ausland/asien/china-autobahnbruecke-einsturz-102.html",
+      "published": "2025-11-12T10:41:04",
+      "content": "   Vor zehn Monaten fertiggestellt, jetzt in Trümmern: Teile einer über 170 Meter hohen Brücke in China sind innerhalb von Augenblicken eingestürzt. Schon vorher wurden Risse entdeckt - und dadurch Opfer verhindert.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Fachbücher zu .NET 10.0, C# 14.0, Entity Framework Core 10.0 und Blazor 10.0",
+      "link": "https://www.heise.de/blog/Fachbuecher-zu-NET-10-0-C-14-0-Entity-Framework-Core-10-0-und-Blazor-10-0-11075034.html",
+      "published": "2025-11-12T10:15:00",
+      "content": "Vier aktuelle .NET-Bücher des Dotnet-Doktors sind bereits auf dem Stand des gestern veröffentlichten stabilen Release verfügbar.",
+      "content_length": 128,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukrainischer Justizminister wegen Korruptionsverdachts suspendiert",
+      "link": "https://www.tagesschau.de/ausland/europa/justizminister-korruptionsverdacht-ukraine-100.html",
+      "published": "2025-11-12T09:36:09",
+      "content": "   Ein 100-Millionen-Dollar-Korruptionsskandal erschüttert die Ukraine. Mehrere ehemalige Politiker sollen verwickelt sein. Im Fokus der Ermittlungen steht ein langjähriger Wegbegleiter von Präsident Selenskyj.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": ".NET 10.0 ist fertig",
+      "link": "https://www.heise.de/news/NET-10-0-ist-fertig-11074367.html",
+      "published": "2025-11-12T08:11:00",
+      "content": "Microsoft hat die produktionsreifen Versionen von .NET 10.0 und Visual Studio 2026 veröffentlicht. Spannende Neuerungen gibt es vor allem für C# und Blazor.",
+      "content_length": 156,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "programmier.bar: Embedded Development mit Jakob Czekansky",
+      "link": "https://www.heise.de/blog/programmier-bar-Embedded-Development-mit-Jakob-Czekansky-11074291.html",
+      "published": "2025-11-12T07:25:00",
+      "content": "Jakob Czekansky erläutert, wieso Embedded Systems wichtiger Teil unseres Alltags sind, wie sie entwickelt werden und wie sie die technologische Zukunft prägen.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Linux: KI-Richtlinien für Kernel-Entwickler in der Diskussion",
+      "link": "https://www.heise.de/news/Linux-KI-Richtlinien-fuer-Kernel-Entwickler-in-der-Diskussion-11074886.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-12T07:21:00",
+      "content": "Der Linux-Erfinder will KI-Tools genauso behandeln wie andere Werkzeuge – und sieht auch beim Copyright von KI-Beiträgen keine Gründe für Sonderbehandlungen.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Linux: KI-Richtlinien für Kernel-Entwickler in der Diskussion",
+      "link": "https://www.heise.de/news/Linux-KI-Richtlinien-fuer-Kernel-Entwickler-in-der-Diskussion-11074886.html",
+      "published": "2025-11-12T07:21:00",
+      "content": "Der Linux-Erfinder will KI-Tools genauso behandeln wie andere Werkzeuge – und sieht auch beim Copyright von KI-Beiträgen keine Gründe für Sonderbehandlungen.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
