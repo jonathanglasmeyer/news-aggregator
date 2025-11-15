@@ -1,0 +1,1356 @@
+{
+  "metadata": {
+    "timestamp": "20251115_071119",
+    "input_file": "data/deduplicated/20251115_071119.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 156,
+      "filtered_count": 148,
+      "blacklisted_count": 8,
+      "reduction_rate": "5.1%",
+      "top_blacklist_reasons": {
+        "regen": 2,
+        "weltmeister": 1,
+        "sperrung": 1,
+        "schwachstelle": 1,
+        "verspätung": 1,
+        "einbruch": 1,
+        "sicherheitslücke": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Jahreskongress - Junge Union fordert im Rentenkonflikt Machtwort von Bundeskanzler Merz",
+      "link": "https://www.deutschlandfunk.de/junge-union-fordert-im-rentenkonflikt-machtwort-von-bundeskanzler-merz-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Im Konflikt um das geplante Rentenpaket der schwarz-roten Koalition hat der Vorsitzende der Jungen Union, Winkel, mehr Durchsetzungsfähigkeit von Bundeskanzler Merz gefordert. Winkel sagte in seiner Rede auf dem Jahreskongress der Jugendorganisation von CDU und CSU, der Vorschlag von SPD-Sozialministerin Bas dürfe auf keinen Fall so kommen.",
+      "content_length": 342,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Interview der Woche\" - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss",
+      "link": "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der Wehrbeauftragte des Bundestags, Otte, begrüßt die Einigung der Regierungskoalition auf ein neues Wehrdienst-Gesetz. Der CDU-Politiker sagte im \"Interview der Woche\" des Deutschlandfunks, durch die vorgesehene halbjährliche Berichtspflicht des Verteidigungsministeriums lasse sich gut überprüfen, ob das Prinzip der Freiwilligkeit funktioniere.",
+      "content_length": 347,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "BSW - De Masi tritt Vorwürfen aus Brandenburg entgegen",
+      "link": "https://www.deutschlandfunk.de/de-masi-tritt-vorwuerfen-aus-brandenburg-entgegen-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der designierte BSW-Vorsitzende De Masi hat den Vorwurf zurückgewiesen, seine Partei zeichne sich durch eine autoritäre Führung aus.",
+      "content_length": 132,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "New York - UNO-Sicherheitsrat stimmt Montag über Trumps Gaza-Plan ab",
+      "link": "https://www.deutschlandfunk.de/uno-sicherheitsrat-stimmt-montag-ueber-trumps-gaza-plan-ab-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der UNO-Sicherheitsrat stimmt nach Angaben von Diplomaten in der kommenden Woche über den Gaza-Plan von US-Präsident Trump ab.",
+      "content_length": 126,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Irreführender Beitrag - Trump hält an Androhung einer Klage gegen die BBC fest",
+      "link": "https://www.deutschlandfunk.de/trump-haelt-an-androhung-einer-klage-gegen-die-bbc-fest-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "US-Präsident Trump hat seine Absicht bekräftigt, die BBC zu verklagen - ungeachtet einer Entschuldigung des britischen Senders für einen irreführenden Beitrag. Trump sagte, die Klage werde wahrscheinlich in der nächsten Woche eingereicht. Man werde eine Summe zwischen einer und fünf Milliarden Dollar verlangen.",
+      "content_length": 312,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Karibik - Wieder Tote bei US-Angriffen auf mutmaßliche Drogen-Boote",
+      "link": "https://www.deutschlandfunk.de/wieder-tote-bei-us-angriffen-auf-mutmassliche-drogen-boote-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die US-Streitkräfte setzen ihre Militärschläge gegen Boote in der Karibik und im Pazifik fort. Ein Pentagon-Sprecher erklärte, beim jüngsten Angriff seien vier Menschen getötet worden. Washington begründet die Militäraktionen damit, dass die Boote zum Transport von Drogen benutzt würden.",
+      "content_length": 288,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Nicht unsere Haltung\" - Bundesregierung weist Äußerungen des Drogenbeauftragten zu Behandlung hochbetagter Menschen zurück",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-weist-aeusserungen-des-drogenbeauftragten-zu-behandlung-hochbetagter-menschen-zuruec-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die Bundesregierung distanziert sich von Äußerungen ihres Drogenbeauftragten Streeck, hochbetagten Menschen unter Umständen keine teuren Medikamente mehr zu verabreichen.",
+      "content_length": 170,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kontroverse Debatte - Kinderhilfswerk lehnt pauschales Verbot sozialer Medien für Kinder und Jugendliche ab",
+      "link": "https://www.deutschlandfunk.de/kinderhilfswerk-lehnt-pauschales-verbot-sozialer-medien-fuer-kinder-und-jugendliche-ab-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Das Deutsche Kinderhilfswerk hält es für falsch, Kindern und Jugendlichen den Gebrauch sozialer Medien zu verbieten.",
+      "content_length": 116,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Steigende Preise - Trump senkt Zölle auf Rindfleisch, Kaffee und andere Lebensmittel-Importe",
+      "link": "https://www.deutschlandfunk.de/trump-senkt-zoelle-auf-rindfleisch-kaffee-und-andere-lebensmittel-importe-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "US-Präsident Trump hat per Dekret eine Reihe von Lebensmittel-Importen von den im Laufe des Jahres verhängten Zöllen ausgenommen.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Koalitionsbeschlüsse - \"Wirtschaftsweise\" kritisiert Schwarz-Rot - \"Strom für alle billiger machen\"",
+      "link": "https://www.deutschlandfunk.de/wirtschaftsweise-kritisiert-schwarz-rot-strom-fuer-alle-billiger-machen-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die Ökonomin Schnitzer hat die Beschlüsse der Bundesregierung zur Ankurbelung der Wirtschaft kritisiert.",
+      "content_length": 104,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sozial-Reformen - Steinbrück fordert mehr Mut zu Gegenwind und keine Furcht vor der AfD",
+      "link": "https://www.deutschlandfunk.de/steinbrueck-fordert-mehr-mut-zu-gegenwind-und-keine-furcht-vor-der-afd-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der frühere Bundesfinanzminister Steinbrück ruft die schwarz-rote Koalition zu mutigen und umfangreichen Reformen des Sozialstaats auf.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sexuelle Belästigung im Alltag - Ataman fordert besseren Schutz",
+      "link": "https://www.deutschlandfunk.de/ataman-fordert-besseren-schutz-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die Antidiskriminierungsbeauftragte des Bundes, Ataman, fordert einen besseren rechtlichen Schutz für Frauen vor sexueller Belästigung im Alltag.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Bundesstaat South Carolina - Häftling durch Erschießungskommando hingerichtet",
+      "link": "https://www.deutschlandfunk.de/haeftling-durch-erschiessungskommando-hingerichtet-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Im US-Bundesstaat South-Carolina ist erneut ein Häftling durch ein Erschießungs-Kommando hingerichtet worden.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Syrien - Explosionen in Hauptstadt Damaskus - Hintergrund zunächst unklar",
+      "link": "https://www.deutschlandfunk.de/explosionen-in-hauptstadt-damaskus-hintergrund-zunaechst-unklar-100.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "In der syrischen Hauptstadt Damaskus hat es mehrere Explosionen gegeben.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kampf gegen Drogenschmuggel - Erste Nationale Hafensicherheitskonferenz in Hamburg",
+      "link": "https://www.deutschlandfunk.de/erste-nationale-hafensicherheitskonferenz-in-hamburg-110.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Sicherheitsexperten haben sich in Hamburg zur ersten Nationalen Hafensicherheitskonferenz getroffen. Hintergrund ist der zunehmende Drogenschmuggel über die europäischen Nordseehäfen. Vertreter des Zolls, der EU-Kommission und der Sicherheitsbehörden von Bund und Ländern sowie der deutschen Seehäfen vereinbarten eine engere Zusammenarbeit.",
+      "content_length": 341,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bürgerkrieg - UNO-Menschenrechtsrat will Gräueltaten im Sudan untersuchen",
+      "link": "https://www.deutschlandfunk.de/uno-menschenrechtsrat-will-graeueltaten-im-sudan-untersuchen-106.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der Menschenrechtsrat der Vereinten Nationen will Berichte über Gräueltaten in der sudanesischen Großstadt Al-Faschir genauer untersuchen. Die Mitgliedsländer beschlossen bei einer Sondersitzung einstimmig eine entsprechende Resolution. Der UNO-Hochkommissar für Menschenrechte, Türk, warf der Weltgemeinschaft Versagen vor.",
+      "content_length": 324,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala tritt in den Hungerstreik",
+      "link": "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-tritt-in-den-hungerstreik-110.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Der ehemalige kongolesische Rebellenführer Lumbala ist aus Protest gegen seinen Prozess in Frankreich in den Hungerstreik getreten.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltklimakonferenz - Fridays for Future protestiert in rund 70 deutschen Städten für Klimaschutz",
+      "link": "https://www.deutschlandfunk.de/fridays-for-future-protestiert-in-rund-70-deutschen-staedten-fuer-klimaschutz-104.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Anlässlich der Weltklimakonferenz in Brasilien haben Menschen in zahlreichen deutschen Städten für mehr Klimaschutz demonstriert. Aufgerufen hatte die Protestbewegung \"Fridays for Future\". Vielerorts fanden die Demonstrationen als Laternenumzüge statt - mit umgedichteten Sankt-Martins-Liedern.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rohstoffe - Zypern will ab 2027 Erdgas in die EU liefern",
+      "link": "https://www.deutschlandfunk.de/zypern-will-ab-2027-erdgas-in-die-eu-liefern-112.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Zypern will ab dem Jahr 2027 Erdgas an die EU-Partnerländer liefern.",
+      "content_length": 68,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fast 100 Prozent - Saarländische Ministerpräsidentin Rehlinger bleibt SPD-Landeschefin",
+      "link": "https://www.deutschlandfunk.de/saarlaendische-ministerpraesidentin-rehlinger-bleibt-spd-landeschefin-108.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die saarländische Ministerpräsidentin Rehlinger ist für zwei weitere Jahre als SPD-Landesvorsitzende bestätigt worden.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Waffenruhe-Abkommen - Israel übergibt weitere Leichen von Palästinensern",
+      "link": "https://www.deutschlandfunk.de/israel-uebergibt-weitere-leichen-von-palaestinensern-108.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Israel hat weitere 15 Leichen von Palästinensern in den Gazastreifen gebracht und übergeben.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russischer Angriffskrieg - Pistorius nach Treffen in Berlin: Wir lassen die Ukraine nicht allein",
+      "link": "https://www.deutschlandfunk.de/pistorius-nach-treffen-in-berlin-wir-lassen-die-ukraine-nicht-allein-110.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die Ukraine kann im Abwehrkampf gegen das russische Militär weiter auf die Unterstützung der westlichen Alliierten zählen. Entsprechend äußerte sich Bundesverteidigungsminister Pistorius in Berlin nach einem Treffen mit Ministern oder Vertretern aus Frankreich, Italien, Polen und Großbritannien.",
+      "content_length": 296,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russischer Angriffskrieg - Ukraine beginnt nach eigenen Angaben Massenproduktion von Abwehrdrohnen",
+      "link": "https://www.deutschlandfunk.de/ukraine-beginnt-nach-eigenen-angaben-massenproduktion-von-abwehrdrohnen-110.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Die Ukraine hat eigenen Angaben zufolge mit der Massenproduktion von Luftabwehrdrohnen begonnen.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ticketsteuer-Senkung - Unklare Bewertung zu Entlastung von Passagieren",
+      "link": "https://www.deutschlandfunk.de/unklare-bewertung-zu-entlastung-von-passagieren-106.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Mögliche Auswirkungen einer Senkung der Ticketsteuer im Luftverkehr werden unterschiedlich bewertet. Nach Einschätzung des Bundesverbands der Verbraucherzentralen ist die Steuersenkung vor allem ein Geschenk an die Flugbranche, während sie den Passagieren kaum Entlastung bringt.",
+      "content_length": 279,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brasilien - 1.600 Öl-, Gas- und Kohle-Lobbyisten bei Weltklimakonferenz - Umweltaktivisten fordern Ausschluss",
+      "link": "https://www.deutschlandfunk.de/1-600-oel-gas-und-kohle-lobbyisten-bei-weltklimakonferenz-umweltaktivisten-fordern-ausschluss-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Bei der Weltklimakonferenz im brasilianischen Belém sind laut einer Datenanalyse auch mindestens 1.600 Lobbyisten der Öl-, Gas- und Kohleindustrie vertreten. Diese Zahl nennt der Klimaschützer-Zusammenschluss \"Kick Big Polluters Out\".",
+      "content_length": 234,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schweden - 3 Tote bei Busunfall in Stockholm",
+      "link": "https://www.deutschlandfunk.de/3-tote-bei-busunfall-in-stockholm-102.html",
+      "published": "2025-11-15T07:06:27",
+      "content": "Bei einem Bus-Unfall in der schwedischen Hauptstadt Stockholm sind drei Menschen ums Leben gekommen.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Diskussion über Rentenpaket: Junge Union erhöht Druck auf Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-108.html",
+      "published": "2025-11-15T07:01:58",
+      "content": "   Jahrelang saßen in der Jungen Union mit die größten Merz-Fans. Aber vor der heutigen Rede des Kanzlers beim \"Deutschlandtag\" des Parteinachwuchses kommen von diesem wegen des geplanten Rentenpakets ungewohnt harte Töne. [mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Teletubbies creator warns parents over ‘empty’ YouTube programmes for children",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/nov/15/youtube-children-content-bad-for-imaginative-life-teletubbies-creator",
+      "published": "2025-11-15T07:00:03",
+      "content": "Anne Wood says algorithms bypass ‘the responsibility of art’ and have failed to support high-quality children’s contentLots of programmes for children on YouTube are “empty” and do “nothing to encourage the imaginative life of children”, the Teletubbies creator has cautioned parents.Anne Wood, the veteran children’s producer who devised the popular TV show for preschool children, said children’s television had long been undervalued and she feared “we’re losing a tremendous amount and nobody can see it because it’s not considered important”. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Bereavement penalty’: people who lost partners hit by insurance premium rises",
+      "link": "https://www.theguardian.com/money/2025/nov/15/bereavement-penalty-insurance-premium-rises-ai",
+      "published": "2025-11-15T07:00:03",
+      "content": "Campaigners claim AI algorithms are behind hefty increases in renewal quotes for home and car coverShortly after her husband died, Kay Lawley* received renewal quotes from the couple’s home and car insurance provider, Ageas. She told the company of his death and was stunned that the quotes then increased by up to 15%.Her car insurance quote went from £301 to £348, while her home and contents policy rose by almost 12% – from £1,039 to £1,161. Continue reading...",
+      "content_length": 465,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump says he will likely sue the BBC for up to $5 billion for editing his speech",
+      "link": "https://www.france24.com/en/americas/20251115-trump-says-he-will-likely-sue-the-bbc-for-up-to-5-billion-for-editing-his-speech",
+      "published": "2025-11-15T06:52:57",
+      "content": "US President Donald Trump said on Friday that we intended to sue the UK's public broadcaster for airing a documentary made by a third-party production company that misleadingly edited a speech the president gave in the hours leading up to his supporters' assault on the US Capitol January 6, 2021.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Not for the faint-hearted’: is running the BBC an impossible job?",
+      "link": "https://www.theguardian.com/media/ng-interactive/2025/nov/15/is-running-the-bbc-an-impossible-job",
+      "published": "2025-11-15T06:00:07",
+      "content": "After Tim Davie’s resignation, the next director general will face internal strife, external noise and looming talks over the corporation’s existence and purposeAs BBC senior editors arrived at its New Broadcasting House headquarters in central London on Monday, the most pressing question was what had convinced Tim Davie, the corporation’s director general, to quit suddenly. Like any good BBC drama, it was a plot twist no one had seen coming.As they assessed the brutal pressures that had finally proved too much for Davie, a second question soon arose. Was running the BBC now simply an impossible job? Continue reading...",
+      "content_length": 627,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Avanti accused of ‘virtue signalling without virtue’ over wheelchair user art",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/15/avanti-accused-of-virtue-signalling-without-virtue-over-wheelchair-user-art",
+      "published": "2025-11-15T06:00:06",
+      "content": "Campaigners say train image of two wheelchair users does not reflect reality of single wheelchair space in standard classCampaigners have accused one of the UK’s leading train companies of “virtue signalling without the virtue” after it used images of wheelchair users that they say do not reflect the reality of travelling with a disability.Baraka Carberry, a digital artist, created a new livery for Avanti West Coast, which provides rail links between London and Birmingham, Manchester, Liverpool and Scotland, that shows “scenes of people, culture, colours and joy”. Titled Together We Roll, the images stretch across all seven carriages of the new Evero train, which the company says reduces carbon compared with the old fleet of trains. Continue reading...",
+      "content_length": 762,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Orbán’s claims of Trump summit triumph mask growing doubts over his grip on power",
+      "link": "https://www.theguardian.com/world/2025/nov/15/orban-claims-of-trump-summit-triumph-mask-growing-doubts-over-grip-on-power-hungary",
+      "published": "2025-11-15T06:00:05",
+      "content": "Embattled Hungarian leader says he won an indefinite reprieve from sanctions on oil and gas from Russia, but the US has since disputed thisAs Viktor Orbán would tell it, he had the perfect meeting with Donald Trump.After visiting the White House last week, the embattled Hungarian prime minister quickly declared victory, saying he had secured an indefinite exemption from US sanctions on oil and gas imported from Russia. The deal would shield Hungarians from skyrocketing energy prices ahead of parliamentary elections next year and potentially boost Orbán’s chances of extending his 15-year rule. Continue reading...",
+      "content_length": 619,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "About 1m Ford diesel cars sold in UK with defective emissions controls, court told",
+      "link": "https://www.theguardian.com/business/2025/nov/15/ford-diesel-cars-uk-emissions-legal-action",
+      "published": "2025-11-15T06:00:04",
+      "content": "Ford denies having created ‘defeat devices’ in legal action on behalf of 1.6 million owners against five carmakersAbout a million Ford diesel cars were sold in the UK with serious defects in components supposed to curb toxic exhaust emissions, the high court has been told.The highly polluting vehicles were produced and sold between 2016 and 2018 after Ford’s engineers became aware of the issues, and many were never formally recalled or fixed, lawyers said. Continue reading...",
+      "content_length": 480,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russia increasingly targeting trains as attacks on Ukraine’s rail network intensify",
+      "link": "https://www.theguardian.com/world/2025/nov/15/russia-targeting-trains-ukraine-rail-network-attacks",
+      "published": "2025-11-15T05:00:01",
+      "content": "Ukrainian minister says more than 800 attacks recorded since start of year as Moscow seeks to destroy country’s logistical capabilitiesUkraine has recorded a threefold increase in the number of attacks on its railway system since July, according to a senior minister, as Moscow seeks to scupper one of Kyiv’s key logistical systems.Oleksii Kuleba, a deputy prime minister with responsibility for infrastructure, said attacks on the network since the start of 2025 had caused damage totalling $1bn (£760m). Continue reading...",
+      "content_length": 525,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa",
+      "link": "https://www.theguardian.com/global-development/2025/nov/15/health-uk-cut-global-fund-aids-tuberculosis-tb-malaria-africa",
+      "published": "2025-11-15T05:00:00",
+      "content": "Advocates fear that other donors will follow Britain’s reduction to the Global Fund for Aids, TB and malariaThe UK is undermining its legacy in fighting infectious diseases including Aids and malaria by cutting money pledged to a leading global health fund, campaigners claim.The 15% reduction in the contribution to the Global Fund for Aids, Tuberculosis and Malaria announced this week – in a year when the UK, alongside South Africa, is co-host of the fund’s replenishment drive – risks encouraging other countries to cut back commitments as well, advocates fear.The Gates Foundation is a major private contributor to the Global Fund. The foundation also contributes to theguardian.org, which funds independent journalism at the Guardian Continue reading...",
+      "content_length": 760,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia welcomes Trump’s removal of tariffs on beef and other food imports",
+      "link": "https://www.theguardian.com/business/2025/nov/15/australia-welcomes-trumps-removal-of-tariffs-on-beef-and-other-food-imports",
+      "published": "2025-11-15T04:18:48",
+      "content": "‘We maintain our position that tariffs on any Australian products are unjustified,’ trade minister Don Farrell saysGet our breaking news email, free app or daily news podcastThe Australian government has welcomed the Trump administration’s removal of tariffs on beef and other agricultural exports to the US.After previously insisting his import duties were not fuelling inflation, the US president, Donald Trump, on Saturday morning Australian time signed an executive order reversing tariffs on food imports including beef, coffee and bananas. Continue reading...",
+      "content_length": 565,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tausende Läden schließen dieses Jahr - das Beispiel Mainz",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/traditionsgeschaefte-schliessung-einzelhandel-100.html",
+      "published": "2025-11-15T04:11:36",
+      "content": "   Nach mehr als 100 Jahren schließen zwei Traditionsläden in der Mainzer Innenstadt zum Jahresende. Die Gründe sind symptomatisch für die Branche: Keine Nachfolger, fehlendes Geld für Investitionen und der Onlinehandel. Von Michael Eiden.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan: RSF-Miliz zieht in die Nachbarprovinz weiter",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-al-faschir-nord-kordofan-100.html",
+      "published": "2025-11-15T04:10:39",
+      "content": "   Nach den Berichten von massenhaften Gräueltaten in der sudanesischen Stadt Al-Faschir im Darfur zieht die RSF-Miliz weiter Richtung Nord-Kordofan. Die UN warnen bereits vor einem Sturm der Nachbarprovinz. Von Anna Osius.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "China advises against travel to Japan amid escalating row over PM’s Taiwan comments",
+      "link": "https://www.theguardian.com/world/2025/nov/15/china-advises-against-travel-to-japan-amid-escalating-row-over-pms-taiwan-comments",
+      "published": "2025-11-15T03:46:38",
+      "content": "Sanae Takaichi says the use of force against Taiwan could warrant a military response from TokyoChina has advised its citizens to avoid travelling to Japan, escalating a diplomatic feud sparked by comments from Tokyo’s new prime minister about a hypothetical attack on Taiwan.Sanae Takaichi told Japan’s parliament on 7 November that the use of force against the self-ruled island claimed by China could warrant a military response from Tokyo. Japan has since said its position on Taiwan – just 100km from the nearest Japanese island – is unchanged. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump turns on former ally Marjorie Taylor Greene as Epstein questions mount – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/14/us-politics-latest-news-donald-trump-ice-bishops-jeffrey-epstein",
+      "published": "2025-11-15T03:07:54",
+      "content": "This live blog is now closed.Trump news at a glance: Pam Bondi announces investigation into Trump’s adversaries’ ties to Jeffrey EpsteinThe US trade representative, Jamieson Greer, said that the US has “essentially reached a deal with Switzerland”, after the country was hit with a 39% tariff on Swiss exports to the US.“We’re really excited about that deal and what it means for American manufacturing,” Greer told CNBC today in an interview. Continue reading...",
+      "content_length": 463,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump ends support for Marjorie Taylor Greene amid growing Epstein feud",
+      "link": "https://www.theguardian.com/us-news/2025/nov/14/trump-marjorie-taylor-greene-support",
+      "published": "2025-11-15T03:02:00",
+      "content": "President turns on ‘Wacky Marjorie’ after congresswoman criticizes effort to block release of key Epstein documentsDonald Trump announced Friday that he is withdrawing his support and endorsement of Republican lawmaker Marjorie Taylor Greene, a longtime ally and previously fierce defender of the president and the Maga movement.Trump’s move away from Greene came just hours after she said in an interview she thought the president’s attempts to stop the release of the files related to disgraced financier Jeffrey Epstein is “insanely the wrong direction to go”. Continue reading...",
+      "content_length": 583,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump kündigt Milliardenklage gegen BBC an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bbc-klage-100.html",
+      "published": "2025-11-15T02:53:43",
+      "content": "   Der US-Präsident verschärft den Ton gegenüber der BBC: Wegen einer umstrittenen Dokumentation, in der Trumps Aussagen verfälscht wurden, will er den britischen Sender verklagen. Zuvor war eine von Trumps Anwälten gesetzte Frist abgelaufen.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Epstein was texting US House member during 2019 hearing with Michael Cohen",
+      "link": "https://www.theguardian.com/us-news/2025/nov/14/epstein-texting-house-member-cohen-hearing",
+      "published": "2025-11-15T02:39:10",
+      "content": "Newly revealed documents show sex offender messaging lawmaker, and may have influenced their questioningNewly released documents from Jeffrey Epstein’s estate show the convicted sex offender appeared to be texting with a member of Congress during a 2019 House hearing with Michael Cohen, Donald Trump’s former fixer and personal attorney, and that those messages may have influenced the lawmaker’s questioning.The documents provided to Congress this week include transcripts suggesting Epstein was in direct contact with the lawmaker as the hearing unfolded, the Washington Post reports. Continue reading...",
+      "content_length": 607,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US army veteran who received Purple Heart deported by ICE to Mexico",
+      "link": "https://www.theguardian.com/us-news/2025/nov/14/purple-heart-veteran-deported",
+      "published": "2025-11-15T02:03:55",
+      "content": "Venezuelan-born Jose Barco detained upon early release from prison following attempted murder convictionAn army veteran and Purple Heart recipient who served two tours in Iraq was deported on Friday morning from an immigration detention facility in Florence, Arizona.Arizona state representative Raquel Terán told Fox 10 Phoenix that Jose Barco, a Venezuelan-born veteran whose family fled Cuba as refugees, was deported at 4am from Arizona. Continue reading...",
+      "content_length": 461,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Coach featured in Netflix’s Last Chance U dies after Oakland campus shooting",
+      "link": "https://www.theguardian.com/us-news/2025/nov/14/netflix-documentary-coach-injured-oakland-campus-shooting",
+      "published": "2025-11-15T01:50:59",
+      "content": "Mayor Barbara Lee calls John Beam ‘a man who dedicated himself to building up the young people of this city’A US football coach who starred in the Netflix documentary Last Chance U, about struggling college teams, has died after being shot on campus, authorities in California said.John Beam, director of athletics at Oakland’s Laney College, was hurt in a Thursday lunchtime incident at the school’s field house, its downtown sports training complex. He later died, the Oakland police department said on Friday. Continue reading...",
+      "content_length": 532,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Präsident Trump nimmt Zölle auf bestimmte Lebensmittel zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-lebensmittel-100.html",
+      "published": "2025-11-15T01:14:56",
+      "content": "   Die anhaltende Inflation und Siege der Demokraten bei mehreren lokalen Wahlen zeigen offenbar Wirkung: US-Präsident Trump hat überraschend Zölle auf mehrere Lebensmittel wie Rindfleisch, Bananen und Kaffee gestrichen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disney and ESPN are back on YouTube TV",
+      "link": "https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn",
+      "published": "2025-11-15T01:10:19",
+      "content": "\n\n\n\t\n\t\t\n\nESPN and other Disney-owned channels will be returning to YouTube TV following a new agreement announced Friday. More than 20 channels went dark on YouTube TV on October 30th, but two weeks later — and after CEOs Bob Iger and Sundar Pichai reportedly got more involved in negotiations — the companies have reached a deal.\n\n“Key elements” of the deal include, according to Disney:\n\n\nCarriage of Disney’s full linear portfolio including all the ESPN networks, ABC, the Disney-branded channels, Freeform, the FX Networks, and the National Geographic channels\n\n\n\nESPN’s new direct-to-consumer service (Unlimited Plan) to be made available at no additional cost to YouTube TV subscribers\n\n\n\nAccess to a selection of live and on-demand programming from ESPN Unlimited inside YouTube TV\n\n\n\nSelect networks to be included in various genre-specific packages\n\n\n\nThe ability to include the Disney+, Hulu Bundle as part of select YouTube offerings\n\n\n“We’re happy to share that we’ve reached an agreement with Disney that preserves the value of our service for our subscribers and future flexibility in our offers,” YouTube says. “Subscribers should see channels including ABC, ESPN and FX returning to their service over the course of the day, as well as any recordings that were previously in their Library. We apologize for the disruption and appreciate our subscribers’ patience as we negotiated on their behalf.”\n\n“This new agreement reflects our continued commitment to delivering exceptional entertainment and evolving with how audiences choose to watch,’’ Disney Entertainment co-chairmen Alan Bergman and Dana Walden and ESPN chairman Jimmy Pitaro said in a statement. “It recognizes the tremendous value of Disney’s programming and provides YouTube TV subscribers with more flexibility and choice. We are pleased that our networks have been restored in time for fans to enjoy the many great programming options this weekend, including college football.”\n\nUpdate, November 14th: Added details from Disney’s press release.",
+      "content_length": 2026,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Severe thunderstorm risk for northern and eastern Australia including Sydney, Brisbane and Canberra",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/15/severe-thunderstorm-risk-for-northern-and-eastern-australia-including-sydney-brisbane-and-canberra",
+      "published": "2025-11-15T00:42:58",
+      "content": "BoM forecasts possible storms from tropical north and WA to central and eastern parts, with potential for strong winds and heavy rainfallGet our breaking news email, free app or daily news podcastMuch of northern and eastern Australia faces a risk of severe thunderstorms on Saturday afternoon and evening, with millions of people potentially in the firing line.“It’s another severe thunderstorm outbreak for eastern parts of the country. It could be an active one,” said Angus Hines, senior meteorologist at the Bureau of Meteorology on Saturday. Continue reading...",
+      "content_length": 567,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kashmir is focus of arrests after Delhi car blast linked to ‘terror module’",
+      "link": "https://www.theguardian.com/world/2025/nov/14/kashmir-is-focus-of-arrests-after-delhi-car-blast-linked-to-terror-module",
+      "published": "2025-11-14T23:43:51",
+      "content": "Investigators believe an explosion that killed 13 people may be linked to group operating in the disputed regionPolice have carried out raids and made several arrests across the Indian region of Kashmir in the aftermath of a car explosion in Delhi that left 13 people dead.On Wednesday, the Indian government confirmed it was treating the blast as a “terror incident” perpetrated by “anti-national forces”. The explosion took place outside one of India’s most significant monuments during rush hour on Monday evening. Continue reading...",
+      "content_length": 537,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump Vs the BBC, Pardoning Netanyahu? Sarkozy’s Prison Stint",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20251114-trump-vs-the-bbc-pardoning-netanyahu-sarkozy-s-prison-stint",
+      "published": "2025-11-14T23:39:39",
+      "content": "This week, President Trump has threatened to sue the BBC for one billion dollars after it emerged its Panorama programme misleadingly edited his speech. The US President also sent a formal letter to Israeli President Isaac Herzog, asking for a pardon for his ally the prime minister Benjamin Netanyahu, who’s facing a long running trial for alleged bribery and fraud. And after three weeks in prison, Nicolas Sarkozy has been released ahead of an appeal trial to be held next year.",
+      "content_length": 481,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump scraps tariffs on beef, coffee and other goods as grocery store prices rise",
+      "link": "https://www.france24.com/en/live-news/20251114-trump-signs-order-to-lower-tariffs-on-beef-coffee-other-goods-1",
+      "published": "2025-11-14T23:21:11",
+      "content": "US President Donald Trump on Friday signed an executive order exempting imports including bananas, coffee, beef and other agricultural products from his sweeping tariffs. The decision follows a string of wins by Democratic politicians who campaigned relentlessly on the country's rising cost of living.",
+      "content_length": 302,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs",
+      "link": "https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/",
+      "published": "2025-11-14T21:49:01",
+      "content": "If Donald Trump loses his Supreme Court fight over tariffs, the US may be forced to return “tens of billions of dollars to companies that have paid import fees this year, plus interest,” The Atlantic reported. And the longer the verdict is delayed, the higher the refunds could go, possibly even hitting $1 trillion.\nFor tech companies both large and small, the stakes are particularly high. A Trump defeat would not just mean clawing back any duties paid on imports to the US that companies otherwise can use to invest in their competitiveness. But, more critically in the long term, it would also end tariff shocks that, as economics lecturer Matthew Allen emphasized in a report for The Conversation, risked harming “innovation itself” by destabilizing global partnerships and diverse supply chains in “tech-intensive, IP-led sectors like semiconductors and software.”\nCurrently, the Supreme Court is weighing two cases that argue that the US president does not have unilateral authority to impose tariffs under the International Emergency Economic Powers Act (IEEPA). Defending his regime of so-called “reciprocal tariffs,” Trump argued these taxes were necessary to correct the “emergency” of enduring trade imbalances that he alleged have unfairly enriched other countries while bringing the US “to the brink of catastrophic decline.”Read full article\nComments",
+      "content_length": 1366,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Global markets struggle after tech sell-off and fears over Chinese economy",
+      "link": "https://www.theguardian.com/business/2025/nov/14/global-markets-fall-after-tech-sell-off-chinese-economy-fears",
+      "published": "2025-11-14T21:35:54",
+      "content": "Reaction follows Wall Street’s worst day in a month and unprecedented slump in investment in ChinaBusiness live – latest updatesGlobal markets suffered another day of volatile trading after a tech sell-off that fuelled Wall Street’s worst day in a month and weak economic data from China showed an unprecedented slump in investment.The FTSE 100 fell by 1.1% in London, closing down about 100 points at 9,698, as bellwether banking stocks tumbled. Barclays, Lloyds and NatWest slumped between 2.7% and 3.6%. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Bright Side: Giant web discovery reveals 'constant party' life of cohabiting spider species",
+      "link": "https://www.france24.com/en/environment/20251114-bright-side-giant-web-uncovers-constant-party-life-hundred-thousand-spiders",
+      "published": "2025-11-14T21:32:44",
+      "content": "Scientists have discovered what they believed to be the world’s largest-known spider web in a Balkan cave, where two different species cohabit in an enormous colony of more than 100,000 spiders. The rare behaviour is reshaping assumptions about how arachnids live together.",
+      "content_length": 273,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The twin probes just launched toward Mars have an Easter egg on board",
+      "link": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
+      "published": "2025-11-14T21:30:07",
+      "content": "The first multi-spacecraft science mission to launch to Mars is now on its way, and catching a ride on the twin probes are the first kiwis to fly to the red planet.\nNASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) mission lifted off on a 22-month trip to Mars on Thursday aboard a New Glenn rocket. Once there, the identical satellites will enter Martian orbit to study in real time how space weather affects the planet’s hybrid magnetosphere and how the interaction drove Mars to lose its once-dense atmosphere.\nLed by the Space Sciences Laboratory at the University of California, Berkeley—the two spacecraft are named “Blue” and “Gold” after the school’s colors—the ESCAPADE probes are the first Mars-bound vehicles to be designed, built, and tested by Rocket Lab, the end-to-end space company headquartered in California but founded in New Zealand.Read full article\nComments",
+      "content_length": 901,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump accused of caving to big business after deal to cut Swiss tariffs to 15%",
+      "link": "https://www.theguardian.com/us-news/2025/nov/14/tariffs-swiss-goods-reduced",
+      "published": "2025-11-14T21:24:45",
+      "content": "Rolex denies ‘any negotiation’ with US although luxury watchmaker entertained Trump and gave him gold clockDonald Trump agreed to cut US tariffs on Switzerland from 39% to 15% as part of a new trade pact, lowering duties that strained economic ties and hit Swiss exporters.The two countries have signed a “non-binding memorandum of understanding”, the Swiss government announced, following bilateral talks in Washington and intense lobbying by Swiss firms. Continue reading...",
+      "content_length": 476,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UN rights council orders probe of atrocities in Sudan's El-Fasher",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251114-un-rights-council-orders-probe-of-atrocities-in-sudan-s-el-fasher",
+      "published": "2025-11-14T21:17:02",
+      "content": "In tonight's edition, the UN is launching an investigation into a massacre in El Fasher after the Rapid Support Forces seized the Sudanese city last month. \n \nAlso, South Africa's intelligence services are investigating who was behind a chartered plane that landed in Johannesburg with more than 150 Palestinians from Gaza.\n \nAnd global commodity prices are heading for their biggest drop in six years just as Guinea's giant iron-ore mine launches production at Simandu.",
+      "content_length": 470,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule",
+      "link": "https://arstechnica.com/health/2025/11/as-shutdown-ends-dubious-cdc-panel-gets-back-to-dismantling-vaccine-schedule/",
+      "published": "2025-11-14T21:01:15",
+      "content": "With the government reopening, the dubious panel of vaccine advisors selected by anti-vaccine Health Secretary Robert F. Kennedy is wasting no time getting back to dismantling the federal childhood vaccine schedule.\nA meeting that was scheduled for October but put on hold during the shutdown has already been rescheduled for December 4 and 5. A Federal Register notice Thursday said that the meeting will “include discussions on vaccine safety, the childhood and adolescent immunization schedule, and hepatitis B vaccines.” The announcement was light on information beyond that but indicated that there would be a vote on hepatitis B vaccines.\nThe panel—the Advisory Committee on Immunization Practices (ACIP) for the Centers for Disease Control and Prevention—is typically composed of preeminent, extensively vetted vaccine experts. But, in June, Kennedy summarily fired all 17 experts on the panel and installed 12 new members, almost all of whom are questionably qualified and espouse anti-vaccine views.Read full article\nComments",
+      "content_length": 1034,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kritik an Streecks Äußerungen zu teuren Medikamenten für Hochbetagte",
+      "link": "https://www.tagesschau.de/inland/streeck-medikamente-hochbetagte-100.html",
+      "published": "2025-11-14T20:58:03",
+      "content": "   Der CDU-Gesundheitspolitiker Streeck hat eine Debatte über die Vergabe sehr teurer Arzneien für Hochbetagte angestoßen. Von vielen Seiten gibt es dafür Kritik. Die Bundesregierung distanziert sich vom Drogenbeauftragten.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "How two Nissan Leafs help make a regional airport more resilient",
+      "link": "https://arstechnica.com/cars/2025/11/california-airport-tries-out-bidirectional-ev-charging-microgrid/",
+      "published": "2025-11-14T20:45:35",
+      "content": "Not everything about the future sucks. Like electric cars. Sure, there’s one thing that dinosaur-burners do better—short refueling stops—but even the least efficient EV is still multiple times better than its gas equivalent. So much better in fact that it offsets all the extra energy needed to make the battery within a year or two. They’re quieter, and easy to drive. And in a pinch, they can power your house from the garage. Or how about an airport?\nOK, we’re not talking about a major international airport (although I really need to talk to someone at Dulles International Airport about my idea to electrify those Space 1999-esque mobile lounges at some point). But up in Humboldt County, California, there’s a microgrid at the Redwood Coast Airport that has now integrated bidirectional charging, and a pair of Nissan Leaf EVs, into its operation.\nThe microgrid has been operating since 2021 with a 2.2 MW solar array, 8.9 MWh of battery storage, and a 300 KW net-metered solar system. It can feed excess power back into PG&amp;E’s local grid and draw power from the same, but in an outage, the microgrid can keep the airport up and operational.Read full article\nComments",
+      "content_length": 1178,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "'We refuse to be sacrificed': Indigenous groups disrupt COP30 summit in Brazil",
+      "link": "https://www.france24.com/en/environment/20251114-we-refuse-to-be-sacrificed-indigenous-groups-disrupt-cop30-summit-in-brazil",
+      "published": "2025-11-14T20:38:12",
+      "content": "Indigenous protesters blocked the main entrance of COP30 in Brazil on Friday, demanding stronger climate action and direct recognition of their rights.",
+      "content_length": 151,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zoll-Deal zwischen Schweiz und USA: \"Fleiß, Fleiß, Fleiß\" - und ein paar Geschenke?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schweiz-zoelle-100.html",
+      "published": "2025-11-14T20:34:24",
+      "content": "   Die USA und die Schweiz haben sich im Zollstreit geeinigt. Haben teure Geschenke das Einlenken begünstigt? Der Schweizer Regierung kann es egal sein: Sie feiert sich für den Erfolg. Von Kathrin Hondl.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "“How about no”: FCC boss Brendan Carr says he won’t end news distortion probes",
+      "link": "https://arstechnica.com/tech-policy/2025/11/how-about-no-fcc-boss-brendan-carr-says-he-wont-end-news-distortion-probes/",
+      "published": "2025-11-14T20:32:10",
+      "content": "Federal Communications Commission Chairman Brendan Carr says he won’t scrap the agency’s controversial news distortion policy despite calls from a bipartisan group of former FCC chairs and commissioners.\n“How about no,” Carr wrote in an X post in response to the petition from former FCC leaders. “On my watch, the FCC will continue to hold broadcasters accountable to their public interest obligations.”\nThe petition filed yesterday by former FCC chairs and commissioners asked the FCC to repeal its 1960s-era news distortion policy, which Carr has repeatedly invoked in threats to revoke broadcast licenses. In the recent Jimmy Kimmel controversy, Carr said that ABC affiliates could have licenses revoked for news distortion if they kept the comedian on the air.Read full article\nComments",
+      "content_length": 791,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine’s drone war is also being waged on the ground",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20251114-ukraine-drone-war-ground-terrestrial-russia",
+      "published": "2025-11-14T20:15:43",
+      "content": "Ukrainians and Russians alike are making massive use of aerial drones in their conflict. But from underground bunkers, the Ukrainians are also piloting terrestrial drones. Wheeled or tracked, these devices have become essential for logistical and rescue missions.",
+      "content_length": 263,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why",
+      "link": "https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked",
+      "published": "2025-11-14T20:00:27",
+      "content": "\n\n\n\t\n\t\t\n\nNintendo recently issued an update (21.0.0) for its Switch 2 console that, in addition to some small changes, has caused some third-party docks to stop working as intended. In the early weeks and months of the console’s availability this summer, companies raced to figure out the right commands, the right power draw, and the right chips to use in order to trick the Switch 2 into thinking it had connected to the real thing — Nintendo’s dock, which is included with every console. Now, some of them will have to figure out how to do it again.\n\nYou’re not alone if you think Nintendo did this on purpose. But did it? According to Nintendo, not exactly. Gaming site Kotaku published a new statement from the company that says it “does not have any intention to hinder or invalidate legal third-party dock compatibility.” Read in one way, it seems like Nintendo didn’t intend to cause these issues with its latest update. Read another way, Nintendo has apparently established that there’s a legal and an illegal way to create a third-party Switch 2 dock, and a lot of the ones out there were made illegally, apparently.&nbsp;\n\nThe fact that some third-party Switch 2 docks still work makes this more confusing. I tried out Viture’s Pro mobile dock (one of the early third-party docks to provide Switch 2 support), for use with its Pro XR glasses, and it just works fine with the same firmware that’s been on it since I started testing it months ago. Antank’s rep Susie also tells us its S3 Max still works “because it uses a proprietary casting chip solution” whose “compatibility with Nintendo’s private protocol is higher than other third-party solutions on the market.”\n\nWithout more details from Nintendo, it’s tough to know what this spells for the future. Are more docks on the dock chopping block? Is it reconfiguring its proprietary Switch 2 dock handshake to leave third-party dock makers in a constant scramble? Will it develop (or has it already developed) something similar to the Apple MFi certification program to let companies pay a fee to promise support out of the box with its locked-down port?&nbsp;\n\nWhatever the answers are, Nintendo will naturally want to push consumers towards using its pricey dock, and push third-party companies away from trying to engineer duplicative gadgets at a fraction of the cost. That spells an interesting next couple of months for third-party makers, including the likes of Genki and JSAUX, which are both launching compact, power adapter-size docks later this year. Switch 2 support is on each of their feature lists, but we’ll see if it remains a selling point closer to their launches.\n\nUpdate, November 14th: Added Antank’s comment.",
+      "content_length": 2696,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Paramount Skydance is working on a new Star Trek movie",
+      "link": "https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley",
+      "published": "2025-11-14T19:32:06",
+      "content": "\n\n\n\t\n\tJonathan Goldstein and John Francis Daley arrives at the Los Angeles premiere of Paramount Pictures' Dungeons &amp; Dragons: Honor Among Thieves. | Photo: Getty Images\t\n\nParamount Skydance head David Ellison made it very clear that he was interested in restarting the studio’s Star Trek movie franchise with some new blood, and it seems like that plan is moving forward.\n\nDeadline reports that Dungeons &amp; Dragons: Honor Among Thieves co-directors Jonathan Goldstein and John Francis Daley have signed on to an all-new Star Trek feature that will be “a completely new take” on the IP with no direct connections to any past series or films. There’s no word yet on a production timeline, story details, or which actors Paramount Skydance is eyeing to star.\n\n",
+      "content_length": 765,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "What’s it like to compete in the longest US off-road rally with no GPS?",
+      "link": "https://arstechnica.com/cars/2025/11/i-drove-for-over-2000-kilometers-off-road-without-gps-in-the-rebelle-rally/",
+      "published": "2025-11-14T19:22:25",
+      "content": "I’ve been involved with the Rebelle Rally since its inception in 2016, either as a competitor or live show host, and over the past 10 years, I’ve seen it evolve from a scrappy rally with big dreams to the world-class event that it is today.\nIn a nutshell, the Rebelle Rally is the longest competitive off-road rally in the United States, covering over 2,000 kilometers, and it just happens to be for women. Over eight days, teams of two must plot coordinates on a map, figure out their route, and find multiple checkpoints—both marked and unmarked—with no GPS, cell phones, or chase crews. It is not a race for speed but rather a rally for navigational accuracy over some of the toughest terrain California and Nevada have to offer. There are two classes: 4×4 with vehicles like the Jeep Wrangler and Ford Bronco and X-Cross for cars like the Honda Passport and BMW X5. Heavy modifications aren’t needed, and many teams compete for the coveted Bone Stock award.\nFor this 10th anniversary, I got back behind the wheel of a 2025 Subaru Crosstrek Wilderness as a driver, with Kendra Miller as my navigator, to defend my multiple podium finishes and stage wins and get reacquainted with the technology, or lack thereof, that makes this multi-day competition so special.Read full article\nComments",
+      "content_length": 1291,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "French watchdog flags more online platforms selling illicit products as Shein scandal spreads",
+      "link": "https://www.france24.com/en/france/20251114-french-watchdog-flags-five-online-platforms-for-selling-illicit-products-as-shein-scandal",
+      "published": "2025-11-14T19:04:24",
+      "content": "French consumer authorities said Friday that several platforms, including Temu and AliExpress, had listed illicit products in France, days after authorities moved to suspend e-commerce giant Shein amid public outrage over its sale of childlike sex dolls.",
+      "content_length": 254,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Targeting the family?: Brother of French anti-drugs activist shot dead in Marseille",
+      "link": "https://www.france24.com/en/france/20251114-brother-french-anti-drugs-activist-shot-dead-marseille-intimidation-targeting-family",
+      "published": "2025-11-14T18:58:25",
+      "content": "A gunman on a motorbike on Thursday shot dead Mehdi Kessaci, the youngest brother of influential anti-drug campaigner Amine Kessaci in the southern French city of Marseille. The crime may have been a warning against Kessaci’s activism, a prosecutor said Friday.",
+      "content_length": 261,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Three astronauts are stuck on China’s space station without a safe ride home",
+      "link": "https://arstechnica.com/science/2025/11/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/",
+      "published": "2025-11-14T18:56:24",
+      "content": "Wrapping up 204 days in orbit, three Chinese astronauts flew back to Earth aboard a Shenzhou spacecraft Friday, leaving three crewmates behind on the Tiangong space station with a busted lifeboat.\nCommander Chen Dong, concluding his third trip to space, and rookie crewmates Chen Zhongrui and Wang Jie touched down inside their spacecraft at the Dongfeng landing zone at 1:29 am EST (06:29 UTC) Friday. The parachute-assisted landing occurred in the mid-afternoon at the return zone, located in the remote Gobi Desert of northwestern China.\nChinese space officials upended operations on the country’s Tiangong space lab last week after astronauts found damage to one of two Shenzhou return capsules docked at the station. The China Manned Space Agency, run by the country’s military, announced changes to the space station’s flight plan November 4, the day before three crew members were supposed to depart and fly home.Read full article\nComments",
+      "content_length": 946,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "'Russia is advancing towards multiple areas in the Donbas region'",
+      "link": "https://www.france24.com/en/video/20251114-russia-is-advancing-towards-multiple-areas-in-the-donbass-region",
+      "published": "2025-11-14T18:50:46",
+      "content": "The city of Pokrovsk, once a key logistics and cultural hub, now teeters on the brink of collapse. Through firsthand accounts, we see not only the brutal physical destruction of war but also the complete evisceration of the human condition. Ever since mid-2024, residents and Ukrainian officials have been stripping everything of value from the frontline town of Pokrovsk: library books, hospital beds, industrial equipment, everything that once supported a bustling settlement of more than 60,000 people at the heart of Ukraine’s eastern, mainly Russian-speaking Donbas region. International war correspondent Anna Conkling joins Gavin Lee and asserts that \"this could be the final days of Pokrovsk under Ukrainian control\".",
+      "content_length": 725,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules",
+      "link": "https://arstechnica.com/ai/2025/11/forget-agi-sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules/",
+      "published": "2025-11-14T18:45:34",
+      "content": "Em dashes have become what many believe to be a telltale sign of AI-generated text over the past few years. The punctuation mark appears frequently in outputs from ChatGPT and other AI chatbots, sometimes to the point where readers believe they can identify AI writing by its overuse alone—although people can overuse it, too.\nOn Thursday evening, OpenAI CEO Sam Altman posted on X that ChatGPT has started following custom instructions to avoid using em dashes. “Small-but-happy win: If you tell ChatGPT not to use em-dashes in your custom instructions, it finally does what it’s supposed to do!” he wrote.\nThe post, which came two days after the release of OpenAI’s new GPT-5.1 AI model, received mixed reactions from users who have struggled for years with getting the chatbot to follow specific formatting preferences. And this “small win” raises a very big question: If the world’s most valuable AI company has struggled with controlling something as simple as punctuation use after years of trying, perhaps what people call artificial general intelligence (AGI) is farther off than some in the industry claim.Read full article\nComments",
+      "content_length": 1141,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fortnite is coming to the Xbox PC store",
+      "link": "https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass",
+      "published": "2025-11-14T18:37:18",
+      "content": "\n\n\n\t\n\t\t\n\nFortnite is going to be available on the Xbox on PC app beginning November 18th. Right now on PC, you have to launch the game from the Epic Games Launcher, but if you prefer the Xbox on PC app, that’s going to be an option.\n\nThe game is also joining the Xbox Play Anywhere program, meaning “your progress and purchases will seamlessly follow you across Xbox consoles, PC, and supported gaming handhelds,” Microsoft says. That could make it easier to play on Xbox Ally and Xbox Ally X, if you want to get in some drops on one of the handhelds.\n\nOn November 18th, Xbox Game Pass Ultimate subscribers will get Epic’s Fortnite Crew subscription as an additional perk, too. With a Crew subscription, you get a new skin and 1,000 V-Bucks every month as well as access to all of Fortnite’s various battle passes so you can earn items to use in the game’s many modes.",
+      "content_length": 868,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "China voices ‘extreme disappointment’ with Dutch minister at centre of car chip row",
+      "link": "https://www.theguardian.com/business/2025/nov/14/china-voices-extreme-disappointment-with-dutch-minister-at-centre-of-car-chip-row",
+      "published": "2025-11-14T18:32:44",
+      "content": "Vincent Karremans called semiconductor supply chain crisis a ‘wake-up call for western leaders’The Chinese government has expressed “extreme disappointment” with the Dutch minister at the heart of a row over chip supply to the car industry.A spokesperson for the ministry of commerce was responding to a Guardian interview with Vincent Karremans on Thursday in which the politician described the standoff between China and the European Union as a “wake-up call” for western leaders. Continue reading...",
+      "content_length": 502,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US military planning for divided Gaza with ‘green zone’ secured by international and Israeli troops",
+      "link": "https://www.theguardian.com/world/2025/nov/14/us-military-plan-divided-gaza-green-zone",
+      "published": "2025-11-14T18:31:07",
+      "content": "Exclusive: Almost all Palestinians have been displaced to ‘red zone’ where no reconstruction is plannedThe US is planning for the long-term division of Gaza into a “green zone” under Israeli and international military control, where reconstruction would start, and a “red zone” to be left in ruins.Foreign forces will initially deploy alongside Israeli soldiers in the east of Gaza, leaving the devastated strip divided by the current Israeli-controlled “yellow line”, according to US military planning documents seen by the Guardian and sources briefed on American plans. Continue reading...",
+      "content_length": 592,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Merz fordert von Selenskyj weniger Ausreisen junger Ukrainer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-ukrainer-ausreiseregeln-100.html",
+      "published": "2025-11-14T18:08:07",
+      "content": "   Für Kanzler Merz kommen derzeit zu viele Männer aus der Ukraine nach Deutschland, die eigentlich ihren Wehrdienst noch vor sich haben. In einem Telefonat bat er den ukrainischen Präsidenten Selenskyj um Abhilfe.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kraftwerksstrategie der Regierung: Einigung mit Leerstellen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kraftwerksstrategie-bundesregierung-102.html",
+      "published": "2025-11-14T18:07:18",
+      "content": "   Wie kann die deutsche Stromversorgung zukünftig auch bei sogenannten Dunkelflauten gesichert werden? Die Koalition hat sich auf eine Kraftwerksstrategie verständigt. Aber die Einigung lässt viele Fragen offen. Von Martin Polansky.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "World’s oldest RNA extracted from Ice Age woolly mammoth",
+      "link": "https://arstechnica.com/science/2025/11/worlds-oldest-rna-extracted-from-ice-age-woolly-mammoth/",
+      "published": "2025-11-14T18:06:55",
+      "content": "A young woolly mammoth now known as Yuka was frozen in the Siberian permafrost for about 40,000 years before it was discovered by local tusk hunters in 2010. The hunters soon handed it over to scientists, who were excited to see its exquisite level of preservation, with skin, muscle tissue, and even reddish hair intact. Later research showed that, while full cloning was impossible, Yuka’s DNA was in such good condition that some cell nuclei could even begin limited activity when placed inside mouse eggs.\nNow, a team has successfully sequenced Yuka’s RNA—a feat many researchers once thought impossible. Researchers at Stockholm University carefully ground up bits of muscle and other tissue from Yuka and nine other woolly mammoths, then used special chemical treatments to pull out any remaining RNA fragments, which are normally thought to be much too fragile to survive even a few hours after an organism has died. Scientists go to great lengths to extract RNA even from fresh samples, and most previous attempts with very old specimens have either failed or been contaminated.\nA different view\nThe team used RNA-handling methods adapted for ancient, fragmented molecules. Their scientific séance allowed them to explore information that had never been accessible before, including which genes were active when Yuka died. In the creature’s final panicked moments, its muscles were tensing and its cells were signaling distress—perhaps unsurprising since Yuka is thought to have died as a result of a cave lion attack.Read full article\nComments",
+      "content_length": 1552,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Deutsche Behörden offenbar überrascht von US-Einstufung der \"Antifa Ost\"",
+      "link": "https://www.tagesschau.de/antifa-ost-100.html",
+      "published": "2025-11-14T18:00:26",
+      "content": "   Die US-Regierung hat die deutsche \"Antifa Ost\" als Terrorgruppe eingestuft - für die deutschen Behörden kam das offenbar unerwartet. Worum handelt es sich? Und wie hoch wird die Gefahr eingeschätzt, die von dem Netzwerk ausgeht?[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday",
+      "link": "https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale",
+      "published": "2025-11-14T18:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIf you’re looking for movies to binge over the long Thanksgiving weekend, or perhaps you need some stocking stuffer ideas, Gruv is running an early Black Friday sale that drops 4K Blu-rays to just $12.99 each. Many of these titles came out in 2025 and haven’t previously been this affordable, making it a great opportunity to stock up on some new 4K discs ahead of the holidays.\n\nThere’s a lot of good stuff priced at $12.99. Some of our favorites include Superman, Sinners, Jurassic World: Rebirth, and Lord of the Rings War of Rohirrim. While you’ll find some of these movies on streaming services, these discs often come with more bonus features, like digital copies, commentary, behind-the-scenes content, and deleted scenes.\n\nYou’ll also find a wide range of other action, sci-fi, and drama films on sale, too, including award-winners like Joker to Beetlejuice Beetlejuice and Drop. If you want more options, Gruv is also holding a separate sale, where you can buy three 4K Blu-rays for $30 — coming out to just $10 each. It includes a bunch of older classics, like Scarface and Psycho, to name a couple.\n\nSuperman (4K Ultra HD + Digital) [UHD]\n\nWhere to Buy: $34.98 $12.99 at Gruv\n\nSinners\n\nWhere to Buy: $34.98 $12.99 at Gruv\n\nJurassic World: Rebirth (4K Ultra HD + Blu-ray + Digital) [UHD]\n\nWhere to Buy: $34.98 $12.99 at Gruv\n\n\n\nMore Verge-approved gadgets on sale\n\n\nYou can buy Sony&#8217;s WH-1000XM6 at an all-time low of $428 ($31 off) at Amazon, Best Buy, and B&amp;H Photo. The XM6 are Sony’s best noise-canceling headphones, combining powerful noise cancellation with clearer sound and long battery life. They’re also more comfortable than ever and can fold down too, making them easy to pack. Read our hands-on impressions.\n\n\n\nThe Garmin Forerunner 165 Music is on sale at Amazon, REI, and directly from Garmin for $249.99 ($50 off), which is its best price to date. It offers many of the same runner-friendly features you’ll find on the pricier Garmin Forerunner 265 — our favorite Garmin for runners — including Race Predictor and Garmin’s Training Readiness tools. You don’t get dual-frequency GPS or EKG support, but you do get a bright 1.2-inch OLED display along with the ability to sync playlists from Spotify, Deezer, and Amazon Music so you can listen to music offline.\n\n\n\nThe latest Amazon Fire TV Cube is on sale for $89.99 (about $30 off) at Amazon and Best Buy, matching its best price of the year. Amazon’s 4K streamer supports Dolby Atmos, Dolby Vision, HDR10 Plus, and Wi-Fi 6E, with a fast processor that makes apps load noticeably quicker than on any Fire TV Stick. It also doubles as an Echo smart speaker, letting you control compatible smart home devices hands-free with Alexa. Read our review.\n\n\n",
+      "content_length": 2744,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Dogs came in a wide range of sizes and shapes long before modern breeds",
+      "link": "https://arstechnica.com/science/2025/11/dogs-came-in-a-wide-range-of-sizes-and-shapes-long-before-modern-breeds/",
+      "published": "2025-11-14T17:49:45",
+      "content": "Our best friends come in a fantastic array of shapes and sizes; a Borzoi looks nothing like a Boston terrier, except for a certain fundamental, ineffable (except to taxonomists) doggyness about them. And it’s been that way almost from the beginning. A recent study of dog and wolf skulls from the last 50,000 years found that dogs living just after the last Ice Age were already about half as varied in their shape and size as modern dogs.\n“Shaped like a friend” means a lot of different things\nBiologist and archaeologist Allowen Evin, of CNRS, and her colleagues compared the size and shape of 643 skulls from dogs and wolves: 158 from modern dogs, 86 from modern wolves, and 391 from archaeological sites around the world spanning the last 50,000 years. By comparing the locations and sizes of certain skeletal landmarks, such as bony protrusions where muscles attached, the researchers could quantify how different one skull was from another. That suggested a few things about how dogs, or at least the shapes of their heads, have evolved over time.\nThe team’s results suggest that dogs that lived during the Mesolithic (before settled farming life came into fashion in the Middle East) and the Neolithic (after farming took off but before the heyday of copper smelting; 10,000 BCE is a general starting point) were a surprisingly diverse bunch, at least in terms of the size and shape of their skulls.Read full article\nComments",
+      "content_length": 1432,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Scientist pleaded guilty to smuggling Fusarium graminearum into US. But what is it?",
+      "link": "https://arstechnica.com/science/2025/11/scientist-pleaded-guilty-to-smuggling-fusarium-graminearum-into-us-but-what-is-it/",
+      "published": "2025-11-14T17:34:25",
+      "content": "A Chinese plant scientist at the University of Michigan, who drew national attention in June 2025 when she was arrested and accused along with another Chinese scientist of smuggling a crop-damaging fungus into the US, pleaded guilty on November 12, 2025, to charges of smuggling and making false statements to the FBI. Under her plea agreement, Yunqing Jian, 33, was sentenced to time served and expected to be deported.\nHer arrest put a spotlight on Fusarium graminearum, a harmful pathogen. But while its risk to grains such as wheat, corn, and rice can be alarming, Fusarium isn’t new to American farmers. The US Department of Agriculture estimates it costs wheat and barley farmers more than $1 billion a year.\nTom Allen, an extension and research professor of plant pathology at Mississippi State University, explains what Fusarium graminearum is and isn’t.Read full article\nComments",
+      "content_length": 888,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "France-Switzerland: Police crack down on illegal meat smuggling",
+      "link": "https://www.france24.com/en/video/20251114-france-switzerland-police-crack-down-on-illegal-meat-smuggling",
+      "published": "2025-11-14T17:06:52",
+      "content": "From simple steak portions hidden under car bonnets to entire quarters of beef stacked on the back seats, the illegal import of meat from France to Switzerland has massively increased in recent years. The reason for this illicit trade: the price of meat, which is two to three times lower on the French side.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bodies of 15 Palestinians returned by Israel, health officials in Gaza say",
+      "link": "https://www.france24.com/en/video/20251114-bodies-of-15-palestinians-returned-by-israel-health-officials-in-gaza-say",
+      "published": "2025-11-14T16:49:21",
+      "content": "Israel returned the bodies of 15 Palestinians to Gaza on Friday, officials at Nasser hospital in Khan Younis said, in the latest step to fulfilling the terms of the fragile U.S.-brokered ceasefire agreement.",
+      "content_length": 207,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Buffalo patrol: The unusual transport on Brazil’s Marajo Island across from COP30",
+      "link": "https://www.france24.com/en/video/20251114-buffalo-patrol-the-unusual-transport-on-brazil-s-marajo-island-across-from-cop30",
+      "published": "2025-11-14T16:47:31",
+      "content": "In Brazil’s Soure, on Marajo Island, buffaloes serve as transport, agricultural helpers, and patrol animals, reflecting their deep role in local life and coexistence with humans – just across from COP30 in Belem.",
+      "content_length": 212,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UN-Menschenrechtsrat verurteilt Gewalt im Sudan",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-menschenrechtsrat-faq-100.html",
+      "published": "2025-11-14T16:45:13",
+      "content": "   Mord, Folter, Vergewaltigungen. Im Sudan werden schwerste Verbrechen gegen die Zivilbevölkerung verübt. Nun hat sich der UN-Menschenrechtsrat mit der Situation beschäftigt.[mehr]",
+      "content_length": 181,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Apple’s last-gen AirPods Pro 2 are down to their lowest price to date",
+      "link": "https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale",
+      "published": "2025-11-14T16:42:27",
+      "content": "\n\n\n\t\n\t\t\n\nWalmart on Friday officially kicked off its early Black Friday deals, with the first wave of discounts lasting from November 14th to November 16th. One of the best deals we’ve spotted is on the last-gen AirPods Pro 2 with USB-C charging case, which are currently $139 ($110 off). That’s even lower than the discount we saw over Prime Day — and just $10 more than the entry-level AirPods 4 without active noise cancellation. Best Buy’s deal of the day that offered them for $129 sold out, unfortunately.\nAirPods Pro (second-gen) with USB-C\n\nWhere to Buy: $249.99 $149.99 at Best Buy $249.99 $139 at Walmart $249.99 at Target\nAlthough Apple has released the excellent AirPods Pro 3, the second-gen AirPods Pro 2 remain a solid option, especially at the discounted price. The wireless earbuds combine superb audio with excellent ANC, along with a transparency mode that sounds natural and lifelike. In addition to allowing outside sounds in, the transparency mode can also help dampen loud noises, protecting your hearing from the sudden squeal of an emergency siren.\n\nThe AirPods Pro 2 can also double as FDA-approved hearing aids, while offering up to six hours of battery life with ANC enabled. Speaking of battery life, the charging case comes equipped with MagSafe, making it easy to place it onto a MagSafe or Qi2 wireless charger. The earbuds also feature an IP54 rating, so they should be able to withstand a little dust and water. For comparison, the latest AirPods Pro 3 feature an upgraded IP57 rating, which means they can withstand immersion in water up to one meter deep for up to 30 minutes.\n\nThe second-gen AirPods Pro also offer deep integration with other Apple products, allowing for automatic device switching. For example, if you’re listening to music on your iPhone and log into your Mac to watch a video, the AirPods Pro will automatically switch from the iPhone to the Mac. The earbuds also include four sets of ear tips in the box — including an extra-small option — making it easier to find the most comfortable fit.\n\nRead our AirPods Pro 2 review.\n\nUpdate, November 14th: This post was previously updated to reflect Best Buy’s deal of the day; however, that offer is no longer available, so we’ve reverted to highlighting Walmart’s Black Friday promo.",
+      "content_length": 2284,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Schwarz-roter Koalitionsausschuss: Luft nach oben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-rot-koalitionsausschuss-100.html",
+      "published": "2025-11-14T16:41:05",
+      "content": "   Schwarz-Rot bemüht sich beim Koalitionausschuss erkennbar, sich als arbeits- und einigungsfähig zu zeigen. Die wilden Debatten der vergangenen Wochen zeichneten aber ein anderes Bild. Von Corinna Emundts.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Belkin is recalling its iPhone tracking stand and two power banks due to fire risks",
+      "link": "https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank",
+      "published": "2025-11-14T16:39:05",
+      "content": "\n\n\n\t\n\tIf you have any of the three recalled products you should stop using them immediately. | Image: Belkin\t\n\nBelkin has issued a recall for its Auto-Tracking Stand Pro for the iPhone and two versions of its 20,000mAh BoostCharge USB-C PD Power Bank because a “manufacturing defect may cause the products’ lithium-ion cell components to overheat,” posing a fire and burn risk to users. While there’s been just one report of a fire in the US, there have been 15 reports in other countries including two minor burn injuries and $37,765 of property damage, according to the US Consumer Product Safety Commission (CPSC).\n\nThere were about 83,500 of the stands and power banks sold in the US between August 2020 and August 2025 through Belkin’s online store and retailers including Best Buy, Target, Walmart, and Amazon, while an additional 2,385 of them were sold in Canada. The recalled devices can be identified by their model numbers printed on the bottom or sides of the devices. The Auto-Tracking Stand Pro will have model number MMA008, while the power banks will have model numbers BPB002 or PB0003.\n\nCustomers are urged to stop using the recalled devices immediately and to contact Belkin for either a complete refund or Belkin.com store credit for the full purchase amount plus a 20 percent bonus. A recall claim form is available on Belkin’s website and asks for a valid receipt and the device’s serial number to “expedite” the refund process. Once your claim has been filed, the recalled devices should be properly disposed of at a facility that can safely handle defective lithium-ion batteries, and not placed in the garbage, recycling bins, or the battery collection boxes found at many retailers.",
+      "content_length": 1708,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Several dead and injured, police say, after bus crashes into bus stop in Stockholm – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/14/ukraine-kyiv-russia-zelenskyy-putin-europe-latest-news-updates",
+      "published": "2025-11-14T16:34:48",
+      "content": "Cause of crash near University of Technology not yet known. This live blog is closedWe have just had an update on the death toll from the overnight attack on Kyiv, via AFP, with authorities now reporting six people dead.in Brussels Continue reading...",
+      "content_length": 251,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Why we&#8217;re going to keep talking about the Trump phone",
+      "link": "https://www.theverge.com/news/820887/why-we-keep-writing-about-trump-phone-t1",
+      "published": "2025-11-14T16:34:19",
+      "content": "\n\n\n\t\n\t\t\n\nFor the past couple of weeks, I’ve been asking — repeatedly — where the promised Trump phone is, whether it exists, and what happened to all the money people have already paid for deposits. And I’m going to keep doing that every week for the foreseeable future.&nbsp;\n\nNot everyone thinks I should. I’ve been told that covering Trump Mobile is “playing into his hands,” that “this obvious con [doesn’t need] any more publicity,” and that “we don&#8217;t need to read about it literally every week.” And those are just the nice messages — you don’t want to see some of the other ones.\n\nStill, I think it’s a fair question. Why am I here week in, week out, writing about a phone that, as best as we can tell, doesn’t actually exist? Why didn’t we just call it bad and impossible and move on with our lives?\n\nThe short answer is: because it matters.\n\nThe long answer is: We can’t move on because this is still playing out, and it still needs reporting. If the T1 Phone 8002 would just arrive at buyers’ houses and turn out to be a real, probably quite bad, smartphone, that would be that. But no one has the phone yet. No one has even seen the phone yet. And Trump Mobile has gone suspiciously silent, with no updates in months to its website or social media profiles.\n\nThis also sits squarely in The Verge’s lane. You want us to stick to phones? This is it! It’s a phone — at least in name — and we want to know what’s going on with it.\n\nIn fact, it sits in the eye of a perfect storm of Verge-iness. It’s a phone, and we cover those. It’s probably vaporware, and we’re always happy to call out products that will never actually exist. It creates a pretty clear regulatory problem for the FCC, and we love pointing opportunities for Brendan Carr to be a dummy. And, yes, it’s about politics — The Verge covers that. Always has, always will.\n\nBut more than that, it’s something that’s worth calling out, and calling out often. In the grand scheme of the Donald Trump administration, a gold Android phone that won’t actually be made in the US is pretty small fry. But it’s emblematic of empty promises and naked grifts, of baseless claims that they don’t expect to ever be called out on. This is an administration presiding over one of the biggest tech industry booms (bubbles?) in decades, that had a tech bro as one of its chief advisers, and that welcomed half of Silicon Valley at the inauguration, and it doesn’t know that you can’t build $500 Android flagships in the United States?\n\nTrump Mobile, for the third week in a row, did not respond to a request for comment.",
+      "content_length": 2579,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Filmemacher Hark Bohm im Alter von 86 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/hark-bohm-gestorben-100.html",
+      "published": "2025-11-14T16:34:14",
+      "content": "   Der Hamburger Regisseur, Schauspieler und Autor Hark Bohm ist im Alter von 86 Jahren gestorben. Er wurde Mitte der 1970er-Jahre mit Filmen wie \"Nordsee ist Mordsee\" bekannt. Sein Roman \"Amrum\" wurde jüngst verfilmt.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "South Africa to investigate ‘mysterious’ arrival of 153 Palestinians on plane",
+      "link": "https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours",
+      "published": "2025-11-14T16:31:54",
+      "content": "Passengers held on runway for 12 hours after landing in Johannesburg without travel documentsSouth Africa will investigate the “mysterious” arrival of scores of Palestinians who were kept on a charter plane at Johannesburg for 12 hours by border police because they did not have travel papers, the president has said.A group of 153 Palestinians arrived at OR Tambo international iarport in Johannesburg on a chartered Global Airways flight from Kenya on Thursday without departure stamps, return tickets or details of accommodation, according to the border authorities. Continue reading...",
+      "content_length": 589,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US intel revealed Israeli officials discussing use of human shields in Gaza",
+      "link": "https://www.france24.com/en/video/20251114-us-intel-revealed-israeli-officials-discussing-use-of-human-shields-in-gaza",
+      "published": "2025-11-14T16:31:18",
+      "content": "Shirli Sitbon, a journalist at France 24, gives us her analysis.",
+      "content_length": 64,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Einigung: Zölle zwischen der Schweiz und USA sinken auf 15 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schweiz-zoelle-einigung-100.html",
+      "published": "2025-11-14T16:29:25",
+      "content": "   Bitter enttäuscht war die Schweiz über den für sie bisher schlechten Zoll-Deal mit den USA. Nun sollen die Abgaben auf Importe in die USA von 39 auf 15 Prozent sinken. [mehr]",
+      "content_length": 177,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AI firm claims it stopped Chinese state-sponsored cyber-attack campaign",
+      "link": "https://www.theguardian.com/technology/2025/nov/14/ai-anthropic-chinese-state-sponsored-cyber-attack",
+      "published": "2025-11-14T16:27:57",
+      "content": "Anthropic says financial firms and government agencies were attacked ‘largely without human intervention’A leading artificial intelligence company claims to have stopped a China-backed “cyber espionage” campaign that was able to infiltrate financial firms and government agencies with almost no human oversight.The US-based Anthropic said its coding tool, Claude Code, was “manipulated” by a Chinese state-sponsored group to attack 30 entities around the world in September, achieving a “handful of successful intrusions”. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Protesters blockade Cop30 summit over plight of Indigenous peoples",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/protesters-blockade-cop30-summit-over-plight-of-indigenous-peoples",
+      "published": "2025-11-14T16:23:20",
+      "content": "Munduruku people demand to speak to Brazil’s president, saying they are never listened toCop30: click here for full Guardian coverage of the climate talks in BrazilProtesters blockaded the main entrance to the Cop30 climate conference for several hours early on Friday morning, demanding to speak to Brazil’s president about the plight of the country’s Indigenous peoples.About 50 people from the Munduruku people in the Amazon basin blocked the entrance with some assistance from international green groups, watched by a huge phalanx of riot police, soldiers and military vehicles. Continue reading...",
+      "content_length": 602,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Years later, Arkane’s Dishonored is still a modern stealth classic",
+      "link": "https://arstechnica.com/gaming/2025/11/years-later-arkanes-dishonored-is-still-a-modern-stealth-classic/",
+      "published": "2025-11-14T16:22:33",
+      "content": "Back in 2012, Dishonored earned the first Game of the Year honor of my tenure at Ars Technica. Looking back on the game some 13 years later, Arkane’s well-constructed world of steam punk magical realism earns its place as a modern classic.\nThe game does a great job of drawing you into that world immediately, with a memorable opening sequence that sees you framed for the on-screen murder of the empress you’ve been sworn to protect. The scene does a great job establishing the emotional stakes of the coming missions while also throwing you into the deep end of the political infighting that has consumed a besieged, plague-beset kingdom.\n\n      A Victorian steam punk world you can lose yourself in.\n        Credit:\n          Arkane Studios\n      \nThose stakes, and a battle against a real feeling of injustice, drive the plot through some admittedly predictable beats as Dishonored continues through a set of sneak-and-assassinate missions. But it’s hard to care about that predictability when even minor side characters on both sides of the conflict quickly develop from stereotypes to engaging, fleshed-out characters.Read full article\nComments",
+      "content_length": 1150,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "'Work, work, work!' Japan's new PM under fire for asking staff to come in at 3am",
+      "link": "https://www.france24.com/en/tv-shows/access-asia/20251114-work-work-work-japan-s-new-pm-under-fire-for-asking-staff-to-come-in-at-3am",
+      "published": "2025-11-14T16:16:25",
+      "content": "When she was elected head of Japan's ruling party, Sanae Takaichi declared that she had abandoned the term \"work-life balance\" and asked fellow party members to \"work like a horse\". A month into office, the country's first female prime minister appears to have put her words into action. She told parliament that she was only sleeping two to four hours at night, a few days after organising a 3am staff meeting. In a country plagued by a culture of overwork, this hasn't gone down well.",
+      "content_length": 486,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump shifts focus to Epstein’s ties with Democrats as new emails scrutiny grows",
+      "link": "https://www.france24.com/en/americas/20251114-trump-orders-law-enforcement-probe-of-epstein-ties-to-bill-clinton",
+      "published": "2025-11-14T16:14:08",
+      "content": "US President Donald Trump on Friday called on the Justice Department and FBI to probe Jeffrey Epstein’s alleged ties to prominent Democrats including former president Bill Clinton and former Treasury secretary Larry Summers. The move comes as questions grow over Trump’s own long-standing relationship with Epstein and lawmakers prepare a vote to force disclosure.",
+      "content_length": 364,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "COP30 in Brazil & the Global South: Tackling climate change without the US",
+      "link": "https://www.france24.com/en/tv-shows/people-profit/20251114-cop30-in-brazil-the-global-south-tackling-climate-change-without-the-us",
+      "published": "2025-11-14T16:04:15",
+      "content": "The week, we head to Belem in Brazil where COP30, the UN's annual climate summit, is taking place. As rich nations drag their feet, will the Global South take the lead in climate action? We put the question to our guest, Charra Tesfaye Terfassa, economic and climate prosperity programme manager at the Open Society.",
+      "content_length": 316,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Merz und die Junge Union: Der Beginn einer Entfremdung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-rente-merz-deutschlandtag-100.html",
+      "published": "2025-11-14T15:45:40",
+      "content": "   Die Junge Union war lange eine Machtbasis von Friedrich Merz. Im Konflikt um das Rentenpaket deutet sich aber eine zunehmende Distanz an. Was steckt dahinter? Von Tina Handel. [mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Second brother of French anti-drugs activist murdered in Marseille",
+      "link": "https://www.france24.com/en/video/20251114-second-brother-of-french-anti-drugs-activist-murdered-in-marseille",
+      "published": "2025-11-14T15:33:51",
+      "content": "A gunman on a motorbike has shot dead the 20-year-old youngest brother of a prominent anti-drug activist in the southern French city of Marseille in a possible warning over his campaigning, a prosecutor said on Friday.",
+      "content_length": 218,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "'Another England': Conceptual artist Phillip Toledano on his AI-enhanced images",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251114-another-england-conceptual-artist-phillip-toledano-on-his-ai-enhanced-images",
+      "published": "2025-11-14T14:57:07",
+      "content": "He creates images of a past, present and future that are tantalisingly close to reality: Phillip Toledano's approach to photography harnesses technology, style and a sharp sense of humour. He joins us to talk about his latest book \"Another England\" and tells us how manipulating these scenes using artificial intelligence brings another layer to our ideas about \"truth\". Phillip also talks about putting himself at the centre of his artwork, and we discuss the technological developments that are revolutionising the way we make and consume art and culture.",
+      "content_length": 557,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Digitale Gewalt gegen Frauen: Wie Kulturschaffende sich wehren",
+      "link": "https://www.tagesschau.de/kultur/digitale-gewalt-frauen-100.html",
+      "published": "2025-11-14T14:56:59",
+      "content": "   Cybermobbing, Sexismus, Drohungen: Digitale Gewalt trifft oft prominente und politisch engagierte Frauen, die sich im Netz äußern. Vom Gesetz geschützt fühlen sich viele nicht - und wehren sich auch auf andere Art. Von Katja Goebel.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schuldneratlas 2025: Zahl überschuldeter Menschen gestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schuldneratlas-verschuldung-steigt-100.html",
+      "published": "2025-11-14T14:48:27",
+      "content": "   Nach Jahren des Rückgangs nimmt die Zahl überschuldeter Menschen in Deutschland wieder spürbar zu. Betroffen sind dabei längst nicht nur junge Menschen oder Ältere mit geringer Rente. Von Philipp Wundersee.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel army denies building wall inside Lebanon after UN forces say de facto border crossed",
+      "link": "https://www.france24.com/en/middle-east/20251114-israel-army-denies-building-wall-inside-lebanon-after-un-forces-say-de-facto-border-crossed",
+      "published": "2025-11-14T14:47:12",
+      "content": "UN peacekeepers on Friday said that Israel built new concrete walls that crossed the Blue Line into Lebanese territory, urging a withdrawal. Israel denied any breach of the UN-demarcated border.",
+      "content_length": 194,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Danish attitudes to the EU have 'changed dramatically': Denmark's Europe Minister Bjerre",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20251114-danish-attitudes-to-the-eu-have-changed-dramatically-denmark-s-europe-minister-bjerre",
+      "published": "2025-11-14T14:40:41",
+      "content": "Denmark's rotating presidency of the EU has been juggling a lot of difficult political balls: the climate negotiations ahead of the COP30 in Brazil, the \"simplification\" omnibuses that have run into political battles in the European Parliament, and much else. We travel to Copenhagen to talk to Denmark’s Minister for European Affairs, Marie Bjerre, about how the presidency is going, and how the small country is dealing with the big geopolitical headwinds blowing into Denmark.",
+      "content_length": 479,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man who grabbed Ariana Grande at Wicked sequel premiere charged",
+      "link": "https://www.theguardian.com/film/2025/nov/14/man-who-grabbed-ariana-grande-at-wicked-for-good-premiere-charged",
+      "published": "2025-11-14T14:36:58",
+      "content": "Footage shows the man jumping the red carpet barricade of the Singapore premiere of Wicked: For Good, then rushing towards and embracing the starA court in Singapore has charged a man who grabbed Ariana Grande at a premiere of Wicked: For Good on Thursday night with being a public nuisance.Video footage shows Johnson Wen jumping over a barricade at Universal Studios Singapore and rushing at Grande on the red carpet. Grande’s co-star Cynthia Erivo immediately jumped in to help protect her and Wen was moved away. Continue reading...",
+      "content_length": 536,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Mehrere Tote bei Angriffen auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-120.html",
+      "published": "2025-11-14T14:35:26",
+      "content": "   Mit dem jüngsten russischen Angriff auf Kiew sollte laut Präsident Selenskyj \"maximaler Schaden für Menschen und die zivile Infrastruktur\" angerichtet werden. Mehrere Menschen wurden getötet. Auch in Russland gab es neue Schäden.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'I want to see a more engaged Europe in the Balkans': Montenegro's President Milatović",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20251114-i-want-to-see-a-more-engaged-europe-in-the-balkans-montenegro-s-president-milatovi%C4%87",
+      "published": "2025-11-14T14:34:10",
+      "content": "Montenegro is considered to be one of the frontrunners to join the European Union, and it hopes to enter the bloc and the eurozone in 2028. The Western Balkans country of around 620,000 people began accession talks in 2012. Six years earlier, in 2006, it had emerged as an independent state after the end of the former Union of Serbia and Montenegro. We host the country's president, Jakov Milatović. He is a young pro-European reformer who says he is determined to follow the Euro-Atlantic path. Milatović is an Oxford-trained economist and was minister of economic development before being elected president of Montenegro in 2023.",
+      "content_length": 632,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Guardian’s former Gaza correspondent named young journalist of the year in UK awards",
+      "link": "https://www.theguardian.com/media/2025/nov/14/gaza-correspondent-young-journalist-of-the-year-media-freedom-awards",
+      "published": "2025-11-14T14:33:43",
+      "content": "Malak A Tantesh, 20, ‘showed immense talent and bravery’, said judges at Media Freedom awards in LondonThe UK’s Society of Editors has named Malak A Tantesh, the Guardian’s former Gaza correspondent, as young journalist of the year in the national press category at this year’s Media Freedom awards.The judges said Tantesh “showed immense talent and bravery in some of the hardest conditions ever faced by a journalist, she continued to report while having to forage for food and facing the constant risk of bombing and the threat of targeted killing”. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Chinese astronauts return to earth after spacecraft damaged by space debris",
+      "link": "https://www.france24.com/en/video/20251114-chinese-astronauts-return-to-earth-after-spacecraft-damaged-by-space-debris",
+      "published": "2025-11-14T14:33:10",
+      "content": "A three-person crew stranded at China’s space station after their spacecraft was apparently hit by space debris are to return Friday using the craft that brought their replacement crew.",
+      "content_length": 185,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Umfrage: Ehrenamtliche werden weniger, nehmen sich aber mehr Zeit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ehrenamtliche-deutschland-100.html",
+      "published": "2025-11-14T14:21:10",
+      "content": "   Fast 27 Millionen Menschen engagierten sich 2024 in Deutschland ehrenamtlich - das sind vier Millionen weniger als noch 2019. Aber: Diejenigen, die ein Ehrenamt ausüben, nehmen sich nun mehr Zeit dafür.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Carney’s ‘nation-building’ programme misses mark to be truly transformative for Canada",
+      "link": "https://www.theguardian.com/world/2025/nov/14/mark-carney-nation-building-canada",
+      "published": "2025-11-14T14:18:28",
+      "content": "The $C56bn plan focused on investing in a resource economy falls short of changing Canadians’ day-to-day lives Canada’s prime minister, Mark Carney, likes to say that when he was young, “we used to build big things in this country, and we used to build them quickly.”That idea – of sprawling projects that transform nations, has influenced both his narrative as an economist turned politician and his government’s multibillion-dollar investment spree. “It’s time to get back at it, and get on with it,” he said in September. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "BMW erhält Millionenförderung für Autos mit Wasserstoffantrieb",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-foerdergelder-wasserstoff-suv-100.html",
+      "published": "2025-11-14T14:12:28",
+      "content": "   Als einziger deutscher Hersteller setzt BMW auf Wasserstoff als Antriebstechnologie. Vom Staat gibt es dafür mehr als 270 Millionen Euro Förderung. Noch muss die Technologie allerdings einige Hürden nehmen.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket came back home after taking aim at Mars",
+      "link": "https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/",
+      "published": "2025-11-14T14:01:28",
+      "content": "The rocket company founded a quarter-century ago by billionaire Jeff Bezos made history Thursday with the pinpoint landing of an 18-story-tall rocket on a floating platform in the Atlantic Ocean.\nThe on-target touchdown came nine minutes after the New Glenn rocket, built and operated by Bezos’ company Blue Origin, lifted off from Cape Canaveral Space Force Station, Florida, at 3:55 pm EST (20:55 UTC). The launch was delayed from Sunday, first due to poor weather at the launch site in Florida, then by a solar storm that sent hazardous radiation toward Earth earlier this week.\n“We achieved full mission success today, and I am so proud of the team,” said Dave Limp, CEO of Blue Origin. “It turns out Never Tell Me The Odds (Blue Origin’s nickname for the first stage) had perfect odds—never before in history has a booster this large nailed the landing on the second try. This is just the beginning as we rapidly scale our flight cadence and continue delivering for our customers.”Read full article\nComments",
+      "content_length": 1012,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "David Pocock condemns delay in establishing job ready graduates body to end $50,000 arts degrees",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/15/david-pocock-job-ready-graduates-program",
+      "published": "2025-11-14T14:00:50",
+      "content": "Senator accuses the government of not treating reform with ‘urgency it deserves’ – with no modelling done on the cost of reversing or replacing the JRG schemeGet our breaking news email, free app or daily news podcastReversing the program that has left Australia’s arts students paying $50,000 degrees is facing more delay, as the body tasked with reforming the controversial job ready graduates scheme is unlikely to be ready on Labor’s timeline.The education minister, Jason Clare, is set to introduce legislation to formally establish the Australian Tertiary Education Commission (Atec) in the final sitting week of the year. Continue reading...",
+      "content_length": 648,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bus chaperone kept working at school during months-long police investigation into alleged child sexual abuse",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/15/bus-chaperone-kept-working-at-school-during-months-long-police-investigation-into-alleged-child-sexual-abuse-ntwnfb",
+      "published": "2025-11-14T14:00:48",
+      "content": "Exclusive: Victorian education department apologises to mother who alleged her nonverbal child was sexually assaulted by the man. He denied the allegations and no charges were laidGet our breaking news email, free app or daily news podcastA school bus chaperone who allegedly sexually assaulted a nonverbal child continued working with students for months during the subsequent Victorian police investigation, prompting an apology to the girl’s mother from the state’s education department.The allegation was denied by the chaperone and did not lead to charges. But Victoria’s education department apologised to the mother last year for failing to implement risk mitigation strategies during the police investigation.In Australia, children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800; adult survivors can seek help at Blue Knot Foundation on 1300 657 380. Other sources of help can be found at Child Helpline International Continue reading...",
+      "content_length": 980,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "USA werfen dem Iran die \"Entführung\" eines Öltankers vor",
+      "link": "https://www.tagesschau.de/ausland/asien/tanker-iran-102.html",
+      "published": "2025-11-14T12:48:52",
+      "content": "   In der Straße von Hormus ist offenbar ein Öltanker vom Iran beschlagnahmt worden. Der Kontakt zur Besatzung ging verloren, das Schiff änderte unvermittelt seinen Kurs. Britische Behörden sprechen von \"staatlicher Aktivität\".[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Venezuela’s Maduro urges Trump to avoid Afghanistan-style ‘forever war’",
+      "link": "https://www.theguardian.com/world/2025/nov/14/venezuela-maduro-urges-trump-to-avoid-afghanistan-style-forever-war",
+      "published": "2025-11-14T12:35:34",
+      "content": "Authoritarian leader calls for US to make peace amid military buildup and strikes against alleged drug smugglersExplainer: is US preparing to attack Venezuela?Venezuela’s authoritarian president, Nicolás Maduro, has urged Donald Trump not to lead the US into an Afghanistan-style “forever war”, as the American military buildup in the region intensified and Trump’s defence secretary, Pete Hegseth, vowed to purge the Americas of “narco-terrorists”.Speaking to CNN outside the Miraflores presidential palace in Venezuela’s capital, Caracas, Maduro called on Trump to make peace, not war, after the world’s largest aircraft carrier, USS Gerald R Ford, arrived in the region. Continue reading...",
+      "content_length": 693,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
+      "link": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
+      "published": "2025-11-14T12:20:48",
+      "content": "Researchers from Anthropic said they recently observed the “first reported AI-orchestrated cyber espionage campaign” after detecting China-state hackers using the company’s Claude AI tool in a campaign aimed at dozens of targets. Outside researchers are much more measured in describing the significance of the discovery.\nAnthropic published the reports on Thursday here and here. In September, the reports said, Anthropic discovered a “highly sophisticated espionage campaign,” carried out by a Chinese state-sponsored group, that used Claude Code to automate up to 90 percent of the work. Human intervention was required “only sporadically (perhaps 4-6 critical decision points per hacking campaign).” Anthropic said the hackers had employed AI agentic capabilities to an “unprecedented” extent.\n“This campaign has substantial implications for cybersecurity in the age of AI ‘agents’—systems that can be run autonomously for long periods of time and that complete complex tasks largely independent of human intervention,” Anthropic said. “Agents are valuable for everyday work and productivity—but in the wrong hands, they can substantially increase the viability of large-scale cyberattacks.”Read full article\nComments",
+      "content_length": 1221,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Klimaschutz kostet - zu wenig Klimaschutz kostet mehr",
+      "link": "https://www.tagesschau.de/wissen/klima/kosten-klimaschutz-100.html",
+      "published": "2025-11-14T12:19:35",
+      "content": "   Jeder Euro, der in der Europäischen Union in den Klimaschutz investiert wird, spart vier bis zehn Euro an Folgekosten. Zu diesem Ergebnis kommt eine aktuelle Analyse aus Österreich. Von Ulrike Brandt.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pleitewelle in der deutschen Wirtschaft hält an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unternehmen-insolvenzen-pleitewelle-unternehmensgruendungen-100.html",
+      "published": "2025-11-14T12:15:30",
+      "content": "   Immer mehr Unternehmen gehen pleite. Auch im vergangenen Oktober legte die Zahl der beantragten Regelinsolvenzen deutlich zu. Gleichzeitig werden derzeit aber auch mehr neue Firmen gegründet.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rocket Report: Blue Origin’s stunning success; vive le Baguette One!",
+      "link": "https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/",
+      "published": "2025-11-14T12:10:01",
+      "content": "Welcome to Edition 8.19 of the Rocket Report! Thursday was a monumental day in launch history with Blue Origin’s New Glenn rocket not just taking off successfully, but with the first stage masterfully returning to the surface of the ocean, hovering near the Jacklyn drone ship, and then making a landing in the center of the barge. It was fantastic to watch and cements our new reality of reusable rockets. The future of space access is very bright indeed.\nAs always, we welcome reader submissions, and if you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.\n\n    \n                        \n                  \n      \n\nPrivate Chinese rocket fails. Galactic Energy’s solid-fuel Ceres-1 rocket lifted off from Jiuquan Satellite Launch Center in northwest China on Sunday, carrying three satellites toward low-Earth orbit. The rocket’s first three stages performed well, according to media reports, but its fourth and final stage shut down too early, leading to the loss of all three payloads, Space.com reports.Read full article\nComments",
+      "content_length": 1269,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Die verlassenen Wissenschaftler von Tschernobyl",
+      "link": "https://www.tagesschau.de/ausland/europa/wissenschaftler-tschernobyl-ukraine-100.html",
+      "published": "2025-11-14T12:07:48",
+      "content": "   Das Sperrgebiet um das ehemalige AKW Tschernobyl wird regelmäßig bei russischen Angriffen getroffen. Die nukleare Gefahr ist groß. Die verbliebenen ukrainischen Wissenschaftler sind auf sich allein gestellt. Von Susanne Petersohn.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US spy satellites built by SpaceX send signals in the “wrong direction”",
+      "link": "https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/",
+      "published": "2025-11-14T12:00:46",
+      "content": "About 170 Starshield satellites built by SpaceX for the US government’s National Reconnaissance Office (NRO) have been sending signals in the wrong direction, a satellite researcher found.\nThe SpaceX-built spy satellites are helping the NRO greatly expand its satellite surveillance capabilities, but the purpose of these signals is unknown. The signals are sent from space to Earth in a frequency band that’s allocated internationally for Earth-to-space and space-to-space transmissions.\nThere have been no public complaints of interference caused by the surprising Starshield emissions. But the researcher who found them says they highlight a troubling lack of transparency in how the US government manages the use of spectrum and a failure to coordinate spectrum usage with other countries.Read full article\nComments",
+      "content_length": 819,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google soll Idealo 465 Millionen Euro Schadenersatz zahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-idealo-schadenersatz-werbung-100.html",
+      "published": "2025-11-14T11:44:37",
+      "content": "   Einem Gerichtsurteil zufolge muss Google der Preisvergleichs-Plattform Idealo 465 Millionen Euro zahlen. Der US-Konzern habe seine marktbeherrschende Stellung als Suchmaschine missbraucht, so das Landgericht Berlin. [mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Klingbeil verteidigt Aktivrente bei Debatte im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktivrente-bundestag-klingbeil-100.html",
+      "published": "2025-11-14T11:36:21",
+      "content": "   Im Januar soll die Aktivrente kommen - bis zu 2.000 Euro im Monat könnten Rentner dann steuerfrei dazuverdienen. Finanzminister Klingbeil verteidigte das Vorhaben nun gegen Kritik: Es stärke den Arbeitsmarkt und entlaste Sozialkassen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mining firm BHP found liable in UK for disastrous Brazilian dam collapse",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/london-judge-rules-bhp-group-liable-for-brazil-2015-samarco-dam-collapse",
+      "published": "2025-11-14T11:33:24",
+      "content": "About 600,000 people seeking compensation a decade on from disaster that killed 19 and devastated villagesThe global mining company BHP Group has been found liable for the deadly 2015 collapse of a Brazilian dam, in a landmark ruling that could pave the way for a multibillion-dollar payout.The high court in London on Friday, Mrs Justice O’Farrell ruled that BHP was responsible for the collapse of the Fundão dam in Mariana despite not owning the dam at the time. Continue reading...",
+      "content_length": 485,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Konflikt zum Standardmodell der Kosmologie: Das Sonnensystem ist viel zu schnell",
+      "link": "https://www.heise.de/news/Konflikt-zum-Standardmodell-der-Kosmologie-Das-Sonnensystem-ist-viel-zu-schnell-11078614.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T11:10:00",
+      "content": "Präzise Messungen mehrerer Radioteleskope legen überzeugend nahe, dass unser Sonnensystem viel zu schnell für unsere Modelle ist. Eine Erklärung gibt es nicht.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Schuko-Stecker offiziell solartauglich: DIN für Balkonkraftwerke ist fertig",
+      "link": "https://www.heise.de/news/Schuko-Stecker-offiziell-solartauglich-DIN-fuer-Balkonkraftwerke-ist-fertig-11078720.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T11:09:00",
+      "content": "Die Produktnorm für Balkonkraftwerke ist veröffentlicht – der Schuko-Stecker hat es in die Norm geschafft. Gute Argumente in Diskussionen mit Hausverwaltungen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump genehmigt Waffengeschäft mit Taiwan - und verärgert China",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-taiwan-waffengeschaeft-102.html",
+      "published": "2025-11-14T11:00:27",
+      "content": "   Weil US-Präsident Trump erstmals in seiner zweiten Amtszeit ein Waffengeschäft mit Taiwan genehmigt hat, ist China \"zutiefst unzufrieden\". Peking spricht von falschen Signalen an Taiwan und sieht die eigene Souveränität in Gefahr.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "British-Egyptian activist stopped from flying to UK, says family",
+      "link": "https://www.theguardian.com/world/2025/nov/14/british-egyptian-activist-alaa-abd-el-fattah-stopped-from-flying-to-uk-says-family",
+      "published": "2025-11-14T10:15:57",
+      "content": "Egyptian authorities prevented Alaa Abd el-Fattah from attending human rights awards in LondonAlaa Abd el-Fattah, the British-Egyptian writer and human rights campaigner who was freed from jail in September, was stopped from flying to the UK by Egyptian passport control, his family has said.Abd el-Fattah was pardoned after more than 10 years in jail but his status, including his right to travel back and forth between Britain and Egypt, was left unclear and subject to discussion between the family and authorities. Continue reading...",
+      "content_length": 538,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie stark Verbraucher bei den Stromkosten entlastet werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/stromkosten-zuschuss-uebertragungsnetze-entlastung-100.html",
+      "published": "2025-11-14T10:07:14",
+      "content": "   Auch private Haushalte sollten beim Strompreis entlastet werden. Der Bundestag hat einen Milliardenzuschuss für Betreiber von Übertragungsnetzen beschlossen. Inwieweit die Subvention wirkt, bleibt aber abzuwarten. Von Till Bücker.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Haushaltsausschuss beschließt Etat 2026 - und noch höhere Schulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt2026-ausschuss-100.html",
+      "published": "2025-11-14T10:01:11",
+      "content": "   Es war eine Sitzung der Superlative: Nach 15 Stunden nickte der Haushaltsausschuss den Etatentwurf für 2026 ab - mit noch höheren Schulden als ursprünglich gedacht. Mehr Geld soll es etwa für die Ukraine und die Pflegeversicherung geben.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spring Framework 7 bringt neues Konzept für Null Safety und setzt auf Java 25",
+      "link": "https://www.heise.de/news/Spring-Framework-7-bringt-neues-Konzept-fuer-Null-Safety-und-setzt-auf-Java-25-11078318.html",
+      "published": "2025-11-14T09:56:00",
+      "content": "Das neue Spring Framework verwendet JSpecify für Null Safety. Außerdem führt es API-Versionierung ein und bietet ein neues Retry-Konzept für die Resilienz an.",
+      "content_length": 158,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Warum Firmen zu ihren Wurzeln zurückkehren und Geschäfte abstoßen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-unternehmen-back-to-the-roots-100.html",
+      "published": "2025-11-14T09:54:42",
+      "content": "   Immer mehr deutsche Konzerne fokussieren sich auf ihr Kerngeschäft und stoßen andere Geschäftsbereiche ab. Siemens, Continental und andere setzen auf Verschlankung. Ein Trend mit Chancen und Risiken. Von Bo Hyun Kim.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Geteilte Meinungen zu Einigungen des Koalitionsausschusses",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reaktionen-100.html",
+      "published": "2025-11-14T09:37:10",
+      "content": "   Helfen die Beschlüsse des Koalitionsausschusses, die Wirtschaft auf Trab zu bringen? Während die Koalitionäre und Verbände davon ausgehen, sieht ein führender Ökonom das grundsätzlich anders. Und auch Umweltschützer üben Kritik.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Idealo vs. Google: Suchmaschine zu 465 Millionen Euro Schadenersatz verurteilt",
+      "link": "https://www.heise.de/news/Idealo-Prozess-Google-zu-465-Millionen-Euro-Schadenersatz-verurteilt-11078424.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T09:35:00",
+      "content": "Der Preisvergleichsanbieter Idealo hat vor Gericht gegen Google gesiegt. Der Schadenersatz ist beträchtlich, aber auch beträchtlich kleiner als gefordert.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "KI-Quellen sicher einbinden – JFrog kündigt MCP Registry an",
+      "link": "https://www.heise.de/news/KI-Quellen-sicher-einbinden-JFrog-kuendigt-MCP-Registry-an-11078282.html",
+      "published": "2025-11-14T09:22:00",
+      "content": "JFrog stellt eine MCP Registry vor, die lokale und externe KI-Quellen auf Sicherheit prüft. Für den AI Catalog gibt es ferner eine Suche nach Schatten-KI.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nach Drohung: BBC weist Trumps Entschädigungsforderungen zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-bbc-trump-entschaedigung-100.html",
+      "published": "2025-11-14T09:03:30",
+      "content": "   Rund einen Tag vor Ablauf eines Ultimatums hat die BBC den Entschädigungsforderungen von US-Präsident Trump eine Absage erteilt. Er hatte gedroht, den öffentlich-rechtlichen Sender auf eine Milliarde Dollar zu verklagen. Von Gabi Biesinger.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nexperia-Krise: Neue Warnung vor Produktionsstopps, ungewöhnliche Gegenmaßnahmen",
+      "link": "https://www.heise.de/news/Nexperia-Krise-Neue-Warnung-vor-Produktionsstopps-ungewoehnliche-Gegenmassnahmen-11078439.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-14T09:02:00",
+      "content": "Die Krise um den Chiphersteller Nexperia ist wohl noch nicht beendet und in der Industrie gibt es ungewöhnliche Versuche, Engpässe beim Nachschub zu verhindern.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "BSW drängt auf Ergebnis bei Prüfung der Bundestagswahl",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlpruefung-bundestagswahl-bsw-100.html",
+      "published": "2025-11-14T07:55:53",
+      "content": "   Neun Monate nach der Bundestagswahl kämpft das BSW weiterhin um den Einzug ins Parlament. Dort wird der Einspruch der Partei gegen das Endergebnis aktuell geprüft. Eine Entscheidung könnte im Dezember fallen. Von Alexander Budweg.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag beschließt Verbot von Lachgas für Minderjährige",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-lachgas-100.html",
+      "published": "2025-11-14T07:23:56",
+      "content": "   Lachgas kommt in der Medizin als leichtes Betäubungsmittel zum Einsatz, doch seit einiger Zeit wird es häufiger als Partydroge missbraucht. Erwerb und Besitz für Kinder und Jugendliche sind künftig verboten.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Neue AfD-Jugendorganisation - wie radikal wird sie?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/podcast-11km-afd-jugendorganisation-100.html",
+      "published": "2025-11-14T07:23:23",
+      "content": "   Die AfD will Ende November ihre neue Jugendorganisation gründen, nachdem die als gesichert rechtsextremistisch eingestufte \"Junge Alternative\" aufgelöst wurde. Doch Recherchen zeigen: Auch die neue AfD-Jugend sucht die Nähe zum Rechtsextremismus.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fossil fuel lobbyists outnumber all Cop30 delegations except Brazil, report says",
+      "link": "https://www.theguardian.com/environment/2025/nov/14/fossil-fuel-lobbyists-cop30",
+      "published": "2025-11-14T05:00:20",
+      "content": "One in every 25 participants at 2025 UN climate summit is a fossil fuel lobbyist, according to Kick Big Polluters OutCop30: click here for full Guardian coverage of climate talks in BrazilMore than 1,600 fossil fuel lobbyists have been granted access to the Cop30 climate negotiations in Belém, significantly outnumbering every single country’s delegation apart from the host Brazil, new analysis has found.One in every 25 participants at this year’s UN climate summit is a fossil fuel lobbyist, according to the analysis by the Kick Big Polluters Out (KBPO) coalition, raising serious questions about the corporate capture and credibility of the annual Cop negotiations. Continue reading...",
+      "content_length": 691,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
