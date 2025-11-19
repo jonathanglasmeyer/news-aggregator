@@ -1,0 +1,1445 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-19T07:13:44.831143",
+    "deduplicated_at": "2025-11-19 07:13:44",
+    "lookback_days": 7,
+    "total_input": 976,
+    "duplicates_removed": 817,
+    "new_articles": 159,
+    "deduplication_rate": "83.7%",
+    "historical_files_checked": 5
+  },
+  "articles": [
+    {
+      "title": "Washington - Auch Senat stellt Weichen für Freigabe von Epstein-Akten",
+      "link": "https://www.deutschlandfunk.de/auch-senat-stellt-weichen-fuer-freigabe-von-epstein-akten-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die Veröffentlichung der US-Ermittlungsakten zum Skandal um den gestorbenen Sexualstraftäter Epstein wird wahrscheinlicher. Der US-Kongress machte den Weg dafür frei. Wenige Stunden später leitete der Senat ein Schnellverfahren ein, mit dem die Vorlage ohne Abstimmung direkt an Präsident Trump weitergeleitet werden kann.",
+      "content_length": 322,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Bundesgericht stoppt Neuzuschnitt von Wahlkreisen in Texas",
+      "link": "https://www.deutschlandfunk.de/bundesgericht-stoppt-neuzuschnitt-von-wahlkreisen-in-texas-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Ein US-Bundesgericht hat den Neuzuschnitt von Wahlkreisen im Bundesstaat Texas gestoppt.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Streit in der Union - SPD-Fraktionsvorsitzende Esdar verteidigt Festhalten am Rentenpaket",
+      "link": "https://www.deutschlandfunk.de/spd-fraktionsvorsitzende-esdar-verteidigt-festhalten-am-rentenpaket-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die Diskussion um das geplante Rentenpaket der Bundesregierung hält an. Die stellvertretende Fraktionsvorsitzende der SPD, Esdar, verteidigte das Festhalten ihrer Partei an dem Vorhaben. Wie schon im Koalitionsvertrag festgeschrieben, brauche es eine klare Absicherung für diejenigen, die heute in die Rente einzahlten, sagte Esdar im Deutschlandfunk.",
+      "content_length": 351,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Drohnenabwehr - Kabinett stimmt über Änderungen am Luftsicherheitsgesetz ab",
+      "link": "https://www.deutschlandfunk.de/kabinett-stimmt-ueber-aenderungen-am-luftsicherheitsgesetz-ab-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Nach zahlreichen Vorfällen mit Drohnen an deutschen Flughäfen will die Bundesregierung Änderungen am Luftsicherheitsgesetz beschließen. Das Kabinett stimmt heute über einen Entwurf von Bundesinnenminister Dobrindt ab, der dem Deutschlandfunk vorliegt.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Autobranche - Bericht: Mercedes-Benz verabschiedet sich von Luxusstrategie",
+      "link": "https://www.deutschlandfunk.de/bericht-mercedes-benz-verabschiedet-sich-von-luxusstrategie-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Mercedes-Benz stoppt einem Bericht zufolge die von Vorstandschef Källenius vor drei Jahren ausgerufene Luxusstrategie.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Deutsche Wildtier-Stiftung - Rothirsch ist Tier des Jahres 2026",
+      "link": "https://www.deutschlandfunk.de/rothirsch-ist-tier-des-jahres-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Der Rothirsch ist das Tier des Jahres 2026.",
+      "content_length": 43,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interview - Wagenknecht sieht in AfD keine Gefahr für Demokratie",
+      "link": "https://www.deutschlandfunk.de/wagenknecht-sieht-in-afd-keine-gefahr-fuer-demokratie-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die BSW-Vorsitzende Wagenknecht fordert, die AfD auf Landes- und Bundesebene in politische Entscheidungen einzubinden.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auktion - Rekordpreis für Klimt-Gemälde in New York",
+      "link": "https://www.deutschlandfunk.de/rekordpreis-fuer-klimt-gemaelde-in-new-york-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Ein Gemälde des österreichischen Malers Gustav Klimt ist in New York für 236,4 Millionen Dollar versteigert worden.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Besuch in Ankara - Selenskyj bemüht sich um Wiederbelebung von Gesprächen zur Beendigung des Kriegs",
+      "link": "https://www.deutschlandfunk.de/selenskyj-bemueht-sich-um-wiederbelebung-von-gespraechen-zur-beendigung-des-kriegs-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Der ukrainische Präsident Selenskyj will bei seinem heutigen Besuch in Ankara die diplomatischen Bemühungen um eine Ende des Ukraine-Kriegs wiederbeleben.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball - Kleinstaat Curaçao qualifiziert sich erstmals für die Weltmeisterschaft",
+      "link": "https://www.deutschlandfunk.de/kleinstaat-cura-ao-qualifiziert-sich-erstmals-fuer-die-weltmeisterschaft-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Der karibische Kleinstaat Curaçao hat sich erstmals für eine Fußball-Weltmeisterschaft qualifiziert.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Besuch des saudischen Kronprinzen - Trump billigt Verkauf von F-35-Kampfjets an Saudi-Arabien",
+      "link": "https://www.deutschlandfunk.de/trump-billigt-verkauf-von-f-35-kampfjets-an-saudi-arabien-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "US-Präsident Trump hat den Verkauf von F-35-Kampfjets an Saudi-Arabien gebilligt.",
+      "content_length": 81,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Trump will Bildungsministerium auflösen",
+      "link": "https://www.deutschlandfunk.de/trump-will-bildungsministerium-aufloesen-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die US-Regierung hat weitere Schritte zur Auflösung des Bildungsministeriums eingeleitet.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - 20 Verletzte nach russischem Angriff auf Charkiw",
+      "link": "https://www.deutschlandfunk.de/20-verletzte-nach-russischem-angriff-auf-charkiw-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Bei einem russischen Drohnenangriff auf die ostukrainische Großstadt Charkiw sind Berichten zufolge mehr als 20 Menschen verletzt worden.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bedrohung durch Russland - EU will Verlegung von Streitkräften im Krisenfall beschleunigen",
+      "link": "https://www.deutschlandfunk.de/eu-will-verlegung-von-streitkraeften-im-krisenfall-beschleunigen-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Angesichts der Bedrohungen durch Russland plant die EU ein Notfallsystem für eine schnelle grenzübergreifende Verlegung von Streitkräften und Militärausrüstung.",
+      "content_length": 160,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berliner Sicherheitskonferenz - Pistorius: \"Ostsee ist zu Putins Testfeld und Gebiet der Konfrontation geworden\"",
+      "link": "https://www.deutschlandfunk.de/pistorius-ostsee-ist-zu-putins-testfeld-und-gebiet-der-konfrontation-geworden-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Verteidigungsminister Pistorius hat die europäischen Verbündeten aufgerufen, die militärische Abwehrbereitschaft auf dem Kontinent zügig auszubauen.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Balkan - Bundesaußenminister Wadephul unterstreicht Bedeutung des Bundeswehr-Einsatzes im Kosovo",
+      "link": "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-unterstreicht-bedeutung-des-bundeswehr-einsatzes-im-kosovo-108.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Bundesaußenminister Wadephul hat die Bedeutung des Bundeswehr-Einsatzes im Kosovo hervorgehoben.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rentenpaket - Grünen-Chefin Brantner wirft Junger Union Unehrlichkeit vor",
+      "link": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-junger-union-unehrlichkeit-vor-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Grünen-Chefin Brantner hat die Kritik junger Unionspolitiker am Rentenpaket der Bundesregierung als unehrlich bezeichnet.",
+      "content_length": 121,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Tod der Kessler-Zwillinge - Lauterbach fordert gesetzliche Regelungen für assistierten Suizid",
+      "link": "https://www.deutschlandfunk.de/lauterbach-fordert-gesetzliche-regelungen-fuer-assistierten-suizid-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Nach dem selbst gewählten Tod der Kessler-Zwillinge Ellen und Alice hat der frühere Bundesgesundheitsminister Lauterbach gesetzliche Regelungen zur Sterbehilfe gefordert.",
+      "content_length": 170,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nord Stream - Italien entscheidet über Auslieferung des mutmaßlichen Drahtziehers nach Deutschland",
+      "link": "https://www.deutschlandfunk.de/italien-entscheidet-ueber-auslieferung-des-mutmasslichen-drahtziehers-nach-deutschland-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Italiens oberstes Gericht entscheidet heute darüber, ob der mutmaßliche Drahtzieher der Anschläge auf die Nord-Stream-Gasleitungen an Deutschland ausgeliefert werden darf.",
+      "content_length": 171,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Natürliches Mineralwasser - \"Perrier\" darf weiter verkauft werden - Klage gegen Nestlé von französischem Gericht abgewiesen",
+      "link": "https://www.deutschlandfunk.de/perrier-darf-weiter-verkauft-werden-klage-gegen-nestl-von-franzoesischem-gericht-abgewiesen-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Das Mineralwasser Perrier des Nestlé-Konzerns darf weiter verkauft werden.",
+      "content_length": 74,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sexualisierte Gewalt - \"Täter sind Nachbarn, Bekannte, Verwandte, Menschen, denen man vertraut\" - neue Initiativen gegen Kindesmissbrauch vorgestellt",
+      "link": "https://www.deutschlandfunk.de/taeter-sind-nachbarn-bekannte-verwandte-menschen-denen-man-vertraut-neue-initiativen-gegen-kindesmis-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die Bundesregierung will mit neu vorgestellten Initiativen mehr Menschen für den Kampf gegen sexualisierte Gewalt an Kindern sensibilisieren.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt",
+      "link": "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-sieht-sich-nach-medienberichten-vorwuerfen-im-zusammenhang-mit-seiner-me-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Eine Firma von Kulturstaatsminister Weimer soll Medienberichten zufolge gegen Geld den Zugang zu Regierungsmitgliedern angeboten haben. Demnach wurden Paketpreise von bis zu 80.000 Euro aufgerufen.",
+      "content_length": 197,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Kulturpolitikerin Riehl (Volt) - Auch Medienkompetenz von Älteren fördern",
+      "link": "https://www.deutschlandfunk.de/auch-medienkompetenz-von-aelteren-foerdern-108.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die Vorsitzende des Kultur- und Bildungsausschusses im Europäischen Parlament, Riehl, fordert allgemein mehr Medienkompetenz.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Finanzwirtschaft - Unternehmen drängen auf Ausbau des Stablecoins in Europa",
+      "link": "https://www.deutschlandfunk.de/unternehmen-draengen-auf-ausbau-des-stablecoins-in-europa-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Vertreter der Finanzbranche in Deutschland drängen auf den Ausbau des Stablecoins in Europa.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Monopolvorwürfe - US-Gericht lehnt Abspaltung von Instagram und WhatsApp ab",
+      "link": "https://www.deutschlandfunk.de/us-gericht-lehnt-abspaltung-von-instagram-und-whatsapp-ab-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die US-Regierung ist mit dem Versuch gescheitert, die Abtrennung von Instagram und WhatsApp vom Facebook-Konzern Meta zu erzwingen.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltklimakonferenz - Erneuerbare Energien: Bundesumweltminister Schneider (SPD) sagt Geld für Ausbau von Netzen im Ausland zu",
+      "link": "https://www.deutschlandfunk.de/erneuerbare-energien-bundesumweltminister-schneider-spd-sagt-geld-fuer-ausbau-von-netzen-im-ausland--110.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Deutschland will den Ausbau von Speichern und Netzen für erneuerbare Energien im Ausland fördern.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kohleausstieg - EU-Komission genehmigt Milliarden-Entschädigung für ostdeutschen Energiekonzern Leag",
+      "link": "https://www.deutschlandfunk.de/eu-komission-genehmigt-milliarden-entschaedigung-fuer-ostdeutschen-energiekonzern-leag-106.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Die Europäische Kommission hat Entschädigungszahlungen für den Kohleausstieg in Ostdeutschland genehmigt.",
+      "content_length": 105,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Türkei - Nach Tod deutscher Familie in Istanbul - Hinweise auf mögliche Vergiftung durch Chemikalien verdichten sich",
+      "link": "https://www.deutschlandfunk.de/nach-tod-deutscher-familie-in-istanbul-hinweise-auf-moegliche-vergiftung-durch-chemikalien-verdichte-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Nach dem Tod einer Hamburger Familie in Istanbul belastet ein vorläufiger Bericht das Hotel.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Feiertag - Evangelische Christen begehen heute Buß- und Bettag",
+      "link": "https://www.deutschlandfunk.de/evangelische-christen-begehen-heute-buss-und-bettag-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Evangelische Christen begehen heute den Buß- und Bettag.",
+      "content_length": 56,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards",
+      "link": "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-102.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Weihnachtsmärkte sollten nach Ansicht von Bundeskanzler Merz künftig städteübergreifende Standards erfüllen, um einfacher und sicher stattzufinden.",
+      "content_length": 147,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Autobahnlücke - Bundesverwaltungsgericht weist Klage gegen Ausbau der A1 ab",
+      "link": "https://www.deutschlandfunk.de/bundesverwaltungsgericht-weist-klage-gegen-ausbau-der-a1-ab-106.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Das Bundesverwaltungsgericht hat eine Klage gegen den Ausbau der A1 zurückgewiesen.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Meist bewölkt mit Schnee oder Regen - 1 bis 7 Grad",
+      "link": "https://www.deutschlandfunk.de/meist-bewoelkt-mit-schnee-oder-regen-1-bis-7-grad-100.html",
+      "published": "2025-11-19T07:10:08",
+      "content": "Das Wetter: Verbreitet dicht bewölkt mit Regen. Im Norden gebietsweise Schnee. Im Süden und Südosten einige Auflockerungen und meist trocken. Temperaturen 1 bis 7 Grad.",
+      "content_length": 168,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "programmier.bar: CTO-Special mit Fabian Hagen von Faaren",
+      "link": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Fabian-Hagen-von-Faaren-11080747.html",
+      "published": "2025-11-19T07:03:00",
+      "content": "Aus seiner Bachelorarbeit wurde ein Start-up: Fabian Hagen, CTO von Faaren, erzählt, wie aus einem Uni-Projekt ein erfolgreiches Mobility-Unternehmen entstand.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK inflation eases for first time in five months to 3.6% before crunch budget",
+      "link": "https://www.theguardian.com/business/2025/nov/19/uk-inflation-falls-budget-october-rachel-reeves-interest-rate",
+      "published": "2025-11-19T07:01:12",
+      "content": "Drop in October’s annual rate raises hopes of interest rate cut after Rachel Reeves’s tax and spending statementBusiness live – latest updatesUK inflation fell to 3.6% in October, easing pressure on households and providing a boost for Rachel Reeves as the chancellor prepares for her make-or-break budget next week.The Office for National Statistics (ONS) said annual inflation as measured by the consumer prices index cooled for the first time in five months, declining from a peak of 3.8% over July, August and September. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brandenburger Landtag stimmt über Rundfunkreform ab",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburg-landtag-rundfunkreform-100.html",
+      "published": "2025-11-19T06:58:55",
+      "content": "   15 der 16 Landesparlamente haben den Vertrag zur Reform des öffentlich-rechtlichen Rundfunks bereits angenommen, heute stimmt Brandenburg ab. Doch das BSW, Koalitionspartner der SPD, lehnt die Reform bisher ab.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wednesday briefing: Why strangulation during sex has become so common among teenagers",
+      "link": "https://www.theguardian.com/world/2025/nov/19/wednesday-briefing-why-strangulation-during-sex-has-become-so-common-among-teenagers",
+      "published": "2025-11-19T06:51:26",
+      "content": "In today’s newsletter: Despite the risks, many young people now see choking during intimacy as acceptable or even expected, which experts put down to the proliferation of increasingly violent online pornography Good morning. Yesterday, I was shocked to read that nearly half of sexually active under-18s have either been strangled or strangled someone during sex.“Choking”, as it is known, has become normalised in young people’s sexual habits. A study by the Institute for Addressing Strangulation, part of the Faculty of Forensic and Legal Medicine of the Royal College of Physicians, published on Tuesday, found that 43% of under-18s had experienced the practice, despite much evidence of the dangers it can cause.Politics | Nigel Farage is facing fresh claims of racism and antisemitism while he was at school, with a Bafta-winning director among those making accusations against him. The Reform UK leader denies the allegations.Technology | A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday. Cloudflare, whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some websites.Health | The NHS has failed to cut waiting times as promised in its recovery plan despite billions of pounds in investment, the public accounts committee has warned.Home Office | Shabana Mahmood is facing demands for compassion and clarity after it emerged that only a “few hundred” asylum seekers would initially be permitted to come to the UK under three new schemes for refugees.Espionage | MI5 has issued an espionage alert to MPs and peers warning that two people linked to the Chinese intelligence service are actively seeking to recruit parliamentarians through LinkedIn. Continue reading...",
+      "content_length": 1827,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rekordpreis für Klimt-Gemälde bei Auktion in New York erzielt",
+      "link": "https://www.tagesschau.de/kultur/versteigerung-klimt-gemaelde-100.html",
+      "published": "2025-11-19T06:50:00",
+      "content": "   Der Bieterwettstreit dauerte 20 Minuten, dann fiel der Hammer. Das \"Bildnis Elisabeth Lederer\" von Gustav Klimt ist New York für einen Rekordwert versteigert worden. Auch eine goldene Toilette erzielte einen hohen Preis.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Nervosität an den Börsen bleibt hoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-nach-kursrutsch-nvidia-100.html",
+      "published": "2025-11-19T06:46:09",
+      "content": "   Nach dem gestrigen erneuten Kurssturz im DAX kommen die Anleger nicht zur Ruhe. Die Nervosität ist weiter hoch. Vorbörslich sieht es nach weiteren Kursverlusten aus - allerdings dürfte die Abwärtsdynamik nachlassen.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Their rights are being violated’: Ukrainian families call for return of their stolen children",
+      "link": "https://www.france24.com/en/europe/20251119-their-rights-are-being-violated-ukrainian-families-call-for-return-of-their-stolen-children",
+      "published": "2025-11-19T06:45:48",
+      "content": "Family members of Ukrainian children deported from Kherson by Russia made a rare public appeal for their return on Monday in Paris. Since the start of its full-scale invasion, Moscow has deported Ukrainian children into Russia, often sending older children to re-education camps and putting younger children up for adoption.",
+      "content_length": 324,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Pry open the jaws of Treasury’ to fund CSIRO amid hundreds of job losses, Labor MP Ed Husic tells own party",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/19/fund-csiro-amid-hundreds-of-job-losses-labor-mp-ed-husic-tells-own-party-",
+      "published": "2025-11-19T06:37:57",
+      "content": "Husic, who oversaw CSIRO cuts as the former science minister, said some in government see scientific agency funding as a ‘cost’ not an ‘investment’Get our breaking news email, free app or daily news podcastEd Husic has challenged his own government to “pry open the jaws of Treasury” to boost funding for Australia’s national scientific agency after it announced up to 350 research jobs would be cut to deal with an imminent budgetary cliff.The Commonwealth Scientific and Industrial Research Organisation (CSIRO) announced on Wednesday it would cut between 300 and 350 research unit roles as part of efforts to narrow its research scope and address an ageing property portfolio in need of urgent modernisation. Continue reading...",
+      "content_length": 731,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "62 Menschen aus Afghanistan verzichten auf Aufnahmezusage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aufnahmeprogramm-afghanistan-108.html",
+      "published": "2025-11-19T06:32:57",
+      "content": "   Diese Woche lief die Frist für Afghaninnen und Afghanen ab, gegen Geld auf ihre deutsche Aufnahmezusage zu verzichten. Nun hat das Bundesinnenministerium mitgeteilt, wie viele Menschen das Angebot angenommen haben. Von P. Eckstein.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Former Liberal senator quits party – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/19/australia-news-live-optus-amazon-nsw-leaders-mark-speakman-challenge-spill-coalition-john-laws-funeral-ntwnfbhip-liberal",
+      "published": "2025-11-19T06:32:25",
+      "content": "This blog is now closed‘Pry open the jaws of Treasury’ to fund CSIRO amid hundreds of job losses, Labor MP Ed Husic tells own partyGet our breaking news email, free app or daily news podcastHome affairs minister adds conversations ongoing to make sure laws are ‘fit for purpose’ after neo-Nazi rallyBurke added that officials had “significant” powers under current law, but there were ongoing discussions following the neo-Nazi rally.As you’d expect, there are conversations that I’m having with my department to make sure that all the laws that we have are fit for purpose, not only with my department, but obviously the different intelligence and law enforcement and security agencies that are within my portfolio as well.You’re always reviewing because the nature of the attack and the nature of what people want to do to our social cohesion is always changing. Continue reading...",
+      "content_length": 884,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Stadt und Polizei einig - Weihnachtsmarkt in Magdeburg findet doch statt",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/genehmigung-weihnachtsmarkt-magdeburg-100.html",
+      "published": "2025-11-19T06:11:43",
+      "content": "   Der Magdeburger Weihnachtsmarkt kann nun doch wie geplant am Donnerstag öffnen. Zuvor war das Sicherheitskonzept bemängelt worden. Stadt und Veranstalter haben offenbar nachgebessert.[mehr]",
+      "content_length": 192,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Belgium and Spain qualify for World Cup as 4 European spots are still up for grabs",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251119-belgium-qualify-for-world-cup-as-4-european-spots-are-still-up-for-grabs",
+      "published": "2025-11-19T06:11:34",
+      "content": "Belgium and Spain have qualified for the 2026 World Cup. The 16 European nations that will compete in the playoffs have been decided.",
+      "content_length": 133,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "USA genehmigen Waffenlieferungen an die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-patriot-angriffe-100.html",
+      "published": "2025-11-19T06:07:15",
+      "content": "   Die Trump-Regierung verfolgt bislang eine wechselhafte Linie bezüglich Waffenlieferungen an die Ukraine. Nun stärkt sie die ukrainische Luftabwehr mit Zubehör für \"Patriot\"-Systeme. Unterdessen greift Russland weiter an.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tony Burke reviewing anti-hate laws and says South African neo-Nazi will not be allowed back into Australia",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/19/tony-burke-reviewing-anti-hate-laws-and-says-south-african-neo-nazi-will-not-be-allowed-back-into-australia",
+      "published": "2025-11-19T06:06:30",
+      "content": "Home affairs minister’s comments come as NSW moves to ban white supremacist chants after neo-Nazi protestFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Albanese government is reviewing anti-hate laws after a neo-Nazi protest in Sydney, with the New South Wales government also moving to ban white supremacist slogans and chants after police authorised the demonstration outside state parliament.The home affairs minister, Tony Burke, said a South African neo-Nazi whose visa was cancelled will not be allowed back into the Australian community, accusing members of the National Socialist Network of seeking to cloak their “bigotry in patriotism”. Continue reading...",
+      "content_length": 736,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Dangerous nostalgia’: did Spain’s ‘pact of forgetting’ after Franco leave new generation open to far right?",
+      "link": "https://www.theguardian.com/world/2025/nov/19/franco-continues-to-haunt-and-divide-spain",
+      "published": "2025-11-19T06:00:08",
+      "content": "Events to mark the 50th anniversary of dictator’s death are intended to remind Spaniards, particularly the young, of the dangers of fascismMingorrubio municipal cemetery, which sits where the suburbs of north-west Madrid fade out into the countryside, must have been something of a comedown for a man who was originally laid to rest with a 150-metre-high cross for a headstone and four enormous bronze archangels to watch over him.But six years after his remains were disinterred from the grotesque splendour of the Valley of the Fallen and flown by helicopter to Mingorrubio for reburial, Francisco Franco is at least in good company. Continue reading...",
+      "content_length": 655,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Heat-pump homes put less strain on grid than expected, study shows",
+      "link": "https://www.theguardian.com/environment/2025/nov/19/heat-pump-homes-put-less-strain-on-grid-than-expected-study-shows",
+      "published": "2025-11-19T06:00:07",
+      "content": "Analysis of new-builds in Birmingham suggests all-electric homes not only use less energy but vary in peak usageSome of the first homes in the UK designed to meet new building standards put less pressure on the electricity grid than expected, a study has found.The all-electric properties in Handsworth, Birmingham, have heat pumps, which use electricity to provide heat rather than oil or gas. Continue reading...",
+      "content_length": 414,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support",
+      "link": "https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave",
+      "published": "2025-11-19T06:00:00",
+      "content": "\n\n\n\t\n\tThe MS605 has an articulated installation plate allowing the angle of the sensor to be adjusted. | Image: Meross\t\n\nMeross has announced a new version of its MS600 presence sensor that’s now battery-powered, so installation isn’t limited to places where you can camouflage a power cord.&nbsp;\n\nA single CR123A battery powers the new MS605 presence sensor for up to three years. Battery life may be reduced in high-traffic areas if the sensor is activated more frequently. It’s available for preorder now through Meross’ online store and discounted to $34.99 for a limited time.\n\nThe switch to battery power is made possible by another new feature: support for Matter over the low-power Thread protocol. The MS605’s year-old predecessor was also Matter-compatible, but over Wi-Fi. You’ll need to make sure you have a Thread-capable hub somewhere in your home to use the MS605 with Google Home, Apple Home, or Alexa, but it doesn’t have to be a Meross hub.\n\nThe MS605 has a similar design to the older MS600 and carries forward its articulated mounting plate, allowing the sensor to be angled up to 90 degrees and rotated 360 degrees. It’s been upgraded with an IP67 waterproof rating so it can now be used outdoors. It also offers the same combination of light, passive infrared (PIR), and 24GHz mmWave radar sensors used to detect people in motion or standing still, and to differentiate inanimate moving objects, like a window curtain, from humans. The only real downside to the battery is that the MS605’s range has been reduced to 6 meters (from 12) for motion and 4 meters (from 6) for presence detection.",
+      "content_length": 1614,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "AfD-Politiker in Russland: Von Zurückhaltung keine Spur",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-russlandreisen-102.html",
+      "published": "2025-11-19T05:39:23",
+      "content": "   Kein Social Media und Zurückhaltung bei Interviews: AfD-Chefin Weidel hatte dem Abgeordneten Kotré strenge Regeln für seine Russland-Reise auferlegt. Doch es kam anders. Wird das Konsequenzen haben? Von Gabor Halasz.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Valvoline, bourbon and a touching tribute from Russell Crowe: radio star John Laws farewelled at state funeral",
+      "link": "https://www.theguardian.com/media/2025/nov/19/john-laws-state-funeral-tribute-from-russell-crowe-for-radio-star",
+      "published": "2025-11-19T05:27:00",
+      "content": "John Howard, billionaire Lindsay Fox and Dawn Fraser among mourners at service for broadcaster known as ‘the Golden Tonsils’Sign up for Guardian Australia’s free weekly media newsletter hereIt was left to Russell Crowe, the Academy Award-winning actor and John Laws’ good mate and neighbour, to bring a touch of irreverence to the traditional state funeral held in the broadcaster’s honour on Wednesday.In the rarefied atmosphere of Sydney’s St Andrews Cathedral, Crowe traversed Laws’ unmistakable talent and loyalty, but also his political views and his role in the 1999 cash-for-comment scandal.Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
+      "content_length": 693,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hugh Marks decries ‘opportunistic’ attacks on the ABC – but concedes broadcaster blew it with Bluey",
+      "link": "https://www.theguardian.com/media/2025/nov/19/hugh-marks-decries-opportunistic-attacks-on-the-abc-but-concedes-broadcaster-blew-it-with-bluey",
+      "published": "2025-11-19T05:24:07",
+      "content": "ABC managing director tells National Press Club comparisons between BBC program edit and Four Corners episode are not legitimateFollow our Australia news live blog for latest updatesSign up for Guardian Australia’s free weekly media newsletter hereThe ABC managing director, Hugh Marks, has criticised attacks on the ABC as “opportunistic” as it faces accusations its Four Corners program distorted a speech by Donald Trump on 6 January 2021, but he said there are lessons to learn from the BBC’s error.The ABC has faced pressure from Sky News Australia and The Australian who have called the treatment of the speech in a Four Corners episode an “almost identical act of deception” as the edit of a BBC program which led to multiple high-level resignations at the British public broadcaster.Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
+      "content_length": 886,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Launch of East West Rail services to be delayed in row over guards on trains",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/19/launch-east-west-rail-services-delayed-row-guards-trains",
+      "published": "2025-11-19T05:00:08",
+      "content": "Trains between Oxford and Milton Keynes put back to 2026 partly due to dispute, Chiltern Railways saysThe start of passenger services on the new East West Rail line will be delayed until at least 2026 with no start date confirmed, the operator has said, partly due to a row over guards on the trains.Passenger trains were supposed to come into service between Oxford and Milton Keynes this autumn, the first stage on the new railway along the Oxford-Cambridge arc where the government hopes for rapid economic growth. Continue reading...",
+      "content_length": 537,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Curacao becomes smallest ever country to qualify for football World Cup",
+      "link": "https://www.france24.com/en/live-news/20251119-curacao-seal-world-cup-fairytale-as-haiti-panama-qualify",
+      "published": "2025-11-19T03:47:12",
+      "content": "Curacao on Tuesday became the smallest ever country to qualify for the football World Cup after a 0-0 draw with Jamaica earned the tiny Caribbean nation enough points to squeeze into next year's finals. The 2026 tournament will be held in the United States, Canada and Mexico.",
+      "content_length": 276,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A Klimt portrait is now the second most expensive artwork ever auctioned",
+      "link": "https://www.france24.com/en/culture/20251119-klimt-portrait-is-second-most-expensive-artwork-ever-auctioned",
+      "published": "2025-11-19T03:33:23",
+      "content": "A rare full-length portrait by Austrian painter Gustav Klimt sold for $236.4 million in New York on Tuesday, becoming the second most expensive artwork ever auctioned. The fiercely contested sale underscores surging demand for museum-calibre pieces as Sotheby’s prepares to offer a major Frida Kahlo work later this week.",
+      "content_length": 321,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Äußerung zu Belém: Wie Merz die Brasilianer brüskiert",
+      "link": "https://www.tagesschau.de/ausland/amerika/merz-brasilien-kommentar-100.html",
+      "published": "2025-11-19T03:32:38",
+      "content": "   Alle seien \"froh\" über die Abreise aus Belém, sagte der Kanzler nach seinem kurzen Aufenthalt am Austragungsort der Klimakonferenz in Brasilien. Präsident Lula nahm die Äußerung mit Humor, dennoch sind die Brasilianer brüskiert. Von A. Herrberg.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump remarks fuel US political storm over Nigerian schoolgirl abductions",
+      "link": "https://www.france24.com/en/africa/20251119-trump-nigerian-schoolgirl-abductions",
+      "published": "2025-11-19T03:20:42",
+      "content": "Nigeria’s new army chief has ordered troops to fight “day and night” to recover 25 schoolgirls abducted in a deadly raid in Kebbi State, an attack that has become entangled in rising US political tensions after claims from President Donald Trump and his allies about the persecution of Christians in the region.",
+      "content_length": 311,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Änderungen bei Unterstützung für Ukrainer im Bundeskabinett",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ukraine-gefluechtete-buergergeld-100.html",
+      "published": "2025-11-19T03:14:26",
+      "content": "   Asylbewerberleistungen statt Bürgergeld und neue Zuständigkeiten: Die Bundesregierung will heute Änderungen für Geflüchtete aus der Ukraine beschließen. Der Staat wird dadurch wohl nichts einsparen. Von Birthe Sönnichsen.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
+      "link": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem",
+      "published": "2025-11-19T02:25:59",
+      "content": "\n\n\n\t\n\t\t\n\nA blog post published Tuesday night by Cloudflare co-founder and CEO Matthew Prince has details on what caused its “worst outage since 2019,” pinning the issue to a problem in the Bot Management system that is supposed to control which automated crawlers are allowed to scan particular websites using its CDN. \n\nCloudflare said last year that about 20 percent of the web runs through its network, which is supposed to share the load to keep websites online in the face of traffic spikes and DDoS attacks. But today’s crash disconnected many of them, knocking out everything from X to ChatGPT to the well-known outage tracker Downdetector for several hours and resembling recent outages caused by problems with Microsoft Azure and Amazon Web Services.\n\nCloudflare’s bot controls are supposed to help deal with problems like crawlers scraping information to train generative AI. It also recently announced a system that uses Generative AI to build the “AI Labyrinth, a new mitigation approach that uses AI-generated content to slow down, confuse, and waste the resources of AI Crawlers and other bots that don’t respect ‘no crawl’ directives.” \n\nHowever, it says the problems today were due to changes to the permissions system of a database, not the generative AI tech, not DNS, and not what Cloudflare initially suspected, a cyber attack or malicious activity like a “hyper-scale DDoS attack.” \n\nAccording to Prince, the machine learning model behind Bot Management that generates bot scores for the requests that travel over its network has a frequently updated configuration file that helps ID automated requests; however, “A change in our underlying ClickHouse query behaviour that generates this file caused it to have a large number of duplicate ‘feature’ rows.”\n\nThere’s more detail in the post about what happened next, but the query change caused its ClickHouse database to generate duplicates of information. As the configuration file rapidly grew to exceed preset memory limits, it took down “the core proxy system that handles traffic processing for our customers, for any traffic that depended on the bots module.” \n\nAs a result, companies that used Cloudflare’s rules to block certain bots returned false positives and cut off real traffic, while Cloudflare customers who didn’t use the generated bot score in their rules remained online. \n\nFor now, it lists four specific plans to keep this kind of problem from happening again, even if the growing centralization of internet services may make these outages inevitable:\n\n\nHardening ingestion of Cloudflare-generated configuration files in the same way we would for user-generated input\n\n\n\nEnabling more global kill switches for features\n\n\n\nEliminating the ability for core dumps or other error reports to overwhelm system resources\n\n\n\nReviewing failure modes for error conditions across all core proxy modules\n",
+      "content_length": 2883,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Senate agrees to automatically pass bill to release Epstein files as Trump claims to not care – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/18/house-vote-jeffrey-epstein-files-donald-trump-republicans-democrats-us-politics-live-news",
+      "published": "2025-11-19T02:25:40",
+      "content": "This blog has now closed.Senate agrees to pass Epstein files bill after near-unanimous House voteHow did your representative vote on releasing the Epstein files?The Harvard professor and economist Larry Summers said he would be stepping back from public life after documents released by the House oversight committee revealed email exchanges between Summers and the convicted sex offender Jeffrey Epstein, who called himself Summers’ “wing man”.Politico reported on Monday that Summers, a former treasury secretary, expressed deep regret for past messages with Epstein. Continue reading...",
+      "content_length": 589,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "WHO to lose nearly a quarter of its workforce – 2,000 jobs – due to US withdrawing funding",
+      "link": "https://www.theguardian.com/world/2025/nov/19/world-health-organisation-to-cut-jobs-due-to-us-withdrawing-funding",
+      "published": "2025-11-19T02:06:09",
+      "content": "Donald Trump’s administration withdrew from the World Health Organization in January, prompting the agency to scale back its workThe World Health Organization has said its workforce will shrink by nearly a quarter – or over 2,000 jobs – by the middle of next year as it seeks to implement reforms after its top donor, the United States, announced its departure.US President Donald Trump’s administration withdrew from the body upon taking office in January, prompting the agency to scale back its work and cut its management team by half. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UN to hear human rights complaint over New Zealand’s treatment of Māori",
+      "link": "https://www.theguardian.com/world/2025/nov/19/un-to-hear-human-rights-complaint-over-new-zealands-treatment-of-maori",
+      "published": "2025-11-19T02:00:17",
+      "content": "UN committee to consider claim by prominent Māori leader Tureiti Moxon that alleges government policies have harmed Indigenous people The United Nations has agreed to hear an urgent complaint against New Zealand’s coalition government alleging it is responsible for significant and persistent discrimination against Māori.Prominent Māori leader, Lady Tureiti Moxon, has filed the complaint to the UN’s committee for the convention on the elimination of all forms of racial discrimination (CERD). Continue reading...",
+      "content_length": 515,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Singer D4vd reportedly identified as suspect in death of teen found in Tesla",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/d4vd-teen-death-tesla",
+      "published": "2025-11-19T02:00:12",
+      "content": "LAPD sources tell NBC4 singer has not been cooperative with investigation into death of Celeste Rivas, 15The singer D4vd has been identified as a suspect in the death of Celeste Rivas, a teenager who went missing and was found dead in the singer’s Tesla in September, Los Angeles police department sources told NBC4 Investigates.The decomposed body of Rivas, 15, was found on 8 September in the front trunk of a black Tesla registered to D4vd, whose real name is David Anthony Burke. The car had been ticketed in a Hollywood Hills neighborhood and then impounded in a tow yard in Los Angeles. Continue reading...",
+      "content_length": 612,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "13 Tote bei israelischem Angriff auf mutmaßlichen Hamas-Stützpunkt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriff-libanon-108.html",
+      "published": "2025-11-19T01:58:36",
+      "content": "   Die islamistische Hamas soll nach israelischen Angaben vom Libanon aus einen Angriff geplant haben. Die Armee nahm ein mutmaßliches Ausbildungszentrum ins Visier - dabei wurden laut libanesischen Behörden 13 Menschen getötet. [mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gustav Klimt portrait sells for $236.4m, making it the second most expensive artwork ever sold at auction",
+      "link": "https://www.theguardian.com/artanddesign/2025/nov/19/gustav-klimt-portrait-sells-for-2364m-making-it-the-second-most-expensive-artwork-sold-at-auction",
+      "published": "2025-11-19T01:50:26",
+      "content": "Portrait of Elisabeth Lederer, which was looted by the Nazis and nearly destroyed in a fire during the second world war, sells at Sotheby’s auctionA painting by Gustav Klimt has sold for a record-breaking $236.4m (£179.7m, A$364m) with fees, making it the second most expensive artwork ever sold at auction and the most expensive work of modern art sold at auction.The six-foot-tall painting, titled Portrait of Elisabeth Lederer, was painted by the Austrian painter between 1914 and 1916 and shows Lederer, a young heiress and daughter of Klimt’s patrons, draped in a Chinese robe. Continue reading...",
+      "content_length": 602,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Senate agrees to pass Epstein files bill after near-unanimous House vote",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/house-vote-epstein-documents",
+      "published": "2025-11-19T01:27:01",
+      "content": "Legislation would next go to Trump who indicated he would sign bill after he and his allies backed down from oppositionUS politics live – latest updatesThe Senate on Tuesday moved swiftly to approve legislation that would force the release of investigative files related to the late pedophile Jeffrey Epstein, hours after a near-unanimous vote in the US House, nearly wrapping up a bipartisan effort Donald Trump had fought for months.By unanimous consent, the Senate agreed to pass the measure as soon as it arrived in the chamber from the House, which had overwhelmingly approved the bill earlier on Tuesday in a 427-1 tally. Once the legislation is forwarded to the Senate, it will be automatically approved and cleared for Trump’s signature. The president, who dropped his opposition after it was clear it would pass, has said he would sign it. Continue reading...",
+      "content_length": 868,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Mexico’s president rejects Trump’s suggestion of US strikes on cartel targets",
+      "link": "https://www.france24.com/en/americas/20251119-mexico-president-rejects-trump-usa-cartel-strikes",
+      "published": "2025-11-19T01:03:49",
+      "content": "Mexico’s President Claudia Sheinbaum on Tuesday firmly ruled out allowing any US military strikes on Mexican soil, after President Donald Trump said he would support such action to curb drug trafficking. She reiterated that Mexico will co-operate on intelligence but will not permit foreign intervention.",
+      "content_length": 304,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Khashoggi-Mord: Trump erklärt bin Salman bei Besuch für unschuldig",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bin-salman-110.html",
+      "published": "2025-11-19T00:38:38",
+      "content": "   Erstmals seit der Ermordung des saudischen Journalisten Khashoggi ist Kronprinz bin Salman im Weißen Haus empfangen worden. Präsident Trump hält ihn in dem Fall für unschuldig - und stellt sich damit gegen US-Geheimdiensterkenntnisse.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Freigabe der Epstein-Akten: Nun fehlt nur noch Trumps Unterschrift",
+      "link": "https://www.tagesschau.de/ausland/amerika/kongress-epstein-akten-100.html",
+      "published": "2025-11-19T00:33:57",
+      "content": "   Nach dem Repräsentantenhaus winkt auch der US-Senat das Gesetz zur Freigabe der Epstein-Akten im Eiltempo durch. Nun fehlt nur noch die Unterschrift des Präsidenten. Aber können dadurch alle offenen Fragen beantwortet werden? Von S. Jackisch.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump calls for single federal standard to govern AI",
+      "link": "https://www.france24.com/en/americas/20251119-trump-federal-standard-govern-artificial-intelligence",
+      "published": "2025-11-19T00:21:00",
+      "content": "US President Donald Trump on Tuesday urged Congress to establish a single nationwide standard for regulating artificial intelligence, warning that a patchwork of state rules would stifle growth and imperil the US's ability to compete with China in the rapidly advancing field.",
+      "content_length": 276,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best Android phones",
+      "link": "https://www.theverge.com/23674658/best-android-phone",
+      "published": "2025-11-19T00:08:49",
+      "content": "\n\n\n\t\n\t\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nThe Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine.\n\nOn the flip side, all that choice can make for some hard decisions. Here’s where I’d like to help; I’ve tested a whole boatload of recent Android phones, and I think there are some real winners in the current batch. It’s all a matter of what you’re looking for, what you’re comfortable spending, and what your definition of a “reasonably sized phone” is. (I have my own, personally.)\n\nAs you sift through the options, you’ll almost certainly come across tech’s favorite buzzphrase of the moment: AI. Generally speaking, AI has yet to really impress me on a phone. The Pixel 10 series has some useful features, including Magic Cue, which proactively aims to surface relevant information when you need it, and Galaxy devices can translate a phone call for you in real time. These things are nothing to sneeze at! But none of it feels like the platform shift that the big tech companies keep promising. Best not to put too much stock in any company’s AI claims just yet.\n\n\n\nIf you live in the US, I have some bad news about the Android market, though. For complicated reasons having to do with “capitalism” and “geopolitics,” we don’t get nearly as many of the options as you’ll find in Asia and Europe — brands like Huawei, Xiaomi, Honor, and Oppo just aren’t available here. I’ve limited this guide to the devices I’ve personally tested in depth; thus, it is a fairly US-centric set of recommendations.&nbsp;\n\nWith that in mind, it’s also worth acknowledging that most people in the US get their phones “for free” from their wireless carrier. If you can manage it, buying a phone unlocked will give you the most flexibility and freedom if you end up wanting to change carriers in the near future. Phone manufacturers also offer financing and trade-in deals to make payment more manageable. But if you’re happy with your carrier and the free phone on offer is the one you really want, by all means, take the free phone. Just make sure you understand the terms, especially if you need to change plans to cash in on the deal.&nbsp;\n\nHowever you go about it, you have some fantastic options for your next Android phone.\n\nThe best Android phone overall\nGoogle Pixel 10\nGoogle&#8217;s Pixel 10 has a 6.3-inch OLED display, Google Tensor G5 processor, 12GB of RAM, support for Pixelsnap wireless charging, and a triple-lens camera system that includes a new 5x telephoto.\n\nScore: 8ProsConsQi2 wireless charging with magnets is greatAI is actually kind of useful, finallyTelephoto camera is a nice additionMain and ultrawide cameras aren’t quite as good as the ProBattery life is just okay\nWhere to Buy: $799 $778 at Amazon (128GB) $799 at Best Buy (128GB) $799 at Google (128GB)\nScreen: 6.3-inch, 1080p 120Hz OLED / Processor: Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 13-megapixel f/2.2 ultrawide; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel selfie / Battery: 4,970mAh / Charging: 30W wired, 15W wireless (Qi2) / Weather resistance: IP68\n\nThe Pixel 10 is Google’s latest take on the “just right” Android phone that introduces a few notable upgrades. For $799, you get a sharp 6.3-inch OLED screen, the same Tensor G5 chip found in the pricier Pro version, and Qi2 wireless charging with built-in magnets, no case required. The device is built to handle the day-to-day without a fuss, and the whole thing feels straightforward instead of flashy.\n\nThis year, the Pixel 10 also adds a dedicated telephoto lens, a first for the non-Pro. Unfortunately, the main and ultrawide cameras are a step down from last year’s model. If you’re not scrutinizing every pixel or chasing low-light portraits, you’ll probably never notice. For regular photos, the Pixel 10 is great; it produces clean shots, solid performance, and enough versatility for the average user.\n\nWhat really sets the Pixel 10 apart, though, is how easy it is to use. AI features like Magic Cue are useful, proactively providing info without getting in the way. For example, it can surface a restaurant’s address or reservation details from your search history or confirmation email as you finalize plans over text. The phone runs cooler than previous versions and handles heavier workloads well, and it shrugs off dust and water. If you want an Android smartphone that doesn’t overcomplicate things, the Pixel 10 is an easy recommendation.\n\nRead our full Pixel 10 review.\n\nThe best maximalist phone\nSamsung Galaxy S25 Ultra\n\nScore: 8ProsConsExcellent screenImproved ultrawide cameraRounded corners are comfierExpensiveBulkyAI is (still) hit or miss\nWhere to Buy: $1299.99 $949.99 at Amazon (256GB) $1299.99 $949.99 at Best Buy (256GB) $1419.99 $1057.91 at Amazon (512GB)\nScreen:&nbsp;6.9-inch 1440p 120Hz OLED /&nbsp;Processor:&nbsp;Qualcomm Snapdragon 8 Elite /&nbsp;Cameras:&nbsp;200-megapixel main with OIS, 50-megapixel 5x telephoto with OIS, 10-megapixel 3x telephoto with OIS, 50-megapixel ultrawide, 12-megapixel selfie /&nbsp;Battery:&nbsp;5,000mAh /&nbsp;Charging:&nbsp;45W wired, 15W wireless (Qi2 Ready) /&nbsp;Weather resistance:&nbsp;IP68\n\nThere’s still no phone quite like the Ultra. The Galaxy S25 Ultra is Samsung’s latest answer to the question, “What if your phone had all of the features?” It’s equipped with two telephoto cameras, a built-in stylus, and a big, bright screen. Good luck finding that combination in another phone. Related: this is one of the most expensive slab-style phones you can buy.\n\nThe newest edition of the Ultra comes with rounded corners and flat edges, making it more comfortable in your hand. But if you’re looking for significant year-over-year improvements to the Ultra formula outside of that, well, you won’t find much. Samsung’s focus has been on software features, which is to say AI features. But AI on Galaxy phones remains a mixed bag — it’s certainly not the paradigm shift Samsung wants us to think the S25 series represents.\n\nAll of that puts the Ultra in a place of slightly less distinction than previous versions. The biggest updates are software features available to the rest of the S25 series. The Ultra looks and feels more like other Galaxy phones this time around, too. More than ever, it’s hard to understand what Samsung means when it calls this phone “Ultra.” Still, it’s your best choice for a feature-packed Android phone — even if it’s not quite as ultra as it once was.\n\nRead my full Galaxy S25 Ultra review.\n\nThe best Android phone that isn’t huge\nSamsung Galaxy S25\n\nScore: 8ProsConsThe last reasonably sized Android phoneSeven years of OS upgradesVery good cameraSamsung software is as cluttered as usualAI is still a mixed bag\nWhere to Buy: $799.99 $674.99 at Amazon (128GB) $799.99 $674.99 at Best Buy (128GB) $799.99 $674.99 at Samsung (128GB)\nScreen: 6.2-inch 1080p 120Hz OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 50-megapixel main with OIS, 12-megapixel ultrawide, 10-megapixel 3x telephoto with OIS, 12-megapixel selfie / Battery: 4,000mAh / Charging: 25W wired, 15W wireless (Qi2 Ready) / Weather-resistance rating: IP68\n\nMost people like a big phone, and I get that. I do. If you want a big Android phone, you have plenty of options in front of you. But some of us like a smaller phone — something that (kind of) fits in your pocket, or feels more comfortable in your hand. For us, there is but one option on Android: the Samsung Galaxy S25.\n\nThat’s the regular S25, not the Plus, which is a fine big phone. But the standard S25 is basically the last of its kind: a full-featured phone with a 6.2-inch screen. It’s not small, but it’s not huge, and we’ll have to take what we can get. And it’s a darn good phone that keeps up with the bigger devices in all the important ways: the battery goes all day, it comes with plenty of RAM, and it even has a real telephoto lens — not something you get on a basic, 6.1-inch phone on, say, iOS.\n\nThe Galaxy S25 isn’t just a good, small-ish phone by default. It’s reliable, durable, and comes with the promise of seven years of OS updates. It’s not my pick for the overall best Android phone because Samsung software can be a bit much, but if you’re comfortable in the Samsung ecosystem and you just want a phone that fits in your dang pocket, then this is the one to go with.\n\nRead my full Galaxy S25 review.\n\nThe best lightweight big phone\nSamsung Galaxy S25 Edge\n\nScore: 8ProsConsLike a regular phone, but slimSurprisingly lightweightBattery life isn’t as bad as I fearedNo telephoto cameraBattery life not as strong as a standard phone\nWhere to Buy: $1099.99 $699.99 at Best Buy (256GB) $1219.99 $819.99 at Amazon (512GB) $1099.99 at Samsung (256GB)\nScreen: 6.7-inch 1440p 120Hz LTPO OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 200-megapixel f/1.7 main camera with OIS, 12-megapixel f/2.2 ultrawide, 12-megapixel f/2.2 selfie / Battery: 3,900mAh / Charging: 25W wired, 15W wireless (Qi2 Ready)&nbsp;/ Weather-resistance rating: IP68\n\nBig phones have a tendency to, well, look and feel big. The Samsung Galaxy S25 Edge, on the other hand, is different. Thanks to its slim, lightweight design, the device provides a welcome reprieve from the countless chunky, heavy alternatives. It’s thinner and lighter than the Galaxy S25 Plus, making it the big phone you can actually slide into your pocket or evening bag without it protruding out.\n\nSo, what’s the catch? The S25 Edge’s battery life is fine. Not great, not terrible, but somewhere straight down the middle. To be fair, it held up admirably during a particularly strenuous workday, one complete with hours of screen time, mobile hotspotting, and live blogging, making it to bedtime with battery to spare. It also lacks a dedicated telephoto lens, though it does feature the same 200-megapixel main camera found in the S25 Ultra.\n\nEven with those compromises, the S25 Edge is a very capable phone that offers similar performance and durability to other devices in the S25 lineup. You’ll just have to be a little more aware of battery life as the day goes on; however, unless you’re frequently streaming video or playing graphics-intensive games throughout the day, the noticeably thinner, lighter design offers a nice change of pace.\n\nRead our Galaxy S25 Edge review.\n\nThe best phone if you hate waiting for your phone to charge\nOnePlus 13\n\nScore: 8ProsConsExcellent battery lifeSix years of security updatesStrong IP rating for dust and water resistanceBig phone is bigNot as many OS updates as Google and Samsung offer\nWhere to Buy: $899.99 at Amazon (12GB RAM / 256GB ROM) $999.99 $899.99 at Amazon (16GB RAM / 512GB ROM) $999.99 $899.99 at Best Buy (16GB RAM / 512GB ROM)\nScreen: 6.82-inch 1440p 120Hz LTPO OLED / Processor: Snapdragon 8 Elite / Cameras: 50-megapixel f/1.6 main with OIS, 50-megapixel 3x telephoto with OIS, 50-megapixel f/2.0 ultrawide, 32-megapixel selfie / Battery: 6,000mAh / Charging: 80W wired, 50W wireless / Weather-resistance rating: IP68 and IP69\n\nThere are plenty of good reasons to consider the OnePlus 13. It has a big, beautiful screen, and costs a hundred bucks less than the Galaxy S25 Plus. Its dust and water resistance is so strong you could practically use the phone in a hurricane without consequences. And its camera system is much improved year over year, particularly when it comes to low-light portraiture. But there’s one standout reason to consider the 13: impatience.\n\nThe OnePlus 13 offers enough battery stamina to get through two days of moderate use on a single charge&nbsp;— and that’s with plenty of power-draining features enabled, including the always-on display. If you’re thriftier with your charge, it could even go beyond that. Forgot to charge overnight? No big deal; you can probably just charge it up on night two. Charging is also relatively fast, and in the US, the phone comes with an 80W wired charger in the box. So even if you do need a midday top-off, you’ll be able to get hours of charge in a matter of minutes. No other flagship phone offers that kind of charging (or not charging) flexibility.\n\nRead my full OnePlus 13 review.\n\nThe best foldable phone\nGoogle Pixel Pro 10 Fold\n\nScore: 8ProsConsFull dust resistance! On a foldable!Qi2 support with built-in magnetsHeavy and chunkyCameras aren’t as good as the other 10 Pro phones’Pricier than a regular phone\nWhere to Buy: $1799 $1699.99 at Best Buy (256GB) $1799 at Amazon (256GB) $1799 at Google (256GB)\nScreen:&nbsp;8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen /&nbsp;Processor:&nbsp;Google Tensor G5 /&nbsp;Cameras:&nbsp;48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera /&nbsp;Battery:&nbsp;5,015mAh /&nbsp;Charging:&nbsp;30W wired, 15W wireless (Qi2) /&nbsp;Weather resistance:&nbsp;IP68\n\nThe Pixel 10 Pro Fold’s brings better durability to a category that’s historically fragile. With an IP68 rating, the it’s the first foldable to offer full dust and water resistance. In real-world use, that means the device can take a tumble at the beach and remain relatively unscathed. Plus, you get the convenience of Qi2 support with built-in magnets for snap-on charging and accessories, including Google’s excellent magnetic ring stand. Performance is smooth, too, and the slightly wider outer display feels more like a standard slab-style phone.\n\nBattery life is also solid for a folding phone, lasting a full day with minimal use of the inner screen; however, spending more time multitasking on the larger display means the battery may be in the red by bedtime. While the 10 Pro Fold’s cameras are good, they lag behind Google’s other 10 Pro models. The foldable is also over 40g heavier than Samsung’s lightweight Galaxy Z Fold 7. If you’ve been avoiding foldables because of durability concerns, the 10 Pro Fold’s improved hinge design means exposure to dust and grains of sand doesn’t equal certain doom.\n\nRead our Pixel 10 Pro Fold review.\n\n\n\nOther Android phones worth considering\n\nThere are many more great Android devices that weren’t covered here, and a few are worth calling out that didn’t quite make the cut for a recommendation.\n\n\nThe OnePlus 13R is a midrange phone with a big 6.78-inch OLED display and enough battery life to carry you through two full days on a single charge. That said, the $599 handset lacks wireless charging and full water resistance, both of which can be found on other budget-friendly phones for less. Read our review.\n\n\n\nThe Google Pixel 9A comes with some small but important updates over the 8A, including more robust water resistance and a slightly bigger, brighter screen. Better yet, those improvements don’t come with a price bump. With seven years of OS updates included, that’s a strong ROI. Read our review.\n\n\n\nThe Nothing Phone 3 is billed by the brand as its “first true flagship phone,” with a $799 starting price that competes directly with the iPhone 17, Galaxy S25, and Pixel 10. It boasts a 6.67-inch OLED display, a generous 5,150mAh capacity battery, and a Snapdragon 8S Gen 4 chipset, which is on the lower end of the flagship spectrum. It also looks different from previous Nothing devices. Instead of the iconic light strips on the back that glow and flash, the Nothing 3 features a small dot-matrix LED display that can show pictures and icons. Read our review.\n\n\n\nThe Galaxy Z Flip 7 is Samsung’s other new foldable device. Unlike previous Flip series devices, the company’s latest flip phone ditches the file folder-shaped look for a 4.1-inch, edge-to-edge display that wraps around the cameras. The larger screen is a joy to use, making it much easier to quickly respond to texts and manage full apps. While the design is a big upgrade, the device still offers no protection against fine particles like dust or sand, raising concerns about how the device will hold up over time. Read our review.\n\n\n\nThe Pixel 9 Pro Fold remains a great option for anyone looking to jump into the foldable market. Like the Z Fold 7, it offers a more slab-style form factor when it’s closed and a spacious inner screen when it’s open. As great as it is, the 9 Pro Fold has a slightly downgraded camera system compared to other Pixel 9 devices. There’s also no formal dust resistance, so even a small amount of dust has the potential to cause significant damage to the hinge. Read our review.\n\n\n\nThe Pixel 10 Pro is Google’s most refined flagship yet, and a great showcase for the Android ecosystem. It features a premium design and big hardware upgrades over its predecessor, like a Tensor G5 chip and Qi2 wireless charging with built-in magnets. It also offers genuinely useful AI features, and the camera’s portrait mode is much improved over its predecessor. However, while the 10 Pro’s battery capacity is a bit larger this time around (4,870mAh versus 4,700mAh), the battery life is just okay. We’re also feeling uneasy about generative AI being inside the camera app. Read our review.\n\n\n\nThe Galaxy Z Fold 7 is a thin, lightweight foldable that feels like a regular phone when folded shut. It has a spacious inner display that’s great for multitasking and gaming, and its battery can last all day with moderate use. That said, the device has a starting price of $2,000 — $200 more than the Pixel 10 Pro Fold — though we’ve seen it drop as low as $1,599. It also has an IP48 rating, meaning it’s fully water-resistant but not completely immune to tiny specks of dust. Read our review.\n\n\n\nThe OnePlus 15 offers a number of major upgrades over its predecessor, including a 6.78-inch display with a speedy 165Hz refresh rate, an IP69K rating for dust and water resistance, and a triple camera array with an upgraded periscope lens. The most notable change on the $899 device is its massive, 7,300mAh silicon-carbon battery, which easily lasted two days during our testing. If you hate charging your phone, the OnePlus 15 is the one to get; however, due to the recent federal shutdown, we’re unsure when the device will be available in the US, even though it has launched elsewhere. Read our review.\n\n\nWhat’s coming next\n\n\nNow that we’re past all the major releases for the year, we’re in a bit of a lull. That said, we still may see Samsung’s rumored trifold device before 2025 is over, though we haven’t heard much since the summer. Either way, you have more options than ever to choose from right now, whether you’re upgrading your current device or you’re a first-time buyer. This time of the year is also typically a good time to find something on sale, with Black Friday and Cyber Monday being good dates to earmark if you’re on a budget.\n\n\nUpdate, November 18th: Updated pricing / availability and added a bullet for the OnePlus 15. Brandon Russell also contributed to this post.",
+      "content_length": 19151,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "EA will skip next year&#8217;s F1 game and release update DLC instead",
+      "link": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
+      "published": "2025-11-19T00:04:33",
+      "content": "\n\n\n\t\n\t\t\n\nEA has announced some big changes for the future of its F1 racing series. Next year, instead of a new game, the company will opt to release a paid expansion for F1 25 as part of “a strategic reset for the F1 Franchise,” EA says. The next full F1 game, a “reimagined” experience, will arrive in 2027.\n\nThe 2026 DLC for F1 25 is a “premium content update” that will “align with the sport’s major changes for the 2026 season, bringing fans new cars, sporting regulations, teams, and drivers,” according to EA’s press release. (F1 cars are in for some major changes next year that the DLC will presumably need to account for.) Timing and pricing for the expansion will be announced sometime in 2026.\n\nEA is vague on specific details about its plans for the 2027 game, but says it will be “a deeply authentic and innovative representation of the action and thrill of Formula 1, reimagined into a more expansive experience with new ways to play for fans around the world.” It’s described as “part of a multi-year strategic investment in the EA Sports F1 franchise, with support from both Formula One Management and the F1 teams.”\n\nApple is betting big on F1, too, signing a major multi-year deal to stream F1 races on Apple TV in the US starting next year.&nbsp;",
+      "content_length": 1265,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Coroners’ advice on maternal deaths in England and Wales routinely ignored, study finds",
+      "link": "https://www.theguardian.com/society/2025/nov/19/coroners-advice-on-maternal-deaths-in-england-and-wales-routinely-ignored-study-finds",
+      "published": "2025-11-19T00:01:01",
+      "content": "Nearly two-thirds of ‘prevention of future deaths’ reports by coroners are not acted upon, say researchers at King’s College LondonThe advice given by coroners in England and Wales to help prevent maternal deaths is not being acted upon, research suggests.Academics at King’s College London looked at prevention of future deaths (PFD) reports issued by coroners in cases of pregnant women and new mothers who died between 2013 and 2023. They found these reports were not being “systematically used nationally”. Continue reading...",
+      "content_length": 530,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Jeep Recon lives",
+      "link": "https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price",
+      "published": "2025-11-19T00:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt’s been over three years since we first caught glimpse of Jeep’s Wrangler-esque Recon EV, named after the automaker’s suspension-lifting package of off-roading options for its popular lineup of SUVs. Jeep originally pegged the Recon’s sales debut for 2023, but that obviously didn’t happen. And since then, there have been further delays, and even rumors that the Recon was DOA.\n\nSurprisingly, those rumors turned out to be false. The 2026 Jeep Recon is alive and well, and will go into production in early 2026, with initial launches planned for the US and Canada. Jeep says the Recon will churn out 650 horsepower, 620lb-ft of torque, and a modest range of 250 miles. And with a starting price of $66,995 (including destination charge), it will slot below the automaker’s brawnier, pricier Wagoneer S.\n\nBut will anyone shell out for an electric Wrangler facsimile that costs over double the price of a normal Wrangler? When it does go on sale, the Recon will likely confront a lot of the same headwinds as the Wagoneer S, and frankly the rest of Jeep’s lineup, which has been struggling to find buyers in recent years amid soaring costs and over-reliance on big, expensive SUVs. But Jeep thinks its due for a comeback — its recent sales quarter showed improving sales, while the rest of Stellantis was down — and that will include the all-electric Recon. \n\n\n\t\n\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\n“With the Jeep Recon, we’re proving that electrification isn’t just compatible with off-road excellence, it can elevate it, delivering instant torque, precision control and a quieter, more connected driving experience that’s uniquely Jeep,” CEO Bob Broderdorf said in a statement. \n\nNaturally, Jeep is leaning on off-roading to help make its sales pitch. When it comes out, the Recon will be the only EV in the automaker’s lineup to earn the Trail Rated badge, which is awarded to vehicles that pass rigorous tests around traction, water fording, maneuverability, articulation, and ground clearance. (Of course, Jeep only has two fully electric vehicles, so its not that big of a distinction.) The Recon will come with Jeep’s Selec-Terrain traction management system, as well as e-locker axle technology, under-body protection, tow hooks, and off-road tires.\n\nWhat about the battery, which sits low in the Recon’s floor? Will all that rock climbing or river fording damage the sensitive cells within? Not according to Jeep, which insists the 100kWh, 400-volt pack is throughly ensconced in a “full suite of sturdy, high-strength steel underbody shields.”\n\n\n\t\n\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\nThe Recon’s suspension includes a short-long arm up front and an integral link in the rear. On the standard 33-inch tires with the Moab trim, ground clearance is about 9.1 inches. And off-road specs feature 33.8-degree approach angle, 33.1-degree departure angle, and 23.3-degree breakover angle.\n\nLike all good Wranglers, the Recon will also allow for the doors and the quarter rear-windshield glass to be fully removed —&nbsp;“No tools required,” Jeep says. No other electric SUVs currently allow for removable doors, not even the Jeep-aping Scout Traveler and Terra EVs, so that could certainly help the Recon distinguish itself. (Slate Auto’s first electric truck could include removable doors if it ever goes into production.)\n\nThe Recon features front and rear 250kW electric drive modules (EDM), each of which is comprised of an electric motor, gearing, and power electronics to deliver standard four-by-four propulsion and instant torque on demand.  The front EDM uses an 11:1 final drive ratio in an open differential design, which Jeep claims will help the drive quality feel very balanced. And the front axle includes automatic disconnects at each wheel end to help “optimize energy use and range during typical on-road driving conditions when rear-drive propulsion is more efficient,” the company says. \n\n\n\t\n\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\n\nThat sense of customizability continues inside the Recon, where you’ll find modular door panels with removable elastic straps and interchangeable cargo configurations. The rear cargo space, with the second row folded, allows for 65.9 cubic-feet of space, while the frunk has a modest 3.0 cubic-feet, enough for a carry-on suitcase.\n\nThe 12.3-inch drive cluster is all-new to Jeep, as well as the 14.5-inch central touchscreen in landscape orientation, which the automaker says is “the largest singular usable digital screen space ever offered in a Jeep vehicle.” And while the heating and cooling functions are digitally controlled through the screen, there is a physical volume knob. Still, Jeep touts its “sleek, buttonless design” that it claims “blends futuristic aesthetics with practical usability.” The infotainment runs on Stellantis’ Uconnect 5 operating system, and includes exclusive apps like Jeep’s Trails Offroad, a guide to trails across the US and Canada, with pitch and roll mapping. \n\nOf course, the Recon was originally supposed to arrive in 2024 —&nbsp;and its a shame that Stellantis couldn’t hold to that schedule. It could have benefited from the $7,500 federal EV tax credit, which could have helped take some of the bite out of that sticker price. Still, its a minor miracle the Recon survived the shakeup at Stellantis, in which Carlos Tavares was replaced as CEO by Antonio Filosa, who headed Jeep under Tavares’ leadership. \n\nWhen I interviewed Filosa last year at the Wagoneer S launch, he claimed that Jeep would eventually produce a $25,000 electric Jeep. The Recon is not that, but it’s a step toward a future where a more affordable model could be possible. \n\n",
+      "content_length": 5615,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect)",
+      "link": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
+      "published": "2025-11-18T23:49:39",
+      "content": "\n\n\n\t\n\tApple’s handy location trackers are cheaper than ever right now.\t\n\nBlack Friday often brings the best Apple deals of the year, but not everyone wants to spend their Thanksgiving weekend shopping online (or in person). Thankfully, if you want to get a head start, you don’t have to wait. As is typical, the early Black Friday deals are already beginning to trickle in, including some of the best deals we’ve seen all year on Apple devices like the latest entry-level AirPods and new M5-powered MacBook Pro. Other Apple gadgets aren’t quite as steeply discounted, but some are discounted enough to be worth considering.\n\nIf you want to avoid the holiday rush, we’ve gathered the best Apple deals you can get in the run-up to the main event. We’ve also included recent price history and our expectations for Black Friday proper, so you can decide whether to make your purchase now or hold out for a potentially better deal.\n\n\n\n\n\n\nWhat to expect on Black FridayThe best wireless earbud and headphone dealsThe best Apple Watch dealsThe best iPad dealsThe best MacBook dealsAirTags and other miscellaneous deals\n\n\nWhat to expect on Black Friday\n\nAlthough we’re currently seeing a number of Apple products sitting at their lowest price to date, several of these deals could drop even lower as we get closer to Black Friday and Cyber Monday. Past deal history gives us a few clues about what to expect.&nbsp;\n\n\nApple Watches: Apple’s latest-gen Apple Watches often hit their best prices to date during Black Friday. Last year, for instance, the Series 10 dropped to $329, while the second-gen SE fell to a mere $149 in its entry-level configuration. We anticipate that some of the last-gen models will be heavily discounted come the 28th, especially as retailers aim to offload remaining stock.\n\n\n\nAirPods: Historically, the newest AirPods receive their most significant discounts around Black Friday and Cyber Monday, so it’s likely that we’ll see a deal on the newer AirPods Pro 3, which have only received a modest $10 discount thus far. Last-gen models like second-gen AirPods Pro with USB-C are also likely to receive steep discounts, though we don’t anticipate them dropping much further than their current low of $139. Current-gen models — including the AirPods 4 — could dip again, too, especially given they recently hit a new low of $84.99 ($45 off) before climbing back up.\n\n\n\niPads and MacBooks: New iPad models, including the new M5 iPad Pro, may dip a little further in price next week, especially since they’ve recently been hovering just above their lowest prices to date. Previous sales indicate the current-gen base iPad could drop to as low as $279 on Black Friday, which would match its best price to date. As for laptops, both the latest MacBook Air and MacBook Pro are already sitting at a record low price, so there’s no telling whether we’ll see additional discounts.\n\n\n\nAirTags: Last year, you could pick up an individual AirTag for $19 or a four-pack for $69.99. However, Apple’s location trackers are already available for less than that, and there’s no indication they will drop further in price, given many Black Friday promos have already kicked off.\n\n\nThe best wireless earbud and headphone deals\nApple AirPods Pro (second-gen) with USB-C\nThe second-gen AirPods Pro improve upon Apple’s original pair with better noise cancellation, improved sound quality, and onboard volume controls. They also now ship with a USB-C charging case, as opposed to Lightning. Read our original review.\n\nWhere to Buy: $249 $139 at Walmart $249.99 $189.99 at Best Buy\n\nThe cream-colored Beats Solo Buds are at Walmart for $39 ($40 off), which is the best price we’ve seen on the entry-level wireless earbuds to date. They lack noise cancellation but deliver balanced, clean sound and an impressive 18 hours of battery life. They also include four sets of ear tips and work well with both iOS and Android, though bear in mind you’ll need to drop them into the case and recharge them over USB-C. Read our hands-on impressions.\n\nApple EarPods (USB-C)\nApple’s wired earbuds are comfortable, offer great microphone quality for the price, and feature a built-in remote for controlling audio playback.\n\nWhere to Buy: $19 $16.99 at Amazon $19 $16.99 at Walmart\nThe best Apple Watch deals\nApple Watch Series 11 (42mm, GPS)\nAlthough the Apple Watch Series 11 is the same size as its predecessor, it features a 5G cellular modem, a display that’s twice as durable, and slightly improved battery life. Read our review.\n\nWhere to Buy: $399 $349.99 at Amazon $399 $349.99 at Walmart $399 at Best BuyApple Watch SE 3\nThe Apple Watch SE 3 offers some big upgrades over its predecessor, including an always-on display, allowing you to glance at the time or unread notifications. It also has Apple’s powerful S10 chip, which enables on-device Siri requests. Read our review.\n\nWhere to Buy: $249 $199.99 at Amazon (40mm, GPS) $279 $229.99 at Amazon (44mm, GPS) $249 $239 at Costco (40mm, GPS)\n\nThe 42mm Apple Watch Series 10 with GPS is on sale at Walmart starting at $249 ($150 off), which is its best price to date. While the Series 11 offers slightly longer battery life, a more efficient 5G modem, and a more scratch-resistant display, the Series 10 remains an excellent smartwatch. It features a large, wide-angle OLED display and the same S10 SiP chip found in the Series 11. It also supports FDA-cleared sleep apnea detection and offers the same hypertension notifications, courtesy of the recent watchOS 26 update. Read our review.\n\n\n\nYou can buy the 40mm Apple Watch SE (second-gen) with GPS&nbsp;at&nbsp;Amazon&nbsp;starting at $159.99 ($90 off), which is $10 shy of the all-time low we saw during Black Friday last year. If you’re on a tight budget, the last-gen Apple Watch SE is still worth considering. It lacks some of Apple’s newer sensors and doesn’t offer an always-on display, but it remains relatively fast, given that it uses the same chipset as the Apple Watch Series 8. It also provides all the essentials, including daily activity and sleep tracking, heart-rate monitoring, fall and crash detection, and access to the newer Vitals app in watchOS 26.\n\n\nThe best iPad deals\n11-inch iPad Pro (M5, 2025)\nApple’s newest iPad Pros have an M5 processor, an N1 chip, and a C1X chip for cellular versions. They’re faster, support Wi-Fi 7, charge more quickly, and start with 12GB of RAM. Read our review.\n\nWhere to Buy: $999 $927 at Amazon (256GB, Wi-Fi) $1199 $1150 at Amazon (512GB, Wi-Fi) $1599 $1516 at Amazon (1TB, Wi-Fi)\n\nThe latest 13-inch iPad Pro is also on sale at Amazon in its 256GB base configuration for $1,240 ($58 off), which is just $5 shy of its all-time low. If you need more storage, the 1TB model is down to $1,794 ($105 off) at Amazon, while the 2TB version is going for $2,164 ($135 off). The heavier 13-incher is nearly identical to the 11-inch model, but it offers more screen real estate and higher resolution.\n\n11-inch iPad Air M3\nThe latest 11-inch iPad Air features Apple’s fast M3 chip with GPU upgrades like dynamic caching for smoother performance in demanding apps. It also supports the Apple Pencil Pro and the newest Magic Keyboard, which features a larger build and a 14-key function row. Read our review.\n\nWhere to Buy: $599 $499.99 at Amazon (128GB, Wi-Fi) $599 at Best Buy (128GB, Wi-Fi)\n\nIf you want a larger display, the 13-inch version of the M3-powered iPad Air with 128GB of storage is also on sale at Amazon, where you can buy it for $699.99 ($100 off),  $50 shy of its record low price.\n\n13-inch iPad Pro M4\nThe last-gen iPad Pro comes in either an 11- or 13-inch configuration with Apple’s M4 processor. Both feature an OLED display and a thinner build than previous models, as well as horizontal placement for the front camera and support for the Apple Pencil Pro. Read our review.\n\nWhere to Buy: $1299 $1049.99 at Amazon (256GB, Wi-Fi) $1499 $1399 at Amazon (512GB, Wi-Fi) $1899 at Amazon (1TB, Wi-Fi)\n\nApple’s latest entry-level iPad is on sale at Amazon, Walmart, and Target with Wi-Fi and 128GB of storage starting at $299 ($50 off), which is $20 more than its best price to date. If you just need a tablet for play and light work, the latest iPad is a great choice. It offers twice the base storage of its predecessor and runs on Apple’s A16 Bionic chip, which provides it with enough oomph for most basic tasks. That said, it doesn’t support Apple Intelligence and works with fewer accessories than Apple’s higher-end tablets. Read our review.\n\n\nThe best MacBook deals\n13-inch MacBook Air (M4, 16GB RAM, 256GB SSD)\nPowered by the M4 chip, Apple’s latest 13-inch MacBook Air is faster than its predecessor and offers double the base RAM. It can also connect to two external displays with the lid open, unlike prior models, and features an improved 12-megapixel Center Stage webcam. Read our review.\n\nWhere to Buy: $999 $749.99 at Amazon $999 $749.99 at Costco $999 at AppleMacBook Pro 14-inch (M5, 2025)\nApple&#8217;s 14-inch M5 MacBook Pro takes everything we loved about the M4 model — including all-day battery life and a 12-megapixel webcam — and improves upon it with an M5 chip. It also offers faster storage and a 10-core CPU / 10-core GPU that’s up to 3.5x faster at AI tasks. Read our review.\n\nWhere to Buy: $1599 $1472 at Amazon (16GB RAM, 512GB SSD) $1799 $1648 at Amazon (16GB RAM, 1TB SSD) $1999 $1985 at Amazon (24GB RAM, 1TB SSD)\n\nThe last-gen 16-inch MacBook Pro is still a powerhouse even if it runs on the older M4 Pro chip, and right now you can buy it with 24GB of RAM and 512GB of storage $2,199 (about $300 off) at&nbsp;Amazon, which is just a few dollars shy of its all-time low. Compared to the 14-inch last-gen model, it adds faster Thunderbolt 5 ports and a sharper 12-megapixel Center Stage webcam. The new M5-powered MacBook Pros don’t yet come in a 16-inch size, so if you want a larger display, this is your best bet. Read our review of the 14-inch M4-powered MacBook Pro.\n\n\n\nIf you’re in the market for a desktop and don’t mind supplying your own keyboard and mouse, you can buy the M4 Mac Mini with an M4 processor, 16GB of RAM, and 256GB of storage for $499 ($100 off) at Amazon, which is one of its best prices to date. The desktop can handle everyday tasks with ease, along with some light gaming and 4K video editing. It can also run up to three displays simultaneously and offers a great port selection that includes three Thunderbolt 4 (USB4) ports, gigabit ethernet, HDMI, two 10Gbps USB-C (USB 3) ports, and a front-facing 3.5mm audio jack. Read our review.\n\n\nAirTags and other miscellaneous deals\nApple AirTag\nApple’s AirTags can help you find your lost items with their UWB technology. You’ll get the best compatibility with an iPhone, though Apple released an Android app to detect an AirTag’s location if one seems to be following you. Read our original review.\n\nWhere to Buy: $29 $17.97 at Amazon $29 $17.97 at Walmart $99 $64.98 at Amazon (four-pack)\n\nYou can buy the&nbsp;Apple Pencil Pro&nbsp;for $99 ($30 off) at&nbsp;Amazon, Walmart, and Target, which is $10 more than its record low price. If you own the latest iPad Pro, iPad Mini, or an M2- or M3-based iPad Air, this is a fantastic stylus that offers several features not found on the entry-level Apple Pencil with USB-C. In addition to wireless charging, you get Find My support, pressure sensitivity, and a “Barrel Roll” gyroscope that allows you to easily adjust the angle of your pen with a twist.\n\nAnker MagGo Qi2 Certified 15W Wireless Charger\nThe latest version of Anker’s magnetic MagGo charging pads supports 15W Qi2 and has a five-foot USB-C cable.\n\nWhere to Buy: $29.99 $19.99 at Amazon (without adapter, Prime only) $35.99 $23.99 at Amazon (with adapter, Prime only)\n",
+      "content_length": 11741,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Republicans are looking for a way to bring back the AI moratorium",
+      "link": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise",
+      "published": "2025-11-18T23:45:52",
+      "content": "\n\n\n\t\n\t\t\n\nHouse Republicans are looking to renew an effort to override state AI laws after a previous version came to a screeching halt earlier this year.\n\nHouse Majority Leader Steve Scalise (R-LA) told Punchbowl News he’s considering adding language to the National Defense Authorization Act (NDAA) effectively banning state AI regulations. Later on Tuesday, President Donald Trump posted on Truth Social urging Congress to standardize AI regulations. “We MUST have one Federal Standard instead of a patchwork of 50 State Regulatory Regimes,” he wrote. “If we don’t, then China will easily catch us in the AI race. Put it in the NDAA, or pass a separate Bill, and nobody will ever be able to compete with America.”\n\n\n\n\n\nTacking amendments onto the NDAA, which lawmakers consider a must-pass bill, is a common strategy to get legislation across the finish line at the end of the year. It’s not totally clear what the new language would look like considering 99 out of 100 senators ultimately turned against the version of a five-year moratorium on state AI laws that was put to a vote this summer.&nbsp;\n\nWhen the issue came up earlier this year, many lawmakers expressed concern about the initial 10-year term proposed for the moratorium, and the potential that language could be so broad as to cover&nbsp; a host of other tech regulations, including kids’ online safety laws. Both red and blue states have adopted AI-related laws that could be effectively nullified if Congress were to vote to preempt or pause them.\n\nProponents of the moratorium, including tech industry associations like NetChoice, argued that a complicated patchwork of state regulations for an early-stage industry like AI could hamper innovation and threaten US competitiveness with China. \n\nMore details on the NDAA’s language are expected before the Thanksgiving holiday, with a vote on track for December, according to Politico.",
+      "content_length": 1905,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Abstimmung über Akten: Warum der Fall Epstein Trump nicht loslässt",
+      "link": "https://www.tagesschau.de/epstein-akten-100.html",
+      "published": "2025-11-18T23:40:46",
+      "content": "   Lange hat US-Präsident Trump den Ruf nach einer Freigabe der Epstein-Akten als Ablenkungsmanöver abgetan. Nun hat er doch eingewilligt. Worum also geht es im Fall Epstein?[mehr]",
+      "content_length": 180,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NATO-Botschafter der USA: \"Die Russen zeigen keine Verhandlungsbereitschaft\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/nato-whitaker-100.html",
+      "published": "2025-11-18T23:22:59",
+      "content": "   Der US-Botschafter bei der NATO, Whitaker, sieht die Verantwortung zur Beendigung des Kriegs in der Ukraine bei Russland und kündigt in den tagesthemen mögliche neue US-Sanktionen an. Aber er nimmt vor allem Europa in die Pflicht.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cloudflare shows internet outages aren’t a matter of if — but when",
+      "link": "https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites",
+      "published": "2025-11-18T22:58:59",
+      "content": "\n\n\n\t\n\t\t\n\nCloudflare has become the latest web infrastructure giant to collapse in the span of a month, replacing entire sites, including X, ChatGPT, Spotify, Canva, and even the outage-tracking DownDetector, with an error message for hours this morning. It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance monitoring platform Catchpoint, says should be a \"wake-up call\" for companies.\n\"Everybody's putting all their eggs in one basket, and then they're surprised when there is a problem,\" Daoudi says. \"It's on the company's side to make sure that they have redundancy and resiliency.\"\nThe outage comes  …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "British woman among four tourists killed in blizzard at nature reserve in Chile",
+      "link": "https://www.theguardian.com/world/2025/nov/18/british-woman-among-four-tourists-killed-in-blizzard-at-nature-reserve-in-chile",
+      "published": "2025-11-18T22:53:36",
+      "content": "Four people also rescued alive at popular Torres del Paine reserve in Patagonia amid heavy snowfall and strong winds A British woman and four other foreign tourists have been killed in a blizzard at a nature reserve in southern Chile.Nine people went missing on Monday in the Torres del Paine reserve in Patagonia, a popular tourist destination, amid heavy snowfall and winds reaching up to 120mph. Continue reading...",
+      "content_length": 418,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Court strikes down Texas map in setback for Trump over racial gerrymandering",
+      "link": "https://www.france24.com/en/americas/20251118-texas-racial-gerrymandering-map-trump",
+      "published": "2025-11-18T22:42:29",
+      "content": "A US district court on Tuesday struck down a Texas congressional map drawn by Republicans to secure five additional House seats, dealing a setback to President Donald Trump. The judges ruled that the map amounted to unlawful racial gerrymandering and cannot be used in the 2026 midterm elections.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+      "link": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
+      "published": "2025-11-18T22:42:07",
+      "content": "Congressional Republicans angered local government leaders with a plan for what local groups call an “unprecedented federal intrusion” into how municipalities issue permits for construction of broadband networks. The Republican plan drew rave reviews from cable lobby groups, however.\nA House subcommittee moved ahead with the plan today despite the opposition from local leaders and criticism from Congressional Democrats. Under the bills, some kinds of local telecom projects would be approved automatically if a city or town doesn’t rule within a deadline set by Congress.\n“These bills represent an unprecedented federal intrusion into established local decision-making processes, favoring large broadband, telecommunications, wireless, and cable companies at the expense of residents and taxpayers,” four groups representing local leaders wrote in a letter to US lawmakers. “These bills strip local governments of the ability to effectively manage the infrastructure built on local streets and in neighborhoods, while imposing no reciprocal obligations on providers.”Read full article\nComments",
+      "content_length": 1097,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "French court rejects Perrier \"natural water\" lawsuit against Neslé",
+      "link": "https://www.france24.com/en/tv-shows/business/20251118-french-court-rejects-perrier-natural-water-lawsuit-against-nesl%C3%A9",
+      "published": "2025-11-18T22:40:57",
+      "content": "A French court has rejected a demand by a consumer protection group to remove Perrier water bottles from markets over its \"natural mineral water\" labelling. It's the latest in a longrunning scandal stemming from the revelation that Neslé and other manufacturers had treated water illegally to remove contaminants while labelling their products as natural mineral water. But first, Airbus booked a huge order of 150 A321Neo jets from FlyDubai, in a deal worth €24 billion.",
+      "content_length": 471,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best Xbox controller to buy right now",
+      "link": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
+      "published": "2025-11-18T22:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nWe live in a golden age of controllers. The gamepads on the market now are of higher quality, more versatile, and more customizable than anything from even one console generation ago. If you play games on an Xbox Series X or Series S (or a Windows PC), you have the unenviable task of choosing between several high-quality controllers from Microsoft as well as a plethora of great options from the likes of 8BitDo, PowerA, Razer, Scuf, GameSir, and Hyperkin. Some of them have drift-resistant Hall effect or TMR-based joysticks for improved longevity, yet all of them are good for one reason or another. The days of the cheap “little sibling” controller that looked cool but barely worked are over.\n\nWe’ve spent a ton of time playing all kinds of games (first-person shooters, fighters, third-person action-adventure, racing, indie roguelikes, etc.) to test a wide swath of Xbox controllers, and it may not be a surprise that the standard, Xbox Wireless Controller is the best option for most folks. It makes for a great PC and Steam Deck controller, too. The default Xbox gamepad strikes the right balance of quality, comfort, versatility, and price, but there are several alternatives worth considering.\n\n\n\n\n\nThe best Xbox controller for most people\nXbox Wireless Controller\n\nProsConsIncredible value for Xbox Wireless supportGreat ergonomic designSatisfying buttons and triggersLacks customizationRequires AA batteries (or an optional rechargeable cell)\nWhere to Buy: $64.99 $49.99 at Amazon $64.99 $49.06 at Walmart $64.99 $49.99 at Target\nConnectivity: Xbox wireless, Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: No / Software customization: No / Power: AA batteries or add-on rechargeable\n\nOkay, I already know what you’re thinking. “The best controller for Xbox is the one that comes with the Xbox?” That may seem like a no-brainer, but this standard controller truly does earn this title as the best. It lacks some extras found on pricier options, but this controller is the distillation of all that has made the last 20 years of Xbox gamepads great, and it shows.\n\nThanks to Microsoft’s proprietary wireless protocol, the Xbox Wireless Controller is the only affordable wireless option out there. (Third-party wireless alternatives are available, but they’re mostly at the high end.) While some hate the standard Xbox wireless controller for its use of AA batteries instead of a built-in rechargeable cell, that also means it’s flexible, allowing for rechargeable AAs or a battery pack. And user-replaceable batteries mean you’re not stuck with a controller that doesn’t hold its charge after years of use. It also works over a USB-C wired connection.\n\nBut the standard-issue Xbox pad isn’t just great because of its varied connectivity. The hardware itself is excellent for the controller’s $65 (and often less) asking price. The sticks, buttons, triggers, and the sunken dish-shaped D-pad all feel impeccably tight, with the latter having a satisfying clickiness to it. If you’re a hardcore fighting game fan, you’ll probably be best served by a dedicated fight stick or a controller geared toward that genre — one with a superb D-pad like Hori’s Horipad Pro — but the Xbox Wireless Controller is otherwise an extraordinary jack-of-all-trades.\n\nThe only things it really lacks compared to pricier options are extra, customizable buttons and software tuning for things like stick sensitivity (button remapping is available), though Microsoft does offer cosmetic customization through its Xbox Design Lab, which bumps the price from $79.99 to $124.93 depending on the configuration. There’s a lot to love about these controllers, whether you make your own or pick one from the many colors that Microsoft offers.\n\nThe best cheap Xbox controller\n8BitDo Ultimate Wired Controller for Xbox\n\nProsConsInexpensiveLightweight and comfortableSatisfying buttons and Hall effect componentsProgrammable back buttons are easy to pressLacks trigger stops\nWhere to Buy: $44.99 $39.99 at Amazon $44.99 at Best Buy\nConnectivity: Wired / Connector type: USB-C / Mappable rear buttons: Two / Software customization: Yes / Power: Wired\n\nThe 8BitDo Ultimate Wired Controller for Xbox is a fantastic budget model that typically retails for $44.99 but can often be found for as little as $29.99.&nbsp;The shape is reminiscent of Nintendo’s Switch Pro Controller, only a bit smaller, with hints of Xbox influence and a curvaceous design that feels great to hold.\n\nOn the hardware front, the Ultimate Wired Controller features Hall effect sticks with satisfying tension. It also uses Hall effect triggers with dedicated vibration motors, though it lacks trigger stops, unlike our previous budget pick, the PowerA Advantage Wired. Its D-pad, face buttons, and bumpers are nice and clicky, too, despite being smaller than we&#8217;d typically like. It has two rear paddles, remappable buttons, and the ability to save up to three profiles, which you can switch between on the fly using a dedicated button. There’s even a built-in mute switch for audio, which isn’t common on cheaper controllers. You can download the 8BitDo Ultimate Software X app on PC or Xbox to fully customize this controller.\n\nThe 8BitDo Ultimate Wired works as a wired controller with your PC, but if you prefer wireless connectivity, the company also makes a three-mode wireless version for $69.99 with support for both Bluetooth and 2.4GHz wireless (via a dongle). The wireless version is a bit more expensive, however, and it’s still limited to wired connectivity on Xbox consoles. \n\nThe best “pro” Xbox controller\nXbox Elite Wireless Controller Series 2\n\nScore: 8.5ProsConsExtensive modular customizationPremium look and feelRechargeable battery lasts an incredible 40 hoursPriceyQuestionable quality controlNo Hall effect components\nWhere to Buy: $199.99 $157.95 at Microsoft $199.99 $139.99 at Walmart\nConnectivity: Xbox wireless, Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Up to four / Software customization: Yes / Power: Built-in rechargeable\n\nThe Xbox Elite Wireless Controller Series 2 is Microsoft’s fanciest controller, and it’s got a lot of nice extras, like better build quality, extra buttons, user-swappable sticks and D-pad, a built-in rechargeable battery, and loads of software customization. Where the standard Xbox controller is constructed entirely of unassuming plastic, the Elite mixes higher quality soft-touch plastic, rubberized grips, and metallic touches for a superior fit and finish. This makes it heftier than the stock controller, and as a result, it just feels nicer in your hands. It also comes with a charging dock and zip-up case with passthrough charging, completing a really nice package for $199.99 (or sometimes less, if it’s on sale). \n\nThere’s also the stripped-down Elite Series 2 “Core” version with an MSRP of $149.99, which ditches the add-ons but is equally customizable. You can buy them separately in a $59.99 accessories pack, but you’ll end up paying more that way, barring sales or discounts.\n\nA pricey controller like an Xbox Elite is a bit of a splurge purchase. Most of us are not competing at e-sports levels that require its high-end features. Nevertheless, it’s fun to use something that feels nicer, offers ways to custom-tailor it to your liking, and maybe gives you a slight competitive edge thanks to features like hair triggers and removable rear paddles. In theory, you may be able to get shots off faster in an online shooter with the hair triggers, and you can map the paddles to functions like jump, crouch, reload, etc., while keeping your thumb on the right stick. You could teach yourself claw grip to accomplish the latter with even a cheap wired controller, sure, but it just won’t feel as cool or easy as when using an Elite.\n\nWhile the Elite is still a great controller in 2025, you should keep in mind that it’s been around since 2019 and a Series 3 revision is feeling long overdue. The Series 2 also has a bit of a reputation for lackluster quality control — with horror stories from users about going through multiple replacements under warranty. Microsoft extended the controller’s warranty from 90 days to a year in late 2020 to help address concerns, but buying an Elite Series 2 may still feel like a slightly risky proposition. It also predates the current-gen implementation of a dedicated Share button, and its potentiometer-based sticks run the risk of stick drift after long-term use (something third parties are addressing with controllers that use drift-free Hall effect sticks, unlike all three big console manufacturers).&nbsp;\n\nEven so, the Elite 2 remains by far the most well-rounded option for a step-up Xbox controller — thanks in large part to its impressive build and expansive software experience. If all these caveats give you pause, though, there is another promising option.\n\nRead our Xbox Elite Wireless Controller Series 2 review.\n\nA formidable alternative to the Elite\nRazer Wolverine V3 Pro\n\nProsConsSupports Xbox Wireless protocolHall effect sticks use replaceable topsFour rear buttons smartly positioned for comfortTwo extra shoulder buttons add unique versatilityTrigger stops and back buttons offer a satisfying mouse-like clickExpensiveRequires a USB dongleRazer Synapse software needs work\nWhere to Buy: $199.99 $169.99 at Amazon $199.99 $169.99 at Best Buy $199.99 $169.99 at Walmart\nConnectivity: Wireless USB dongle (Xbox / PC), wired / Connector type: USB-C / Mappable rear buttons: Four / Software customization: Yes / Power: Built-in rechargeable\n\nAt $199.99, Razer’s Wolverine V3 Pro controller is as expensive (or more, depending on available deals) than the Elite Series 2, but it’s worth the cost if you want a high-end controller with drift-free sticks. Not only is the V3 Pro Razer’s first foray into using Hall effect sticks, it’s the company’s first fully wireless Xbox gamepad. It also sports some of the best hair-trigger lockouts around, yielding a mouse-like click usually found on even pricier Scuf controllers (a previous high-ranking pick of ours). \n\nOther than that, the V3 Pro is similar to the previous V2 Pro, with six remappable buttons — four rear paddles in new, angled orientations and two extra shoulder buttons — and some RGB lighting. The buttons and D-pad still have that satisfying micro-switch tactility and audible clickiness like the previous-gen V2 Pro, but the RGB lighting is more subtle this time around.\n\nThe Wolverine V3 Pro’s biggest shortcomings compared to Microsoft’s Elite Series 2 are its&nbsp;more basic software customization, its lack of Bluetooth, and the fact that it needs a USB dongle to work wirelessly. The V3 Pro is otherwise the better pick if you can justify its high price, which, unlike the Series 2, is rarely subjected to discounts. Luckily, if you can’t, there’s also the $99.99 Wolverine V3 Pro Tournament Edition that has a nearly identical set of features in a wired configuration.\n\nAn affordable alternative to the Elite\nGameSir G7 Pro\nGameSir’s G7 Pro is a wired Xbox controller with remapable rear buttons, adjustable triggers, and TMR joysticks. It can also be connected wirelessly to a PC (via a 2.4Ghz dongle) or Android (via Bluetooth).\n\nWhere to Buy: $79.99 at Amazon $79.99 at Best Buy $79.99 at GameSir\nConnectivity: Wired (Xbox), wireless USB dongle (PC), Bluetooth (Android)  / Connector type: USB-C / Mappable rear buttons: Two / Software customization: Yes / Power: Built-in rechargeable\n\nIf you don’t mind using a wired controller, GameSir’s G7 Pro offers some features of the splurge-worthy Xbox Elite Controller 2 for under $100. It has remappable buttons, smooth-feeling drift-resistant TMR control sticks, a satisfying weight, and textured grips that made it feel comfortable to hold even with sweaty palms.\n\nThe G7 Pro is actually a battery-powered wireless controller, but its cable free connectivity is limited to PC (via an included 2.4Ghz dongle) and Android (via Bluetooth). You’ll need to plug the controller into the Xbox with a cable, and GameSir provides a lengthy USB-C to USB-A cord. The cable was long enough that I could play games from my couch (roughly six feet away) without feeling tethered.\n\nI was impressed with the G7 Pro’s overall build quality, especially the triggers, which could be locked by flipping switches on its back. GameSir includes three swappable direction pads with the G7 Pro, which can be swapped by lifting the front of the controller’s shell and popping them in and out. However, its face buttons felt noticeably cheaper than the ones on the Elite 2, which makes sense given their price difference.  Button feel aside, the controller never dropped an input, even when I mashed buttons to string together elaborate combos in Tony Hawk’s Pro Skater, or continuously cast spells, dodged, and healed in Diablo IV. If an action was mistimed, it was on me.\n\nWhat the controller lacks in face button quality is more than made up for in customizability. GameSir Nexus, a free app on the Xbox Store, allowed me to remap any button (including the L4 and R4 buttons on its backside), adjust the vibration intensity of both triggers, enable two flavors of hair trigger mode, and set the deadzone for each control stick. You can save up to four profiles with different settings, and quickly switch between them by pressing the controller’s M button along with one of the face buttons. You never need to touch these options, or even download the GameSir Nexus app for the G7 Pro to work, but doing so will unlock its full potential.\n\nThe GameSir G7 Pro is an excellent Xbox controller, especially in its price range. I’d have liked the option to use it wirelessly, but that wasn’t a dealbreaker for me. That said, it’s something to consider depending on how far away you are from your Xbox when playing. If you’re a multi-platform gamer and want a controller to use with both an Xbox and PC (or Android device), it’s an even better choice.\n\nThe best Xbox controller for multi-console gamers \nHyperkin Competitor\nHyperkin’s Competitor is a wired Xbox controller that looks and feels like Sony’s PlayStation 5 DualSense gamepad. It has symmetrical Hall effect joysticks, four-button directional pad, and a pair of programmable back buttons. \n\nWhere to Buy: $49.99 at Amazon $49.99 at Hyperkin\nConnectivity: Wired / Connector type: USB-C / Mappable rear buttons: Two / Software customization: No / Power: N/A\n\nHyperkin’s cheekily-named Competitor wired Xbox and PC-compatible controller that looks and feels like the DualSense gamepad that comes with the PlayStation 5 — aka one of the Xbox’s main competitors. The controller’s Hall effect joysticks are symmetrical and located at the bottom, while a four-button directional pad sits above the left grip. The giant “X” button in the middle of the controller is an immediate giveaway that you’re using an Xbox gamepad, but it was easy to forget I wasn’t using a DualSense when playing games. \n\nIn terms of comfort the Competitor was on par with Microsoft’s official Xbox Wireless Controller. I’ve played enough PlayStation games over the years that using the gamepad felt intuitive, with no need to adjust my muscle memory, or change my grip. Playing with a wired controller can feel restrictive, but the long USB-C to USB-A cable included with the Competitor prevented me from feeling tethered. The cable is replaceable, which is good news if yours get frayed or otherwise damaged over time. \n\nOverall, I was pleased with the controller’s construction. It was heavy enough to feel substantial, but light enough that I never felt wrist fatigue after holding it for an hour or more. Its buttons were all satisfyingly clickey, and its joysticks glided smoothly. The controller has two programmable back buttons, which you can program by pressing one of the rear buttons and the “M” button that’s also located on the controller’s backside. The controller rumbles to let you know it’s time to press another button on the controller to set the hot key. Each back button has to be programmed one at a time, and can be disabled by flipping a switch.\n\nMy tests included playing Tony Hawk’s Pro Skater 1 + 2, Crash Bandicoot 4, Trials of Mana, and Tales of Arise. I had no problems jumping (or skating as it were) into any of these games. Playing them felt intuitive, and the controller never dropped an input. A benefit to playing games with a wired controller is there’s less latency between when you press a button and an action happens on screen. The difference is generally imperceptible (unless you play online games competitively), but there were probably a couple of Tony Hawk combos I nailed in the nick of time thanks to the lower latency.  \n\nMy personal preference will always be to play Xbox games with a wireless controller because it’s the least restrictive type of gamepad. However, Hyperkin’s Competitor is a great gamepad in general, and an especially good choice if you’re regularly switching between playing Xbox, PC, and PS5 games. It doesn’t offer the same amount of customization as the GameSir G7 or Xbox Elite Series 2 controller, but its design and $49.99 MSRP more than make up for those shortcomings.\n\nOther Xbox controllers we tested\n\n\nThe Scuf Valor Pro is the company’s first Xbox controller with Hall effect sticks, as well as its cheapest at $109.99. Scuf emulates Microsoft’s winning ergonomics while implementing redesigned remappable rear buttons (two are removable) and shoulder bumpers that are more comfortable to reach. It also has trigger stops that produce a satisfying click with next to no travel when pressed. The D-pad produces a similarly satisfying click, one we prefer over the softer tactile feel of the Instinct. The Valor Pro is not the most exciting controller on paper, but it’s a solid option for Scuf faithful or anyone who wants more durable analog sticks. Read our hands-on impressions.\n\n\n\nWe tested PowerA’s latest pro-style Xbox controllers, including the Fusion Pro 4 Wired ($79.99) and PowerA Fusion Pro Wireless ($169.99). They’re standard fare for pro-style controllers these days, with height-adjustable Hall effect sticks, four remappable rear buttons, three-way trigger locks, and onboard volume controls. They’re similar, but the Pro Wireless has four trippy Lumectra lighting zones that respond to your button presses. Both controllers are satisfying to use and a clear step up from PowerA’s older products in terms of overall quality, but they ultimately don’t stand out much at these price points.\n\n\nUpdate, November 18th: Updated to reflect current pricing / availability and to add Hyperkin’s Competitor controller. Brandt Ranj also contributed to this post.",
+      "content_length": 18923,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "As Europe aims for \"digital sovereignty\", biomedical agentic AI could be the next big field",
+      "link": "https://www.france24.com/en/tv-shows/business/20251118-as-europe-aims-for-digital-sovereignty-biomedical-agentic-ai-could-be-the-next-big-field",
+      "published": "2025-11-18T22:28:54",
+      "content": "\"Europe does not want to be the client\" of the US or China in the field of technology, French President Emmanuel Macron told tech and political leaders gathered for a \"digital sovereignty summit\" in Berlin. At the event, biotech company Owkin unveiled a new pan-European platform to make biological data \"AI-ready\". CEO Thomas Clozel speaks to France 24 about how new agntic and reasoning models can help bring medical research to the next level.",
+      "content_length": 446,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
+      "link": "https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/",
+      "published": "2025-11-18T22:27:24",
+      "content": "Last month, a DoorDash driver in upstate New York delivered an item to a local house in Oswego—only to find the front door open and a man apparently unconscious or asleep on a couch in the front room. The man was also quite naked, with pants and underwear around his ankles, and he was fully visible from the porch.\nThe DoorDasher was a 23-year-old woman named Olivia Henderson, and she felt like the whole situation was some kind of creepy exploitation play. Was this guy purposely exposing himself to her? Was he even asleep? Should she have to endure the sight of random male genitalia just to make a few bucks?\nShe did not think so, and she decided to do something about it. Henderson filmed the man from outside the home, and she later posted the video on TikTok to shame him. Naturally, it went viral.Read full article\nComments",
+      "content_length": 833,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "CDC data confirms US is 2 months away from losing measles elimination status",
+      "link": "https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/",
+      "published": "2025-11-18T22:01:57",
+      "content": "Federal health officials have linked two massive US measles outbreaks, confirming that the country is about two months away from losing its measles elimination status, according to a report by The New York Times.\nThe Times obtained a recording of a call during which officials from the Centers for Disease Control and Prevention confirmed to state health departments that the ongoing measles outbreak at the border of Arizona and Utah is a continuation of the explosive outbreak in West Texas that began in mid- to late-January. That is, the two massive outbreaks are being caused by the same subtype of measles virus.\nThis is a significant link that hasn’t previously been reported despite persistent questions from journalists and concerns from health experts, particularly in light of Canada losing its elimination status last week. The loss of an elimination status means that measles will once again be considered endemic to the US, an embarrassing public health backslide for a vaccine-preventable disease.Read full article\nComments",
+      "content_length": 1038,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jeffrey Epstein's brother says the 'Bubba' in viral email is not Bill Clinton",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251118-jeffrey-epstein-s-brother-says-the-bubba-in-viral-email-is-not-bill-clinton",
+      "published": "2025-11-18T21:50:47",
+      "content": "An old photo of current US president Donald Trump and former US president Bill Clinton has gone viral, alongside one of Jeffrey Epstein's released emails that has attracted scrutiny. The photo is not as compromising as social media users would have it - but many have been left questioning who the “Bubba” is that Trump is allegedly \"blowing\" in the email.",
+      "content_length": 356,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Meta wins monopoly trial, convinces judge that social networking is dead",
+      "link": "https://arstechnica.com/tech-policy/2025/11/meta-wins-monopoly-trial-convinces-judge-that-social-networking-is-dead/",
+      "published": "2025-11-18T21:47:14",
+      "content": "After years of pushback from the Federal Trade Commission over Meta’s acquisitions of Instagram and WhatsApp, Meta has defeated the FTC’s monopoly claims.\nIn a Tuesday ruling, US District Judge James Boasberg said the FTC failed to show that Meta has a monopoly in a market dubbed “personal social networking.” In that narrowly defined market, the FTC unsuccessfully argued, Meta supposedly faces only two rivals, Snapchat and MeWe, which struggle to compete due to its alleged monopoly.\nBut the days of grouping apps into “separate markets of social networking and social media” are over, Boasberg wrote. He cited the Greek philosopher Heraclitus, who “posited that no man can ever step into the same river twice,” while telling the FTC they missed their chance to block Meta’s purchase.Read full article\nComments",
+      "content_length": 814,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nigeria steps up search for 25 abducted schoolgirls",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251118-nigeria-steps-up-search-for-25-abducted-schoolgirls",
+      "published": "2025-11-18T21:35:32",
+      "content": "In tonight's edition, as grieving families of dozens of kidnapped girls in Nigeria count on authorities to track down their lost children, Washington continues to characterize Nigeria's security threats as disproportionately targeting Christians.\n \nAlso, French oil giant Total is accused of complicity in war crimes in Mozambique.\n \nAnd women in Zanzibar are learning how to light up lives in their communities.",
+      "content_length": 412,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pistorius warnt auf Sicherheitskonferenz vor russischer Bedrohung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berliner-sicherheitskonferenz-pistorius-102.html",
+      "published": "2025-11-18T21:17:34",
+      "content": "   Verteidigungsminister Pistorius hat auf der Berliner Sicherheitskonferenz vor der wachsenden Bedrohung aus Russland gewarnt. Auch die Ostsee werde zunehmend \"zum Gebiet der Konfrontation\". NATO-General Gerhartz forderte tiefgreifende Reformen in Deutschland.[mehr]",
+      "content_length": 267,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: US-Anleger bleiben in Deckung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-wall-street-100.html",
+      "published": "2025-11-18T21:12:18",
+      "content": "   Vor neuen Quartalszahlen von KI-Platzhirsch Nvidia sowie Daten vom Arbeitsmarkt haben die US-Anleger Vorsicht walten lassen. Die Wall Street tendierte wie zuvor schon der DAX leichter. [mehr]",
+      "content_length": 194,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Repräsentantenhaus stimmt für Freigabe der Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/repraesentantenhaus-epstein-akten-100.html",
+      "published": "2025-11-18T21:01:24",
+      "content": "   Das Ergebnis im Repräsentantenhaus ist eindeutig: Fast einstimmig haben die Abgeordneten für die Freigabe der Epstein-Akten gestimmt. Es ist aber nur der erste von drei Schritten hin zu einer Veröffentlichung.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israeli army says it struck 'Hamas training compound' in Lebanon, killing at least 13",
+      "link": "https://www.france24.com/en/middle-east/20251118-israeli-army-says-it-struck-hamas-training-compound-in-lebanon-killing-at-least-13",
+      "published": "2025-11-18T20:56:03",
+      "content": "Lebanon said at least 13 people were killed Tuesday in an Israeli strike on a Palestinian refugee camp in the country's south as Israel said it targeted a \"Hamas training compound\" operating in the area.",
+      "content_length": 203,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marseille: Narcotics traffickers now brazenly target those who oppose them, including their families",
+      "link": "https://www.france24.com/en/video/20251118-marseille-narcotics-traffickers-now-brazenly-target-those-who-oppose-them-including-their-families",
+      "published": "2025-11-18T20:40:22",
+      "content": "French President Emmanuel Macron has called on ministers, in an emergency cabinet meeting, to \"up\" the battle against drug dealing. This comes as an unidentified gunman killed the 20-year-old younger brother of a prominent anti-narcotics activist and Greens party member Amine Kessaci, 22, in Marseille. France's second-largest city has been struggling to battle violent drug crime: more than a dozen people have been killed in 2025 in turf wars and other disputes linked to cocaine and cannabis dealing. For in-depth analysis and a deeper perspective, François Picard is pleased to welcome award-winning foreign correspondent Richard Assheton.",
+      "content_length": 644,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
+      "link": "https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/",
+      "published": "2025-11-18T20:37:04",
+      "content": "On Tuesday, Microsoft and Nvidia announced plans to invest in Anthropic under a new partnership that includes a $30 billion commitment by the Claude maker to use Microsoft’s cloud services. Nvidia will commit up to $10 billion to Anthropic and Microsoft up to $5 billion, with both companies investing in Anthropic’s next funding round.\nThe deal brings together two companies that have backed OpenAI and connects them more closely to one of the ChatGPT maker’s main competitors. Microsoft CEO Satya Nadella said in a video that OpenAI “remains a critical partner,” while adding that the companies will increasingly be customers of each other.\n“We will use Anthropic models, they will use our infrastructure, and we’ll go to market together,” Nadella said.Read full article\nComments",
+      "content_length": 781,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump defends Saudi crown prince over Khashoggi killing, threatens ABC News in White House meeting – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/18/donald-trump-mbs-saudi-arabia-meeting-f35-jets-latest",
+      "published": "2025-11-18T20:16:13",
+      "content": "This live blog is now closed.Trump shrugs off Khashoggi murder during Saudi prince’s White House visitA reminder that Donald Trump’s family has a strong personal interest in Saudi Arabia. In September, London real estate developer Dar Global announced that it plans to launch Trump Plaza in the Red Sea city of Jeddah.It’s Dar Global’s second collaboration with the Trump Organization, the collection of companies controlled by the US president’s children, in the kingdom. Last year, the two companies announced the launch of Trump Tower Jeddah. Continue reading...",
+      "content_length": 565,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Epstein files: US House votes overwhelmingly to release documents, sending bill to Senate",
+      "link": "https://www.france24.com/en/live-news/20251118-epstein-files-us-house-votes-overwhelmingly-to-release-documents-sending-bill-to-senate",
+      "published": "2025-11-18T19:54:32",
+      "content": "The US House voted 427-1 on Tuesday to release government files on convicted sex offender Jeffrey Epstein after President Donald Trump reversed his opposition, exposing rare GOP fractures as lawmakers seek answers for more than 1,000 alleged victims.",
+      "content_length": 250,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents",
+      "link": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/",
+      "published": "2025-11-18T19:28:14",
+      "content": "Microsoft has been adding AI features to Windows 11 for years, but things have recently entered a new phase, with both generative and so-called “agentic” AI features working their way deeper into the bedrock of the operating system. A new build of Windows 11 released to Windows Insider Program testers yesterday includes a new “experimental agentic features” toggle in the Settings to support a feature called Copilot Actions, and Microsoft has published a detailed support article detailing more about just how those “experimental agentic features” will work.\nIf you’re not familiar, “agentic” is a buzzword that Microsoft has used repeatedly to describe its future ambitions for Windows 11—in plainer language, these agents are meant to accomplish assigned tasks in the background, allowing the user’s attention to be turned elsewhere. Microsoft says it wants agents to be capable of “everyday tasks like organizing files, scheduling meetings, or sending emails,” and that Copilot Actions should give you “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.”\nBut like other kinds of AI, these agents can be prone to error and confabulations and will often proceed as if they know what they’re doing even when they don’t. They also present, in Microsoft’s own words, “novel security risks,” mostly related to what can happen if an attacker is able to give instructions to one of these agents. As a result, Microsoft’s implementation walks a tightrope between giving these agents access to your files and cordoning them off from the rest of the system.Read full article\nComments",
+      "content_length": 1639,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The Prince and the President: What drives US-Saudi relations?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251118-the-prince-and-the-president-what-drives-us-saudi-relations",
+      "published": "2025-11-18T19:22:38",
+      "content": "As the Middle East undergoes a once-in-a-generation shift in political fault lines, great power diplomacy could make the difference for millions between peace and stability or turbulence and endless conflict. So what’s driving that diplomacy? Between the US and Saudi Arabia, a confusing mix of bilateral security ties, regional reach-outs to the likes of Syria and Israel, and personal enrichment. We’ll ask about the Trump family’s longstanding ties to the Kingdom as well as reports that the US president’s about to get a lot richer.",
+      "content_length": 536,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainians working for Russia were behind rail blasts, alleges Polish PM",
+      "link": "https://www.theguardian.com/world/2025/nov/18/ukrainians-working-for-russia-rail-blasts-says-poland-prime-minister-donald-tusk",
+      "published": "2025-11-18T19:21:28",
+      "content": "Donald Tusk says two saboteurs crossed border from Belarus hoping to cause divisive ‘catastrophe’Polish authorities have identified two Ukrainian men, allegedly working for the Russian intelligence services, as the key suspects in two cases of rail sabotage, the Polish prime minister, Donald Tusk, has said.The men are alleged to have planted a military-grade explosive device and attached a steel clamp to rail tracks in two incidents on a strategic rail route used for aid deliveries for Ukraine. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Analogue 3D is the modern N64 fans have been waiting for",
+      "link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/",
+      "published": "2025-11-18T18:38:09",
+      "content": "If you’ve ever tried to hook an old Nintendo 64 up to a modern HDTV, you know the results can be less than ideal. Assuming your original hardware still works and your flatscreen even has the requisite R/F and/or composite inputs to allow for the connection, the N64’s output will probably look like a blurry mess on a flatscreen that wasn’t designed with those old video signals as a priority.\nThe Analogue 3D solves this very specific problem very well, with a powerful FPGA core that accurately replicates a Nintendo 64 and well-made display filters that do a good job of approximating that cathode-ray tube glow you remember from decades ago. But the lack of easy expandability limits the appeal of this $250 device to all but the most die-hard fans of original N64 hardware.\nA beauty to behold\nAs a piece of physical design, the Analogue 3D is a work of art. The gentle curves of its sleek black shell evoke the original N64 design without copying it, coming in at a slightly smaller footprint and height. Plus, there’s no ugly power brick.Read full article\nComments",
+      "content_length": 1070,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
+      "link": "https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/",
+      "published": "2025-11-18T18:37:23",
+      "content": "As Kent Halliburton stood in a bathroom at the Rosewood Hotel in central Amsterdam, thousands of miles from home, running his fingers through an envelope filled with 10,000 euros in crisp banknotes, he started to wonder what he had gotten himself into.\nHalliburton is the cofounder and CEO of Sazmining, a company that operates bitcoin mining hardware on behalf of clients—a model known as “mining-as-a-service.” Halliburton is based in Peru, but Sazmining runs mining hardware out of third-party data centers across Norway, Paraguay, Ethiopia, and the United States.\nAs Halliburton tells it, he had flown to Amsterdam the previous day, August 5, to meet Even and Maxim, two representatives of a wealthy Monaco-based family. The family office had offered to purchase hundreds of bitcoin mining rigs from Sazmining—around $4 million worth—which the company would install at a facility currently under construction in Ethiopia. Before finalizing the deal, the family office had asked to meet Halliburton in person.Read full article\nComments",
+      "content_length": 1038,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Who are the armed groups contesting Hamas's authority in Gaza?",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20251118-armed-groups-contesting-hamas-authority-gaza",
+      "published": "2025-11-18T18:27:26",
+      "content": "The October 10 ceasefire between Hamas and Israel halted open war but not the violence in Gaza. At least seven armed factions and clans are now challenging Hamas's authority while gunfights and public executions persist in the enclave. Some groups are even suspected of ties to Israel.",
+      "content_length": 285,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU confirms it wants UK to pay into its budget in exchange for closer ties",
+      "link": "https://www.theguardian.com/world/2025/nov/18/eu-uk-pay-into-budget-closer-ties",
+      "published": "2025-11-18T18:17:22",
+      "content": "‘Politically realistic’ for UK to make financial contribution so it can access European single market, Irish minister saysThe UK must pay into the EU budget for future participation in the European single market in electricity, it has been confirmed, in what could become a major test for the post-Brexit reset.Ireland’s Europe minister, Thomas Byrne, said EU member states had decided the UK should make a financial contribution for closer ties: “Ireland wants to see Britain getting the benefit of closer engagement with the European Union. Continue reading...",
+      "content_length": 562,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Urteil in Frankreich: Perrier muss nicht vom Markt genommen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/perrier-prozess-urteil-100.html",
+      "published": "2025-11-18T18:08:31",
+      "content": "   Verbraucherschützer warfen der Wassermarke irreführende Werbung vor, weil Perrier als natürliches Mineralwasser beworben, aber unerlaubt gefiltert werde. Das Gericht lehnte die Klage ab - aus Mangel an Beweisen.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Two Ukrainian men believed to be working with Russia identified as suspects in Polish rail sabotage attacks – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/18/poland-russia-ukraine-rail-sabotage-incidents-zelenskyy-macron-merz-starmer-europe-live-news",
+      "published": "2025-11-18T18:04:56",
+      "content": "Donald Tusk warns Polish parliament of an ‘escalation’ of Russian intelligence activities ‘across the whole of Europe’. This live blog is closedPoland’s prime minister Donald Tusk has just told lawmakers that the authorities investigating the rail sabotage incidents over the weekend identified two main suspects.He says the suspects are Ukrainian men, who crossed into Poland from Belarus this autumn, and are believed to have been working for Russian intelligence services. Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Digitalgipfel in Berlin: Europa will eigenen digitalen Weg gehen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/digitalgipfel-eu-merz-macron-100.html",
+      "published": "2025-11-18T17:59:04",
+      "content": "   Wie kann Europa in der digitalen Technologie unabhängiger von den US-Konzernen werden? Darüber haben Kanzler Merz, Frankreichs Präsident Macron und Minister aus anderen EU-Staaten beim Digitalgipfel beraten. [mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nordrhein-Westfalen: Polizei räumt Baumhütten im Hambacher Forst",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/hambacher-forst-polizei-baumhuetten-100.html",
+      "published": "2025-11-18T17:59:00",
+      "content": "   Höhenretter der Polizei haben im umstrittenen Kohletagebau Hambach damit begonnen, Umweltaktivisten aus Baumhäusern im Sündenwäldchen zu holen. Der Stromkonzern RWE will an der Stelle Sand und Kies für einen geplanten See abgraben.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France jails eight men over deadly 2023 Channel migrant crossing",
+      "link": "https://www.france24.com/en/europe/20251118-france-jails-eight-men-over-deadly-2023-channel-migrant-crossing",
+      "published": "2025-11-18T17:54:05",
+      "content": "A French court on Tuesday sentenced eight men to between three and 15 years in prison for running a smuggling network linked to a 2023 Channel shipwreck that killed seven Afghans. The case exposed an organised Europe-wide trafficking system.",
+      "content_length": 241,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pension changes row threatens Germany’s coalition government",
+      "link": "https://www.theguardian.com/world/2025/nov/18/pension-reform-row-threatens-germanys-coalition-government",
+      "published": "2025-11-18T17:53:11",
+      "content": "Youth wing of conservatives say younger people will be left carrying can for older generation A row over pension changes is threatening the future of the German coalition government, with a youth wing of the conservatives of the chancellor, Friedrich Merz, gaining support for an attempt to block legislation which they argue will leave younger Germans carrying the can for the older generation.An 18-strong group of young MPs, the Junge Union, has been accused of holding Merz’s coalition government to ransom over its demands to revise proposed pension changes, which would guarantee pension increases for the next six years. Continue reading...",
+      "content_length": 647,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
+      "link": "https://www.theguardian.com/world/2025/nov/18/claudia-sheinbaum-us-military-mexico-trump",
+      "published": "2025-11-18T17:46:23",
+      "content": "Mexico’s president responds to Trump’s latest warning that he could authorize strikes against drug cartels in countryMexico’s president, Claudia Sheinbaum, has again dismissed Donald Trump’s threat of military action against drug cartels inside her country, telling reporters: “It’s not going to happen.”Sheinbaum made the comments on Tuesday morning in response to the US president’s latest warning that he could authorise strikes in Mexico. Continue reading...",
+      "content_length": 462,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Störung bei Cloudflare legt viele Websites lahm",
+      "link": "https://www.tagesschau.de/wirtschaft/stoerung-cloudflare-100.html",
+      "published": "2025-11-18T17:40:24",
+      "content": "   Durch eine technische Störung beim Dienstleister Cloudflare waren viele Internetangebote nicht erreichbar. ChatGPT lieferte keine Antworten mehr, auch die Plattformen X und Truth Social waren betroffen.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Milliardenauftrag: Flydubai bestellt 150 Airbus-Flieger",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/grossauftrag-airbus-flydubai-100.html",
+      "published": "2025-11-18T17:40:04",
+      "content": "   Auf der Dubai Air Show gewinnt der europäische Flugzeugbauer Airbus einen neuen Großkunden: Flydubai setzt künftig auf den A321neo. Die Airline Etihad bestellt außerdem neue Langstreckenjets.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "New coin honours Queen front man Freddie Mercury",
+      "link": "https://www.france24.com/en/video/20251118-new-coin-honours-queen-front-man-freddie-mercury",
+      "published": "2025-11-18T17:24:15",
+      "content": "Forty years after his iconic performance at the Live Aid concert, the Royal Mint has decided to honor British music legend Freddie Mercury and now his image is forever engraved in metal. Charlotte Lam has this story.",
+      "content_length": 216,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Macron calls for action on drug crime after 'turning point' murder in Marseille",
+      "link": "https://www.france24.com/en/france/20251118-macron-calls-for-action-on-drugs-after-turning-point-murder-in-marseille",
+      "published": "2025-11-18T17:22:08",
+      "content": "French President Emmanuel Macron has called for tougher action against drug trafficking on Tuesday after the 20-year-old brother of anti-drug activist Amine Kessaci, Mehdi Kessaci, was shot dead in Marseille last week, in what authorities say was an intimidation killing linked to local gangs.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "What does the UN-backed Gaza plan entail?",
+      "link": "https://www.france24.com/en/video/20251118-what-does-the-un-backed-gaza-plan-entail",
+      "published": "2025-11-18T17:16:00",
+      "content": "🇺🇳 🇵🇸 With 13 votes in favour and two abstentions, the #UN Security Council on Monday adopted a US-backed resolution on the future of #Gaza, based largely on President Donald #Trump's 20-point peace plan for the #Palestinian enclave.\n \nWhat does this proposal entail? FRANCE 24 takes a closer look.",
+      "content_length": 298,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Macron welcomes freed writer Boualem Sansal after release from Algerian jail",
+      "link": "https://www.france24.com/en/video/20251118-macron-welcomes-freed-writer-boualem-sansal-after-release-from-algerian-jail",
+      "published": "2025-11-18T17:14:36",
+      "content": "Freed French-Algerian writer Boualem Sansal is \"back in France\", six days after his transfer via Germany, according to his support committee. Sansal was arrested in November 2024 in Algiers during a diplomatic crisis between France and Algeria. Upon his arrival, Sansal was welcomed by President Emmanuel Macron at the Elysee. Solange Mougin has this story.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "In Paris, a giant IUD highlights global threats to contraception",
+      "link": "https://www.france24.com/en/video/20251118-in-paris-a-giant-iud-highlights-global-threats-to-contraception",
+      "published": "2025-11-18T17:11:19",
+      "content": "A giant #IUD installed at #Paris’s Place de la République highlights rising anti-contraception movements and contraceptive shipments blocked in Belgium, which activists link to Trump-era aid cuts. This travelling sculpture raises awareness of ongoing barriers to #contraception for women worldwide.",
+      "content_length": 298,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump hosts Saudi Crown Prince for pomp-filled visit, security deals expected",
+      "link": "https://www.france24.com/en/video/20251118-trump-hosts-saudi-crown-prince-for-pomp-filled-visit-security-deals-expected",
+      "published": "2025-11-18T17:09:21",
+      "content": "President Donald Trump hosted Crown Prince Mohammed bin Salman to the White House on Tuesday, with the Saudi de facto ruler seeking to further rehabilitate his global image after the 2018 killing of US-based journalist Jamal Khashoggi and deepen ties with Washington.\n\nMaking his first White House visit in more than seven years, the crown prince was greeted with a lavish display of pomp and ceremony presided over by Trump on the South Lawn, complete with a military honor guard, a cannon salute and a flyover by U.S. warplanes. France24 correspondent Fraser Jackson reports from the White House, in Washington D.C.",
+      "content_length": 617,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russland will kriselnde Wirtschaft mit Steuererhöhungen ankurbeln",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-steuererhoehungen-100.html",
+      "published": "2025-11-18T17:01:53",
+      "content": "   Die Duma stimmte für eine Erhöhung der Mehrwertsteuer um zwei Prozentpunkte. Zudem sind etliche weitere Steuererhöhungen geplant, die die Staatskasse füllen sollen. Zuletzt schwächelte die russische Wirtschaft.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verfolgungsjagden im All",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/weltraum-kommando-bundeswehr-sicherheit-russland-100.html",
+      "published": "2025-11-18T17:00:09",
+      "content": "   Es gibt weitaus mehr militärische Störversuche im Weltall durch Russland und China als bislang bekannt. Das zeigen Recherchen von WDR, NDR und SZ. Die Bundeswehr bestätigt eine Zunahme solcher Aktionen. [mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
+      "link": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/",
+      "published": "2025-11-18T16:32:58",
+      "content": "On Tuesday, Alphabet CEO Sundar Pichai warned of “irrationality” in the AI market, telling the BBC in an interview, “I think no company is going to be immune, including us.” His comments arrive as scrutiny over the state of the AI market has reached new heights, with Alphabet shares doubling in value over seven months to reach a $3.5 trillion market capitalization.\nSpeaking exclusively to the BBC at Google’s California headquarters, Pichai acknowledged that while AI investment growth is at an “extraordinary moment,” the industry can “overshoot” in investment cycles, as we’re seeing now. He drew comparisons to the late 1990s Internet boom, which saw early Internet company valuations surge before collapsing in 2000, leading to bankruptcies and job losses.\n“We can look back at the Internet right now. There was clearly a lot of excess investment, but none of us would question whether the Internet was profound,” Pichai said. “I expect AI to be the same. So I think it’s both rational and there are elements of irrationality through a moment like this.”Read full article\nComments",
+      "content_length": 1087,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Möglicher EU-Beitritt: Wadephul erhöht Druck auf Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-balkan-eu-100.html",
+      "published": "2025-11-18T16:22:25",
+      "content": "   Sechs Westbalkanländer in zweieinhalb Tagen: Außenminister Wadephul ist derzeit in Sachen EU-Beitritt unterwegs. Serbien müsse sich für Russland oder Europa entscheiden, sagte er im Gespräch mit dem ARD-Hauptstadtstudio. [mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Argentina judge fired after causing mistrial in case over Maradona’s death",
+      "link": "https://www.theguardian.com/world/2025/nov/18/argentina-judge-diego-maradona-case-fired",
+      "published": "2025-11-18T16:15:52",
+      "content": "Julieta Makintach’s role in a documentary series about negligence case over football star’s death led to mistrialAn Argentinian judge has been fired after causing a mistrial in the negligence case against the late football legend Diego Maradona’s medical team due to her involvement in a documentary about it.A special panel of judges, lawyers and provincial legislators dismissed Julieta Makintach, 48, from her post and disqualified her from holding any other judicial position in the future. Continue reading...",
+      "content_length": 514,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
+      "link": "https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/",
+      "published": "2025-11-18T16:08:56",
+      "content": "Google has kicked its Gemini rollout into high gear over the past year, releasing the much-improved Gemini 2.5 family and cramming various flavors of the model into Search, Gmail, and just about everything else the company makes.\nNow, Google’s increasingly unavoidable AI is getting an upgrade. Gemini 3 Pro is available in a limited form today, featuring more immersive, visual outputs and fewer lies, Google says. The company also says Gemini 3 sets a new high-water mark for vibe coding, and Google is announcing a new AI-first integrated development environment (IDE) called Antigravity, which is also available today.\nThe first member of the Gemini 3 family\nGoogle says the release of Gemini 3 is yet another step toward artificial general intelligence (AGI). The new version of Google’s flagship AI model has expanded simulated reasoning abilities and shows improved understanding of text, images, and video. So far, testers like it—Google’s latest LLM is once again atop the LMArena leaderboard with an ELO score of 1,501, besting Gemini 2.5 Pro by 50 points.Read full article\nComments",
+      "content_length": 1092,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Venezuela’s top opposition leader claims ‘new era’ is coming despite lack of clear plan",
+      "link": "https://www.theguardian.com/world/2025/nov/18/venezuela-new-era-maria-corina-machado-trump",
+      "published": "2025-11-18T15:50:46",
+      "content": "María Corina Machado pens a ‘freedom manifesto’ as plan to force Nicolás Maduro from power remains unclearVenezuela’s top opposition leader, the Nobel laureate María Corina Machado, has declared her country “at the edge of a new era” as Donald Trump refused to rule out a ground invasion to topple its authoritarian leader, Nicolás Maduro, but also signalled he was open to talks.Machado, who has lived in hiding since her movement’s candidate was widely believed to have beaten Maduro in last year’s presidential election, made her claim in a “freedom manifesto” that was published on Tuesday as uncertainty continued to shroud the South American country’s future. Continue reading...",
+      "content_length": 685,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Kommission erlaubt Milliardenzahlung für Leag-Kohleausstieg",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-koehleausstieg-100.html",
+      "published": "2025-11-18T15:48:43",
+      "content": "   2024 deutete sie es an, jetzt macht die EU-Kommission es offiziell: Die von der Bundesregierung geplanten 1,75 Milliarden Euro Entschädigung für den Energiekonzern Leag sind wettbewerbskonform.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rentenstreit: Junge SPD-Abgeordnete widersprechen Unions-Gruppe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-junge-abgeordnete-spd-100.html",
+      "published": "2025-11-18T15:33:29",
+      "content": "   Nach der Jungen Gruppe der Unionsfraktion melden sich in der Rentendebatte nun junge SPD-Abgeordnete zu Wort. Sie werfen ihren konservativen Kollegen \"Etikettenschwindel\" vor und plädieren für mehr Gerechtigkeit. Von Moritz Rödle.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wissenschaftler erforschen Reptilien im Regenwald",
+      "link": "https://www.tagesschau.de/wissen/klima/reptilienforschung-amazonas-100.html",
+      "published": "2025-11-18T15:31:15",
+      "content": "   Die artenreiche Amphibien- und Reptilienwelt im Amazonas-Becken wird von der Erderwärmung massiv betroffen sein. Forscher wollen wissen, wie sich das Verhalten der wechselwarmen Tiere dadurch verändert. Von Xenia Böttcher.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ryan Gosling must save dying stars in Project Hail Mary trailer",
+      "link": "https://arstechnica.com/culture/2025/11/stranded-astronaut-finds-an-alien-ally-in-project-hail-mary-trailer/",
+      "published": "2025-11-18T15:25:19",
+      "content": "\nThe big holiday releases are still waiting in the wings, but it’s not too soon to look forward to what’s coming in 2026. Amazon MGM Studios has released a new trailer for its forthcoming space odyssey Project Hail Mary, which is based on Andy Weir’s (The Martian) bestselling 2021 novel about an amnesiac biologist-turned-schoolteacher in space.\nWeir told The New York Times that the inspiration for his novel came from a planned multi-book space opera called Zhek that he began writing after The Martian, about a potential fuel for interstellar travel. He eventually abandoned that effort and wrote the 2017 novel, Artemis, instead, but aspects of Zhek found their way into the Project Hail Mary novel.\nAs we’ve previously reported, Amazon MGM Studios acquired the rights for Weir’s novel before it was even published and brought on Drew Goddard to write the screenplay. (Goddard also wrote the adapted screenplay for The Martian, so he’s an excellent choice.) The studio tapped Phil Lord and Christopher Miller (Cloudy with a Chance of Meatballs, The LEGO Movie) to direct and signed on Ryan Gosling to star. Per the official premise:Read full article\nComments",
+      "content_length": 1163,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
+      "link": "https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/",
+      "published": "2025-11-18T15:10:49",
+      "content": "As Tesla’s profits shrink and its model lineup continues to age, the company remains focused on establishing new lines of business. Tesla CEO Elon Musk says there’s not much his Optimus robots won’t be able to do in the future—following people around to prevent them from committing crimes is the latest—despite the technology not quite existing yet.\nMusk’s robotaxis are a little closer to reality, with a kind of limited service being offered in Austin, Texas, as well as parts of San Francisco. But Tesla might need to rethink its approach to safety drivers after a Tesla rideshare passenger in San Francisco took to Reddit to share a video of the operator asleep in the driver’s seat.\nIn fact, the safety driver fell asleep three times during the ride, which took place a little over a week ago, according to Reddit user ohmichael. In his post, which contains a 12-second clip of a man sleeping and then waking in the front seat of a moving Tesla, the poster says he contacted Tesla to report this behavior but never heard back.Read full article\nComments",
+      "content_length": 1058,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
+      "link": "https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/",
+      "published": "2025-11-18T15:03:02",
+      "content": "A Cloudflare outage caused large chunks of the Internet to go dark Tuesday morning, temporarily impacting big platforms like X and ChatGPT.\n“A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” Cloudflare’s status page said. “Some customers may be still experiencing issues logging into or using the Cloudflare dashboard.”\nThe company initially attributed the widespread outages to “an internal service degradation” and provided updates as it sought a fix over the past two hours.Read full article\nComments",
+      "content_length": 609,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bhutan PM on leading the first carbon-negative nation: ‘The wellbeing of our people is at the centre of our agenda’",
+      "link": "https://www.theguardian.com/environment/2025/nov/18/bhutan-pm-tshering-tobgay-first-carbon-negative-nation-climate-wellbeing",
+      "published": "2025-11-18T15:00:51",
+      "content": "Exclusive: Tshering Tobgay says his country is doing ‘a lot more than our fair share’ on climate and west must cut emissions ‘for the happiness of your people’The wealthy western countries most responsible for the climate crisis would improve the health and happiness of their citizens by prioritising environmental conservation and sustainable economic growth, according to the prime minister of Bhutan, the world’s first carbon-negative nation.Bhutan, a Buddhist democratic monarchy and biodiversity hotspot situated high in the eastern Himalayas, is among the world’s most ambitious climate leaders thanks to its people’s connection with nature and a strong political focus on improving gross national happiness rather than just GDP, Tshering Tobgay told the Guardian. Continue reading...",
+      "content_length": 791,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Syrien führt ersten Prozess nach tödlicher Gewalt im März",
+      "link": "https://www.tagesschau.de/ausland/asien/prozess-gewalttaten-syrien-100.html",
+      "published": "2025-11-18T14:28:13",
+      "content": "   Im März starben an Syriens Küste etwa 1.500 Menschen, die meisten von ihnen waren Alawiten. Laut UN hatten regierungsnahe Truppen systematisch Gewalt gegen die Minderheit ausgeübt. Ein Prozess in Aleppo soll nun die Hintergründe klären.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Frist für Afghanen abgelaufen: Regierung nennt keine Zahlen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanen-aufnahmezusage-bundesregierung-100.html",
+      "published": "2025-11-18T14:01:11",
+      "content": "   Die Frist für Afghaninnen und Afghanen, auf ihre Aufnahmezusage gegen Geld zu verzichten, ist abgelaufen. Die Resonanz darauf scheint gering zu sein. Zahlen will die Bundesregierung weiterhin nicht nennen. Von P. Eckstein.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "3,5 Milliarden User: Gesamtes WhatsApp-Verzeichnis abgeschnorchelt",
+      "link": "https://www.heise.de/news/3-5-Milliarden-Konten-Komplettes-Whatsapp-Verzeichnis-abgerufen-und-ausgewertet-11082660.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-18T14:00:00",
+      "content": "Wiener Forscher haben alle WhatsApp-Nummern abgerufen. Die 3,5 Milliarden Profile sind der größte Datenabfluss der Geschichte – und übler, als man meinen würde.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Streit um U-Boot-Deals - Grätsche aus London",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/ruestungsdeal-uboot-bundesregierung-100.html",
+      "published": "2025-11-18T13:39:12",
+      "content": "   Der deutsche Rüstungskonzern TKMS hofft auf Mega-Deals: Kanada will zwölf neue U-Boote kaufen, auch Polen will seine Flotte erneuern. Nun sorgt die Positionierung der britischen Regierung nach Informationen von WDR und NDR für Unmut in Berlin.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Polen vermutet russischen Geheimdienst hinter Sabotage an Bahnstrecke",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-bahn-sabotage-russland-100.html",
+      "published": "2025-11-18T13:18:12",
+      "content": "   Die polnischen Behörden gehen davon aus, dass russische Geheimdienste hinter dem Anschlag auf die polnische Bahn stecken. Sprengsätze waren an einer Strecke explodiert, die wichtig für Militärtransporte in die Ukraine ist. [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Selenskyj will Friedensgespräche für die Ukraine wiederbeleben",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-188.html",
+      "published": "2025-11-18T13:06:37",
+      "content": "   Mehrere Gesprächsrunden zwischen der Ukraine und Russland in der Türkei blieben zuletzt ohne Fortschritte. Präsident Selenskyj will nun nach Istanbul reisen und die Verhandlungen wieder aufnehmen - allerdings ist kein russischer Vertreter dabei.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Was folgt auf den Beschluss zum Gaza-Friedensplan?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-sicherheitsrat-friedensplan-gaza-100.html",
+      "published": "2025-11-18T12:58:40",
+      "content": "   Die Reaktionen auf den Gaza-Friedensplan sind gemischt: Netanjahu spricht von Frieden und der Entwaffnung der Hamas - die das ablehnt. Die palästinensische Autonomiebehörde fordert die sofortige Umsetzung. [mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Saudi entourage for US visit may include official implicated in Twitter spy plot",
+      "link": "https://www.theguardian.com/world/2025/nov/18/saudi-leader-mohammed-bin-salman-entourage-includes-official-implicated-in-twitter-spy-plot",
+      "published": "2025-11-18T12:54:05",
+      "content": "Senior aide to Mohammed bin Salman allegedly led campaign to identify users who were posting critically about Saudi regimeA senior official in Mohammed bin Salman’s entourage, who is expected to travel with the crown prince on his first trip back to the US in seven years, has previously been accused by US prosecutors of playing a central role in a conspiracy to infiltrate Twitter and identify users who were posting critically about the Saudi regime.Bader al-Asaker, who has headed Prince Mohammed’s private office since before he became crown prince, has never been formally charged by the US government for his role in the 2014-15 scheme, but was accused in court by a US government lawyer as having led the campaign to find a “mole” who would be able to extract sensitive information from the social media company, which is now known as X. Continue reading...",
+      "content_length": 865,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Cloudflare-Ausfall: Dienste am Dienstag global gestört",
+      "link": "https://www.heise.de/news/Cloudflare-Ausfall-Dienste-global-gestoert-11083180.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-18T12:38:00",
+      "content": "Die Dienste des Internetanbieters Cloudflare waren Dienstagnachmittag gestört. Davon waren zahlreiche Websites betroffen.",
+      "content_length": 121,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Unterhaltungselektronik im Oktober billiger als im Jahr zuvor",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/unterhaltungselektronik-preise-inflation-100.html",
+      "published": "2025-11-18T12:32:25",
+      "content": "   Die Preise für Nahrungsmittel, Dienstleistungen und Miete sind zuletzt teilweise weiter gestiegen. Dafür wird Unterhaltungselektronik billiger. [mehr]",
+      "content_length": 153,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "FAQ: Wie ist Beihilfe zum Suizid rechtlich geregelt?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/suizid-beihilfe-rechtslage-100.html",
+      "published": "2025-11-18T12:31:21",
+      "content": "   Nach dem Tod der Kessler-Zwillinge ist das Thema des assistierten Suizids wieder in die Öffentlichkeit gerückt. Doch was bedeutet Beihilfe zum Suizid und wie ist sie rechtlich geregelt? Ein Überblick von Frank Bräutigam.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Diese Länder gehen beim Klimaschutz voran",
+      "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-index-2026-100.html",
+      "published": "2025-11-18T12:30:11",
+      "content": "   Der Klimaschutz-Index bewertet jährlich, wie ambitioniert die Länder den Klimawandel bekämpfen. Der diesjährige Bericht zeigt: Es gibt Fortschritte - aber sie reichen nicht aus. Deutschland rutscht im Ranking sogar ab. Von J. Schreiber.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: Anleger fliehen aus dem DAX - das steckt dahinter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-warum-kurssturz-dax-boerse-100.html",
+      "published": "2025-11-18T12:25:37",
+      "content": "   Der DAX rauscht immer weiter in die Tiefe. Zweifel am KI-Boom und Zinsängste sorgen für eine große Unsicherheit an den Börsen - und wenn die Anleger eines nicht mögen, dann ist es Unsicherheit. Von Angela Göpfert.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Migrationspolitik - Trotz Ausbildung abgeschoben",
+      "link": "https://www.tagesschau.de/investigativ/panorama/migrationspolitik-abschiebungen-ausbildung-100.html",
+      "published": "2025-11-18T12:21:43",
+      "content": "   Um mehr Fachkräfte auszubilden, soll das Gesetz Auszubildende vor einer Abschiebung schützen. Doch seit Jahren sinkt die Zahl der Ausbildungsduldungen, auch weil Ausländerbehörden offenbar das Gesetz nicht anwenden, wie eine NDR-Recherche zeigt. [mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/trump-says-us-will-sell-f-35-stealth-jets-to-saudis-as-prince-mohammed-visits",
+      "published": "2025-11-18T12:16:49",
+      "content": "Kingdom’s de facto ruler to arrive on first White House trip since killing of journalist Jamal Khashoggi in 2018Donald Trump is to welcome Saudi Arabia’s de facto ruler, Mohammed bin Salman to Washington on Tuesday, in a red-carpet visit expected to result in the sale of highly advanced US F-35 fighter jets to the Gulf monarchy.The crown prince’s arrival in Washington will be his first White House visit since the 2018 killing of the Washington Post journalist and critic of the kingdom Jamal Khashoggi. The CIA later determined Khashoggi’s murder was approved by the crown prince, leading to global condemnation. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tausende Rinder seit Wochen auf Schiff - Tierschützer besorgt",
+      "link": "https://www.tagesschau.de/ausland/asien/viehtransport-tuerkei-kueste-uruguay-100.html",
+      "published": "2025-11-18T11:54:32",
+      "content": "   Ein Schiff mit Tausenden Rindern aus Uruguay durfte in der Türkei nicht entladen werden. Nun ist es wohl auf der Rückreise nach Südamerika. Tierschützer bezweifeln, dass die Rinder dort lebend ankommen.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "IT-Vorfall: Stadtwerke Detmold nicht mehr erreichbar",
+      "link": "https://www.heise.de/news/Stadtwerke-Detmold-nach-IT-Vorfall-offline-11082906.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-18T11:37:00",
+      "content": "Die Stadtwerke Detmold sind Opfer eines IT-Angriffs geworden. Sie sind derzeit nicht mehr erreichbar. Die Versorgung soll gesichert sein.",
+      "content_length": 137,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zwei Tote bei Unwetter in Italien - Haus von Schlammmassen verschüttet",
+      "link": "https://www.tagesschau.de/ausland/italien-unwetter-146.html",
+      "published": "2025-11-18T11:08:55",
+      "content": "   Im Norden Italiens sind bei schweren Unwettern Häuser durch Schlammmassen verschüttet worden. Zwei Menschen starben - darunter ein Deutscher. Er wollte offenbar seine Nachbarin retten.[mehr]",
+      "content_length": 193,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
+      "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
+      "published": "2025-11-18T11:00:50",
+      "content": "It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and fundingIn October 2023, leaders, scientists and policymakers from three of the world’s great rainforest regions – the Amazon, the Congo, and the Borneo-Mekong basins – assembled in Brazzaville, capital of the Republic of Congo. They were there to discuss one urgent question: how to save the planet’s last great tropical forests from accelerating destruction.For those present, the question was existential. But to their dismay, almost no one noticed. “There was very little acknowledgment that this was happening, outside of the Congo basin region,” says Prof Simon Lewis, a lecturer at the University of Leeds and University College London, and co-chair of the Congo Basin Science Initiative (CBSI). Continue reading...",
+      "content_length": 850,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anklage gegen mutmaßlichen Polizistenmörder von Völklingen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/polizistenmoerder-voelklingen-100.html",
+      "published": "2025-11-18T10:42:00",
+      "content": "   Nach den tödlichen Schüssen auf einen Polizeibeamten in Völklingen sieht die Staatsanwaltschaft mehrere Mordmerkmale erfüllt. Sie hat gegen den 18-jährigen mutmaßlichen Täter nun Anklage erhoben.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kommandozeile adé: Praktische, grafische Git-Verwaltung für den Mac",
+      "link": "https://www.heise.de/news/Kommandozeile-ade-Praktische-grafische-Git-Verwaltung-fuer-den-Mac-11082628.html",
+      "published": "2025-11-18T09:56:00",
+      "content": "Der kostenlose GitBrowser dient dem alltäglichen Umgang mit Versionskontrolle auf dem Mac. Entwickler agieren einfach in Repos, Branches und Commits.",
+      "content_length": 149,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Neue DDoS-Spitze: Microsoft wehrt 15,7 TBit/s-Angriff ab",
+      "link": "https://www.heise.de/news/Neue-DDoS-Spitze-Microsoft-wehrt-15-7-TBit-s-Angriff-ab-11082579.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-18T09:35:00",
+      "content": "Microsoft hat eine DDoS-Attacke mit einer Spitzenlast von 15,7 TBit/s verzeichnet. Seit Juni hat sich der Spitzenwert mehr als verdoppelt.",
+      "content_length": 138,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Clean Architecture und Co.: Softwarearchitektur mit Mustern strukturieren",
+      "link": "https://www.heise.de/hintergrund/Clean-Architecture-und-Co-Softwarearchitektur-mit-Mustern-strukturieren-11070839.html",
+      "published": "2025-11-18T08:20:00",
+      "content": "Ein passendes Architekturmuster sorgt für gut wartbare Systeme, ein unpassendes führt direkt ins Chaos. Clean Architecture vereint eine Reihe von Vorteilen.",
+      "content_length": 156,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Windows 10: Out-of-Band-Update behebt Probleme mit erstem ESU-Update",
+      "link": "https://www.heise.de/news/Windows-10-Out-of-Band-Update-behebt-Probleme-mit-erstem-ESU-Update-11082407.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-18T08:06:00",
+      "content": "Microsoft verteilt für Windows 10 22H2 erneut ein Update außer der Reihe. Es korrigiert Probleme mit dem ersten ESU-Update.",
+      "content_length": 123,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ein Tag im Leben eines Softwarearchitekten – Überleben im Unternehmensdschungel",
+      "link": "https://www.heise.de/blog/Ein-Tag-im-Leben-eines-Softwarearchitekten-Ueberleben-im-Unternehmensdschungel-10283764.html",
+      "published": "2025-11-18T07:30:00",
+      "content": "Produktivität gehört zu den  wichtigsten Qualitäten der Softwareentwicklung, wenn auf dem Weg  nicht so viele hemmende Hindernisse lauern würden.",
+      "content_length": 145,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
