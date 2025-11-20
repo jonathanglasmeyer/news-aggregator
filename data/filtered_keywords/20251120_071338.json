@@ -1,0 +1,1363 @@
+{
+  "metadata": {
+    "timestamp": "20251120_071338",
+    "input_file": "data/deduplicated/20251120_071337.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 155,
+      "filtered_count": 149,
+      "blacklisted_count": 6,
+      "reduction_rate": "3.9%",
+      "top_blacklist_reasons": {
+        "olympia": 2,
+        "fußball": 1,
+        "wetterbericht": 1,
+        "regen": 1,
+        "einbruch": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Australia news live: Kellie Sloane thanks Mark Speakman for endorsement after NSW Liberal leader stands down",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/20/australia-news-live-volcano-java-labor-nature-laws-coalition-sussan-ley-anthony-albanese-nsw-leadership-spill-liberal-chaos-ntwnfb",
+      "published": "2025-11-20T07:10:00",
+      "content": "Opposition leader stands down after long period of leadership speculation. Follow today’s news liveTurkey to host Cop31 climate conference after Australia drops push to hold it in AdelaideGet our breaking news email, free app or daily news podcastGovernment reaffirms that best Cop outcome is one that elevates Pacific voicesPat Conroy, the minister for defence industry, said Australia is still seeking to host the UN climate summit in Adelaide next year, but is being frank with the Australian people that any one country can block a successful bid.We’re continuing to negotiate the best possible outcome for progress on climate action and to draw attention to what’s occurring in the Pacific. And so we are still negotiating. We’re still seeking to win the rights to host the Cop in conjunction with the Pacific. But we’re also being frank with the Australian people that the UN framework convention has consensus rules, which means that any one country can block a successful bid.We’re still seeking to host that Cop, but we’ve been very clear. That our focus is on getting a positive outcome for climate action and highlighting what is going on in the Pacific.We’ve said that we would not veto Turkey if they choose them. They haven’t been chosen yet, but we would not veto it. Continue reading...",
+      "content_length": 1302,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "COP30 - Deutschland beteiligt sich mit einer Milliarde Euro an Tropenfonds",
+      "link": "https://www.deutschlandfunk.de/deutschland-beteiligt-sich-mit-einer-milliarde-euro-an-tropenfonds-102.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Deutschland hat bei der UNO-Klimakonferenz in Brasilien eine Milliarde Euro für den globalen Waldschutzfonds TFFF zugesagt. Wie Bundesentwicklungsministerin Alabali Radovan und Bundesumweltminister Schneider in Belém mitteilten, wird sich Deutschland in den kommenden zehn Jahren mit dieser Summe beteiligen.",
+      "content_length": 308,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Trump unterzeichnet Gesetz zur Freigabe der Epstein-Akten",
+      "link": "https://www.deutschlandfunk.de/trump-unterzeichnet-gesetz-zur-freigabe-der-epstein-akten-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "US-Präsident Trump hat ein Gesetz zur Freigabe von Ermittlungsakten in der Affäre um den Sexualstraftäter Epstein unterzeichnet. Dies gab der Präsident bekannt. Zuvor hatten bereits der Kongress und Senat der Freigabe zugestimmt.",
+      "content_length": 229,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rückschritte durch Kürzung von Entwicklungshilfen - Unicef: Fast jedes fünfte Kind weltweit in extremer Armut",
+      "link": "https://www.deutschlandfunk.de/unicef-fast-jedes-fuenfte-kind-weltweit-in-extremer-armut-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Mehr als 400 Millionen Kinder auf der Welt leben nach Angaben des UNO-Kinderhilfswerks Unicef in extremer Armut.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - USA und Russland handeln laut Medienberichten Plan für Kriegsende aus",
+      "link": "https://www.deutschlandfunk.de/usa-und-russland-handeln-laut-medienberichten-plan-fuer-kriegsende-aus-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die USA haben Medienberichten zufolge gemeinsam mit Russland im Geheimen einen neuen Plan für ein Kriegsende in der Ukraine ausgearbeitet. Der Entwurf verlange von der Ukraine große Zugeständnisse, berichtet die \"Financial Times\".",
+      "content_length": 230,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
+      "link": "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Der für den Bereich der Künstlichen Intelligenz besonders wichtige US-Chipkonzern Nvidia hat bessere Quartalsergebnisse erzielt als erwartet. Dies sorgte an den Finanzmärkten für Erleichterung. Dort war zuletzt die Sorge gewachsen, dass der KI-Boom zu einer Blase geführt habe, die bald platzen könnte.",
+      "content_length": 302,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
+      "link": "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die 20 größten Volkswirtschaften werden nach Einschätzung des Internationalen Währungsfonds bis zum Jahr 2030 um 2,9 Prozent jährlich wachsen.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Aus Pakistan - 52 Afghanen mit Aufnahmezusage fliegen nach Deutschland",
+      "link": "https://www.deutschlandfunk.de/52-afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die Bundesregierung hat erneut Afghanen aus der pakistanischen Hauptstadt Islamabad nach Deutschland fliegen lassen.",
+      "content_length": 116,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Rechtsstaatlich fundiert\" - Historikerin Lutz sieht Nürnberger Prozesse als \"Meilenstein\" des modernen Völkerstrafrechts",
+      "link": "https://www.deutschlandfunk.de/historikerin-lutz-sieht-nuernberger-prozesse-als-meilenstein-des-modernen-voelkerstrafrechts-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die Historikerin Nina Lutz sieht in den Nürnberger Prozessen nach dem Zweiten Weltkrieg einen \"Meilenstein\" bei der Etablierung des modernen Völkerstrafrechts. Die Prozesse - unter anderem gegen mehr als 20 hochrangige Funktionäre der NS-Diktatur - begannen heute vor 80 Jahren.",
+      "content_length": 278,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheit - Kassenärztliche Vereinigungen gegen neue Praxisgebühr",
+      "link": "https://www.deutschlandfunk.de/kassenaerztliche-vereinigungen-gegen-neue-praxisgebuehr-100.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Der Chef der Kassenärztlichen Bundesvereinigung, Gassen, hat die Wiedereinführung einer Praxisgebühr abgelehnt.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rom - Italien erlaubt Auslieferung von mutmaßlichem Nord-Stream-Saboteur",
+      "link": "https://www.deutschlandfunk.de/italien-erlaubt-auslieferung-von-mutmasslichem-nord-stream-saboteur-110.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Italiens oberstes Gericht hat entschieden, dass der mutmaßliche Drahtzieher der Anschläge auf die Nord-Stream-Gasleitungen an Deutschland ausgeliefert werden darf. Das teilte der Anwalt des Beschuldigten in Rom mit. Der Mann war im August in Italien aufgrund eines europäischen Haftbefehls festgenommen worden und wehrt sich seitdem gegen seine Überstellung nach Deutschland.",
+      "content_length": 375,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - USA wollen sich für Beendigung des Bürgerkriegs im Sudan einsetzen",
+      "link": "https://www.deutschlandfunk.de/usa-wollen-sich-fuer-beendigung-des-buergerkriegs-im-sudan-einsetzen-104.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die USA wollen sich für eine Beendigung des Bürgerkrieges im Sudan einsetzen.",
+      "content_length": 77,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - EU-Außenminister beraten über Ukraine-Krieg, Gaza und den Sudan",
+      "link": "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-krieg-gaza-und-den-sudan-102.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die EU-Außenminister treffen sich am Vormittag in Brüssel, um zu den jüngsten Entwicklungen im Ukraine-Krieg und im Nahen Osten zu beraten.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Pristina - Regierungsbildung im Kosovo erneut gescheitert",
+      "link": "https://www.deutschlandfunk.de/regierungsbildung-im-kosovo-erneut-gescheitert-104.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Im Kosovo ist eine Regierungsbildung erneut gescheitert.",
+      "content_length": 56,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Genf - WHO: Weltweit jede dritte Frau von Gewalt betroffen",
+      "link": "https://www.deutschlandfunk.de/who-weltweit-jede-dritte-frau-von-gewalt-betroffen-106.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Die Weltgesundheitsorganisation hat eine Studie zur Gewalt gegen Frauen veröffentlicht.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
+      "link": "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Bundesfinanzminister Klingbeil hat zum Abschluss seiner Reise nach China die Zusammenarbeit zwischen Berlin und Peking im Bereich der Innovation gelobt. Er forderte zugleich einen fairen Wettbewerb sowie einen Zugang zu Seltenen Erden. Der Minister sagte in Shanghai, die deutsche Regierung sei sehr willkommen in China.",
+      "content_length": 320,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kritik am Bundeskanzler - Merz hält Verhältnis zu Lula trotz Belem-Bemerkung für unbelastet",
+      "link": "https://www.deutschlandfunk.de/merz-haelt-verhaeltnis-zu-lula-trotz-belem-bemerkung-fuer-unbelastet-106.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Bundeskanzler Merz hat die Bedeutung seiner Bemerkung über Brasilien heruntergespielt.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza - Hamas meldet 25 Tote nach israelischen Angriffen auf Gazastreifen",
+      "link": "https://www.deutschlandfunk.de/hamas-meldet-25-tote-nach-israelischen-angriffen-auf-gazastreifen-106.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Bei israelischen Angriffen auf Ziele im Gazastreifen sind nach Angaben der von der Hamas kontrollierten Gesundheitsbehörde zehn Menschen getötet und mehr als 70 Menschen verletzt worden.",
+      "content_length": 186,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Öffentlich-Rechtliche - Rundfunkreform kann in Kraft treten - Brandenburg stimmt als letztes Bundesland zu",
+      "link": "https://www.deutschlandfunk.de/rundfunkreform-kann-in-kraft-treten-brandenburg-stimmt-als-letztes-bundesland-zu-102.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Der Weg für die Reform von ARD, ZDF und Deutschlandradio ist frei. Brandenburg hat als letztes Bundesland dem Reformstaatsvertrag für den öffentlich-rechtlichen Rundfunk zugestimmt. Das Vorhaben ging aber nur mit Hilfe der Opposition durch den Landtag - die SPD/BSW-Koalition hatte keine eigene Mehrheit. ",
+      "content_length": 305,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elektromobilität - Bundesregierung: E-Auto-Laden soll so unkompliziert werden wie Tanken",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-e-auto-laden-soll-so-unkompliziert-werden-wie-tanken-104.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Für das Laden von Elektroautos soll es in Deutschland künftig bessere Rahmenbedingungen geben.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sterbehilfe - Tod der Kessler-Zwillinge befeuert Forderungen nach gesetzlichen Regeln für assistierten Suizid",
+      "link": "https://www.deutschlandfunk.de/tod-der-kessler-zwillinge-befeuert-forderungen-nach-gesetzlichen-regeln-fuer-assistierten-suizid-102.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Der Tod der Entertainerinnen Alice und Ellen Kessler hat eine Debatte über den assistierten Suizid ausgelöst. Der Vorsitzende des Deutschen Ethikrats, Frister, drängte nach zuletzt mehreren gescheiterten Initiativen im Bundestag auf gesetzliche Regelungen.",
+      "content_length": 256,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medien - Unmut über neue Sendung von Jan Fleischhauer im ZDF",
+      "link": "https://www.deutschlandfunk.de/unmut-ueber-neue-sendung-von-jan-fleischhauer-im-zdf-104.html",
+      "published": "2025-11-20T07:09:23",
+      "content": "Eine neue ZDF-Sendung mit dem Autor und Kolumnisten Jan Fleischhauer sorgt für Kritik.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mein Scrum ist kaputt #141: Training from the Back of the Room",
+      "link": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-141-Training-from-the-Back-of-the-Room-11084155.html",
+      "published": "2025-11-20T07:01:00",
+      "content": "In ihrem Podcast sprechen Ina Einemann, Dominik Ehrenberg und Sebastian Bauer über ihre Erfahrungen mit KI in agilen Teams.",
+      "content_length": 123,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thursday briefing: What fresh claims of racism and antisemitism at school mean for Nigel Farage",
+      "link": "https://www.theguardian.com/world/2025/nov/20/thursday-briefing-what-fresh-claims-of-racism-and-antisemitism-at-school-mean-for-nigel-farage",
+      "published": "2025-11-20T06:50:28",
+      "content": "In today’s newsletter: With the Reform leader now a serious contender for PM,  we look at the impact the allegations about his behaviour as a schoolboy could have on Britain•  Don’t get First Edition delivered to your inbox? Sign up hereGood morning. For more than 30 years, Nigel Farage has been one of the most disruptive figures in British politics, known for building a brand on outrage and polarisation. He presents himself as the everyman, cigarette hanging out of his mouth or a pint in hand.Now that several polls suggest he is a serious contender to be the next prime minister, it feels high time to ask: what’s the background of this supposed man of the people? The latest Guardian exclusive digs deep into just that question, where allegations from more than a dozen school contemporaries of Farage recount incidents of deeply offensive behaviour throughout his teenage years. This is not the whole picture. Others who knew Farage then remember he was bumptious, rude, provocative and enjoyed being the centre of attention, and do not recall the alleged behaviour.US news | Donald Trump has signed a bill directing the justice department to release files from the investigation into the late sex offender Jeffrey Epstein, surrendering in the face of joint pressure from Democratic opponents and the president’s conservative base.UK news | Up to 50,000 nurses could quit the UK over the government’s immigration proposals, plunging the NHS into its biggest ever workforce crisis, research suggests.Middle East | Israel used widely banned cluster munitions in its recent 13-month war in Lebanon, photos of munition remnants in south Lebanon seen by the Guardian suggest.Ukraine | US and Russian officials have quietly drafted a new plan to end the war in Ukraine that would require Kyiv to surrender territory and severely limit the size of its military, according to reports.Health | The world’s largest study into key substances in the bloodstream has paved the way for a swathe of pinprick tests that can detect early signs of disease more than a decade before symptoms appear, researchers say. Continue reading...",
+      "content_length": 2126,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump to meet with New York Mayor-elect Mamdani at White House on Friday",
+      "link": "https://www.france24.com/en/americas/20251120-trump-new-york-mayor-elect-mamdani-white-house-friday",
+      "published": "2025-11-20T06:34:16",
+      "content": "US President Donald Trump will meet with New York Mayor-elect Zohran Mamdani in the Oval Office Friday, the president and Mamdani's spokesperson confirmed. Trump repeatedly threatened to withhold federal funding from the city of 8 million people during the democratic socialist's mayoral campaign.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Nvidias Wachstum könnte den DAX antreiben",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-aktienmarkt-geldanlage-102.html",
+      "published": "2025-11-20T06:19:12",
+      "content": "   Nach den unerwartet starken Geschäftszahlen des KI-Konzerns Nvidia könnte der DAX heute auf Erholungskurs gehen. Die Furcht vor dem Platzen einer möglichen KI-Blase hatte die Kurse zuletzt belastet.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Oxfam: G20-Milliardäre um 2,2 Billionen US-Dollar reicher geworden",
+      "link": "https://www.tagesschau.de/ausland/oxfam-reichtum-100.html",
+      "published": "2025-11-20T06:09:38",
+      "content": "   Die Hilfsorganisation Oxfam prangert wachsende Ungleichheit an: Milliardäre in den G20-Staaten seien in einem Jahr um insgesamt 2,2 Billionen US-Dollar reicher geworden - das sei genug, um Milliarden Menschen aus der Armut zu befreien.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Up to 50,000 nurses could quit UK over immigration plans, survey suggests",
+      "link": "https://www.theguardian.com/society/2025/nov/20/up-to-50000-nurses-could-quit-uk-over-immigration-plans-survey-suggests",
+      "published": "2025-11-20T06:00:17",
+      "content": "Exclusive: union leaders say proposed changes are immoral and could threaten patient safety if there is staff exodusUp to 50,000 nurses could quit the UK over the government’s immigration proposals, plunging the NHS into its biggest ever workforce crisis, research suggests.Keir Starmer has vowed to curb net migration, with plans to force migrants to wait as long as 10 years to apply to settle in the UK instead of automatically gaining settled status after five years. Continue reading...",
+      "content_length": 491,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "British Jews turn to Greens and Reform UK as support for main parties drops",
+      "link": "https://www.theguardian.com/world/2025/nov/20/british-jews-turn-to-greens-and-reform-uk-as-support-for-main-parties-drops",
+      "published": "2025-11-20T06:00:16",
+      "content": "Study finds new party divide as backing for Labour and Conservatives plunges from 84% in 2020 to 58% in 2025A new party divide is emerging among British Jews, research has found, with support rising fast for the Greens – buoyed up by younger and “anti-Zionist” Jews – while older Orthodox men turn to Reform UK as trust in the two main parties “collapses”.Support for Labour and the Conservatives among British Jews had fallen to 58% by July 2025 from nearly 84% in 2020, according to a report from the Institute of Jewish Policy Research (JPR), which said it was “the lowest level we’ve ever recorded by some distance”. Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australian living in Thailand faces trial over alleged criminal defamation of Malaysian government",
+      "link": "https://www.theguardian.com/world/2025/nov/20/australian-murray-hunter-journalist-academic-trial-over-alleged-criminal-defamation-of-malaysian-government",
+      "published": "2025-11-20T05:55:49",
+      "content": "Murray Hunter charged with offence which carries a potential penalty of two years in jail, or a 200,000 baht (AUD$9,500) fineAn Australian academic and journalist faces up to two years in prison after being charged – in Thailand – with defaming the Malaysian government.Murray Hunter, a longtime resident of southern Thailand, will stand trial in Bangkok next month, charged with criminal defamation over articles critical of the Malaysian government’s internet regulator. Continue reading...",
+      "content_length": 492,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nürnberger Prozesse: Die Psyche der Kriegsverbrecher",
+      "link": "https://www.tagesschau.de/wissen/forschung/nuernberger-prozesse-psychologie-100.html",
+      "published": "2025-11-20T05:48:36",
+      "content": "   Was ging in den Köpfen der NS-Täter vor sich? Dieser Frage versuchte der Psychologe Gustave M. Gilbert beim Hauptkriegsverbrecherprozess in Nürnberg 1945 auf den Grund zu gehen. Von Michael Zametzer.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "80 Jahre Nürnberger Prozesse: Ein Verfahren, das bis heute nachwirkt",
+      "link": "https://www.tagesschau.de/inland/nuernberger-prozesse-118.html",
+      "published": "2025-11-20T05:47:33",
+      "content": "   Vor 80 Jahren begannen die Nürnberger Prozesse. Mehr als 200 Nationalsozialisten sollten für ihre Verbrechen zur Verantwortung gezogen werden. Die Prozesse gelten als Geburtsstunde des Völkerstrafrechts. Von Frank Bräutigam.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Recht statt Rache: 80 Jahre Nürnberger Prozesse",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-nuernberger-prozesse-100.html",
+      "published": "2025-11-20T05:45:57",
+      "content": "   In Nürnberg stellen die Alliierten ab 1945 die Führungsriege der Nationalsozialisten vor Gericht. Der Podcast 11KM schaut auf die Bedeutung, die die Prozesse bis heute haben - und auf eine besondere Begegnung.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: EU-Außenminister beraten über Unterstützung",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-hilfe-treffen-100.html",
+      "published": "2025-11-20T05:34:04",
+      "content": "   Die EU-Außenminister beraten heute über die Unterstützung der Ukraine. Die Zeit drängt, dem Land könnte in wenigen Monaten das Geld ausgehen. Auf dem Tisch liegt ein riskanter Vorschlag. Von C. Feld und S. Fritz.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Alice Guo, Chinese national who ran huge scam centre while Philippines mayor, sentenced to life in prison",
+      "link": "https://www.theguardian.com/world/2025/nov/20/alice-guo-chinese-national-who-ran-huge-scam-centre-while-philippines-mayor-sentenced-to-life-in-prison",
+      "published": "2025-11-20T05:24:00",
+      "content": "Guo, who pretended to be Filipina to become mayor, found guilty of human trafficking after raid on compound where more than 700 people were forced to run scamsAlice Guo, a Chinese national who became a mayor in the Philippines while masquerading as a Filipina, has been sentenced to life in prison along with seven others on human trafficking charges, state prosecutors have said.Guo, who served as mayor of a town north of Manila, was found guilty of overseeing a Chinese-operated online gambling centre where hundreds of people were forced to run scams or risk torture. Continue reading...",
+      "content_length": 591,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump and Mamdani to meet in Oval Office on Friday after months of bickering",
+      "link": "https://www.theguardian.com/us-news/2025/nov/20/donald-trump-zohran-mamdani-nyc-mayor-elect-meeting",
+      "published": "2025-11-20T05:15:49",
+      "content": "President has previously criticised the New York City mayor-elect, labelling him a ‘communist’ and threatening to deport himDonald Trump has confirmed a long-awaited meeting with New York City mayor-elect Zohran Mamdani will happen in Washington this week, setting up an in-person clash between the political opposites who for months have antagonised each other.The sit-down, which Trump said on social media would take place on Friday in the Oval Office, could possibly represent a detente of sorts between the Republican president and Democratic rising star. Continue reading...",
+      "content_length": 580,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NSW police use capsicum spray to subdue 87-year-old man in Sydney nursing home",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/20/nsw-police-pepper-spray-capsicum-87-year-old-man-sydney-nursing-home",
+      "published": "2025-11-20T05:05:48",
+      "content": "Police allege man ‘had reportedly threatened to harm other residents and himself while armed with a metal object’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNew South Wales police have used capsicum spray to subdue an 87-year-old man in a Sydney nursing home.Police said the incident occurred at an aged care home in south-western Sydney on Wednesday at about 8pm. Continue reading...",
+      "content_length": 453,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "ACT police accused of ‘racial profiling’ for allegedly pulling guns on Indigenous teenager after mistaking him for suspect",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/20/act-police-accused-of-racial-profiling-for-allegedly-pulling-guns-on-indigenous-teenager-after-mistaking-him-for-suspect",
+      "published": "2025-11-20T05:05:47",
+      "content": "Family of 17-year-old travelling on bus that was stopped by police say officers searched boy even after admitting mistakeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPolice in Canberra allegedly pulled their guns on a 17-year-old Indigenous boy who they mistook for a suspect in an aggravated burglary, prompting accusations of “institutional racism” and “racial profiling”.The boy’s family allege he was travelling on a bus on when it was stopped by police officers looking for a suspect accused of robbing a shop with a knife. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Betriebssystem feiert Jubiläum: 40 Jahre Windows",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-jubilaeum-102.html",
+      "published": "2025-11-20T05:04:42",
+      "content": "   Vor vierzig Jahren kam das erste Microsoft-Betriebssystem auf den Markt. Damit begann nicht nur die Erfolgsgeschichte des Softwareanbieters, sondern auch die heimischer PCs.[mehr]",
+      "content_length": 182,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Study: Kids’ drip paintings more like Pollock’s than those of adults",
+      "link": "https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/",
+      "published": "2025-11-20T05:00:26",
+      "content": "Not everyone appreciates the artistry of Jackson Pollock’s famous drip paintings, with some dismissing them as something any child could create. While Pollock’s work is undeniably more sophisticated than that, it turns out that when one looks at splatter paintings made by adults and young children through a fractal lens and compares them to those of Pollock himself, the children’s work does bear a closer resemblance to Pollock’s than those of the adults. This might be due to the artist’s physiology, namely a certain clumsiness with regard to balance, according to a new paper published in the journal Frontiers in Physics.\nCo-author Richard Taylor, a physicist at the University of Oregon, first found evidence of fractal patterns in Pollock’s seemingly random drip patterns in 2001. As previously reported, his original hypothesis drew considerable controversy, both from art historians and a few fellow physicists. In a 2006 paper published in Nature, Case University physicists Katherine Jones-Smith and Harsh Mathur claimed Taylor’s work was “seriously flawed” and “lacked the range of scales needed to be considered fractal.” (To prove the point, Jones-Smith created her own version of a fractal painting using Taylor’s criteria in about five minutes with Photoshop.)\nTaylor was particularly criticized for his attempt to use fractal analysis as the basis for an authentication tool to distinguish genuine Pollocks from reproductions or forgeries. He concedes that much of that criticism was valid at the time. But as vindication, he points to a machine learning-based study in 2015 relying on fractal dimension and other factors that achieved a 93 percent accuracy rate distinguishing between genuine Pollocks and non-Pollocks. Taylor built on that work for a 2024 paper reporting 99 percent accuracy.Read full article\nComments",
+      "content_length": 1839,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Angoulême comics festival in crisis as creators and publishers declare boycott",
+      "link": "https://www.theguardian.com/books/2025/nov/20/angouleme-comics-festival-crisis-boycott-funding-france",
+      "published": "2025-11-20T05:00:17",
+      "content": "French government withdraws funding after claims of toxic management and dismissal of staff member who lodged rape complaintOne of the world’s most prestigious comic book festivals is under threat of cancellation after leading graphic novelists and publishers announced they would boycott the event and the French government withdrew a tranche of its funding.In the biggest crisis in its illustrious history, the Angoulême festival of la bande dessinée (comic strip) may not take place in 2026 after claims of toxic management and the dismissal of a member of staff who had lodged a rape complaint. Continue reading...",
+      "content_length": 618,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wanna hear the one about the low-paid dad who took paternity leave?",
+      "link": "https://www.theguardian.com/money/2025/nov/20/paternity-rights-dad-jokes-parliament-uk",
+      "published": "2025-11-20T05:00:15",
+      "content": "MPs will tell ‘dad jokes’ in parliament to highlight ‘real joke’ of UK paternity leave, which is a class issueToe-curlingly bad jokes (“I’m reading a book about anti-gravity, it’s impossible to put down”) are not the preserve of fathers, but as a demographic, dads are widely recognised for their unique comic talents.Which is why on Thursday, dozens of MPs, many of them dad-joke specialists, will tell groan-worthy gags in the House of Commons to highlight the “real joke” of paternity leave in the UK.Winner: I gave my handyman a to-do list, but he only finished items one, three and five. Turns out he only does odd jobs.Runner-up one: I went shopping and someone threw a block of cheese at me. I said: “That’s not very mature.”Runner-up two: When I was a young boy I wanted to be a Gregorian monk. But I never got the chants. Continue reading...",
+      "content_length": 850,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Samoa PM suspends country’s only daily newspaper from press briefings amid dispute over coverage",
+      "link": "https://www.theguardian.com/world/2025/nov/20/samoa-pm-bans-newspaper-press-conferences",
+      "published": "2025-11-20T04:14:43",
+      "content": "Prime minister has accused the Samoa Observer of inaccurate reporting during his eight-week medical stay in New ZealandSamoa’s only daily newspaper has been banned from attending press conferences with the Samoan prime minister, in a move that critics say threatens the democratic integrity of the Pacific nation.Relations between La’aulialemalietoa Leuatea Polataivao Fosi Schmidt and the Samoa Observer have deteriorated in recent weeks, with the prime minister accusing the newspaper of inaccurate reporting during his eight-week medical stay in New Zealand. Continue reading...",
+      "content_length": 581,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia cedes hosting COP31 to Turkey, frustrating Pacific islands",
+      "link": "https://www.france24.com/en/americas/20251120-australia-cedes-cop-hosting-to-turkey-frustrating-pacific-islands-climate-change-cop31",
+      "published": "2025-11-20T04:07:58",
+      "content": "Australia has touted its decision to cede next year’s COP summit to Turkey as a “big win”, but the move has sparked disappointment across the Pacific, where island nations had hoped co-hosting COP31 would elevate their climate fight – and are now questioning Canberra’s commitment to climate justice.",
+      "content_length": 300,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ruf nach Aufklärung: Hanau-Angehörige legen Verfassungsbeschwerde ein",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hanau-anschlag-verfassungsbeschwerde-100.html",
+      "published": "2025-11-20T04:00:37",
+      "content": "   Zum Terroranschlag von Hanau gab es bisher keinen Prozess vor einem deutschen Gericht. Die Familie des ermordeten Hamza Kurtović kämpft seit Jahren für Aufklärung. Jetzt legt sie Verfassungsbeschwerde ein. Von Max Bauer.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rabih Alameddine wins National book award for fiction with darkly comic epic spanning six decades",
+      "link": "https://www.theguardian.com/books/2025/nov/20/rabih-alameddine-wins-national-book-award-for-fiction-with-darkly-comic-epic-spanning-six-decades",
+      "published": "2025-11-20T03:45:28",
+      "content": "True to his irreverent style, author of The True True Story of Raja the Gullible (and His Mother) thanks his psychiatrist, his gastrointestinal doctors and his drug dealersRabih Alameddine has won the National book award for fiction for The True True Story of Raja the Gullible (and His Mother), a darkly comic saga spanning six decades in the life of a Lebanese family.The novel, which traverses a sprawling history of Lebanon including its civil war and economic collapse, is told through the eyes of its titular protagonist: a gay 63-year-old philosophy teacher confronting his past and his relationship with his mother and his homeland. Continue reading...",
+      "content_length": 660,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brazil struggles to secure COP30 climate deal as fossil fuel divide persists",
+      "link": "https://www.france24.com/en/americas/20251120-brazil-struggles-to-secure-cop30-climate-deal-as-fossil-fuel-divide-persists",
+      "published": "2025-11-20T03:08:39",
+      "content": "Brazil fell short of clinching an early climate deal at COP30 on Wednesday, as divisions over fossil fuels and climate finance persisted. President Luiz Inácio Lula da Silva remained upbeat, saying progress is possible in the summit’s final days, while the EU proposed a flexible roadmap for phasing out fossil fuels amid opposition from key countries.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump signs bill to compel release of more Epstein documents",
+      "link": "https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files",
+      "published": "2025-11-20T03:01:14",
+      "content": "President attacks Democrats in post on Truth Social after US lawmakers swiftly move bill through CongressDonald Trump signed a bill Wednesday directing the justice department to release files from the investigation into the late sex offender Jeffrey Epstein, surrendering in the face of joint pressure from Democratic opponents and the president’s conservative base.The signature marked a sharp reversal for Trump, who had the authority as president to release the documents himself, but chose not to. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Larry Summers to relinquish Harvard teaching role amid Epstein investigation",
+      "link": "https://www.theguardian.com/us-news/2025/nov/19/larry-summers-harvard-epstein",
+      "published": "2025-11-20T02:52:31",
+      "content": "Decision comes after ex-treasury secretary said he would step back from public commitments over links to EpsteinLarry Summers, the former president of Harvard University, will stop teaching at the school while it investigates his connection to the disgraced financier Jeffrey Epstein, a spokesman for Summers said on Wednesday.Emails recently released by the US House oversight committee reignited questions about Summers’ relationship with Epstein, who died in jail in 2019 while awaiting trial on federal charges of sex-trafficking minors. Many of the messages indicated a friendship that lasted well into 2019. Contact only ceased shortly before Epstein was arrested in July of that same year. Continue reading...",
+      "content_length": 716,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Erstmals Medikament gegen Fettleber zugelassen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/medikament-gegen-fettleber-100.html",
+      "published": "2025-11-20T02:44:53",
+      "content": "   Etwa jeder vierte Mensch in Deutschland leidet an einer Fettleber, oft verursacht durch den Lebensstil. Jetzt hat die EU-Arzneimittel-Agentur erstmals ein Medikament für die Fettleber im fortgeschrittenen Stadium zugelassen. Von Nadine Becker.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump unterzeichnet Gesetz zur Freigabe der Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-gesetz-epstein-100.html",
+      "published": "2025-11-20T02:26:02",
+      "content": "   Die Epstein-Akten können veröffentlicht werden: Nach langem Widerstand hat US-Präsident Trump das Gesetz zur Freigabe der Unterlagen unterzeichnet. Auch in der eigenen Partei war der Druck zuletzt zu groß geworden.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump signs bill releasing Epstein documents amid fears of cover-up",
+      "link": "https://www.france24.com/en/americas/20251120-trump-signs-bill-releasing-epstein-documents-amid-fears-of-cover-up",
+      "published": "2025-11-20T02:19:49",
+      "content": "US President Donald Trump signed the Epstein Files Transparency Act on Wednesday, ordering the release of government records on convicted sex offender Jeffrey Epstein. The bipartisan move marks a reversal of his previous opposition, but lawmakers warn redactions or ongoing investigations could limit full disclosure of Epstein’s network and connections.",
+      "content_length": 354,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Turkey to host Cop31 climate conference after Australia drops push to hold it in Adelaide",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/20/turkey-to-host-cop31-climate-conference-after-australia-drops-push-to-hold-it-in-adelaide",
+      "published": "2025-11-20T01:51:33",
+      "content": "Fortnight-long event to be held in Antalya but Australian climate change minister Chris Bowen expected to lead the negotiationsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTurkey will host the Cop31 climate conference after the Australian government dropped its push to hold the event in Adelaide at the last moment despite having invested in a more than three-year campaign.But Australia’s climate change minister, Chris Bowen, is expected to lead climate negotiations at the summit in Turkey’s Mediterranean resort city of Antalya in November 2026 under a compromise deal to resolve a standoff between the two countries. Continue reading...",
+      "content_length": 710,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Papua New Guinea ‘not happy’ as Australia walks away from bid to host Cop31",
+      "link": "https://www.theguardian.com/environment/2025/nov/20/papua-new-guinea-pacific-not-happy-australia-walks-away-from-bid-to-host-cop31",
+      "published": "2025-11-20T01:38:02",
+      "content": "Australia had been pushing to host climate conference next year with south Pacific nations, which are increasingly threatened by rising seas and climate-fuelled disastersPapua New Guinea has voiced frustration after Australia ditched a bid to co-host next year’s UN climate talks with its Pacific island neighbours.“We are all not happy. And disappointed it’s ended up like this,” foreign minister Justin Tkatchenko told Agence France-Presse after Australia ceded hosting rights to Turkey. Continue reading...",
+      "content_length": 509,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli air strikes kill 27 in Gaza as fragile ceasefire frays",
+      "link": "https://www.france24.com/en/middle-east/20251120-israeli-strikes-kill-27-in-gaza-as-fragile-ceasefire-frays",
+      "published": "2025-11-20T01:11:34",
+      "content": "Israeli air strikes on Gaza killed 27 people on Wednesday, according to local officials, as Israel and Hamas traded accusations of breaching a fragile ceasefire that has largely held for more than a month. The violence unfolded alongside renewed Israeli strikes on Hezbollah targets in Lebanon, despite a ceasefire sealed there since last November.",
+      "content_length": 348,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Democratic Florida lawmaker indicted for allegedly stealing $5m in Fema funds",
+      "link": "https://www.theguardian.com/us-news/2025/nov/19/sheila-cherfilus-mccormick-indicted",
+      "published": "2025-11-20T01:05:35",
+      "content": "Sheila Cherfilus-McCormick accused of funneling money to family healthcare business for 2021 congressional campaignDemocratic representative Sheila Cherfilus-McCormick of Florida was indicted by a federal grand jury for allegedly funneling more than $5m worth of federal disaster funds from her company into her 2021 congressional campaign.The indictment states that Cherfilus-McCormick and her brother, Edwin Cherfilus, stole $5m in Fema overpayments that their family healthcare company received, moving the money through multiple accounts to hide its origins. The indictment alleges that the majority of the money was used for Cherfilus-McCormick’s congressional campaign, as well as for the personal benefit of the defendants. Continue reading...",
+      "content_length": 750,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reiche verhandelt in Katar über Gaslieferungen",
+      "link": "https://www.tagesschau.de/wirtschaft/reiche-katar-102.html",
+      "published": "2025-11-20T00:52:38",
+      "content": "   Wegen der EU-Importvorgaben hatte Katar zuletzt gedroht, LNG-Exporte einzufrieren. In Doha verhandelt Ministerin Reiche nun über verlässliche Gaslieferungen - dazu, was besprochen wurde, sagt sie jedoch nichts. Von Jannik Pentz.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gang-wracked Haiti unites to celebrate first World Cup qualification in 50 years",
+      "link": "https://www.france24.com/en/americas/20251120-gang-wracked-haiti-unites-to-celebrate-first-world-cup-qualification-in-50-years-football",
+      "published": "2025-11-20T00:40:41",
+      "content": "Fireworks cracked over Port-au-Prince and crowds poured into the streets as Haiti erupted in a rare moment of national unity, celebrating the country’s historic qualification for the 2026 World Cup. In a brief respite from months of gang-driven turmoil, Haitians sang and waved flags after the Grenadiers secured their first World Cup spot in more than 50 years.",
+      "content_length": 362,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US peace plan asks Ukraine to cede territory, government source says",
+      "link": "https://www.france24.com/en/europe/20251120-us-peace-plan-asks-ukraine-to-cede-territory-sources-say",
+      "published": "2025-11-20T00:19:57",
+      "content": "A new peace proposal from the United States requires Kyiv to cede land controlled by Russia and reduce its army's size by more than half, according to a Ukrainian senior official.",
+      "content_length": 179,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Dog and cat abandonment soars in UK as owners struggle with cost of living",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/nov/20/dog-cat-abandonment-soars-owners-struggle-cost-of-living-crisis",
+      "published": "2025-11-20T00:01:09",
+      "content": "RSPCA says pet abandonments in England and Wales rose by almost 25% in 2025 compared with 2024There is an “epidemic” of dogs, cats and other pets being abandoned as owners struggle to cope with the cost of living crisis, the UK’s largest animal welfare charity has said.The RSPCA said abandonments in England and Wales had risen by almost 25% in 2025 compared with last year, reaching their highest rate for at least five years. Continue reading...",
+      "content_length": 448,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Here’s the Trump executive order that would ban state AI laws",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
+      "published": "2025-11-19T23:03:28",
+      "content": "\n\n\n\t\n\t\t\n\nPresident Donald Trump is considering signing an executive order as soon as Friday that would give the federal government unilateral power over regulating artificial intelligence, including the creation of an \"AI Litigation Task Force\" overseen by the attorney general, \"whose sole responsibility shall be to challenge State AI laws.\" \nAccording to a draft of the order obtained by The Verge, the Task Force would be able to sue states whose laws are deemed to obstruct the growth of the AI industry, citing California's recent laws on AI safety and \"catastrophic risk\" and a Colorado law that prevents \"algorithmic discrimination.\" The task force  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump pledges to end Sudan war, marking major shift in US stance",
+      "link": "https://www.france24.com/en/africa/20251119-trump-pledges-to-end-sudan-war-marking-major-shift-in-us-stance",
+      "published": "2025-11-19T23:02:49",
+      "content": "US President Donald Trump pledged Wednesday to intervene in Sudan’s brutal civil war after a request from Saudi Crown Prince Mohammed bin Salman, marking a sharp shift for a conflict he admitted had been “not on my charts” until now.",
+      "content_length": 233,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best iPhones",
+      "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+      "published": "2025-11-19T23:00:00",
+      "content": "\n\n\n\t\n\tNew iPhones for the AI era. | ﻿Image: Cath Virginia / The Verge\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nIf you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple’s 2025 iPhone lineup is now available, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features over their predecessors, such as upgraded cameras, faster chips, better battery life, and even better screens — Apple Intelligence, however, is still a work in progress.\n\nAlongside the new hardware, Apple also launched iOS 26 (yes, the numbering system has changed and we’re jumping from iOS 18), which includes a new Liquid Glass user interface, live translation, wallpapers in messages, and more. The software marks Apple’s biggest visual redesign since iOS 7, and despite some very polarizing reactions, we think it looks fine.\n\nIf your current iPhone is humming along, there’s no need to rush out and get a new one. But if you’re questioning whether it’s the year to replace your iPhone that’s a few generations old, then I think the answer is an easy yes. There are real gains to be had this time around, especially in the basic iPhone 17, which features a higher-refresh-rate display than last year’s model for smoother-looking animations, plus double the base storage to 256GB — all without raising the price, despite the current tariff situation.\n\n\n\n\n\nThe best iPhone for most people\nApple iPhone 17\n\nScore: 8ProsConsAlways-on display makes it vastly more usefulHigh refresh rate makes using the phone smootherThe cameras are solidBattery lasts well through the dayThe price isn’t going upNo redesign, but the green is niceZoom capabilities are weak compared to the ProGets hot during heavy gaming sessionsApple Intelligence is still somewhere between useless and MIA\nWhere to Buy: $799 at Apple (256GB) $829.99 at Best Buy (256GB) $999 at Apple (512GB)\nScreen:&nbsp;6.3-inch 2622 x 1206 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 /&nbsp;Cameras:&nbsp;48-megapixel f/1.6 main with sensor-shift IS; 48-megapixel ultrawide; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;40W wired, 25W wireless MagSafe / Qi2 /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe iPhone 17 marks a turning point for the standard model. After years with a lower-quality screen, the cheapest model finally got two major upgrades for 2025: an always-on display and a high-refresh-rate panel. These features make it feel meaningfully better than the iPhone 16 and prior models in everyday use, bringing it closer than ever to the Pro models. And at the same $799 starting price as the previous generation, this year’s update is a no-brainer.\n\nWhile the iPhone 17’s 48-megapixel main camera is carried over from last year, the ultrawide camera has been changed from a 12-megapixel sensor to a 48-megapixel sensor, and it delivers sharper and more vibrant photos. The device features an 18-megapixel Center Stage selfie camera, which is also in the Air and 17 Pro. Your selfies may not look materially better, but the front camera’s square sensor elevates the user experience, making it possible to take horizontal selfies while holding the device vertically (no need to rotate the phone).\n\nApple also gives you double the storage — 256GB versus 128GB in the base iPhone 16 — and improved battery life. The standard 17 still lacks a proper telephoto camera, and the A19 chip is slower than the A19 Pro found in the Pro models. Still, it’s a big step up in almost every way, even if it looks basically the same as every iPhone from the past six years.\n\nRead our full iPhone 17 review.\n\nThe best high-end iPhone\niPhone 17 Pro\n\nScore: 8ProsConsSolid battery lifeBrighter screen outdoorsCenter Stage cameraFaster chargingDoesn’t get blazing hotOrangeWhat’s up with Siri?Heavier than last year\nWhere to Buy: $1099 at Apple (256GB) $1099.99 at Best Buy (256GB) $1299 at Apple (512GB)\nScreen:&nbsp;6.3-inch 2622 x 1206 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 Pro /&nbsp;Cameras:&nbsp;48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;40W wired, 25W MagSafe / Qi2 /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe iPhone 17 Pro introduces a bold redesign and a number of notable upgrades, including the lineup’s most advanced camera setup yet. It also features rounded edges, and similar to last year, it’s on equal footing with the 17 Pro Max in terms of performance. The biggest differences are that the Pro Max offers a larger display, a larger battery, and up to 2TB of storage.\n\nWhereas the iPhone 17 is for most people, the 17 Pro is geared more toward creators. The device has three 48-megapixel cameras, including a 48-megapixel telephoto, and it offers several pro features aimed at those who want to take the best possible photos and videos. Some of those features include Genlock support, which lets videographers sync up timecodes across multiple cameras, and support for ProRes RAW recording. It also sports the upgraded Center Stage selfie camera found in other 2025 iPhone models.\n\nDespite the additions and improvements, there’s little here that makes the 17 Pro an absolute must-upgrade. However, it comes in an irresistible orange, which is apparently the new “it” color.\n\nRead our full iPhone 17 Pro review.\n\nThe iPhone with the best battery life\niPhone 17 Pro Max\n\nScore: 8ProsConsSolid battery lifeBrighter screen outdoorsCenter Stage cameraFaster chargingDoesn’t get blazing hotOrangeWhat’s up with Siri?Heavier than last year\nWhere to Buy: $1199 at Apple (256GB) $1199.99 at Best Buy (256GB) $1399 at Apple (512GB)\nScreen:&nbsp;6.9-inch 2868 x 1320 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 Pro /&nbsp;Cameras:&nbsp;48-megapixel f/1.78 with sensor-shift IS; 48-megapixel 8x telephoto with OIS; 48-megapixel ultrawide; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;40W wired, 25W MagSafe / Qi2 /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe iPhone 17 Pro Max’s redesign isn’t just about looks. Apple hollowed out the device’s aluminum frame to fit in the biggest battery yet in an iPhone. Apple says the device offers up 39 hours of video playback, which is 12 more hours than last year’s iPhone 16 Plus, our previous battery champ. The device can easily push through a full day and then some, though your mileage will vary depending on how often you play mobile games, watch videos, and doomscroll on social media.\n\nThere are other benefits to going with the 17 Pro Max. It has the largest display among the latest iPhone lineup — 6.9 inches — and offers up to 2TB of storage, giving creators more room than ever for storing their media. If you want the most iPhone you can possibly get, including the longest battery life, then the 17 Pro Max is the way to go.\n\nRead our full iPhone 17 Pro Max review.\n\nThe best iPhone for people who hate bulky phones\niPhone Air\n\nScore: 7ProsConsEasier to carry thanks to its slim profileRemarkably light and more pleasant to use for long periods of timeBattery drains quicker than a standard phoneNo ultrawide camera\nWhere to Buy: $999 at Apple (256GB) $999.99 at Best Buy (256GB) $1199 at Apple (512GB)\nScreen:&nbsp;6.5-inch 2736 x 1260 OLED, 120Hz refresh rate /&nbsp;Processor:&nbsp;A19 Pro /&nbsp;Cameras:&nbsp;48-megapixel f/1.6 main with sensor-shift IS; 18-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;30W wired, 20W MagSafe / Qi2 /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe iPhone Air is Apple’s biggest redesign since the iPhone X was released in 2017. It’s shockingly thin and light, at 5.6mm and 165 grams, respectively. Thanks to its titanium frame and Ceramic Shield 2 display, it’s more durable than you might expect, too. The device feels deceptively small, despite having a 6.5-inch display. You really have to see and feel the phone yourself to get the appeal.\n\nBut the thinner design comes with a few substantial compromises compared to the other models available this year. One of the biggest is that the Air features a single 48-megapixel camera on the back. That’s not to say the device’s camera is bad. But it’s a far less versatile system than even the far more affordable iPhone 17, which has a dual-camera setup. The second compromise is on battery life, which is just okay. It’s not terrible, but it’s not great, either.\n\nAt $999, you’re paying a lot for middling battery life and camera performance. Those who primarily care about design, though, may be more forgiving about those shortcomings.\n\nRead our full iPhone Air review.\n\nThe best inexpensive-ish iPhone\niPhone 16E\n\nScore: 7ProsConsReliable performanceGood, if limited, camera systemIt’s the cheapest new iPhone you can buyNo MagSafe$599 feels like $100 too muchNo ultrawide\nWhere to Buy: $599 at Apple (128GB) $599.99 at Best Buy (128GB) $599.99 at Verizon (128GB)\nScreen:&nbsp;6.1-inch Super Retina XDR /&nbsp;Processor:&nbsp;A18&nbsp;Cameras:&nbsp;48MP Fusion with 1x and 2x optical zoom, 12-megapixel selfie /&nbsp;Battery:&nbsp;Not advertised /&nbsp;Charging:&nbsp;20-watt wired, 7.5W Qi, no MagSafe/&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThis recommendation comes with a heavy sigh. Yes, the 16E is the cheapest new iPhone Apple sells. Yes, it’s a good phone. It has a capable camera, reliable performance, full water resistance, wireless charging, and will be supported with software updates for years to come. But its $599 price tag starts to feel like too much when you consider what it’s missing. \n\nThere’s no MagSafe, which you can kind of add by way of a MagSafe case, but it’s a bummer not to have it built in when it has basically become a standard iPhone feature. There’s no ultrawide camera, no Dynamic Island housing timely information, no camera control button (not a huge loss, honestly), and no Ultra Wideband for precise object tracking. It does support Apple Intelligence, but that doesn’t feel like much of a consolation, given that it’s very much still a work-in-progress.\n\nThe 16E will most likely receive more years of software support than a previous-gen model like the iPhone 14 or 15. And sure, Apple Intelligence might turn into something useful someday. The 16E is a good choice if you want the path of least resistance to blue bubbles and FaceTime at your fingertips. But if you’d like MagSafe, a more advanced camera, and some of the other bells and whistles that got lost on the way to the 16E, then it’s not a bad idea to look at one of the older iPhones.\n\nRead my full Apple iPhone 16E review.\n\n\n\nWhat’s coming next\n\nApple’s latest iPhone lineup is available now, but there are already reports about what’s next. One report suggests Apple is readying a book-style foldable iPhone for 2026, which allegedly looks like two iPhone Air models put side by side. Apple is reportedly still working to flatten the crease that appears when the phone is unfolded, but has otherwise settled on a design. Looking ahead to 2027, a report claims Apple is planning a redesigned “all-screen” iPhone to celebrate the device’s 20th anniversary. These upcoming releases are allegedly part of Apple’s three-year plan — starting with the new iPhone Air — that’s aimed at refreshing its smartphone lineup.\n\nUpdate, November 19th: Updated to reflect current pricing / availability. Brandon Russell contributed to this article.",
+      "content_length": 11702,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
+      "link": "https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/",
+      "published": "2025-11-19T22:57:23",
+      "content": "There’s been a lot of talk of an AI bubble lately, especially with regards to circular funding involving companies like OpenAI and Anthropic—but Clem Delangue, CEO of machine learning resources hub Hugging Face, has made the case that the bubble is specific to large language models, which is just one application of AI.\n“I think we’re in an LLM bubble, and I think the LLM bubble might be bursting next year,” he said at an Axios event this week, as quoted in a TechCrunch article. “But ‘LLM’ is just a subset of AI when it comes to applying AI to biology, chemistry, image, audio, [and] video. I think we’re at the beginning of it, and we’ll see much more in the next few years.”\nAt Ars, we’ve written at length in recent days about the fears around AI investment. But to Delangue’s point, almost all of those discussions are about companies whose chief product is large language models, or the data centers meant to drive those—specifically, those focused on general-purpose chatbots that are meant to be everything for everybody.Read full article\nComments",
+      "content_length": 1059,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Netflix signs a three year deal to stream MLB live events and games",
+      "link": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
+      "published": "2025-11-19T22:53:46",
+      "content": "\n\n\n\t\n\t\t\n\nToday, Major League Baseball announced new media rights deals with ESPN, NBCUniversal, and Netflix that run for the next three seasons. The Netflix deal brings live MLB games to its platform and continues to grow its library of sports programming in an arrangement that Front Office Sports reports is worth about $50 million per year.\n\nNetflix will stream a single game on Opening Night of each season, the Home Run Derby, and one “special event game” each year. In 2026, that will cover the “Field of Dreams” game broadcast from Dyersville, Iowa, on August 13th, 2026, between the Minnesota Twins and Philadelphia Phillies.\n\nThe games signed up by all three networks cover a media deal that MLB previously had with ESPN alone, and on NBC’s end, gives it the Sunday Night Baseball game, as well as draft coverage and other games for its networks. According to the league, “Some Sunday night games will stream on Peacock and simulcast on NBCSN during weeks there is overlap with previously negotiated media rights deals on NBC,” while Peacock will also carry MLB’s Sunday Leadoff games that start around noon and simulcast on the newly relaunched NBC Sports Network.\n\nAnd for ESPN, it has a 30-game broadcast package each season that will be exclusive to its channels and the ESPN app, 150 out-of-market games streaming (one per day) in the ESPN app, and the ability to sell MLB Network and some in-market games via the ESPN app.\n\n",
+      "content_length": 1439,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
+      "link": "https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/",
+      "published": "2025-11-19T22:44:20",
+      "content": "Since early July, telescopes around the world have been tracking just our third confirmed interstellar visitor, the comet 3I/ATLAS—3I, for third interstellar, and ATLAS (Asteroid Terrestrial-impact Last Alert System) for the telescope network that first spotted it. But the object’s closest approach to the Sun came in late October during the US government shutdown. So, while enough people went to work to ensure that the hardware continued to do its job, nobody was available at NASA to make the images available to the public or discuss their implications.\nSo today, NASA held a press conference to discuss everything that we now know about 3I/ATLAS, and how NASA’s hardware contributed to that knowledge. And to say one more time that the object is a fairly typical comet and not some spaceship doing its best to appear like one.\nExtrasolar comet\n3I/ATLAS is an extrasolar comet and the third visitor from another star that we’ve detected. We know the comet part because it looks like one, forming a coma of gas and dust, as well as a tail, as the Sun heats up its materials. That hasn’t stopped the usual suspect (Avi Loeb) from speculating that it might be a spacecraft, as he had for the earlier visitors. NASA doesn’t want to hear it. “This object is a comet,” said Associate Administrator Amit Kshatrya. “It looks and behaves like a comet, and all evidence points to it being a comet.”Read full article\nComments",
+      "content_length": 1420,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "New Zealand bans puberty blockers for young transgender people",
+      "link": "https://www.theguardian.com/world/2025/nov/19/new-zealand-bans-new-prescriptions-of-puberty-blockers-for-young-transgender-people",
+      "published": "2025-11-19T22:39:38",
+      "content": "Critics warn move could have devastating impact on lives and wellbeing of those affectedNew Zealand has announced it is banning new prescriptions of puberty-blocking drugs for young transgender people, in a move that critics warned could worsen the mental health of those affected.The step comes amid growing global debate about the number of adolescents seeking to change gender, dividing those concerned about hastiness in prescribing such medications and those worried about access to remedies they deem lifesaving. Continue reading...",
+      "content_length": 538,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months",
+      "link": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue",
+      "published": "2025-11-19T22:15:16",
+      "content": "\n\n\n\t\n\t\t\n\nNvidia just sold more AI chips than it's ever sold before, blowing past its own estimates in today's Q3 2026 earnings. Not only did it pull in a record $57 billion in revenue - and roughly $4,000 of pure profit per second - it grew its data center business by $10 billion in a single quarter alone. It reported a record $51.2 billion from that data center business, a 66 percent increase over last year. \nA lot of eyes are on Nvidia's data center revenue right now as a bellwether for the \"AI bubble\" as a whole. Nvidia doesn't seem to expect its data center growth to slow down despite fears of that bubble popping - its Q4 outlook is a whopping $ …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nvidia erzielt überraschend starkes Wachstum",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalszahlen-ausblick-kuenstliche-intelligenz-100.html",
+      "published": "2025-11-19T22:12:47",
+      "content": "   Die Zahlen von Nvidia gelten als Bewährungsprobe für den KI-Hype und die Technologiebranche. Auf den ersten Blick hat der Chiphersteller ein starkes Quartalsergebnis erzielt. Wie es an den Märkten bewertet wird, bleibt abzuwarten.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cop30 live: Scientists warn countries must act decisively to protect people and life or risk ‘suffering for billions’ – as it happened",
+      "link": "https://www.theguardian.com/environment/live/2025/nov/19/cop30-live-brazilian-president-lula-climate-summit-belem-latest-news-updates",
+      "published": "2025-11-19T22:10:31",
+      "content": "As president Lula tries to find common ground between negotiating countries, planetary scientists say emissions must be urgently cutMother Earth is watching over Cop30. “I am taking care to watch over all the decisions taken here about me,” she told the Guardian. The blessing card she presented said: “Knowing the powerful impact my thoughts can have on others and the environment, I choose to create a positive mindset.”This beautiful vision is in everyday life Nazaré Oliveira, an indigenous woman from Belém, and a descendant of the Potyguar people. She is part of the international spiritual organisation Brahma Kumaris, led by women and which uses meditation to emphasise the concept of identity as souls rather than bodies and the idea that humanity and nature are one.This is my fifth COP. I’ve been around since COP26 in Glasgow and this has been the most militarised COP I’ve attended. We had really high expectations because I’m from Latin America, and this is also the Latin American COP – apart from the Amazonian and the Brazilian Cop.So we had really high expectations of also being able to demonstrate, protest and exercise our right to the civic space. But we have encountered heavy militarisation and a heavy crackdown on civil society protesting outside the venue.I think it’s very disconcerting. Like it was definitely a very racist letter where the UN seems to want to inflict power over the autonomous territory of Brazilian authorities.I think this is a confrontation that is needed. What’s happening in between civil society, the military and the UN, it’s a reflection of the tension that exists within this space. So I hope for this COP that the United Nations authorities and the Brazilian authorities open their eyes and they realise that what they are doing, what they are inflicting with the militarisation of COP is completely opposite of what they have been preaching in the last three years.Brazil knew that they wanted to host this COP since three years ago, probably even earlier. So the way that they are responding to it does not show that they were ready to receive all this flow of international civil society. So my hope is that they can release, relax the heavy militarization that they’re putting in the space and allow us to use the civic space to demonstrate. Continue reading...",
+      "content_length": 2322,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rights groups slam EU for rolling back AI data protection rules",
+      "link": "https://www.france24.com/en/tv-shows/business/20251119-rights-groups-slam-eu-for-rolling-back-ai-data-protection-rules",
+      "published": "2025-11-19T22:09:56",
+      "content": "The European Union has proposed plans to ease the bloc's strict data protection rules and delay central parts of its AI law.  Brussels says the aim is to boost innovation and competitiveness of European firms by cutting red tape, but digital rights groups see the move as capitulating to pressure from Big Tech and US President Donald Trump. Also in the segment, a Belgian farmer has taken TotalEnergies to court over climate change, hoping it would force the oil giant to change its practices.",
+      "content_length": 494,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "South Africa says charter flights part of a plan to clear Palestinians out of Gaza",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251119-south-africa-says-charter-flights-part-of-a-plan-to-clear-palestinians-out-of-gaza",
+      "published": "2025-11-19T21:53:37",
+      "content": "In tonight's edition, South Africa says it won't accept any more mysteriously chartered flights of Palestinians.\n \nAlso, Madagascar's interim leader unveiled a 300 kg emerald gemstone that  he says was found stashed in the presidential palace by his predecessor. \n \nAnd Morocco's  team captain, Achraf Hakimi, wins the African Player of the Year award.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Top judge resumes contempt inquiry into Trump El Salvador deportations",
+      "link": "https://www.theguardian.com/us-news/2025/nov/19/trump-deportations-el-salvador-court",
+      "published": "2025-11-19T21:53:12",
+      "content": "James Boasberg demands sworn testimony to determine whether US officials defied March court orderA federal judge on Wednesday said he was resuming his long-stalled court proceeding to determine whether Trump administration officials willfully violated a court order by deporting hundreds of men to El Salvador in March.US district judge James Boasberg said he would demand sworn testimony from administration officials to determine whether they defied his March court order to turn around aircraft that were removing the men from US territory. Continue reading...",
+      "content_length": 563,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Google’s new Scholar Labs search uses AI to find relevant studies",
+      "link": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search",
+      "published": "2025-11-19T21:50:54",
+      "content": "\n\n\n\t\n\t\t\n\nGoogle has announced it's testing a new AI-powered search tool, Scholar Labs, that's designed to answer detailed research questions. But its demonstration highlighted a bigger question about finding \"good\" science studies. How much will scientists trust a tool that forgoes typical ways of gauging a study's popularity with the scientific establishment in favor of reading the relationships between words to help surface good research?\nThe new search tool uses AI to identify the main topics and relationships in a user's query and is currently available to a limited set of logged-in users. The demo video from Scholar Labs featured a question abo …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+      "link": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
+      "published": "2025-11-19T21:25:24",
+      "content": "When a Cloudflare outage disrupted large numbers of websites and online services yesterday, the company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack.\n“I worry this is the big botnet flexing,” Cloudflare co-founder and CEO Matthew Prince wrote in an internal chat room yesterday, while he and others discussed whether Cloudflare was being hit by attacks from the prolific Aisuru botnet. But upon further investigation, Cloudflare staff realized the problem had an internal cause: an important file had unexpectedly doubled in size and propagated across the network.\nThis caused trouble for software that needs to read the file to maintain the Cloudflare bot management system that uses a machine learning model to protect against security threats. Cloudflare’s core CDN, security services, and several other services were affected.Read full article\nComments",
+      "content_length": 903,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Saudi Arabia releases US retiree jailed over critical tweets",
+      "link": "https://www.theguardian.com/us-news/2025/nov/19/saudi-arabia-saad-almadi-release",
+      "published": "2025-11-19T21:21:29",
+      "content": "Saad Almadi’s family thanks Trump and state department as announcement comes after meeting with crown princeSaudi Arabia has agreed to allow US citizen Saad Almadi to return home to Florida, five months ahead of the scheduled lifting of travel restrictions and a day after Saudi crown prince and prime minister Mohammed bin Salman met Donald Trump at the White House.Almadi, 75, was sentenced to 19 years of incarceration in the kingdom in 2021 after he wrote 14 tweets critical of the Riyadh government. Two years later, the charges were reduced to so-called “cyber crimes” and he was sentenced to a 30-year ban on leaving Saudi Arabia. Continue reading...",
+      "content_length": 657,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trotz Waffenruhe: Israel greift erneut Ziele in Gaza und Libanon an",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-libanon-102.html",
+      "published": "2025-11-19T21:15:51",
+      "content": "   Erneut hat Israel mehrere Ziele im Gazastreifen angegriffen. Mindestens 25 Menschen starben. Das Militär spricht von einer Reaktion auf eine Hamas-Attacke auf Soldaten. Auch im Libanon fliegt die israelische Armee Luftangriffe.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
+      "link": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
+      "published": "2025-11-19T21:14:42",
+      "content": "It took the California Science Center more than three years to erect its new Samuel Oschin Air and Space Center, including stacking NASA’s space shuttle Endeavour for its launch pad-like display.\nNow the big work begins.\n“That’s completing the artifact installation and then installing the exhibits,” said Jeffrey Rudolph, president and CEO of the California Science Center in Los Angeles, in an interview. “Most of the exhibits are in fabrication in shops around the country and audio-visual production is underway. We’re full-on focused on exhibits now.”Read full article\nComments",
+      "content_length": 582,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Marktbericht: Zurückhaltung vor den Nvidia-Zahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-aktien-boerse-112.html",
+      "published": "2025-11-19T21:10:58",
+      "content": "   Kurz vor den Nvidia-Zahlen, die als Bewährungsprobe für die Tech-Branche und den KI-Boom gelten, haben sich die Investoren an den Börsen lieber zurückgehalten. Sowohl der Dow Jones als auch der DAX schlossen kaum verändert.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide",
+      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "published": "2025-11-19T21:00:45",
+      "content": "\n\n\n\t\n\t\t\n\nThe holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low.\nFortunately, we did some planning on your behalf. As much as we love playing with the latest gadgets and gizmos here at The Verge, we also love recommending them. That's why, after consulting with our expert team of writers and editors, we've compiled a medley of gift ideas that won't be regifted come this time next year - from noise-canceling earbuds and e-reade …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
+      "link": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
+      "published": "2025-11-19T20:56:59",
+      "content": "Nobody expects to get sued for re-posting a YouTube video on social media by using the “share” button, but librarian Ian Linkletter spent the past five years embroiled in a copyright fight after doing just that.\nNow that a settlement has been reached, Linkletter told Ars why he thinks his 2020 tweets sharing public YouTube videos put a target on his back.\nLinkletter’s legal nightmare started in 2020 after an education technology company, Proctorio, began monitoring student backlash on Reddit over its AI tool used to remotely scan rooms, identify students, and prevent cheating on exams. On Reddit, students echoed serious concerns raised by researchers, warning of privacy issues, racist and sexist biases, and barriers to students with disabilities.Read full article\nComments",
+      "content_length": 782,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verzögerung bei \"Stuttgart 21\": Das Projekt ist zur Lachnummer geworden",
+      "link": "https://www.tagesschau.de/kommentar/stuttgart-21-erneut-verschoben-kommentar-100.html",
+      "published": "2025-11-19T20:54:35",
+      "content": "   Das Bahnhofs-Megaprojekt \"Stuttgart 21\" sollte zum Symbol des Fortschritts in Deutschland werden. Inzwischen ist es in der ganzen Welt eine Lachnummer, meint Daniel Hechler. Statt Versprechungen muss nun sorgfältig abgewogen werden.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'Operation Matryochka': Russian propaganda machine exploits Paris attacks",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251119-operation-matryochka-russian-propaganda-machine-exploits-paris-attacks",
+      "published": "2025-11-19T20:54:11",
+      "content": "A series of French media houses - including France 24 - have been targeted and impersonated by a Russian disinformation campaign. The operation capitalised on the recent 10th anniversary of the 2015 Paris attacks, to sow division and discredit President Emmanuel Macron. The propaganda machine - named Operation Matryochka - is one we have seen and been targeted by before, as Vedika Bahl explains in Truth or Fake.",
+      "content_length": 415,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600",
+      "link": "https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale",
+      "published": "2025-11-19T20:51:09",
+      "content": "\n\n\n\t\n\t\t\n\nThis is just a little public service announcement ahead of Black Friday. Walmart will once again tout the M1 MacBook Air as an unbeatable deal for laptop shoppers. It sure is tempting at $599, especially if you haven’t seen the deal before. It might even be the right choice for some people.&nbsp;\n\nBut for most Verge readers buying either for themselves or for someone who needs to get stuff done, it’s not a great value. Not when the 2025 M4 model, with its spec enhancements, design tweaks, and processing speed improvements, is just $150 more. You can currently get one of those on sale starting at $749.99 from Amazon and Best Buy.\n13-inch Apple MacBook Air 13 (2025, M4)\nThe M4 MacBook Air has a speedy processor, and double the RAM of previous models. It has a thin and light design, all day battery life, and still starts with 256GB of storage. Read our review.\n\nWhere to Buy: $999 $749 at Amazon (16GB RAM, 256GB SSD) $999 $749 at Best Buy (16GB RAM, 256GB SSD) $999 $899 at B&amp;H Photo (16GB RAM, 256GB SSD)\nApple’s M-series processors have gotten more powerful every year, and the M4 represents the fourth generation. That’s not to say the M1 MacBook Air is a bad machine. You can do a lot worse with $600. Compared to some of Apple’s Intel-based laptops, the 2020 model raised the bar for performance and battery life. But its compromises become more apparent with each passing year. You should also just buy the laptop that will get more software updates.\n\nThe $599 M1 MacBook Air includes just 8GB of RAM, which is less than most flagship smartphones have these days. It’s surprisingly speedy when handling a light load, but my spouse owns one, and it’s a pretty sluggish experience when you load it with a lot of browser tabs. The newer MacBook Air comes with 16GB of RAM by default, and the M4 processor lets it fly through tasks faster. It has a similar array of ports (two USB-C ports, one headphone jack), though its USB-C ports are faster with Thunderbolt 4 support. It also has a dedicated MagSafe charging port, so you don’t have to sacrifice one of the precious USB-C ports for charging.\n\nAnd those are just the biggest spec differences; Apple ditched the wedge-shaped design of the M1 and earlier MacBook Air models starting with the M2 model. They look more sophisticated, almost like a MacBook Pro. The screen is bigger thanks to smaller bezels, and there’s a notch that contains the 12-megapixel Center State webcam — another big improvement over the M1 model.\n\nLook, I could go on and on. Our reviews do a great job of spelling out every little difference, including in-depth metrics from testing processing-intensive applications. But, in short, the M4 runs laps around the M1, and for just $150 more, the M4 MacBook Air is the clear winner if you’re looking for a semi-affordable MacBook this holiday. ",
+      "content_length": 2843,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Anschlag auf Nord-Stream: Italien erlaubt Auslieferung eines Verdächtigen",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-anschlag-nordstream-auslieferung-100.html",
+      "published": "2025-11-19T20:30:11",
+      "content": "   Er gilt als Drahtzieher der Anschläge auf die Nord-Stream-Pipeline: Nun hat ein italienisches Gericht nach wochenlangem Hin und Her die Auslieferung des ukrainischen Verdächtigen nach Deutschland erlaubt. [mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Morocco football star Hakimi named African Footballer of the Year",
+      "link": "https://www.france24.com/en/sport/20251119-morocco-football-star-hakimi-named-african-footballer-of-the-year-psg",
+      "published": "2025-11-19T20:26:32",
+      "content": "Achraf Hakimi on Wednesday became the first defender in over half a century to win African Footballer of the Year at the 2025 CAF Awards in Rabat, topping Mohamed Salah and Victor Osimhen after a trophy-filled season with PSG.",
+      "content_length": 226,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+      "link": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
+      "published": "2025-11-19T20:25:46",
+      "content": "Microsoft’s warning on Tuesday that an experimental AI agent integrated into Windows can infect devices and pilfer sensitive user data has set off a familiar response from security-minded critics: Why is Big Tech so intent on pushing new features before their dangerous behaviors can be fully understood and contained?\nAs reported Tuesday, Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” and provide “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.”\nHallucinations and prompt injections apply\nThe fanfare, however, came with a significant caveat. Microsoft recommended users enable Copilot Actions only “if you understand the security implications outlined.”Read full article\nComments",
+      "content_length": 891,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ein Aufruf und angebliche Geheimabsprachen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ukraine-erdogan-verhandlungen-100.html",
+      "published": "2025-11-19T20:12:38",
+      "content": "   Der ukrainische Präsident Selenskyj hat in der Türkei Gespräche über Frieden in seinem Land geführt und neue Verhandlungen gefordert. Für Gesprächsstoff sorgen Berichte über angebliche Geheimabsprachen zwischen Washington und Moskau.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mount Semeru volcano eruption in Indonesia prompts evacuations",
+      "link": "https://www.theguardian.com/world/2025/nov/19/indonesia-mount-semeru-erupts-prompting-evacuations-and-highest-alert-level",
+      "published": "2025-11-19T19:51:14",
+      "content": "More than 300 people most at risk are moved to shelters as tallest peak on Java island unleashes clouds of hot ashIndonesia’s Mount Semeru, the highest peak on Java island, has erupted, blanketing several villages with falling ash, prompting evacuations and leading authorities to raise the alert to the highest level.The volcano in East Java province unleashed searing clouds of hot ash and a mixture of rock, lava and gas that travelled up to 7km (4 miles) down its slopes several times from midday to dusk, while a thick column of hot clouds rose 2km into the air, Indonesia’s Geology Agency said in a statement. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wes Streeting defends asylum system shake-up despite his unease",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/19/shabana-mahmood-accused-ethnic-stereotyping-albania-pm",
+      "published": "2025-11-19T19:43:13",
+      "content": "Health secretary says he is not comfortable with some elements of policy but that it is the right thing to do for the countryWes Streeting has admitted he is not comfortable with forcibly deporting families under the home secretary’s migration plans, while maintaining it is still the right thing to do.The health secretary said he thought the number of forced removals would be low under the proposed model, which is similar to Denmark’s, because there would be an increased financial incentive for people entering the UK illegally to return to their country of origin. Continue reading...",
+      "content_length": 590,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way",
+      "link": "https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/",
+      "published": "2025-11-19T19:33:22",
+      "content": "This year’s newest iPhones included one momentous change that marked a new phase in the evolution of Apple Silicon: the Apple N1, Apple’s first in-house chip made to handle local wireless connections. The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol, and it replaces the third-party wireless chips (mostly made by Broadcom) that Apple used in older iPhones.\nApple claimed that the N1 would enable more reliable connectivity for local communication features like AirPlay and AirDrop but didn’t say anything about how users could expect it to perform. But Ookla, the folks behind the SpeedTest app and website, have analyzed about five weeks’ worth of users’ testing data to get an idea of how the iPhone 17 lineup stacks up to the iPhone 16, as well as Android phones with Wi-Fi chips from Qualcomm, MediaTek, and others.\nWhile the N1 isn’t at the top of the charts, Ookla says Apple’s Wi-Fi chip “delivered higher download and upload speeds on Wi-Fi compared to the iPhone 16 across every studied percentile and virtually every region.” The median download speed for the iPhone 17 series was 329.56Mbps, compared to 236.46Mbps for the iPhone 16; the upload speed also jumped from 73.68Mbps to 103.26Mbps.Read full article\nComments",
+      "content_length": 1268,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best Bluetooth trackers for Apple and Android phones",
+      "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "published": "2025-11-19T19:30:13",
+      "content": "\n\n\n\t\n\tBluetooth trackers come in all shapes and sizes. | Illustration: Cath Virginia / The Verge\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nSome people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there are Bluetooth trackers.\n\nBluetooth trackers have been around for a long time, and they all generally work the same way. You stick the tracker onto an object, pair it with your phone, and then, when you lose said object, you can go into an app and ring the tracker. But these days, Bluetooth trackers can do a lot more. Some have ultra-wideband chips that enable precision tracking, so you can find exactly where in a room your item is. Increasingly, trackers also tap into large networks — like Apple’s and Google’s — making it easier to locate lost items outside the home. Many will notify you if they detect you’ve left the device behind or come with QR codes that link to your contact information so people can easily return lost devices.\n\nThese features are incredibly handy but also have the potential for misuse. Take AirTags. When Apple launched the trackers, it hadn’t anticipated they’d be used to track people or stolen items — but that’s exactly what happened. It’s since beefed up its anti-stalking features, and companies like Tile have also followed suit. Apple and Google have launched a standard that enables unwanted tracking alerts across both Android and iOS devices — and major players like Tile, Samsung, and Chipolo are on board. But until this standard is up and running, it pays to be aware of each tracker’s current approach when you’re deciding the best option for you.\n\nAs a consummate Loser of Things, I’ve tested my fair share of Bluetooth trackers on wallets, keys, and luggage. Here’s what I’d recommend if you, too, have a hard time finding things.\n\n\n\n\n\n\nThe best tracker for iPhone usersThe best Bluetooth tracker for Android usersThe best AirTag and Tile alternativeThe best AirTag alternatives for walletsOther Bluetooth trackers to considerWhat’s coming next\n\n\nThe best tracker for iPhone users\nApple AirTag\nApple’s AirTags can help you find your lost items with their ultra wideband technology. You’ll get the best compatibility with an iPhone, though Apple released an Android app that can detect an AirTag’s location and notify you if one seems to be following you.\n\nWhere to Buy: $29 $17.97 at Amazon $29 $17.97 at Walmart $29 $17.99 at Best Buy\nWhen Apple launched AirTags in 2021, it really did shake up the category. That’s because AirTags are equipped with Apple’s Ultra Wideband (UWB) chip and tap into Apple’s vast Find My network. That’s a potent combo. And even though you can now get third-party accessories that work with the Find My network — including the Pebblebee trackers featured later in this guide — AirTags are still the best, thanks to UWB. \n\nBasically, UWB enables precision tracking while Find My compatibility expands range far, far beyond Bluetooth’s limitations. With precision tracking, all you have to do is open the Find My app, tap “Find,” and you should see an arrow pointing you in the exact direction you need to go to find your item. Using the Find My network also means that so long as there’s an Apple device nearby, a lost AirTag can ping its location to Apple’s iCloud servers without notifying the owners of those other devices. And there are over a billion Apple products out there.\n\nThat accuracy is super convenient. My keys fell out of my pocket while running once, and I didn’t notice until my phone pinged me to say my keys were no longer with me. While I wasn’t able to use the precision tracking outdoors, I could see the last reported location in the Find My app. Twenty minutes had already passed, but I still was able to find my keys. I haven’t had that degree of success with any other item tracker.\n\nHowever, this accuracy is a double-edged sword. In 2022, I ran a test to see whether I could track a friend and my spouse (with their consent) in real time. And I could, to a disturbing degree. While Apple’s unwanted tracking prevention measures worked, there were also inherent flaws. (You can read about our testing in full here.) However, Apple has since improved unwanted tracking alerts by shortening the time before you’re notified an unknown AirTag is in your vicinity, making chimes louder, and creating a separate app that lets Android users scan for unknown AirTags. Apple also now informs users during setup that unwanted tracking is a crime and that AirTags are “intended solely to track items that belong to you.”\n\nApple has also added more ways to share AirTag locations with trusted people. iOS 17 introduced AirTag sharing, which means shared items won’t trigger unwanted tracking alerts. As of iOS 18.2, you can also share the location of a lost AirTag with other people via a temporary link. So if an airline loses your luggage, you can send them a link that shows them an interactive map of your item’s last known location. (Apple is partnering with more than 15 airlines for this particular use case.)\n\nThe only thing I really don’t like about AirTags is they aren’t truly $29. They’re $29 plus the cost of whatever accessory is needed to attach them to the item you want to track. For example, you’ll need a holder to attach it to your keys or luggage. Thankfully, there’s a robust third-party accessory market, so you don’t have to pay Apple’s prices if you don’t want to. The fact that you can easily replace the battery with a regular CR2032 coin cell battery helps take the sting out, too. I just did it for two of my AirTags, and it was much, much cheaper than having to buy two new ones.\n\nRead our original AirTags review.\n\nThe best Bluetooth tracker for Android users\nTile Pro\nThe Tile Pro is the company’s loudest Bluetooth tracker and has the widest range at 400 feet. It also has a user-replaceable battery, unlike other Tiles.\n\nWhere to Buy: $34.99 at Amazon $34.99 at Best Buy $34.99 at Target\nMore and more trackers now support both Google’s and Apple’s Find My networks, but Tile’s trackers — especially the $34.99 Tile Pro — are still our top recommendation for Android users or mixed iOS / Android households. Functionally, the platform-agnostic trackers can do just about anything an AirTag can. Like AirTags, Tile devices can tap into a larger network — in this case, the Tile Network and Amazon Sidewalk — to help you find your devices outside of your phone’s Bluetooth range. While this network isn’t as expansive as Apple’s or Google’s, Amazon Sidewalk’s coverage has improved significantly. In our April 2025 testing of Google’s Find Hub-compatible trackers — including the Chipolo Pop, Pebblebee Clip Universal, and the Moto Tag — we found that Tile still did better at tracking items outside the home. \n\nUnfortunately, Tile still can&#8217;t do true real-time tracking, and it still doesn’t offer a tracker with UWB, so it lacks the AirTag’s precision tracking. The company announced one back in 2021, but we’re still waiting, partly because Apple is effectively blocking UWB compatibility for third parties in iOS and because Tile’s priorities shifted once it was acquired by Life360. \n\n\nA note about Google’s Find Hub network\n\n\n\nLast year, Google finally&nbsp;launched its Find My Device network, which&nbsp;was recently renamed Find Hub.&nbsp;It works similarly to Apple’s Find My network: you’ll be able to share trackers with family members, and there are also unwanted tracking alerts.\n\n\n\nInitially, the network lagged behind Apple’s, but it’s starting to catch up. After several weeks of testing Find Hub-compatible trackers — specifically the Chipolo Pop, Pebblebee Clip Universal, and Moto Tag — in April, we found the network’s improved significantly over the past year, more so in busy areas. Still, it’s clear Google prioritized privacy over precision.\n\n\n\nGoogle is making some progress, though. In May, Google added UWB support&nbsp;for more precise tracking with Motorola’s&nbsp;Moto Tag&nbsp;and, eventually, other compatible phones and trackers. Google also plans to roll out satellite connectivity later in 2025, with the ability to&nbsp;share tracker locations with airline staff&nbsp;arriving in early 2026.\n\n\nThat said, Life360’s acquisition has brought some meaningful upgrades. Pressing a Tile button three times now sends an SOS alert to emergency contacts through Life360. You can also add others to your Circle so they can view and ring nearby Tiles on a shared Life360 map.&nbsp;More recently, Tile trackers have become fully integrated into Life360, letting users manage their trackers directly within the Life360 app. This merger unlocked a few premium features for free, including push alerts for forgotten items and two-day location history.\n\nStill, most of the good stuff — like 30-day location history, unlimited sharing with friends and family, free replacements for damaged Tiles, and up to $100 reimbursement for lost items — sits behind a $29.99/year subscription. Fortunately, Tile offers new members a one-year free trial, and one subscription covers all your devices. You also still get a lot of core functionality without paying: you can find your Tile via Bluetooth, view its last known location on a map, ring your phone from the Tile, and share access with one other person for free.\n\nTile also stands out for its versatility. While AirTags come in a single puck-like design, Tile offers four distinct form factors to suit different needs. The card-shaped Tile Slim ($29.99), for example, is the best option if you’re constantly losing your wallet. The square Tile Mate ($24.99) comes with a hole so you can stick it on a key ring or carabiner, and is probably the most versatile. The $24.99 Tile Sticker, meanwhile, is a small disc that comes with a sticky backing so you can put it on remotes, pet collars, and anything else you can stick it on.\n\nThe best Tile will depend on what you’re looking to track. My personal favorite, however, is the $34.99 Tile Pro, which is shaped like a key fob, is larger than the Mate, and can also be attached to other items. Of the four, it has the longest Bluetooth range at 500 feet and the loudest ring. It’s also the only one that has a replaceable one-year CR2032 battery.&nbsp;\n\nLast but not least, Tile may actually be better than AirTags for tracking stolen items.&nbsp;The company rolled out an anti-theft feature in 2023, which renders Tile devices invisible to unwanted tracking detection in the event someone steals your item. Just know that to use it, Tile requires you to submit a government ID for verification, agree to Tile working with law enforcement without a subpoena, and consent to a $1 million fine if you misuse this feature. For anti-stalking measures, Tile also has a “Scan and Secure” feature, which allows you to use the Tile app to scan for unknown Tile devices in your vicinity. While better than nothing, it’s a flawed measure, as it requires the potential victim to proactively scan their surroundings.&nbsp;\n\nThe best AirTag and Tile alternative\nPebblebee Clip Universal\nThe Pebblebee Clip Universal supports Apple’s Find My and Google’s Find Hub networks, but also has a 500-foot Bluetooth range, LEDs that flash to help you locate it, and a rechargeable battery that lasts up to 12 months on a single charge.\n\nWhere to Buy: $34.99 at Best Buy $34.99 at Google\nIf you’re looking for an AirTag or Tile alternative, the Pebblebee Clip Universal is an excellent choice. It’s one of a growing number of trackers that support both Apple’s Find My and Google’s Find Hub networks, a major improvement over its predecessor. This makes setup seamless for both iOS and Android users, while also enabling more accurate and reliable tracking than Pebblebee’s own network could provide. \n\nThe thing I like best about the Pebblebee Clip Universal is its rechargeable battery. A single charge lasts up to one year, up from six months — though you may get longer than that depending on your usage. It has a USB-C port, too, so you don’t have to sweat it if you lose the charger it comes with. You love to see it.\n\nThe Pebblebee Clip Universal also has an LED strip at the bottom that lights up when you ring the tracker. That’s helped me spot my car keys more quickly when they’d fallen under the car seat or other dark areas. The ringtone is also quite loud, and the 500-foot Bluetooth range is actually about 100 feet more than the Tile Pro, our pick for Android users. And while larger than an AirTag, the Pebblebee Clip Universal also comes with a snap-on key ring so you don’t have to buy another accessory to attach it. It’s also IPX6-rated for water resistance.\n\nClip Universal owners can still use Pebblebee’s app to set voice tags and ask Amazon Alexa or Google Assistant to help find their device. You can also use the “Find Phone” feature, which lets you double-tap to ring your phone.\n\nPebblebee recently added a free “panic alarm” safety feature that’s similar to Tile’s SOS alert. Compatible with both Apple’s Find My and Google’s Find Hub network, the Alert feature lets you press the Clip’s button to activate a loud 97-decibel siren and flashing light, which you can disable via Silent Mode. No matter what, the Pebblebee app will still text your location to a trusted contact — or up to five people, with live location sharing if you pay for the $2.99 monthly Alert Live subscription.\n\nThat said, Clip Universal owners can’t use the Pebblebee app for tracking, and so only last-gen Clip owners can take advantage of the Pebblebee app’s extensive customizable geofencing features. That means, for instance, Clip Universal owners can no longer set up custom areas on a map and be notified whenever a device enters or leaves the area. They also can’t use the app to designate safe zones, which was useful to avoid unnecessary “left behind” notifications in familiar places like home or work. The latter can be done in Apple’s Find My app, though Google’s Find Hub doesn’t yet have an equivalent feature.\n\nThe best AirTag alternatives for wallets\nPebblebee Card Universal\nThe Pebblebee Card has a rechargeable battery that lasts for up to 18 months. It supports Apple’s Find My and Google’s Find Hub, but you can also use the Pebblebee app for voice tagging.\n\nWhere to Buy: $34.99 at Best Buy\nYou could be like my spouse, who stuffs an AirTag in their bifold wallet and then makes a surprised Pikachu face every time it falls out. Or, you could opt for a Find My-compatible alternative specifically designed for wallets, like the $34.99 Pebblebee Card Universal. It plays nice with both Apple’s Find My and Google’s Find Hub networks, giving you cross-platform flexibility and the benefits of each — all with a super loud ringtone. It doesn’t come with precision tracking because it lacks UWB, but it makes up for it with those loud ringtones. As part of the Find My network, it also supports unwanted tracking alerts. \n\nThe Pebblebee Card Universal also stands out because of its rechargeable battery, which lasts up to 18 months on a single charge. Like the Pebblebee Clip Universal, it works with the Pebblebee app to support voice tagging and even has a button you can press to locate your phone. \n\nOther Bluetooth trackers to consider\n\nChipolo Pop\n\nThe $25 $29 Chipolo Pop offers a similar form factor to Apple’s AirTag in a lighter, more colorful package with a hole for a keychain or lanyard, a louder beep, and compatibility with both Apple’s Find My or Google’s Find Hub networks (though only one at a time). You can even use the Pop as a remote camera shutter and press the built-in button twice to find your lost phone. Unlike Chipolo’s other trackers, it boasts a wider 300-foot Bluetooth range, a more robust IP55 rating for water and dust resistance, and includes a user-replaceable battery that can last up to a year.\n\nIn my testing, tracking was accurate on both Apple’s and Google’s networks in most cases, Google’s struggled to track items outside my home as reliably as the Tile. And without UWB, the Pop couldn’t match the AirTag’s pinpoint precision. Still, the Chipolo app provides Android users with reliable out-of-range alerts and left-behind notifications — something Pebblebee and Moto Tag’s trackers lack —which, in my experience, triggered even faster than the AirTag and Tile. ~ Sheena Vasani, Commerce Writer\n\nSamsung SmartTag2\n\nIf you’re a Samsung Galaxy phone user, the $17.80 $29.99 Samsung SmartTag2 gets you UWB tracking and can tap into the Galaxy Find network, which operates similarly to Apple’s Find My network. It’s a great AirTag alternative but isn’t our overall pick for Android because it’s limited to Samsung Galaxy users. But for Samsung users, the latest SmartTag2 includes an improved Compass View, longer battery life, and a better app experience. It’s also got a newer oblong design with a larger key ring than the original SmartTag.\n\nMoto Tag\n\nMotorola’s $19.99 $29 Moto Tag is the first tracker on Google’s Find My Device network to offer ultra wideband for locating lost items on phones equipped with a UWB chip, which is a feature Google only recently enabled via a firmware update. Like Apple’s AirTag, it can guide you directly to your missing item via directional cues in the Find My Device app. It worked well in my testing, helping me find the exact location of nearby items in my small apartment, though Apple’s AirTag was occasionally more precise when tracking objects farther away or through walls. The Moto Tag was also less effective than Tile’s trackers at locating items outside my home.\n\nStill, if you want a tracker to find things around the house, the Moto Tag is a solid pick. It also fits most AirTag accessories, carries an IP67 rating for dust and water resistance, and uses a replaceable CR2032 battery that lasts up to a year. It can ring your misplaced phone, too, and doubles as a remote shutter for Motorola phones. ~ Sheena Vasani, Commerce Writer\n\nEufy Security SmartTrack Card \n\nThe $16.88 $29.99 Eufy Security SmartTrack Card is another good option designed for wallets. It comes with a little clip attachment so it doesn’t have to be stuffed in your wallet; you could clip it onto a laptop case, for example. This also has the same benefits when used with the Find My network as the Pebblebee Card Universal. On the back, there’s also a QR code — similar to the ones Tile uses — that helps good samaritans return your item to you. Like the Pebblebee Card Universal, you can share it with multiple people if you set it up via the Eufy Security app. The bummer here is it doesn’t work with Android, lacks UWB and a replaceable battery, and isn’t rechargeable like its successor, Eufy’s $29.99 $34.99 SmartTrack Card E30. That said, though, the built-in battery should purportedly last you three years.\n\nChipolo Card Spot and Card Point\n\nThe $35 Chipolo Card Spot or $23 $35 Card Point is also a good option for wallets if you want something a bit simpler, though it lacks the QR code, and its battery only lasts two years. If you do opt for Chipolo, double-check that the specific tracker you’re buying works on the network you want to use. For example, the Chipolo Card and Chipolo Card Spot can both be used with iPhones, but the Chipolo Card only works with the Chipolo app, while the Card Spot only works with Find My. The Chipolo Card Point is for Android users and works with Google’s Find Hub network. Read my full Chipolo Card Spot review.\n\nWhat’s coming next\n\n\nPebblebee recently announced the $34.99 Clip 5, which replaces the Pebblebee Clip Universal. The Clip 5 has been redesigned so it’s a better panic alarm, featuring a louder buzzer and brighter LEDs along with improved durability. Plus, it comes in new color options&nbsp;thanks to Pebblebee’s new Evercolor program, which introduces and retires two limited-edition colors every two weeks (the first colors in the lineup are Emerald Storm and Amethyst Purple). I’ll be testing the tracker soon and will update this guide with my impressions. ~ Sheena Vasani, Commerce Writer\n\n\n\nPebblebee also introduced the $34.99 Card 5, the successor to the wallet-friendly Pebblebee Card Universal. Measuring just 1.8mm thick, it’s about 30 percent slimmer than its predecessor. It can also last up to 18 months on a single charge and now supports wireless charging. I’ll also be testing this tracker soon and will share my thoughts once I’ve tried it. ~ Sheena Vasani, Commerce Writer\n\n\n\nChipolo introduced two rechargeable trackers: the&nbsp;Chipolo Loop&nbsp;and the&nbsp;Chipolo Card. The $39 trackers work with Apple’s Find My and Google’s Find My Device networks, but the Loop charges via USB-C while the Card is compatible with Qi wireless chargers. They differ in design, with the Loop offering a built-in silicone ring that’s easy to attach to keys, bags, and other items. The Card, meanwhile, features a slim, credit card–like shape designed to slip neatly into wallets. I’m still testing both, but so far the Loop feels a lot like the Chipolo Pop and shares many of the same strengths and  weaknesses. Aside from the rechargeable battery, the key difference is that, for $10 more, you get a  silicone loop, a more durable IP67 rating, and an extra 100 feet of Bluetooth range — up to 400 feet total. ~ Sheena Vasani, Commerce Writer\n\n\n\nUgreen released the $25.99 FineTrack Slim Smart G, which, at just 1.7mm thick, is slimmer than the 2.5mm Tile Slim. Ugreen claims that the tracker can last up to five years, but since it lacks both charging capabilities and a replaceable battery, you’ll need to replace the tracker entirely once it dies. It also works with Google’s Find My Device network and offers IP68 dust and waterproofing.\n\n\nUpdate, November 19th: Adjusted prices and availability. Mentioned the new Pebblebee trackers and added some of our impressions of the Chipolo Loop. Sheena Vasani also contributed to this guide.",
+      "content_length": 22243,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "'Trump’s Achilles Heel' US president under fire over handling of Epstein files",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251119-trump-s-achilles-hell-us-president-under-fire-over-handling-of-epstein-files",
+      "published": "2025-11-19T19:26:21",
+      "content": "Ever since the day back in 2015 when he first ran for president, Donald Trump’s always boasted that his rightful place among the high and mighty was proof of his valor and evidence that to ‘drain the swamp’, you need someone who knows where the bodies are buried in the corrupt circles of Wall Street and Washington. So, why has the Maga base broken with Trump over the Epstein files? Why can’t this populist leader who beat allegations of an attempted coup with the storming of the Capitol, one who’s seemed to bend the constitution to his will at times since his re-election, why can't he make this story go away?Remember Trump ran against entitlement, and even when he’s threatening to withdraw the license of a TV network because its White House correspondent asks about the case, does the threat still carry now the same weight? How does his base now feel about siding with dictators over slain journalists and about tax breaks for the rich?",
+      "content_length": 946,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US and Russian officials draft plan to end Ukraine war based on capitulation from Kyiv",
+      "link": "https://www.theguardian.com/world/2025/nov/19/us-and-russian-officials-draft-new-peace-plan-based-on-capitulation-from-ukraine",
+      "published": "2025-11-19T19:15:05",
+      "content": "It is unclear if Trump administration backs deal that would mean Kyiv giving up territory and slashing size of militaryUS and Russian officials have quietly drafted a new plan to end the war in Ukraine that would require Kyiv to surrender territory and severely limit the size of its military, it was reported on Wednesday as Russian drone and missile strikes killed at least 25 people in the city of Ternopil.The draft plan, which was reportedly developed by Donald Trump’s envoy, Steve Witkoff, and the Kremlin adviser Kirill Dmitriev, would force draconian measures on Ukraine that would give Russia unprecedented control over the country’s military and political sovereignty. The plan is likely to be viewed as surrender in Kyiv. Continue reading...",
+      "content_length": 753,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Future Google TV devices might come with a solar-powered remote",
+      "link": "https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics",
+      "published": "2025-11-19T18:56:30",
+      "content": "\n\n\n\t\n\tCompanies making Google TV devices could soon include remotes that won’t ever need fresh disposable batteries. | Image: Epishine\t\n\nEpishine, a company that makes solar cells optimized for indoor lighting, has announced its technology is being used in a new remote control for Google TV devices, as spotted by 9to5Google. The remote will rely on rechargeable batteries instead of disposable ones, and thanks to the use of solar cells on both sides it may only run out of power when it gets buried and forgotten in the dark abyss of your couch cushions.\n\nThe new remote is made by Ohsung Electronics, which is an official Google reference remote supplier. Companies making Google TV streaming boxes or dongles can design their own remote controls from scratch, but they can also use Google’s reference remote designs as a shortcut to accelerate their hardware development. Walmart’s Onn devices, for example, include remotes based on Google’s designs.\n\nThe new solar powered option using Epishine’s technology will be known as the G32 reference remote, but it’s not being bundled with any Google TV devices just yet, and you can’t purchase it on its own. Existing versions of Google’s reference remotes include the G10 with 22 buttons and the G20 with 38 buttons, but companies can customize these designs to provide quick access to streaming platforms besides popular options like Netflix and YouTube.&nbsp;\n\nIt’s not the first time a remote control has included a solar cell to keep it powered indefinitely. Last year Hama announced a universal remote using Exeger’s Powerfoyle solar cell technology, and years ago Samsung released a solar remote for its own TVs. But the technology could potentially become more commonplace now that Google has made it much easier for smaller companies to implement.",
+      "content_length": 1806,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bundesregierung stellt erste Weltraumsicherheitsstrategie vor",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-weltraum-sicherheit-strategie-100.html",
+      "published": "2025-11-19T18:34:37",
+      "content": "   Zum ersten Mal gibt es in Deutschland eine nationale Weltraumsicherheitsstrategie. Sie soll Kommunikations- und Navigationssysteme im All besser vor Störmanövern und Angriffen schützen - denn die nehmen immer weiter zu. Von C. Nagel.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Death toll from Russian attack rises to 25 as Ukraine says it will raise issue at UN – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/19/russia-ukraine-poland-zelenskyy-germany-sweden-turkey-europe-live-latest-news-updates",
+      "published": "2025-11-19T18:22:13",
+      "content": "Ukraine to raise the overnight attack on Ternopil, in which more than 70 people were injured, at the security council tomorrowThe Dutch economy minister said he had moved to take effective control of Nexperia to ensure Europe was not locked out of chip production “in an emergency”.He said the decision to lift the legal move to prevent Nexperia from moving intellectual property and physical assets from its European factory in Hamburg and its corporate headquarters in Nijmegen was the “right step” after consultation with the European Commission and others.“The Netherlands has considered it the right moment to take a constructive step by suspending the order under the Goods Availability Act, in close consultation with European and international partners. The Netherlands will continue to engage in constructive dialogue with the Chinese authorities in the period ahead.” Continue reading...",
+      "content_length": 897,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Belém-Äußerungen: Deutliche Kritik an Merz - aber keine Entschuldigung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aussagen-belem-kritik-100.html",
+      "published": "2025-11-19T18:09:41",
+      "content": "   Kanzler Merz hat beim Klimagipfel in Brasilien mit abwertenden Aussagen über Belém für einen Eklat gesorgt. In Brasilien und auch in Deutschland gibt es nun Ärger. Merz sagt, das Verhältnis zu Brasilien sei deshalb nicht belastet.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US charges ex-Olympic snowboarder turned drug kingpin with murder of witness",
+      "link": "https://www.theguardian.com/world/2025/nov/19/ryan-wedding-olympics-murder-drug-trafficking",
+      "published": "2025-11-19T18:08:18",
+      "content": "Unsealed indictment says Ryan Wedding tracked down witness who was then murdered before he could testifyUS authorities have charged a fugitive former Canadian Olympic snowboarder turned drug kingpin with the murder of a witness who was prepared to testify against him.The attorney general, Pam Bondi, said on Wednesday that Ryan Wedding was accused in a newly unsealed indictment of tracking down a witness in Colombia who was then murdered before he could give evidence. Continue reading...",
+      "content_length": 491,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rome decries ‘Italian-sounding’ pasta sauces on sale in EU parliament store",
+      "link": "https://www.theguardian.com/world/2025/nov/19/rome-decries-italian-sounding-pasta-sauces-on-sale-in-eu-parliament-store",
+      "published": "2025-11-19T17:57:08",
+      "content": "Agriculture minister calls for investigation over marketing of carbonara sauce containing wrong type of cured meatItaly’s agriculture minister, Francesco Lollobrigida, has called for an immediate investigation after coming across what he claimed were jars of “Italian-sounding” pasta sauce on the shelves of the European parliament’s supermarket.Lollobrigida, of Giorgia Meloni’s Brothers of Italy party, was particularly vexed by a carbonara sauce made with “Italiaanse pancetta” – the classic Roman pasta dish is made with a different cured meat, guanciale – and a tomato sauce containing “oignons de Calabria”, or onions from Calabria. Continue reading...",
+      "content_length": 658,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Klingbeils Charme-Offensive in China",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-china-112.html",
+      "published": "2025-11-19T17:52:42",
+      "content": "   Außenminister Wadephul hatte seine Reise nach Verstimmungen mit Peking verschoben. Kanzler Merz wirft China \"aggressives Verhalten\" vor. Finanzminister Klingbeil setzt bei seinem Besuch nun auf Dialog. Von Jörg Endriss.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vorbereitung auf den Ernstfall: EU-Krisenkonzept für das Militär",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-truppen-militaer-100.html",
+      "published": "2025-11-19T17:42:32",
+      "content": "   Wegen der russischen Bedrohung plant die EU ein Krisenkonzept für das Militär - um schnell Soldaten und Gerät über EU-Grenzen hinweg verlegen zu können. Dafür brauche es aber weniger Bürokratie und eine bessere Infrastruktur. Von S. Fritz.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Polen schließt letztes russisches Konsulat nach Anschlag auf Bahnstrecke",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-bahnstrecke-russisches-konsulat-100.html",
+      "published": "2025-11-19T17:24:02",
+      "content": "   Nach der Sprengstoffattacke auf eine Bahnstrecke spricht Polen von \"Staatsterrorismus\" und schließt das russische Generalkonsulat in Danzig. In Zukunft will das Land Soldaten zur Bewachung der Infrastruktur einsetzen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Taiwan tensions: China-Japan row hits trade and travel amid escalating rhetoric",
+      "link": "https://www.france24.com/en/asia-pacific/20251119-taiwan-tensions-china-japan-row-hits-trade-and-travel-amid-escalating-rhetoric",
+      "published": "2025-11-19T17:20:30",
+      "content": "Tensions between Japan and China are escalating after Prime Minister Sanae Takaichi suggested Japan might defend Taiwan against a Chinese invasion. In response, Beijing has suspended Japanese seafood imports and issued travel warnings, prompting Japan to alert its schools in China about heightened security risks.",
+      "content_length": 314,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Romania, Moldova, Poland... Incursions in the airspace of NATO allies continue",
+      "link": "https://www.france24.com/en/video/20251119-romania-moldova-poland-incursions-in-the-airspace-of-nato-allies-continue",
+      "published": "2025-11-19T17:09:47",
+      "content": "The European Union's Foreign Policy Chief Kaja Kallas stressed on Wednesday that the bloc's critical infrastructure needs more protection and that there is more work to do to speed up Europe's military growth in light of recent incursions into the territory. Early Wednesday morning another drone crossed into Romania and Moldova, hot on the heels of Monday's sabotage attack on a trainline in Poland. Story by Eliza Herbert.",
+      "content_length": 425,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "WHO: Jede dritte Frau unter 50 Jahren von Gewalt betroffen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/who-gewalt-gegen-frauen-100.html",
+      "published": "2025-11-19T16:57:58",
+      "content": "   Nach Angaben der WHO erlebt fast jede dritte Frau in ihrem Leben Gewalt - in den meisten Fällen von einem Partner oder Ex-Partner. Besonders hoch sind die Zahlen der Betroffenen in pazifischen Inselstaaten.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Football: Curaçao’s first-ever World Cup berth",
+      "link": "https://www.france24.com/en/video/20251119-football-cura%C3%A7ao-s-first-ever-world-cup-berth",
+      "published": "2025-11-19T16:55:11",
+      "content": "#Curaçao, a small Caribbean island, has qualified for the #football #WorldCup for the first time in its history.\n \nPanama and Haiti have also secured their place at the tournament, which will take place from June 11 to July 19, 2026 in the United States, Canada and Mexico.",
+      "content_length": 273,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Divide over fossil fuels phaseout can be bridged, Cop30 president says",
+      "link": "https://www.theguardian.com/environment/2025/nov/19/divide-over-fossil-fuels-phaseout-can-be-bridged-cop30-president-says",
+      "published": "2025-11-19T16:43:39",
+      "content": "Exclusive: André Corrêa do Lago says rise of clean energy must be acknowledged and rich countries need to do moreCop30: click here for full Guardian coverage of climate talks in BrazilOil-producing countries need to acknowledge the rise of clean energy, and rich countries will have to provide more assurances on finance if the chasm between negotiating nations at Cop30 is to be bridged, the president of the summit has said.André Corrêa do Lago, the veteran Brazilian climate diplomat in charge of the talks, said: “Developing countries are looking at developed countries as countries that could be much more generous in supporting them to be more sustainable. They could offer more finance, and technology.” Continue reading...",
+      "content_length": 730,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "London warnt Moskau nach Vorfall mit Spionageschiff",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-russisches-spionageschiff-100.html",
+      "published": "2025-11-19T16:39:07",
+      "content": "   Ein russisches Militärschiff ist nach Angaben Großbritanniens in deren Hoheitsgewässer eingedrungen und hat mit Laserstrahlen auf britische Piloten gezielt. London warnte: \"Wir sehen euch. Wir wissen, was ihr tut.\" [mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kölner Landgericht: Bestimmte REWE-App-Aktionen sind irreführend",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rewe-app-urteil-100.html",
+      "published": "2025-11-19T16:38:24",
+      "content": "   Um beim Einkaufen Geld zu sparen, können REWE-Kunden per App Coupons sammeln. Verbraucherschützer warnten in bestimmten Fällen vor Irreführung. Ein Gericht hat dem jetzt stattgegeben. Von Susanna Zdrzalek.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Netanyahu visits Israeli troops inside Syrian buffer zone as tensions rise",
+      "link": "https://www.france24.com/en/middle-east/20251119-netanyahu-visits-israeli-troops-inside-syrian-buffer-zone-as-tensions-rise",
+      "published": "2025-11-19T16:31:07",
+      "content": "Israeli Prime Minister Benjamin Netanyahu visited troops stationed in Syria’s UN-patrolled buffer zone on Wednesday, praising their role in Israel’s defence as Damascus condemned the rare trip beyond the ceasefire line.",
+      "content_length": 219,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The EU has found 'a sense of purpose' in providing economic, military support for Ukraine",
+      "link": "https://www.france24.com/en/video/20251119-the-eu-has-found-a-sense-of-purpose-in-providing-economic-military-support-for-ukraine",
+      "published": "2025-11-19T16:27:14",
+      "content": "Ukrainian President Volodymyr Zelensky held talks with Turkey's president and was due to meet US Army officials in Kyiv later in the week, as word emerged that Washington was secretly exploring peace conditions with Russia. For in-depth analysis and a deeper perspective, Angela Diffley welcomes Scott Lucas, Professor of American Studies & International Politics at the Clinton Institute, University College Dublin.",
+      "content_length": 416,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Celebrated game developer Rebecca Heineman dies at age 62",
+      "link": "https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/",
+      "published": "2025-11-19T16:26:18",
+      "content": "On Monday, veteran game developer Rebecca Ann Heineman died in Rockwall, Texas, at age 62 after a battle with adenocarcinoma. Apogee founder Scott Miller first shared the news publicly on social media, and her son William confirmed her death with Ars Technica. Heineman’s GoFundMe page, which displayed a final message she had posted about entering palliative care, will now help her family with funeral costs.\nRebecca “Burger Becky” Heineman was born in October 1963 and grew up in Whittier, California. She first gained national recognition in 1980 when she won the national Atari 2600 Space Invaders championship in New York at age 16, becoming the first formally recognized US video game champion. That victory launched a career spanning more than four decades and 67 credited games, according to MobyGames.\nAmong many achievements in her life, Heineman was perhaps best known for co-founding Interplay Productions with Brian Fargo, Jay Patel, and Troy Worrell in 1983. The company created franchises like Wasteland, Fallout, and Baldur’s Gate. At Interplay, Heineman designed The Bard’s Tale III: Thief of Fate and Dragon Wars while also programming ports of classics like Wolfenstein 3D and Battle Chess.Read full article\nComments",
+      "content_length": 1236,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verfassungsgericht: Durchsuchung bei Redakteur war verfassungswidrig",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundesverfassungsgericht-beschwerde-pressefreiheit-100.html",
+      "published": "2025-11-19T16:21:40",
+      "content": "   2023 durchsuchte die Staatsanwaltschaft Karlsruhe die Privatwohnung eines Radioredakteurs, dem damals vorgeworfen worden war, eine verbotene Vereinigung zu unterstützen. Das war verfassungswidrig. Von Alena Lagmöller.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'Moscow believes battlefield realities favour them: Kyiv's defence lines, air defence overstretched'",
+      "link": "https://www.france24.com/en/video/20251119-moscow-believes-battlefield-realities-favour-them-kyiv-s-defence-lines-air-defence-overstretched",
+      "published": "2025-11-19T16:18:16",
+      "content": "Ukrainian President Volodymyr Zelensky is in Turkey for talks to revive peace efforts to end the war with Russia. All the while, Axios is reporting that the Trump administration is secretly working with Russia draft a new 28-point plan to end the war in Ukraine. For in-depth analysis and a deeper perspective, Genie Godula welcomes Dr. Alexandra Filippenko, Political Analyst and Senior Research Fellow at the Institute for US and Canadian Studies, Russian Academy of Science.",
+      "content_length": 477,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide for tinkerers",
+      "link": "https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025",
+      "published": "2025-11-19T16:17:53",
+      "content": "\n\n\n\t\n\t\t\n\nAs AI tools continue to rise in popularity, it's easy to forget the satisfaction of using something that doesn't need an update or a prompt to help you get things done. I'm talking about tools. They're simple and rugged, and they don't make things needlessly complicated. And now that the holidays are approaching, these tools can help you tackle projects you didn't finish over the summer (or, let's be real, two summers ago).\nIf you're shopping for someone who would rather read a repair manual than scroll through a social media feed, you're in the right place. We've rounded up options ranging from a long-lasting cast-iron skillet to a versati …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA und Israel - keine Rücksicht mehr auf Netanjahu",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-saudi-arabien-100.html",
+      "published": "2025-11-19T16:08:08",
+      "content": "   Der Verkauf von US-amerikanischen F-35-Jets an Saudi-Arabien wird in Israel als Warnsignal wahrgenommen: Die privilegierte Partnerschaft zwischen Israel und den USA könnte passé sein. Von Jan-Christoph Kitzler.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lula returns in Belem to UN COP30 talks unlock negociations",
+      "link": "https://www.france24.com/en/video/20251119-lula-returns-in-belem-to-un-cop30-talks-unlock-negociations",
+      "published": "2025-11-19T15:43:04",
+      "content": "Brazilian President Luiz Inacio Lula da Silva arrived in Belem on Wednesday to attend the COP30 summit in a rare late-stage visit by a host country, as negotiators enter the final stages of hammering out a climate deal. Details by FRANCE 24 correspondent in Rio de Janeiro, Tim Vickery.",
+      "content_length": 286,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Vorsicht Betrug: USB-Festplatten mit gebrauchtem Innenleben",
+      "link": "https://www.heise.de/news/Vor-dem-Black-Friday-Warnung-vor-Fake-Laufwerken-in-Amazons-Marketplace-11085047.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T15:39:00",
+      "content": "Dubiose Händler verkaufen online gebrauchte SSDs und Festplatten als Neuware. Der Betrug ist vor dem Kauf für Laien nur schwer zu erkennen.",
+      "content_length": 139,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine: At least 25 killed in Russian strike in the west of the country",
+      "link": "https://www.france24.com/en/video/20251119-ukraine-at-least-25-killed-in-russian-strike-in-the-west-of-the-country",
+      "published": "2025-11-19T15:32:46",
+      "content": "A large Russian drone and missile barrage on Ukraine's western city of Ternopil killed at least 25 people, including three children, authorities said Wednesday, as President Volodymyr Zelenskyy arrived in Turkey in search of diplomatic support for his fight against Russia’s invasion. Story by Emerald Maxwell, analysis by FRANCE 24 international affairs editor Douglas Herbert.",
+      "content_length": 378,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louvre unveils new surveillance plan in wake of crown jewels heist",
+      "link": "https://www.france24.com/en/france/20251119-louvre-unveils-new-surveillance-plan-in-wake-of-crown-jewels-heist",
+      "published": "2025-11-19T15:28:17",
+      "content": "The Louvre will roll out new surveillance cameras and anti-intrusion systems after last month’s jewels heist, its director said Wednesday, announcing more than 20 emergency measures to bolster security at the world’s most visited museum.",
+      "content_length": 237,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Vorwürfe gegen Kulturstaatsminister Weimer: Opposition fordert Aufklärung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-kritik-ludwig-erhard-gipfel-100.html",
+      "published": "2025-11-19T15:21:05",
+      "content": "   Kulturstaatsminister Weimer ist auch für Medienpolitik zuständig. Nun macht das von ihm gegründete Medienunternehmen Schlagzeilen. Die Opposition wirft Fragen auf, die AfD fordert sogar Weimers Rücktritt. Von Uwe Jahn.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wachbataillon der Bundeswehr trainiert in Berliner U-Bahnhof",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/bundeswehr-trainiert-berliner-u-bahnhof-100.html",
+      "published": "2025-11-19T15:16:22",
+      "content": "   Das Wachbataillon der Bundeswehr erscheint sonst beim Empfang von Staatsgästen oder Ehrengeleit. Derzeit proben die Soldaten in einer groß angelegten Gefechtsübung den Ernstfall - auch in einem Berliner U-Bahnhof.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japanese seafood caught up in escalating diplomatic dispute with China",
+      "link": "https://www.france24.com/en/video/20251119-japanese-seafood-caught-up-in-escalating-diplomatic-dispute-with-china",
+      "published": "2025-11-19T15:14:26",
+      "content": "China has announced it will ban all imports of Japanese seafood, two government officials in Tokyo said on Wednesday, in what appears to be the latest salvo in an escalating diplomatic dispute between Asia's top two economies. Story by Bryan Quinn.",
+      "content_length": 248,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nicki Minaj defends Donald Trump's Christian genocide claim in Nigeria",
+      "link": "https://www.france24.com/en/video/20251119-nicki-minaj-defends-donald-trump-s-christian-genocide-claim-in-nigeria",
+      "published": "2025-11-19T15:12:07",
+      "content": "Rapper Nicki Minaj took up President Donald Trump’s allegations that Christians are persecuted in Nigeria, saying Tuesday at a United Nations event organized by the U.S. that she wants to shine a spotlight on “the deadly threat.” Story by Ellen Gainsford and Sophie Samaille.",
+      "content_length": 275,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI",
+      "link": "https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/",
+      "published": "2025-11-19T14:41:52",
+      "content": "On a sunny morning on October 19 2025, four men allegedly walked into the world’s most-visited museum and left, minutes later, with crown jewels worth 88 million euros ($101 million). The theft from Paris’ Louvre Museum—one of the world’s most surveilled cultural institutions—took just under eight minutes.\n\nVisitors kept browsing. Security didn’t react (until alarms were triggered). The men disappeared into the city’s traffic before anyone realized what had happened.\nInvestigators later revealed that the thieves wore hi-vis vests, disguising themselves as construction workers. They arrived with a furniture lift, a common sight in Paris’s narrow streets, and used it to reach a balcony overlooking the Seine. Dressed as workers, they looked as if they belonged.\nThis strategy worked because we don’t see the world objectively. We see it through categories—through what we expect to see. The thieves understood the social categories that we perceive as “normal” and exploited them to avoid suspicion. Many artificial intelligence (AI) systems work in the same way and are vulnerable to the same kinds of mistakes as a result.\nThe sociologist Erving Goffman would describe what happened at the Louvre using his concept of the presentation of self: people “perform” social roles by adopting the cues others expect. Here, the performance of normality became the perfect camouflage.\nThe sociology of sight\nHumans carry out mental categorization all the time to make sense of people and places. When something fits the category of “ordinary,” it slips from notice.\nAI systems used for tasks such as facial recognition and detecting suspicious activity in a public area operate in a similar way. For humans, categorization is cultural. For AI, it is mathematical.\nBut both systems rely on learned patterns rather than objective reality. Because AI learns from data about who looks “normal” and who looks “suspicious,” it absorbs the categories embedded in its training data. And this makes it susceptible to bias.\nThe Louvre robbers weren’t seen as dangerous because they fit a trusted category. In AI, the same process can have the opposite effect: people who don’t fit the statistical norm become more visible and over-scrutinized.\nIt can mean a facial recognition system disproportionately flags certain racial or gendered groups as potential threats while letting others pass unnoticed.\nA sociological lens helps us see that these aren’t separate issues. AI doesn’t invent its categories; it learns ours. When a computer vision system is trained on security footage where “normal” is defined by particular bodies, clothing, or behavior, it reproduces those assumptions.\nJust as the museum’s guards looked past the thieves because they appeared to belong, AI can look past certain patterns while overreacting to others.\nCategorization, whether human or algorithmic, is a double-edged sword. It helps us process information quickly, but it also encodes our cultural assumptions. Both people and machines rely on pattern recognition, which is an efficient but imperfect strategy.\nA sociological view of AI treats algorithms as mirrors: They reflect back our social categories and hierarchies. In the Louvre case, the mirror is turned toward us. The robbers succeeded not because they were invisible, but because they were seen through the lens of normality. In AI terms, they passed the classification test.\nFrom museum halls to machine learning\nThis link between perception and categorization reveals something important about our increasingly algorithmic world. Whether it’s a guard deciding who looks suspicious or an AI deciding who looks like a “shoplifter,” the underlying process is the same: assigning people to categories based on cues that feel objective but are culturally learned.\nWhen an AI system is described as “biased,” this often means that it reflects those social categories too faithfully. The Louvre heist reminds us that these categories don’t just shape our attitudes, they shape what gets noticed at all.\nAfter the theft, France’s culture minister promised new cameras and tighter security. But no matter how advanced those systems become, they will still rely on categorization. Someone, or something, must decide what counts as “suspicious behavior.” If that decision rests on assumptions, the same blind spots will persist.\nThe Louvre robbery will be remembered as one of Europe’s most spectacular museum thefts. The thieves succeeded because they mastered the sociology of appearance: They understood the categories of normality and used them as tools.\nAnd in doing so, they showed how both people and machines can mistake conformity for safety. Their success in broad daylight wasn’t only a triumph of planning. It was a triumph of categorical thinking, the same logic that underlies both human perception and artificial intelligence.\nThe lesson is clear: Before we teach machines to see better, we must first learn to question how we see.\nVincent Charles, Reader in AI for Business and Management Science, Queen’s University Belfast, and Tatiana Gherman, Associate Professor of AI for Business and Strategy, University of Northampton.  This article is republished from The Conversation under a Creative Commons license. Read the original article.\n\n\nRead full article\nComments",
+      "content_length": 5307,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Höchste Warnstufe auf indonesischer Insel Java nach Vulkanausbruch",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-vulkan-ausbruch-semeru-100.html",
+      "published": "2025-11-19T14:39:51",
+      "content": "   Der Vulkan Semeru auf der indonesischen Insel Java spuckt derzeit kilometerhohe Aschewolken. Die Regierung hat die höchste Warnstufe ausgerufen. Mehr als 300 Menschen wurden in Sicherheit gebracht. [mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "heise+ | Qualcomm enthüllt technische Details des Notebookprozessors Snapdragon X2 Elite",
+      "link": "https://www.heise.de/news/Qualcomm-enthuellt-technische-Details-des-Notebookprozessors-Snapdragon-X2-Elite-11084135.html?wt_mc=rss.red.ho.top-news.atom.beitrag_plus.beitrag_plus",
+      "published": "2025-11-19T14:08:00",
+      "content": "Qualcomm hat auf einem Presseevent tief unter die Haube des neuen Snapdragon X2 blicken lassen. Zudem waren erste Benchmarks der kleineren Ausbaustufen möglich.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU-Kommission will Cookie-Klicks im Internet reduzieren",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherfreundlichere-cookie-klicks-100.html",
+      "published": "2025-11-19T14:05:34",
+      "content": "   Die EU-Kommission will die Digitalregeln zu Datenschutz, Cybersicherheit und KI vereinfachen. Zugleich plant sie verbraucherfreundlichere Regeln für Cookie-Einstellungen im Internet. [mehr]",
+      "content_length": 192,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeswehr soll künftig bei Drohnenabwehr unterstützen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-drohnenabwehr-weltraum-100.html",
+      "published": "2025-11-19T14:00:52",
+      "content": "   Drohnensichtungen haben zuletzt auch in Deutschland für Unruhe gesorgt. Das Bundeskabinett will deswegen nun die Verteidigung stärken. Künftig soll die Bundeswehr bei der Abwehr unterstützen können - notfalls mit Waffengewalt. [mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel used widely banned cluster munitions in Lebanon, photos of remnants suggest",
+      "link": "https://www.theguardian.com/world/2025/nov/19/israel-used-widely-banned-cluster-munitions-in-lebanon-photos-of-remnants-suggest",
+      "published": "2025-11-19T14:00:39",
+      "content": "Exclusive: Images are first indication that Israel has used cluster munitions in nearly 20 yearsIsrael used widely banned cluster munitions in its recent 13-month war in Lebanon, photos of munition remnants in south Lebanon seen by the Guardian suggest.The images, which have been examined by six different arms experts, appear to show the remnants of two different types of Israeli cluster munitions found in three different locations: south of the Litani River in the forested valleys of Wadi Zibqin, Wadi Barghouz and Wadi Deir Siryan. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Beziehung mit Minderjähriger: Vorwürfe gegen Musiker Wecker",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/vorwuerfe-gegen-konstantin-wecker-100.html",
+      "published": "2025-11-19T14:00:33",
+      "content": "   Der Sänger Konstantin Wecker soll laut einem Medienbericht vor mehr als zehn Jahren eine Beziehung mit einer 15-Jährigen gehabt haben. Er selbst war damals 63 Jahre. Der Musiker bittet die Betroffene um Entschuldigung.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
+      "link": "https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/",
+      "published": "2025-11-19T14:00:00",
+      "content": "We’re in something of a purple patch if you’re a fan of clever new technology in single-seat race cars. Out in the Middle East, the autonomous A2RL crew held another race at Yas Marina, one that by all accounts was a lot more impressive than the last time the self-driving race cars competed against a human. Formula E teams are getting ready for the debut next year of their Gen4 era, which sees cars with real downforce and almost twice as much power. Meanwhile, we only have a few months left before we see the results of F1’s new technical rules change, as the sport adopts far more powerful electrical propulsion and active aerodynamics. But what if there was an electric single-seater that was faster around a track than any of these?\nThat’s the idea behind the DRG-Lola, a racing concept designed from the ground up by Lola Cars, the storied-now-reborn British race car manufacturer, and Lucas di Grassi, veteran of the hybrid LMP1 sportscar days and FIA Formula E champion. Di Grassi is one of the more thoughtful racing drivers out there and is a passionate advocate of clean technologies in racing—in 2020 he shared his earlier thoughts on where Formula E could take its technical direction.\nThe DRG-Lola is much closer to reality than that 2020 concept; di Grassi has relied on existing battery and motor technology, rather than some uninvented unobtanium to make it all work. It generates 804 hp (600 kW) from a pair of electric motors driving the front and rear axles and is powered by a 60 kWh battery pack that’s arranged in modules on either side of the driver’s cockpit.Read full article\nComments",
+      "content_length": 1613,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kommentar zu Afghanen mit Aufnahmezusage: Eine Blamage für Dobrindt",
+      "link": "https://www.tagesschau.de/kommentar/dobrindt-angebot-afghanen-100.html",
+      "published": "2025-11-19T13:45:25",
+      "content": "   Innenminister Dobrindt ließ Afghanen mit Aufnahmezusage Geld bieten, damit sie nicht nach Deutschland kommen. Nur wenige nahmen das an. Eine Blamage für Dobrindt, meint Peter Hornung. [mehr]",
+      "content_length": 193,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Windows integriert Sysmon nativ",
+      "link": "https://www.heise.de/news/Sysmon-wird-Windows-Bestandteil-11084871.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T13:19:00",
+      "content": "Mark Russinovich hat angekündigt, dass das Diagnosetool Sysmon im kommenden Jahr Windows-Bestandteil wird.",
+      "content_length": 106,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "E-Autos laden soll so einfach werden wie Tankvorgang",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/masterplan-ladeinfrastruktur-100.html",
+      "published": "2025-11-19T13:18:37",
+      "content": "   Das Laden von Elektroautos soll so schnell und einfach werden wie Tanken. Die Bundesregierung beschließt dafür einen \"Masterplan Ladeinfrastruktur\" und verschiedene Förderprogramme.[mehr]",
+      "content_length": 190,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Teilchenphysik: Produktion von Antimaterie am CERN um das Achtfache beschleunigt",
+      "link": "https://www.heise.de/news/Vor-10-Jahren-noch-Science-Fiction-Antimaterieproduktion-am-CERN-beschleunigt-11084885.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T13:13:00",
+      "content": "Dauerte die Produktion größerer Mengen von Antiwasserstoff vor Jahren noch wochenlang, reicht inzwischen eine einzige Nacht. Das hilft der Grundlagenforschung.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine meldet zahlreiche Tote durch russische Angriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-130.html",
+      "published": "2025-11-19T13:08:35",
+      "content": "   Bei russischen Angriffen sind in der ukrainischen Stadt Ternopil mindestens 25 Menschen getötet worden. Landesweit wurden Dutzende Verletzte gemeldet. Die USA haben weitere Rüstungshilfe für die Ukraine genehmigt.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "OnePlus 15 review: The end of range anxiety",
+      "link": "https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/",
+      "published": "2025-11-19T12:30:59",
+      "content": "OnePlus got its start courting the enthusiast community by offering blazing-fast phones for a low price. While the prices aren’t quite as low as they once were, the new OnePlus 15 still delivers on value. Priced at $899, this phone sports the latest and most powerful Snapdragon processor, the largest battery in a mainstream smartphone, and a super-fast screen.\nThe OnePlus 15 still doesn’t deliver the most satisfying software experience, and the camera may actually be a step back for the company, but the things OnePlus gets right are very right. It’s a fast, sleek phone that runs for ages on a charge, and it’s a little cheaper than the competition. But its shortcomings make it hard to recommend this device over the latest from Google or Samsung—or even the flagship phone OnePlus released 10 months ago.\nUS buyers have time to mull it over, though. Because of the recent government shutdown, Federal Communications Commission  approval of the OnePlus 15 has been delayed. The company says it will release the phone as soon as it can, but there’s no exact date yet.Read full article\nComments",
+      "content_length": 1099,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "China wieder Deutschlands wichtigster Handelspartner",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handel-deutschland-100.html",
+      "published": "2025-11-19T12:27:45",
+      "content": "   China ist wieder Deutschlands wichtigster Handelspartner - vor den USA. Grund sind die gestiegenen Importe. Die Exporte nach China gingen hingegen zurück.[mehr]",
+      "content_length": 163,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Windows wird zum Desktop mit KI-Automatisierung",
+      "link": "https://www.heise.de/news/Agent-Workspace-Windows-wird-zum-Copilot-Automat-11084511.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T12:21:00",
+      "content": "Microsoft hat in der Insider-Vorschau \"Copilot Actions\" eingebaut. Die laufen auf einem speziellen Windows-Desktop.",
+      "content_length": 115,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bundesverfassungsgericht: Berlin muss Beamtenbesoldung neu regeln",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundesverfassungsgericht-beamtenbesoldung-100.html",
+      "published": "2025-11-19T12:20:46",
+      "content": "   Das Bundesverfassungsgericht hat entschieden: In Berlin waren die Beamtenbezüge jahrelang bis auf wenige Ausnahmen verfassungswidrig. Das Land muss die Besoldung nun anpassen - und teils nachzahlen. Von Klaus Hempel.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cloudflare-Ausfall: Ein Fehler bei Rechteverwaltung mit weitreichenden Folgen",
+      "link": "https://www.heise.de/news/Cloudflare-Ausfall-Ein-Fehler-bei-Rechteverwaltung-mit-weitreichenden-Folgen-11084658.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T12:18:00",
+      "content": "Für den Cloudflare-Ausfall mit heftigen Folgen war kein Angriff, sondern ein interner Fehler ursächlich. Das hat Cloudflare jetzt ausführlich erklärt.",
+      "content_length": 150,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Disease fears as Argentina child vaccination rates hit historic lows",
+      "link": "https://www.theguardian.com/world/2025/nov/19/argentina-immunisations-childhood-adolescent-plummet",
+      "published": "2025-11-19T12:15:34",
+      "content": "Sharp drop since 2024 in country regarded as a Latin American leader in childhood and adolescent immunisationArgentina’s childhood and adolescent vaccination rates have collapsed to historic lows, according to a new analysis, prompting warnings that once-eliminated diseases may resurge.The study of health ministry data by the Argentinian Paediatric Society (SAP) found that fewer than half of children aged five and six received several of their essential doses in 2024. All vaccine rates analysed were below the 95% level needed to reach herd immunity. Continue reading...",
+      "content_length": 575,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Link auf linksunten.indymedia: Durchsuchung bei Journalist war verfassungswidrig",
+      "link": "https://www.heise.de/news/Link-auf-linksunten-indymedia-Durchsuchung-bei-Journalist-war-verfassungswidrig-11084377.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T10:45:00",
+      "content": "Vor zweieinhalb Jahren sorgte eine Razzia bei einem Radiosender in Freiburg und dessen Angestellten für Aufsehen. Das Vorgehen war verfassungswidrig.",
+      "content_length": 149,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "New drug could be a breakthrough in treatment for killer TB, trial suggests",
+      "link": "https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline",
+      "published": "2025-11-19T10:00:12",
+      "content": "Sorfequiline shows stronger action than existing treatments against illness that killed 1.23 million last yearA new treatment for tuberculosis could boost cure rates and shorten the time needed to treat the disease by months, trial results suggest.Globally, an estimated 10.7 million people fell ill with TB last year and 1.23 million died from it. Continue reading...",
+      "content_length": 368,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Fakeshops: Vorsicht bei Black-Week- und Heizöl-Angeboten",
+      "link": "https://www.heise.de/news/Fakeshops-Vorsicht-bei-Black-Week-und-Heizoel-Angeboten-11084224.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-19T09:54:00",
+      "content": "Die Verbraucherzentrale NRW warnt vor Fakeshops mit vermeintlichen Heizöl-Schnäppchen. Die Black-Week lockt Betrüger auf den Plan.",
+      "content_length": 130,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Äußerung zu Belém: Wie Merz die Brasilianer brüskiert",
+      "link": "https://www.tagesschau.de/ausland/amerika/merz-brasilien-102.html",
+      "published": "2025-11-19T03:32:38",
+      "content": "   Alle seien \"froh\" über die Abreise aus Belém, sagte der Kanzler nach seinem kurzen Aufenthalt am Austragungsort der Klimakonferenz in Brasilien. Präsident Lula nahm die Äußerung mit Humor, dennoch sind die Brasilianer brüskiert. Von A. Herrberg.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Abstimmung über Akten: Warum der Fall Epstein Trump nicht loslässt",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-akten-100.html",
+      "published": "2025-11-18T23:40:46",
+      "content": "   Lange hat US-Präsident Trump den Ruf nach einer Freigabe der Epstein-Akten als Ablenkungsmanöver abgetan. Nun hat er doch eingewilligt. Worum also geht es im Fall Epstein? Von J. Unsöld und E. Aretz.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    }
+  ]
+}
