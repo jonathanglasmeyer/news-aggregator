@@ -1,0 +1,930 @@
+{
+  "metadata": {
+    "timestamp": "20251123_071236",
+    "input_file": "data/deduplicated/20251123_071236.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 106,
+      "filtered_count": 101,
+      "blacklisted_count": 5,
+      "reduction_rate": "4.7%",
+      "top_blacklist_reasons": {
+        "finale": 2,
+        "weltmeister": 1,
+        "fußball": 1,
+        "regen": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "‘Ignorant and life-threatening’: experts condemn Free Birth Society misinformation",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/nov/23/ignorant-and-life-threatening-experts-condemn-free-birth-society-misinformation",
+      "published": "2025-11-23T07:00:03",
+      "content": "Professionals say claims about birth, including excessive bleeding, blue babies and placenta care, are dangerous• Full story: How the FBS is linked to baby deaths around the world Continue reading...",
+      "content_length": 199,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine-Krieg - US-Außenminister Rubio tritt Kritik am 28-Punkte-Plan entgegen",
+      "link": "https://www.deutschlandfunk.de/us-aussenminister-rubio-tritt-kritik-am-28-punkte-plan-entgegen-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "US-Außenminister Rubio hat den Vorwurf zurückgewiesen, dass es sich bei dem Vorschlag Washingtons zur Beendigung des Ukraine-Krieges in Wahrheit um eine Wunschliste des Kremls handele.",
+      "content_length": 184,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südamerika - Brasiliens Ex-Präsident Bolsonaro wollte elektronische Fußfessel aufbrechen - wegen Fluchtgefahr inhaftiert",
+      "link": "https://www.deutschlandfunk.de/brasiliens-ex-praesident-bolsonaro-wollte-elektronische-fussfessel-aufbrechen-wegen-fluchtgefahr-inh-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Der inhaftierte brasilianische Ex-Präsident Bolsonaro hat im Hausarrest versucht, seine elektronische Fußfessel aufzubrechen.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "COP30 - Weltklimakonferenz verständigt sich auf Minimalkompromiss",
+      "link": "https://www.deutschlandfunk.de/weltklimakonferenz-verstaendigt-sich-auf-minimalkompromiss-102.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Bei der Weltklimakonferenz im brasilianischen Bélem haben sich die Delegierten auf eine Abschlusserklärung verständigt. Die Europäische Union konnte sich mit ihrer Forderung nach einem Fahrplan zur Abkehr von fossilen Energieträgern nicht durchsetzen.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südafrika - G20-Gipfel einigt sich bereits am ersten Tag auf eine Abschlusserklärung - gegen den ausdrücklichen Willen Trumps",
+      "link": "https://www.deutschlandfunk.de/g20-gipfel-einigt-sich-bereits-am-ersten-tag-auf-eine-abschlusserklaerung-gegen-den-ausdruecklichen--100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Der G20-Gipfel im südafrikanischen Johannesburg hat sich bereits am ersten Tag der Beratungen auf eine Abschlusserklärung geeinigt. Demnach wollen die wichtigsten Industrie- und Schwellenländer den ärmeren Staaten der Erde bei der Bewältigung ihrer Schuldenkrise helfen und ihnen den Zugang zu neuen Krediten erleichtern.",
+      "content_length": 321,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Finanzwirtschaft - Cyberangriff umfasste wohl Kundendaten von US-Banken",
+      "link": "https://www.deutschlandfunk.de/cyberangriff-umfasste-wohl-kundendaten-von-us-banken-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Bei einem Cyberangriff auf einen Dienstleister der US-Großbanken JPMorgan Chase, Citi und Morgan Stanley sind einem Medienbericht zufolge möglicherweise Kundendaten betroffen.",
+      "content_length": 175,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ermittler - Bauschaum im Auspuff - Sabotage-Serie gegen Autos sollte womöglich Bundestagswahl gegen Habeck und die Grünen beeinflussen",
+      "link": "https://www.deutschlandfunk.de/bauschaum-im-auspuff-sabotage-serie-gegen-autos-sollte-womoeglich-bundestagswahl-gegen-habeck-und-di-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Ermittlern zufolge verdichten sich die Hinweise, dass durch die Beschädigung von fast 300 Fahrzeugen mit Bauschaum vor gut einem Jahr die Bundestagswahl beeinflusst werden sollte.",
+      "content_length": 179,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Religion - Evangelische Christen begehen heute den Totensonntag",
+      "link": "https://www.deutschlandfunk.de/evangelische-christen-begehen-heute-den-totensonntag-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Evangelische Christen begehen heute den Totensonntag.",
+      "content_length": 53,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Anti-Tabak-Konvention - 183 Staaten billigen neue Empfehlungen gegen das Rauchen - vorerst kein Verbot von Zigarettenfiltern und Aromen in Vapes",
+      "link": "https://www.deutschlandfunk.de/183-staaten-billigen-neue-empfehlungen-gegen-das-rauchen-vorerst-kein-verbot-von-zigarettenfiltern-u-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Die 183 Vertragsstaaten der Anti-Tabak-Konvention haben zum Abschluss ihrer einwöchigen Beratungen in Genf weitere Empfehlungen gegen das Rauchen beschlossen.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Elektromobilität - Bundesverkehrsminister Schnieder (CDU) wirbt für \"Social Leasing\" bei E-Autos",
+      "link": "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-cdu-wirbt-fuer-social-leasing-bei-e-autos-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Bundesverkehrsminister Schnieder hat für eine einkommensabhängige staatliche Förderung für das Leasen von E-Autos geworben.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Wir verlieren Menschen in Filterblasen\" - Verfassungsschutz besorgt um Integrität des öffentlichen Diskurses durch einseitiges Informieren im Internet",
+      "link": "https://www.deutschlandfunk.de/verfassungsschutz-besorgt-um-integritaet-des-oeffentlichen-diskurses-durch-einseitiges-informieren-i-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Der niedersächsische Verfassungsschutz sieht die Integrität des öffentlichen Diskurses durch einseitiges Informieren im Internet gefährdet.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Religion - Katholische Bischöfe und Laien in Deutschland beschließen Schaffung eines neuen nationalen Kirchengremiums",
+      "link": "https://www.deutschlandfunk.de/katholische-bischoefe-und-laien-in-deutschland-beschliessen-schaffung-eines-neuen-nationalen-kirchen-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Katholiken in Deutschland haben die Schaffung eines neuen nationalen Kirchengremiums vereinbart.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tod - Keine Liberalisierungen der Bestattungsgesetze - Bayern und andere Bundesländer halten vorerst an Friedhofszwang und Sargpflicht fest",
+      "link": "https://www.deutschlandfunk.de/keine-liberalisierungen-der-bestattungsgesetze-bayern-und-andere-bundeslaender-halten-vorerst-an-fri-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Die meisten Bundesländer wollen einem Medienbericht zufolge vorerst am Friedhofszwang und an der Sargpflicht weitgehend festhalten.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesellschaft - Islamfeindlichkeit hat laut Studie wenig mit christlichem Glauben zu tun - Ursachen liegen im Autoritarismus und Rechtspopulismus",
+      "link": "https://www.deutschlandfunk.de/islamfeindlichkeit-hat-laut-studie-wenig-mit-christlichem-glauben-zu-tun-ursachen-liegen-im-autorita-102.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Islamfeindlichkeit hat wenig mit christlichem Glauben zu tun. Laut einer Studie sind Menschen, die regelmäßig in die Kirche gehen, nicht islamfeindlicher als andere.",
+      "content_length": 165,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Balkan - Republika Srpska: Präsidentenwahl im serbischen Landesteil von Bosnien",
+      "link": "https://www.deutschlandfunk.de/republika-srpska-praesidentenwahl-im-serbischen-landesteil-von-bosnien-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Im serbischen Landesteil von Bosnien-Herzegowina, der Republika Srpska, wählen die Bürger heute vorzeitig einen neuen Präsidenten.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Deutscher Alpenverein - Delegierte stellen Weichen für nachhaltige Schutzhütten",
+      "link": "https://www.deutschlandfunk.de/delegierte-stellen-weichen-fuer-nachhaltige-schutzhuetten-102.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Der Deutsche Alpenverein hat Leitlinien für einen nachhaltigen Betrieb von Schutzhütten auf den Weg gebracht.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Irritationen mit Brasilien - Merz räumt Differenzen bei Treffen mit Lula aus",
+      "link": "https://www.deutschlandfunk.de/merz-raeumt-differenzen-bei-treffen-mit-lula-aus-106.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Bundeskanzler Merz hat die Irritationen wegen seiner Äußerungen über die brasilianische Stadt Belém offenbar ausräumen können.",
+      "content_length": 126,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Mehr als 20 Tote bei israelischen Luftangriffen auf Gaza",
+      "link": "https://www.deutschlandfunk.de/mehr-als-20-tote-bei-israelischen-luftangriffen-auf-gaza-106.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Ungeachtet der Waffenruhe hat die israelische Armee mehrere Ziele im Gazastreifen angegriffen.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westafrika - Parlaments- und Präsidentschaftswahlen in Guinea-Bissau - Sorgen wegen politischer Instabilität und wachsendem Kokain-Handel",
+      "link": "https://www.deutschlandfunk.de/parlaments-und-praesidentschaftswahlen-in-guinea-bissau-sorgen-wegen-politischer-instabilitaet-und-w-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Im westafrikanischen Guinea-Bissau finden heute Parlaments- und Präsidentschaftswahlen statt.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Frankreich - Tausende Menschen protestieren in Marseille gegen Drogenkriminalität",
+      "link": "https://www.deutschlandfunk.de/tausende-menschen-protestieren-in-marseille-gegen-drogenkriminalitaet-104.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "In der französischen Stadt Marseille sind tausende Menschen auf die Straße gegangen, um ein Zeichen gegen die steigende Drogenkriminalität zu setzen.",
+      "content_length": 149,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Vielfach sonnig - von Westen aufziehende Niederschläge - im Südwesten Glatteisgefahr",
+      "link": "https://www.deutschlandfunk.de/vielfach-sonnig-von-westen-aufziehende-niederschlaege-im-suedwesten-glatteisgefahr-100.html",
+      "published": "2025-11-23T06:45:31",
+      "content": "Das Wetter: Vielfach sonnig. Von Westen aufziehende Niederschläge. Im Südwesten örtlich Glatteisgefahr. Höchstwerte minus 2 bis plus 4 Grad.",
+      "content_length": 140,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Why Trump’s lavish Saudi courtship leaves Israel on the backfoot",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/nov/23/trump-lavish-saudi-courtship-leaves-israel-on-backfoot",
+      "published": "2025-11-23T06:00:08",
+      "content": "Pageantry and trillion-dollar promises reveal how Washington’s loyalties may be tilting toward the GulfThe White House welcome bestowed on the Saudi crown prince, Mohammed bin Salman, was the most lavish of the Trump presidency, and a gaudily clear statement of its foreign policy priorities.It was billed as a mere working visit, but it was more extravagant than any previous state visit. The president greeted the prince on the south lawn, the White House’s biggest stage. There were uniformed men on horses bearing flags and a flypast of fighter jets. Continue reading...",
+      "content_length": 574,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK gambling firms spent ‘astronomic’ £2bn on advertising last year",
+      "link": "https://www.theguardian.com/society/2025/nov/23/uk-gambling-firms-advertising-rachel-reeves-budget",
+      "published": "2025-11-23T06:00:03",
+      "content": "Calls for Rachel Reeves to increase taxes in budget as estimate outstrips duties collected from online casinosBritish gambling companies spent an “astronomic” £2bn on advertising and marketing last year, according to a new estimate that has intensified calls for the chancellor to increase taxes on the sector.Bookmakers, online casinos and slot machine companies spent the sum through a mixture of print and digital promotions, as well as affiliate programmes, where third parties are paid to steer gamblers towards particular operators in return for a fee. Continue reading...",
+      "content_length": 578,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Palestine Action ban could lead to people being wrongly criminalised, Home Office official says",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/23/palestine-action-ban-home-office-prevent-scheme",
+      "published": "2025-11-23T06:00:02",
+      "content": "Exclusive: Member of homeland security group says anti-terrorism Prevent scheme risks being overwhelmed by Palestine advocatesThe anti-terrorism Prevent programme risks being overwhelmed because of the government’s ban on Palestine Action and could lead to people being wrongly criminalised, a member of the Home Office’s homeland security group has warned.The official said there was already confusion among counter-terrorism police, officials and in schools and hospitals as a result of the proscription of the direct action group, which makes being a member of – or showing support for – it a criminal offence under the Terrorism Act. Continue reading...",
+      "content_length": 657,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Now is the hour’: Labor urged to speed up fossil fuel phase-out to justify Cop30 pledge",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/23/now-is-the-hour-labor-urged-to-speed-up-fossil-fuel-phase-out-to-justify-cop30-pledge",
+      "published": "2025-11-23T04:40:59",
+      "content": "Despite Australia signing the Belem declaration, Albanese rejected suggestion Labor shouldn’t develop new gas fieldsGet our breaking news email, free app or daily news podcastThe Albanese government is being urged to explain how it will drive a fossil fuel phase-out, after it joined dozens of countries at a UN climate summit to back a declaration that the world should quickly wean off coal, gas and oil.Australia signed up to the declaration on a just transition away from fossil fuels at a side event at the Cop30 conference in the Brazilian city of Belem, which finished on Saturday night local time, more than 24 hours after the scheduled close. Continue reading...",
+      "content_length": 671,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tropical Cyclone Fina brings gales and torrential rain and leaves more than 19,000 without power in Top End",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/23/homes-without-power-and-buildings-damaged-across-top-end-after-tropical-cyclone-fina-brings-gales-and-torrential-rain",
+      "published": "2025-11-23T04:34:44",
+      "content": "Strongest cyclone to approach Darwin since Tracy in 1974 intensifies to category 4 as it moves towards northeast Kimberley coastFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTop End residents are in cleanup mode after a night of damaging winds and heavy rain from Tropical Cyclone Fina.Arriving as a category 3 system, Fina brought destructive winds and heavy downpours to remote Tiwi Islands communities, then Darwin and surrounds on Saturday and into Sunday. Continue reading...",
+      "content_length": 547,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US signals room on Ukraine plan ahead of Geneva talks, denies pushing Russian 'wish list'",
+      "link": "https://www.france24.com/en/live-news/20251123-us-denies-pushing-russian-wish-list-as-ukraine-plan",
+      "published": "2025-11-23T04:25:16",
+      "content": "Washington signalled room for negotiation on a 28-point plan to end the Ukraine war, denying claims by US senators that it is a Russian \"wish list,\" as Kyiv and European allies criticised the proposal ahead of Sunday talks in Geneva.",
+      "content_length": 233,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Standoff looms for final week of parliament as Coalition holds out on nature laws – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/23/severe-tropical-cyclone-fina-darwin-nt-bom-cop30-fossil-fuel-transition-g20-climate-declaration-ntwnfb",
+      "published": "2025-11-23T04:18:02",
+      "content": "This blog is now closed Get our breaking news email, free app or daily news podcastGreens senator says party wants native forest protections as part of nature law negotiationsThe Greens’ environment spokesperson, Sarah Hanson-Young has appeared on ABC’s Insiders amid the government appealing to the minor party with concessions in order to pass their nature laws.Three more years of the destruction of our native forests when we’ve got 2,000-plus species already endangered in this country, where we’ve got billions of dollars of taxpayer money already being spent subsidising an industry that’s about destroying our native forests. I mean, it’s 2025 and it’s time we ended native forest logging, protected these beautiful, ancient forests that aren’t just there for the richness of biodiversity, but they’re so important when it comes to combating climate change, they are carbon sinks.I was probably finally convinced only in the final couple of days, to be honest, I had colleagues come and have chats. I have a really good relationship with Mark Speakman. It was a friendly chat with Mark. It was a hard chat, but it was a very friendly one. And then when I’m in, I’m in 100%. I think what a lot of people would do in my position is weigh up the pros and cons and think of all the reasons that I shouldn’t do it, but at the end of the day, the reasons I should outweighed those, and I’ll be a committed leader. I’m very clear eyed once I’ve made up my mind. Continue reading...",
+      "content_length": 1482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Widersprüche um Urheberschaft: Rubio weist Vorwürfe zu Ukraine-Plan zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/rubio-us-plan-ukraine-100.html",
+      "published": "2025-11-23T04:13:07",
+      "content": "   Wer hat den 28-Punkte-Plan zum Kriegsende in der Ukraine verfasst? US-Senatoren werfen der Trump-Regierung vor, ihn nicht selbst ausgearbeitet zu haben - es sei eine \"Wunschliste der Russen\". Außenminister Rubio weist das zurück. [mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Grüne wollen an der \"Rente mit 63\" rütteln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-rentenpapier-100.html",
+      "published": "2025-11-23T04:00:59",
+      "content": "   Bisher gibt es in der schwarz-roten Koalition beim Rentenpaket keine Einigung. Nun melden sich die Grünen mit Vorschlägen: Sie wollen die \"Rente mit 63\" reduzieren und ein Niveau dauerhaft bei 48 Prozent. Von Jan-Peter Bartels.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vietnam flooding death toll reaches 90 amid landslides and relentless rain",
+      "link": "https://www.theguardian.com/world/2025/nov/23/vietnam-flooding-deaths-landslides-rain-dak-lak",
+      "published": "2025-11-23T03:57:39",
+      "content": "Environment ministry says most of the deaths were in the mountainous central province of Dak LakThe death toll from major flooding in Vietnam has risen to 90, with 12 more people missing, the environment ministry said on Sunday after days of heavy rain and landslides.Relentless rain has lashed south-central Vietnam since late October and popular holiday destinations have been hit by several rounds of flooding. Continue reading...",
+      "content_length": 433,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump says Ukraine deal is not ‘final offer’ as officials gather for Geneva summit",
+      "link": "https://www.theguardian.com/world/2025/nov/23/trump-says-ukraine-deal-is-not-final-offer-as-officials-gather-for-geneva-summit",
+      "published": "2025-11-23T03:02:39",
+      "content": "US president signals potential room for adjustments after Zelenskyy says proposals force Ukraine to choose between national dignity and losing the USDonald Trump said on Saturday that his Moscow-drafted “peace plan” was “not my final offer”, after a furious backlash from Ukrainians who described it as reminiscent of Neville Chamberlain’s 1938 Munich agreement with Adolf Hitler.The US president told reporters during brief remarks at the White House: “We’d like to get to peace. It should’ve happened a long time ago … we’re trying to get it ended, one way or the other we have to get it ended.” Continue reading...",
+      "content_length": 617,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brasiliens Ex-Präsident Bolsonaro kurz vor Haftantritt in Gewahrsam",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-haft-102.html",
+      "published": "2025-11-23T02:48:04",
+      "content": "   Die brasilianische Bundespolizei hat Ex-Präsident Bolsonaro kurz vor dem geplanten Antritt seiner Gefängnisstrafe in Gewahrsam genommen. Bolsonaro war wegen eines Putschversuchs zu gut 27 Jahren Haft verurteilt worden.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Warnung der US-Luftfahrtbehörde: Airlines streichen Flüge nach Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-us-operation-100.html",
+      "published": "2025-11-23T02:18:13",
+      "content": "   Die US-Luftfahrtbehörde warnte vor Gefahren im venezolanischen Luftraum - einige internationale Airlines haben nun reagiert und  ihre Flüge nach Venezuela gestrichen. Einem Bericht zufolge steht eine neue Phase von US-Militäreinsätzen bevor.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UAB football player faces attempted murder charge after allegedly stabbing teammates",
+      "link": "https://www.theguardian.com/sport/2025/nov/22/uab-football-player-faces-attempted-charge-after-allegedly-stabbing-teammates",
+      "published": "2025-11-23T00:20:35",
+      "content": "Incident happened hours before Saturday’s gameTwo players in stable condition in local hospitalA University of Alabama at Birmingham football player allegedly stabbed two teammates on Saturday morning, hours before the team’s game against the University of South Florida, the university said in a statement.“UAB’s top priority remains the safety and well-being of all of our students,” the statement said. “Given patient privacy and the ongoing investigation, we have no further comment at this time.” Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Shocker: Elon Musk spends a lot of time on X posting bad political takes",
+      "link": "https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself",
+      "published": "2025-11-23T00:15:13",
+      "content": "\n\n\n\t\n\t\t\n\nNBC News's David Ingram analyzed a month's worth of Elon Musk's X posts (our condolences). While what he was able to glean wasn't too surprising, it was still interesting to see the numbers all laid out. Between September 17th and October 17th, he posted 1,716 times, averaging a little over 55 posts a day. 49 percent of those were about politics, usually fringe. He seems particularly hung up on the race of people on TV and in movies, including going after child actors.\nOther things Elon likes to talk about? Crime, Tesla - oh, and of course, himself. Over the 30 days, Elon posted about himself 109 times. He often even reposts his own stan ac …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Flughafen Eindhoven nach Drohnensichtungen gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnen-eindhoven-100.html",
+      "published": "2025-11-22T23:33:43",
+      "content": "   Schon am Freitag wurden in den Niederlanden Drohnen über einem Luftwaffenstützpunkt entdeckt. Nun gab es weitere Sichtungen über dem Flughafen in Eindhoven. Woher sie kommen - unklar. Der Flugbetrieb war zwischenzeitlich eingestellt. [mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Security fears rise in Nigeria after more than 300 schoolchildren kidnapped",
+      "link": "https://www.theguardian.com/world/2025/nov/22/security-fears-rise-in-nigeria-after-more-than-300-taken-mass-school-kidnapping",
+      "published": "2025-11-22T23:22:35",
+      "content": "Christian group revises up number of students and teachers missing after one of country’s largest mass abductionGunmen have kidnapped more than 300 students and teachers in one of the largest mass kidnappings in Nigeria, a Christian group said on Saturday, as security fears mounted in Africa’s most populous nation.The early Friday raid on St Mary’s co-educational school in Niger state in western Nigeria came after gunmen on Monday stormed a secondary school in neighbouring Kebbi state, abducting 25 girls. Continue reading...",
+      "content_length": 530,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "First rebuilt home in wake of LA fires celebrated in Pacific Palisades",
+      "link": "https://www.theguardian.com/us-news/2025/nov/22/first-rebuilt-home-los-angeles-fires",
+      "published": "2025-11-22T22:57:54",
+      "content": "Fire-resistant upgrades are included in replacement structure less than a year after fires destroyed 13,000 homesDid you lose your home in the Los Angeles wildfires? We’d like to hear how you’re spending the holidaysLess than a year after the Palisades fire destroyed nearly 7,000 structures in Los Angeles, the first completed rebuilt home is being celebrated in Pacific Palisades.In a statement, mayor Karen Bass confirmed that the Los Angeles department of building and safety had issued the certificate on Friday, certifying that the home had passed inspection and was ready for occupancy. Continue reading...",
+      "content_length": 613,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Four top Labour figures could beat Starmer in a leadership race, poll finds",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/22/four-top-labour-figures-could-beat-starmer-in-a-leadership-race-poll-finds",
+      "published": "2025-11-22T22:30:52",
+      "content": "Research shows members would back Andy Burnham, Ed Miliband, Angela Rayner and Wes Streeting over PMAndy Burnham, Ed Miliband, Angela Rayner and Wes Streeting would all win a head-to-head leadership contest against Keir Starmer, according to a poll of Labour members.Research conducted by Survation for LabourList found that Burnham and Rayner would defeat the prime minister by considerable margins, while Streeting and Miliband would have a slight advantage but within the margin of error. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Relief for rail passengers as fare freeze in England announced for 2026",
+      "link": "https://www.theguardian.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
+      "published": "2025-11-22T22:30:51",
+      "content": "Chancellor will confirm the measure, intended to help commuters on expensive routes, in her budget speechRail fares in England will not be increased in 2026, the government has announced, surprising passengers with the first fare freeze in 30 years.The chancellor, Rachel Reeves, will confirm a freeze on fares in this week’s budget, a move designed to limit inflation, ease the cost of living and support economic growth. Continue reading...",
+      "content_length": 442,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bielle-Biarrey leads France past Australia, Wallabies finish winless European tour",
+      "link": "https://www.france24.com/en/live-news/20251122-bielle-biarrey-masterclass-helps-france-hold-off-australia",
+      "published": "2025-11-22T22:17:14",
+      "content": "France winger Louis Bielle-Biarrey scored twice and set up two more as Les Bleus overcame Australia 48-33 in Paris on Saturday, handing the Wallabies their first winless European tour since 1958.",
+      "content_length": 195,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Reeves to announce £1.5bn boost in EV subsidies amid pay-per-mile concerns",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/22/reeves-ev-subsidies-chargers-budget-boost-pay-per-mile-tax",
+      "published": "2025-11-22T22:00:50",
+      "content": "Industry experts welcome extra incentives but fear a consultation on a mileage tax sends mixed messages   Drivers will be able to claim government subsidies to cut the cost of buying a new electric car until 2030 under plans to be announced by Rachel Reeves at next week’s budget.The chancellor will unveil an extra £1.3bn for subsidies for new electric vehicles (EVs) and a further £200m for charging points, as she attempts to prevent the market for clean cars drying up amid concerns about a new pay-per-mile tax. Continue reading...",
+      "content_length": 536,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff",
+      "link": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
+      "published": "2025-11-22T21:52:41",
+      "content": "Wealthy countries should triple funds for countries to tackle climate impacts, but deforestation and critical minerals blocked from final dealThe world edged a small step closer to the end of the fossil fuel era on Saturday, but not by nearly enough to stave off the ravages of climate breakdown.Countries meeting in Brazil for two weeks could manage only a voluntary agreement to begin discussions on a roadmap to an eventual phase-out of fossil fuels, and they achieved this incremental progress only in the teeth of implacable opposition from oil-producing countries. Continue reading...",
+      "content_length": 590,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Western leaders at G20 say US peace plan for Ukraine ‘will require work’",
+      "link": "https://www.theguardian.com/world/2025/nov/22/us-peace-plan-ukraine-g20-changes",
+      "published": "2025-11-22T21:49:04",
+      "content": "European leaders say Washington’s proposal needs major changes, as Macron warns G20 risks losing relevanceWestern leaders have said the US peace plan for ending the war in Ukraine “will require additional work” at the G20 summit in Johannesburg, which Donald Trump boycotted.The draft plan, which was leaked this week, endorsed some of Russia’s demands, such as handing over areas of Ukraine’s eastern Donbas region, limiting its military, and relinquishing its ambitions to join Nato. Washington has given Kyiv a deadline of Thursday to respond. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kyiv and its foreign allies 'are being very diplomatic'",
+      "link": "https://www.france24.com/en/video/20251122-kyiv-and-its-foreign-allies-are-being-very-diplomatic",
+      "published": "2025-11-22T21:34:14",
+      "content": "A Ukrainian delegation, bolstered by representatives from France, Germany and the UK, is preparing for direct talks with Washington in Switzerland on Sunday. Ukrainian President Volodymyr Zelensky has been \"holding phone conversations with all of the other foreign allies of Ukraine,\" said FRANCE 24's correspondent in Kyiv Gulliver Cragg. \"They have worked out a strategy of not making any [. . .] 'loud statements' [. . .] they are being very diplomatic,\" added Cragg.",
+      "content_length": 470,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Jair Bolsonaro arrested after tampering with ankle tag ‘out of curiosity’",
+      "link": "https://www.theguardian.com/world/2025/nov/22/far-right-former-president-jair-bolsonaro-arrested-in-brazil",
+      "published": "2025-11-22T21:16:16",
+      "content": "Brazilian ex-president says he used soldering iron on device and is now in custody over fears he was going to abscondBrazil’s former far-right president Jair Bolsonaro has claimed he tried to damage his electronic ankle monitor “out of curiosity” after he was arrested at his villa owing to suspicions he was poised to abscond.In a video released by the supreme court, Bolsonaro – who was recently sentenced to 27 years in prison for masterminding a military coup – can be heard admitting to a security official that he had used a soldering iron to tamper with the black tag. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tatiana Schlossberg, granddaughter of JFK, announces terminal cancer diagnosis",
+      "link": "https://www.theguardian.com/us-news/2025/nov/22/tatiana-schlossberg-jfk-terminal-cancer",
+      "published": "2025-11-22T19:43:11",
+      "content": "Journalist, daughter of Caroline Kennedy and Edwin Schlossberg, reveals she has acute myeloid leukemiaTatiana Schlossberg, a journalist and the granddaughter of John F Kennedy, disclosed on Saturday that she has been diagnosed with terminal cancer, saying her doctor informed her that she has less than a year left to live.The environmental writer also addressed her cousin, Robert F Kennedy Jr, criticizing the influence his policies as secretary of health and human services have had on her experience with the illness. Continue reading...",
+      "content_length": 541,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "G20-Gipfel in Johannesburg: Erfolg für Ramaphosa trotz US-Boykott",
+      "link": "https://www.tagesschau.de/ausland/afrika/g20-johannesburg-tag-eins-100.html",
+      "published": "2025-11-22T19:40:02",
+      "content": "   Trotz des Boykotts durch Donald Trump kann Südafrikas Präsident Ramaphosa als G20-Gastgeber einen Erfolg verbuchen. Schon am ersten Tag gibt es eine gemeinsame Erklärung - eine Botschaft auch an die USA. Von Nina Barth.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Academics who say they are ‘pro-white’ and have ‘ethnic conception’ of Australia turn spotlight on Sydney’s Campion College",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/23/academics-who-say-they-are-pro-white-and-have-ethnic-conception-of-australia-turn-spotlight-on-sydneys-campion-college",
+      "published": "2025-11-22T19:00:49",
+      "content": "Higher education regulator investigates Catholic institute after comments by academics, including endorsing the White Australia policyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn influential Catholic college in Sydney is under investigation by the higher education regulator over a series of comments made by two of its prominent academics supporting the White Australia policy and calling for Anglo-Celtic Australians and Europeans to become a “supermajority” in the country.The federal education minister, Jason Clare, said the Tertiary Education Quality and Standards Agency (Teqsa) was “undertaking a compliance process” with Campion College in relation to a number of comments made by Stephen McInerney, a dean of studies, and Associate Prof Stephen Chavura, a senior lecturer. Continue reading...",
+      "content_length": 873,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Cannot believe it’s still happening’: readers respond to ‘heartbreaking’ domestic violence homicides",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/23/cannot-believe-its-still-happening-readers-respond-to-heartbreaking-domestic-violence-homicides",
+      "published": "2025-11-22T19:00:49",
+      "content": "Readers share the impact of Guardian Australia’s two-year investigation Broken trust, which underlined the ‘shocking realities of domestic violence-related deaths’Follow our Australia news live blog for latest updatesRead more from Guardian Australia’s two-year investigation hereGuardian Australia’s Broken trust series has uncovered allegations of policing failures before domestic and family violence homicides, and cases that were not adequately investigated.Over the course of the week, we revealed new information about the cases of Hannah Clarke and her children, Gail Karran and Kardell Lomas. Continue reading...",
+      "content_length": 621,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Klimakonferenz endet ohne Ausstiegsfahrplan für Kohle, Öl und Gas",
+      "link": "https://www.tagesschau.de/ausland/amerika/weltklimakonferenz-minimalkompromiss-100.html",
+      "published": "2025-11-22T18:54:46",
+      "content": "   Zum Abschluss der 30. Weltklimakonferenz haben sich die Delegierten nur auf einen Minimalkompromiss verständigen können. Die Abschlusserklärung enthält keinen verpflichteten Fahrplan zur Abkehr von Kohle, Öl und Gas.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wer sind die JNIM-Milizionäre, die Malis Hauptstadt blockieren?",
+      "link": "https://www.tagesschau.de/ausland/afrika/mali-jnim-100.html",
+      "published": "2025-11-22T18:22:17",
+      "content": "   Der mit Al-Kaida verbündeten Dschihadistenmiliz JNIM ist mit der Treibstoffblockade der malischen Hauptstadt ein beispielloser Erfolg gelungen. Doch wer steht hinter JNIM und wie erklärt sich der Erfolg der Gruppe? Von Naveena Kottoor.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel launches strikes on Gaza in latest test to fragile ceasefire",
+      "link": "https://www.france24.com/en/middle-east/20251122-israel-launches-strikes-in-latest-test-to-fragile-gaza-ceasefire",
+      "published": "2025-11-22T18:09:32",
+      "content": "Israel launched on Saturday airstrikes on Gaza which killed at least 24 people and wounded dozens in the latest test of the fragile October 10 ceasefire. Prime Minister Benjamin Netanyahu’s office said the strikes targeted and killed five senior Hamas members.",
+      "content_length": 260,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘This is not right’: grassroots campaign aims to repeal Missouri Republicans’ gerrymandering",
+      "link": "https://www.theguardian.com/us-news/2025/nov/22/missouri-voting-map-republicans",
+      "published": "2025-11-22T18:00:45",
+      "content": "A new congressional map was abruptly passed by Republicans in mid-September – but voters have a chance to rebuke politicians and stop it from going into effectWhen canvassers fan out across neighborhoods, they usually rely on sophisticated lists that will tell them things like a voter’s political party and how likely they are to support a given cause. Jill Imbler isn’t bothering with any of that.The 69-year-old has lived in Moberly – a Missouri town of about 14,000 people – her entire life. She doesn’t use a GPS when she drives around, knows where people live, and what time they’re likely to be home. And there’s a pretty good chance that she, or one of her six siblings, knows them personally. Continue reading...",
+      "content_length": 721,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sony’s entire DualSense lineup is $20 off, including the limited edition models",
+      "link": "https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025",
+      "published": "2025-11-22T18:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nBlack Friday isn’t here quite yet, but that hasn’t stopped Sony from kicking off an excellent holiday promo, which runs through December 18th. The ongoing sale spans everything from PlayStation 5 consoles to Sony’s latest accessories — including Sony’s standard DualSense Wireless Controller, which is now matching its all-time low of $54.99 ($20 off) in multiple colors at Amazon, Best Buy, and Target.\n\nAlthough the aforementioned deal price applies to Sony’s base models — including the go-to black and white variants — you can also pick up limited edition models inspired by Astro Bot (Walmart / Best Buy), God of War (Amazon / Walmart), and Ghost of Yōtei (Walmart / Best Buy) for around $64 (also $20 off). The controllers start at a higher price than the vanilla models, but recognize that you’re still getting them for $10 less than a regular DualSense normally costs.\nSony DualSense Wireless Controller\n\nWhere to Buy: $74.99 $54.99 at Amazon $74.99 $54.99 at Best Buy $74.99 $54.99 at TargetAstro Bot “Joyful” DualSense Wireless Controller\n\nWhere to Buy: $84.99 $64.99 at PlayStation $84.88 $64 at Walmart $84.99 $64.99 at Best Buy\nThe DualSense will look familiar to longtime PlayStation fans, but it has significant technical features that set it apart from Sony’s earlier DualShock gamepads. A good example is the wireless controller’s haptic vibrations, which can make gameplay feel more immersive. Feeling a slight rumble on alternating sides of the controller as a character walks through sand is an example of what’s possible. The triggers have variable tension, too, which, in some games, requires you to push down with more force during certain sequences. It’s a terrific feature, and something we wish more developers would adopt.\n\nAs for table-stakes features, the DualSense features some nice textured grips and a built-in microphone, which lets you chat with other players online without a headset. You also have the option to plug a wired headset (or headphones) into the controller’s 3.5mm audio jack. It charges via USB-C — no surprise there — and can last up to eight hours or so, which should be enough to get you through most gaming sessions. It isn’t compatible with other consoles, but you can use it with a Mac or PC via Bluetooth or by plugging in with a USB-C cable.\n\nRead our full DualSense Wireless Controller review.",
+      "content_length": 2361,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trotz Waffenruhe: Erneut israelische Angriffe auf den Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-angriffe-120.html",
+      "published": "2025-11-22T17:23:19",
+      "content": "   Bei israelischen Angriffen sind im Gazastreifen zahlreiche Menschen getötet und verletzt worden. Seit dem 10. Oktober herrscht im Gaza-Krieg eine Waffenruhe. Immer wieder kommt es aber trotzdem zu tödlicher Gewalt.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spotify simplifies importing playlists from other streaming services",
+      "link": "https://www.theverge.com/news/825646/spotify-playlist-import",
+      "published": "2025-11-22T17:10:35",
+      "content": "\n\n\n\t\n\t\t\n\nIn August, Apple Music launched a tool for importing playlists from other streaming services. The bruhahah over Daniel Ek’s war profiteering was in full swing, and artists were starting to flee. The two things may have been unrelated, but the timing was certainly fortuitous. Now Spotify is launching its own playlist transfer tool, in hopes of winning over some defectors from other platforms.\n\nThe feature isn’t something brand-new, built from the ground up. Instead, it’s a direct integration with TuneMyMusic, which lets you shuttle playlists between services like Tidal, YouTube Music, Qobuz, Beatport, and even Napster. Of course, TuneMyMusic is just one of several services that offer the same ability, including Soundiiz and SongShift, which powers Apple Music’s import feature.\n\nWhile you could go straight to these third parties to move playlists between services, often, there are limits on how many playlists and how long they can be at the free tier. Going directly through Spotify and Apple gets you the full premium, unlimited transfer experience, albeit in one direction only. The ability to transfer your playlists from directly within the Spotify mobile app is rolling out now globally.",
+      "content_length": 1213,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ein Gegenvorschlag, der nicht erzürnen soll",
+      "link": "https://www.tagesschau.de/ausland/afrika/g20-gipfel-usa-ukraine-100.html",
+      "published": "2025-11-22T17:04:19",
+      "content": "   US-Präsident Trump mischt mit seinem Friedensvorstoß für die Ukraine den G20-Gipfel auf. Die Europäer versuchen, mit Gegenvorschlägen Einfluss zu nehmen - ohne die USA zu brüskieren. Von Uli Hauck.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marseille mourns one of its own during a silent march for Medhi Kessaci",
+      "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20251122-marseille-mourns-one-of-its-own-during-a-silent-march-for-medhi-kessaci",
+      "published": "2025-11-22T16:59:37",
+      "content": "It was a murder that shocked France and alarmed the government. Mehdi Kessaci, the younger brother of anti-drug activist Amine Kessaci, was shot and killed in broad daylight on November 13th in what authorities believed was a warning to silence Amine. Thousands joined a silent march in Marseille to pay tribute to the slain 20-year-old. \n \nOur guest, Federico Varese is an expert on organized crime in Europe.",
+      "content_length": 410,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mehdi Kessaci: France honors victim of shooting in Marseille",
+      "link": "https://www.france24.com/en/video/20251122-mehdi-kessaci-france-honors-victim-of-shooting-in-marseille",
+      "published": "2025-11-22T16:59:27",
+      "content": "🇫🇷The high-security tribute to Mehdi #Kessaci began in #Marseille on Saturday, drawing several hundred people along with numerous political figures from all sides, all determined to “stand together” against drug-related crime.",
+      "content_length": 226,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Brazilian court orders preemptive arrest of former president Jair Bolsonaro",
+      "link": "https://www.france24.com/en/video/20251122-brazilian-court-orders-preemptive-arrest-of-former-president-jair-bolsonaro",
+      "published": "2025-11-22T16:56:03",
+      "content": "Jair Bolsonaro has been taken into custody after being deemed a “concrete flight risk” while under house arrest. The former Brazilian president was convicted in September of plotting a military coup and sentenced to more than 27 years in prison, though he has remained under house arrest while his appeals proceed. Brazilian Supreme Court Justice Alexandre de Moraes said the decision to detain the 70-year-old was a preventive measure prompted by “new facts” that had recently emerged. France24 International Affairs Editor Philip Turle shares his insights.",
+      "content_length": 558,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Former president Jair Bolsonaro arrested due to \"flight risk\"",
+      "link": "https://www.france24.com/en/video/20251122-former-president-jair-bolsonaro-arrested-due-to-flight-risk",
+      "published": "2025-11-22T16:54:05",
+      "content": "Federal police detained Brazil’s ex-president Jair Bolsonaro on Saturday after a Supreme Court judge deemed the far-right firebrand a \"high flight risk\". The arrest comes just days before Bolsonaro is due to begin a 27-year prison term for leading a botched coup attempt. Caroline Baum reports.",
+      "content_length": 294,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "G20 declaration adopted unanimously: World leaders defy US boycott to summit in Africa",
+      "link": "https://www.france24.com/en/video/20251122-g20-declaration-adopted-unanimously-world-leaders-defy-us-boycott-to-summit-in-africa",
+      "published": "2025-11-22T16:52:39",
+      "content": "World leaders from the Group of 20 rich and developing economies broke with tradition and adopted a declaration at the start of their summit in South Africa on Saturday, despite opposition from the United States, which is boycotting the two-day talks in a diplomatic rift with the host country. Charlotte Lam reports.",
+      "content_length": 317,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Europe agrees to a COP30 outcome deal",
+      "link": "https://www.france24.com/en/video/20251122-europe-agrees-to-a-cop30-outcome-deal",
+      "published": "2025-11-22T16:51:03",
+      "content": "The COP30 climate talks in Brazil are moving toward a deal as the two-week conference enters its final phase, although the latest draft does not include any reference to fossil fuels, a key demand of the EU and several other nations. Originally set to conclude on Friday, negotiations have spilled into overtime because of a deadlock over how to balance emissions-cutting commitments with the flow of climate finance from wealthier countries to developing nations. France24 Environment editor Valérie Dekimpe shares her insights.",
+      "content_length": 529,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "COP30 adopts climate deal without fossil fuel plan in Brazil",
+      "link": "https://www.france24.com/en/environment/20251122-cop30-climate-talks-reach-tentative-agreement-after-omitting-reference-fossil-fuels",
+      "published": "2025-11-22T16:50:02",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thousands rally in Marseille to condemn drug violence after killing of activist's brother",
+      "link": "https://www.france24.com/en/live-news/20251122-this-must-stop-thousands-rally-in-france-after-murder-linked-to-anti-drug-activism",
+      "published": "2025-11-22T16:47:15",
+      "content": "Thousands marched in Marseille on Saturday to denounce drug trafficking after the killing of 20-year-old Mehdi Kessaci, a murder officials suspect was a \"warning crime\" linked to the anti-drug activism of his older brother Amine Kessaci. The activist began campaigning after his half-brother Brahim was killed in a drug-related violence in 2020.",
+      "content_length": 345,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "European leaders say US plan for Ukraine 'requires additional work' ahead of Geneva talks",
+      "link": "https://www.france24.com/en/europe/20251122-european-leaders-say-us-plan-for-ukraine-requires-additional-work-ahead-of-geneva-talks",
+      "published": "2025-11-22T16:19:33",
+      "content": "Ukraine said Saturday that its officials will meet US counterparts in Switzerland to discuss Washington’s proposed peace plan. Kyiv will seek to push back against provisions that mirror some of Moscow’s toughest demands, while European leaders said the US plan \"is a basis which will require additional work\".",
+      "content_length": 309,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine kündigt Verhandlungen mit den USA über Trump-Plan an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-plan-verhandlungen-100.html",
+      "published": "2025-11-22T15:59:13",
+      "content": "   Trump hat mit seinem \"Friedensplan\" die Europäer überrascht und die Ukraine unter Druck gesetzt. Am Sonntag soll in der Schweiz darüber verhandelt werden. Nach dpa-Informationen sollen auch europäische Vertreter an dem Treffen teilnehmen.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zugeständnisse der EU: Vorläufige COP30-Abschlusserklärung steht",
+      "link": "https://www.tagesschau.de/ausland/amerika/belem-cop30-einigung-100.html",
+      "published": "2025-11-22T15:54:29",
+      "content": "   In Belém gibt es einen Entwurf für ein Abkommen: Die Teilnehmenden der Weltklimakonferenz diskutieren eine vorläufige gemeinsame Abschlusserklärung. Die EU musste dabei erhebliche Zugeständnisse machen.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US plan for Ukraine needs ‘additional work’, say Kyiv’s allies at G20 summit – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/22/russia-ukraine-war-trump-peace-plan-g20-zelenskyy-putin-europe-latest-news-updates",
+      "published": "2025-11-22T15:45:56",
+      "content": "This blog is now closed, you can read more on this story hereLeaders from Europe, Canada, Japan and Australia are expected to huddle on the sidelines of the G20 summit on Saturday to “discuss the way ahead on Ukraine”, an EU official said.A European diplomatic source told Agence France-Presse (AFP):We are working on making the US plan something more able to be applied, based on previous dialogue. Continue reading...",
+      "content_length": 419,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gazan students bound for Canada remain trapped in administrative limbo",
+      "link": "https://www.france24.com/en/middle-east/20251122-gazan-students-invited-to-canada-remain-trapped-in-limbo-palestinian-israel-university-education",
+      "published": "2025-11-22T15:25:31",
+      "content": "More than 130 Gazan students are pleading with Canada to grant visas so they can attend universities that have already offered them full scholarships. Some visa applications have been pending for more than 18 months without progress. Two students have already lost their lives during the wait; others remain at risk.",
+      "content_length": 316,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Korruptionsbekämpferin: \"Die dicken Fische kriegt der Staat nicht\"",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kriminelle-cum-ex-steuerhinterziehung-100.html",
+      "published": "2025-11-22T15:22:09",
+      "content": "   Große Steuerbetrüger sind für den Staat kaum zu fassen. Dahinter stecke System, so die ehemalige Staatsanwältin Brorhilker im Gespräch mit tagesschau.de. Der Staat sei hier schwach aufgestellt.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The best AR glasses are cheaper than ever during Black Friday",
+      "link": "https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale",
+      "published": "2025-11-22T15:00:00",
+      "content": "\n\n\n\t\n\tThe Xreal One look a bit like the glasses you get from the optician after having your pupils dilated. But they’re not as bulky or heavy as a VR headset.\t\n\nI’ll admit it, I thought AR glasses like the Xreal One were a joke when I first heard about them. But they clicked for me as a gamer when I realized they could be plugged into a Steam Deck or an iPad to have my own huge, private display no matter where I am. If you want to be fully immersed in your games and movies (without wearing a bulky VR headset), there are some great AR glasses on sale for their lowest prices ever for Black Friday.\n\nThe Xreal One glasses are packed with features and cost $399.99 at Amazon and Best Buy, which is $180 off the original price. This model will look unassuming on your face, save for the USB-C cable you’ll attach to its ear hook to connect your device. The One supports a fast 120Hz refresh rate at 1080p, and its Micro OLED screens provide excellent contrast. The arms of the glasses have built-in Bose-tuned speakers that pipe audio downwards into your ears.\nXreal One AR glasses\nThe Xreal One AR glasses put the equivalent of a 120Hz 147-inch screen in front of your eyes. The glasses can be connected to a smartphone, computer, and some handheld gaming PCs via USB-C. The glasses mirror your gadget’s display, so you can use them as an external monitor when working in addition to gaming and watching movies.\n\nWhere to Buy: $499 $399 at Amazon $499.99 $399.99 at Best Buy $499 at B&amp;H Photo\nOne of my favorite features in the One, three degrees of freedom, lets you virtually anchor the screen in place so it’s not always moving with your head. If you’re in a car, train, or plane, this might be essential to use if watching screens makes your motion sickness worse. As for downsides, the One lacks a hardware-based myopia dial to account for nearsightedness. If the screens look blurry, you may need to get prescription lenses for them.\n\nIf having myopia adjustments is crucial to you, I suggest checking out Viture’s Luma Pro glasses, which include the setting. You can get them in the regular size for $424.99 (typically around $500 outside of a sale) at Amazon and Best Buy, or in a large size for $449, also at Amazon. These have a bit more of a gamer-y look, which some may not like, but they’re similar to the Xreal One in both functions and specs. They boast a slightly sharper 1200p resolution with Micro OLED screens and up to a 120Hz refresh rate. Harman tuned their built-in speakers.\nViture Luma Pro XR glasses\n\nWhere to Buy: $499.99 $424 at Amazon $499.99 $424.99 at Best Buy\nWe apparently can’t just have one set of AR glasses in 2025 that can do it all for under $500, though. The Viture model lacks the three degrees of freedom that the Xreal One includes. In other words, the screen’s image will move as you move your head. That’ll either be totally fine with you, or it’ll be a deal-breaker.",
+      "content_length": 2919,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Niederländische Soldaten schießen auf Drohnen über Armeestützpunkt",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-drohnen-luftwaffenstuetzpunkt-abschuss-100.html",
+      "published": "2025-11-22T14:51:30",
+      "content": "   Drohnensichtungen sorgten zuletzt in mehreren Ländern Europas für Unruhe. In den Niederlanden entdeckten Soldaten über dem Stützpunkt Volkel unbekannte Flugkörper und setzten ihre Waffen ein. Die Drohnen entkamen jedoch.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Forestrike trained me to become an incredible pixelated fighter",
+      "link": "https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam",
+      "published": "2025-11-22T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt took me a long time to become even halfway decent at Forestrike. The martial arts action game, from Olija developer Skeleton Crew, has a unique twist in that it lets you see what will happen in most battles and then practice your strategy accordingly. It turns the act of combat into a type of puzzle game, but one that still requires fast reflexes and precision decision-making to be successful. And it has successfully turned me into a solid fighter - at least in the realm of a pixelated video game.\nYou play as a martial arts student named Yu, who, despite being relatively green, is tasked with ridding his homeland of an evil empire. To do …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "South Africa declares gender-based violence a national disaster amid G20 protests",
+      "link": "https://www.theguardian.com/society/2025/nov/22/south-africa-g20-protests-gender-based-violence-national-disaster",
+      "published": "2025-11-22T13:57:05",
+      "content": "Women’s groups welcomed the announcement on the eve of the international leaders’ summit in Johannesburg Hundreds of women gathered in cities across South Africa on Friday to protest against gender-based violence in the country before the G20 summit in Johannesburg this weekend.Demonstrators turned out in 15 locations – including Johannesburg, Pretoria, Cape Town and Durban – wearing black as a sign of “mourning and resistance”. Continue reading...",
+      "content_length": 452,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Carol seeks the truth (serum) in Pluribus episode 4",
+      "link": "https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion",
+      "published": "2025-11-22T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nLast week one of my big questions about Pluribus was whether our reluctant hero Carol (Rhea Seehorn) would find someone to help her save the world from the scourge of happiness. In episode 4, I got an answer - sort of. We're clearly introduced to a character who thinks much like her, but how they'll actually connect is still a big question mark.\nWelcome to our weekly discussion about Apple TV's latest sci-fi series Pluribus, which comes via Breaking Bad creator (and former X-Files writer) Vince Gilligan. In the show, most of humanity has become part of a hive mind that seems only capable of positive emotions, while the perpetually miserable …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "French lower house rejects contentious budget bill over tax proposals",
+      "link": "https://www.france24.com/en/france/20251122-french-lawmakers-roundly-reject-budget-bill-text-moves-senate",
+      "published": "2025-11-22T12:54:14",
+      "content": "Lawmakers in France's fractious National Assembly have overwhelmingly rejected the part of the 2026 budget dealing with taxation, casting doubt on parliament's ability to find a deficit-cutting agreement as the draft bill now moves to the Senate.",
+      "content_length": 246,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UK to host military esports games as fast thumbs needed on battlefield",
+      "link": "https://www.france24.com/en/video/20251122-united-kingdom-to-host-military-esports-games-to-boost-cyber-skills",
+      "published": "2025-11-22T12:53:11",
+      "content": "The UK has announced it will host an international esports competition for military personnel, aiming to develop fine motor skills essential for tasks like piloting drones among allies including the UK, Canada, and Poland. The British military officially recognised esports as a sport last year. Peter O’Brien reports.",
+      "content_length": 318,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France honours Mehdi Kessaci, victim of Marseille shooting in nationwide silent march",
+      "link": "https://www.france24.com/en/video/20251122-france-honors-mehdi-kessaci-victim-of-marseille-shooting-in-nationwide-silent-march",
+      "published": "2025-11-22T12:50:44",
+      "content": "Across France, thousands are expected to march in silence on Saturday to honour a 20-year-old man shot dead last week in the port city of Marseille. He was the brother of a well-known anti-drug crime activist, and his killing is now widely viewed as an act of intimidation. Police continue to search for the perpetrator. Charlotte Lam reports.",
+      "content_length": 343,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Leaders meet for first Africa-hosted G20",
+      "link": "https://www.france24.com/en/video/20251122-leaders-meet-for-first-africa-hosted-g20",
+      "published": "2025-11-22T12:48:46",
+      "content": "The final document of the Group of 20 summit in South Africa pledges to work toward resolving armed conflicts and easing the burdens on developing nations. Convened on Saturday as the first G20 meeting held on the African continent, the two-day summit set an ambitious agenda to tackle longstanding issues affecting the world’s poorest countries, despite a boycott by the United States. Director of Anglo-American La wat Cergy-Paris University and West African politics expert, Douglas Yates, shares his insights.",
+      "content_length": 513,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "14 tonnes of cocaine seized in Colombia, as Petro rejects US criticism",
+      "link": "https://www.france24.com/en/video/20251122-record-cocaine-haul-in-colombia-petro-rejects-us-criticism-of-bogota-s-anti-drug-strategy",
+      "published": "2025-11-22T12:46:41",
+      "content": "Bolivia and Colombia are both major cocaine exporters, but while Colombia faces intense pressure from the United States, Bolivia is seeking closer ties. The new right-wing government in La Paz has announced it is ready to welcome American drug enforcement agents back after nearly two decades, signalling a shift in its approach to US cooperation. Peter O’Brien reports.",
+      "content_length": 370,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "G20 wirbt bei Gipfel für Zusammenarbeit - trotz US-Boykott",
+      "link": "https://www.tagesschau.de/ausland/afrika/eroeffnung-g20-gipfel-100.html",
+      "published": "2025-11-22T12:24:56",
+      "content": "   Südafrikas Präsident Ramaphosa hat sich bei der Eröffnung des G20-Gipfels in Johannesburg für Zusammenarbeit bei der Lösung globaler Probleme ausgesprochen. Überschattet wird das Treffen vom Plan der USA für die Ukraine.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU and US to restart trade talks as sticking points on July tariff deal remain",
+      "link": "https://www.theguardian.com/business/2025/nov/22/eu-and-us-to-restart-trade-talks-as-sticking-points-on-july-tariff-deal-remain",
+      "published": "2025-11-22T12:00:39",
+      "content": "US officials to hold high-level talks in Brussels amid unhappiness in Washington at slow action on July dealThe EU and US are set to restart trade negotiations next week after a two-month pause to try to settle unresolved sticking points in their controversial tariff deal struck in July.The US commerce secretary, Howard Lutnick, and trade representative Jamieson Greer will hold high-level meetings in Brussels on Monday with ministers, EU commissioners and industry bosses. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "This hacker conference installed a literal antivirus monitoring system",
+      "link": "https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/",
+      "published": "2025-11-22T12:00:20",
+      "content": "Hacker conferences—like all conventions—are notorious for giving attendees a parting gift of mystery illness. To combat “con crud,” New Zealand’s premier hacker conference, Kawaiicon, quietly launched a real-time, room-by-room carbon dioxide monitoring system for attendees.\nTo get the system up and running, event organizers installed DIY CO2 monitors throughout the Michael Fowler Centre venue before conference doors opened on November 6. Attendees were able to check a public online dashboard for clean air readings for session rooms, kids’ areas, the front desk, and more, all before even showing up. “It’s ALMOST like we are all nerds in a risk-based industry,” the organizers wrote on the convention’s website.\n“What they did is fantastic,” Jeff Moss, founder of the Defcon and Black Hat security conferences, told WIRED. “CO2 is being used as an approximation for so many things, but there are no easy, inexpensive network monitoring solutions available. Kawaiicon building something to do this is the true spirit of hacking.”Read full article\nComments",
+      "content_length": 1060,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nachlass-Detektive: Wie Profi-Ermittler nach Erben suchen",
+      "link": "https://www.tagesschau.de/wirtschaft/ermittler-sucht-erben-100.html",
+      "published": "2025-11-22T11:57:49",
+      "content": "   Wenn ein Mensch stirbt und keine Erben bekannt sind, beginnt die stille Detektivarbeit der Erbenermittler. Klingt nach Krimi, ist aber ein traditionsreiches Geschäftsfeld. Von Sandra Biegger.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "MAGA figure Marjorie Taylor Greene to quit US Congress after split with Trump",
+      "link": "https://www.france24.com/en/video/20251122-maga-figure-marjorie-taylor-greene-to-quit-us-congress-after-split-with-trump",
+      "published": "2025-11-22T11:30:58",
+      "content": "US Representative Marjorie Taylor Greene, citing her refusal to be a “battered wife”, announced Friday that she is resigning from the House of Representatives following a dramatic fallout with President Donald Trump. The move marks a surprising reversal for the Georgia Republican, who was once one of Trump’s closest allies and a vocal supporter of his “America First” agenda, but whose relationship with the former president deteriorated in recent months amid disputes over the release of government files related to Jeffrey Epstein and other issues. Gabrielle Nadler and Alexandra Quarini report.",
+      "content_length": 599,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump praises New York mayor-elect Mamdani at warm White House meeting",
+      "link": "https://www.france24.com/en/video/20251122-trump-praises-new-york-mayor-elect-mamdani-at-warm-white-house-meeting",
+      "published": "2025-11-22T11:28:48",
+      "content": "US President Donald Trump and New York's incoming progressive mayor Zohran Mamdani were all smiles at a White House meeting on Friday, promising to set aside months of bitter feuding and cooperate on the city's future. Trump, who had previously labelled Mamdani a \"100% Communist Lunatic\", said the incoming mayor would do a \"great job\" leading the nation's biggest city. Morgan Ayre reports.",
+      "content_length": 392,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Italienische Sängerin Ornella Vanoni mit 91 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/ornella-vanoni-tot-100.html",
+      "published": "2025-11-22T11:18:02",
+      "content": "   Mehr als sechs Jahrzehnte prägte die Sängerin Ornella Vanoni die italienische Musikszene und war auch international erfolgreich. Mit 91 Jahren ist die in Italien als Ikone gefeierte Musikerin nun gestorben.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Brazil’s former president Jair Bolsonaro arrested, lawyer says",
+      "link": "https://www.france24.com/en/video/20251122-brazil-s-former-president-jair-bolsonaro-arrested-lawyer-says",
+      "published": "2025-11-22T11:17:16",
+      "content": "Federal police on Saturday arrested Brazil’s ex-president Jair Bolsonaro, who was sentenced to jail earlier this year over a botched coup attempt, his lawyer confirmed. The arrest comes a week after a court rejected Bolsonaro's appeal of his 27-year prison term. FRANCE 24 correspondent Tim Vickery reports the latest from Rio de Janeiro, Brazil.",
+      "content_length": 346,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Brazil's Bolsonaro detained for attempting to break ankle bracelet and escape",
+      "link": "https://www.france24.com/en/live-news/20251122-brazil-s-ex-president-jair-bolsonaro-arrested-by-federal-police-lawyer-says",
+      "published": "2025-11-22T10:07:57",
+      "content": "Brazil's former president Jair Bolsonaro, under house arrest while he appeals a conviction for a foiled coup attempt, was detained Saturday after the Supreme Court deemed him a high flight risk. The court said the far-right leader had tried to disable his ankle monitor in order to escape.",
+      "content_length": 289,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Greek secondary school teachers to be trained in using AI in classroom",
+      "link": "https://www.theguardian.com/world/2025/nov/22/greek-secondary-school-teachers-to-be-trained-in-using-ai-in-classroom",
+      "published": "2025-11-22T10:00:36",
+      "content": "Some teachers and pupils voice concerns about pilot programme after government’s agreement with OpenAI Secondary school teachers in Greece are set to go through an intensive course in using artificial intelligence tools as the country assumes a frontline role in incorporating AI into its education system.This week, staff in 20 schools will be trained in a specialised version of ChatGPT, custom-made for academic institutions, under a new agreement between the centre-right government and OpenAI. Continue reading...",
+      "content_length": 518,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gefühl der Unsicherheit: Wenn es dunkel wird an Dortmunds Hauptbahnhof",
+      "link": "https://www.tagesschau.de/inland/mittendrin/dortmund-hauptbahnhof-100.html",
+      "published": "2025-11-22T09:54:23",
+      "content": "   Fast jeder Zweite in Deutschland fühlt sich unsicher - vor allem rund um Bahnhöfe und in dunklen Ecken. In Dortmund wollen Polizei und Sozialarbeit für mehr Sicherheit sorgen. Gelingt ihnen das? Von Jan Koch.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tense calm in far north as Israel prepares to ‘finish the job’ against Hezbollah",
+      "link": "https://www.theguardian.com/world/2025/nov/22/tense-calm-in-far-north-as-israel-prepares-to-finish-the-job-against-hezbollah",
+      "published": "2025-11-22T09:00:36",
+      "content": "On the border with Lebanon, communities have started to return and rebuild – even though some are in no hurry to returnNoam Erlich looks out over what was his beer garden. Beyond the disordered chairs and tables and the sign instructing neighbours and friends to “pay whatever you like”, the ridge falls away to fields, then a fence, then hills littered with the skeletal ruins of shattered Lebanese villages.The 44-year-old brewer is standing in front of the house his grandfather built when the Manara kibbutz was founded in the 1940s in the very far north of Israel. The building was hit repeatedly by missiles fired by Hezbollah during the conflict, which ended a year ago, and will now almost certainly be demolished, along with most of the neighbouring houses. Continue reading...",
+      "content_length": 786,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "New Caledonia activist says France is impeding travel home after prison release",
+      "link": "https://www.theguardian.com/world/2025/nov/22/new-caledonia-activist-christian-tein-france-passport",
+      "published": "2025-11-22T09:00:35",
+      "content": "Exclusive: Kanak leader Christian Tein, who was freed from prison in June, says France is ‘deliberately dragging out’ re-issue of his passportA pro-independence leader from the French overseas territory of New Caledonia has accused the French government of “deliberately dragging out” his passport application, preventing him from flying home after his release from prison.Christian Tein, an Indigenous Kanak leader, was arrested in New Caledonia in June 2024 over allegations that he had instigated the deadly pro-independence protests that had taken place on the island a month earlier. Continue reading...",
+      "content_length": 608,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zahl entführter Schulkinder in Nigeria steigt offenbar auf über 300",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-entfuehrung-schule-102.html",
+      "published": "2025-11-22T08:58:37",
+      "content": "   Der jüngste Vorfall in einer Reihe von Überfällen auf Schulen in Nigeria hat ein weitaus größeres Ausmaß, als zunächst angenommen. Mehr als 300 Schüler und Lehrer sollen entführt worden sein, teilte ein christlicher Verband mit.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie die Notfallversorgung reformiert werden soll",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/notfallversorgung-100.html",
+      "published": "2025-11-22T08:42:34",
+      "content": "   Ob jemand einen Herzstillstand überlebt, kann auch vom Wohnort abhängen. Das Bundesgesundheitsministerium will die Notfallversorgung vereinheitlichen und Leitstellen entlasten. Doch Experten zweifeln am Erfolg. Von Jan Russezki.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheitsministerin Warken erteilt Praxisgebühr eine Absage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-praxisgebuehr-krankenkassen-100.html",
+      "published": "2025-11-22T08:41:34",
+      "content": "   Der finanzielle Druck auf die gesetzlichen Krankenkassen wächst. Veränderung hält Gesundheitsministerin Warken deshalb für unumgänglich. Eine Gebühr für alle Arztbesuche schließt sie jedoch aus.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Asynchrone Programmierung – Teil 2: Koroutinen in C++ mit Boost.Asio",
+      "link": "https://www.heise.de/hintergrund/Asynchrone-Programmierung-Teil-2-Koroutinen-in-C-mit-Boost-Asio-11081682.html",
+      "published": "2025-11-22T08:13:00",
+      "content": "Koroutinen erleichtern die asynchrone Entwicklung in C++ deutlich: Die intendierte Reihenfolge bleibt im Code erhalten und asynchrone Schleifen sind möglich.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "link": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11087170.html",
+      "published": "2025-11-22T07:17:00",
+      "content": "Die Übersicht enthält kleine, aber interessante Meldungen zu GitLab, GitHub, VS Code, Rust, Azure, Eclipse Theia, Django und Jetpack Navigation.",
+      "content_length": 144,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
