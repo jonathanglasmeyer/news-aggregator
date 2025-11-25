@@ -1,0 +1,1382 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-25T07:14:36.083404",
+    "deduplicated_at": "2025-11-25 07:14:36",
+    "lookback_days": 7,
+    "total_input": 1135,
+    "duplicates_removed": 983,
+    "new_articles": 152,
+    "deduplication_rate": "86.6%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "Wirtschaft - Kritik an Familienunternehmer-Verband wegen AfD-Dialog: \"Nationalistische Wirtschaftspolitik à la AfD würde Arbeitsplätze zerstören\"",
+      "link": "https://www.deutschlandfunk.de/kritik-an-familienunternehmer-verband-wegen-afd-dialog-nationalistische-wirtschaftspolitik-la-afd-wu-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die Ankündigung des Verbands der Familienunternehmer, künftig auch mit der AfD zu sprechen, stößt auf Kritik in Politik und Wirtschaft. Die Bundesvorsitzende der Mittelstands-Union, Connemann, sagte, eine nationalistische Wirtschaftspolitik würde Exporte torpedieren und Arbeitsplätze zerstören. Die AfD sei kein Partner für den Mittelstand.",
+      "content_length": 341,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Femizide - UNO: 2024 wurden weltweit 50.000 Frauen von Partnern oder Familienangehörigen getötet",
+      "link": "https://www.deutschlandfunk.de/uno-2024-wurden-weltweit-50-000-frauen-von-partnern-oder-familienangehoerigen-getoetet-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Rund 50.000 Frauen und Mädchen weltweit sind im vergangenen Jahr von Partnern oder Familienangehörigen getötet worden. Die Zahlen wurden von der Organisation UN Women und dem UNO-Büro für Verbrechensbekämpfung vorgestellt. Anlass ist der heutige Internationale Tag zur Beseitigung von Gewalt gegen Frauen.",
+      "content_length": 305,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Verhandlungen in Genf - Selenskyj und Trump sehen Fortschritte in Gesprächen über US-Plan für Ende des Ukraine-Kriegs",
+      "link": "https://www.deutschlandfunk.de/selenskyj-und-trump-sehen-fortschritte-in-gespraechen-ueber-us-plan-fuer-ende-des-ukraine-kriegs-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Der ukrainische Präsident Selenskyj sieht Fortschritte in den Gesprächen mit den USA über den Plan für ein Ende des russischen Angriffskrieges.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Mindestens sechs Tote bei Luftangriffen auf Kiew - Wohngebäude getroffen",
+      "link": "https://www.deutschlandfunk.de/mindestens-sechs-tote-bei-luftangriffen-auf-kiew-wohngebaeude-getroffen-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Bei russischen Luftangriffen auf Kiew sind in der ukrainischen Hauptstadt mindestens sechs Menschen getötet worden. Bürgermeister Klitschko teilte auf der Plattform Telgram mit, es gebe zudem neun Verletzte. Mehrere Wohngebäude seien getroffen worden.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Raumfahrt - China schickt Ersatzschiff zur Raumstation Tiangong",
+      "link": "https://www.deutschlandfunk.de/china-schickt-ersatzschiff-zur-raumstation-tiangong-102.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "China hat ein unbemanntes Versorgungsschiff zur Raumstation Tiangong auf den Weg gebracht, das später der dortigen dreiköpfigen Besatzung zur Rückkehr dienen soll.",
+      "content_length": 163,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Telefonat von Xi und Trump - Ministerpräsident von Taiwan schließt Wiedereingliederung in den chinesischen Staat aus",
+      "link": "https://www.deutschlandfunk.de/ministerpraesident-von-taiwan-schliesst-wiedereingliederung-in-den-chinesischen-staat-aus-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Der Ministerpräsident von Taiwan, Cho, hat eine Wiedereingliederung in den chinesischen Staat ausgeschlossen.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan - Amnesty International sieht weitere Hinweise auf Kriegsverbrechen in Al Faschir - RSF-Miliz ruft einseitige Waffenruhe aus",
+      "link": "https://www.deutschlandfunk.de/amnesty-international-sieht-weitere-hinweise-auf-kriegsverbrechen-in-al-faschir-rsf-miliz-ruft-einse-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die Menschenrechtsorganisation Amnesty International wirft der RSF-Miliz im Sudan massenhafte Hinrichtungen und Vergewaltigungen vor. Die Organisation trug nach eigenen Angaben Berichte von Überlebenden zusammen, die aus der von der RSF-Miliz eroberten Stadt Al-Faschir geflohen waren.",
+      "content_length": 285,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Kritik an Trump - US-Bundesgericht weist Anklage gegen Ex-FBI-Chef Comey ab",
+      "link": "https://www.deutschlandfunk.de/us-bundesgericht-weist-anklage-gegen-ex-fbi-chef-comey-ab-110.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "In den USA hat ein Bundesgericht die Anklage gegen den früheren FBI-Chef Comey abgewiesen. Das Gericht begründete seine Entscheidung damit, dass die mit der Anklage beauftragte Staatsanwältin Halligan nicht vom Justizministerium hätte eingesetzt werden dürfen. Das Weiße Haus kündigte inzwischen an, gegen die Klageabweisung juristisch vorzugehen.",
+      "content_length": 347,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Start der Haushaltswoche",
+      "link": "https://www.deutschlandfunk.de/start-der-haushaltswoche-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Im Bundestag beginnen heute die abschließenden Beratungen über den Haushalt für das nächste Jahr.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Preisverleihung - MDR-Serie \"Auf Fritzis Spuren - Wie war das so in der DDR\" mit International Emmy ausgezeichnet",
+      "link": "https://www.deutschlandfunk.de/mdr-serie-auf-fritzis-spuren-wie-war-das-so-in-der-ddr-mit-international-emmy-ausgezeichnet-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Eine Kinderkanal-Serie des MDR zum Leben in Ostdeutschland vor der Wende ist mit dem Fernsehpreis International Emmy ausgezeichnet worden.",
+      "content_length": 138,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Oberlandesgericht Dresden - Prozess gegen mutmaßliche Linksextremisten beginnt",
+      "link": "https://www.deutschlandfunk.de/prozess-gegen-mutmassliche-linksextremisten-beginnt-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Vor dem Oberlandesgericht Dresden beginnt heute der Prozess gegen sieben mutmaßliche Linksextremisten.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Opposition - AfD drängt weiter auf Entlassung von Kulturstaatsminister Weimer",
+      "link": "https://www.deutschlandfunk.de/afd-draengt-weiter-auf-entlassung-von-kulturstaatsminister-weimer-114.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die AfD geht juristisch gegen Kulturstaatsminister Weimer vor. Der AfD-Bundestagsabgeordnete Frömming stellte nach eigenen Angaben Strafanzeigen gegen Weimer in Berlin und München. Nach Frömmings Einschätzung besteht ein Anfangsverdacht auf Korruption. Die AfD-Fraktion drängt außerdem auf eine Entlassung Weimers.",
+      "content_length": 314,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Raumfahrt - NASA kürzt Flüge mit Starliner-Raumkapseln von Boeing",
+      "link": "https://www.deutschlandfunk.de/nasa-kuerzt-fluege-mit-starliner-raumkapseln-von-boeing-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die US-Raumfahrtbehörde NASA reduziert ihre Flüge mit Starliner-Raumkapseln des Herstellers Boeing.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Istanbul - Türkische Parlamentarier besuchen PKK-Gründer Öcalan im Gefängnis",
+      "link": "https://www.deutschlandfunk.de/tuerkische-parlamentarier-besuchen-pkk-gruender-oecalan-im-gefaengnis-106.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Türkische Abgeordnete haben den seit 1999 wegen Hochverrats inhaftierten Gründer der verbotenen kurdischen Arbeiterpartei PKK, Öcalan, im Gefängnis besucht. ",
+      "content_length": 157,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - US-Handelsminister Lutnick verlangt Änderungen der EU-Digitalregeln im Gegenzug für niedrigere Stahlzölle",
+      "link": "https://www.deutschlandfunk.de/us-handelsminister-lutnick-verlangt-aenderungen-der-eu-digitalregeln-im-gegenzug-fuer-niedrigere-sta-102.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "US-Handelsminister Lutnick hat in Brüssel Änderungen der europäischen Digitalregeln gefordert und im Gegenzug niedrigere Zölle auf Stahl in Aussicht gestellt. Lutnick sagte bei einem Treffen mit den Handelsministern der 27 EU-Staaten in Brüssel, erst wenn es einen ausgewogenen Ansatz gebe, werde man die Stahl- und Aluminiumfragen angehen.",
+      "content_length": 340,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach bundesweiter Debatte - Kommission für mehr Schutz von Prostituierten eingesetzt",
+      "link": "https://www.deutschlandfunk.de/kommission-fuer-mehr-schutz-von-prostituierten-eingesetzt-106.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Eine von Bundesfamilienministerin Prien eingesetzte unabhängige Expertenkommission soll Vorschläge für einen besseren Schutz von Prostituierten erarbeiten.",
+      "content_length": 155,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "BDA - Arbeitgeberpräsident Dulger für zwei Jahre wiedergewählt",
+      "link": "https://www.deutschlandfunk.de/arbeitgeberpraesident-dulger-fuer-zwei-jahre-wiedergewaehlt-108.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Der Präsident der Bundesvereinigung der Deutschen Arbeitgeberverbände, BDA, Dulger, ist für zwei weitere Jahre im Amt bestätigt worden.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach israelischem Angriff - Hisbollah-Militärchef Tabatabai in Beirut beigesetzt",
+      "link": "https://www.deutschlandfunk.de/hisbollah-militaerchef-tabatabai-in-beirut-beigesetzt-108.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Einen Tag nach seiner Tötung durch die israelische Armee ist der Hisbollah-Militärchef Tabatabai in der libanesischen Hauptstadt Beirut beigesetzt worden.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Gaza Humanitarian Foundation stellt offiziell Arbeit ein",
+      "link": "https://www.deutschlandfunk.de/gaza-humanitarian-foundation-stellt-offiziell-arbeit-ein-104.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die von den USA und Israel unterstützte Stiftung für humanitäre Hilfen im Gazastreifen stellt offiziell ihre Arbeit ein.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Angola - EU und afrikanische Staaten setzen Gipfeltreffen fort",
+      "link": "https://www.deutschlandfunk.de/eu-und-afrikanische-staaten-setzen-gipfeltreffen-fort-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Die Staats- und Regierungschef der EU und der Afrikanischen Union setzen heute in der angolanischen Hauptstadt Luanda ihr Gipfeltreffen fort.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Gewitter im Kopf\" - Youtuber Jan Zimmermann im Alter von 27 Jahren gestorben",
+      "link": "https://www.deutschlandfunk.de/youtuber-jan-zimmermann-im-alter-von-27-jahren-gestorben-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Der durch den Video-Kanal \"Gewitter im Kopf\" bekannt gewordene deutsche Youtuber Jan Zimmermann ist tot.",
+      "content_length": 104,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Meist bedeckt, Regen im Westen und Südwesten, Schnee im Alpenraum",
+      "link": "https://www.deutschlandfunk.de/meist-bedeckt-regen-im-westen-und-suedwesten-schnee-im-alpenraum-100.html",
+      "published": "2025-11-25T07:11:41",
+      "content": "Das Wetter: Überwiegend bedeckt. Im Westen und Südwesten regnerisch. Im Südosten und im Alpenraum teils kräfte Schneefälle. Höchstwerte zwischen 0 und 7 Grad.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "David Pocock says PM ‘seems to be holding up’ gambling ad reform – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/25/australia-politics-live-anthony-albanese-sussan-ley-tanya-plibersek-domestic-violence-helpline-pauline-hanson-burqa-net-zero-labor-coalition-greens-question-time-ntwnfb",
+      "published": "2025-11-25T06:57:33",
+      "content": "This blog is now closed‘Vast overreach’: police allowed to conduct warrantless pat-downs of people across inner Melbourne for six monthsGet our breaking news email, free app or daily news podcastDomestic violence among under-18s increasing, Plibersek saysViolence in relationships among young people under 18 is increasing, says Tanya Plibersek, who has announced a major funding boost for the 1800 Respect phone helpline this morning.It’s a mixed picture. We’re seeing some areas, like intimate partner violence, slightly decreasing, but we’re seeing big increases in, for example, young relationships, under-18s. We’re seeing big increases in violence there. So we need to keep evolving as this problem in our society evolves.If you or someone you know is impacted by sexual assault or family violence, call 1800-RESPECT on 1800 737 732 or visit www.1800RESPECT.org.au. Continue reading...",
+      "content_length": 891,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Criminal charges against Australian debt collection company Panthera Finance dismissed",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/25/criminal-charges-against-australian-debt-collection-company-panthera-finance-dismissed",
+      "published": "2025-11-25T06:57:11",
+      "content": "Consumer Affairs Victoria ordered to pay costs after firm successfully argues it is not technically engaged in debt collection owed to another personFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastCriminal charges against one of Australia’s biggest debt collection firms have been dismissed after the company successfully argued it was not technically engaged in debt collection.In a committal hearing at the Melbourne magistrates’ court on Tuesday, magistrate Michelle Hodgson dismissed the charges against Panthera Finance and ordered that Consumer Affairs Victoria pay costs. Continue reading...",
+      "content_length": 663,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tuesday briefing: Inside the latest Lords scandal – and the future of the peers",
+      "link": "https://www.theguardian.com/world/2025/nov/25/tuesday-briefing-inside-the-latest-lords-scandal-and-the-future-of-the-peers",
+      "published": "2025-11-25T06:50:36",
+      "content": "In today’s newsletter: What the suspension of Richard Dannatt and David Evans tell us about standards and accountability in the Lords, and the prospect of reformGood morning. Two peers, Lord Dannatt and Lord Evans of Watford, are facing lengthy suspensions from the House of Lords, after the house’s disciplinary process found multiple instances in which they broke lobbying rules and “demonstrated a failure to act on their personal honour”.The investigation began after the Guardian published a series based on undercover reporting earlier this year that exposed both peers offering to arrange meetings with ministers for what they believed were potential commercial clients. The commissioner’s findings detail breaches including Dannatt offering introductions to ministers for companies in which he had a financial interest, and Evans expressing a clear willingness to provide access to ministers in the context of a commercial deal worth tens of thousands of pounds.Politics | Reform UK has ignored requests to share the evidence for its claim to have saved £331m since it took charge of 10 English councils in May, prompting questions over whether the figure is true. This Guardian analysis has found that supposed savings appear questionable.Society | Hundreds of thousands of vulnerable unpaid carers will have their cases reassessed after a damning official review concluded they had been left with huge debts because of government failure and maladministration.Media | Claims of “serious and systemic problems” in the BBC’s coverage of issues including Donald Trump, Gaza and trans issues – which led to the resignation of its director general, Tim Davie – have been disputed by a former adviser to the corporation.Ukraine | Kyiv has significantly amended the US “peace plan” for Ukraine, removing some of Russia’s maximalist demands, people familiar with the negotiations said, as European leaders warned that no deal could be reached quickly.Politics | Rachel Reeves has privately urged Labour MPs to back her make-or-break budget, saying they will not like every measure but promising it will be “fair”. Continue reading...",
+      "content_length": 2135,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: DAX-Anleger bleiben nervös",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktienmarkt-geldanlage-100.html",
+      "published": "2025-11-25T06:34:52",
+      "content": "   Vage US-Zinshoffnungen und starke Vorgaben der Wall Street locken die Anleger heute offenbar nicht in den Aktienmarkt. Die kurze Erholung vom Wochenstart könnte bereits wieder beendet sein.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Live: Ukraine and Russia trade deadly strikes as Trump deadline looms",
+      "link": "https://www.france24.com/en/europe/20251125-live-ukraine-and-russia-trade-deadly-strikes-as-trump-deadline-looms",
+      "published": "2025-11-25T06:33:30",
+      "content": "Ukraine and Russia reported “massive” enemy strikes on their respective territories Tuesday, with each side counting fresh casualties. The increased attacks came as negotiators rush to revise a US peace framework ahead of a Thursday Thanksgiving deadline set by US President Donald Trump. Follow our liveblog for the latest updates.",
+      "content_length": 332,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The rise of masculinism: From obscure online forums to ballot boxes (2/3)",
+      "link": "https://www.france24.com/en/americas/20251125-the-rise-of-masculinism-from-obscure-online-forums-to-ballot-boxes-2-3",
+      "published": "2025-11-25T06:28:56",
+      "content": "For the International Day for the Elimination of Violence against Women, FRANCE 24 examines a sharp rise in masculinist discourse that seeks to normalise and legitimise misogyny. This second article in a three-part series explores how masculinism has moved from the dark corners of the internet to become a central political tool. From the United States to South Korea, populist parties and authoritarian leaders are increasingly adopting the discourse and rolling back women’s rights.",
+      "content_length": 485,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "11KM-Podcast: Wirecard und die Spur der verschwundenen Millionen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/podcast-11km-wirecard-verschwundene-millionen-100.html",
+      "published": "2025-11-25T06:22:21",
+      "content": "   Es ist eines der letzten großen Fragezeichen im Wirecard-Skandal: Woher kamen die Millionen? Und was hat eigentlich der Bitcoin-Erfinder mit all dem zu tun? 11KM folgt der Spur des Geldes - bis in die Karibik.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Anders als Enron\": Nvidia weist Kritik von bekanntem Investor in Memo zurück",
+      "link": "https://www.heise.de/news/Anders-als-Enron-Nvidia-weist-Vorwuerfe-von-bekanntem-Investor-zurueck-11090329.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-25T06:21:00",
+      "content": "Michael Burry wurde bekannt, als er vor der Finanzkrise 2008 auf den Kurssturz gewettet hat. Jetzt hat er sich mit Nvidia angelegt und der Konzern reagiert.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘Vast overreach’: police allowed to conduct warrantless pat-downs of people across inner Melbourne for six months",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/25/melbourne-police-search-powers-warrantless-pat-downs-six-months",
+      "published": "2025-11-25T06:19:15",
+      "content": "Search powers, usually reserved for protests, will be in effect in the CBD and beyond in a move criticised by human rights groupsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVictoria police will have the power to conduct warrant-less pat-downs, search cars and move people on in Melbourne’s CBD for six months, in a move human rights and legal groups have described as a “vast overreach”.Police on Tuesday declared the CBD, Docklands, Southbank, the sporting and entertainment precinct and parts of East Melbourne and South Melbourne as a “designated area” from Sunday, until 29 May 2026. Continue reading...",
+      "content_length": 676,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Neue Spuren im Wirecard-Skandal führen zu einem Glücksspiel-König",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/wirecard-marsalek-braun-calvin-ayre-100.html",
+      "published": "2025-11-25T06:02:40",
+      "content": "   Es geht um Hunderte Millionen Euro, die über Konten bei der Wirecard-Bank geflossen sind. BR-Recherchen zeigen jetzt: Ein Großteil der Gelder gehört Calvin Ayre, der auf Antigua lebt und mit Online-Glücksspiel zum Milliardär wurde.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NHS directed pregnant women to controversial Free Birth Society via charity",
+      "link": "https://www.theguardian.com/society/2025/nov/25/nhs-directed-pregnant-women-to-controversial-free-birth-society-via-charity",
+      "published": "2025-11-25T06:00:27",
+      "content": "Exclusive: NHS websites pointed women to factsheet featuring podcast by ‘dangerous’ influencers linked to baby deaths• Full story: How the FBS is linked to baby deaths around the worldThe NHS has been directing pregnant women to a website that connected them to the Free Birth Society, an organisation that has been linked to baby deaths around the world after promoting labour without medical support.A number of NHS trusts are directing women who are contemplating a “free birth” to a charity website that until Monday referred to FBS podcasts as a source of “empowering stories” that can help British women “preparing for their own birth”. Continue reading...",
+      "content_length": 662,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reform’s ‘Trumpian’ legal threats hint at more aggressive approach to media",
+      "link": "https://www.theguardian.com/politics/2025/nov/25/reform-trumpian-legal-threats-media-nigel-farage",
+      "published": "2025-11-25T06:00:26",
+      "content": "Ultimatums sent to publications appear to intensify as Nigel Farage’s party rises in polls“It was Trumpian,” said Mark Mansfield, editor and CEO of Nation.Cymru, a small English-language Welsh news service. “It has perhaps given us a flavour of how a Reform UK government would behave towards the media.”Mansfield is referring to what he described as an attempt by a figure at Nigel Farage’s Reform UK party to “bully” his publication, but he believes a wider lesson might be learned. Continue reading...",
+      "content_length": 504,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ofcom urges social media platforms to combat abuse and limit online ‘pile-ons’",
+      "link": "https://www.theguardian.com/media/2025/nov/25/ofcom-social-media-platforms-online-abuse-measures-limit-pile-ons",
+      "published": "2025-11-25T06:00:26",
+      "content": "New guidance from UK regulator aims to combat misogynist abuse and ‘revenge porn’Social media platforms are being urged to limit internet “pile-ons” under new guidelines to protect women and girls online.The guidance from Ofcom, the UK communications regulator, to combat misogynist abuse, coercive control and the sharing of intimate images without consent comes into force on Tuesday and includes recommendations to prevent women being harried online. Continue reading...",
+      "content_length": 473,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Black Friday discounts fail to offer cheapest prices, Which? research finds",
+      "link": "https://www.theguardian.com/business/2025/nov/25/black-friday-discounts-fail-to-offer-cheapest-prices-which-research-finds",
+      "published": "2025-11-25T06:00:25",
+      "content": "Products sold by retailers including John Lewis and Very among those cheaper outside of November discount periodShoppers holding out for a Black Friday bargain on 28 November may not get the best prices, according to Which? research that found none of the offers on the day were at their lowest level over a 12-month stretch.The consumer group compared prices for 175 home, tech and health appliances across eight retailers, ranging from Amazon to John Lewis. Prices were tracked over a full year, from May 2024 to May 2025, including the 2024 Black Friday period. Continue reading...",
+      "content_length": 584,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "KiKa-Jugendserie \"Auf Fritzis Spuren\" gewinnt Internationalen Emmy",
+      "link": "https://www.tagesschau.de/kultur/emmys-132.html",
+      "published": "2025-11-25T05:59:02",
+      "content": "   Die KiKa-Serie \"Auf Fritzis Spuren - Wie war das so in der DDR?\" hat sich bei den International Emmys in New York gegen die Konkurrenz durchgesetzt. Ein weiterer deutscher Hoffnungsträger ging leer aus.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UNRWA: Weiterarbeiten - und auf Trumps Gaza-Plan hoffen",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-unrwa-zukunft-100.html",
+      "published": "2025-11-25T05:30:42",
+      "content": "   In Trumps Gaza-Plan wird der UN eine wichtige Rolle zugesagt. Zugleich aber steht das Palästinenserhilfswerk UNRWA weiter in der Kritik, ein neues Mandat für Gaza ist ungewiss. Wie arbeitet das UNRWA inzwischen? Von N. Amin.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Taliban accuses Pakistan of killing 10 – including nine children – in strikes on Afghanistan",
+      "link": "https://www.theguardian.com/world/2025/nov/25/taliban-accuses-pakistan-strikes-afghanistan",
+      "published": "2025-11-25T05:19:21",
+      "content": "The strikes come a day after a suicide attack on a security compound in Pakistan’s Peshawar cityPakistan strikes on neighbouring Afghanistan have killed 10 people – among them nine children – a Taliban government spokesperson has said, a day after a suicide attack on a security compound in Pakistan’s Peshawar city.“The Pakistani invading forces bombed the house of a local civilian resident ... As a result, nine children (five boys and four girls) and one woman were martyred” in Khost province, Zabihullah Mujahid said on X. Continue reading...",
+      "content_length": 548,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bevan Shields steps down as Sydney Morning Herald editor, chief reporter Jordan Baker named as replacement",
+      "link": "https://www.theguardian.com/media/2025/nov/25/bevan-shields-steps-down-sydney-morning-herald-smh-editor-chief",
+      "published": "2025-11-25T05:13:34",
+      "content": "Shields told SMH staff in an email that working in the role had been the honour of his lifeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe editor of the Sydney Morning Herald, Bevan Shields, has resigned after four years and will be replaced in the role at Nine’s Sydney masthead by Jordan Baker, the chief reporter.Shields told staff in an email the job had been the “honour of my life” and he would return as a senior writer after a break. Continue reading...",
+      "content_length": 530,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Datenanalyse - Wie krank ist Deutschland?",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/arbeitsunfaehigkeit-krankenkassen-deutschland-100.html",
+      "published": "2025-11-25T05:11:12",
+      "content": "   Beschäftigte in Deutschland sind immer häufiger krankgeschrieben. Eine exklusive BR-Analyse von Daten der Betriebskrankenkassen (BKK) zeigt, welche Erkrankungen den Krankenstand prägen - und in welchen Regionen sich besonders viele Menschen krankmelden.[mehr]",
+      "content_length": 262,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cowboys’ Marshawn Kneeland died after police believed he was driving stolen car",
+      "link": "https://www.theguardian.com/sport/2025/nov/24/cowboys-marshawn-kneeland-died-after-police-believed-he-was-driving-stolen-car",
+      "published": "2025-11-25T04:38:10",
+      "content": "Defensive end died this month at age of 24Player’s car reached speeds of more than 145 mphBody and dash cam footage from law enforcement officials have charted the events leading up to the death of Dallas Cowboys player Marshawn Kneeland earlier this month.The 24-year-old was found dead in the early morning hours of 6 November hours after being pursued by officers who had attempted a traffic stop in suburban Dallas. Police say Kneeland took his own life.In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counselor. In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+      "content_length": 888,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Windkraft in Deutschland: Der entscheidende Aufwind",
+      "link": "https://www.tagesschau.de/wissen/klima/windkraft-deutschland-100.html",
+      "published": "2025-11-25T04:34:57",
+      "content": "   Windenergie ist ein zentrales Zugpferd der deutschen Energiewende. Nach Jahren schleppenden Ausbaus zeigen die politischen Beschleunigungsmaßnahmen erste Erfolge. Von Jan Koch.[mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Massive russische Angriffe auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-120.html",
+      "published": "2025-11-25T04:29:54",
+      "content": "   Russland hat die ukrainische Hauptstadt Kiew mit Hyperschallraketen und Drohnen angegriffen. Wohngebäude stehen in Brand, es gibt mindestens einen Toten. Auch Russland meldet Tote durch ukrainische Angriffe.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump deadline looms as Ukraine and Russia trade deadly strikes",
+      "link": "https://www.france24.com/en/europe/20251125-russian-strikes-kyiv-ignite-fires-residential-buildings",
+      "published": "2025-11-25T04:27:01",
+      "content": "Ukraine and Russia counted fresh casualties on Tuesday after trading heavy overnight strikes, as negotiators rushed to revise a US peace framework ahead of a Thanksgiving deadline set by President Donald Trump. Kyiv and its allies worked through the weekend to reshape a proposal they say initially mirrored Moscow’s demands.",
+      "content_length": 325,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bundestag berät den Haushalt 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2026-bundestag-102.html",
+      "published": "2025-11-25T04:19:23",
+      "content": "   Im Bundestag starten heute die abschließenden Beratungen für den Haushalt 2026. Im kommenden Jahr sollen dem Bund rund 525 Milliarden Euro zur Verfügung stehen - gut 22 Milliarden Euro mehr als 2025. Von Martin Polansky.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Macquarie Dictionary announces ‘AI slop’ as its word of the year, beating out Ozempic face",
+      "link": "https://www.theguardian.com/technology/2025/nov/25/ai-slop-word-of-the-year-macquarie-dictionary-australia",
+      "published": "2025-11-25T04:17:16",
+      "content": "Term was up against a shortlist including blind box, ate (and left no crumbs) and Roman EmpireFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAI slop is here, it’s ubiquitous, it’s being used by the US president, Donald Trump, and now, it’s the word of the year.The Macquarie Dictionary dubbed the term the epitome of 2025 linguistics, with a committee of word experts saying the outcome embodies the word of the year’s general theme of reflecting “a major aspect of society or societal change throughout the year”. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Afghanistan says at least 10 killed in Pakistani airstrikes, mostly children",
+      "link": "https://www.france24.com/en/middle-east/20251125-pakistan-strikes-afghanistan-attack",
+      "published": "2025-11-25T04:07:54",
+      "content": "Pakistan carried out air strikes inside Afghanistan on Tuesday, killing at least 10 civilians, according to the Taliban government, a day after a deadly suicide blast on a security compound in Peshawar intensified tensions between the neighbours.",
+      "content_length": 246,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump-Regierung will offenbar Status von Geflüchteten erneut überprüfen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ueberpruefung-gefluechtete-100.html",
+      "published": "2025-11-25T03:28:51",
+      "content": "   Viele Geflüchtete in den USA müssen offenbar um ihren Schutzstatus bangen: Die Trump-Regierung plant laut Medienberichten erneute umfassende Überprüfungen von Menschen, die zwischen 2021 und 2025 aufgenommen wurden.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Canada: ‘Inconvenient Indian’ author Thomas King says he is not Indigenous",
+      "link": "https://www.theguardian.com/world/2025/nov/25/canadian-author-thomas-king-not-indigenous-cherokee-inconvenient-indian",
+      "published": "2025-11-25T03:00:56",
+      "content": "King has announced a genealogist working with the Tribal Alliance Against Frauds found no evidence of Cherokee ancestry in his family lineageA prominent Canadian-American author, who has long claimed Indigenous ancestry and whose work exposed “the hard truths of the injustices of the Indigenous peoples of North America”, has learned from a genealogist that he has no Cherokee ancestry.In an essay titled “A most inconvenient Indian” published on Monday for Canada’s Globe and Mail, Thomas King said he had learned of rumours circulating in recent years within both the arts and Indigenous communities that questioned his Cherokee heritage. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Cases against Comey and James tossed, Pentagon investigating US senator and Turning Point USA looks to 2028 – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/24/us-politics-trump-venezuela-marjorie-tayor-greene-latest-updates",
+      "published": "2025-11-25T02:47:31",
+      "content": "This live blog is now closed.Trump news at a glance: judge tosses criminal cases against James Comey and Letitia JamesThe president was online early today, and fired off a Truth Social post at 5:38am touting the economic impact that his sweeping tariffs will soon have on the country. He also noted that countries’ efforts to stockpile US goods ahead of the levies kicking in was “wearing thin”.“These payments will be RECORD SETTING, and put our Nation on a new and unprecedented course,” he wrote. “This Tariff POWER will bring America National Security and Wealth the likes of which has never been seen before.”Those opposing us are serving hostile foreign interests that are not aligned with the success, safety and prosperity of the USA. They couldn’t care less about us. I look so much forward to the United States Supreme Court’s decision on this urgent and time sensitive matter,” he added. Continue reading...",
+      "content_length": 918,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Majority of Latino voters disapprove of Trump, Pew study finds",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/trump-latino-voters-pew",
+      "published": "2025-11-25T02:33:59",
+      "content": "Research shows 70% disapprove of job US president – who won backing of nearly half of Latino voters in 2024 – is doingA majority of Latinos disapprove of Donald Trump and his economic and immigration policies, according to a new report from the Pew Research Center.After receiving support from nearly half of Latino voters in the 2024 election, Trump had lost the backing of a majority surveyed in October. Pew found that 70% of Latinos “disapprove of the way Trump is handling his job as president”, while 65% disapprove of his administration’s approach to immigration and 61% believe his economic policies have worsened economic conditions. Continue reading...",
+      "content_length": 662,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "China’s Xi Jinping raises future of Taiwan in call with Donald Trump",
+      "link": "https://www.theguardian.com/world/2025/nov/25/china-taiwan-xi-jinping-call-with-donald-trump",
+      "published": "2025-11-25T01:57:04",
+      "content": "China claims Taiwan as part of its territory and Xi told Trump that its return was an ‘integral part of the post-war international order’Chinese leader Xi Jinping has told Donald Trump that Beijing’s claims to Taiwan remain unchanged, in a phone call that came amid rising tensions over the self-governing island.Xi told Trump on Monday that Taiwan’s return to China was an “integral part of the postwar international order” forged in the joint US-China fight against “fascism and militarism”, according to the Chinese foreign ministry. Continue reading...",
+      "content_length": 556,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "RSF-Miliz ruft einseitige Waffenruhe im Sudan aus",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-rsf-waffenruhe-100.html",
+      "published": "2025-11-25T01:35:55",
+      "content": "   Seit Monaten gibt es internationale Bemühungen, ein Friedensabkommen für den Sudan zu erzielen. Jetzt verkündete die RSF-Miliz eine dreimonatige Feuerpause. Die Reaktion der Armee steht noch aus.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The best noise-canceling headphones to buy right now",
+      "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
+      "published": "2025-11-25T01:14:00",
+      "content": "\n\n\n\t\n\t\t\n\nEditor’s note:&nbsp;Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the&nbsp;best early Black Friday deals&nbsp;you can already get.\n\nWhether you’re wearing them for the morning commute, while traveling, or if you’re simply trying to find some peace and quiet while working at home, noise-canceling headphones are a more essential piece of kit nowadays than ever before. And you’ve got a slew of great options to pick from; it’s hard to make a bad choice.\n\nThere are longtime heavyweights like Bose and Sony to pick from. Apple has quickly carved into the market with the luxurious AirPods Max. And if you’ve got an ear that demands the best audio quality, headphones from Bowers &amp; Wilkins and Sennheiser might appeal to you more than the mainstream contenders.\n\nNot everyone loves the feel of earbuds, and there are scenarios where over-ear and on-ear headphones are just simpler or make more sense than wireless buds — particularly if lengthy battery life matters to you.\n\nNo matter how you’re using them, the criteria for picking the best noise-canceling headphones haven’t changed.\n\n\n\n\n\n\n\n\nThe best wireless headphones for most peopleThe best noise-canceling headphones for travelThe best wireless headphones for iPhone ownersThe best-sounding wireless headphonesThe noise-canceling headphones with the best battery life\n\n\nThe best wireless headphones for most people\nSony WH-1000XM5\nWith improved comfort, refined sound, and even better active noise cancellation compared to the previous-gen model, Sony’s WH-1000XM5 offer a compelling mix of features for the price. Read our review.\n\nScore: 8ProsConsEven better active noise cancellationMore balanced, tighter soundMuch-improved voice call qualityDesign is very plasticky for $400No major new features over 1000XM4Bulky, awkward carrying case\nWhere to Buy: $399.99 $248 at Amazon $398 $248 at B&amp;H Photo $398 $248 at Best Buy\nBattery life: 30 hours / Multipoint: Yes / Audio codecs: LDAC, AAC, SBC / Connectors: USB-C (charging), 3.5mm headphone jack (audio)\n\nSony’s WH-1000XM5 have a completely different design from their predecessors. The changes result in greater comfort when you wear them on your head for extended periods of time — like on a flight or at the office.\n\nNoise cancellation has been further improved from the already-stellar performance of the WH-1000XM4, putting Sony at the front of the pack compared to all major competitors. Sound quality is more detailed and balanced than the older XM4; the low end is still punchy but tighter and less boomy than before. The XM5 offer excellent voice call performance, and they can connect to two devices simultaneously, so you can stay clued in on what’s happening on your phone when you’re working away on your laptop or tablet.\n\nSony’s headphones also include unique features like “speak to chat,” which automatically pauses your music and pipes in ambient audio whenever you start talking. Or you can hold one hand over the right ear cup to activate quick attention mode, which is convenient when grabbing a coffee or listening to airport announcements. And like other high-end headphones, the XM5 can detect when they’ve been removed from your ears for auto-pause.\n\nEarlier this year, Sony introduced the WH-1000XM6, and while they offer incremental improvements over the XM5 in terms of sound and ANC performance, they’re also more expensive at $449.99. The XM5, meanwhile, can regularly be found for $300 or less. Weighing price versus performance, the XM5 are a better value, and it’s why they remain at the top of our list.\n\nRead our full WH-1000XM5 review.\n\nThe best noise-canceling headphones for travel\nBose QuietComfort Ultra Headphones\n\nScore: 8ProsConsExemplary comfortTop-tier noise cancellationImproved transparency mode clarityBetter voice call quality than NCH700Immersive Audio is sometimes enjoyable but often badImmersive Audio drains battery fasterNo USB-C audio supportCase has annoying indentations\nWhere to Buy: $429 $298 at Amazon $429.99 at Target $429 $298.99 at Best Buy\nBattery life: 24 hours / Multipoint: Yes / Audio codecs: aptX Adaptive, AAC, SBC / Connectors: USB-C (charging), 2.5mm headphone jack (audio)\n\nBose’s QuietComfort Ultra Headphones are basically a blend of the company’s prior Noise Canceling Headphones 700 and QuietComfort 45 that borrow the best traits from both — while throwing in a new “immersive audio” listening mode. Like past Bose cans, they’re very light and comfortable on your head, even when worn for long stretches of time. Best of all, unlike the Noise Canceling Headphones 700, these can be folded to make them easier to travel with.\n\nTheir 24-hour battery life is more than adequate, and Bose has added support for the aptX Adaptive Bluetooth codec for improved audio fidelity on Android devices.\n\nThe immersive audio feature works well on some songs, but less so on others. It’s worth experimenting with, but even if you leave it off entirely, you’re left with best-in-class noise cancellation, pleasing sound, and a helpful “aware” transparency mode.\n\nRead our full Bose QC Ultra Headphones review.\n\nThe best wireless headphones for iPhone owners\nAirPods Max (USB-C)\n\nScore: 8.5ProsConsHigh-luxury designTerrific, balanced sound qualityVery effective noise cancellationDependable and foolproof controlsSpatial audio for immersive entertainmentHeavier than many competitorsNo 3.5mm jackWired listening requires $35 cableCase is an abominationLacks latest AirPods Pro features\nWhere to Buy: $549 $429.99 at Amazon $549 $429.99 at Walmart $548.99 $429.99 at Best Buy\nBattery life: 20 hours / Multipoint: No / Audio codecs: AAC, SBC / Connectors: Lightning (audio and charging)\n\nThere was definitely some sticker shock when Apple introduced a $549 set of noise-canceling headphones in 2020. The AirPods Max cost significantly more money than any of our other recommendations. But Apple’s build quality is on another level: these trade the plastic you’ll find in many noise-canceling headphones for steel and aluminum, and the ear cups are a breathable mesh fabric. They’re hefty headphones, there’s no denying that. But aside from Apple refusing to include a headphone cable in the box, there’s nothing about the AirPods Max that feels cheap. And I appreciate the simplicity of using the digital crown for controls instead of relying on hit-or-miss gestures like taps and swipes.&nbsp;\n\nThe most important part is that the AirPods Max deliver audio quality that’s up there with the best high-end Bluetooth headphones. They have an immersive, wide soundstage and fantastic dynamics, and you’ll find yourself hopping around your music library just to hear what they bring out in your favorite songs.\n\nApple’s noise cancellation is on par with Sony and Bose, and no one does transparency mode better; at times, it can make you think you’re not wearing headphones at all. Extra features like Spatial Audio (surround sound for movies and TV shows) and automatic switching between Apple gadgets help make it a bit easier to swallow their daunting price.&nbsp;&nbsp;\n\nBut the AirPods Max do have faults. The carrying case is abysmal, battery life is only average for the category, and just like regular AirPods, they’re designed with Apple’s ecosystem in mind. It gets much harder to justify dropping $550 on them if you live outside the iPhone and Mac universe.\n\nAlso, it’s worth noting that Apple introduced a new pair of AirPods Max with USB-C charging and five new color options in September. We’re currently testing the latest model, but given just how little they differ from Apple’s existing over-ear headphones, we don’t anticipate markedly different performance. That said, they do support lossless audio and ultra low latency thanks to a recent firmware update, which, technically, isn’t something you’ll find on the Lightning model.\n\nRead our full Apple AirPods Max review.\n\nThe best-sounding wireless headphones\nBowers &amp; Wilkins PX7 S2e\n\nProsConsStylish, standout designExcellent sound qualitySupports wired USB-C audioNo regular headphone inputDoesn&#8217;t include LDAC supportYour ears might get sweaty\nWhere to Buy: $399 $269.03 at Amazon $399 $359 at Bowers &amp; Wilkins $399 $359 at Crutchfield\nBattery life: 30 hours / Multipoint: Yes / Audio codecs: aptX Adaptive, aptX HD, aptX, AAC, SBC / Connectors: USB-C (audio and charging)\n\nIf sound quality is priority number one, then Bowers &amp; Wilkins has you covered with the PX7 S2e headphones. They exhibit superb, detailed sound quality that some people prefer to the AirPods Max. The Bowers &amp; Wilkins cans are true to the company’s legacy and style, with a fine-crafted design that exudes quality. And the newer “e” variant has a revamped digital signal processing that can bring out the best audio quality from streaming music.\n\nI prefer their physical buttons over the tap/swipe ear cup gestures of Sony’s WH-1000XM5. With 30 hours of battery life, they’re more than competitive with mainstream, less expensive picks. And the sound profile is delightfully warm and will bring out the most from your favorite music. The main downside of the PX7 S2e is that there’s no traditional 3.5mm or 2.5mm output for a headphone cable. You can still listen wired over USB-C, however.\n\nRead our full Bowers &amp; Wilkins PX7 S2 review.\n\nThe noise-canceling headphones with the best battery life\nSennheiser Momentum 4 Wireless\n\nScore: 7ProsConsMuch-improved comfortBetter noise cancellation than beforeMarathon 60-hour battery lifeTerribly generic designNo more physical button controlsHeadphones can power on unexpectedly\nWhere to Buy: $449.95 $179.95 at Amazon $449.99 $199.99 at Best Buy $449.95 $199.95 at Sennheiser\nBattery life: 60 hours / Multipoint: Yes / Audio codecs: aptX Adaptive, aptX, AAC, SBC / Connectors: USB-C (audio and charging), 2.5mm headphone jack (audio)\n\nSixty hours. They can last for up to 60 hours on a single charge. That’s really all you need to know about the Sennheiser Momentum 4 headphones if you’re looking for an endurance champ. But they also sound terrific and prove extremely comfortable over long listening periods. This combination doesn’t come cheap, but you can occasionally find some good deals on them.\n\nSennheiser’s Momentum 4 Wireless headphones edge out Bowers &amp; Wilkins on comfort thanks to their lighter design, and the noise cancellation is slightly better. Next to the Sonys and Bose’s QC Ultra Headphones, it doesn’t get much cozier. These are headphones you can wear for multiple hours without any fatigue or pressure on your ears.\n\nSennheiser’s sound signature is a bit more expressive and puts more emphasis on bass than B&amp;W, but that upper treble range still comes through crystal clear. My only real nitpick with the Sennheisers is that they tend to occasionally power on inside the case and automatically connect to my phone for no apparent reason.\n\nBoth the B&amp;W and Sennheiser headphones support multipoint connectivity and a range of Bluetooth codecs, including SBC, AAC, aptX, and aptX Adaptive.\n\nRead our full Sennheiser Momentum 4 Wireless review.\n\nUpdate, November 24th: Updated to reflect current pricing / availability and reference the newer Sony WH-1000XM6.",
+      "content_length": 11281,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thai woman found alive in coffin before temple cremation",
+      "link": "https://www.theguardian.com/world/2025/nov/25/thai-woman-found-alive-in-coffin-before-temple-cremation",
+      "published": "2025-11-25T00:40:03",
+      "content": "The 65-year-old woman shocked temple staff when they heard a faint knocking and she started moving in her coffin after being brought in for cremationA woman in Thailand shocked temple staff when she started moving in her coffin after being brought in for cremation.Wat Rat Prakhong Tham, a Buddhist temple in the province of Nonthaburi on the outskirts of Bangkok , posted a video on its Facebook page, showing a woman lying in a white coffin in the back of a pick-up truck, slightly moving her arms and head, leaving temple staff bewildered. Continue reading...",
+      "content_length": 562,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘An idealized version of LA’: fabled mid-century Stahl house on sale for first time",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/los-angeles-stahl-house-sale",
+      "published": "2025-11-25T00:39:58",
+      "content": "Home perched in Hollywood Hills, constructed for $37,500 and made famous by Julius Shulman photo, listed for $25mThe Stahl house – a paragon of Los Angeles mid-century modern architectural design – is for sale for the first time in the home’s history.The cantilevered home, perched in the Hollywood Hills, hit the listings market this week. The asking price: $25m. Continue reading...",
+      "content_length": 384,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "RAM prices are so out of control that stores are selling it like lobster",
+      "link": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
+      "published": "2025-11-25T00:08:51",
+      "content": "\n\n\n\t\n\t\t\n\nMichael Crider’s headline at PCWorld today perfectly captures how ridiculous the PC memory shortage has become: stores like the San Francisco Bay Area’s Central Computers are beginning to sell RAM at market prices, like you’d pay for the catch-of-the-day at a seafood restaurant. \n\n“Costs are fluctuating daily as manufacturers and distributors adjust to limited supply and high demand,” reads a message posted in the store’s display case, as spotted by Steve Lin. “Because of this, we can’t display fixed prices at this time.”\n\nMicro Center is apparently doing the same: “Due to market volatility, we ask that you please see a Sales Associate for price,” reads an in-store message captured by Redditor CassTexas (via Tom’s Hardware). \n\nIt’s hard to overstate just how quickly the RAM crunch is changing the affordability of computers — and it might soon impact other realms as well, as everything from game consoles to smartphones require RAM to function.\n\nThree months ago yesterday, I bought 32GB of memory for my gaming PC and the price of that exact kit has more than tripled since then. It now costs $300 more. ($440 vs. $130, in case you’re curious; a more common version of the same kit went from $105 to $400.) Some prices have doubled since October, and while you can still find some 32GB kits for as low as $230, a 64GB DDR5 kit can easily run you $700, $800, even $900. \n\nSome high-profile product launches might be impacted by the price of memory. Valve pointed to the RAM crunch as one reason it couldn’t promise a specific price for its Steam Machine just yet. \n\nJust as out-of-control GPU prices from earlier this year have finally settled down, runaway memory prices might make them shoot back up again. Every graphics card requires gobs of VRAM, more is better, and word is that Nvidia and AMD are preparing to raise prices to compensate for the crunch. Digital Foundry is recommending you buy a GPU at or below MSRP while you still can, one with 10GB or more of VRAM. \n\nLeaker Moore’s Law Is Dead claims that Microsoft may have to raise Xbox prices yet again to compensate, but that Sony has stockpiled enough RAM for the PS5 to last some number of months.\n\nEpic CEO Tim Sweeney says it may take years for high-end gaming to recover from the RAM crunch, because of AI. He says “factories are diverting leading edge DRAM capacity to meet AI needs where data centers are bidding far higher than consumer device makers.”",
+      "content_length": 2445,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "UN climate negotiations burned up and then fizzled out",
+      "link": "https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle",
+      "published": "2025-11-24T23:56:57",
+      "content": "\n\n\n\t\n\tA fire burns in a pavilion during the COP30 UN Climate Change Conference in Belém, Pará state, Brazil, on November 20th, 2025. | Photo: Getty Images\t\n\n\"It's a wrap … Don't forget to buy an 'i survived Bel&eacute;m' shirt,\" reads the opening line of an email I got Saturday, the final day of highly anticipated United Nations climate negotiations in Bel&eacute;m, Brazil. The email was sent from Shravya Jain-Conti, the US climate diplomacy lead at the Global Strategic Communications Council (GSCC), who's been following these events for years. While she sometimes has tips on where to snag a cup of coffee along with her email updates to reporters, the T-shirt tip was a first as far as I've seen.\nI've been mulling over these negotiations since last year, mapping out potential funding opportunities to make a t …\nRead the full story at The Verge.",
+      "content_length": 855,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Two climbers dead after fall on Aoraki Mount Cook, New Zealand’s highest peak",
+      "link": "https://www.theguardian.com/world/2025/nov/25/aoraki-mt-cook-new-zealand-two-climbers-dead",
+      "published": "2025-11-24T23:51:59",
+      "content": "Two others rescued as authorities work to recover the bodies of those killed after they fell near the summitTwo mountain climbers have died on Aoraki, New Zealand’s tallest peak, with two others from the same group rescued, authorities said.The climbers’ bodies have been found and specialist searchers were working to recover them “in a challenging alpine environment”, the police area commander Inspector Vicki Walker said on Tuesday. None of the climbers have been publicly identified. Continue reading...",
+      "content_length": 508,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "DOJ settles with RealPage over its software&#8217;s alleged rent price fixing",
+      "link": "https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software",
+      "published": "2025-11-24T23:48:25",
+      "content": "\n\n\n\t\n\t\t\n\nThe Department of Justice has announced a settlement with RealPage, the widely used rent-setting software that it accused of engaging in collusion to drive up rent prices by sharing previously private information from competing landlords. The settlement puts limits on RealPage’s ability to collect and use that data, and blocks it from being used to set rents.\n\nLast year, the DOJ and several other states filed an antitrust lawsuit against RealPage, claiming that the company’s rent-setting software combines data from competing landlords to provide daily rental price suggestions. “As competitor-landlords increase their rents, RealPage’s software nudges other competing landlords to increase their rents as well,” the DOJ alleged.\n\nIf the court approves the DOJ’s settlement, RealPage must only use data from landlords that is 12 months or older to power its algorithm. The settlement also requires RealPage to “remove or redesign” features that discourage landlords from lowering prices or prompt landlords to match their prices with competitors. RealPage would also be barred from offering “hyperlocalized pricing” information, which Assistant Attorney General Abigail Slater describes in a video on X as hiking up rents “block-by-block.” RealPage denies any wrongdoing.\n\n“RealPage was replacing competition with coordination, and renters paid the price,” Slater said. “We reached a settlement that stops RealPage from coordinating pricing with its customers.” ",
+      "content_length": 1476,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "ChatGPT shopping research builds you a buyer&#8217;s guide using AI",
+      "link": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide",
+      "published": "2025-11-24T23:40:38",
+      "content": "\n\n\n\t\n\t\t\n\nOpenAI is making it easier to plan out holiday shopping with ChatGPT’s latest feature, called “shopping research.” Any shopping question in ChatGPT will trigger this new feature, which is rolling out to all ChatGPT users on free and paid plans on mobile and web, with “nearly unlimited usage” available during the holiday shopping season.\n\nNow, if you ask ChatGPT for “best TVs in bright lighting,” for example, as the company’s announcement video shows, the response will end with a button asking if you want to do additional research. This is where the “personal shopper” aspect comes in, although the blog post notes that “shopping research might make mistakes about product details like price and availability, and we encourage you to visit the merchant site for the most accurate details.”&nbsp;\n\nUsers refine their choices by selecting their preferences during a series of questions that can be filtered based on price, intended use, and desired features, similar to the drop-down menus on most retail websites. The products it pulls up can be purchased on retailers’ websites, but OpenAI said it plans to roll out Instant Checkout, which will allow direct purchasing inside ChatGPT with participating merchants.\n\nOpenAI is not alone in trying to encourage shopping within its products. Google also recently released new AI-powered shopping features in its AI Mode, and the AI agent in Perplexity’s Comet browser will shop on your behalf, much to Amazon’s chagrin. (The trend is something The Verge’s Nilay Patel has termed “the DoorDash problem.”)\n\nAccording to OpenAI, it’s built on a version of GPT‑5 mini that has been refined for shopping tasks, with product recommendations from “quality sources” on the internet containing “up-to-date information like price, availability, reviews, specs, and images.” They can also take into account previous conversations with ChatGPT and user “memory” if that is turned on, along with buttons to show “more like this” or “not interested” on specific items.\n\nPro users will see proactively recommended products packaged in “buyer’s guides” based on their past chatlogs with Pulse. “For example, if you’ve been discussing e-bikes, a future Pulse card could suggest useful accessories for you,” OpenAI wrote.&nbsp;",
+      "content_length": 2269,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kreml zu europäischen Vorschlägen: \"Uns passt das nicht\"",
+      "link": "https://www.tagesschau.de/ausland/gespraeche-ukraine-reaktionen-100.html",
+      "published": "2025-11-24T23:32:36",
+      "content": "   Nach den Ukraine-Gesprächen in Genf herrscht in Europa vorsichtige Zuversicht. Nun meldet sich auch der Kreml zu Wort: Zum ursprünglichen US-Plan sei man gesprächsbereit - die europäischen Gegenvorschläge aber seien \"nicht konstruktiv\".[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pentagon investigates senator who called on military to disobey 'illegal orders'",
+      "link": "https://www.france24.com/en/americas/20251124-pentagon-investigates-senator-disobey-illegal-orders",
+      "published": "2025-11-24T23:27:59",
+      "content": "The Pentagon on Monday signalled it may take the extraordinary step of recalling Democratic Senator Mark Kelly to active Navy duty over his appearance in a video urging troops to reject “illegal orders”. Kelly, a former combat pilot and NASA astronaut, fired back publicly, accusing the administration of trying to intimidate Congress.",
+      "content_length": 335,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump moves to classify Muslim Brotherhood chapters as ‘terrorist organizations'",
+      "link": "https://www.france24.com/en/middle-east/20251124-trump-targets-muslim-brotherhood-chapters-middle-east",
+      "published": "2025-11-24T23:15:54",
+      "content": "US President Donald Trump on Monday signed an executive order launching a process to designate specific branches of the Muslim Brotherhood as foreign terrorist organisations. The order singles out chapters in Lebanon, Egypt and Jordan, and hands the task of completing the designation to top US diplomats and Treasury officials.",
+      "content_length": 328,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model",
+      "link": "https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/",
+      "published": "2025-11-24T23:15:10",
+      "content": "Anthropic today released Opus 4.5, its flagship frontier model, and it brings improvements in coding performance, as well as some user experience improvements that make it more generally competitive with OpenAI’s latest frontier models.\nPerhaps the most prominent change for most users is that in the consumer app experiences (web, mobile, and desktop), Claude will be less prone to abruptly hard-stopping conversations because they have run too long. The improvement to memory within a single conversation applies not just to Opus 4.5, but to any current Claude models in the apps.\nUsers who experienced abrupt endings (despite having room left in their session and weekly usage budgets) were hitting a hard context window (200,000 tokens). Whereas some large language model implementations simply start trimming earlier messages from the context when a conversation runs past the maximum in the window, Claude simply ended the conversation rather than allow the user to experience an increasingly incoherent conversation where the model would start forgetting things based on how old they are.Read full article\nComments",
+      "content_length": 1121,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "US presses Ukraine on peace plan as Kyiv warns of concessions to Moscow",
+      "link": "https://www.france24.com/en/europe/20251124-usa-ukraine-peace-plan-kyiv-warns-concessions-moscow",
+      "published": "2025-11-24T23:03:49",
+      "content": "The fallout from Sunday’s Geneva talks continued into Monday as Ukrainian officials warned that Washington’s peace proposals still risk forcing Kyiv into unacceptable concessions to Russia. While the United States eased its pressure during the meeting, Ukrainian President Volodymyr Zelensky declared the country was at a “critical moment\".",
+      "content_length": 340,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?",
+      "link": "https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/",
+      "published": "2025-11-24T22:52:38",
+      "content": "The commander of the military unit responsible for running the Cape Canaveral spaceport in Florida expects SpaceX to begin launching Starship rockets there next year.\nLaunch companies with facilities near SpaceX’s Starship pads are not pleased. SpaceX’s two chief rivals, Blue Origin and United Launch Alliance, complained last year that SpaceX’s proposal of launching as many as 120 Starships per year from Florida’s Space Coast could force them to routinely clear personnel from their launch pads for safety reasons.\nThis isn’t the first time Blue Origin and ULA have tried to throw up roadblocks in front of SpaceX. The companies sought to prevent NASA from leasing a disused launch pad to SpaceX in 2013, but they lost the fight.Read full article\nComments",
+      "content_length": 759,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Viola Ford Fletcher, one of last survivors of Tulsa race massacre, dies aged 111",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/viola-ford-fletcher-tulsa-race-massacre-death",
+      "published": "2025-11-24T22:49:11",
+      "content": "Fletcher spent years pushing for justice after deadly racial attack on thriving Black Oklahoma community in 1921Viola Ford Fletcher, who as one of the last survivors of the 1921 Tulsa race massacre in Oklahoma spent her later years seeking justice for the deadly attack by a white mob on the thriving Black community where she lived as a child, has died. She was 111.Her grandson Ike Howard said on Monday that she died surrounded by family at a Tulsa hospital. Sustained by a strong faith, she raised three children, worked as a welder in a shipyard during the second world war and spent decades caring for families as a housekeeper. Continue reading...",
+      "content_length": 654,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bundesrichter weist Klagen gegen James Comey und Letitia James ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-richter-klagen-comey-james-100.html",
+      "published": "2025-11-24T22:39:22",
+      "content": "   US-Präsident Trump hat eine juristische Niederlage erlitten: Die von Trump veranlassten Strafverfahren gegen den früheren FBI-Chef Comey und die New Yorker Generalstaatsanwältin James wurden abgewiesen.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Meta&#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts",
+      "link": "https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit",
+      "published": "2025-11-24T22:32:58",
+      "content": "\n\n\n\t\n\t\t\n\nFor the first time, Meta is offering trade-in discounts for its smart glasses with a pilot program that’s only running through December 31st. According to a legal page on Meta’s website, trade-in discounts can be applied to the Ray-Ban Meta Gen 1, Ray-Ban Meta Gen 2, Oakley Meta HSTN, and Oakley Meta Vanguard. Notably, the Meta Ray-Ban Display didn’t make that list. Limited edition and refurbished glasses also aren’t eligible for the discount. \n\nYou can trade in your current pair of first-gen Ray-Ban Meta glasses if you’re looking to upgrade, but Meta is also surprisingly offering trade-in credit for certain pairs of earbuds. Here’s Meta’s full list of eligible ones:\n\n\nApple Airpods Pro 2\n\n\n\nApple Airpods Pro\n\n\n\nApple Airpods Pro 4\n\n\n\nBeats Powerbeats Pro 2\n\n\n\nBeats Studio Buds +\n\n\n\nBeats Fit Pro\n\n\n\nSamsung Galaxy Buds3\n\n\n\nSamsung Galaxy Buds3 Pro\n\n\n\nSamsung Galaxy Buds3 FE\n\n\nIt’s worth noting that there isn’t currently a pair of “Apple AirPods Pro 4,” so it’s unclear if Meta was referring to the AirPods 4 or the AirPods Pro 3.&nbsp;\n\nTo get the trade-in discount, you have to purchase your glasses directly from Meta. Add a pair of eligible glasses to your cart, and you should hopefully see a box with the trade-in offer right above it in the cart. Some Reddit users reported having to try different browsers before finally getting the trade-in offer, so maybe try swapping your browser if you don’t see it at first.&nbsp;\n\nDiscounts vary based on your device and the condition it’s in, but Meta seems to be offering up to $113 off. That’s a decent dent in the usual $379 price tag on the Ray-Ban Meta Gen 2, which offer twice as much battery life as the previous generation along with a moderate camera improvement. It’s worth noting that the first-gen Ray-Ban Meta glasses are on sale right now, so if you don’t need all-day battery or don’t have another wearable to trade in, your best bet might be going with that less expensive option.\n\n",
+      "content_length": 1969,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump begins process of designating Muslim Brotherhood chapters as terrorist groups",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/trump-muslim-brotherhood-terrorist-designation",
+      "published": "2025-11-24T22:21:49",
+      "content": "President signs executive order for Rubio and Bessent to submit report on chapters in Lebanon, Egypt and JordanDonald Trump on Monday began the process of designating certain Muslim Brotherhood chapters as foreign terrorist organizations and specially designated global terrorists, a move that would bring sanctions against one of the Arab world’s oldest and most influential Islamist movements.Trump signed an executive order directing Secretary of State Marco Rubio and treasury secretary Scott Bessent to submit a report on whether to designate any Muslim Brotherhood chapters, such as those in Lebanon, Egypt and Jordan, according to a White House fact sheet. It orders the secretaries to move forward with any designations within 45 days of the report. Continue reading...",
+      "content_length": 777,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU, US restart trade talks",
+      "link": "https://www.france24.com/en/tv-shows/business/20251124-eu-us-restart-trade-talks",
+      "published": "2025-11-24T21:58:29",
+      "content": "The EU and the US have restarted their trade negotiations to try and settle sticking points left unsolved in their tariff deal reached in July.  The US side called on the EU to reconsider its digital rules and find \"a balanced approach\" if it wanted Washington to lower import duties on steel and aluminium. Plus, global talks on protecting wildlife and ensuring sustainable trade kicked off in Uzbekistan. The EU wants to tighten restrictions on eels trade, something Japan is vehemently against.",
+      "content_length": 497,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "India, Nigeria, Sri Lanka: X reveals where viral MAGA accounts are based",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251124-india-nigeria-sri-lanka-x-reveals-where-viral-maga-accounts-are-based",
+      "published": "2025-11-24T21:56:43",
+      "content": "Elon Musk's X has rolled out a new location feature: the app now shows the country or region that the account is based in. This triggered outrage, confusion and ridicule on the platform, particularly as many political accounts - namely prominent MAGA accounts - were not even listed within the United States. The new feature also meant the Department of Homeland Security was accused of being operated from Israel. Vedika Bahl explains in Truth or Fake.",
+      "content_length": 453,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tunisian aid workers convicted of assisting migrants but will go free",
+      "link": "https://www.france24.com/en/africa/20251124-tunisian-aid-workers-convicted-of-assisting-migrants-but-will-go-free",
+      "published": "2025-11-24T21:38:05",
+      "content": "Two Tunisian aid workers were sentenced on Monday to two years in prison for assisting irregular migration but will be freed as they have already served time in prison, their lawyer said. The two workers are among more than a dozen aid workers who are awaiting trial after a May 2024 crackdown.",
+      "content_length": 294,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Fifty kidnapped school students in Nigeria escape",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251124-fifty-kidnapped-school-students-in-nigeria-escape",
+      "published": "2025-11-24T21:26:43",
+      "content": "In today's edition, Nigerian President Bola Tinubu orders the recruitment of 30,000 more police officers following Friday's abduction.\n \nAlso, European and African leaders meet in Angola for talks to deepen economic and security ties.\n \nAnd Jamaican reggae legend Jimmy Cliff passed away at age 81 after a battle with pneumonia.",
+      "content_length": 328,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo",
+      "link": "https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting",
+      "published": "2025-11-24T21:18:57",
+      "content": "\n\n\n\t\n\tBig brain hours\t\n\nChrist. Fine. So over the weekend, a strange Substack post from what appears to be a CEO of a pet relocation company went very viral. This post — which to be clear, is bullshit — alleges that Nvidia is engaged in what “may become the largest accounting fraud in technology history.” That’s a load-bearing “may,” in the sense that there’s no credible reason to believe Nvidia is engaged in fraud at all.\n\nIf and when the AI bubble pops, everything that inflated it will have been obvious the entire time\n\nApparently this spooked Nvidia, which — as first reported by Barron’s — has sent a note to analysts clarifying that it is not, in fact, Enron. That note, which The Verge has seen, addresses the specific allegations in that Substack, as well as claims by famed short-seller Michael Burry that Nvidia’s accounting of stock-based compensation didn’t make sense. (According to Nvidia, Burry seems to have incorrectly added taxes on restricted stock units to get his numbers.)\n\nNow, naturally, this caught my attention because I’ve recently used Enron as an analogy for what Nvidia is up to with the neocloud companies it funds:\n\n\n“There is no neocloud that exists without [Nvidia CEO] Jensen [Huang],” says Saari. That makes neoclouds, in effect, extensions of Nvidia, he says. And none of them make money, so to expand, they must take on debt.\n\n\n\nIf we look at these as being, metaphorically, Nvidia’s special purpose vehicles, then it doesn’t really matter if the companies are any good or will survive in the long term. Their job is to boost Nvidia’s sales. Even OpenAI, also an Nvidia investment, kind of falls into this category — because the massive data center buildout that OpenAI wants the government to backstop sure involves an awful lot of Nvidia chips.\n\n\n\nIf you are old enough, or possessed of a certain kind of disposition, you may be thinking,&nbsp;Wait a minute,&nbsp;aren’t you describing Enron?&nbsp;And uh, in some sense, yes! Enron’s whole thing was&nbsp;special purpose vehicles&nbsp;with extremely speculative valuations that were used to take on debt, Luria notes. But Enron lied about what it was doing, and that’s fraud and illegal. (It also got up to other illegal stuff besides.) Nvidia’s relationship with CoreWeave is all happening in plain sight. So are all the relationships with the other neocloud companies. It kind of seems like the tech company version of the&nbsp;GameStop open pump-and-dump.\n\n\n\n“It’s not good behavior, and it’s not healthy behavior,” Luria says. “But it’s legal. Any investor can see this. Many are just choosing not to.”\n\n\nSince Nvidia has clarified, I’d like to add a clarification of my own: The problem is that Nvidia’s behavior is perfectly legal. In its note, Nvidia says it does not use special purpose entities to hide debt and inflate revenue. This is true! Every single neocloud Nvidia has invested in is its own company. Any debts those companies may have are on their own balance sheets. It’s not Nvidia’s debt. That’s one of the reasons why neoclouds are so convenient for Nvidia — as the company itself informs analysts, Nvidia doesn’t control those companies, and doesn’t provide the financing for them, either. They’re just very useful sin-eaters. In the case of CoreWeave, Nvidia is propping it up by investing in the company, including to make sure its IPO actually happened, and serving as a customer.\n\nCoreWeave’s CEO has even bragged about the close relationship, saying, “I’m not bashful about reaching out” to Huang.\n\nPersonally, I think accusing Nvidia of accounting fraud is effectively taking one’s eye off the ball. It doesn’t have to commit fraud to have a very cozy arrangement with a whole network of companies that juice its earnings and may be inflating an AI bubble —&nbsp;all while its own executive sell shares to lock in their status as millionaires and billionaires. Nvidia has created seven new billionaires, in fact!\n\nIf and when the AI bubble pops, everything that inflated it will have been obvious the entire time. (That’s very in keeping with the times, isn’t it?)  After all, I reported my CoreWeave story from the company’s public filings, following its “Risk Factors” section closely. Should the AI bubble burst, anything that accelerated Nvidia’s growth is likely to accelerate its losses; it will have to mark down its investments in the companies it propped up,  for instance. Should those companies go under, that will mean a glut of Nvidia chips on the market as debt holders try to recoup their money, meaning Nvidia will effectively be competing with its own used product at fire-sale prices. It’s all very stupid, but as far as I can tell, not actually illegal.",
+      "content_length": 4695,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts",
+      "link": "https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/",
+      "published": "2025-11-24T21:17:24",
+      "content": "After Donald Trump curiously started referring to the Department of Government Efficiency exclusively in the past tense, an official finally confirmed Sunday that DOGE “doesn’t exist.”\nTalking to Reuters, Office of Personnel Management (OPM) Director Scott Kupor confirmed that DOGE—a government agency notoriously created by Elon Musk to rapidly and dramatically slash government agencies—was terminated more than eight months early. This may have come as a surprise to whoever runs the DOGE account on X, which continued posting up until two days before the Reuters report was published.\nAs Kupor explained, a “centralized agency” was no longer necessary, since OPM had “taken over many of DOGE’s functions” after Musk left the agency last May. Around that time, DOGE staffers were embedded at various agencies, where they could ostensibly better coordinate with leadership on proposed cuts to staffing and funding.Read full article\nComments",
+      "content_length": 943,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine makes significant changes to US ‘peace plan’, sources say",
+      "link": "https://www.theguardian.com/world/2025/nov/24/zelenskyy-trump-meeting-revised-us-peace-plan-ukraine-russia",
+      "published": "2025-11-24T21:08:52",
+      "content": "Some of Russia’s maximalist demands have been removed from original 28-point proposal, it is understoodAnalysis: Disarray over leaked US-Russia peace plan is ideal scenario for PutinUkraine has significantly amended the US “peace plan” to end the conflict, removing some of Russia’s maximalist demands, people familiar with the negotiations said, as European leaders warned on Monday that no deal could be reached quickly.Volodymyr Zelenskyy may meet Donald Trump in the White House later this week, sources indicated, amid a flurry of calls between Kyiv and Washington. Ukraine is pressing for Europe to be involved in the talks. Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Xbox Crocs are real",
+      "link": "https://www.theverge.com/news/828175/microsoft-xbox-crocs",
+      "published": "2025-11-24T21:05:19",
+      "content": "\n\n\n\t\n\t\t\n\nMicrosoft is loving Crocs at the moment. After releasing Windows XP-themed Crocs earlier this year, the software maker is now putting an Xbox controller on your feet with a new limited edition pair of Crocs.\n\nAvailable on November 25th for $80, the Xbox Crocs mimic the Xbox One X&#8217;s controller with fixed buttons and joysticks. Both Crocs feature the classic X, Y, B, A buttons, D-pad, left and right analog sticks, and even a white Xbox button and bumpers on the sides. The Xbox logo also appears on the ankle strap’s hinges.\n\nMicrosoft and Crocs are also releasing a five-pack of shoe charms for $20, with characters and icons from Halo, Fallout, Doom, World of Warcraft, and Sea of Thieves. \n\nIt’s all part of a collaboration between Crocs and Microsoft that marks 20 years since the Xbox 360 was first released. The company’s Windows XP-themed Crocs were also part of Microsoft’s 50th anniversary celebrations.",
+      "content_length": 929,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nauru president floats returning NZYQ refugees to home countries",
+      "link": "https://www.theguardian.com/world/2025/nov/25/nauru-president-floats-returning-nzyq-refugees-to-home-countries-in-interview-australia-tried-to-suppress",
+      "published": "2025-11-24T20:54:09",
+      "content": "In newly translated excerpts of a February interview, David Adeang wrongly stated the people Australia has begun deporting to his country are not refugeesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNauru may seek to return refugees from the NZYQ cohort to their home countries, the Nauruan president has said in a new translation of a February interview that has been the subject of months-long controversy.David Adeang’s interview erroneously claimed those being sent to Nauru were not refugees and said Nauru may seek to return them to their countries of origin where possible. Continue reading...",
+      "content_length": 668,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition",
+      "link": "https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/",
+      "published": "2025-11-24T20:45:42",
+      "content": "Some members of the maker community are distraught about Arduino’s new terms of service (ToS), saying that the added rules put the company’s open source DNA at risk.\nArduino updated its ToS and privacy policy this month, which is about a month after Qualcomm announced that it’s acquiring the open source hardware and software company. Among the most controversial changes is this addition:\nUser shall not:\n\ntranslate, decompile or reverse-engineer the Platform, or engage in any other activity designed to identify the algorithms and logic of the Platform’s operation, unless expressly allowed by Arduino or by applicable license agreements …\n\n\nIn response to concerns from some members of the maker community, including from open source hardware distributor and manufacturer Adafruit, Arduino posted a blog on Friday. Regarding the new reverse-engineering rule, Arduino’s blog said:Read full article\nComments",
+      "content_length": 910,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "\"Gewitter-im-Kopf\": YouTuber Zimmermann ist gestorben",
+      "link": "https://www.tagesschau.de/inland/jan-zimmermann-gestorben-100.html",
+      "published": "2025-11-24T20:41:00",
+      "content": "   Auf seinem Kanal \"Gewitter im Kopf\" informierte er mit Humor und großer Offenheit über das Leben mit Tourette-Syndrom. Nun ist der YouTuber Jan Zimmermann im Alter von 27 Jahren gestorben.[mehr]",
+      "content_length": 197,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Signal’s secure message backups arrive on iOS",
+      "link": "https://www.theverge.com/news/828091/signal-secure-backups-ios-launch",
+      "published": "2025-11-24T20:29:36",
+      "content": "\n\n\n\t\n\t\t\n\nSignal is launching secure backups on iOS, allowing you to save and restore your messages in case you lose or break your phone. With the free version of the feature, you can store up to 100MB of text messages, along with the past 45 days&#8217; worth of photos, videos, GIFs, and files.\n\nThere’s also a $1.99 per month option that can back up all of your text messages, in addition to up to 100GB of media beyond the 45-day cap. Signal first launched secure backups on Android devices in September, which store your messages and media using end-to-end encryption. You can access your backup using a 64-character recovery key generated on your device, though Signal notes that it can’t help you recover the code if you lose it.\n\nTo enable secure backups, head to the Settings menu and select Backups. From there, tap Setup &gt; Enable Backups and then write down or store your recovery key. Once you confirm your recovery key, you can choose between the free or paid plan. Signal will then begin storing your messages and media.\n\nSignal plans on bringing secure backups to its desktop app, too, and will eventually allow you to transfer your encrypted messaging history between Android, iOS, and desktop.",
+      "content_length": 1212,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rad Power Bikes’ batteries are a fire risk and shouldn’t be used, CPSC warns",
+      "link": "https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc",
+      "published": "2025-11-24T20:26:24",
+      "content": "\n\n\n\t\n\t\t\n\nThe US Consumer Protection Safety Commission issued a stark warning about some of Rad Power Bikes’ e-bike batteries Monday, linking them to dozens of fires and saying they “pose a risk of serious injury and death.”\n\nThe batteries can “unexpectedly ignite and explode,” especially when water or debris leaks in to cells or the harness, the agency says. CPSC says there have been 31 fires, including 12 reports of property damage totaling $734,500, some of which occurred when the battery was not charging and the bike was in storage or not in use. No injuries were reported as a result of the fires. \n\nThe following models are included in the CPSC warning: RadWagon 4, RadCity HS 4, RadRover High Step 5, RadCity Step Thru 3, RadRover Step Thru 1, RadRunner 2, RadRunner 1, RadRunner Plus, and RadExpand 5. According to the agency, the battery model number (HL-RP-S1304 or RP-1304) is printed on a label on the back or rear of the battery. All the batteries were manufactured in China. \n\nRad Power Bikes has “refused to agree to an acceptable recall,” CPSC says in its statement. “Given its financial situation, Rad Power Bikes has indicated to CPSC that it is unable to offer replacement batteries or refunds to all consumers.”\n\nThe Seattle-based company, which is one of the leading sellers of e-bikes in North America, has fallen on hard times recently, in the wake of the post-covid bike boom. Rad Power Bikes is currently facing “significant financial challenges” that could lead to its imminent closure without a cash infusion, GeekWire reported earlier this month. \n\nPoorly made e-bike batteries have been implicated in numerous deadly fires across the US and the UK in recent years. In New York City alone, where tens of thousands of delivery workers ride around on e-bikes every day, dozens of people have been killed in fires linked to faulty lithium-ion batteries. \n\nBut while Rad Power Bikes hasn’t been implicated in any fires that have resulted in injury or fatality, the company was aware that the perception of faulty batteries could certainly hurt its business. Last year, Rad Power Bikes introduced new “Safe Shield” batteries with thermal resistant technology designed to prevent fires. The company injects an epoxy resin into the battery cells, which prevents a chemical reaction in the battery that can cause it to heat up to the point of exploding, also known as a thermal runaway. None of the models listed in the CPSC memo include Safe Shield batteries, Rad Power Bikes director of brand marketing and communications Kelsey Wolf said in an email. \n\nRad Power Bikes has taken other safety steps, too, including shifting to the&nbsp;21,700 cells&nbsp;(21mm in diameter and 70mm in length) from the&nbsp;18,650 cells&nbsp;for its batteries and complying with&nbsp;UL safety certification&nbsp;for both its bikes and batteries.&nbsp;\n\nWolf said the company “strongly disagrees” with CPSC’s characterization of its batteries as defective or unsafe. Independent tests have confirmed that Rad’s batteries conform to the industry’s safety standards, she said, noting that CSPC does not dispute these findings.\n\n“The incident rate associated with the batteries in the CPSC’s notice is a fraction of one percent,” Wolf said in a statement. “While that number is low, we know even one incident is one too many, and we are heartbroken by any report involving our products.”\n\nShe said that Rad Power Bikes is committed to working with CPSC to address its concerns. The company pitched “multiple good-faith solutions,” including offering its customers an opportunity to upgrade to the new thermal resistant batteries at a discount —&nbsp;but CPSC rejected this solution.\n\n“The significant cost of the all-or-nothing demand would force Rad to shut its doors immediately, leaving no way to support our riders or our employees,” Wolf said.  \n\nUpdate November 24th: None of the models flagged by CPCS include Safe shield batteries. The story has been updated to reflect that fact. ",
+      "content_length": 3995,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Why synthetic emerald-green pigments degrade over time",
+      "link": "https://arstechnica.com/science/2025/11/why-synthetic-emerald-green-pigments-degrade-over-time/",
+      "published": "2025-11-24T20:15:47",
+      "content": "The emergence of synthetic pigments in the 19th century had an immense impact on the art world, particularly the availability of emerald-green pigments, prized for their intense brilliance by such masters as Paul Cézanne, Edvard Munch, Vincent van Gogh, and Claude Monet. The downside was that these pigments often degraded over time, resulting in cracks and uneven surfaces and the formation of dark copper oxides—even the release of arsenic compounds.\nNaturally, it’s a major concern for conservationists of such masterpieces. So it should be welcome news that European researchers have used synchrotron radiation and various other analytical tools to determine whether light and/or humidity are the culprits behind that degradation and how, specifically, it occurs, according to a paper published in the journal Science Advances.\nScience has become a valuable tool for art conservationists, especially various X-ray imaging methods. For instance, in 2019, we reported on how many of the oil paintings at the Georgia O’Keeffe Museum in Santa Fe, New Mexico, had been developing tiny, pin-sized blisters, almost like acne, for decades. Chemists concluded that the blisters are actually metal carboxylate soaps, the result of a chemical reaction between metal ions in the lead and zinc pigments and fatty acids in the binding medium used in the paint. The soaps start to clump together to form the blisters and migrate through the paint film.Read full article\nComments",
+      "content_length": 1468,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Grizzly bear that attacked children and teachers in Canada still eludes searchers",
+      "link": "https://www.theguardian.com/world/2025/nov/24/canada-grizzly-bear-attack-search",
+      "published": "2025-11-24T19:48:39",
+      "content": "Eleven people were injured as three teachers fought the bear during attack on walking trail in British ColumbiaConservation officers in British Columbia are still searching for a female grizzly bear and her two cubs, four days after the sow attacked a group of schoolchildren and their teachers in an “exceedingly rare” encounter that has shaken the remote Canadian community.Eleven people, some as young as nine years old, were injured on Thursday when the bear emerged from the forest near 4 Mile, a Nuxalk community near the town Bella Coola and attacked a school group on a lunch break alongside a walking trail. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Surprise envoy pushing Ukraine ‘peace’ plan belies Vance influence on US policy",
+      "link": "https://www.theguardian.com/world/2025/nov/24/ukraine-peace-plan-jd-vance-daniel-driscoll",
+      "published": "2025-11-24T19:43:40",
+      "content": "Army secretary Daniel Driscoll presented a Russian wishlist, highlighting differences with the administrationThe US army secretary, Daniel Driscoll, was an unlikely envoy for the Trump administration’s newest proposal to end the Russian invasion of Ukraine – but his ties to JD Vance have put a close ally of the Eurosceptic vice-president on the frontlines of Donald Trump’s latest push to end the war.Before his trip to Kyiv last week, Driscoll was not known for his role as a negotiator or statesman, and his early efforts at selling the deal to European policymakers were described as turbulent. Continue reading...",
+      "content_length": 619,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-backed Ukraine peace plan: What's at stake?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251124-us-backed-ukraine-peace-plan-what-s-at-stake",
+      "published": "2025-11-24T19:37:32",
+      "content": "This Monday, the US and Ukraine pressed on with talks in Switzerland to come up with a mutually acceptable peace plan. This after agreeing to modify a US proposal that Kyiv and its European allies saw as a Kremlin wish list. The 28-point draft plan includes several long-standing Russian demands, crossing Kyiv’s established red lines and overlooking key European security concerns. Is this plan the basis for a genuine peace deal or destined for failure?",
+      "content_length": 455,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "link": "https://www.tagesschau.de/inland/livestream-ts24-104.html",
+      "published": "2025-11-24T19:29:43",
+      "content": "   Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier live.[mehr]",
+      "content_length": 142,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Handelsminister Lutnick: Niedrigere US-Stahlzölle für gelockerte Digitalregeln?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/us-handelsminister-zolldeal-100.html",
+      "published": "2025-11-24T19:08:22",
+      "content": "   Geringere Zölle auf Stahl für gelockerte EU-Digitalregeln? US-Handelsminister Lutnick deutet Bereitschaft zu einem Deal an. EU-Handelskommissar Sefcovic wird deutlich: Die souveräne Gesetzgebung der EU stünde nicht zur Verhandlung.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan's RSF paramilitary announces unilateral three-month humanitarian ceasefire",
+      "link": "https://www.france24.com/en/live-news/20251124-sudan-s-rsf-paramilitary-announces-unilateral-three-month-humanitarian-ceasefire",
+      "published": "2025-11-24T19:03:59",
+      "content": "Sudan's paramilitary group announced on Monday that it was declaring a unilateral three-month humanitarian ceasefire, a day after its rival the regular army rejected an international ceasefire proposal.",
+      "content_length": 202,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Viele Bahnmitarbeiter zweifeln laut GDL-Umfrage an Warnsystemen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-meldesystem-gdl-umfrage-100.html",
+      "published": "2025-11-24T18:57:38",
+      "content": "   Wie verlässlich sind die sicherheitsrelevanten Meldesysteme der Bahn? Diese Frage stellt sich, nicht zuletzt seit dem Zugunglück bei Garmisch-Partenkirchen 2022, auch die Lokführergewerkschaft GDL - und sieht große Defizite.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US judge dismisses case against former FBI director James Comey",
+      "link": "https://www.france24.com/en/americas/20251124-us-judges-dismisses-case-against-former-fbi-director-james-comey",
+      "published": "2025-11-24T18:57:20",
+      "content": "A US judge on Monday dismissed criminal charges against former FBI Director James Comey and New York Attorney General Letitia James on the grounds that the attorney bringing the cases, who was selected by US President Donald Trump, was unlawfully appointed. The previous attorney declined to pursue charges against Comey or James, citing a lack of credible evidence in both cases.",
+      "content_length": 380,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "It’s official: Boeing’s next flight of Starliner will be allowed to carry cargo only",
+      "link": "https://arstechnica.com/space/2025/11/nasa-confirms-that-starliners-next-mission-will-be-cargo-only/",
+      "published": "2025-11-24T18:55:29",
+      "content": "The US space agency ended months of speculation about the next flight of Boeing’s Starliner spacecraft, confirming Monday that the vehicle will carry only cargo to the International Space Station.\nNASA and Boeing are now targeting no earlier than April 2026 to fly the uncrewed Starliner-1 mission, the space agency said. Launching by next April will require completion of rigorous test, certification, and mission readiness activities, NASA added in a statement.\n“NASA and Boeing are continuing to rigorously test the Starliner propulsion system in preparation for two potential flights next year,” said Steve Stich, manager of NASA’s Commercial Crew Program, in a statement.Read full article\nComments",
+      "content_length": 702,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "US and Israel-backed Gaza Humanitarian Foundation to end operations in territory",
+      "link": "https://www.theguardian.com/world/2025/nov/24/us-and-israel-backed-gaza-humanitarian-foundation-to-end-operations-in-territory",
+      "published": "2025-11-24T18:10:52",
+      "content": "Four main food distribution sites operated by the opaque company had been flashpoints of deadly violence A controversial and secretive private company backed by the US and Israel that distributed food in Gaza has announced the end of its operations in the devastated territory.The Gaza Humanitarian Foundation (GHF), which had four food distribution sites that became flashpoints of chaos and deadly violence between May and October, said in a statement that it would shut down permanently, having “successfully completed its emergency mission”. Continue reading...",
+      "content_length": 565,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Court ruling to remove children of UK-Australian couple living in woods divides Italy",
+      "link": "https://www.theguardian.com/world/2025/nov/24/italian-court-ruling-to-take-children-from-family-living-in-woods-labelled-kidnapping-by-deputy-pm",
+      "published": "2025-11-24T17:55:28",
+      "content": "Decision to remove children comes after they and their parents ate poisonous mushrooms and ended up in hospitalThe decision by an Italian court to remove three children being brought up in the woods from their British-Australian parents has sparked a fierce debate in the country over alternative lifestyles.Nathan Trevallion, a former chef from Bristol, and his wife, Catherine Birmingham, a former horse-riding teacher from Melbourne, bought a dilapidated property in a wooded area in Palmoli, in the central Italian region of Abruzzo, in 2021. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Saint Catherine's Day: a medieval tradition turned haute couture ritual",
+      "link": "https://www.france24.com/en/video/20251124-saint-catherine-s-day-a-medieval-tradition-turned-haute-couture-ritual",
+      "published": "2025-11-24T17:52:07",
+      "content": "Why do French haute couture employees celebrate the 25th of November wearing fancy hats?\n \nThe origins of this tradition date all the way back to the Middle Ages, and are linked to the patron saint of unwed women Saint Catherine.\n \n And in case you’re wondering why all the hats are yellow and green: yellow represented faith and green hope… to find a husband!",
+      "content_length": 360,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France grants drug trafficker day release to meet potential employer, sparking outrage",
+      "link": "https://www.france24.com/en/live-news/20251124-france-allows-drug-trafficker-day-release-from-supermax-prison",
+      "published": "2025-11-24T17:43:10",
+      "content": "The French prison service granted a notorious drug trafficker day release from a maximum security prison on Monday so that he could go and meet a prospective employer. The decision sparked outrage in France, where the recent murder of an anti-trafficking activist's brother in Marseille has reignited calls to tackle drug crime.",
+      "content_length": 328,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump hints support for fringe theory that Venezuela rigged 2020 election",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/trump-conspiracy-venezuela-2020-election",
+      "published": "2025-11-24T17:14:54",
+      "content": "President’s comment implies hostility to Venezuela may be based on unfounded election-rigging conspiracy theoryDonald Trump on Sunday appeared to endorse the discredited conspiracy theory that Venezuela’s leadership controls electronic voting software worldwide and caused his 2020 election defeat to Joe Biden.White House officials have previously said that Trump’s increasingly bellicose policy toward Venezuela is driven by concerns about migration and the drug trade. But the president’s new comment, made on Truth Social, hints that his hostility to Venezuela may also be based on an outlandish, implausible theory ruled to be false by a judge in 2023. Continue reading...",
+      "content_length": 677,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Schulen in Nigeria schließen wegen Entführungswelle",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-entfuehrungen-schulen-100.html",
+      "published": "2025-11-24T17:12:51",
+      "content": "   In Nigeria lösen Massenentführungen Entsetzen aus. Deshalb wurden nun fast 50 Internate und Colleges geschlossen. Bewaffnete Gruppen haben sich auf Kidnappings und das Erpressen von Lösegeld spezialisiert. Von Bettina Rühl.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Will Ukraine receive any 'meaningful security guarantees from its Western allies'?",
+      "link": "https://www.france24.com/en/video/20251124-will-ukraine-receive-any-meaningful-security-guarantees-from-its-western-allies",
+      "published": "2025-11-24T17:06:14",
+      "content": "The Kremlin on Monday said that a European counter-proposal to a U.S. 28-point peace plan for Ukraine was not constructive and that it simply did not work for Moscow. The publication of the 28-point draft U.S. peace plan last week deepened concerns in Ukraine and among European powers that Russia's core demands on NATO, territory and the chronology of any peace deal had been accepted by Washington. For in-depth analysis and a deeper perspective, Angela Diffley welcomes John Lough, Associate Fellow for the Russia and Eurasia Program at Chatham House and Senior Research Fellow / Head of Foreign Policy & International Partnerships at the New Eurasian Strategies Centre.",
+      "content_length": 674,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Disarray over leaked US-Russia peace plan is ideal scenario for Putin",
+      "link": "https://www.theguardian.com/world/2025/nov/24/disarray-over-leaked-us-russia-peace-plan-is-ideal-scenario-for-putin",
+      "published": "2025-11-24T17:04:52",
+      "content": "Ukraine has been cornered into weighing terms it cannot accept and faces threat of losing its most important allyThe Kremlin has barely lifted a finger in recent days. It hasn’t needed to.The 28-point US-Russia peace proposal, leaked to the media last week, has thrown Washington, Kyiv and European capitals into disarray, creating precisely the conditions Vladimir Putin has long sought: a negotiating table sharply tilted in the Russian president’s favour, with Ukraine cornered into weighing terms it cannot accept and the threat of losing its most important ally hanging over its head. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "IW-Studie: Deutschland hat höchste Sozialausgaben in Europa",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sozialausgaben-rente-kosten-rentenstreit-iw-studie-100.html",
+      "published": "2025-11-24T17:04:26",
+      "content": "   Rund 41 Prozent der gesamten deutschen Staatsausgaben fließen in die soziale Sicherung. Das ist einer Studie zufolge mehr als überall sonst in Europa. Der DGB, die Linkspartei und der Paritätische kritisieren jedoch die Methodik.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Seit 12.000 Jahren schlafender Vulkan in Äthiopien ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/afrika/vulkan-aethiopien-ausbruch-100.html",
+      "published": "2025-11-24T16:54:02",
+      "content": "   Jahrtausende hat der Vulkan Hayli Gubbi in Äthiopien geschlafen - nun ist er ausgebrochen. Todesopfer oder Schäden gibt es offenbar nicht. Eine kilometerhohe Aschewolke zog vom Horn von Afrika über die Arabische Halbinsel. [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Severe floods in Thailand displace thousands",
+      "link": "https://www.france24.com/en/video/20251124-severe-floods-in-thailand-displace-thousands",
+      "published": "2025-11-24T16:48:15",
+      "content": "🇹🇭 Thousands were evacuated as torrential rainfall and floods hit southern #Thailand, leaving at least eight people dead.\n \nFlooding and landslides have hit parts of #Malaysia and #Vietnam as well in recent weeks.\n \nExperts said the region is likely to receive more intense rainfall owing to #LaNina and long-term global warming.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France wants to bring voluntary military service back",
+      "link": "https://www.france24.com/en/video/20251124-france-wants-to-bring-voluntary-military-service-back",
+      "published": "2025-11-24T16:44:49",
+      "content": "War looms once again on European soil, as top military officials recently sparked controversy by suggesting the potential sacrifice of children in future conflicts. In response to growing security concerns, France is considering reinstating military service on a voluntary basis, signalling a renewed focus on national defence and preparedness, as FRANCE 24's Marc Perelman explains.",
+      "content_length": 383,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli army fires top commanders over October 7 failures",
+      "link": "https://www.france24.com/en/video/20251124-israeli-army-fires-top-commanders-over-october-7-failures",
+      "published": "2025-11-24T16:41:55",
+      "content": "Israel’s military chief dismissed several senior officers and reprimanded others over failures during Hamas’ surprise attack on October 7, 2023, which killed around 1,200 Israelis and left 250 hostages. Former heads of intelligence, operations, and southern command were released from reserve duty, while others faced formal reprimands or ended their service.",
+      "content_length": 359,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France to reintroduce voluntary military service with eye on European security",
+      "link": "https://www.france24.com/en/video/20251124-france-to-reintroduce-voluntary-military-service-with-eye-on-european-security",
+      "published": "2025-11-24T16:40:21",
+      "content": "With war looming near Europe, French President Emmanuel Macron plans to introduce a voluntary military service starting next year. Young volunteers aged 18 could serve for 10 months with pay, aiming for 3,000 recruits in 2026 and 50,000 by 2035. The initiative comes amid security concerns, echoing warnings from France’s military leadership, while other European countries like Belgium and Germany are considering similar programs.",
+      "content_length": 432,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU leaders welcome ‘new momentum’ in Ukraine peace talks but stress red lines on territory – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/24/ukraine-russia-war-peace-talks-europe-us-trump-germany-latest-updates",
+      "published": "2025-11-24T16:36:10",
+      "content": "Swedish PM says Russia ‘must be forced to the negotiating table’ as European leaders meet in Angola to discuss Geneva talksUS and Ukraine promise ‘updated’ peace framework after criticism of pro-Russian points in original planRussian air defences downed a Ukrainian drone en route to Moscow on Monday, the city’s mayor said as reported by Reuters, forcing three airports that serve the capital to temporarily restrict all incoming and outgoing flights.Moscow mayor Sergei Sobyanin said in a statement that emergency services were working at the scene of the downed drone. Continue reading...",
+      "content_length": 591,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gaza Humanitarian Foundation ends controversial mission in Palestinian enclave",
+      "link": "https://www.france24.com/en/middle-east/20251124-gaza-humanitarian-foundation-ends-controversial-mission-in-palestinian-enclave",
+      "published": "2025-11-24T16:27:18",
+      "content": "Gaza Humanitarian Foundation on Monday announced the end of its mission in the war-torn Palestinian enclave. The US- and Israeli-backed organisation controversially took over aid distribution at the height of Israel's military operation in Gaza blocking out traditional aid organisations including the UN.",
+      "content_length": 305,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Remembering Jamaican reggae star Jimmy Cliff",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251124-remembering-jamaican-reggae-star-jimmy-cliff",
+      "published": "2025-11-24T16:19:49",
+      "content": "One of the reggae artists who brought the genre to the world has passed away aged 81. Jimmy Cliff's widow announced on social media that he had died following a seizure and pneumonia. The Grammy Award winner worked with artists ranging from The Rolling Stones to Kool and the Gang. FRANCE 24's culture editor Marjorie Hache looks back at Cliff's career and how he broke out as an international music star.",
+      "content_length": 405,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "COP in Brasilien ist zuende - Wissenschaftler sind nicht zufrieden",
+      "link": "https://www.tagesschau.de/wissen/klima/cop-klimakonferenz-abschluss-ergebnisse-erderwaermung-100.html",
+      "published": "2025-11-24T16:14:10",
+      "content": "   Das Abkommen der COP30 hat nicht alle Länder zufriedengestellt. Klimaökonom Edenhofer sagt, künftig werde es darum gehen, Wege zu finden, wie kleinere Koalitionen von Ländern belastbare Schritte in die richtige Richtung tun können. [mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wohin steuert die deutsche Klimapolitik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-klimapolitik-klimakonferenz-100.html",
+      "published": "2025-11-24T16:13:58",
+      "content": "   Die Weltklimakonferenz in Brasilien hat gemessen am eigenen Anspruch kaum etwas erreicht. Die deutsche Delegation reist müde und ernüchtert zurück. Auch in Deutschland steht die Klimapolitik unter Druck. Von Dominic Hebestreit.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Venezuela accuses US of using ‘narco-terrorism’ allegations to justify ‘regime change’",
+      "link": "https://www.theguardian.com/world/2025/nov/24/venezuela-maduro-us-drug-cartel-terrorism",
+      "published": "2025-11-24T16:08:31",
+      "content": "Venezuelan group known as Cartel of the Suns designated as terrorist organization despite doubts over its existenceDeadly airstrikes and a military buildup: how the US pressure campaign against Venezuela has unfolded in the CaribbeanVenezuela’s government has accused the US of peddling “ridiculous hogwash” about its supposed role in sponsoring “narco-terrorism” as Washington continued to turn up the heat on Nicolás Maduro’s regime and leftwing European politicians warned South America faced being plunged into “a torrent of bloodshed”.On Monday, the Trump administration officially designated a Venezuelan group known as the “Cartel de los Soles” (the Cartel of the Suns) a terrorist organization – despite widespread doubts over its actual existence. Continue reading...",
+      "content_length": 776,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Offenbar wieder Tote bei Angriffen trotz Waffenruhe im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-waffenruhe-tote-100.html",
+      "published": "2025-11-24T15:51:41",
+      "content": "   Eigentlich gilt im Gaza-Krieg seit dem 10. Oktober eine Waffenruhe. Zuletzt kam es trotzdem immer wieder zu gewaltsamen Zwischenfällen. Bei neuer Gewalt wurden offenbar vier Menschen getötet.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "anaiis on her new album: 'I wanted to go back to places that moved me'",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251124-anaiis-on-her-new-album-i-wanted-to-go-back-to-places-that-moved-me",
+      "published": "2025-11-24T15:50:55",
+      "content": "This week on arts24, Marjorie Hache talks to anaiis, a Franco-Senegalese artist who makes beautifully textured R'n'B and who has just released \"Devotion & The Black Divine\", which touches on the fate of the Afro-Caribbean diaspora and seeks comfort in nature. Her music also extends into film, with anaiis producing stunning music videos.",
+      "content_length": 338,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UK rejects Nigerian request to deport former politican jailed for organ trafficking",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/24/uk-rejects-nigerian-request-to-deport-former-politican-ike-ekweremadu-jailed-for-organ-trafficking",
+      "published": "2025-11-24T15:46:29",
+      "content": "Ike Ekweremadu serving prison sentence after being found guilty of conspiring to exploit a man for his kidneyThe UK government has rejected a request by Nigeria to deport a former senior Nigerian politician convicted of organ trafficking.Ike Ekweremadu, 63, a former deputy president of the Nigerian senate and ally of the former president Goodluck Jonathan, is serving a sentence of nine years and eight months after being found guilty in 2023 of conspiring to exploit a man for his kidney. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reggae-Legende Jimmy Cliff im Alter von 81 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/jimmy-cliff-reggae-100.html",
+      "published": "2025-11-24T15:20:03",
+      "content": "   Der Jamaikaner machte mit seiner Musik den Reggae weltweit berühmt. Zu seinen größten Hits zählen \"I can see clearly now\" und \"You Can Get it If You Really Want\". Cliff starb mit 81 Jahren.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verhandlungen über Plan für Ukraine: Spärliche Reaktionen aus dem Kreml",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-genf-gespraeche-100.html",
+      "published": "2025-11-24T15:09:22",
+      "content": "   Was sagt Russland zu dem, was in Genf in Sachen Ukraine besprochen wurde? Die Reaktionen aus dem Kreml sind bislang spärlich: Man verfolge die Medienberichte. Ein Treffen mit russischen Vertretern sei aktuell nicht geplant. Von B. Blaschke.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fahrradhersteller Woom: IT-Einbruch durch Cybergang INC Ransom",
+      "link": "https://www.heise.de/news/Fahrradhersteller-Woom-IT-Einbruch-durch-Cybergang-INC-Ransom-11089829.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-24T15:05:00",
+      "content": "Vor zwei Wochen gab es einen IT-Einbruch beim Kinderradhersteller Woom. Die Cybergang INC Ransom droht mit Datenveröffentlichung.",
+      "content_length": 129,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "F1 in Las Vegas: This sport is a 200 mph soap opera",
+      "link": "https://arstechnica.com/cars/2025/11/f1-in-las-vegas-this-sport-is-a-200-mph-soap-opera/",
+      "published": "2025-11-24T14:54:44",
+      "content": "AT&amp;T provided flights from Washington, DC, to Las Vegas and accommodation so Ars could attend the Las Vegas Grand Prix. Ars does not accept paid editorial content.\nLAS VEGAS—Formula 1 held the third annual Las Vegas Grand Prix this past weekend in the Nevada city. The race is an outlier in so many ways, and a divisive one at that. Some love the bright lights that make it appear to be set in Mega-City One or F-Zero. Others resent the rampant commercialism of F1 at its most excessive. And this time, Ars was on the ground, making one of our periodic visits to the series. The race we saw was something of a damp squib, seemingly leaving McLaren’s Lando Norris in control of the championship.\nAt least that’s how it looked when I left the track on Saturday night. Within a few hours, Norris and his teammate (and one of his two title rivals) Oscar Piastri were both disqualified for having worn away too much of the “legality plank” underneath the car—more on that in a while.\n\n      I was &lt;a href=\"https://arstechnica.com/cars/2023/11/f1-succeeds-in-making-its-las-vegas-debut-a-spectacular-one/\"&gt;a huge skeptic of the idea&lt;/a&gt; when the Las Vegas race was announced, but the first two events put on a good show. Year 3 was a little more dull, however.\n        Credit:\n           Clive Mason/Getty Images\n      \nEmblematic of the new F1\nUnlike most Grands Prix, Liberty Media promotes this one itself. It spent half a billion dollars to get ready for the 2023 event, some of that on the pit lane and paddock complex, yet more on resurfacing the roads to the standards preferred by these thoroughbred racing cars. The track layout—which looks like a pig on its back—is typical of North American street circuits.Read full article\nComments",
+      "content_length": 1754,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wirtschaftsverbände diskutieren über ihre Haltung zur AfD",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/verbaende-haltung-afd-familienunternehmen-100.html",
+      "published": "2025-11-24T14:29:38",
+      "content": "   Einige Wirtschaftsverbände wollen ihren Umgang mit der AfD überdenken. Der Verband Die Familienunternehmer gibt seine bisherige \"Brandmauer-Strategie\" auf.[mehr]",
+      "content_length": 164,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UK government will buy tech to boost AI sector in $130M growth push",
+      "link": "https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/",
+      "published": "2025-11-24T14:17:29",
+      "content": "The UK government will promise to buy emerging chip technology from British companies in a 100 million pound ($130 million) bid to boost growth by supporting the artificial intelligence sector.\nLiz Kendall, the science secretary, said the government would offer guaranteed payments to British startups producing AI hardware that can help sectors such as life sciences and financial services.\nUnder a “first customer” promise modeled on the way the government bought COVID vaccines, Kendall’s department will commit in advance to buying AI inference chips that meet set performance standards.Read full article\nComments",
+      "content_length": 617,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kehrtwende: Google will JPEG XL in Chrome zurückbringen",
+      "link": "https://www.heise.de/news/Kehrtwende-Google-will-JPEG-XL-in-Chrome-zurueckbringen-11089683.html",
+      "published": "2025-11-24T14:17:00",
+      "content": "Drei Jahre nach der Entfernung will Google JPEG XL wieder in Chrome integrieren. Zuvor hatten unter anderem Safari und Firefox ihre Positionen geändert.",
+      "content_length": 152,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Was ist der Stand bei den Verhandlungen zum Kriegsende in der Ukraine?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kriegsende-plan-verhandlungen-100.html",
+      "published": "2025-11-24T14:15:18",
+      "content": "   Nach der Verwirrung um den sogenannten US-Friedensplan für die Ukraine wird das Papier nun überarbeitet. Was weiß man über den Stand der Verhandlungen? Und wie soll es jetzt weitergehen? Ein Überblick.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Europäer verbuchen Ukraine-Verhandlungen in Genf als Erfolg",
+      "link": "https://www.tagesschau.de/ausland/genf-verhandlungen-ukraine-europaeer-100.html",
+      "published": "2025-11-24T14:11:57",
+      "content": "   Von neuem Schwung und neuer Dynamik ist die Rede: Wenn es nach Einschätzung der Europäer geht, tragen die Verhandlungen zum sogenannten US-Friedensplan Früchte. Die Ukraine dürfe zu nichts gezwungen werden, stellten EU-Spitzen klar.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EZB warnt vor Risiken durch Stablecoins für Banken der Euro-Zone",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/stablecoin-ezb-banken-risiko-finanzstabilitaet-100.html",
+      "published": "2025-11-24T13:53:54",
+      "content": "   Die EZB warnt vor den Risiken sogenannter Stablecoins für Europas Banken. Ein Boom dieser Digital-Anlagen könnte zu Abflüssen von Privatkunden führen. Weitere Gefahren drohen, sollten Investoren Vertrauen verlieren.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gab es gezielte Kontokündigungen für AfD-Mitglieder?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-kontokuendigungen-banken-100.html",
+      "published": "2025-11-24T13:53:30",
+      "content": "   Der AfD-Politiker Gottschalk erhebt Vorwürfe gegen verschiedene Banken in Deutschland. Sie hätten Parteikollegen wegen ihrer AfD-Zugehörigkeit das Bankkonto gekündigt. Was ist an den Vorwürfen dran? Von Kilian Pfeffer.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Shai-Hulud 2: Neue Version des NPM-Wurms greift auch Low-Code-Plattformen an",
+      "link": "https://www.heise.de/news/Shai-Hulud-2-Neue-Version-des-NPM-Wurms-greift-auch-Low-Code-Plattformen-an-11089607.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-24T13:51:00",
+      "content": "Die Angreifer haben aus ihren Fehlern gelernt und nun eine aggressivere Version des Wurms entwickelt. Der hat bereits über 27.000 Zugangsdaten geklaut.",
+      "content_length": 151,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shai-Hulud 2: Neue Version des NPM-Wurms greift auch Low-Code-Plattformen an",
+      "link": "https://www.heise.de/news/Shai-Hulud-2-Neue-Version-des-NPM-Wurms-greift-auch-Low-Code-Plattformen-an-11089607.html",
+      "published": "2025-11-24T13:51:00",
+      "content": "Die Angreifer haben aus ihren Fehlern gelernt und nun eine aggressivere Version des Wurms entwickelt. Der hat bereits über 27.000 Zugangsdaten geklaut.",
+      "content_length": 151,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "SQL Server 2025 ist da",
+      "link": "https://www.heise.de/news/SQL-Server-2025-ist-da-11089596.html",
+      "published": "2025-11-24T13:47:00",
+      "content": "Microsoft integriert erstmals KI-Funktionen direkt in SQL Server. Die neue Version bringt zudem JSON-Support und ändert das Lizenzmodell.",
+      "content_length": 137,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bayer setzt große Hoffnungen in neues Medikament",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/bayer-medikament-blockbuster-100.html",
+      "published": "2025-11-24T13:19:19",
+      "content": "   Die Bayer-Aktie ist zu Wochenbeginn der mit Abstand größte Gewinner im DAX. Hintergrund sind positive Studienergebnisse für einen Gerinnungshemmer - Experten trauen dem Medikament \"Blockbuster-Potenzial\" zu. [mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ethiopian volcano erupts for first time in 12,000 years",
+      "link": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years",
+      "published": "2025-11-24T13:05:28",
+      "content": "Ash clouds from Hayli Gubbi volcano sent drifting across the Red Sea toward Yemen and OmanA volcano in Ethiopia’s north-eastern region has erupted for the first time in nearly 12,000 years, sending thick plumes of smoke up to 9 miles (14km) into the sky, and across the Red Sea toward Yemen and Oman.The Hayli Gubbi volcano, located in Ethiopia’s Afar region about 500 miles north-east of Addis Ababa near the Eritrean border, erupted on Sunday for several hours. Continue reading...",
+      "content_length": 483,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Dharmendra, Bollywood’s ‘He Man’ and one of its most enduring stars, dies at 89",
+      "link": "https://www.theguardian.com/world/2025/nov/24/dharmendra-bollywood-he-man-enduring-star-dies",
+      "published": "2025-11-24T12:51:45",
+      "content": "India’s prime minister among those paying  tribute to celebrated actor whose career spanned six decadesDharmendra, one of the most enduring stars of India’s Bollywood cinema, has died at the age of 89.Born Dharam Singh Deol, but later known as Dharmendra, he rose to fame in the 1960s and became one of the most celebrated and popular stars of Indian cinema in a career that spanned six decades. Continue reading...",
+      "content_length": 415,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Expertenkommission zum Schutz von Prostituierten nimmt Arbeit auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommission-schutz-prostituierte-100.html",
+      "published": "2025-11-24T12:48:39",
+      "content": "   Eine Kommission aus Experten soll Maßnahmen zum Schutz von Prostituierten erarbeiten. Eingesetzt wurde sie von Bundesfamilienministerin Prien. Einer Parteikollegin der CDU-Politikerin schwebt aber ein anderer Weg vor.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science",
+      "link": "https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/",
+      "published": "2025-11-24T12:30:32",
+      "content": "The company that pioneered small launch has had a big year.\nRocket Lab broke its annual launch record with the Electron booster—17 successful missions this year, and counting—and is close to bringing its much larger Neutron rocket to the launch pad.\nThe company also expanded its in-space business, including playing a key role in supporting the landing of Firefly’s Blue Ghost mission on the Moon and building two small satellites just launched to Mars.Read full article\nComments",
+      "content_length": 480,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Studie ermittelt riesigen Finanzbedarf für Infrastruktur",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/finanzbedarf-fuer-infrastruktur-100.html",
+      "published": "2025-11-24T12:16:57",
+      "content": "   Eine neue Studie hat einen riesigen öffentlichen Finanzbedarf für den Verkehr ermittelt: fast 400 Milliarden Euro bis 2030. Wo soll so viel Geld herkommen? Die Autoren machen kontroverse Vorschläge.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Libanon: Über Krieg oder Frieden entscheiden andere",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-126.html",
+      "published": "2025-11-24T12:07:53",
+      "content": "   Israels Militär hat bei einem Angriff in Beirut einen Anführer der Hisbollah getötet. Dem Libanon führt der Schlag die eigene Schwäche vor Augen - und zeigt, wie sehr die seit fast einem Jahr geltende Waffenruhe in Gefahr ist. Von M. Behrendt.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "“Go generate a bridge and jump off it”: How video pros are navigating AI",
+      "link": "https://arstechnica.com/features/2025/11/go-generate-a-bridge-and-jump-off-it-how-video-pros-are-navigating-ai/",
+      "published": "2025-11-24T12:00:00",
+      "content": "In 2016, the legendary Japanese filmmaker Hayao Miyazaki was shown a bizarre AI-generated video of a misshapen human body crawling across a floor.\nMiyazaki declared himself “utterly disgusted” by the technology demo, which he considered an “insult to life itself.”\n“If you really want to make creepy stuff, you can go ahead and do it,” Miyazaki said. “I would never wish to incorporate this technology into my work at all.”Read full article\nComments",
+      "content_length": 449,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zwei Folgen software-architektur.tv: KI in Dokumentation und Architektur",
+      "link": "https://www.heise.de/news/Zwei-Folgen-software-architektur-tv-KI-in-Dokumentation-und-Architektur-11089100.html",
+      "published": "2025-11-24T11:37:00",
+      "content": "In zwei Live-Folgen vom Software Architecture Gathering geht es am 25. November um die Rolle von KI in der Software-Dokumentation und in der -Architektur.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Löst Afrikas Rohstoff-Eisenbahn Europas Probleme?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-afrika-gipfel-134.html",
+      "published": "2025-11-24T11:33:51",
+      "content": "   In Angola treffen sich Vertreter von Europäischer und Afrikanischer Union. Ihr Ziel: die Zusammenarbeit beider Kontinente zu stärken - auch wirtschaftlich. Ein Projekt steht dabei im Fokus. Von C. Feld und O. Chladkova.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "WinBoat 0.9.0: Windows-Programme für Linux virtualisieren",
+      "link": "https://www.heise.de/news/WinBoat-0-9-0-Windows-Programme-fuer-Linux-virtualisieren-11089174.html",
+      "published": "2025-11-24T11:29:00",
+      "content": "Mit Version 0.9.0 bringt WinBoat Podman-Support und kann UWP-Anwendungen ausführen. WinBoat ist eine Container-basierten Windows-Umgebung für Linux.",
+      "content_length": 148,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Deutscher Schauspieler Udo Kier im Alter von 81 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/udo-kier-schauspieler-nachruf-100.html",
+      "published": "2025-11-24T11:21:14",
+      "content": "   Mit seinem stechenden Blick als Markenzeichen war Udo Kier in Hollywood so erfolgreich wie kaum ein anderer deutscher Schauspieler. Nun ist er im Alter von 81 Jahren gestorben. Seiner Heimatstadt Köln blieb er immer eng verbunden. Von R. Spiegelhauer.[mehr]",
+      "content_length": 260,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Das Ende der Captchas – Agenten steuern Firefox per API wie ein Mensch",
+      "link": "https://www.heise.de/news/Das-Ende-der-Captchas-Agenten-steuern-Firefox-per-API-wie-ein-Mensch-11089140.html",
+      "published": "2025-11-24T11:16:00",
+      "content": "Über eine neue API steuern KI-Agenten den Mozilla-Browser wie ein Mensch: Sie extrahieren Infos, füllen Formulare aus und erledigen komplexe Workflows.",
+      "content_length": 151,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Betrunkener Lokführer stoppt Regionalexpress auf freier Strecke",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/betrunkener-lokfuehrer-nrw-100.html",
+      "published": "2025-11-24T11:03:00",
+      "content": "   Offenbar mit knapp 2,7 Promille Alkohol im Blut hat ein Lokführer einen Regionalexpress durch Nordrhein-Westfalen gesteuert. Als er statt am Bahnhof auf freier Strecke hielt, fiel sein Zustand auf. Der Zug wurde evakuiert.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Geschäftsklima: ifo-Index sinkt überraschend",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-konjunktur-stimmung-sinkt-100.html",
+      "published": "2025-11-24T10:31:34",
+      "content": "   Die Hoffnungen auf eine Belebung der deutschen Konjunktur lassen nach. In den deutschen Chefetagen herrscht Pessimismus, der ifo-Geschäftsklimaindex hat sich im November wieder eingetrübt. [mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Questions for UK embassy in Tel Aviv over employee who owns home in illegal settlement",
+      "link": "https://www.theguardian.com/world/2025/nov/24/questions-for-uk-embassy-in-tel-aviv-over-employee-who-owns-home-in-settlement",
+      "published": "2025-11-24T10:08:04",
+      "content": "Embassy’s employment of Gila Ben-Yakov Phillips is potentially violation of UK sanctions law, say expertsThe British embassy in Tel Aviv may have broken both UK sanctions law and UK government security policies by employing an Israeli citizen who owns a home in an illegal settlement in occupied Palestine, legal experts have said.The embassy’s deputy head of corporate services and HR, Gila Ben-Yakov Phillips, moved to Kerem Reim in 2022. She listed a house she bought there as her home address on financial documents at the time. Continue reading...",
+      "content_length": 552,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Slowenien: Mehrheit der Wähler stimmt gegen Sterbehilfe-Gesetz",
+      "link": "https://www.tagesschau.de/ausland/europa/slowenien-referendum-sterbehilfe-100.html",
+      "published": "2025-11-24T09:34:02",
+      "content": "   Erst im Juli hatte das slowenische Parlament die Legalisierung der Sterbehilfe verabschiedet. Nun haben sich die Slowenen in einem Referendum gegen das Gesetz entschieden - ein Triumph für die Kirche und teils rechte Aktivisten.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg: Internetbeschränkungen in Russland mit immer heftigeren Folgen",
+      "link": "https://www.heise.de/news/Ukraine-Krieg-Internetbeschraenkungen-in-Russland-mit-immer-heftigeren-Folgen-11088797.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-24T09:28:00",
+      "content": "Um Drohnen aus der Ukraine zu blockieren, schränkt Russland immer öfter das mobile Internet ein. Die Folgen sind immens – und teils wohl unvorhergesehen.",
+      "content_length": 153,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bayern: \"Kein Verlass allein auf Open Source\"",
+      "link": "https://www.heise.de/news/Digitalstrategie-Bayern-setzt-auf-zentrale-Infrastruktur-Microsoft-Bayern-KI-11088687.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-24T09:18:00",
+      "content": "Bayern will eine zentrale IT-Infrastruktur aufbauen – mit an Bord sind die Anstalt für Kommunale Datenverarbeitung in Bayern, aber auch Microsoft.",
+      "content_length": 146,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google Assistant: Nur noch wenige Monate auf Smartphones",
+      "link": "https://www.heise.de/news/Google-Assistant-Nur-noch-wenige-Monate-auf-Smartphones-11088749.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-24T08:32:00",
+      "content": "Google hat dem Google Assistant ein Ablaufdatum auf Smartphones verpasst. Ab März 2026 ist Schluss, danach gibt es nur noch Gemini. \n",
+      "content_length": 133,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
