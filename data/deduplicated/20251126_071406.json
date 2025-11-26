@@ -1,0 +1,1391 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-26T07:14:06.507345",
+    "deduplicated_at": "2025-11-26 07:14:06",
+    "lookback_days": 7,
+    "total_input": 1129,
+    "duplicates_removed": 976,
+    "new_articles": 153,
+    "deduplication_rate": "86.4%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "Nahost - Israelische Armee startet neuen Einsatz im Norden des Westjordanlands",
+      "link": "https://www.deutschlandfunk.de/israelische-armee-startet-neuen-einsatz-im-norden-des-westjordanlands-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Israel hat eine neue Militäroperation im besetzten Westjordanland begonnen.",
+      "content_length": 75,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Trump: Keine feste Frist für Friedensabkommen",
+      "link": "https://www.deutschlandfunk.de/trump-keine-feste-frist-fuer-friedensabkommen-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "US-Präsident Trump ist von einer zuvor angedeuteten Frist für ein Friedensabkommen zwischen der Ukraine und Russland abgerückt. Das Zieldatum sei für ihn, wenn es vorbei sei, sagte Trump vor Journalisten. Zuvor hatte er den morgigen Tag als Frist für eine Einigung benannt.",
+      "content_length": 273,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Virtuelle Beratungen - Ukraine-Unterstützer werben für robuste Sicherheitsgarantien",
+      "link": "https://www.deutschlandfunk.de/ukraine-unterstuetzer-werben-fuer-robuste-sicherheitsgarantien-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Die westlichen Unterstützer der Ukraine wollen die Ausgestaltung von Sicherheitsgarantien für das Land beschleunigen. Das erklärten die Vorsitzenden der sogenannten Koalition der Willigen nach einem virtuellen Treffen, wie die Bundesregierung am Abend mitteilte.",
+      "content_length": 262,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Grüne zitieren Dobrindt wegen schutzsuchenden Afghanen vor Innenausschuss",
+      "link": "https://www.deutschlandfunk.de/gruene-zitieren-dobrindt-wegen-schutzsuchenden-afghanen-vor-innenausschuss-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Die Grünen haben eine Sondersitzung des Bundestagsinnenausschusses durchgesetzt. Dort soll heute Bundesinnenminister Dobrindt zur Lage der in Pakistan festsitzenden rund 1.900 Afghanen Stellung nehmen, die für Deutschland eine Aufnahmezusage besitzen.",
+      "content_length": 251,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Amtszeit endet - Vereinte Nationen suchen Nachfolger für UNO-Generalsekretär Guterres",
+      "link": "https://www.deutschlandfunk.de/vereinte-nationen-suchen-nachfolger-fuer-uno-generalsekretaer-guterres-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Bei den Vereinten Nationen hat die Suche nach einem Nachfolger für UNO-Generalsekretär Guterres begonnen.",
+      "content_length": 105,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Nato-Generalsekretär Rutte dämpft Hoffnung auf schnellen Frieden - Vorwurf der Russlandfreundlichkeit gegen Witkoff",
+      "link": "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-daempft-hoffnung-auf-schnellen-frieden-vorwurf-der-russlandfreundlichkei-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "NATO-Generalsekretär Rutte hat die Hoffnung auf einen schnellen Frieden in der Ukraine gedämpft.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeshaushalt 2026 - Regierung und Opposition debattieren heute in Generaldebatte",
+      "link": "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-heute-in-generaldebatte-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "In der Haushaltswoche des Bundestages geht es heute um den Etat des Kanzleramts. Die sogenannte Generaldebatte wird traditionell für einen allgemeinen Schlagabtausch über die Politik der Regierung genutzt.",
+      "content_length": 205,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Politische Beteiligung - Schwarz-rote Koalition will Idee der Bürgerräte offenbar nicht fortführen",
+      "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-will-idee-der-buergerraete-offenbar-nicht-fortfuehren-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Die schwarz-rote Koalition wird die Idee von Bürgerräten begleitend zur Parlamentsarbeit im Bundestag offenbar nicht fortführen.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Taiwan - Präsident Lai legt milliardenschweres Sonderbudget für Verteidigung vor",
+      "link": "https://www.deutschlandfunk.de/praesident-lai-legt-milliardenschweres-sonderbudget-fuer-verteidigung-vor-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Taiwans Präsident Lai Ching-te will die Verteidigungsausgaben des Landes deutlich erhöhen.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Touristen müssen höhere Eintrittspreise für Nationalparks zahlen",
+      "link": "https://www.deutschlandfunk.de/touristen-muessen-hoehere-eintrittspreise-fuer-nationalparks-zahlen-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Der Besuch von US-Nationalparks wie dem Grand Canyon oder Yellowstone wird für ausländische Touristen ab Januar deutlich teurer.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Unwetter - Überschwemmungen in Zelt-Unterkünften im Gazastreifen",
+      "link": "https://www.deutschlandfunk.de/ueberschwemmungen-in-zelt-unterkuenften-im-gazastreifen-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Im Gazastreifen haben starke Regenfälle zu Überschwemmungen geführt.",
+      "content_length": 68,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Angriffe gehören zum Alltag\" - Gerichtsvollzieher Bund fordert nach Todesfall mehr Schutz",
+      "link": "https://www.deutschlandfunk.de/gerichtsvollzieher-bund-fordert-nach-todesfall-mehr-schutz-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Nach der Tötung eines Gerichtsvollziehers im Saarland fordert der Deutsche Gerichtsvollzieher Bund ein besseres Schutz- und Sicherheitskonzept.",
+      "content_length": 143,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "SPD-Chef - Klingbeil warnt Wirtschaft vor Annäherung an AfD",
+      "link": "https://www.deutschlandfunk.de/klingbeil-warnt-wirtschaft-vor-annaeherung-an-afd-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Bundesfinanzminister Klingbeil hat die deutsche Wirtschaft vor einer Annäherung an die AfD gewarnt.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Arbeitgebertag - Merz fordert stärkere Beteiligung von Arbeitnehmern an Wohlstandsgewinnen",
+      "link": "https://www.deutschlandfunk.de/merz-fordert-staerkere-beteiligung-von-arbeitnehmern-an-wohlstandsgewinnen-106.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Arbeitnehmer sollten nach Ansicht von Bundeskanzler Merz stärker an Gewinnen aus der Wirtschaft beteiligt werden. Dies sei \"die letzte nicht eingelöste Zusage der marktwirtschaftlichen Ordnung\", sagte Merz auf dem Arbeitgebertag in Berlin. Die Arbeitgeber könnten über attraktivere Angebote bei der betrieblichen Altersversorgung ihren Teil beitragen.",
+      "content_length": 351,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nigeria - 24 entführte Schülerinnen sind wieder frei",
+      "link": "https://www.deutschlandfunk.de/24-entfuehrte-schuelerinnen-sind-wieder-frei-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "In Nigeria sind 24 Schülerinnen wieder frei, die in der vergangenen Woche aus einem Internat entführt wurden.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball - Siege für Leverkusen und Dortmund in der Champions League",
+      "link": "https://www.deutschlandfunk.de/siege-fuer-leverkusen-und-dortmund-in-der-champions-league-106.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "In der Fußball-Champions-League hat es Siege für zwei Bundesligisten gegeben:",
+      "content_length": 77,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kolumbien - Bruder von Ex-Präsident Uribe wegen Mordes zu 28 Jahren Haft verurteilt",
+      "link": "https://www.deutschlandfunk.de/bruder-von-ex-praesident-uribe-wegen-mordes-zu-28-jahren-haft-verurteilt-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "In Kolumbien ist der Bruder des früheren Präsidenten Uribe wegen vielfachen Mordes und Verschwörung zu 28 Jahren Gefängnis verurteilt worden.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien",
+      "link": "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Bundespräsident Steinmeier beginnt heute einen dreitägigen Staatsbesuch in Spanien.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Illegaler Tierhandel - EU will Hunde und Katzen durch Chip-Pflicht schützen",
+      "link": "https://www.deutschlandfunk.de/eu-will-hunde-und-katzen-durch-chip-pflicht-schuetzen-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Die Europäische Union will verstärkt gegen illegalen Tierhandel vorgehen.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auswärtiges Amt - Wadephul stößt Umstrukturierung an",
+      "link": "https://www.deutschlandfunk.de/wadephul-stoesst-umstrukturierung-an-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Bundesaußenminister Wadephul hat eine umfassende Umstrukturierung des Auswärtigen Amts angestoßen.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Letzte Generation - Klimaaktivisten müssen rund 400.000 Euro Strafe zahlen - plus 700.000 Prozesskosten",
+      "link": "https://www.deutschlandfunk.de/klimaaktivisten-muessen-rund-400-000-euro-strafe-zahlen-plus-700-000-prozesskosten-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Zehn Klimaaktivisten der \"Letzten Generation\" müssen wegen einer Flughafenblockade im Juli 2023 in Hamburg rund 400.000 Euro Schadenersatz zahlen.",
+      "content_length": 146,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brasilien - Gericht bestätigt: Bolsonaro muss 27-jährige Gefängnisstrafe vollständig verbüßen",
+      "link": "https://www.deutschlandfunk.de/gericht-bestaetigt-bolsonaro-muss-27-jaehrige-gefaengnisstrafe-vollstaendig-verbuessen-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Der frühere brasilianische Präsident Bolsonaro muss seine 27-jährige Haftstrafe vollständig verbüßen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Afrika-Gipfel beendet - Abschlusserklärung: Zukunft liegt in Zusammenarbeit",
+      "link": "https://www.deutschlandfunk.de/abschlusserklaerung-zukunft-liegt-in-zusammenarbeit-102.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Afrika und Europa wollen ihre Partnerschaft neu ausrichten. In einer gemeinsamen Erklärung zum Abschluss des zweitägigen EU-Afrika-Gipfels in Angolas Hauptstadt Luanda heißt es, beide Kontinente seien durch gemeinsame Interessen und Werte verbunden.",
+      "content_length": 249,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Weitere Leiche an Israel übergeben",
+      "link": "https://www.deutschlandfunk.de/weitere-leiche-an-israel-uebergeben-106.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Israel hat eine weitere Leiche aus dem Gazastreifen erhalten.",
+      "content_length": 61,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medien - Familie in Istanbul laut Obduktionsbericht an Phosphin-Vergiftung gestorben",
+      "link": "https://www.deutschlandfunk.de/familie-in-istanbul-laut-obduktionsbericht-an-phosphin-vergiftung-gestorben-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Rund zwei Wochen nach dem Tod einer vierköpfigen Familie in Istanbul hat offenbar der Obduktionsbericht eine Vergiftung mit Chemikalien bestätigt.",
+      "content_length": 146,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Saarland - Gerichtsvollzieher bei Zwangsvollstreckung getötet - Verdächtiger festgenommen",
+      "link": "https://www.deutschlandfunk.de/gerichtsvollzieher-bei-zwangsvollstreckung-getoetet-verdaechtiger-festgenommen-106.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Im Saarland ist ein Gerichtsvollzieher getötet worden.",
+      "content_length": 54,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Indonesien - Hauptstadt Jakarta untersagt Verzehr und Verkauf von Hunde- und Katzenfleisch",
+      "link": "https://www.deutschlandfunk.de/hauptstadt-jakarta-untersagt-verzehr-und-verkauf-von-hunde-und-katzenfleisch-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "In der indonesischen Hauptstadt Jakarta ist der Verkauf und Verzehr von Hunde- und Katzenfleisch verboten worden.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fund vor einem Monat - 300 scharfe Schusswaffen in Remscheider Arsenal",
+      "link": "https://www.deutschlandfunk.de/300-scharfe-schusswaffen-in-remscheider-arsenal-104.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Rund einen Monat nach der Aushebung eines Waffenarsenals in Remscheid haben die Ermittler eine Bilanz gezogen.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball - FIFA bestätigt: Deutschland bei WM-Auslosung in Lostopf eins",
+      "link": "https://www.deutschlandfunk.de/fifa-bestaetigt-deutschland-bei-wm-auslosung-in-lostopf-eins-106.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Der Fußball-Weltverband FIFA hat bestätigt, dass die deutsche Nationalmannschaft der Männer bei der Gruppenauslosung für die Weltmeisterschaft im kommenden Jahr in Lostopf eins gesetzt ist.",
+      "content_length": 189,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Am Mittwoch neblig-trüb, im Norden aufgelockert, im Süden etwas Regen",
+      "link": "https://www.deutschlandfunk.de/am-mittwoch-neblig-trueb-im-norden-aufgelockert-im-sueden-etwas-regen-130.html",
+      "published": "2025-11-26T07:05:26",
+      "content": "Das Wetter: Im Nordwesten und Norden ein paar Wolkenlücken. Sonst teils hochnebelartig bedeckt, im Süden etwas Regen. Temperaturen 0 bis 7 Grad. Am morgigen Donnerstag bedeckt, nur vereinzelt sonnige Abschnitte. Minus 1 bis plus 8 Grad.",
+      "content_length": 236,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Generaldebatte im Bundestag: Alle Augen auf den Kanzler",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-142.html",
+      "published": "2025-11-26T07:04:06",
+      "content": "   Für Friedrich Merz dürfte es heute ungemütlich werden: In der Generaldebatte im Bundestag dürften auch Themen zur Sprache kommen, die den Kanzler momentan unter Druck setzten - etwa das Rentenpaket.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
+      "link": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
+      "published": "2025-11-26T07:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nUber and WeRide are now deploying fully driverless vehicles as part of its robotaxi service in the United Arab Emarites. Customers in Abu Dhabi who request an UberX or Uber Comfort may be matched with a fully autonomous WeRide vehicle if the route is part of the company’s service area. \n\nUber and Chinese autonomous vehicle operator WeRide first launched their robotaxi service with safety drivers back in December 2024. At the time, the companies they anticipated pulling safety drivers out of the vehicles the following year. \n\nInitially, the fully autonomous vehicles will only be available in select locations throughout the 12 square miles of Yas Island, a popular tourist destination in Abu Dhabi. Uber and WeRide say they will expand its fully driverless territory in the future. Customers interested in riding in a driverless car can select the “Autonomous” option in the Uber app for a better chance of being matched. \n\n\n\t\n\t\t\n\n\n\n\t\n\n\nThe vehicles are WeRide’s GXR equipped with over 20 sensors and cameras, and can seat up to five passengers. The GXR is based on Geely’s Farizon SuperVan, which is also being used as a WeRide robotaxi in Beijing. Similar to Uber’s partnership with Waymo in the US, the ridehailing company oversees fleet operations for WeRide’s robotaxis in collaboration with taxi operator Tawasul Transport. This includes vehicle cleaning, maintenance, inspections, charging, and depot management. WeRide remains responsible for vehicle testing and sensor calibration.\n\nIn addition to its service in the UAE, Uber and WeRide have said they plan on launching in an additional 15 cities over the next five years, including some cities in Europe. Uber has been on an absolute streak of partnering with new AV companies over the past few years as it seeks to become a one-stop shop for robot cars and robot delivery of any brand (except Tesla, for now).\n\n\n\n",
+      "content_length": 1890,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Victorian government sets date for formal apology to First Nations people – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/26/politics-live-labor-epbc-nature-laws-murray-watt-greens-coalition-anthony-albanese-sussan-ley-ted-obrien-national-press-club-ndis-fines-cpi-question-time-ntwnfb",
+      "published": "2025-11-26T06:53:34",
+      "content": "This blog is now closedNSW storms leave man dead and thousands without power as temperatures soar into 30sGet our breaking news email, free app or daily news podcastThe treasurer, Jim Chalmers, who’s doing the media rounds this morning, is next to defend the “savings” the departments have to come up with.On the Today show, he is asked: is the government being hypocritical here, considering the criticism they hurled at the Coalition for their proposed public servant cuts during the election?What the Coalition was proposing was to cut tens of thousands of jobs. What we are proposing or what we’re asking departments to suggest is ways to reprioritise their lower priority spending so that we can invest it in higher priority areas.There’s absolutely areas in the public service where we do need to think about making sure that we’re spending taxpayers money wisely.[There’s a] trillion dollars worth of debt, $50,000 in interest repayments every single minute of every single day because they refuse to make the tough decisions and now you’ve got Christmas job cuts on the table that they’re saying won’t be cuts. Continue reading...",
+      "content_length": 1138,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wednesday briefing: What may be in – and out – of Rachel Reeves’s ‘hokey cokey’ budget",
+      "link": "https://www.theguardian.com/world/2025/nov/26/wednesday-briefing-what-may-be-in-and-out-of-rachel-reevess-hokey-cokey-budget",
+      "published": "2025-11-26T06:48:23",
+      "content": "In today’s newsletter: As the chancellor prepares to deliver one of the most heavily briefed budgets ever, tax rises, the two-child benefit cap and a ‘mansion tax’ are all on the table• Don’t get First Edition delivered to your inbox? Sign up hereGood morning. If you haven’t noticed, the lead-up to this year’s budget has been unusually chaotic and drawn-out, with plenty of behind-the-scenes briefings and a whirlwind of speculation about what taxes will be hiked.The challenge facing the chancellor, Rachel Reeves, is plugging a financial hole of around £20bn and raising money to fund the services voters demand, while also keeping taxes at an acceptable level. (If you think you’ve got what it takes, try our brilliant interactive budget game). The political backdrop to this budget is also significant – the prime minister is under siege, and needs to present something that will be well received by MPs.Budget | Rachel Reeves’s plan to cut cash Isa limits by 40% could raise mortgage rates, according to finance bosses. The chancellor is expected to cut the maximum amount people can put into tax-efficient cash individual savings accounts from £20,000 to £12,000 in Wednesday’s budget.Politics | Three more school contemporaries who claim to have witnessed Nigel Farage’s alleged teenage racism have rejected the Reform UK leader’s suggestion that it was “banter”, describing it as targeted, persistent and nasty.Ukraine | Donald Trump’s special envoy Steve Witkoff advised a senior Kremlin official on how Vladimir Putin should pitch a Ukraine peace deal to the president, according to a transcript of their discussion published by Bloomberg.Criminal justice | Jury trials for all except the most serious crimes such as rape, murder and manslaughter are set to be scrapped under radical proposals drawn up by David LammyMedia | The BBC has been pulled into a fresh row over its treatment of Donald Trump after a Reith lecturer accused the broadcaster of censoring his remarks on the US president. Rutger Bregman, a Dutch author and historian, said the BBC removed a “key line” from a flagship address it had invited him to deliver. Continue reading...",
+      "content_length": 2160,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump envoy Witkoff reportedly advised Kremlin official on Ukraine peace deal",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
+      "published": "2025-11-26T06:38:46",
+      "content": "Steve Witkoff spoke to Yuri Ushakov on territorial control and suggested congratulating Donald Trump and framing talks more optimistically, audio recording suggestsDonald Trump’s special envoy Steve Witkoff told a senior Kremlin official last month that achieving peace in Ukraine would require Russia gaining control of Donetsk and potentially a separate territorial exchange, according to a recording of their conversation obtained by Bloomberg.In the 14 October phone call with Yuri Ushakov, the top foreign policy aide to the Russian president, Vladimir Putin, Witkoff said he believed the land concessions were necessary all while advising Ushakov to congratulate Trump and frame discussions more optimistically. Continue reading...",
+      "content_length": 737,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marseille defeat Newcastle to keep Champions League dream alive",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251126-marseille-defeat-newcastle-to-keep-champions-league-dream-alive",
+      "published": "2025-11-26T06:32:19",
+      "content": "Olympique de Marseille beat Newcastle 2-1 thanks to a brace from Pierre-Emerick Aubameyang. Marseille are 19th in the table and still in contention for a playoff spot.",
+      "content_length": 167,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Taiwan plans extra $40bn in defence spending to counter China’s ‘intensifying’ threats",
+      "link": "https://www.theguardian.com/world/2025/nov/26/taiwan-extra-40bn-defence-spending-china-threat",
+      "published": "2025-11-26T06:30:44",
+      "content": "President Lai Ching-te declared there was ‘no room for compromise on national security’ in face of escalating harassment and espionageBeijing’s threats to Taiwan are “intensifying” and its preparations to invade are speeding up, Taiwan’s government has said while announcing a $40bn special defence budget and a swathe of measures to counter Chinese attacks.The Taiwan president, Lai Ching-te, said there was “no room for compromise on national security”, and he was committed to boosting Taiwan’s defences in conjunction with US support. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5",
+      "link": "https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5",
+      "published": "2025-11-26T06:30:00",
+      "content": "\n\n\n\t\n\tQualcomm still sees this as a flagship chipset, just not an “Elite” one.\t\n\nWhen Qualcomm announced its high-end Snapdragon 8 Elite Gen 5 chipset in November, it mentioned that a non-Elite version was on the way, designed to power a more affordable tier of flagship phones. Now, that chip has finally arrived, with some drops in performance but the same core feature set.\n\nQualcomm compares the 8 Gen 5 to 2023’s 8 Gen 3, boasting a 36 percent improvement in CPU performance and 11 percent improvement in GPU performance compared to that chip, along with efficiency improvements. But since the 8 Gen 3 is two years old, and Qualcomm has changed CPU architecture in the meantime, the recent 8 Elite Gen 5 is a more useful comparison.\n\nThe 8 Gen 5 has a similar Oryon CPU structure to the Elite, but at slower clock speeds —&nbsp;its six performance cores cap at 3.32GHz, with its two prime cores at 3.8GHz, compared to 3.62GHz and 4.6GHz respectively in the Elite. On paper, that also sets its performance below last year’s Snapdragon 8 Elite, though we’ll have to wait to see how actual smartphones compare in practice.\n\nThere are a few other downgrades from the new Elite. The regular Gen 5’s X80 modem has slightly slower peak 5G speeds, though Bluetooth and Wi-Fi performance should be the same, and both satellite and ultra wideband (UWB) are supported. It also has slightly downgraded specs on its Adreno GPU and Hexagon AI NPU, though Qualcomm has gone into less detail on the exact comparisons there, and it can’t use the latest UFS 4.1 storage. But other specs are identical across the two chipsets, including charging capabilities, display support, and the vast majority of the camera hardware options.\n\nQualcomm says that several manufacturers, including Motorola, OnePlus, and Vivo, have already agreed to use the chip in new phones, with the first devices due to appear “in the coming weeks.” That might mean we’ll see it in the OnePlus 15R, now confirmed to launch in the US on December 17th.",
+      "content_length": 2010,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Live: Kremlin confirms US envoy Witkoff to visit as Trump eases peace plan deadline",
+      "link": "https://www.france24.com/en/europe/20251126-live-trump-sending-envoy-witkoff-moscow-kyiv-ukraine-peace-deal-fine-tuned",
+      "published": "2025-11-26T06:29:21",
+      "content": "The Kremlin has confirmed next week's visit by US envoy Steve Witkoff to meet with Russian President Vladimir Putin. President Donald Trump has also said he would send Army Secretary Dan Driscoll to meet with Ukrainian officials as he seeks to close out a deal to end the war in Ukraine. Trump said his proposed peace plan had been “fine-tuned”, backed away from setting a firm deadline, and said his son-in-law Jared Kushner may join Witkoff in Moscow. Follow our liveblog for the latest updates.",
+      "content_length": 497,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: DAX steuert auf weitere Gewinne zu",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-zinsen-fed-apple-100.html",
+      "published": "2025-11-26T06:27:10",
+      "content": "   Die Hoffnung auf eine baldige Zinssenkung in den USA gibt den globalen Börsen weiter Rückenwind. Nach starken Kursgewinnen in New York und Tokio dürfte sich auch im DAX die Erholungsrally fortsetzen.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Reserve Bank could raise interest rates as early as May after inflation climbs to 3.8%",
+      "link": "https://www.theguardian.com/business/2025/nov/26/australia-inflation-rate-cpi-consumer-price-index-figure-rba-reserve-bank",
+      "published": "2025-11-26T06:20:06",
+      "content": "Jim Chalmers says government deciding on energy rebate extension in ‘next few weeks’ as cost of living continues to biteFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Reserve Bank could be forced to hike interest rates as early as May, economists say, after inflation climbed to 3.8% in the year to October, from 3.6% in the month before.The latest bad news on cost of living was accompanied by a shocking 37% annual jump in power bills as generous state government subsidies rolled off, figures from the Australian Bureau of Statistics revealed. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Taiwan will Verteidigungsausgaben stark erhöhen",
+      "link": "https://www.tagesschau.de/ausland/asien/taiwan-verteidigungsausgaben-104.html",
+      "published": "2025-11-26T06:10:06",
+      "content": "   Taiwans Regierung will zusätzliche 40 Milliarden Dollar in seine Verteidigung investieren. Grund ist die militärische Bedrohung aus China - aber wohl auch Druck aus den USA. Mit dem Geld sollen dort Waffen gekauft werden.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NSW storms leave man dead and thousands without power as temperatures soar into 30s",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/26/nsw-bushfire-warnings-catastrophic-danger-lower-central-west-plains-total-fire-ban",
+      "published": "2025-11-26T06:02:43",
+      "content": "Total fire bans are in place and schools closed as parts of state face worst fire danger in two yearsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA man has died and thousands have been left without power after New South Wales was hit by damaging wind gusts and thunderstorms.Temperatures in parts of the state soared into the 30s on Wednesday, prompting authorities to raise bushfire alerts to their highest levels in more than two years. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Unavoidably unfair’: the secret courts system hearing part of Palestine Action case",
+      "link": "https://www.theguardian.com/law/2025/nov/26/secret-courts-palestine-action-cmp-heard-behind-closed-doors",
+      "published": "2025-11-26T06:00:44",
+      "content": "The CMP system means Huda Ammori will not be allowed to know what allegations were made against herAt some point in the challenge to the ban on Palestine Action beginning on Wednesday, the co-founder of the direct action group will be asked to leave courtroom five at the Royal Courts of Justice, as will her legal team and most others present. Then the case will continue without them.When Huda Ammori returns to the room, the special advocate – a security-cleared barrister – who represented her interests in her absence will not be allowed to tell her or her legal team what evidence was presented against Palestine Action. If Ammori asks what allegations were made directly against her, the special advocate must not tell her, even though that means she will have no chance to rebut them. Continue reading...",
+      "content_length": 812,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Roman amphitheatre older than Colosseum gets accessible facelift for Winter Paralympics",
+      "link": "https://www.theguardian.com/sport/2025/nov/26/roman-amphitheatre-older-than-colosseum-gets-accessible-facelift-for-winter-paralympics",
+      "published": "2025-11-26T06:00:43",
+      "content": "Verona venue to host Milano-Cortina opening ceremonyCritics see changes to 2,000-year-old arena as blasphemyA 2,000-year-old Roman amphitheatre is to be made fully accessible to people with disabilities before the Winter Paralympic Games in Milano‑Cortina, as organisers prioritise legacy with 100 days to go.The conversion of the Arena di Verona, which will host the Paralympics opening ceremony, includes the addition of a lift and toilets to a structure older than the Colosseum. Described by the Milano-Cortina 2026 chief executive, Andrea Varnier, as “the symbol of our Paralympic Games”, he admits the conversion has also been considered as an act of “blasphemy” by some traditionalists. Continue reading...",
+      "content_length": 713,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "11KM-Podcast: Die Verschwörung, die nie endet?",
+      "link": "https://www.tagesschau.de/podcast-11km-epstein-akten-freigabe-100.html",
+      "published": "2025-11-26T05:32:08",
+      "content": "   Im Fall Epstein gibt es viele offene Fragen und Verschwörungsmythen. Nun stehen die Ermittlungsakten zum System von Menschenhandel und Missbrauch kurz vor der Freigabe. 11KM geht der Frage nach, wer davon profitieren wird.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Gespräche: Trump nimmt Sondergesandten Witkoff in Schutz",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-witkoff-russland-100.html",
+      "published": "2025-11-26T05:30:33",
+      "content": "   Der Ursprung des US-Plans für die Ukraine ist unklar. Ein Telefonat des US-Sondergesandten Witkoff mit einem Putin-Berater wirft Fragen auf. Trump spricht von \"normalen Verhandlungen\". Das sehen manche Republikaner anders.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gerichtsvollzieher im Saarland während des Dienstes getötet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gerichtsvollzieher-saarland-getoetet-100.html",
+      "published": "2025-11-26T05:16:00",
+      "content": "   Während seines Dienstes ist im saarländischen Bexbach ein Gerichtsvollzieher getötet worden. Nach SR-Informationen ist der mutmaßliche Täter bereits gefasst - die Hintergründe der Tat sind aber noch weiter unklar.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Plastic nurdles found at 84% of UK sites of special scientific interest",
+      "link": "https://www.theguardian.com/environment/2025/nov/26/plastic-nurdles-found-at-uk-sites-of-special-scientific-interest",
+      "published": "2025-11-26T05:00:42",
+      "content": "Environmental charity Fidra says 168 of 195 SSSIs it surveyed are contaminated with tiny pelletsPlastic nurdles have been found in 84% of important nature sites surveyed in the UK.Nurdles are tiny pellets that the plastics industry uses to make larger products. They were found in 168 of 195 sites of special scientific interest (SSSIs), so named because of the rare wildlife they harbour. They are given extra protections in an effort to protect them from pollution. Continue reading...",
+      "content_length": 487,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘No topic is too difficult’: children’s series on life in communist East Germany wins an Emmy",
+      "link": "https://www.theguardian.com/world/2025/nov/26/children-series-on-life-in-communist-east-germany-wins-an-emmy",
+      "published": "2025-11-26T05:00:41",
+      "content": "In Fritzi’s Footsteps tells story of a girl growing up in Leipzig who witnesses the fall of the Berlin WallThe creators of a children’s television series about life in communist East Germany have said they hope it will awaken interest in the region’s history, after it was awarded an International Emmy.Auf Fritzis Spuren (In Fritzi’s Footsteps) tells the story of a 12-year-old girl living in the eastern city of Leipzig and how she experiences life in the east and the events that lead to the fall of the Berlin Wall. Continue reading...",
+      "content_length": 539,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "ESA-Treffen: Europas Ringen um Raumfahrt und einen Milliarden-Etat",
+      "link": "https://www.tagesschau.de/wissen/technologie/esa-europa-raumfahrt-100.html",
+      "published": "2025-11-26T04:09:02",
+      "content": "   Das wichtigste europäische Raumfahrtgremium, der ESA-Ministerrat, trifft sich in Bremen. Es geht um Wettbewerbsfähigkeit, Autonomie, Sicherheit und die Verteilung von bis zu 22 Milliarden Euro. Von K. Klooß.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Welche Rolle spielt Putins Gesandter Kirill Dmitrijew?",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-kirill-dmitrijew-100.html",
+      "published": "2025-11-26T04:08:06",
+      "content": "   Bei den Verhandlungen über ein Kriegsende in der Ukraine spielt der russische Gesandte Dmitrijew eine zentrale Rolle. Er soll die erste Version des Vertrags trickreich durchgestochen haben. Wer ist er? Von B. Blaschke.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US envoy Witkoff coached Russia to persuade Trump on Ukraine deal, report says",
+      "link": "https://www.france24.com/en/americas/20251126-trump-backs-off-ukraine-deadline-as-witkoff-coaching-report-emerges",
+      "published": "2025-11-26T04:03:38",
+      "content": "US President Donald Trump on Tuesday softened his own Thanksgiving deadline for Ukraine to accept a proposed US-backed peace framework, even as a report surfaced alleging his envoy Steve Witkoff advised a senior Kremlin official on how best to approach him about ending the war.",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Second teenage boy charged with murder after alleged stabbing behind Sydney school played ‘active role’, police say",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/26/second-teenage-boy-charged-murder-alleged-stabbing-rouse-hill-sydney-nsw-ntwnfb",
+      "published": "2025-11-26T03:51:11",
+      "content": "Another boy, 15, charged on Monday after 17-year-old boy died from wounds to thigh in Rouse HillFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA second teenage boy arrested in his home over his alleged “active role” in the stabbing murder of a 17-year-old in a suburban park will spend months in custody.The alleged victim died from a knife wound to his thigh after a confrontation at a park behind a school in north-west Sydney on Monday afternoon. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "All-male lineup take top slots at ABC Sydney after Chris Bath’s shock departure",
+      "link": "https://www.theguardian.com/media/2025/nov/26/chris-bath-leaving-abc-sydney-all-male-lineup",
+      "published": "2025-11-26T03:42:37",
+      "content": "Director of audio concedes ‘there is always more to do’ on diversity as station staff express dismay at dearth of female presentersFollow our Australia news live blog for latest updatesSign up for Guardian Australia’s free weekly media newsletter hereABC radio’s chief, Ben Latimer, says “there is always more to do” on diversity after Chris Bath was replaced with a male presenter on ABC Sydney, leaving the station with an all-male lineup from Breakfast through to Drive in 2026.Bath, who announced her resignation after only one year on Monday, will be replaced by Thomas Oriti in the key Drive slot, which was vacated by the veteran broadcaster Richard Glover after 26 years.Sign up to get Guardian Australia’s weekly media diary as a free newsletter Continue reading...",
+      "content_length": 774,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hegseth orders US Navy secretary to investigate Arizona senator Mark Kelly for ‘potentially unlawful comments’ – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/25/us-politics-pam-bondi-appeal-james-comey-letitia-james-cases-donald-trump-venezuela-latest-updates",
+      "published": "2025-11-26T02:43:28",
+      "content": "Donald Trump’s defense secretary sends memo to John Phelan asking him to review Kelly’s comments; House Democrats from video confirm FBI is seeking to investigate. This blog is now closed.Senator Mark Kelly has responded to the Pentagon’s announcement that it is investigating the Arizona lawmaker for possible breaches of military law after he joined five other Democratic members of Congress in a video calling for US troops to refuse illegal orders.“I said something that was pretty simple and non controversial, and that was that members of the military should follow the law,” Kelly said in an MS NOW interview with Rachel on Monday. “And in response to that, Donald Trump said I should be executed.” Continue reading...",
+      "content_length": 725,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Nationalparks werden für ausländische Touristen teurer",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-nationalparks-preise-100.html",
+      "published": "2025-11-26T02:37:25",
+      "content": "   \"America First\" auch bei den Nationalparks: Ausländische Touristen zahlen für den Besuch des Grand Canyon oder der Rocky Mountains künftig mehr als Amerikaner. Bei den beliebtesten Parks fällt das besonders deutlich aus.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Macron sieht keine Bereitschaft Moskaus für einen Waffenstillstand",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-der-willigen-trump-100.html",
+      "published": "2025-11-26T02:37:13",
+      "content": "   Die Aussagen gehen weit auseinander: Frankreichs Präsident Macron sieht keinerlei Bereitschaft in Moskau für Gespräche über den von den USA vorgelegten Ukraine-Plan. US-Präsident Trump sagt, es gebe \"nur noch wenige Streitpunkte\".[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Minnesotans gear up to fight Trump ending Somalis’ temporary protected status",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/minnesota-fight-trump-somalis-tps-order",
+      "published": "2025-11-26T02:32:43",
+      "content": "Though president’s order is legally questionable, advocates worry community could be targeted for immigration raidsIn the days since the president said he would be ending a legal immigration status program for Somalis in Minnesota, local elected officials and community members said they will fight back.On Truth Social on Friday, Trump wrote that he would be “terminating, effective immediately” temporary protected status for Somalis in Minnesota. Trump wrote that Minnesota was a “hub of fraudulent money laundering activity”. “Send them back to where they came from. It’s OVER!” he wrote. Continue reading...",
+      "content_length": 612,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US triples national park fee for non-residents, amid ‘new’ fee for Americans",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/national-park-fee-non-residents",
+      "published": "2025-11-26T01:31:37",
+      "content": "Interior department, which has defunded conservation organizations, claims fee hike is for conservationThe interior department announced today new “America-first” entrance fees for national parks, commemorative annual passes featuring Donald Trump and “resident-only patriotic fee-free days for 2026” including Trump’s birthday.Starting next year, entrance fees for international visitors will more than triple. Continue reading...",
+      "content_length": 431,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK budget to target cost of living crisis as Reeves battles to keep Labour MPs on side",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/25/uk-budget-to-target-cost-of-living-crisis-as-reeves-battles-to-keep-labour-mps-onside",
+      "published": "2025-11-26T00:04:31",
+      "content": "Chancellor’s fiscal statement billed as decisive moment for fate of Starmer government as she tries to fill £20bn spending gapRachel Reeves will promise to tackle Britain’s cost of living crisis and deliver fiscal stability in Wednesday’s budget, which is billed as a decisive moment for the fate of Keir Starmer’s beleaguered government.The chancellor will say she is taking the “fair and necessary choices” to shore up the economy as she raises billions of pounds worth of taxes to help offset lower than expected growth forecasts. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Excessive restraint in immigration detention centres ‘deeply concerning’, report finds",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/26/excessive-restraint-in-immigration-detention-centres-deeply-concerning-report-finds",
+      "published": "2025-11-26T00:01:35",
+      "content": "Watchdog says force being applied ‘inconsistently, disproportionately, and without adequate justification’Home Office contractors are over-using restraint in immigration detention centres and failing to tackle the toxic culture behind bars, according to the findings of a new watchdog report described as “deeply concerning”.By Force of Habit: How the Use of Force in Immigration Detention Has Lost Sight of Necessity and Dignity was published by the Independent Monitoring Boards (IMB), which examines conditions in prisons and immigration detention centres. The findings revealed force being applied inconsistently, disproportionately, and without adequate justification, which it said undermined the dignity and welfare of highly vulnerable individuals. Continue reading...",
+      "content_length": 776,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Judge orders Trump administration to provide bond hearings to detained migrants",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/judge-bond-hearings-detained-migrants",
+      "published": "2025-11-25T23:54:29",
+      "content": "District judge in California says detainees who were already living in the US are legally entitled to a bond hearing A federal judge has ruled that Donald Trump’s administration cannot impose mandatory detention on thousands of migrants held by US immigration authorities without first giving them an opportunity to seek release on bond.US district judge Sunshine Sykes in Riverside, California, certified a nationwide class of individuals who were already living in the United States when they were detained and are legally entitled to a hearing to determine whether they can be released on bond while their deportation cases proceed. Continue reading...",
+      "content_length": 655,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kanzler Merz verteidigt vor Arbeitgebern seinen Regierungskurs",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-arbeitgeber-treffen-kritik-100.html",
+      "published": "2025-11-25T23:51:20",
+      "content": "   Das Verhältnis zwischen Merz und den Arbeitgebern hat sich eingetrübt: Sie sind vom Rentenpaket wenig begeistert, seine Rolle als \"Außenkanzler\" passt ihnen nicht. Doch er gibt beim Arbeitgebertag Kontra. Von Sabine Henkel.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US justice department memo about boat strikes diverges from Trump narrative",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/trump-caribbean-boat-strikes-memo",
+      "published": "2025-11-25T23:45:33",
+      "content": "Exclusive: Officials frame strikes as self-defense against violence, without naming aggressor, while Trump claims they’re to stop US overdose deathsThe Trump administration is framing its boat strikes against drug cartels in the Caribbean in part as a collective self-defense effort on behalf of US allies in the region, according to three people directly familiar with the administration’s internal legal argument.The legal analysis rests on a premise – for which there is no immediate public evidence – that the cartels are waging armed violence against the security forces of allies like Mexico, and that the violence is financed by cocaine shipments. Continue reading...",
+      "content_length": 674,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nauru president accused in parliament of corruptly siphoning off millions of Australian funding",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/26/nauru-president-accused-in-parliament-of-corruption-siphoning-off-millions-of-australian-funding",
+      "published": "2025-11-25T23:30:11",
+      "content": "Senator uses parliament to accuse Albanese government of knowing David Adeang was ‘seriously corrupt’ yet still signing $2.5bn deportation dealFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNauru’s President David Adeang, a predecessor and other individuals have been accused in the Senate of corruptly siphoning off millions of dollars of Australian taxpayer money intended for the island’s arcane offshore processing regime.A previously unreleased report by Australia’s financial intelligence agency, Austrac, suspected Adeang of “corruption and money laundering” after detecting a “rapid movement of large volume and value of funds”, the Senate has been told. Continue reading...",
+      "content_length": 748,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Campbell’s promises its soups are not made with 3D printed meat",
+      "link": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
+      "published": "2025-11-25T23:27:57",
+      "content": "\n\n\n\t\n\t\t\n\nCampbell’s is insisting that its soups aren’t made with 3D-printed chicken, lab-grown chicken, or bioengineered meat. The food giant issued the explanation on its website after leaked audio allegedly captured Campbell&#8217;s vice president of information technology saying the company’s meat “came from a 3D printer.”\n\n“A recent video contained false comments about our ingredients,” Campbell’s writes. “The comments heard on the recording about our food are not only inaccurate, they are absurd. We do not use lab-grown chicken or any form of artificial or bioengineered meat in our soups.” It adds that the company only uses chicken from “reputable” suppliers in the US that meet USDA standards.\n\nThe audio was released as part of a lawsuit filed against Campbell’s by a former employee, who claims to have recorded a conversation with IT VP Martin Bally. During the conversation, the person purported to be Bally makes racist remarks, while calling Campbell’s food “bioengineered” and for “poor people.”\n\n&#8220;Even in a can of soup, I look at it — and look at bioengineered meat,&#8221; the person in the recording says. &#8220;I don&#8217;t want to eat a fucking piece of chicken that came from a 3D printer, do you?&#8221;\n\n3D-printed chicken isn’t entirely something out of a sci-fi movie. KFC, which has had to deal with its own chicken-related conspiracies, said it was working with a Russian firm in 2020 to develop a way to “print” lab-grown chicken nuggets using chicken cells and plant material.\n\nCampbell’s has put Bally on leave while it investigates the alleged comments. “Keep in mind, the alleged comments heard on the audio were made by a person in IT, who has nothing to do with how we make our food,” Campbell’s says.",
+      "content_length": 1749,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Brasilien: Bolsonaro hat Rechtsmittel ausgeschöpft und muss 27 Jahre in Haft",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-entscheidung-haft-putschversuch-100.html",
+      "published": "2025-11-25T23:14:41",
+      "content": "   Der Weg zur Vollstreckung ist frei: Brasiliens Ex-Staatschef Bolsonaro kann sich nicht mehr juristisch gegen seine Verurteilung wehren. Er muss wegen Anstiftung zum Umsturz 27 Jahre in Haft - möglicherweise aber nicht in ein Gefängnis.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "After defeating Newcastle, Olympique de Marseille revives qualification hopes",
+      "link": "https://www.france24.com/en/sport/20251125-after-defeating-newcastle-olympique-de-marseille-revives-qualification-hopes",
+      "published": "2025-11-25T23:11:58",
+      "content": "Olympique de Marseille revived their Champions League campaign on Tuesday with a spirited 2–1 comeback against Newcastle United, powered by a second-half brace from Pierre-Emerick Aubameyang. The victory at the Stade Vélodrome halted Newcastle’s winning run and lifted the French side back into contention in the group.",
+      "content_length": 319,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "House overhauls KOSA in a new kids online safety package",
+      "link": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
+      "published": "2025-11-25T23:05:55",
+      "content": "\n\n\n\t\n\t\t\n\nThe House Energy and Commerce Committee released a package of 19 bills aimed at protecting kids on the internet, teeing Congress up for a chance at passing some of the most substantive internet regulations in recent history, alongside a fight over online speech rights.\n\nThe subcommittee on commerce will consider the bills during a hearing on Tuesday, including the contentious Kids Online Safety Act (KOSA). KOSA has been the centerpiece of advocacy from parent survivors whose kids died after suffering from a range of online harms, including cyberbullying, sextortion, and drugs purchased through the internet. But the new version of the bill omits the animating feature of the Senate version that passed overwhelmingly last year: the duty of care, which would have made tech platforms legally responsible for mitigating harms stemming from their services, like eating disorders and depression. Critics warned that could sweep up a host of legal speech, including resources that seek to mitigate the very harms KOSA aims to solve.&nbsp;\n\nThe new version of KOSA omits the animating feature of the Senate version that passed overwhelmingly\n\nIn a new House discussion draft, the duty of care has been replaced by a requirement that social media platforms have “reasonable policies, practices, and procedures” to deal with four discrete kinds of harm: “Threats of physical violence,” “Sexual exploitation and abuse,” “Distribution, sale, or use of narcotic drugs, tobacco products, cannabis products, gambling, or alcohol,” and “Any financial harm caused by deceptive practices.” The extent of policies and procedures a platform has to have would need to be appropriate to the scale and complexity of the platform itself, and the technical feasibility of addressing the harms. The new version also expands the definition of who’s covered by the bill to include nonprofit platforms.\n\nThe package includes several other significant bills. Among them is the App Store Accountability Act, the federal version of a bill that’s passed in several states requiring age verification at the app store level and transmitting age signals to developers. The Children and Teens’ Online Privacy Protection Act (COPPA 2.0) would raise the age of privacy protections from an earlier version of the law from under 13 to under 17, and ban targeted advertising to those covered by the bill. The Reducing Exploitative Social Media Exposure for Teens (RESET) Act, currently a discussion draft, would prohibit social media platforms from allowing any kids or teens under 16 to maintain accounts.\n\nIt’s a significant step after last year, when House Republican leadership passed on the chance to advance KOSA. Though the Senate approved it 91-3, House Speaker Mike Johnson (R-LA) and Majority Leader Steve Scalise (R-LA) worried about the bill’s constitutionality and free speech implications. Opponents accused them of cozying up to the tech industry due to investments in their state. Now, it appears that House leadership may follow through on promises to reconsider kids online safety legislation — but it already looks far different than what was proposed last year, and there’s no promise it will cross the finish line.",
+      "content_length": 3211,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US to send envoy to Moscow to discuss proposals to end Ukraine war",
+      "link": "https://www.theguardian.com/world/2025/nov/25/us-kyiv-and-moscow-officials-continue-talks-on-trump-plan-to-end-ukraine-war",
+      "published": "2025-11-25T22:55:46",
+      "content": "Despite recent efforts and White House optimism, recent negotiations have failed to secure a breakthrough on key issuesDonald Trump said he would send special envoy Steve Witkoff to meet Vladimir Putin in Moscow to discuss developing proposals to end the Ukraine war, but despite White House optimism there was little sign of progress on core sticking points.The US president said negotiations had left “only a few remaining points of disagreement” but there was no breakthrough on the issues of territorial control and security guarantees and he dampened expectations of immediate peace summits. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brazil's former President Jair Bolsonaro begins 27-year prison sentence for coup attempt",
+      "link": "https://www.france24.com/en/video/20251125-brazil-s-former-president-jair-bolsonaro-begins-27-year-prison-sentence-for-coup-attempt",
+      "published": "2025-11-25T22:48:39",
+      "content": "Former Brazilian President Jair Bolsonaro on Tuesday started his 27-year prison sentence for leading a coup attempt, to the surprise of many in the South American nation who doubted he would ever end up behind bars. Supreme Court Justice Alexandre de Moraes, who has overseen the case, ruled Bolsonaro will remain in custody after being preemptively arrested on Saturday. FRANCE 24's Jan Onoszko reports from Rio de Janeiro.",
+      "content_length": 424,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests",
+      "link": "https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/",
+      "published": "2025-11-25T22:44:35",
+      "content": "The popularity of GLP-1 weight-loss medications continues to soar—and their uptake is helping to push down obesity rates on a national scale—but a safe, evidence-based way off the drugs isn’t yet in clear view.\nAn analysis published this week in JAMA Internal Medicine found that most participants in a clinical trial who were assigned to stop taking tirzepatide (Zepbound from Eli Lilly) not only regained significant amounts of the weight they had lost on the drug, but they also saw their cardiovascular and metabolic improvements slip away. Their blood pressure went back up, as did their cholesterol, hemoglobin A1c (used to assess glucose control levels), and fasting insulin.\nIn an accompanying editorial, two medical experts at the University of Pittsburgh, Elizabeth Oczypok and Timothy Anderson, suggest that this new class of drugs should be rebranded from “weight loss” drugs to “weight management” drugs, which people may need to take indefinitely.Read full article\nComments",
+      "content_length": 987,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "At the end of the Cold War, 'Europe was convinced that it was going to remain at peace forever'",
+      "link": "https://www.france24.com/en/video/20251125-at-the-end-of-the-cold-war-europe-was-convinced-that-it-was-going-to-remain-at-peace-forever",
+      "published": "2025-11-25T22:17:43",
+      "content": "French President Emmanuel Macron is set to announce a new version of France's Universal National Service (SNU), invoking \"moral forces\" needed to face \"rising threats\" across the globe. For in-depth analysis on what form this new kind of military service could take, Annette Young welcomes Hélène Conway-Mouret, Senator and Vice-Chairwoman of the Foreign Affairs, Defense and Armed Forces Committee. The long-term objective, as explained by Senator Conway-Mouret, is to \"draw all the lessons from the war in Ukraine: raising the consciousness of the whole of France\" to be fully ready for an eventual conflict. \"We see an entire population backing up the (Ukrainian) army... and fighting, resisting one of the biggest armies and the biggest country in the world.\"",
+      "content_length": 763,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "How online toxic masculinity is shaping politics worldwide",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251125-how-online-toxic-masculinity-is-shaping-politics-worldwide",
+      "published": "2025-11-25T22:04:45",
+      "content": "Toxic masculinity and its incarnation on digital spaces, the so-called manosphere, seeks to normalise and legitimise hatred of women, and more and more young men are subscribing to these ideas. FRANCE 24's Sharon Gaffney speaks with Mariel Barnes, Assistant Professor at the La Follette School of Public Affairs, University of Wisconsin-Madison, about the impact they are having on politics worldwide.",
+      "content_length": 401,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Volkswagen says it can make new cars entirely in China",
+      "link": "https://www.france24.com/en/tv-shows/business/20251125-volkswagen-says-it-can-make-new-cars-entirely-in-china",
+      "published": "2025-11-25T22:00:04",
+      "content": "German auto giant Volkswagen has announced the completion of a new R&amp;D centre in its hub in Hebei, eastern China, saying that for the first time in the company's history, new cars can be developed from start to finish outside Germany.  The company is hoping to win back its share in the world's largest auto market. Also in the segment, the UK government has backed a plan for a third runway at London's Heathrow airport, moving the long-running project forward.",
+      "content_length": 466,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mother who hid children’s bodies in suitcases jailed for life in New Zealand",
+      "link": "https://www.theguardian.com/world/2025/nov/25/mother-who-hid-childrens-bodies-in-suitcases-jailed-for-life-in-new-zealand",
+      "published": "2025-11-25T21:58:14",
+      "content": "Hakyung Lee was found guilty of murdering her children and concealing their remains in a storage lockerA mother who murdered her two children and hid their bodies in suitcases stored inside a rented locker has been sentenced to life imprisonment in New Zealand.Hakyung Lee, a New Zealand citizen originally from South Korea, was found guilty earlier this year of killing her children in a crime that has become known as the “suitcase murders”. Continue reading...",
+      "content_length": 463,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "South Africa declares gender-based violence a national disaster",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251125-south-africa-declares-gender-based-violence-a-national-disaster",
+      "published": "2025-11-25T21:41:05",
+      "content": "In tonight's edition, as the world marks the International Day for the Elimination of Violence Against Women, in South Africa, 15 women are killed every single day.\n \nAlso, in Nigeria, the 24 schoolgirls abducted in Kebbi State have been rescued.\n \nAnd Washington’s latest proposal of a ceasefire for Sudan has been rejected by both warring sides.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Plex’s crackdown on free remote streaming access starts this week",
+      "link": "https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/",
+      "published": "2025-11-25T21:22:17",
+      "content": "Plex is starting to enforce its new rules, which prevent users from remotely accessing a personal media server without a subscription fee.\nPreviously, people outside of a server owner’s network could access the owner’s media library through Plex for free. Under the new rules announced in March, a server owner needs to have a Plex Pass subscription, which starts at $7 per month, to grant users remote access to their server. Alternatively, someone can remotely access another person’s Plex server by buying their own Plex Pass or a Remote Watch Pass, which is a subscription with fewer features than a Plex Pass and that Plex started selling in April for a $2/month starting price.\nPlex’s new rules took effect on April 29. According to a recent Plex forums post by a Plex employee that How-To Geek spotted today, the changes are rolling out this week, with a subscription being required for people using Plex’s Roku OS app for remote access. The Plex employee added:Read full article\nComments",
+      "content_length": 995,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "David Sacks tried to kill state AI laws — and it blew up in his face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
+      "published": "2025-11-25T21:06:08",
+      "content": "\n\n\n\t\n\t\t\n\nOn Wednesday, a rumor began popping up in Washington about a momentous policy change: the White House, it was said, would issue an executive order on Friday that would finally preempt state AI laws, handing over those regulatory powers to the federal government. The minute it leaked online, lawyers and policymakers began to scour every sentence of it. There was a lot about it that seemed politically unfeasible; there was even more that seemed overbroad, possibly illegal. There were a lot of agencies that had suddenly been cut out.\nBut crucially, they noticed how much power would have been handed to a certain South African tech-billionaire-t …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Violence against women: Debunking misogynistic masculinist propaganda",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251125-violence-against-women-debunking-misogynistic-masculinist-propaganda",
+      "published": "2025-11-25T20:51:13",
+      "content": "To mark the International Day for the Elimination of Violence against Women, Vedika Bahl talks through the rise in misogynistic propaganda online, and dismantles some of the popular masculinist arguments against women.",
+      "content_length": 218,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Paris police arrest three for spying and promoting Russian propaganda",
+      "link": "https://www.france24.com/en/france/20251125-paris-police-arrest-three-for-spying-and-promoting-russian-propaganda",
+      "published": "2025-11-25T20:50:49",
+      "content": "Paris police arrested three people suspected of spying for Russia and promoting the Kremlin's war propaganda, prosecutors said on Tuesday.",
+      "content_length": 138,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Warner Music Group partners with Suno to offer AI likenesses of its artists",
+      "link": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal",
+      "published": "2025-11-25T20:47:02",
+      "content": "\n\n\n\t\n\t\t\n\nWarner Music Group has struck a licensing deal with the AI music creation platform Suno. Under the agreement, WMG will allow users to create AI-generated music on Suno using the voices, names, likenesses, images, and compositions of artists who opt in to the program.\n\nWMG, which owns record labels that have signed musicians like Ed Sheeran, Twenty One Pilots, Dua Lipa, and Charli XCX, says participating artists will have “full control” over how their likeness and music are used, though it doesn’t share how. \n\n“These will be new creation experiences from artists who do opt in, which will open up new revenue streams for them and allow you to interact with them in new ways,” Suno says, adding that users will be able to “build around” an artist’s sounds “and ensure they get compensated.”\n\nWMG is also dropping out of a lawsuit it originally filed with Universal Music Group and Sony, alleging Suno illegally ripped their copyrighted works from YouTube. In recent weeks, major music labels have begun to embrace AI, as WMG similarly settled with AI music maker Udio earlier this month, while UMG ended its litigation against the platform in favor of a licensing agreement. The “ethical” AI music platform Klay has also struck deals with UMG, Sony, and WMG.\n\nAlong with the licensing agreement, Suno is planning to use licensed music from WMG to build next-gen music generation models that it claims will surpass its flagship v5 model. It will also start requiring users to have a paid account to download songs starting next year, with each tier providing a specific number of downloads each month.",
+      "content_length": 1613,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zelenskyy says Ukraine ready to move forward with US plan and discuss ‘sensitive points’ with Trump - as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/25/us-russia-ukraine-peace-talks-abu-dhabi-kyiv-strikes-zelenskyy-putin-europe-live-news",
+      "published": "2025-11-25T20:36:29",
+      "content": "Ukrainian leader says that talks should also include European allies; Trump says deal is closeUS optimistic over Ukraine peace deal talks but ‘a few delicate details’ remainIn other EU related news, a top European court on Tuesday ruled that an EU nation had to recognise a gay marriage recorded in another member state, after a complaint by two Poles married in Germany.The couple, one of whom also has German nationality, were living there and married in Berlin in 2018, reports Agence France-Presse (AFP).The spouses in question, as EU citizens, enjoy the freedom to move and reside within the territory of the member states and the right to lead a normal family life when exercising that freedom and upon returning to their member state of origin.“Sweden’s defence needs to be strengthened against threats such as robots, drones and helicopters. The best way to guarantee peace and freedom is to invest in defence. The orders also contribute to growth, jobs and security of supply. It also improves the possibilities of increasing production capacity in the defence industry.” Continue reading...",
+      "content_length": 1100,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi",
+      "link": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi",
+      "published": "2025-11-25T20:35:51",
+      "content": "The president of Nigeria, Bola Tinubu, said all 24 of the girls kidnapped last week had been rescuedAll 24 schoolgirls held by assailants after a mass abduction last week from a school in north-western Nigeria have been rescued, the country’s president announced on Tuesday.A total of 25 girls were abducted on 17 November from the Government Girls Comprehensive secondary school in Kebbi state’s Maga town, but one of them was able to escape the same day, the school’s principal said. The remaining 24 were all saved, according to a statement from the Nigerian president, Bola Tinubu, though no details were released about the rescue. Continue reading...",
+      "content_length": 655,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky told allies 'ready to move forward' with US plan: speech copy",
+      "link": "https://www.france24.com/en/video/20251125-zelensky-told-allies-ready-to-move-forward-with-us-plan-speech-copy",
+      "published": "2025-11-25T20:21:59",
+      "content": "Ukrainian President Volodymyr Zelensky told allies Tuesday Kyiv was ready to \"move forward\" on a new \"framework\" of a US plan to end fighting with Russia but there were still \"sensitive points\" he wanted to discuss with Donald Trump.FRANCE 24's Yinka Oyetade speaks with Natia Seskuria, Associate Fellow at the Royal United Services Institute.",
+      "content_length": 343,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "GPU prices are coming to earth just as RAM costs shoot into the stratosphere",
+      "link": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
+      "published": "2025-11-25T20:15:37",
+      "content": "It’s not a bad time to upgrade your gaming PC. Graphics card prices in the 2020s have undulated continuously as the industry has dealt with pandemic and AI-related shortages, but it’s actually possible to get respectable mainstream- to high-end GPUs like AMD’s Radeon RX 9060 XT and 9070 series or Nvidia’s RTX 5060, 5070, and 5080 series for at or slightly under their suggested retail prices right now. This was close to impossible through the spring and summer.\nBut it’s not a good time to build a new PC or swap your older motherboard out for a new one that needs DDR5 RAM. And the culprit is a shortage of RAM and flash memory chips that has suddenly sent SSD and (especially) memory prices into the stratosphere, caused primarily by the ongoing AI boom and exacerbated by panic-fueled buying by end users and device manufacturers.\nTo illustrate just how high things have jumped in a short amount of time, let’s compare some of the RAM and storage prices listed in our system guide from three months ago to the pricing for the exact same components today. Note that several of these are based on the last available price and are currently sold out; we also haven’t looked into things like microSD or microSD Express cards, which could also be affected.Read full article\nComments",
+      "content_length": 1283,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "FIFA 2026: World Cup draw to separate Spain, Argentina, France and England until final rounds",
+      "link": "https://www.france24.com/en/sport/20251125-world-cup-draw-to-separate-spain-argentina-france-and-england-until-final-rounds",
+      "published": "2025-11-25T20:14:27",
+      "content": "FIFA on Tuesday announced the draw procedure for the expanded 48-team format for the 2026 World Cup, that will keep top the top ranking teams – Spain, Argentina, France and England – separate from each other until the final rounds.",
+      "content_length": 231,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "You can grab two months of Paramount Plus with Showtime for $2.99 a month",
+      "link": "https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025",
+      "published": "2025-11-25T20:03:31",
+      "content": "\n\n\n\t\n\tStar Trek: Strange New Worlds is just one of many shows available on Paramount Plus. | Image: Marni Grossman / Paramount Plus\t\n\nIn case you missed it, Paramount Plus is raising prices by $1 a month starting on January 15th, 2026, taking the ad-supported Essential plan from $7.99 to $8.99 and the ad-free Premium plan from $12.99 to $13.99. Thankfully, Paramount’s Black Friday promo has arrived just in time to (somewhat) soften the blow. Now through December 2nd, both new and returning subscribers can sign up for a two-month subscription for just $2.99 a month, dropping the price of the Essential plan by $5 and the Premium plan by a whopping $10.\nParamount Plus (two months)\n\nWhere to Buy: $7.99 $2.99 at Paramount Plus Essential $12.99 $2.99 at Paramount Plus Premium\nNo matter which plan you choose, Paramount Plus gives you access to over 40,000 TV episodes and movies, including the latest season of Landman, Star Trek: Strange New Worlds, The Naked Gun, Sonic the Hedgehog 3, South Park, Fight or Flight, and The Daily Show. You’ll get access to 20 curated live channels and a few Showtime titles — including the first two seasons of Yellowjackets and all of Dexter — with support for three simultaneous streams and up to six profiles (including kid-friendly ones). Some live sports are also available, including all UEFA Champions League games and select NFL games.\n\nThe Premium plan takes things a step further, granting access to the full Showtime library — including shows like The Chi, Dexter: Resurrection, and every season of Yellowjackets — as well as films like The Substance,&nbsp;Talk To Me, Infinite, and&nbsp;Past Lives. It also adds support for streaming select titles in 4K UHD with Dolby Vision or HDR10 Plus, 24/7 live CBS news via your local station, and the ability to download shows and movies for offline viewing.",
+      "content_length": 1851,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump turns turkey pardon into political attack on Democrats and Biden",
+      "link": "https://www.france24.com/en/live-news/20251125-talking-turkey-trump-turns-pardon-ritual-into-political-roast",
+      "published": "2025-11-25T19:37:11",
+      "content": "A light-hearted White House tradition turned sharply partisan on Tuesday, as President Donald Trump used the annual turkey-pardoning ceremony to attack Democrats, revive conspiracy claims about Joe Biden and deliver a string of questionable economic boasts.",
+      "content_length": 257,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "These are my favorite Switch 2 accessories",
+      "link": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
+      "published": "2025-11-25T19:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nThe Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scratches, and drops, so both are what I’d consider to be essential. If you’re not a fan of how the Joy-Con 2 feel to use, a cheap but good wireless controller wouldn’t hurt, either.\n\nOn the other hand, a microSD Express card lets you add even more digital games to your library, although the console’s somewhat generous 256GB of internal storage means you may not need one right away (unless you buy a lot of games that are 50-70GB each, such as Cyberpunk 2077 and Madden 26). Some other accessories don’t add enough to the gaming experience to be worth it. Those Joy-Con 2 steering wheel accessories? You can pass on those.\n\nThe Switch 2 and its games are expensive enough, so we’ve assembled this guide with picks that are a great value. You don’t need to spend hundreds on accessories — many of us at The Verge certainly aren’t. No matter your budget, we’ve included numerous categories, beginning with a starter kit of recommendations we think everyone should consider.\n\nBest Switch 2 controllers\n\nEasySMX S10\n\nThe best wireless Switch 2 controller for most people (especially those on a budget) isn’t made by Nintendo. EasySMX’s S10 wireless controller is $30 less than the Switch 2 Pro, but it’s packed with nearly as many features, barring a couple that are exclusively for use with Nintendo’s controller (3.5mm headphone jack, customization features built into the Switch 2 OS interface). The S10 is the one to get if you value long-lasting joysticks; it has TMR joysticks, which are drift-resistant, unlike the potentiometer-based sticks in the Switch 2 Pro. \n\nAdditionally, the S10 features great-feeling rumble, amiibo support, and a comfortable design. Its clicky buttons and triggers may not be to everyone’s liking, although you may not know until you try. I had a hard time coming up with negative things to say about the S10 in our guide to the best Switch 2 controllers. It’s just a great gamepad for the price.\nEasySMX S10 Gaming Controller for Switch 2\n\nWhere to Buy: $59.99 $42.59 at Amazon (with Prime) $59.99 $50.39 at EasySMX (with code GETS10) $59.99 $41.99 at Walmart\nNintendo Switch 2 Pro\n\nThe Switch 2 Pro is a fabulous controller for those who want to plop down $90, although it’s not the best around in terms of specs. Namely, Nintendo opted for potentiometer-based joysticks, similar technology to the drift-prone sticks that sparked controversy with the original Switch controllers. It’s a disappointing move, as more companies are adopting drift-resistant Hall effect or TMR joystick tech — even for wireless gamepads that cost a fraction of what the Switch 2 Pro does.\n\nDespite this oversight, the Switch 2 Pro hosts some great features you can’t get elsewhere, like a 3.5mm jack that lets you plug in a set of wired headphones for private listening. Additionally, it can remotely wake the Switch 2 from standby via Bluetooth (a growing number of wireless controllers possess this ability), so you don’t have to get off your couch to hit the console’s power button. Lastly, this model has two additional buttons that can be mapped within the Switch 2’s OS to mimic almost any other button (some cheaper alternatives, including the 8BitDo Ultimate 2 and Pro 3, feature four extra buttons, but a more cumbersome mapping process).\n\nRead our review of the Switch 2 Pro\nNintendo Switch 2 Pro Controller\nThe Switch 2 Pro Controller features new remappable “GL” and “GR” rear buttons, the “C” button to access in-game chat features, and a headphone jack.\n\nWhere to Buy: $89 at Walmart $89.99 at Best Buy $89.99 at GameStop\n\n\n8Bitdo USB Adapter 2\n\nIt’s technically not a controller, but I’m a broken record when it comes to recommending 8BitDo’s USB Adapter 2 for households already with more than one console. In the case that you have an Xbox or a PS5 and would rather not buy a bespoke Switch 2 controller, just buy this $20 adapter instead, and use it to connect a wireless controller you already own.\n\nThis adapter goes into the Switch 2’s dock (or directly into the console, if you have a USB-A to C adapter). Connecting your controller is as easy as putting it into pairing mode, then ensuring that the “Pro Controller Wired Communication” option is turned on within the console’s settings. Click and hold the adapter’s coin-shaped button to initiate pairing, then you should be good to go. The DualSense’s rumble and motion controls work seamlessly, and you can remap buttons as you please within the console’s OS, just like you would an official Switch controller.\nBest adapter: 8BitDo Wireless Bluetooth USB Adapter 2\nThe 8BitDo’s latest adapter resembles a flash drive, but once connected to your Switch’s dock, it allows you to wirelessly pair it with a variety of PlayStation, Xbox, and Nintendo controllers.\n\nWhere to Buy: $19.99 $17.99 at Amazon $19.99 $17.99 at 8BitDo $19.99 $17.99 at Best Buy\nBest Switch 2 cases\n\nDbrand Killswitch\n\nThe Killswitch is a great Switch 2 companion, whether you’re someone who primarily uses the console in handheld mode or while it’s docked. It’s a case that wraps around the Switch 2’s back, with detachable components that snugly grip onto each Joy-Con 2, adding some extra bulk that makes them more comfortable to hold. Above all else, it’s a great way to protect your console from scratches and slightly more significant damage. What’s also great is that it doesn’t limit its flexibility as a hybrid console.\n\nEach Killswitch ships with a USB-C dock adapter that is inserted into the Switch 2 dock. Since the case-equipped console can no longer fit in Nintendo’s dock, this adapter lets you connect it to your TV without taking off the case. It’s tougher to correctly align the Switch 2’s USB-C jack with this adapter than it is to put it in the dock, but it gets easier with practice. \n\nRead our review of the Dbrand Killswitch\nDbrand Killswitch &#8211; Switch 2\n\nWhere to Buy: $59.95 at Dbrand\nTomtoc FancyCase Slim zip-up case\n\nThe best, slimmest zip-up case you should buy is made by Tomtoc. Compared to the Belkin hard zip-up case that I got my hands on before the Switch 2’s launch, the Tomtoc FancyCase slim case feels more durable; anecdotally, it holds up much better to being squeezed by hand. It even has more vertical clearance above the Joy-Con 2 sticks, so it’ll never press them in on accident. Like most zip-up cases, it features a screen cover that doubles as cartridge storage. This one can hold 12 cartridges.\n\nI’m confident that it’ll absorb more potential damage over time than other cases I’ve tried. Plus, it just looks cooler, with low-profile designs for gamers who don’t want to draw attention to their console. That said, its “Froz Edition” has ice cream-inspired looks that are a lot more expressive.\ntomtoc slim carrying case for the Switch 2\nThis hard case has a soft touch and a slim fit, and includes a flap that can hold up to 12 cartridges as it protects the console&#8217;s screen.\n\nWhere to Buy: $47.99 $25.99 at Amazon\nBelkin fabric zip-up case\n\nBelkin’s $29.99 zip-up case is another competent, good-looking option that’s slim and lightweight. It’s worth considering over the Tomtoc for one reason only: its built-in pocket, which is great if you need to stow a charging cable or any other small doo-dads.&nbsp;Not to mention, this pocket contains another pocket for an AirTag or similar Bluetooth tracker, so you can track this case’s location should you lose track of it.\n\nBelkin makes a thicker, pricier version of this case that has a 20,000mAh 20W battery inside. It’s nearly identical until you open it. A cutout fits this (and only this) Belkin battery perfectly, and it lets you charge your Switch 2 at top speeds while it’s protected.\nBelkin Carrying Case for Nintendo Switch 2\n\nWhere to Buy: $29.99 at Amazon $29.99 at Belkin\nBest Switch 2 cameras\n\nThe best webcam that you can get for your Switch 2 should be the cheapest one you can find that’s guaranteed to work with it. So far, Logitech has confirmed that almost all of its webcams support the Switch 2, and Elgato has updated its Facecam MK.2 to support it, as well. Elgato’s model is pricier than we recommend most people spend, but it’s a solid option if you also have a PC to use it with. It’s worth knowing that the Switch 2 displays low-fidelity video feeds during gameplay, so unless you plan to use the webcam with your PC as well, it’s not worth spending a lot for a model that promises great video quality.&nbsp;\n\nLogitech Brio 100 webcam\n\nWhere to Buy: $39.99 $29.99 at Amazon $39.99 at Staples $39.99 $29.99 at Logitech\n\nNintendo Switch 2 Camera\n\nWhere to Buy: $54 at Walmart $54.99 at Best Buy $54.99 at Target\n\nElgato Facecam MK.2\n\nWhere to Buy: $139.99 $109.99 at Best Buy $139.99 $109.95 at Amazon $139.99 $109.95 at Amazon\n\n\n\nBest Switch 2 portable batteries\n\nThe Switch 2 is more powerful than the original Switch. However, it doesn’t require all that much more power to charge, even while you’re playing games. While new phones and tablets are breaking new ground with fast charging speeds, getting a power bank that can deliver at least 20W is totally sufficient to get the fastest-possible charging speeds with the Switch 2 in handheld mode.&nbsp;\n\nBy using a display-equipped USB-C cable with a wattage reading, I was able to see that the Switch 2 usually pulls a maximum of about 15-17W of power (sometimes less) from a USB-C battery during gameplay. When the system was asleep, the rate went down to between 8-13W, fluctuating at different points during the charging process. From a totally dead state, the console took almost 90 minutes to reach 69 percent with a 20W battery plugged into it. You’ll likely drain your USB-C battery more quickly if you’re playing as you charge.\n\nThankfully, your options for compatible batteries are plentiful. You’ll likely be paying for more power than you’ll need with the Switch 2, but more power (and especially more ports) are never a bad thing to have too much of.\n\nAnker Zolo Power Bank (10K, 30W)\n\nWhere to Buy: $25.99 $22.99 at Amazon $25.99 at Anker\n\nUgreen Nexode power bank (20K, 45W)\n\nWhere to Buy: $45.99 $29.99 at Amazon\n\nBaseus Picogo power bank (10K, 45W)\n\nWhere to Buy: $39.99 $24.68 at Amazon\n\nIniu Pocket Rocket P50 power bank\n\nWhere to Buy: $32.99 at Amazon\n\n\n\nBest microSD Express cards for Switch 2\n\nThe Switch 2 supports microSD Express cards of up to 2TB, even though models with that amount of storage aren’t yet available for purchase. Most brands make cards in 128GB, 256GB, and 512GB configurations, and some offer 1TB cards as well. I’d suggest grabbing the cheapest microSD Express card you can find, as so far they all offer similarly fast read/write speeds.&nbsp;Right now, Samsung’s P9 is one of the most affordable models you can get.\nSamsung P9 microSD Express Card\n\nWhere to Buy: $54.99 $47.49 at Amazon (256GB) $99.99 $74.99 at Amazon (512GB)\nOther cheap, must-have Switch 2 accessories\n\nThere are two extra items that I think most people should consider buying for their Switch 2. The first is a screen protector. As I mentioned at the top of the post, the console’s screen is its most fragile component, so spend the $10 or so necessary to get a multipack of tempered glass protectors so you don’t have to think about it again. Many brands make them, but I’ve had great experiences with stuff from amFilm.\namFilm OneTouch two-pack of glossy screen protectors\nThis two-pack of glossy screen protectors is a great value.\n\nWhere to Buy: $9.99 $6.47 at Amazon\nThe other accessory is a USB-C-to-Ethernet adapter. It’s possible that you may get a ton of usage out of this, especially if you play online multiplayer games and you want to nip latency in the bud. Or, if you’re like me, you’ll just plug it in when it comes time to download a game. The Switch 2’s Wi-Fi is awfully slow when it comes to downloading large files, even when you have fast internet. Plugging this accessory into either of its USB-C ports greatly increases download speeds.\nUgreen USB-C-to-ethernet adapter\n\nWhere to Buy: $14.99 $9.49 at Amazon\nUpdate, November 25th: This article was updated to reflect changing prices and stock, and to add the Samsung P9 microSD Express card.",
+      "content_length": 12422,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Four more arrested in €88 million Louvre jewel heist, Paris prosecutor says",
+      "link": "https://www.france24.com/en/video/20251125-four-more-arrested-in-%E2%82%AC88-million-louvre-jewel-heist-paris-prosecutor-says",
+      "published": "2025-11-25T19:29:58",
+      "content": "The Paris prosecutor announced four more arrests Tuesday in connection with the stunning heist at the Louvre Museum in October by a gang that made off with 88 million euros' worth of jewels. The loot hasn't been recovered. FRANCE 24's Emerald Maxwell reports.",
+      "content_length": 259,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Perplexity says its AI personal shopper ‘puts you first’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal",
+      "published": "2025-11-25T19:26:11",
+      "content": "\n\n\n\t\n\t\t\n\nPerplexity is ramping up its AI shopping experience going into the holiday season, just like OpenAI and Google, with a free AI-powered shopping feature that is available now to US users. Its AI assistant looks similar to what we’ve seen from ChatGPT’s shopping research, as users type in what they’re looking for and refine the results with follow-up questions. The recommended products show up as cards with specs and reviews, and users can buy products directly through Perplexity from merchants that support PayPal.&nbsp;\n\nIf you ask for a jacket to wear on your commute by ferry across the Bay to San Francisco, Perplexity says the chatbot will remember this past interaction to inform its recommendation when you later ask for boots. It’s available now on the desktop and web, with mobile access via&nbsp; iOS and Android due in “the coming weeks.”&nbsp;\n\nPerplexity says its “Instant Buy” partnership with PayPal allows merchants to stay in the retail loop and build relationships with customers, “just as they would on their own sites,” perhaps as a way to address what The Verge EIC Nilay Patel has described as “the DoorDash problem.”&nbsp;&nbsp;\n\nPerplexity’s announcement post takes digs at search bars that it says “fail at exploration” and editorial outlets that “prioritize affiliate revenue over matching readers to the exact products they’ll love” (maybe you could take a look at our Black Friday guide and see how it measures up?). Online shopping, Perplexity says, tends to focus on speedy checkouts, “not the joy” of shopping. Instead, Perplexity says its AI assistants, also called agents by other companies, “understand intent, remember preferences, and act as extensions of how users would approach a task on their own.”",
+      "content_length": 1751,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Daughter of ex-South African leader Zuma accused of luring men to fight in Russia-Ukraine war",
+      "link": "https://www.france24.com/en/video/20251125-daughter-of-ex-south-african-leader-zuma-accused-of-luring-men-to-fight-in-russia-ukraine-war",
+      "published": "2025-11-25T19:26:02",
+      "content": "South African police are investigating claims that a daughter of ex-president Jacob Zuma was involved in recruiting men to join Russian mercenaries in the Ukraine war. The allegations against Duduzile Zuma-Sambudla claim Zuma-Sambudla and two other people were involved in recruiting 17 South Africans whom the presidency said this month it had been asked to rescue from Ukraine's war-ravaged Donbas region. FRANCE 24's Eunice Masson reports from Cape Town.",
+      "content_length": 457,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Georgia's fifth president Salomé Zourabichvili on her optimism for her country's future",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20251125-georgia-s-fifth-president-salom%C3%A9-zourabichvili-on-her-optimism-for-her-country-s-future",
+      "published": "2025-11-25T19:22:11",
+      "content": "The fifth president of Georgia has spoken to FRANCE 24 about her decision to leave the presidential palace almost a year ago, and her attempts ever since to help the millions of people who support her and the country’s bid for EU membership. After losing elections in Georgia that were widely seen as fraudulent and amid huge demonstrations in the country, Salomé Zourabichvili stayed in place to fight the pro-European cause. She spoke to us about the war in Ukraine, as well as her optimism that her country will once again turn away from Russia and towards Europe.",
+      "content_length": 567,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "International Day for the Elimination of Violence Against Women: How is AI reinventing misogyny?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251125-international-day-for-the-elimination-of-violence-against-women-how-is-ai-reinventing-misogyny",
+      "published": "2025-11-25T19:15:45",
+      "content": "Every 10 minutes last year, a woman somewhere in the world was killed by a person close to her, while some 50,000 women and girls were killed by intimate partners or family members in 2024. These figures have been released by the UN as we mark the International Day for the Elimination of Violence against Women and Girls. But how do we get the message across that violence against women and girls is a men's issue; particularly as the rise of AI has intensified digital abuse directed at women?",
+      "content_length": 495,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup",
+      "link": "https://www.theguardian.com/world/2025/nov/25/jair-bolsonaro-brazil-prison",
+      "published": "2025-11-25T19:08:24",
+      "content": "Ex-president to start serving term in 12 sq metre bedroom in police base in Brasília after time for appeals elapsesBrazil’s former president, Jair Bolsonaro, has been ordered to start serving his 27-year sentence in a 12 sq metre bedroom in a police base in the capital, Brasília, after his conviction for plotting a coup.The far-right populist, 70, who governed Latin America’s largest democracy from 2019 until 2022, was handed the punishment in September after the supreme court found him guilty of leading a criminal conspiracy to stop his leftwing rival, Luiz Inácio Lula da Silva, taking power. Continue reading...",
+      "content_length": 620,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Konsumenten in den USA werden sparsam",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/konusmenten-usa-weihnachtsgeschaeft-100.html",
+      "published": "2025-11-25T19:03:11",
+      "content": "   Viele US-Bürger geben derzeit eher wenig Geld aus. Wenn die sonst so konsum- und schuldenfreudigen Amerikaner weniger kaufen, ist das ein Alarmsignal für die Stimmung im Land. Von Ingo Nathusius.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie der erste Liebesroman der Weltliteratur entstand",
+      "link": "https://www.tagesschau.de/kultur/murasaki-shikibu-erster-liebesroman-100.html",
+      "published": "2025-11-25T19:01:55",
+      "content": "   \"Die Geschichte vom Prinzen Genji\" wird oft als der älteste Liebesroman der Weltliteratur bezeichnet. Geschrieben von einer Frau vor rund tausend Jahren am Kaiserhof in Kyoto: Murasaki Shikibu. Ihr Werk ist bis heute in Japan beliebt. Von Dominic Konrad.[mehr]",
+      "content_length": 263,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tote Studentin Hanna in Bayern: Angeklagter in zweitem Anlauf freigesprochen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/prozess-hanna-freispruch-100.html",
+      "published": "2025-11-25T18:59:19",
+      "content": "   Im vergangenen Jahr war er wegen Mordes verurteilt worden, nun darf er das Gericht als freier Mann verlassen: Der Angeklagte im sogenannten \"Eiskeller\"-Prozess um den Tod der Studentin Hanna wurde im zweiten Anlauf freigesprochen.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Überschwemmungen im Gazastreifen nach heftigem Regen",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-regenfaelle-100.html",
+      "published": "2025-11-25T18:57:30",
+      "content": "   Nach heftigen Regenfällen hat sich die Situation für viele Menschen im Gazastreifen weiter verschlechtert. Provisorische Zeltlager stehen unter Wasser - in einem Gebiet, das durch den Krieg weitgehend verwüstet ist.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "China launches an emergency lifeboat to bring three astronauts back to Earth",
+      "link": "https://arstechnica.com/space/2025/11/china-launches-an-emergency-lifeboat-to-bring-three-astronauts-back-to-earth/",
+      "published": "2025-11-25T18:37:19",
+      "content": "An unpiloted Chinese spacecraft launched late Monday and linked up with the country’s Tiangong space station a few hours later, providing a lifeboat for three astronauts stuck in orbit without a safe ride home.\nA Long March 2F rocket fired its engines and lifted off with the Shenzhou 22 spacecraft, carrying cargo instead of a crew, at 11:11 pm EST Monday (04:11 UTC Tuesday). The spacecraft docked with the Tiangong station nearly 250 miles (400 kilometers) above the Earth about three-and-a-half hours later.\nChinese engineers worked fast to move up the launch of the Shenzhou 22, originally set to fly next year. On November 4, astronauts discovered one of the two crew ferry ships docked to the Tiangong station had a damaged window, likely from an impact with a small fragment of space junk. The crew members used a microscope to photograph the defect from different angles, confirming a small triangular area with a crack, Zhou Jianping, chief designer of China’s human spaceflight program, told Chinese state media.Read full article\nComments",
+      "content_length": 1049,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wyze’s new security camera watches your yard from inside your home",
+      "link": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
+      "published": "2025-11-25T18:36:31",
+      "content": "\n\n\n\t\n\tWyze’s Window Cam keeps an eye on your property from the comfort of indoors. | Image: Wyze\t\n\nWyze has announced an unorthodox approach to outdoor security cameras with its new Window Cam that monitors your yard and property from inside your home. This Rear Window approach to security means the camera doesn&#8217;t need batteries, Wi-Fi range extenders, access to an exterior power outlet, or weatherproofing. The company already offers window mounts for its indoor security cameras, but the Wyze Window Cam is purpose-built for the task with infrared and LED lighting completely removed to reduce glare and reflections. It’s available now from Wyze’s online store for $34.98.\n\nThe Window Cam features a 1080P HD sensor paired with a lens offering a 101-degree horizontal field of view that’s limited to 53.9 degrees vertically. It also features “enhanced color night vision,” according to Wyze, that takes advantage of a wide f/1.0 aperture to capture color footage with minimal ambient light.\n\nThe included mount uses a large black bezel to minimize glare from indoor lighting. While the camera is attached using generic hook-and-loop fastener, the mount itself adheres to a window using an adhesive sticker. The sticker isn’t designed to be reused(you’ll actually need a hair dryer and a scraper to remove it), but Wyze includes two of them if you later decide to reposition the mount.\n\nA 10-foot long microUSB cable is included for connecting the Window Cam to power, but you’ll need to provide your own microSD card, up to 512GB in capacity, if you opt for secure 24/7 local recording. The camera does have a built-in microphone and speaker, but its two-way communication capabilities and ability to record audio of outside events will be less effective behind a window than with a security camera mounted outside your home.\n\nThe Window Cam offers motion detection alerts that can include AI-generated descriptions of what’s seen if you subscribe to the company’s $19.99/month or $199.99/year Cam Unlimited Pro service.\n\nYou can also use the Window Cam with Wyze’s cloud storage that’s available through subscription plans ranging in price from $2.99/month to $19.99/month, if you’re comfortable with the company’s recent efforts to improve its security practices. Wyze had a serious security breach last year that let thousands of customers briefly see into other people’s homes, and before that, it failed to disclose vulnerabilities in now-discontinued products that could have theoretically let hackers access video feeds over the internet.",
+      "content_length": 2556,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine: Gebietsabtretungen - ein Verstoß gegen das Völkerrecht?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gebietsabtretungen-voelkerrecht-100.html",
+      "published": "2025-11-25T18:25:32",
+      "content": "   Russland fordert, dass die Ukraine auf besetzte und noch nicht eroberte Gebiete verzichtet. Eine solche Abtretung wird auch im Zusammenhang mit den jüngsten Plänen für ein Kriegsende debattiert. Doch wäre das mit dem Völkerrecht vereinbar? Von Max Bauer.[mehr]",
+      "content_length": 263,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die überraschende Waffenruhe im Sudan - und Trumps Einfluss",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-feuerpause-100.html",
+      "published": "2025-11-25T18:07:58",
+      "content": "   Seit Jahren herrscht Bürgerkrieg im Sudan. Nun hat die RSF-Miliz überraschend eine einseitige Waffenruhe ausgerufen - was auch mit US-Präsident Trump zu tun haben dürfte. Gibt es tatsächlich eine Chance auf ein Ende der Kämpfe? Von A. Osius.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Brazil's ex-president Bolsonaro exhausts appeals, will serve 27-year sentence",
+      "link": "https://www.france24.com/en/live-news/20251125-brazil-s-ex-president-bolsonaro-exhausts-appeals-will-serve-27-year-sentence",
+      "published": "2025-11-25T17:59:26",
+      "content": "Brazil's Supreme Court on Tuesday concluded former President Jair Bolsonaro's coup plotting case after rejecting his appeal earlier this month. The court is expected to order Bolsonaro to serve a 27-year prison sentence.",
+      "content_length": 220,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement",
+      "link": "https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/",
+      "published": "2025-11-25T17:51:42",
+      "content": "RealPage has agreed to settle an antitrust lawsuit raised by the Department of Justice, alleging that landlords used its tools to coordinate efforts to artificially raise rental prices across the US.\nIn a press release, the DOJ promised the proposed settlement “would help restore free market competition in rental markets for millions of American renters.”\nFor years since the pandemic started, rental prices outpaced inflation, and the DOJ suspected that RealPage was the dominant force driving a market that never favored renters. Recent Bureau of Labor Statistics data covering a 12-month period ending this September showed rents are still rising by 3.5 percent amid an affordability crisis, leaving some US renters in fear of housing instability.Read full article\nComments",
+      "content_length": 778,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK accused of caving-in to British Virgin Islands over access to companies register",
+      "link": "https://www.theguardian.com/world/2025/nov/25/uk-accused-of-caving-in-to-british-virgin-islands-over-access-to-company-register",
+      "published": "2025-11-25T17:42:38",
+      "content": "Parliamentary group urges government to clamp down on overseas territories before flagship anti-corruption summitThe UK government has been accused of caving-in to pressure from the British Virgin Islands by allowing it to limit access to a register of company share ownership to only those deemed to have a legitimate interest.The restriction, to be discussed at talks starting on Tuesday between Foreign Office ministers and leaders of the British overseas territories (BOTs) in London, is in defiance of legislation passed by the UK government as long ago as 2008 that would make the register available to all. Continue reading...",
+      "content_length": 633,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Protests erupt in China’s Guizhou province over cremation mandate",
+      "link": "https://www.theguardian.com/world/2025/nov/25/protests-erupt-in-chinas-guizhou-province-over-cremation-mandate",
+      "published": "2025-11-25T17:41:30",
+      "content": "Villagers demonstrate against drive for alternative funeral practices instead of burial to preserve land resourcesProtests have erupted in China’s southern Guizhou province, the latest in a string of rural demonstrations that have seen incidents of unrest increase by 70% compared with last year.The protests in Shidong town started over the weekend in response to a directive from local authorities that people should be cremated rather than buried after their death. Continue reading...",
+      "content_length": 488,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The rise of masculinism: Nine misogynistic propaganda arguments debunked (3/3)",
+      "link": "https://www.france24.com/en/france/20251125-the-rise-of-masculinism-3-3-nine-misogynistic-propaganda-arguments-debunked",
+      "published": "2025-11-25T17:40:13",
+      "content": "For the International Day for the Elimination of Violence against Women, FRANCE 24 examines a sharp rise in masculinist discourse that seeks to normalise and legitimise misogyny. In this third and final part of the series, we look at some of the main arguments pushed by masculinist propaganda – and the facts and figures that debunk them.",
+      "content_length": 339,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Afrika-Gipfel in Angola beendet",
+      "link": "https://www.tagesschau.de/ausland/afrika/eu-afrika-angola-100.html",
+      "published": "2025-11-25T17:17:49",
+      "content": "   Viele Themen standen auf der Tagesordnung des EU-Afrika-Gipfels in Angola. Das Ergebnis: Europa will ein verlässlicher Partner sein - wirtschaftlich und politisch. Und man wolle Frieden auf beiden Kontinenten. Von S. Ueberbach.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one",
+      "link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
+      "published": "2025-11-25T16:51:40",
+      "content": "After Valve announced its upcoming Steam Machine living room box earlier this month, some analysts suggested to Ars that Valve could and should aggressively subsidize that hardware with “loss leader” pricing that leads to more revenue from improved Steam software sales. In a new interview with YouTube channel Skill Up, though, Valve’s Pierre-Loup Griffais ruled out that kind of console-style pricing model, saying that the Steam Machine will be “more in line with what you might expect from the current PC market.”\nGriffais said the AMD Zen 4 CPU and RDNA3 GPU in the Steam Machine were designed to outperform the bottom 70 percent of machines that opt-in to Valve’s regular hardware survey. And Steam Machine owners should expect to pay roughly what they would for desktop hardware with similar specs, he added.\n“If you build a PC from parts and get to basically the same level of performance, that’s the general price window that we aim to be at,” Griffais said.Read full article\nComments",
+      "content_length": 993,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kommentar: EuGH-Urteil schiebt Polens Eherecht ins 21. Jahrhundert",
+      "link": "https://www.tagesschau.de/kommentar/eugh-polen-gleichgeschlechtliche-ehe-kommentar-100.html",
+      "published": "2025-11-25T16:51:15",
+      "content": "   Der EuGH hat ein kluges Urteil gefällt, meint Philip Raillon. In Polen schiebt es das Eherecht ins 21. Jahrhundert. Und für andere EU-Staaten wie Ungarn oder Rumänien, in denen queere Menschen benachteiligt werden, setzt es ein Zeichen.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Culture: The art of seduction according to French actor Lucas Bravo",
+      "link": "https://www.france24.com/en/video/20251125-the-art-of-seduction-according-to-french-actor-lucas-bravo",
+      "published": "2025-11-25T16:48:00",
+      "content": "French actor Lucas Bravo, revealed to the public by his performance in \"Meily in Paris\", is back on screen with \"The Seduction\", a fresh take on \"Dangerous Liaisons\".\n \nHe told us about his own art of seduction.",
+      "content_length": 211,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "International Day for the Elimination of Violence Against Women",
+      "link": "https://www.france24.com/en/video/20251125-international-day-for-the-elimination-of-violence-against-women",
+      "published": "2025-11-25T16:45:42",
+      "content": "In 2024 in France, 107 women were killed by their partner ot ex-partner.",
+      "content_length": 72,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Women gaining a 'greater presence': What have women gained legally, culturally, professionally?",
+      "link": "https://www.france24.com/en/video/20251125-women-gaining-a-greater-presence-what-have-women-gained-legally-culturally-professionally",
+      "published": "2025-11-25T16:37:37",
+      "content": "To commemorate International Day for the Elimination of Violence against Women, Eve Irvine is pleased to welcome Dr Ashley Morgan, Masculinities Scholar and Senior Lecturer in the School of Art and Design at Cardiff Metropolitan University. The day was established by the United Nations a quarter of a century ago. November 25th honours the legacy of the Mirabal sisters, three Dominican activists who were assassinated for their relentless fight for freedom and justice against the brutal regime of Rafael Trujillo. Since its inception, the day has inspired global campaigns to amplify women’s voices, advance women’s rights, and end violence against women worldwide.",
+      "content_length": 668,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Leichnam einer weiteren Geisel an Israel übergeben",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-hamas-geisel-100.html",
+      "published": "2025-11-25T16:15:53",
+      "content": "   Islamistische Terrorgruppen haben die sterblichen Überreste einer weiteren Geisel an Israel übergeben. Die Identität ist noch nicht bekannt. Im Gazastreifen befinden sich jetzt noch die Leichen von zwei Geiseln.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU plant Defizitverfahren gegen Finnland wegen zu hoher Neuschulden",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-finnland-verfahren-defizit-100.html",
+      "published": "2025-11-25T16:15:21",
+      "content": "   Finnland drohen aufgrund seiner Haushaltsführung Konsequenzen: Die Höhe der Neuschulden fällt der EU-Kommission deutlich zu hoch aus - sie droht deshalb ein Defizitverfahren an. Deutschland bleibt trotz neuer Milliardenkredite davon verschont.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Polen muss in EU geschlossene gleichgeschlechtliche Ehe anerkennen",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-gleichgeschlechtliche-ehe-100.html",
+      "published": "2025-11-25T15:48:53",
+      "content": "   Polen muss eine Ehe anerkennen, die in einem anderen EU-Staat geschlossen wurde. Der EuGH hat mit dem Urteil die Rechte gleichgeschlechtlicher Paare in der gesamten EU gestärkt. Von Egzona Hyseni und Martha Wilczynski.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Viele ältere Menschen fühlen sich digital abgehängt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-abgehaengt-100.html",
+      "published": "2025-11-25T15:41:20",
+      "content": "   Fast die Hälfte der Menschen ab 60 Jahren bewertet die eigenen Digitalkenntnisse als schlecht, sie fühlen sich oft abgehängt. Bildungsangebote für ältere Menschen können helfen. Von David Zajonz.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Qualcomm-NPU statt Nvidia: Dell bietet Mobil-Workstation mit neuer Technik an",
+      "link": "https://www.heise.de/news/Vorerst-Linux-exklusiv-Dell-verkauft-Notebook-mit-Qualcomm-Beschleuniger-11091596.html",
+      "published": "2025-11-25T15:40:00",
+      "content": "Neue Varianten des Dell Pro Max 16 Plus verwenden eigenständige KI-Beschleuniger von Qualcomm anstelle einer Nvidia-GPU.",
+      "content_length": 120,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "UN: Alle zehn Minuten wird eine Frau in ihrer Partnerschaft getötet",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-bericht-gewalt-frauen-100.html",
+      "published": "2025-11-25T15:36:40",
+      "content": "   Am \"Internationalen Tag gegen Gewalt an Frauen\" veröffentlichen die Vereinten Nationen erschreckende Zahlen: Mehr als 80.000 Frauen sind im vergangenen Jahr Opfer von Femiziden geworden - die meisten von ihnen in ihrer Partnerschaft. [mehr]",
+      "content_length": 243,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Jacob Zuma’s daughter accused of tricking men into fighting for Russia in Ukraine",
+      "link": "https://www.theguardian.com/world/2025/nov/25/jacob-zuma-daughter-accused-tricking-men-fighting-for-russia-in-ukraine",
+      "published": "2025-11-25T15:13:59",
+      "content": "South African police investigate allegations made against Duduzile Zuma-Sambudla by another of ex-president’s daughtersEurope live – latest updatesSouth African police are investigating allegations that a daughter of the former president Jacob Zuma tricked men into fighting for Russia in Ukraine by telling them they were travelling to Russia for a paramilitary training course.Another of Zuma’s daughters, Nkosazana Zuma-Mncube, filed a police report on Saturday alleging that her sister Duduzile Zuma-Sambudla and two others, Siphokazi Xuma and Blessing Khoza, had recruited 17 men who are now trapped on the frontlines of the war in Ukraine. Continue reading...",
+      "content_length": 665,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Juwelendiebstahl im Louvre: Vier weitere Verdächtige festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/louvre-festnahmen-100.html",
+      "published": "2025-11-25T15:12:30",
+      "content": "   Nach dem Kronjuwelen-Diebstahl im Pariser Louvre hat die Polizei vier weitere Verdächtige festgenommen. Die Ermittler äußerten sich nicht, ob unter ihnen der noch gesuchte vierte Einbrecher ist. Drei Männer sitzen bereits in Untersuchungshaft.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rebuilding ‘human-made abyss’ in Gaza will cost at least $70bn, UN says",
+      "link": "https://www.theguardian.com/world/2025/nov/25/rebuilding-human-made-abyss-gaza-un",
+      "published": "2025-11-25T15:04:04",
+      "content": "Report says Israel’s operations ‘significantly undermined every pillar of survival’ and reduced the economy by 87%Israel’s war in Gaza has created a “human-made abyss”, and reconstruction is likely to cost more than $70bn (£53bn) over several decades, the United Nations has said.The UN’s trade and development agency (Unctad) said in a report that Israel’s military operations had “significantly undermined every pillar of survival” and that the entire population of 2.3 million people faced “extreme, multidimensional impoverishment”. Continue reading...",
+      "content_length": 556,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Berichte über Ukraine-Gespräche von Russland und den USA in Abu Dhabi",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-russland-usa-100.html",
+      "published": "2025-11-25T14:38:41",
+      "content": "   Am Wochenende haben die USA gemeinsam mit Ukrainern und Europäern ihren 28-Punkte-Plan nachjustiert. Nun gab es offenbar ein Gespräch mit Russland in Abu Dhabi. Doch der Kreml bremst die Erwartungen.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Vatikan schreibt Latein nicht mehr als erste Amtssprache vor",
+      "link": "https://www.tagesschau.de/ausland/europa/vatikan-amtssprache-latein-100.html",
+      "published": "2025-11-25T14:30:43",
+      "content": "   Der Vatikan war der einzige Staat der Welt mit Latein als erster Amtssprache, doch das ist Geschichte. Eine neue Regelung weicht die Stellung des Latein auf. Gepflegt wird die Sprache der Römer aber weiterhin.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU verabschiedet strengere Regeln für weniger Schadstoffe in Spielzeug",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-spielzeug-regeln-100.html",
+      "published": "2025-11-25T13:48:14",
+      "content": "   Spielzeug wie Bausteine oder Puppen sollen in Zukunft weniger mit schädlichen Chemikalien belastet sein. Das betrifft auch importierte Spielwaren. Die EU führt dafür einen digitalen Produktpass ein.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Asche aus äthiopischem Vulkan behindert Flugverkehr in Indien",
+      "link": "https://www.tagesschau.de/ausland/afrika/vulkan-aethiopien-ausbruch-102.html",
+      "published": "2025-11-25T13:41:21",
+      "content": "   Der Ausbruch des Vulkans Hayli Gubbi in Äthiopien ist glimpflich verlaufen - hat aber Tausende Kilometer entfernt Auswirkungen auf den Flugverkehr: In Indien mussten wegen der Aschewolke mehrere Flüge abgesagt werden.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Worüber auf dem Arbeitgebertag diskutiert wird",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/arbeitgebertag-rentenpaket-wirtschaftskrise-100.html",
+      "published": "2025-11-25T13:36:12",
+      "content": "   Arbeitgeberpräsident Dulger fordert auf dem Arbeitgebertag mehr Mut zu Reformen von der deutschen Bundesregierung. Auch Bundeswirtschaftsministerin Reiche fordert mehr Tempo, es laufe die Zeit davon.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gewalt gegen Frauen: Ein Karton, der Gewaltbetroffenen helfen kann",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/haeusliche-gewalt-hilfe-100.html",
+      "published": "2025-11-25T13:29:41",
+      "content": "   Mehr als 187.000 Frauen haben 2024 in Deutschland häusliche Gewalt erlebt. Viele Betroffene trauen sich nicht, medizinische Hilfe in Anspruch zu nehmen. In Rheinland-Pfalz soll ihnen ein Projekt dabei helfen. Von Johannes Baumert.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Haushaltsdebatte: Wie viel darf der Bund 2026 ausgeben - und wofür?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-138.html",
+      "published": "2025-11-25T13:12:14",
+      "content": "   Vier Tage wird debattiert, dann folgt die Abstimmung: Der Bundestag entscheidet über den Haushalt für 2026. Klar ist: Es geht nur mit hohen Schulden. Von der Opposition kommt heftige Kritik an den Plänen von Finanzminister Klingbeil.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Der Mindestlohn in der Altenpflege soll in zwei Schritten steigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/mindestlohn-pflege-104.html",
+      "published": "2025-11-25T13:07:10",
+      "content": "   Die Pflegekommission hat eine Anhebung des Mindestlohns in der Altenpflege um etwa fünf Prozent empfohlen. Die Bundesregierung will die Empfehlung per Verordnung umsetzen. Doch nicht alle sind mit dem Ergebnis zufrieden. [mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Drohungen per Mail: BKA-Durchsuchungen bei Online-Gruppe \"Schweinetreff\"",
+      "link": "https://www.heise.de/news/Drohungen-per-Mail-BKA-Durchsuchungen-bei-Online-Gruppe-Schweinetreff-11090851.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-25T12:31:00",
+      "content": "Das BKA hat am Dienstag Durchsuchungen bei der Online-Gruppe \"Schweinetreff\" durchgeführt. Die soll für Bombendrohungen verantwortlich sein.",
+      "content_length": 140,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Formation of oceans within icy moons could cause the waters to boil",
+      "link": "https://arstechnica.com/science/2025/11/formation-of-oceans-within-icy-moons-could-cause-the-waters-to-boil/",
+      "published": "2025-11-25T12:15:19",
+      "content": "Our exploration of the outer Solar System has revealed a host of icy moons, many with surface features that suggest a complex geology. In some cases, these features—most notably the geysers of Enceladus—hint at the presence of oceans beneath the icy surfaces. These oceans have been ascribed to gravitational interactions that cause flexing and friction within the moon, creating enough heat to melt the body’s interior.\nSomething that has received a bit less attention is that some of these orbital interactions are temporary or cyclical. The orbits of any body are not always regular and often have long-term cycles. That’s also true for the other moons that provide the gravitational stress. As a result, the internal oceans may actually come and go, as the interiors of the moons melt and refreeze.\nA new study, released today by Nature Astronomy, looks at one of the consequences of the difference in density between liquid water and ice (about 10 percent): the potential for the moon’s interior to shrink as it melts, leaving an area of low pressure immediately below its icy shell. If the moon is small enough, this study suggests, that could cause the surface of the ocean to boil.Read full article\nComments",
+      "content_length": 1215,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Koalition setzt auf Renteneinigung im Koalitionsausschuss",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-union-koalition-100.html",
+      "published": "2025-11-25T12:01:39",
+      "content": "   Gibt es in dieser Woche eine Einigung im Rentenstreit? CDU-Politiker Bilger setzt auf den Koalitionsausschuss am Donnerstag. Doch die Junge Gruppe in der Union fordert weiter Zugeständnisse. [mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mushroom foragers collect 160 species for food, medicine, art, and science",
+      "link": "https://arstechnica.com/science/2025/11/mushroom-foragers-collect-160-species-for-food-medicine-art-and-science/",
+      "published": "2025-11-25T12:00:50",
+      "content": "Like many mushroom harvesters, I got interested in foraging for fungi during the COVID-19 pandemic.\nI had been preparing for a summer of field work studying foraged desert plants in a remote part of Australia when the pandemic hit, and my travel plans were abruptly frozen. It was March, right before morel mushrooms emerge in central Pennsylvania.\nI wasn’t doing a lot other than going on long hikes and taking classes remotely at Penn State for my doctoral degree in ecology and anthropology. One of the classes was an agroforestry class with Eric Burkhart. We studied how agriculture and forests benefit people and the environment.Read full article\nComments",
+      "content_length": 660,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Anthropic stellt Claude Opus 4.5 vor",
+      "link": "https://www.heise.de/news/Anthropic-bringt-Claude-Opus-4-5-auf-den-Markt-11090935.html",
+      "published": "2025-11-25T11:54:00",
+      "content": "Eine Woche nach dem Launch von Googles Gemini 3 stellt Anthropic mit Claude Opus 4.5 eine neue Version seines Top-KI-Modells vor.",
+      "content_length": 129,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fanfiction - zwischen tiefer Verbeugung und kritischer Aneignung",
+      "link": "https://www.tagesschau.de/kultur/fanfiction-106.html",
+      "published": "2025-11-25T11:50:46",
+      "content": "   Wenn Fans ihre Lieblingsgeschichten um- oder fortschreiben, nennt man das Fanfiction. Das einstige Randphänomen der etablierten Literaturszene ist inzwischen zu deren Liebhaberprojekt und Verkaufsargument geworden. Von Alexandra Friedrich.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Laut EuGH gilt eine gleichgeschlechtliche Ehe EU-weit",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eu-gleichgeschlechtliche-ehe-100.html",
+      "published": "2025-11-25T11:17:14",
+      "content": "   Zwei polnische Männer wollten ihre in Deutschland geschlossene Ehe in ihrer Heimat eintragen lassen - und scheiterten an den Behörden. Das verstößt gegen EU-Recht, urteilt der EuGH. Das bedeutet aber nicht, dass nun überall die Ehe für alle gilt.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Apple baut US-Sales-Organisation um: \"Dutzende\" Entlassungen",
+      "link": "https://www.heise.de/news/Apple-baut-US-Sales-Organisation-um-Dutzende-Entlassungen-11090712.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-25T10:54:00",
+      "content": "Im Gegensatz zu Microsoft, Meta oder Amazon hat sich Apple bei Stellenstreichungen zurückgehalten. Nun will der Konzern den Vertrieb umbauen, was Jobs kostet.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Razzien der Polizei gegen Gruppe wegen falscher Bombendrohungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/razzien-bombendrohungen-100.html",
+      "published": "2025-11-25T10:48:31",
+      "content": "   Nach Bombendrohungen gegen Schulen und Einkaufzentren gab es in mehreren Bundesländern Durchsuchungen der Polizei. Ermittelt wird gegen vier Tatverdächtige - zwei davon sind noch minderjährig. Das Motiv war offenbar öffentliche Aufmerksamkeit.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Millionen Downloads: Adware-Kampagne \"GhostAd\" in Google Play Store",
+      "link": "https://www.heise.de/news/Millionen-Downloads-Adware-Kampagne-GhostAd-in-Google-Play-Store-11090748.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-25T10:44:00",
+      "content": "Hoch gelistete, insgesamt millionenfach installierte Apps in Google Play haben aggressiv Werbung ausgespielt und Handy-Akkus leergezogen.",
+      "content_length": 137,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merz sucht eine EU-Ukraine-Politik als Gegengewicht zum US-Plan",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundesregierung-ukraine-europa-100.html",
+      "published": "2025-11-25T10:34:49",
+      "content": "   In Südafrika und Angola hatte Kanzler Merz den Ukrainekrieg immer im Gepäck. Der US-Plan hat schnelles, abgestimmtes Handeln der Europäer nötig gemacht. Doch viele Druckmittel haben sie nicht. Von Uli Hauck.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Suwalki in Polen: Leben an der Achillesferse der NATO",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-suwalki-russland-100.html",
+      "published": "2025-11-25T10:34:16",
+      "content": "   Die Gegend um das polnische Suwalki gilt als die größte Schwachstelle des NATO-Gebiets. Russland und Belarus könnten hier schnell durchstoßen und das Baltikum abtrennen. Doch die Bewohner der Stadt sehen das anders. Von Ina Ruck.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Depressionen: Viele junge Menschen suchen Rat beim KI-Coach",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/ki-psychotherapie-106.html",
+      "published": "2025-11-25T10:30:50",
+      "content": "   Sie haben Tag und Nacht Sprechstunde: KI-Coaches. Immer öfter arbeiten sie als \"Psychotherapeuten\" für Menschen mit Depressionen. Das ergab das 9. Deutschland-Barometer Depressionen. Von Annegret Faber.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zwei Folgen software-architektur.tv: Lernen, Empathie und LLMs als Partner",
+      "link": "https://www.heise.de/news/Zwei-Folgen-software-architektur-tv-Lernen-Empathie-und-LLMs-als-Partner-11089510.html",
+      "published": "2025-11-25T10:14:00",
+      "content": "In zwei Live-Folgen vom Software Architecture Gathering geht es am 26. November um LLMs als kollaborative Partner sowie Lernen und Empathie in der Tech-Branche.",
+      "content_length": 160,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Azure HorizonDB: Microsofts neue PostgreSQL-Datenbank",
+      "link": "https://www.heise.de/news/Azure-HorizonDB-Microsofts-neue-PostgreSQL-Datenbank-11090449.html",
+      "published": "2025-11-25T09:54:00",
+      "content": "Mit Azure HorizonDB bringt Microsoft eine cloud-native PostgreSQL-Datenbank mit bis zu 3072 vCores, VS Code Extensions und integrierten KI-Funktionen.",
+      "content_length": 150,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Taliban werfen Pakistan erneuten Angriff vor",
+      "link": "https://www.tagesschau.de/ausland/asien/taliban-angriff-pakistan-100.html",
+      "published": "2025-11-25T09:43:33",
+      "content": "   Erst im Oktober hatten sich Pakistan und Afghanistan im Grenzgebiet heftige Kämpfe geliefert - jetzt droht wieder eine Eskalation. Die Taliban werfen Pakistan einen erneuten Angriff vor, bei dem mehrere Menschen getötet worden seien.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Die Produktwerker: Emotionen in der Produktarbeit",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Emotionen-in-der-Produktarbeit-11090507.html",
+      "published": "2025-11-25T09:37:00",
+      "content": "Welche Emotionen man wie in der Produktentwicklung berücksichtigen muss, behandelt diese Folge mit Stephanie Weber.",
+      "content_length": 115,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Software Testing: Quality Storming",
+      "link": "https://www.heise.de/blog/Software-Testing-Quality-Storming-11090461.html",
+      "published": "2025-11-25T08:09:00",
+      "content": "Wie man Qualität und Fehler für alle sichtbar machen kann, diskutiert Richard Seidl in dieser Episode mit Georg Haupt.",
+      "content_length": 118,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Game Loops: Spiele und Animationen richtig in Takt bringen",
+      "link": "https://www.heise.de/hintergrund/Game-Loops-Spiele-und-Animationen-richtig-in-Takt-bringen-11089733.html",
+      "published": "2025-11-25T07:36:00",
+      "content": "Game Loops sind das Herzstück jeder Spiele- oder Animations-Engine. Moderne Implementierungen reagieren solide auf unterschiedliche Hardwareanforderungen.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "MyAsus: Update schließt hochriskante Rechteausweitungslücke",
+      "link": "https://www.heise.de/news/Asus-stopft-hochriskante-Rechteausweitungsluecke-in-MyAsus-11090371.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-25T07:16:00",
+      "content": "Asus warnt vor einer als hochriskant eingestuften Sicherheitslücke in der MyAsus-Software. Ein Update steht bereit.",
+      "content_length": 115,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
