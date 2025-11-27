@@ -1,0 +1,1132 @@
+{
+  "metadata": {
+    "timestamp": "20251127_071506",
+    "input_file": "data/deduplicated/20251127_071506.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 134,
+      "filtered_count": 123,
+      "blacklisted_count": 11,
+      "reduction_rate": "8.2%",
+      "top_blacklist_reasons": {
+        "fußball": 2,
+        "regen": 2,
+        "stau": 2,
+        "weltmeister": 1,
+        "temperatur": 1,
+        "vermisst": 1,
+        "brand in": 1,
+        "verspätung": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Washington - Schüsse auf Nationalgardisten: Trump spricht von Terrorakt",
+      "link": "https://www.deutschlandfunk.de/schuesse-auf-nationalgardisten-trump-spricht-von-terrorakt-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "US-Präsident Trump hat nach Schüssen auf Nationalgardisten in Washington von einem Terrorakt gesprochen. Dieser abscheuliche Angriff sei ein Akt des Bösen, ein Akt des Hasses, sagte der Republikaner in einer Ansprache an die Bevölkerung.",
+      "content_length": 237,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verkehrspolitik - Merz kündigt für Koalitionsausschuss am Abend Einigung auf weitgehende Lockerung von Verbrenner-Aus an",
+      "link": "https://www.deutschlandfunk.de/merz-kuendigt-fuer-koalitionsausschuss-am-abend-einigung-auf-weitgehende-lockerung-von-verbrenner-au-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Bundesregierung wird sich heute nach den Worten von Kanzler Merz auf das Ziel einer weitgehenden Lockerung des sogenannten Verbrenner-Aus in der Europäischen Union festlegen.",
+      "content_length": 178,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vor dem Koalitionsausschuss - Söder (CSU) mahnt Beilegung des Rentenstreits in den nächsten Tagen an",
+      "link": "https://www.deutschlandfunk.de/soeder-csu-mahnt-beilegung-des-rentenstreits-in-den-naechsten-tagen-an-118.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Der CSU-Vorsitzende Söder hat eine rasche Beilegung des Rentenstreits in der schwarz-roten Koalition angemahnt. Man müsse dieses Thema in den nächsten Tagen lösen, sagte der bayerische Ministerpräsident im ZDF. Die Schwierigkeit sei, dass alle in ihren Positionen festgemauert seien.",
+      "content_length": 283,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gewerkschaften - Verdi und DGB warnen vor AfD-Kurs der Familienunternehmer",
+      "link": "https://www.deutschlandfunk.de/verdi-und-dgb-warnen-vor-afd-kurs-der-familienunternehmer-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Nachdem sich der Verband der Familienunternehmer Gesprächen mit der AfD geöffnet hat, fordert die Gewerkschaft Verdi eine klare Positionierung anderer Wirtschaftsverbände.",
+      "content_length": 171,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hongkong - Hochhausbrand: Regierungschef Lee ordnet Überprüfung an - Welle der Hilfsbereitschaft",
+      "link": "https://www.deutschlandfunk.de/hochhausbrand-regierungschef-lee-ordnet-ueberpruefung-an-welle-der-hilfsbereitschaft-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "In Hongkong hat Regierungschef Lee wegen des tödlichen Großbrands in einem Hochhaus-Komplex eine Überprüfung aller öffentlichen Wohnsiedlungen angeordnet, die derzeit umfassend renoviert werden.",
+      "content_length": 194,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hegseth-Besuch - Kampf gegen Drogenboote: USA dürfen Militärbasis in Dominikanischer Republik nutzen",
+      "link": "https://www.deutschlandfunk.de/kampf-gegen-drogenboote-usa-duerfen-militaerbasis-in-dominikanischer-republik-nutzen-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die USA dürfen für ihren Einsatz gegen mutmaßliche Drogenboote in der Karibik künftig auf Infrastruktur in der Dominikanischen Republik zurückgreifen.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Regierung macht Druck auf Europa wegen Migrationspolitik",
+      "link": "https://www.deutschlandfunk.de/regierung-macht-druck-auf-europa-wegen-migrationspolitik-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die US-Regierung hat ihre Diplomaten angewiesen, bei europäischen Regierungen für strengere Migrationsregeln zu werben.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Migration - Irland will Einwanderungspolitik verschärfen",
+      "link": "https://www.deutschlandfunk.de/irland-will-einwanderungspolitik-verschaerfen-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Regierung von Irland hat eine Verschärfung ihrer Einwanderungs- und Asylpolitik beschlossen.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Erste Auslandsreise - Papst Leo XIV. besucht Türkei und Libanon",
+      "link": "https://www.deutschlandfunk.de/papst-leo-xiv-besucht-tuerkei-und-libanon-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Nach mehr als einem halben Jahr im Amt tritt Papst Leo XIV. seine erste Auslandsreise an.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Armut - \"Unsichtbare Diskriminierung\" - Seeck warnt vor tief verankertem Klassismus",
+      "link": "https://www.deutschlandfunk.de/unsichtbare-diskriminierung-seeck-warnt-vor-tief-verankertem-klassismus-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Aus der Wissenschaft der Sozialen Arbeit kommt die Forderung nach mehr Gehör für Menschen, die Armut oder prekäre Lebenslagen erleben. Klassismus sei weiter eine der zentralen, aber öffentlich am wenigsten benannten Diskriminierungsformen, sagte Francis Seeck von der Technischen Hochschule Nürnberg dem Deutschlandfunk.",
+      "content_length": 320,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Staatsbesuch in Spanien - Steinmeier bekennt sich zu deutscher Schuld für berüchtigte Luftangriffe auf die baskische Stadt Guernica 1937",
+      "link": "https://www.deutschlandfunk.de/steinmeier-bekennt-sich-zu-deutscher-schuld-fuer-beruechtigte-luftangriffe-auf-die-baskische-stadt-g-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Bundespräsident Steinmeier hat sich bei seinem Staatsbesuch in Spanien zur deutschen Verantwortung für den Luftangriff auf die baskische Stadt Guernica, zwei Jahre vor Ausbruch des Zweiten Weltkriegs, bekannt.",
+      "content_length": 209,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westafrika - Putsch in Guinea-Bissau: Militär verkündet Machtübernahme",
+      "link": "https://www.deutschlandfunk.de/putsch-in-guinea-bissau-militaer-verkuendet-machtuebernahme-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Wenige Tage nach der Wahl im westafrikanischen Guinea-Bissau hat das Militär nach eigenen Angaben die Macht übernommen.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "TK-Stressreport - Politische und gesellschaftliche Spannungen stressen Menschen laut Krankenkasse mehr als gedacht",
+      "link": "https://www.deutschlandfunk.de/politische-und-gesellschaftliche-spannungen-stressen-menschen-laut-krankenkasse-mehr-als-gedacht-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die politischen und gesellschaftlichen Spannungen erzeugen laut Techniker Krankenkasse mehr Stress unter Menschen als bislang gedacht.",
+      "content_length": 134,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesregierung - Hilfsorganisation kritisiert Wadephuls Umstrukturierungen im Auswärtigen Amt",
+      "link": "https://www.deutschlandfunk.de/hilfsorganisation-kritisiert-wadephuls-umstrukturierungen-im-auswaertigen-amt-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Hilfsorganisation Help hat die angekündigten Umstrukturierungen im Auswärtigen Amt kritisiert.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesinstitut - Braunkohlerevieren droht weiterer Bevölkerungsrückgang",
+      "link": "https://www.deutschlandfunk.de/braunkohlerevieren-droht-weiterer-bevoelkerungsrueckgang-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Teile der deutschen Braunkohleregionen müssen weiter mit dem Wegzug von Einwohnern rechnen.",
+      "content_length": 91,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "ESA-Ministerratskonferenz - Deutschland stockt Beitrag für europäische Raumfahrtbehörde deutlich auf",
+      "link": "https://www.deutschlandfunk.de/deutschland-stockt-beitrag-fuer-europaeische-raumfahrtbehoerde-deutlich-auf-108.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Deutschland erhöht seinen finanziellen Beitrag für die europäische Raumfahrtbehörde ESA auf rund fünf Milliarden Euro.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tiktok, Instagram und Co. - Gemischtes Expertenfazit zur EU-Resolution zum Verbot Sozialer Medien für Kinder und Jugendliche",
+      "link": "https://www.deutschlandfunk.de/gemischtes-expertenfazit-zur-eu-resolution-zum-verbot-sozialer-medien-fuer-kinder-und-jugendliche-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Experten haben ein gemischtes Fazit zur EU-Resolution zum Schutz Minderjähriger im Internet gezogen.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Chat GPT & Co. - Umfrage: KI-Nutzung in Deutschland steigt deutlich an",
+      "link": "https://www.deutschlandfunk.de/umfrage-ki-nutzung-in-deutschland-steigt-deutlich-an-108.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Fast zwei Drittel der Menschen in Deutschland nutzen einer Studie zufolge Programme mit Künstlicher Intelligenz, um neue Inhalte wie Texte, Bilder oder Musik erstellen zu lassen.",
+      "content_length": 178,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Lobby-Index - Tabakwirtschaft weist Vorwürfe aus Krebsforschungszentrum mit scharfen Worten zurück",
+      "link": "https://www.deutschlandfunk.de/tabakwirtschaft-weist-vorwuerfe-aus-krebsforschungszentrum-mit-scharfen-worten-zurueck-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Der Bundesverband der Tabakwirtschaft und neuartiger Erzeugnisse hat Vorwürfe des Deutschen Krebsforschungszentrums mit deutlichen Worten zurückgewiesen.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Myanmar - Militär hebt Verurteilung von mehr als 3.000 Menschen auf",
+      "link": "https://www.deutschlandfunk.de/militaer-hebt-verurteilung-von-mehr-als-3-000-menschen-auf-108.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Militärregierung in Myanmar hat nach eigenen Angaben die Verurteilung von mehr als 3.000 Menschen aufgehoben.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Israelische Armee weitet Einsatz im Westjordanland aus - Stadt Tubas ist neuer Schwerpunkt",
+      "link": "https://www.deutschlandfunk.de/israelische-armee-weitet-einsatz-im-westjordanland-aus-stadt-tubas-ist-neuer-schwerpunkt-104.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Das israelische Militär hat seinen Einsatz im besetzten Westjordanland ausgeweitet.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sofia - Tausende Bulgaren protestieren gegen Steuererhöhungen",
+      "link": "https://www.deutschlandfunk.de/tausende-bulgaren-protestieren-gegen-steuererhoehungen-100.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "In Bulgarien haben geschätzt 20.000 Menschen gegen geplante Steuererhöhungen im nächsten Jahr protestiert.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Peru - 14 Jahre Haft für früheren Präsidenten Vizcarra",
+      "link": "https://www.deutschlandfunk.de/14-jahre-haft-fuer-frueheren-praesidenten-vizcarra-106.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Der frühere peruanische Staatschef Vizcarra ist wegen Korruption zu 14 Jahren Haft verurteilt worden.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nigeria - Präsident Tinubu erklärt wegen Entführungen nationalen Sicherheitsnotstand",
+      "link": "https://www.deutschlandfunk.de/praesident-tinubu-erklaert-wegen-entfuehrungen-nationalen-sicherheitsnotstand-104.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "In Nigeria hat Präsident Tinubu nach Entführungen von mehreren hundert Menschen einen landesweiten Sicherheitsnotstand ausgerufen.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Trump: \"Werde Südafrika nicht zu G20-Gipfel im kommenden Jahr einladen\"",
+      "link": "https://www.deutschlandfunk.de/trump-werde-suedafrika-nicht-zu-g20-gipfel-im-kommenden-jahr-einladen-104.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "US-Präsident Trump will Südafrika nicht zum G20-Gipfel im kommenden Jahr einladen.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Wahl 2020 - Georgia: Chefankläger lässt Anklage gegen Trump wegen versuchter Wahlbeeinflussung fallen",
+      "link": "https://www.deutschlandfunk.de/georgia-chefanklaeger-laesst-anklage-gegen-trump-wegen-versuchter-wahlbeeinflussung-fallen-106.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Im US-Bundesstaat Georgia stehen die langjährigen Ermittlungen gegen Präsident Trump wegen versuchter Wahlbeeinflussung vor dem Aus. Der zuständige Chefankläger Skandalakis beantragte laut Gerichtsunterlagen, die Anklage fallenzulassen.",
+      "content_length": 236,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Zentralrat der Juden - Präsident Schuster: Auch Juden sollten sich für Wehrdienst mustern lassen",
+      "link": "https://www.deutschlandfunk.de/praesident-schuster-auch-juden-sollten-sich-fuer-wehrdienst-mustern-lassen-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, hat sich für eine Teilnahme von Juden an der Musterung für den Wehrdienst ausgesprochen.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Handelsplattform - AliExpress sperrt Anbieter von Kinder-Sexpuppen",
+      "link": "https://www.deutschlandfunk.de/aliexpress-sperrt-anbieter-von-kinder-sexpuppen-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Online-Handelsplattform AliExpress hat einen chinesischen Anbieter von kindlichen Sexpuppen dauerhaft gesperrt.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "DDR - Interesse an Stasi-Akten weiterhin groß",
+      "link": "https://www.deutschlandfunk.de/interesse-an-stasi-akten-weiterhin-gross-106.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Auch 35 Jahre nach der Wiedervereinigung wollen viele Deutsche wissen, welche Informationen die frühere DDR-Staatssicherheit über sie gesammelt hat.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medien - Straßenzeitung \"Hinz & Kunzt\" startet digitale Ausgabe - \"weltweit erstmals\"",
+      "link": "https://www.deutschlandfunk.de/strassenzeitung-hinz-kunzt-startet-digitale-ausgabe-weltweit-erstmals-108.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Das Hamburger Straßenmagazin \"Hinz &amp; Kunzt\" gibt es demnächst auch als digitale Ausgabe. Vom Dezember an kann man die von vor allem von wohnungslosen Menschen vertriebene Zeitung auch per QR-Code über das Smartphone kaufen, wie die Zeitungsmacher in der Hansestadt mitteilten.",
+      "content_length": 280,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gespräche mit AfD - Rossmann und Vorwerk verlassen Verband der Familienunternehmer",
+      "link": "https://www.deutschlandfunk.de/rossmann-und-vorwerk-verlassen-verband-der-familienunternehmer-102.html",
+      "published": "2025-11-27T07:08:20",
+      "content": "Die Drogeriemarktkette Rossmann und der Haushaltsmaschinen-Hersteller Vorwerk verlassen den Verband der Familienunternehmer. Grund ist dessen Öffnung für Gespräche mit der AfD. Eine Rossmann-Sprecherin teilte mit, man unterstütze die neue Haltung nicht und habe deshalb Konsequenzen gezogen.",
+      "content_length": 291,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Australia politics live: David Pocock says nature laws being ‘rammed through’ with little time for scrutiny",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/27/australia-politics-live-barnaby-joyce-one-nation-pauline-hanson-environment-nature-bill-deal-coalition-greens-murray-watt-question-time-anthony-albanese-sussan-ley-ntwnfb",
+      "published": "2025-11-27T07:04:44",
+      "content": "Follow today’s news liveExplainer: Seven ways Australia’s nature laws are changing after Labor’s deal with the GreensGet our breaking news email, free app or daily news podcast‘We are very close’ on environment bill, Hanson-Young saysHanson-Young says she’s feeling more positive about a deal on the environment bill than she was at the start of the week.I don’t expect that we will get everything we want. We’re just trying one last time [on the basis] that I wanted more protections for our forests, and protections for climate, of course.If we can get movement on those issues, I’ve always said that I’m up for helping the government improve these laws. We’re not there yet. But I’m feeling more positive than I was at the beginning of the week.There’s no requirements on them to create a space that doesn’t have harmful content … That doesn’t target them with advertising.For those kids who just decide – oh, well we might not be on Instagram or Snapchat, but go over to somewhere else that hasn’t been designated – it’s those darker corners of the internet that I’m worried about. Continue reading...",
+      "content_length": 1105,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "West is ‘missing obscure sanctions that could set back Russia’s war machine’",
+      "link": "https://www.theguardian.com/world/2025/nov/27/west-is-missing-obscure-sanctions-that-could-set-back-russias-war-machine",
+      "published": "2025-11-27T07:00:21",
+      "content": "US group Dekleptocracy identifies chemicals used for military vehicles’ lubricants and tyres as potential vulnerabilitiesA US group has identified several obscure but potentially key sanctions it says could seriously disrupt Russia’s war effort in Ukraine after last month’s targeting of the Kremlin’s biggest oil firms.Previous rounds of sanctions have been applied to Russian energy companies, banks, military suppliers and the “shadow fleet” of ships carrying Russian oil. Continue reading...",
+      "content_length": 495,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ministers to crack down on ‘for-profit’ litter enforcers in England",
+      "link": "https://www.theguardian.com/environment/2025/nov/27/crack-down-on-for-profit-litter-enforcers-england",
+      "published": "2025-11-27T07:00:21",
+      "content": "Councils will end contracts allowing private enforcers to receive 50% to 100% of each fine servedMinisters have signalled an imminent crackdown on so-called “for-profit” litter enforcement arrangements in England, where private firms are paid for each fixed penalty notice issued.Under long-awaited statutory guidance, councils would have to end contracts that allow private enforcers to receive between 50% to 100% of each fine they serve. Continue reading...",
+      "content_length": 460,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong fire live updates: rescue crews search apartment blocks for survivors; dozens killed and hundreds missing after blaze – latest",
+      "link": "https://www.theguardian.com/world/live/2025/nov/27/hong-kong-fire-arrests-dead-killed-hundreds-missing-housing-complex-blaze",
+      "published": "2025-11-27T07:00:17",
+      "content": "Three men arrested as 26 rescue teams on site at Wang Fuk Court residential apartment complex in Tai Po district. Follow the latest updates liveFull report: Death toll in Hong Kong tower block fire rises to 36 with 279 reported missingWhat we know so far about the blazeBamboo scaffolding may be to blame for spread of Hong Kong tower block fireThe death toll has risen again to 44, fire officials say.Officials said they are still having difficulties proceeding into the upper floors in some of the buildings in the residential complex as the fire continues. Continue reading...",
+      "content_length": 579,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Podcast 15 Minuten: Mehr Stress, Chip-Pflicht, smarter Winterdienst",
+      "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten-stress-chippflicht-winterdienst-100.html",
+      "published": "2025-11-27T06:59:50",
+      "content": "   Immer mehr Stress - was macht das mit unserer Gesundheit? Die EU will gegen illegalen Handel mit Welpen vorgehen. Smarter Winterdienst warnt Autofahrer vor Glatteis auf Ihren Strecken. Das sind die Themen im Podcast 15 Minuten.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Wie gefährlich sind Schweige-Retreats?",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/podcast-11km-schweige-retreat-100.html",
+      "published": "2025-11-27T06:59:27",
+      "content": "   Zehntausende fahren jedes Jahr in Retreats, um dort nach der Vipassana-Methode zu meditieren. Doch für einige ist die Meditation zu extrem - und es sind keine Einzelfälle. 11KM erzählt, warum auch Experten vor diesen Retreats warnen.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Thursday briefing: ​What could the government’s proposals to scrap jury trials mean for democracy?",
+      "link": "https://www.theguardian.com/world/2025/nov/27/thursday-briefing-what-could-the-governments-proposals-to-scrap-jury-trials-mean-for-democracy",
+      "published": "2025-11-27T06:50:12",
+      "content": "In today’s newsletter: As pressure mounts to tackle ​the backlog​ of almost 80,000​ cases, the government is considering sweeping reforms that senior lawyers warn may reshape justice in England and WalesGood morning. Yesterday, Rachel Reeves finally delivered her long-trailed budget aimed at plugging a £20bn financial hole in government finances. The single biggest tax raising measure was a three-year freeze on income tax and national insurance thresholds, slightly longer than expected, to draw more people into a higher tax band. Head here for a full breakdown, here to figure out how you will be impacted, and make sure you read our expert panel’s take on if Reeves’s measures all add up.But amid the budget buzz, today’s newsletter is about another massive issue facing our cash-strapped government. It’s been a cornerstone of British democracy since the 13th century and is even included in the Magna Carta, and yet, this government could soon come close to scrapping the right to trial by jury.Budget | Rachel Reeves targeted Britain’s wealthiest households with a £26bn tax-raising budget to fund scrapping the two-child benefit policy and cutting energy bills.UK politics | Keir Starmer has called on Nigel Farage to apologise to his school contemporaries who claim the Reform leader racially abused them while at Dulwich College.Hong Kong | The death toll from a huge fire that engulfed several residential tower blocks in Hong Kong has risen to 44, with 45 in critical condition and hundreds reported missing.Ukraine | The European Commission president has warned against “the unilateral carving up of a sovereign European nation” as Europe scrambles to assert influence over the US’s attempt to end the war in Ukraine.UK news | On what was due to be the first day of a four-week trial, Paul Doyle unexpectedly changed his plea to guilty, after being charged with injuring 29 people at a Liverpool FC celebration parade in May. Continue reading...",
+      "content_length": 1961,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rente, Verbrenner, Heizung - Regierung sucht Lösungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-verbrenneraus-100.html",
+      "published": "2025-11-27T06:40:30",
+      "content": "   Beim Koalitionsausschuss hat Schwarz-Rot am Abend schwierige Themen auf dem Zettel: Rente, Heizungsgesetz - und auch beim Verbrenner-Aus wird noch nach Einigung gesucht. Äußerungen von Kanzler Merz könnten dabei für Spannungen sorgen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: DAX-Erholung schwächt sich ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktienmarkt-102.html",
+      "published": "2025-11-27T06:39:10",
+      "content": "   Nach einem dreitägigen Erholungskurs dürfte die Aufwärtsbewegung im DAX heute an Schwung verlieren. Wie weit können die Zinssenkungshoffnungen den deutschen Leitindex noch antreiben?[mehr]",
+      "content_length": 191,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Act of treason’: Barnaby Joyce quits National party sparking anger from former colleagues",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/27/barnaby-joyce-nationals-defection-one-nation",
+      "published": "2025-11-27T06:14:52",
+      "content": "Backbencher says he is ‘strongly considering’ move to One Nation but has not confirmed next stepsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBarnaby Joyce says he will resign from the National party, a move denounced by one former colleague as a “an act of treason” after Joyce told parliament he was seeking “a better position” than the Coalition backbenches.The backbencher did not confirmed if he would – as widely speculated – seek to join One Nation, or remain as an independent crossbencher. But he said he was “strongly considering” joining the party, reaffirming his plan to not contest the next election as the member for New England while holding the door open to a Senate run. Continue reading...",
+      "content_length": 776,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Meditation - Wenn das Schweige-Retreat zum Horrortrip wird",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/vipassana-meditation-kurse-gefahren-100.html",
+      "published": "2025-11-27T06:06:05",
+      "content": "   Zehn Tage schweigen, stundenlang meditieren. Viele schwärmen von Vipassana-Retreats, die weltweit angeboten werden. Doch BR-Recherchen zeigen, dass manche Teilnehmende dort an psychische Grenzen geraten.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong fire: police blame construction company’s ‘gross negligence’ as death toll rises to 44",
+      "link": "https://www.theguardian.com/news/2025/nov/27/hong-kong-fire-tai-po-police-blame-construction-company",
+      "published": "2025-11-27T06:03:00",
+      "content": "Three construction industry employees arrested after police allege unsafe scaffolding materials may have been behind fire’s rapid spreadHong Kong fire – latest updatesExplainer: what we know so farBamboo scaffolding may be to blame for spread of fireHong Kong police have alleged unsafe scaffolding and foam materials used during maintenance work may have been behind the rapid spread of a devastating fire at a group of residential tower blocks that has killed at least 44 people and left almost 300 missing.Firefighters were still battling to reach residents who may be trapped on the upper floors of the Wang Fuk Court housing complex on Thursday due to the intense heat and thick smoke generated by the fire. Continue reading...",
+      "content_length": 732,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Leaders hope budget funding will boost Labour in next year’s Scotland and Wales elections",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/27/leaders-hope-budget-funding-will-boost-labour-in-next-years-scotland-and-wales-elections",
+      "published": "2025-11-27T06:00:20",
+      "content": "Scottish Labour’s Anas Sarwar and the Welsh first minister, Eluned Morgan, both face humiliating defeat in next year’s elections, according to pollingLabour leaders in Edinburgh and Cardiff sought credit for the most progressive measures in Rachel Reeves’ budget on Wednesday, pinning their hopes for next year’s critical elections on a package that increases funding for Scotland and Wales by nearly £2bn.That funding boost and the abolition of the two-child limit for universal credit recipients were seen as a relief in both capitals. Anas Sarwar, the Scottish Labour leader, said: “I demanded a Labour budget rooted in Labour values and that is what the chancellor has delivered. This budget means child poverty down, energy bills down, wages up and austerity rejected.” Continue reading...",
+      "content_length": 794,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rachel Reeves hands farmers inheritance tax break",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/27/rachel-reeves-hands-farmers-inheritance-tax-break",
+      "published": "2025-11-27T06:00:18",
+      "content": "Treasury says concession could be worth £30m next year and then £70m annually until 2030Rachel Reeves has eased inheritance tax on agricultural property after pressure from farmers.As the chancellor made her budget speech on Wednesday, the Treasury announced changes it said could save farmers and business owners £30m next year when passing on property and £70m a year in the following four years. Farmers, who had driven tractors up to the doors of parliament, were protesting outside at the same time. Continue reading...",
+      "content_length": 524,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Teens seek urgent high court injunction to block Australian government’s social media ban",
+      "link": "https://www.theguardian.com/media/2025/nov/27/teens-high-court-injunction-australia-under-16s-social-media-ban",
+      "published": "2025-11-27T05:46:00",
+      "content": "Noah Jones and Macy Neyland, both 15, are supported by a digital rights group led by NSW Libertarian MP John RuddickGet our breaking news email, free app or daily news podcastTwo teens and a digital rights group led by a New South Wales state politician are seeking an urgent high court injunction to block Australia’s under-16s social media ban, just two weeks before the ban is due to begin.The two young people, 15-year-olds Noah Jones and Macy Neyland, are supported by the Digital Freedom Project – an initiative led by NSW Libertarian MP John Ruddick. Continue reading...",
+      "content_length": 577,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Papst Leo XIV. besucht Türkei und Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/papst-leo-besuch-tuerkei-100.html",
+      "published": "2025-11-27T05:29:52",
+      "content": "   Papst Leo XIV. geht zum ersten Mal auf Reisen und besucht die Türkei und den Libanon. Der Besuch in zwei Ländern, in denen die Christen in der Minderheit sind, wird für den Papst eine diplomatische Herausforderung. Von T. Kleinjung.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "National Guard shooting: Trump says US should ‘re-examine’ all Afghan refugees after suspect named",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/washington-national-guard-shooting-suspect",
+      "published": "2025-11-27T05:12:48",
+      "content": "President calls the shooting in Washington an ‘act of terror’, as officials name Rahmanullah Lakanwal as suspected shooterDonald Trump has called for his government to re-examine every Afghan immigrant who entered the US during Joe Biden’s administration, after law enforcement officials identified the suspect in the shooting of two national guard members in Washington as a man from Afghanistan.A statement from the Department of Homeland Security named the suspect asRahmanullah Lakanwal, a 29-year-old Afghan national who entered the US under a Biden-era policy allowing Afghans set up after the US withdrawal from Afghanistan in 2021. Immigration authorities granted Lakanwal asylum earlier this year, according to CNN. Continue reading...",
+      "content_length": 744,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "St Vincent prime minister seeks record sixth term in tight election",
+      "link": "https://www.theguardian.com/world/2025/nov/27/st-vincent-prime-minister-seeks-record-sixth-term-in-tight-election",
+      "published": "2025-11-27T05:00:19",
+      "content": "Ralph Gonsalves campaigns on strong economy in bid to retain office he has held since 2001Voters in St Vincent and the Grenadines will go to the polls on Thursday with Ralph Gonsalves seeking a record sixth consecutive term as prime minister.The elections are expected to be a tight contest between the ruling Unity Labour party, which has been in power since 2001, and the opposition New Democratic party. In the last election, ULP won nine of 15 seats, but the NDP won the popular vote. Continue reading...",
+      "content_length": 508,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo to visit Turkey and Lebanon on first overseas trip as pontiff",
+      "link": "https://www.theguardian.com/world/2025/nov/27/pope-leo-to-visit-turkey-and-lebanon-on-first-overseas-trip-as-pontiff",
+      "published": "2025-11-27T05:00:19",
+      "content": "Vatican says ‘demanding’ six-day mission will be packed with meetings with political and religious leadersPope Leo will make his debut overseas trip as leader of the Catholic church on Thursday, travelling on a six-day mission of peace and unity to Turkey and Lebanon in what the Vatican said was expected to be a “demanding” schedule packed with meetings with political and religious leaders amid heightened Middle East tensions.In Turkey, a country with a Muslim majority and home to an estimated 36,000 Catholics, the Chicago-born pontiff, who was elected in May, will first meet President Recep Tayyip Erdoğan in Ankara. Continue reading...",
+      "content_length": 644,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "European progressives must tackle housing crisis to beat far right, say researchers",
+      "link": "https://www.theguardian.com/world/2025/nov/27/european-progressives-must-tackle-housing-crisis-to-beat-far-right-say-researchers",
+      "published": "2025-11-27T05:00:18",
+      "content": "Centre left can win broad support by addressing soaring house prices and rents, according to data analysisCentre-left parties can build a broad new coalition of support if they tackle Europe’s deepening housing crisis, researchers have said. Conversely, ignoring it risks pushing increasingly fed-up voters into the arms of the far right.Research by the Progressive Politics Research Network (PPRNet) suggests dramatic rises in the cost of housing over recent years have eroded support for centre-left parties – once the champions of affordable housing – and fuelled anti-establishment disaffection. Continue reading...",
+      "content_length": 619,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "New rules crack down on high risk loans as Australian property market heats up",
+      "link": "https://www.theguardian.com/business/2025/nov/27/banks-new-rules-high-risk-home-loans-property-market-australia",
+      "published": "2025-11-27T04:52:03",
+      "content": "Regulator announces 20% cap on share of new lending banks can do on mortgages worth more than six times borrower’s incomeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA crackdown on risky lending will limit banks’ capacity to extend highly geared mortgages, as the financial regulator launches a pre-emptive strike against the growing excesses of an overheated property market.The Australian Prudential Regulation Authority announced a 20% cap on the share of new lending that banks can do at a debt-to-income ratio above six – a mortgage worth more than six times the borrower’s income. Continue reading...",
+      "content_length": 674,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Stehen Umwelt- und Klimaschutz im Abseits",
+      "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-druck-100.html",
+      "published": "2025-11-27T04:26:47",
+      "content": "   Klima- und Umweltschutz sind nicht mehr die dringendsten Anliegen der Deutschen. International bremsen Diktatoren, Autokraten und Populisten die nachhaltige Entwicklung. Trotzdem bleibt Hoffnung. Von Sven Kästner.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Was über den Angriff auf Nationalgardisten in Washington bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/washington-schuesse-nationalgardisten-100.html",
+      "published": "2025-11-27T04:09:18",
+      "content": "   US-Präsident Trump spricht nach Schüssen auf Nationalgardisten nahe dem Weißen Haus von einem \"Akt des Terrors\". Welche Erkenntnisse gibt es bisher über die Attacke und den mutmaßlichen Täter? Ein Überblick.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Large bull shark kills woman and injures man in attack at NSW beach",
+      "link": "https://www.theguardian.com/environment/2025/nov/27/crowdy-beach-bay-shark-attack-nsw-mid-north-coast",
+      "published": "2025-11-27T04:08:14",
+      "content": "Swimmers aged in their 20s bitten by shark at Kylies beach in Crowdy Bay early on Thursday morning, with woman dying at the sceneFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA woman has died after a “large bull shark” attacked her and a man on the New South Wales mid-north coast at Kylies beach.The pair, both aged in their 20s, were swimming together at the beach at Crowdy Bay on Thursday morning when they were bitten, police said. Continue reading...",
+      "content_length": 523,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Washington DC shooting: Trump calls shooting of national guard members ‘an act of terror’, vows new scrutiny of immigrants – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/26/us-politics-latest-news-pete-hegseth-donald-trump-marjorie-taylor-greene-mark-kelly",
+      "published": "2025-11-27T03:15:12",
+      "content": "This live blog is now closed.Two West Virginia national guard members shot in Washington DCTrump news at a glance: president orders more troops to Washington DC after shooting of national guard membersBloomberg’s scoop showing how Trump aide Steve Witkoff coached the Kremlin on the best way to get into Trump’s good graces is extraordinary for what it tells us about Witkoff’s dubious loyalties, and the Kremlin’s potential influence over US negotiation efforts. But equally interesting is the leaked material itself and where it may have come from.The story covers two intercepted phone calls: one between Witkoff and top Kremlin aide Yuri Ushakov, and another between Ushakov and Kirill Dmitriev, who has been deeply involved in negotiations with the Trump White House. Continue reading...",
+      "content_length": 792,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jakarta overtakes Tokyo as world’s most populous city, according to UN",
+      "link": "https://www.theguardian.com/world/2025/nov/27/jakarta-overtakes-tokyo-most-populous-city-world",
+      "published": "2025-11-27T03:07:43",
+      "content": "The rankings were changed after the UN used new criteria to give a more accurate picture of the rapid urbanisation driving the growth of megacitiesJakarta has overtaken Tokyo as the world’s most populous city, according to a UN study that uses new criteria to give a more accurate picture of the rapid urbanisation driving the growth of megacities.The Indonesian capital is home to 42 million people, according to an estimate by the population division of the UN Department of Economic and Social Affairs in its World Urbanisation Prospects 2025 report published this month. Continue reading...",
+      "content_length": 594,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Schüsse auf Nationalgardisten nahe dem Weißen Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-nationalgardisten-schuesse-100.html",
+      "published": "2025-11-27T02:51:35",
+      "content": "   In der Nähe des Weißen Hauses sind zwei Nationalgardisten angeschossen und schwer verletzt worden. Der mutmaßliche Täter wurde laut Polizei festgenommen. Präsident Trump spricht von einem \"Akt des Terrors\".[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Polen zieht rote Linien zum US-Plan für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-us-plan-ukraine-100.html",
+      "published": "2025-11-27T01:06:45",
+      "content": "   Ein Abschnitt des US-Plans für die Ukraine hat in Polen für Unruhe gesorgt. Steht sogar die Militärpräsenz der USA dort infrage? Premier Tusk betont: Ohne polnische Mitsprache dürfe nichts entschieden werden. Von Martha Wilczynski.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Two national guard members in critical condition after Washington DC shooting",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/national-guard-soldiers-shot-washington-dc",
+      "published": "2025-11-27T01:05:13",
+      "content": "Suspect in custody after two West Virginia guard members shot in ‘targeted’ incident, Washington mayor saysUS politics live – latest updatesTwo West Virginia national guardsmen shot near the White House remained in critical condition on Wednesday in an attack that rattled the country’s capital.The incident comes amid a controversial deployment of troops to Washington DC ordered by the Trump administration.  FBI director Kash Patel, Washington mayor Muriel Bowser and other officials confirmed in a press conference that both the guardsmen were in the hospital and described the shooting as “targeted”. Continue reading...",
+      "content_length": 625,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Stranger Things 5 begins with a frantic race to the finish line",
+      "link": "https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one",
+      "published": "2025-11-27T01:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt has been a decade since the Stranger Things phenomenon began, and the Duffer brothers had had ample time to craft a strong finish to their breakout hit series. But the beginning of the show's fifth and final season feels like a frantic race to the end.\nWhile Stranger Things wasn't Netflix's first breakout hit, it catapulted the streamer to a new level of pop cultural prominence by telling a wildly captivating story that got everyone talking. Modern day nostalgia for the '80s never really went away, but Stranger Things kicked off a new wave of shows and movies that made it feel like other studios were doing everything in their power to re …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple TV pulls The Hunt over plagiarism accusation",
+      "link": "https://www.theverge.com/news/831227/apple-tv-the-hunt-plagiarism",
+      "published": "2025-11-27T00:51:20",
+      "content": "\n\n\n\t\n\t\t\n\nApple TV removed The Hunt from its streaming slate last week after concerns were raised about plagiarism. The move, previously reported by Apple Insider, comes after French media journalist Clément Garin claimed that the story closely follows Shoot, a 1974 novel written by Douglas Fairbairn.\n\nThe Hunt was originally supposed to premiere on Apple TV on December 3rd. However, Gaumont, the production company behind The Hunt, confirmed its removal from Apple’s streaming schedule. “The broadcast of our series ‘The Hunt’ has been temporarily postponed,” Gaumont tells Variety. “We are currently conducting a thorough review to address any questions related to our production. We take intellectual property matters very seriously.”\n\nThe French thriller follows Franck and a group of friends who encounter a hostile group of hunters while on a hunting trip. Here’s the logline, according to Variety:&nbsp;\n\n\nFranck (Magimel) and his longtime friends enjoy spending their weekends hunting together, but one Sunday, they come across another group of hunters who start targeting them without explanation. When one of their party is shot, Franck’s friends strike back, sending an attacker to the ground. Barely managing to escape, the four friends keep the event a secret. Franck tries to go back to his life as usual alongside his wife, Krystel (Laurent), but in the next few days, he starts to feel like he and his friends are being watched, or worse, tracked by hunters who are now hell-bent on revenge.\n\n\nMeanwhile, Fairbairn’s Shoot, which was adapted into a film in 1976, surrounds an “uber-macho hunter” named Rex. During a hunting trip to Canada, Rex and his friends are attacked by a group of rival hunters. When one of them gets shot, another one of Rex’s friends fires back, killing one of the attackers, according to the book’s description:\n\n\nFrom there Rex and company scurry off and head back to civilization. Rex decides not to contact the authorities about the killing, betting the rival hunters will react the same way…. He looks up the murdered man’s identity and tracks down his widow. She reveals that her deceased hubbie’s buddies claim he was killed by a “stray bullet”. This doesn’t entirely satisfy Rex, however, who becomes convinced that the dead man’s companions are going to come after him and his friends.\n\n\nApple TV also postponed the debut of The Savant in September, which follows an investigator (Jessica Chastain) who tries to infiltrate online hate groups to stop domestic terrorism attacks. The Verge reached out to Apple and Gaumont with requests for comment, but didn’t immediately hear back.",
+      "content_length": 2633,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT",
+      "link": "https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos",
+      "published": "2025-11-27T00:43:44",
+      "content": "\n\n\n\t\n\t\t\n\nOpenAI’s response to a lawsuit by the family of Adam Raine, a 16-year-old who took his own life after discussing it with ChatGPT for months, said the injuries in this “tragic event” happened as a result of Raine’s “misuse, unauthorized use, unintended use, unforeseeable use, and/or improper use of ChatGPT.” NBC News reports the filing cited its terms of use that prohibit access by teens without a parent or guardian’s consent, bypassing protective measures, or using ChatGPT for suicide or self-harm, and argued that the family’s claims are blocked by Section 230 of the Communications Decency Act.\n\nIn a blog post published Tuesday, OpenAI said, “We will respectfully make our case in a way that is cognizant of the complexity and nuances of situations involving real people and real lives… Because we are a defendant in this case, we are required to respond to the specific and serious allegations in the lawsuit.” It said that the family’s original complaint included parts of his chats that “require more context,” which it submitted to the court under seal.\n\nNBC News and Bloomberg report that OpenAI’s filing says the chatbot’s responses directed Raine to seek help from resources like suicide hotlines more than 100 times, claiming that “A full reading of his chat history shows that his death, while devastating, was not caused by ChatGPT.”  The family’s lawsuit, filed in August in California’s Superior Court, said the tragedy was the result of “deliberate design choices” by OpenAI when it launched GPT-4o, which also helped its valuation jump from $86 billion to $300 billion. In statements before a Senate panel in September, Raine’s father said that “What began as a homework helper gradually turned itself into a confidant and then a suicide coach.”\n\nAccording to the lawsuit, ChatGPT provided Raine “technical specifications” for various methods, urged him to keep his ideations secret from his family, offered to write the first draft of a suicide note, and walked him through the setup on the day he died. The day after the lawsuit was filed, OpenAI said it would introduce parental controls and has since rolled out additional safeguards to “help people, especially teens, when conversations turn sensitive.”\n\n\nIf you or someone you know is considering suicide or is anxious, depressed, upset, or needs to talk, there are people who want to help.\n\n\n\nIn the US:\n\n\n\nCrisis Text Line: Text HOME to 741-741 from anywhere in the US, at any time, about any type of crisis.\n\n\n\n988 Suicide &amp; Crisis Lifeline: Call or text 988 (formerly known as the National Suicide Prevention Lifeline). The original phone number, 1-800-273-TALK (8255), is available as well.\n\n\n\nThe Trevor Project: Text START to 678-678 or call 1-866-488-7386 at any time to speak to a trained counselor.\n\n\n\nOutside the US:\n\n\n\nThe International Association for Suicide Prevention lists a number of suicide hotlines by country.&nbsp;Click here to find them.\n\n\n\nBefrienders Worldwide has a network of crisis helplines active in 48 countries.&nbsp;Click here to find them.\n\n\n\n\n\nView Link",
+      "content_length": 3079,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Shock and dismay after national guard troops shot near White House",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/white-house-washington-national-guard",
+      "published": "2025-11-27T00:21:59",
+      "content": "Amid a frenetic scene, some residents said Trump’s militarization of the capital had much to answer forThe scene around Washington’s Farragut Square on Wednesday afternoon seem to fit Donald Trump’s most lurid stereotypes of a crime-ridden capital in need of federal troops to bring a firm smack of law and order.An area normally the preserve of professional office workers, coffee shops and lunch venues instead bore the hallmarks of a major crime scene as news spread that two national guard troops had been shot. Authorities later said the shooting suspect had been identified as an Afghan man. Continue reading...",
+      "content_length": 617,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "£15,000 prize launched for writers from refugee and migrant backgrounds",
+      "link": "https://www.theguardian.com/books/2025/nov/27/15000-prize-footnote-x-counterpoints-refugee-migrant",
+      "published": "2025-11-27T00:01:12",
+      "content": "The Footnote x Counterpoints prize is intended to uncover new literary voices whose work reflects the experiences of migrationFootnote Press and Counterpoints Arts have announced a new fiction award celebrating writers from refugee and migrant backgrounds, offering a £15,000 prize and a publishing deal for the winner.The Footnote x Counterpoints prize for fiction, launching on Thursday, marks the second time the two organisations have collaborated on a prize. In 2023, writers were invited to submit narrative nonfiction, but now the prize will focus on fiction for the first time. Continue reading...",
+      "content_length": 605,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "This $1,400 Steam Machine alternative houses a tiny desktop GPU",
+      "link": "https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date",
+      "published": "2025-11-26T23:35:15",
+      "content": "\n\n\n\t\n\t\t\n\nWhat if Valve’s Steam Machine were a 3.8-liter tower instead of a 3.8-liter cube, with a desktop-grade Nvidia RTX 5060 GPU instead of an AMD RX 7600 — plus a more powerful CPU and many faster ports? Well, it’d cost you nearly $1,500 and be called the Minisforum AtomMan G1 Pro. \n\nMinisforum is one of the only companies shipping such powerful discrete GPUs in mini-PCs, and its earlier AtomMan G7 PT is the closest thing anyone’s sold to Valve’s own spec. But the new G1 Pro might be a better competitor now it’s got an integrated power supply (like Valve) and even beefier components. \n\nThe most surprising feature is a full but lilliputian desktop graphics card — look how cute it is in the render below! — that fits into the top of the chassis. (Minisforum doesn’t claim it’s upgradable, just FYI, but does boast that it offers the full 145W of power you’d get in other desktop 5060 cards.) \n\nAnd, in “Beast Mode,” Minisforum says it can drive the AMD Ryzen 9 8945HX CPU at 100W while that GPU stays at 145W. You also get not one but two M.2 2280 slots for NVMe SSD storage,  two SO-DIMM slots for up to 96GB of DDR5 RAM, and five display outputs (2x DP2.1, 1x DP 1.4, and 2x HDMI 2.1) for up to four displays at once. \n\nIt’s on sale now with 32GB and 1TB for $1,440, shipping mid January — which is honestly starting to look like a decent deal now that RAM prices are out of control. There’s also a bring-your-own-RAM-and-storage barebones version for $1,040, though it’s not available to order yet.\n\nValve still isn’t talking price yet, but I’d hope it’s more affordable than this one. Even so, Valve says it put a lot of work into cooling, noise, and wireless connectivity, and Linux drivers are still more mature on the AMD GPU side of things if you’re considering a Bazzite or SteamOS install. GamersNexus’ new video does include Linux benchmarks for desktop RTX 5060, maybe check those out?",
+      "content_length": 1908,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Judges allow North Carolina to use Republican-drawn congressional map",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/north-carolina-congressional-map",
+      "published": "2025-11-26T23:27:01",
+      "content": "New map takes aim at state’s only swing sweat and gives Republicans chance to flip seat as part of Trump campaignA federal three-judge panel on Wednesday allowed North Carolina to use a redrawn congressional map aimed at flipping a seat to Republicans as part of Donald Trump’s multi-state redistricting campaign ahead of the 2026 elections.The new map takes aim at North Carolina’s only swing seat, currently held by Democrat Don Davis, an African American who represents more than 20 counties in the state’s north-east. The first district has been represented by Black members of Congress continuously for more than 30 years. Continue reading...",
+      "content_length": 647,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once",
+      "link": "https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/",
+      "published": "2025-11-26T23:13:32",
+      "content": "Around this time last year, officials at United Launch Alliance projected 2025 would be their busiest year ever. Tory Bruno, ULA’s chief executive, told reporters the company would launch as many as 20 missions this year, with roughly an even split between the legacy Atlas V launcher and its replacement—the Vulcan rocket.\nNow, it’s likely that ULA will close out 2025 with six flights—five with the Atlas V and just one with the Vulcan rocket the company is so eager accelerate into service. Six flights would make 2025 the busiest launch year for ULA since 2022, but it falls well short of the company’s forecast.\nLast week, ULA announced its next launch is scheduled for December 15. An Atlas V will loft another batch of broadband satellites for the Amazon Leo network, formerly known as Project Kuiper, from Cape Canaveral Space Force Station, Florida. This will be ULA’s last launch of the year.Read full article\nComments",
+      "content_length": 928,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Strong iPhone 17 sales may push Apple ahead of Samsung this year",
+      "link": "https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025",
+      "published": "2025-11-26T22:48:41",
+      "content": "\n\n\n\t\n\t\t\n\nCounterpoint Research is predicting Apple’s iPhone 17 lineup will help it nudge Samsung out as the number one phone manufacturer in the world this year, as reported by CNBC and Bloomberg. The report estimates Apple will ship 243 million phones this year, while Samsung will ship 235 million, landing Apple a 19.4 percent share of the global smartphone market, less than 1 percent ahead of Samsung.&nbsp;\n\nCounterpoint says the newly introduced iPhone 17 series garnered 12 percent more sales in its first four weeks than the iPhone 16 lineup, with sales boosted by “lower-than-expected” impact from tariffs.&nbsp;\n\nDifferent analysts have reported different stats about who is the leader in phone shipments over the last few years, but by Counterpoint’s evaluation, this will be the first time Apple has passed Samsung in phone shipments in 14 years. Based on Counterpoint’s report, it seems like reports of a muted reception for the iPhone Air and ongoing questions about Apple’s progress with AI technology didn’t hold back the iPhone 17 line-up as a whole. Next year, Apple is expected to release a cheaper “17e” model in the spring, and eventually, its first foldable iPhone.",
+      "content_length": 1188,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Death toll in Hong Kong tower block fire rises to 44 with hundreds still missing",
+      "link": "https://www.theguardian.com/world/2025/nov/26/hong-kong-fire-tai-po-towers",
+      "published": "2025-11-26T22:28:03",
+      "content": "Three arrests made after huge blaze broke out at Wang Fuk Court residential complex in Tai Po district on WednesdayHong Kong fire – latest updatesExplainer: what we know so far Bamboo scaffolding may be to blame for spread of fireThe death toll from a huge fire that engulfed several residential tower blocks in Hong Kong has risen to 44, with 45 in critical condition and hundreds reported missing.A taskforce has been set up to investigate the cause of the fire, which broke out on Wednesday afternoon at the Wang Fuk Court residential complex in Tai Po, in the northern New Territories. The complex is made up of eight 31-storey towers containing about 2,000 flats, which house about 4,800 people. Continue reading...",
+      "content_length": 720,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump lädt Südafrika wegen angeblichem Völkermord vom nächsten G20-Gipfel aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-keine-g20-einladung-suedafrika-100.html",
+      "published": "2025-11-26T21:11:12",
+      "content": "   Nach seinem Boykott des G20-Gipfels in Johannesburg hat US-Präsident Trump Südafrika jetzt vom kommenden Gipfel in Miami ausgeladen. Er warf dem Land erneut vor, angebliche Menschenrechtsverletzungen gegen weiße Siedler nicht anzuerkennen.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Militär in Guinea-Bissau setzt mit Putsch Präsidenten ab",
+      "link": "https://www.tagesschau.de/ausland/afrika/guinea-bissau-militaerputsch-100.html",
+      "published": "2025-11-26T20:26:27",
+      "content": "   In Guinea-Bissau hat sich das Militär an die Macht geputscht. Nach eigener Darstellung hat die Armee damit eine Verschwörung eines Drogenbarons und mehrerer Politiker verhindert. Das westafrikanische Land ist ein Knotenpunkt des Kokainschmuggels.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pentagon contractors want to blow up military right to repair",
+      "link": "https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service",
+      "published": "2025-11-26T20:12:03",
+      "content": "\n\n\n\t\n\t\t\n\nMilitary contractors are trying to thwart a widely-supported right-to-repair provision in the annual defense policy bill — and their efforts may pay off. A source familiar with the negotiations tells The Verge that there are significant concerns that the bill’s right-to-repair language will be replaced by a “data-as-a-service” model, potentially requiring the Department of Defense to pay for access to equipment repair information.\n\nThe move, which right-to-repair advocate and YouTuber Louis Rossmann also highlighted last week, would go against the Trump administration’s stance on access to repair materials. US Secretary of Defense Pete Hegseth said in May that he wants to build right-to-repair provisions in contracts with military equipment manufacturers, something the Army and Navy have both expressed support for.\n\nLanguage from Sens. Elizabeth Warren (D-MA) and Tim Sheehy (R-MT) Warrior Right to Repair Act even made it into the Pentagon’s annual policy bill, the National Defense Authorization Act (NDAA), which passed the Senate in October. The provision would give all branches of the military the ability to fix their own equipment, while requiring contractors to provide the information needed to perform repairs.\n\nSen. Warren began sounding the alarm on potential outside influence earlier this month. The National Defense Industrial Association (NDIA), a trade group for major DoD contractors, published a white paper that includes support for data-as-a-service, which it says could “allow the DoD to contract for access to a contractor&#8217;s full technical data library on a ‘pay-per-use’ basis” to protect the contractors’ intellectual property. The proposed language apparently mirrors what Reps. Mike Rogers (R-AL) and Adam Smith (D-WA), who head up the House Armed Services Committee, outlined in their SPEED Act, requiring the DoD to negotiate “data-as-a-service solutions to facilitate access” to repair tools and information.\n\nWe’ve already seen car manufacturers implement this kind of setup, forcing independent repair shops to pay for access to proprietary software, tools, and information. John Deere also launched an Operations Center Pro Service, an online hub that includes the information farmers need to repair their equipment, starting at $195 per machine.\n\nEric Fanning, the president and CEO of the Aerospace Industries Association (AIA) — a trade group that backs companies that make aircraft — similarly argued in a November op-ed that the right-to-repair provision would harm contractors by forcing them to “hand over their intellectual property,” as reported earlier by Roll Call. Defense contractors represented by trade groups like the NDIA and AIA are lobbying heavyweights. As pointed out by Rossmann, Rep. Rogers received more than $535,000 from the defense industry in 2024, while Rep. Smith received over $310,550. \n\nThe final version of the NDAA is expected to be released early next week.",
+      "content_length": 2954,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie die EU versucht, ihren Ukraine-Plan durchzusetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-trump-eu-100.html",
+      "published": "2025-11-26T19:42:38",
+      "content": "   Während die US-Regierung gerade mit mindestens zwei Stimmen spricht, sind sich die Europäer ungewöhnlich einig, wie eine Lösung für die Ukraine aussehen soll. Sie sind dafür auf Trump angewiesen, dessen Plan sie aber ablehnen. Von Helga Schmidt.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump officials halt protected status for Haitians in US",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/trump-temporary-protected-status-haiti",
+      "published": "2025-11-26T19:21:20",
+      "content": "Homeland security secretary Kristi Noem says allowing Haitians to remain is ‘contrary to US national interest’The Trump administration has once again moved to halt humanitarian protections for Haitians living in the US, this time announcing that their temporary protected status (TPS) will expire on 3 February.According to a new Department of Homeland Security notice issued on Wednesday, TPS for approximately 340,000 Haitian migrants will be terminated next year. Continue reading...",
+      "content_length": 486,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bamboo scaffolding may be to blame for spread of Hong Kong tower block fire",
+      "link": "https://www.theguardian.com/world/2025/nov/26/bamboo-scaffolding-may-be-to-blame-for-spread-of-hong-kong-tower-block-fire",
+      "published": "2025-11-26T19:12:03",
+      "content": "Hong Kong is one of the last places in the world where bamboo is widely used by construction workersHong Kong fire – latest updatesFull report: Dozens killed in Hong Kong tower block fire Explainer: what we know so farA deadly fire in an apartment complex in Hong Kong appears to have spread in part because the buildings were sheathed in bamboo scaffolding, a traditional building material that the authorities have been phasing out for safety reasons.Dozens of people died on Wednesday in Hong Kong’s deadliest fire in decades. The blaze tore through the Wang Fuk Court residential complex in Tai Po, in the northern New Territories. The complex is made up of eight 31-storey towers containing about 2,000 flats that house about 4,800 people. Continue reading...",
+      "content_length": 764,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gericht in Georgia stellt Verfahren wegen Wahlbetrugs gegen Trump ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/verfahren-trump-wahlbeeinflussung-eingestellt-100.html",
+      "published": "2025-11-26T19:09:55",
+      "content": "   Wegen versuchter Wahlbeeinflussung war der amtierende US-Präsident Trump im Bundesstaat Georgia angeklagt. Das Polizeifoto seiner Registrierung bei den Behörden ging um die Welt. Nun lässt der neue Staatsanwalt die Anklage fallen.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Solar’s growth in US almost enough to offset rising energy use",
+      "link": "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/",
+      "published": "2025-11-26T18:45:38",
+      "content": "Worries about the US grid’s ability to handle the surge in demand due to data center growth have made headlines repeatedly over the course of 2025. And, early in the year, demand for electricity had surged by nearly 5 percent compared to the year prior, suggesting the grid might truly be facing a data center apocalypse. And that rise in demand had a very unfortunate effect: Coal use rose for the first time since its recent collapse began.\nBut since the first-quarter data was released, demand has steadily eroded. As of yesterday’s data release by the Energy Information Administration (EIA), which covers the first nine months of 2025, total electricity demand has risen by 2.3 percent. That slowdown means that most of the increased demand could have been met by the astonishing growth of solar power.\nBetter than feared\nIf you look over data on the first quarter of 2025, the numbers are pretty grim, with total demand rising by 4.8 percent compared to the same period in the year prior. While solar power continued its remarkable surge, growing by an astonishing 44 percent, it was only able to cover a third of the demand growth. As a result of that and a drop in natural gas usage, coal use grew by 23 percent.Read full article\nComments",
+      "content_length": 1246,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines",
+      "link": "https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/",
+      "published": "2025-11-26T18:19:44",
+      "content": "Under ardent anti-vaccine Health Secretary Robert F. Kennedy Jr., the Centers for Disease Control and Prevention has named Louisiana Surgeon General Ralph Abraham as its new principal deputy director—a choice that was immediately called “dangerous” and “irresponsible,” yet not as bad as it could have been, by experts.\nPhysician Jeremy Faust revealed the appointment in his newsletter Inside Medicine yesterday, which was subsequently confirmed by journalists. Faust noted that a CDC source told him, “I heard way worse names floated,” and although Abraham’s views are “probably pretty terrible,” he at least has had relevant experience running a public health system, unlike other current leaders of the agency.\nBut Abraham hasn’t exactly been running a health system the way most public health experts would recommend. Under Abraham’s leadership, the Louisiana health department waited months to inform residents about a deadly whooping cough (pertussis) outbreak. He also has a clear record of anti-vaccine views. Earlier this year, he told a Louisiana news outlet he doesn’t recommend COVID-19 vaccines because “I prefer natural immunity.” In February, he ordered the health department to stop promoting mass vaccinations, including flu shots, and barred staff from running seasonal vaccine campaigns.Read full article\nComments",
+      "content_length": 1332,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Haushalt in Großbritannien: Labours Steuer-Versprechen gilt nicht mehr",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-uk-haushalt-100.html",
+      "published": "2025-11-26T18:16:35",
+      "content": "   Keine Steuererhöhungen - das Versprechen aus dem Wahlkampf holt die britische Labour-Regierung nun ein. Denn das Vereinigte Königreich hat hohe Schulden, aber auch eine unzufriedene Wählerschaft. Von C. Prössl.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hausarzt zu Krankschreibungen: \"Der Arbeitsplatz spielt eine enorm große Rolle\"",
+      "link": "https://www.tagesschau.de/inland/krankheitstage-praxis-geissler-100.html",
+      "published": "2025-11-26T17:55:54",
+      "content": "   In Herne sind Beschäftigte rund 31 Tage pro Jahr krankgeschrieben - häufiger als anderswo. Dominic Geisler hat dort seine Praxis. Im Interview erklärt er die Zahlen auch mit regionalen Gegebenheiten - vor allem bei den Arbeitsbedingungen.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
+      "link": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
+      "published": "2025-11-26T17:47:52",
+      "content": "Facing five lawsuits alleging wrongful deaths, OpenAI lobbed its first defense Tuesday, denying in a court filing that ChatGPT caused a teen’s suicide and instead arguing the teen violated terms that prohibit discussing suicide or self-harm with the chatbot.\nThe earliest look at OpenAI’s strategy to overcome the string of lawsuits came in a case where parents of 16-year-old Adam Raine accused OpenAI of relaxing safety guardrails that allowed ChatGPT to become the teen’s “suicide coach.” OpenAI deliberately designed the version their son used, ChatGPT 4o, to encourage and validate his suicidal ideation in its quest to build the world’s most engaging chatbot, parents argued.\nBut in a blog, OpenAI claimed that parents selectively chose disturbing chat logs while supposedly ignoring “the full picture” revealed by the teen’s chat history. Digging through the logs, OpenAI claimed the teen told ChatGPT that he’d begun experiencing suicidal ideation at age 11, long before he used the chatbot.Read full article\nComments",
+      "content_length": 1025,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Dobrindt bekennt sich zur Aufnahme von Ortskräften aus Afghanistan",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-aufnahme-innenministerium-100.html",
+      "published": "2025-11-26T17:34:19",
+      "content": "   Die Aufnahme von Afghanen läuft nur schleppend. Die Opposition hält das für unmenschlich. Nun kündigte der Innenminister die Aufnahme weiterer Ortskräfte an - auf Geld für den Einreiseverzicht setzt er aber weiter. Von P. Eckstein und C. Kornmeier.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pistorius im Bundestag: \"Die NATO muss europäisch werden\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushaltsdebatte-verteidigung-100.html",
+      "published": "2025-11-26T17:21:34",
+      "content": "   Der kommenden Wehretat wird der wohl höchste seit Ende des Kalten Krieges. Verteidigungsminister Pistorius mahnte im Bundestag ein höheres Tempo bei der Stärkung der Verteidigungsfähigkeit an - und warnte vor der Unsicherheit gewohnter Allianzen.  [mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "HP plans to save millions by laying off thousands, ramping up AI use",
+      "link": "https://arstechnica.com/information-technology/2025/11/hp-plans-to-save-millions-by-laying-off-thousands-ramping-up-ai-use/",
+      "published": "2025-11-26T17:19:35",
+      "content": "HP Inc. said that it will lay off 4,000 to 6,000 employees in favor of AI deployments, claiming it will help save $1 billion in annualized gross run rate by the end of its fiscal 2028.\nHP expects to complete the layoffs by the end of that fiscal year. The reductions will largely hit product development, internal operations, and customer support, HP CEO Enrique Lores said during an earnings call on Tuesday.\nUsing AI, HP will “accelerate product innovation, improve customer satisfaction, and boost productivity,” Lores said.Read full article\nComments",
+      "content_length": 553,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Russia’s Soyuz 5 will soon come alive. But will anyone want to fly on it?",
+      "link": "https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/",
+      "published": "2025-11-26T17:01:46",
+      "content": "After nearly a decade of development, Russia’s newest launch vehicle is close to its debut flight. The medium-lift Soyuz 5 rocket is expected to launch from the Baikonur Cosmodrome before the end of the year.\nThe Russian space corporation, Roscosmos, has released images of final processing of the Soyuz 5 rocket at the Progress Rocket and Space Center in Samara, Russia, earlier this month before the booster was shipped to the launch site in Kazakhstan. It arrived there on November 12.\nAlthough the Soyuz 5 is a new vehicle, it does not represent a major leap forward in technology. Rather it is, in many ways, a conventional reaction to commercial boosters developed in the West as well as the country’s prolonged war against Ukraine. Whether this strategy will be successful remains to be seen.Read full article\nComments",
+      "content_length": 825,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Vision Pro M5 review: It’s time for Apple to make some tough choices",
+      "link": "https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/",
+      "published": "2025-11-26T17:00:14",
+      "content": "With the recent releases of visionOS 26 and newly refreshed Vision Pro hardware, it’s an ideal time to check in on Apple’s Vision Pro headset—a device I was simultaneously amazed and disappointed by when it launched in early 2024.\nI still like the Vision Pro, but I can tell it’s hanging on by a thread. Content is light, developer support is tepid, and while Apple has taken action to improve both, it’s not enough, and I’m concerned it might be too late.\nWhen I got a Vision Pro, I used it a lot: I watched movies on planes and in hotel rooms, I walked around my house placing application windows and testing out weird new ways of working. I tried all the neat games and educational apps, and I watched all the immersive videos I could get ahold of. I even tried my hand at developing my own applications for it.Read full article\nComments",
+      "content_length": 840,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU-weite Chip-Pflicht für Hunde und Katzen kommt",
+      "link": "https://www.tagesschau.de/ausland/eu-chips-hunde-katze-100.html",
+      "published": "2025-11-26T16:59:59",
+      "content": "   Die EU will den illegalen Tierhandel eindämmen und hat strengere Vorgaben beschlossen. Für Zucht und Verkauf soll es klare Regeln geben, auch eine Chip-Pflicht für Hunde und Katzen ist geplant. Tierschützern geht das nicht weit genug. Von A. Meyer-Feist.[mehr]",
+      "content_length": 263,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Putin trying to negotiate an end to Ukraine war as he cannot win it on battlefield, says EU’s Kallas – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/26/russia-ukraine-war-peace-plan-europe-latest-news-updates",
+      "published": "2025-11-26T16:56:05",
+      "content": "EU’s foreign policy chief says ‘there’s one aggressor and one victim’ in conflict amid US push to end the warIn case you missed it, US president Donald Trump defended his peace envoy Steve Witkoff overnight after Bloomberg reported that he allegedly advised Putin’s aide Ushakov on how to speak with Trump and conduct the talks.Trump did not appear too bothered by it, though. Continue reading...",
+      "content_length": 396,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Guinea-Bissau military takes ‘total control’ amid election chaos",
+      "link": "https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos",
+      "published": "2025-11-26T16:52:13",
+      "content": "Officers say they are closing borders and suspending poll as president and main rival both claim victory  Soldiers in Guinea-Bissau have announced they are taking “total control” of the west African country, three days after elections that both the two main presidential contenders claim to have won.Military officers said they were suspending Guinea-Bissau’s electoral process and closing its borders, in a statement read out at the army’s headquarters in the capital Bissau and broadcast on state TV. They said they had formed “the high military command for the restoration of order”, which would rule the country until further notice. Continue reading...",
+      "content_length": 657,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Von der Leyen warns against ‘carving up’ of Ukraine amid crunch US-led talks",
+      "link": "https://www.theguardian.com/world/2025/nov/26/von-der-leyen-warns-against-carving-up-of-sovereign-european-nation-amid-crunch-ukraine-talks",
+      "published": "2025-11-26T16:34:19",
+      "content": "Commission president says undermining of sovereign European nation would ‘open the doors for more wars’The European Commission president has warned against “the unilateral carving up of a sovereign European nation” as Europe scrambles to assert influence over the US’s attempt to end the war in Ukraine.Speaking to European lawmakers in Strasbourg on Wednesday, Ursula von der Leyen said Russia showed “no signs of true willingness to end the conflict” and continued to operate in a mindset unchanged since the days of Yalta – the much-criticised and misunderstood 1945 summit to settle the postwar order. Continue reading...",
+      "content_length": 625,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Generaldebatte im Bundestag: Geeint - nur in der Kritik an der AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-146.html",
+      "published": "2025-11-26T16:26:07",
+      "content": "   Auffallend versöhnlich zeigte sich Kanzler Merz bei der Generaldebatte. Beim Thema Rente blieb er im Vagen. Umso deutlicher kritisierte er die AfD - und erhielt Unterstützung. Von Corinna Emundts.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Noem made decision to continue deportation flights to El Salvador, justice department says",
+      "link": "https://www.theguardian.com/us-news/2025/nov/26/kristi-noem-deportation-flights-el-salvador",
+      "published": "2025-11-26T16:15:31",
+      "content": "Justice department maintains that Trump administration didn’t violate judge’s order to return flights to USThe Department of Justice said in a statement that Kristi Noem, secretary of the Department of Homeland Security, was the one who made the decision to continue with the deportation flights of Venezuelan immigrants to El Salvador in March, despite a federal judge’s directive that the flights must be returned to the United States.In a court filing on Tuesday, the justice department said that “Deputy Attorney General Todd Blanche and Principal Associate Deputy Attorney General Emil Bove provided DHS with legal advice regarding the court’s order as to flights that had left the United States before the order issued, through DHS Acting General Counsel Joseph Mazzara” and that “after receiving that legal advice, Secretary Noem directed that the AEA detainees who had been removed from the United States before the Court’s order could be transferred to the custody of El Salvador”. Continue reading...",
+      "content_length": 1010,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Medien: Abschiebungsfall in Umfeld von Trump-Sprecherin Leavitt",
+      "link": "https://www.tagesschau.de/ausland/usa-abschiebung-umfeld-leavitt-100.html",
+      "published": "2025-11-26T16:09:51",
+      "content": "   Immer wieder sorgt das Vorgehen der Migrationsbehörde ICE in den USA für Proteste. Nun traf es offenbar eine Frau aus dem Umfeld von Trump-Sprecherin Leavitt: Medien zufolge wurde die Mutter ihres Neffen festgenommen und soll abgeschoben werden.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vor Böllerverbot: Hohe Nachfrage nach Feuerwerk in den Niederlanden",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-letztes-feuerwerk-silvester-100.html",
+      "published": "2025-11-26T16:03:47",
+      "content": "   Ab 2026 sind in den Niederlanden private Feuerwerke verboten. Bevor es soweit ist, können sich die Niederländer ein letztes Mal für Silvester eindecken. Der Vorverkauf zeigt: Viele wollen es diesmal richtig krachen lassen. Von Ludger Kazmierczak.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Crypto hoarders dump tokens as shares tumble",
+      "link": "https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/",
+      "published": "2025-11-26T15:37:47",
+      "content": "Crypto-hoarding companies are ditching their holdings in a bid to prop up their sinking share prices, as the craze for “digital asset treasury” businesses unravels in the face of a $1 trillion cryptocurrency rout.\nShares in Michael Saylor-led Strategy, the world’s biggest corporate bitcoin holder, have tumbled 50 percent over the past three months, dragging down scores of copycat companies.\nAbout $77 billion has been wiped from the stock market value of these companies, which raise debt and equity to fund purchases of crypto, since their peak of $176 billion in July, according to industry data publication The Block.Read full article\nComments",
+      "content_length": 649,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tech firm’s new CTO gets indicted; company then claims he was never CTO",
+      "link": "https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/",
+      "published": "2025-11-26T15:23:12",
+      "content": "When four people were arrested and charged with a conspiracy to illegally export Nvidia chips to China, there was an interesting side note. One of the arrestees, Alabama resident Brian Raymond, was the chief technology officer of an AI company called Corvex.\nOr was he? Corvex certainly seemed to think that Raymond was its CTO in the days before his indictment. Corvex named Raymond as its CTO in a press release and filings to the Securities and Exchange Commission, which detailed plans for a merger with Movano Health.\nBut once Raymond was arrested, Corvex told media outlets that it had never completed the process of hiring him as an employee. While someone could technically be a CTO as a contractor and not a regular employee, a company spokesperson subsequently claimed to Ars that Raymond had never been the CTO.Read full article\nComments",
+      "content_length": 848,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU-Parlament fordert Mindestalter für soziale Medien",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-mindestalter-soziale-medien-100.html",
+      "published": "2025-11-26T14:51:35",
+      "content": "   Das EU-Parlament hat Forderungen für mehr Schutz von Kindern und Jugendlichen im Netz beschlossen. Dabei geht es auch um Altersgrenzen für die Nutzung von Social Media - ähnlich dem Vorbild in Australien. Von Kathrin Schmid.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump threatens Venezuela’s Maduro with ‘the easy way … or the hard way’",
+      "link": "https://www.theguardian.com/world/2025/nov/26/maduro-defends-venezuela-against-trump-military",
+      "published": "2025-11-26T14:44:42",
+      "content": "Venezuela president vows to defend ‘every inch’ of the country amid military buildup in CaribbeanA visual guide to the US military presence in the CaribbeanDonald Trump has warned Nicolás Maduro he can “do things the easy way … or the hard way” as Venezuela’s authoritarian leader responded to the growing US pressure campaign by urging followers to prepare to defend “every inch” of the South American country.Clad in woodland camouflage fatigues, Maduro told a rally in the capital, Caracas, it was their historic duty to fight foreign aggressors, just as the Venezuelan liberation hero Simón Bolívar did two centuries ago. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU verlangt Auskunft von Shein wegen Sexpuppen-Skandal",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/shein-eu-sexpuppen-100.html",
+      "published": "2025-11-26T14:06:07",
+      "content": "   Die EU-Kommission hat sich mit einem Auskunftsersuchen an Shein gewandt. Grund ist der Skandal um wie Kinder aussehende Sexpuppen und Waffen, die bei dem Billig-Onlinehändler zum Verkauf angeboten würden.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zwei Drittel der Menschen fühlen sich gestresst",
+      "link": "https://www.tagesschau.de/inland/stress-tk-befragung-100.html",
+      "published": "2025-11-26T14:04:08",
+      "content": "   Kriege, Arbeit, Termine: Immer mehr Menschen in Deutschland fühlen sich gestresst. Dies belegt eine repräsentative Befragung. Permanenter Stress ist ungesund - aber es gibt auch einfache Tipps dagegen.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gericht kippt Cannabisverbot im Englischen Garten in München",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/urteil-cannabis-verbot-englischer-garten-100.html",
+      "published": "2025-11-26T14:02:15",
+      "content": "   Juristische Schlappe für Bayerns Staatsregierung: Das Cannabisverbot im Englischen Garten in München ist laut Verwaltungsgerichtshof rechtswidrig. Die Gesundheitsministerin hält trotzdem am harten Cannabiskurs fest. Von Petr Jerabek.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AfD-Streit: Rossmann und Vorwerk verlassen Familienunternehmer-Verband",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/familienunternehmen-afd-reaktion-rossmann-vorwerk-100.html",
+      "published": "2025-11-26T13:40:00",
+      "content": "   Der Wirtschaftsverband Die Familienunternehmer will sich für Gespräche mit der AfD öffnen. Die beiden Mitgliedsfirmen Rossmann und Vorwerk treten deswegen aus. Auch von anderen Mitgliedern gibt es Kritik.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vorerst keine verpflichtende \"Chatkontrolle\" in der EU",
+      "link": "https://www.tagesschau.de/ausland/eu-chatkontrolle-102.html",
+      "published": "2025-11-26T13:22:16",
+      "content": "   Lange hatte die EU gestritten, nun ist klar: Messaging-Dienste wie Whatsapp werden vorerst nicht verpflichtet, Chats auf Darstellungen sexualisierter Gewalt an Kindern zu kontrollieren. Auch Deutschland hatte das Vorhaben abgelehnt.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "CISA-Warnung: Angriffe auf Nutzer von Signal und WhatsApp",
+      "link": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Messenger-Nutzer-11092836.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-26T12:53:00",
+      "content": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Nutzer von Messengern wie Signal oder WhatsApp. ",
+      "content_length": 120,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Many genes associated with dog behavior influence human personalities, too",
+      "link": "https://arstechnica.com/science/2025/11/many-genes-associated-with-dog-behavior-influence-human-personalities-too/",
+      "published": "2025-11-26T12:30:15",
+      "content": "Many dog breeds are noted for their personalities and behavioral traits, from the distinctive vocalizations of huskies to the herding of border collies. People have worked to identify the genes associated with many of these behaviors, taking advantage of the fact that dogs can interbreed. But that creates its own experimental challenges, as it can be difficult to separate some behaviors from physical traits distinctive to the breed—small dog breeds may seem more aggressive simply because they feel threatened more often.\nTo get around that, a team of researchers recently did the largest gene/behavior association study within a single dog breed. Taking advantage of a population of over 1,000 golden retrievers, they found a number of genes associated with behaviors within that breed. A high percentage of these genes turned out to correspond to regions of the human genome that have been associated with behavioral differences as well. But, in many cases, these associations have been with very different behaviors.\nGone to the dogs\nThe work, done by a team based largely at Cambridge University, utilized the Golden Retriever Lifetime Study, which involved over 3,000 owners of these dogs filling out annual surveys that included information on their dogs’ behavior. Over 1,000 of those owners also had blood samples obtained from their dogs and shipped in; the researchers used these samples to scan the dogs’ genomes for variants. Those were then compared to ratings of the dogs’ behavior on a range of issues, like fear or aggression directed toward strangers or other dogs.Read full article\nComments",
+      "content_length": 1612,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EZB warnt vor Risiken für Finanzstabilität im Euroraum",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-finanzstabilitaet-risiken-102.html",
+      "published": "2025-11-26T12:25:26",
+      "content": "   Die Risiken für das Finanzsystem sind laut Europäischer Zentralbank gerade hoch. Nicht nur die US-Zollpolitik und Übertreibungen an den Börsen könnten aus Sicht der Währungshüter gefährlich werden.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Preise für Schokolade vor dem Advent deutlich gestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schokolade-preise-advent-100.html",
+      "published": "2025-11-26T12:12:58",
+      "content": "   Ob im Adventskalender oder unter dem Weihnachtsbaum - wer Schokolade verschenken will, muss dieses Jahr deutlich mehr ausgeben. Die Preise sind um mehr als 20 Prozent gestiegen - obwohl Kakaobohnen zuletzt günstiger wurden.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Junta hails end to US protected status for Myanmar nationals",
+      "link": "https://www.theguardian.com/world/2025/nov/26/myanmar-us-protected-status-removal",
+      "published": "2025-11-26T12:11:22",
+      "content": "Human rights monitors say it is not safe to return, citing reports of ‘serious crimes in the run-up to elections’Myanmar’s junta applauded the Trump administration on Wednesday for halting a scheme that protected its citizens from deportation from the US back to their war-racked homeland.About 4,000 Myanmar citizens are living in the US with temporary protected status (TPS), which shields foreign nationals from deportation to disaster zones and allows them the right to work. Continue reading...",
+      "content_length": 499,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Die US-Republikaner und das Navigieren für eine Partei nach Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-republikaner-102.html",
+      "published": "2025-11-26T11:58:59",
+      "content": "   Ob es um die Epstein-Akten geht, um den Haushalt oder den Freihandel: Die Kritik an Präsident Trump in den Reihen der US-Republikaner nimmt zu - und die Kritiker bringen sich in Position. Von Samuel Jackisch.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hundreds of Israeli soldiers raid Palestinian town in West Bank",
+      "link": "https://www.theguardian.com/world/2025/nov/26/hundreds-israeli-soldiers-raid-palestinian-town-tubas-west-bank",
+      "published": "2025-11-26T11:45:47",
+      "content": "Israeli military and security service say ‘broad counter-terrorism operation’ in Tubas to continue for several daysHundreds of Israeli soldiers supported by armoured vehicles have conducted raids in the Palestinian town of Tubas near Nablus in the biggest such military deployment by Israeli forces in the occupied West Bank since the ceasefire came into effect in Gaza last month.Palestinian media reported that a curfew was imposed on Tuesday night on Tubas and some neighbouring communities, roads were closed by earthen barriers and families forced from their homes to allow Israeli forces to use the buildings. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel identifiziert übergebenen Leichnam aus dem Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-hamas-geisel-102.html",
+      "published": "2025-11-26T11:38:21",
+      "content": "   Israel hat nach eigener Aussage den zuletzt übergebenen sterblichen Überreste einer Geisel identifizieren können. Es handelt sich nach Regierungsangaben um einen 52-Jährigen aus dem Kibbuz Beeri.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "SPD-Mitgliederbegehren gegen Bürgergeldreform nimmt erste Hürde",
+      "link": "https://www.tagesschau.de/inland/spd-mitgliederbegehren-102.html",
+      "published": "2025-11-26T11:24:03",
+      "content": "   In der SPD hatten Gegner der geplanten Bürgergeldreform Unterschriften für ein Mitgliederbegehren gesammelt. Nun ist der Weg für ein offizielles Verfahren geebnet: Der Parteivorstand hat die Initiative für zulässig erklärt.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Merkle-Trees: Datenintegrität kryptografisch beweisen",
+      "link": "https://www.heise.de/blog/Merkle-Trees-Datenintegritaet-kryptografisch-beweisen-11088880.html",
+      "published": "2025-11-26T11:18:00",
+      "content": "Mit Merkle-Trees lässt sich auf elegante Art beweisen, dass bestimmte Daten existieren, ohne alles offenlegen zu müssen.",
+      "content_length": 120,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Italien führt Straftatbestand für Femizid ein",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-femizid-straftatbestand-100.html",
+      "published": "2025-11-26T11:07:13",
+      "content": "   Um den Schutz von Frauen vor Gewalt zu stärken, führt Italien Femizide als eigenen Straftatbestand im Gesetz auf. Tätern drohen lebenslange Haftstrafen. Auch Stalking soll zukünftig härter bestraft werden.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japan macht nach tödlichen Angriffen auf Menschen Jagd auf Bären",
+      "link": "https://www.tagesschau.de/ausland/baeren-japan-jagd-100.html",
+      "published": "2025-11-26T10:51:30",
+      "content": "   Noch nie wurden so viele Menschen in Japan von Bären angegriffen wie 2025. Die Tiere laufen durch Parks, Wohnviertel, Supermärkte. Sogar die Armee ist deshalb ausgerückt. Warum kommen die Bären den Menschen immer näher? Von T. Iffland.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bahrain to argue at UK supreme court it has immunity from surveillance claims",
+      "link": "https://www.theguardian.com/world/2025/nov/26/bahrain-uk-supreme-court-immunity-surveillance-claims",
+      "published": "2025-11-26T10:43:31",
+      "content": "Gulf nation is accused of placing monitoring software on computers of two dissidents living in LondonBahrain is to tell the UK’s supreme court that it enjoys sovereign immunity from claims it placed surveillance software on the computers of two dissidents when they were living in London.The Gulf country has lost the sovereign immunity claim both in the high court and court of appeal, and a decision to take the case further to the supreme court shows how important it is to the country’s reputation. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Red-Hat-kompatibles AlmaLinux 10.1 mit Paketupdates und Btrfs",
+      "link": "https://www.heise.de/news/Red-Hat-kompatibles-AlmaLinux-10-1-mit-Paketupdates-und-Btrfs-11092363.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-26T10:42:00",
+      "content": "Das mit Red Hat kompatible AlmaLinux ist in Version 10.1 erschienen. Es bringt Pakete auf den aktuellen Stand und unterstützt Btrfs.",
+      "content_length": 132,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie mit einer Statistik zu Jugendkriminalität Stimmung gemacht wird",
+      "link": "https://www.tagesschau.de/faktenfinder/kriminalitaet-schueler-nrw-100.html",
+      "published": "2025-11-26T10:12:58",
+      "content": "   Eine Studie zu Kriminalität von Jugendlichen in NRW hat heftige Reaktionen ausgelöst. Die Forscher widersprechen jedoch der Interpretation in Medien und Teilen der daraus von Politikern abgeleiteten Forderungen. Von Wulf Rohwedder.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Astronomie: Angeblich erster direkter Nachweis von Dunkler Materie",
+      "link": "https://www.heise.de/news/Astronomie-Angeblich-erster-direkter-Nachweis-von-Dunkler-Materie-11092279.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-26T10:02:00",
+      "content": "In Daten eines mehr als 17 Jahre alten Weltraumteleskops der NASA hat ein Astronom angeblich erstmals direkte Spuren der rätselhaften Dunklen Materie gefunden.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "JetBrains veröffentlicht GitHub Actions für IntelliJ IDEA als Open Source",
+      "link": "https://www.heise.de/news/Open-Source-GitHub-Actions-und-fertige-Builds-fuer-JetBrains-IntelliJ-IDEA-11092285.html",
+      "published": "2025-11-26T09:53:00",
+      "content": "JetBrains liefert zum offenen Code der IntelliJ-Entwicklungsumgebung nun CI/CD-Pipelines für den Build-Prozess und fertige Builds.",
+      "content_length": 130,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Microsoft: Visual Studio erhält kürzere Releasezyklen",
+      "link": "https://www.heise.de/news/Schnellere-Updates-Visual-Studio-wechselt-zu-jaehrlichem-Releasezyklus-11092249.html",
+      "published": "2025-11-26T09:39:00",
+      "content": "Bereits nächstes Jahr soll die neue Hauptversion Visual Studio 2027 erscheinen. Feature-Updates erscheinen nun monatlich statt vierteljährlich.",
+      "content_length": 143,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "programmier.bar: AI-Recht mit Dr. Peggy Müller",
+      "link": "https://www.heise.de/blog/programmier-bar-AI-Recht-mit-Dr-Peggy-Mueller-11092157.html",
+      "published": "2025-11-26T09:24:00",
+      "content": "Dr. Peggy Müller erklärt, welche rechtlichen Fallstricke bei der Nutzung von KI-Systemen lauern und wie der AI Act künftig die Anwendung regeln wird.",
+      "content_length": 149,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
