@@ -1,0 +1,1168 @@
+{
+  "metadata": {
+    "timestamp": "20251128_071418",
+    "input_file": "data/deduplicated/20251128_071418.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 138,
+      "filtered_count": 127,
+      "blacklisted_count": 11,
+      "reduction_rate": "8.0%",
+      "top_blacklist_reasons": {
+        "brand in": 3,
+        "regen": 2,
+        "fußball": 1,
+        "landrat": 1,
+        "weltmeister": 1,
+        "baustelle": 1,
+        "champions league": 1,
+        "diebstahl": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Europe debates the future of Russia’s frozen assets",
+      "link": "https://www.france24.com/en/europe/20251128-the-fight-over-the-future-of-russia-s-frozen-assets",
+      "published": "2025-11-28T07:00:20",
+      "content": "With Ukraine facing a yawning budget shortfall over the next two years, the European Commission has proposed using €185 billion in frozen Russian assets to back an interest-free loan to Kyiv guaranteed by the bloc's member states. But Belgium, the host state of the clearing house that holds the frozen funds, is holding out for fear of facing retaliation from Moscow – legal or otherwise.",
+      "content_length": 389,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Friday briefing: How will Ukraine fare this winter as Trump pushes for a controversial peace deal? ​",
+      "link": "https://www.theguardian.com/world/2025/nov/28/friday-briefing-how-will-ukraine-fare-this-winter-as-trump-pushes-for-a-controversial-peace-deal",
+      "published": "2025-11-28T06:50:54",
+      "content": "In today’s newsletter: After nearly four years of war, Ukraine is confronting deep fatigue, dwindling strategic options and fresh US pressure to accept terms that many see as a surrender in all but nameA week ago Volodymyr Zelenskyy told Ukrainians that they faced “a very tough choice – either the loss of our dignity, or the risk of losing a key partner”. The warning came as the Trump administration increased pressure on Zelenskyy to accept a peace deal that appears to secure all of Vladimir Putin’s war aims – a proposal European leaders have described as capitulation.With the war about to enter its fourth winter, there seems no sign that either side has the capability to make a significant military breakthrough. Neither the incessant infantry grind on the eastern front, Moscow’s aerial bombardment of Ukrainian cities, nor Kyiv’s long-range strikes on infrastructure inside Russia look likely to shift the equilibrium any time soon.Politics | Keir Starmer says Labour “kept to our manifesto” over budget tax rises. The prime minister sought to rebuff claims Labour had broken its tax promises.Workers’ rights | A flagship policy that would have given workers the right to claim unfair dismissal after their first day on the job is to be ditched by the government in favour of a six month-threshold.US news | Donald Trump has said he will “permanently pause migration from all third world countries,” hours after the president announced that one of the two national guard members who were shot in Washington DC had died.Hong Kong | Rescue operations inside the Hong Kong apartment complex that was engulfed by fire on Wednesday are “almost complete”, fire officials have said, as the death toll reached 94 early on Friday with scores more missing.Ukraine | Vladimir Putin has said that the outline of a draft peace plan discussed by the US and Ukraine could serve as a basis for future negotiations to end the war – but insisted Ukraine would have to surrender territory for any deal to be possible. Continue reading...",
+      "content_length": 2030,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Koalitionsausschuss - Beratungen nach sechs Stunden in der Nacht beendet",
+      "link": "https://www.deutschlandfunk.de/beratungen-nach-sechs-stunden-in-der-nacht-beendet-100.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "In Berlin haben die Spitzen von Union und SPD ihre Beratungen im Koalitionsausschuss abgeschlossen. Das Treffen endete nach fast sechs Stunden erst in der Nacht. Das hauptsächliche Streitthema: das Rentenpaket, das bei jungen Abgeordneten in der Unionsfraktion auf erheblichen Widerstand stößt.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeskanzler - Merz weist US-Einmischung in Europäische Migrationspolitik zurück",
+      "link": "https://www.deutschlandfunk.de/merz-weist-us-einmischung-in-europaeische-migrationspolitik-zurueck-102.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Bundeskanzler Merz hat eine Einmischung der US-Regierung in die europäische Migrationspolitik zurückgewiesen.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienberichte - Wahlausschuss soll BSW-Einspruch gegen Bundestagswahlergebnis ablehnen",
+      "link": "https://www.deutschlandfunk.de/wahlausschuss-soll-bsw-einspruch-gegen-bundestagswahlergebnis-ablehnen-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Der Wahlprüfungsausschuss wird laut übereinstimmenden Presseberichten die Einsprüche des BSW zur Bundestagswahl aller Voraussicht nach zurückweisen.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - Nationalgardistin nach Angriff von Mittwoch gestorben - Trump kündigt strengere Migrationspolitik an",
+      "link": "https://www.deutschlandfunk.de/nationalgardistin-nach-angriff-von-mittwoch-gestorben-trump-kuendigt-strengere-migrationspolitik-an-100.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Nach dem Schusswaffenangriff am Mittwoch in Washington ist eine Nationalgardistin nach Angaben von Präsident Trump gestorben. Obwohl die Hintergründe des Angriffs auf die Nationalgardisten unklar sind, nutzt Trump den Vorfall für seine politische Agenda.",
+      "content_length": 254,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Guinea-Bissau - Entmachteter Präsident in den Senegal ausgeflogen - Putschisten ernennen Übergangs-Staatschef",
+      "link": "https://www.deutschlandfunk.de/entmachteter-praesident-in-den-senegal-ausgeflogen-putschisten-ernennen-uebergangs-staatschef-100.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Nach der von der Armee verkündeten Machtübernahme im westafrikanischen Guinea-Bissau ist der entmachtete Präsident Embaló in den Senegal ausgeflogen worden.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Militärpräsenz in der Karibik - Trump kündigt Kampf gegen venezolanische Drogenhändler \"schon sehr bald\" auch an Land an",
+      "link": "https://www.deutschlandfunk.de/trump-kuendigt-kampf-gegen-venezolanische-drogenhaendler-schon-sehr-bald-auch-an-land-an-100.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Die USA wollen laut Präsident Trump künftig auch an Land gegen venezolanische Drogenhändler vorgehen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vor Welt-Aids-Tag - UNO-Organisationen warnen vor Rückschritt im Kampf gegen HIV",
+      "link": "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-rueckschritt-im-kampf-gegen-hiv-106.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Vor dem Welt-Aids-Tag warnt das UNO-Kinderhilfswerk vor Rückschlägen im Kampf gegen die Immunschwächekrankheit.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gemeinsame Erklärung - Deutschland, Frankreich, Italien und Großbritannien verurteilen Siedlergewalt im Westjordanland",
+      "link": "https://www.deutschlandfunk.de/deutschland-frankreich-italien-und-grossbritannien-verurteilen-siedlergewalt-im-westjordanland-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Deutschland, Frankreich, Italien und Großbritannien haben Israel aufgefordert, die Siedlergewalt im besetzten Westjordanland zu beenden. In einer gemeinsamen Erklärung der Außenminister ist von einem massiven Anstieg der Gewalt gegen palästinensische Zivilisten die Rede.",
+      "content_length": 271,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bekannter US-Architekt - Robert Stern im Alter von 86 Jahren gestorben",
+      "link": "https://www.deutschlandfunk.de/robert-stern-im-alter-von-86-jahren-gestorben-106.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Der US-Architekt Robert Stern ist tot.",
+      "content_length": 38,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Iran - Friedensnobelpreisträgerin Mohammadi beklagt dauerhaftes Reiseverbot",
+      "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-mohammadi-beklagt-dauerhaftes-reiseverbot-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Die iranische Friedensnobelpreisträgerin Narges Mohammadi darf den Iran nach eigenen Angaben nicht mehr verlassen.",
+      "content_length": 114,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Westjordanland - Medienberichte: Israelische Soldaten sollen Palästinenser erschossen haben, die sich ergeben hatten",
+      "link": "https://www.deutschlandfunk.de/medienberichte-israelische-soldaten-sollen-palaestinenser-erschossen-haben-die-sich-ergeben-hatten-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Im Westjordanland sollen israelische Soldaten nach Berichten mehrerer israelischer und palästinensischer Medien zwei Palästinenser getötet haben, obwohl diese sich bereits ergeben hatten.",
+      "content_length": 187,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Finanzen - Bundestag stimmt über Haushalt 2026 ab",
+      "link": "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-haushalt-2026-ab-106.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Der Bundestag stimmt heute über den Haushalt für das nächste Jahr ab.",
+      "content_length": 69,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Auslieferung - Nord-Stream-Verdächtiger wird Richter vorgeführt",
+      "link": "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-wird-richter-vorgefuehrt-102.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Ein mutmaßlicher Drahtzieher der Nord-Stream-Anschläge soll heute dem Ermittlungsrichter am Bundesgerichtshof in Karlsruhe vorgeführt werden.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hannover - Grüne treffen sich zu Bundesparteitag",
+      "link": "https://www.deutschlandfunk.de/gruene-treffen-sich-zu-bundesparteitag-100.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Die Grünen kommen am Nachmittag zu einem Parteitag in Hannover zusammen.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundespräsident - Steinmeier beendet Staatsbesuch in Spanien",
+      "link": "https://www.deutschlandfunk.de/steinmeier-beendet-staatsbesuch-in-spanien-106.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Bundespräsident Steinmeier beendet heute seinen Staatsbesuch in Spanien.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Diplomatie - Sloweniens Ministerpräsidenten Golob zu Gast in Berlin",
+      "link": "https://www.deutschlandfunk.de/sloweniens-ministerpraesidenten-golob-zu-gast-in-berlin-102.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Bundeskanzler Merz empfängt heute Sloweniens Ministerpräsidenten Golob in Berlin.",
+      "content_length": 81,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Bürger besonders betroffen - Louvre erhöht Eintrittspreise für Nicht-Europäer",
+      "link": "https://www.deutschlandfunk.de/louvre-erhoeht-eintrittspreise-fuer-nicht-europaeer-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Der Louvre in Paris erhöht seine Eintrittspreise für Nicht-Europäer um 45 Prozent.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sanktionen - Russische Judoka wieder unter eigener Flagge",
+      "link": "https://www.deutschlandfunk.de/russische-judoka-wieder-unter-eigener-flagge-102.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Russische Judo-Sportler dürfen bei internationalen Wettkämpfen künftig wieder unter ihrer Nationalflagge antreten.",
+      "content_length": 114,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auszeichnung - Preis \"Kita des Jahres\" geht an Einrichtung in Unkel/Rheinland-Pfalz",
+      "link": "https://www.deutschlandfunk.de/preis-kita-des-jahres-geht-an-einrichtung-in-unkel-rheinland-pfalz-104.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Der deutsche Kita-Preis geht in diesem Jahr nach Unkel in Rheinland-Pfalz. Die inklusive Kita der Stadt sei auf außergewöhnliche Weise ein Ort für alle Kinder – mit und ohne Beeinträchtigung, hieß zur Begründung.",
+      "content_length": 212,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundessozialgericht - Bürgergeldempfänger müssen selbst günstigeren Wohnraum suchen",
+      "link": "https://www.deutschlandfunk.de/buergergeldempfaenger-muessen-selbst-guenstigeren-wohnraum-suchen-106.html",
+      "published": "2025-11-28T06:50:42",
+      "content": "Jobcenter sind nach einem Urteil des Bundessozialgerichts nicht verpflichtet, Bürgergeldempfängern günstigere Wohnungen zu suchen.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong families search for missing after firefighting operations end",
+      "link": "https://www.france24.com/en/asia-pacific/20251128-hong-kong-families-search-for-missing-after-firefighting-operations-end",
+      "published": "2025-11-28T06:50:40",
+      "content": "Families of the missing in Hong Kong’s deadliest blaze, which killed 94 people, were seeking information about their loved ones as firefighting operations ended Friday after a gruelling 40 hours. Nearly 279 people were listed as missing on Thursday, but that figure has not been updated.",
+      "content_length": 287,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bear attacks man in public toilet in Japan",
+      "link": "https://www.theguardian.com/world/2025/nov/28/bear-attacks-man-public-toilet-japan",
+      "published": "2025-11-28T06:43:41",
+      "content": "Incident north of Tokyo comes after a record 13 deaths from bear attacks in Japan since the start of AprilA man has been attacked by a bear in a public toilet in Japan, local media reported on Friday – the latest in a record-breaking wave of attacks this autumn, including those in populated areas.The victim, a 69-year-old security guard, told police he had noticed the bear, which was 1-1.5 metres long, peering inside as he was about to leave the building in Gunma prefecture, north of Tokyo, in the early hours of Friday, Kyodo news agency and broadcaster NHK reported. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Zinsfantasien dürften Börsen weiter stützen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-fed-zinsen-100.html",
+      "published": "2025-11-28T06:42:48",
+      "content": "   Angesichts fehlender Impulse von der Wall Street dürften die Anleger DAX-Aktien zunächst nur mit spitzen Fingern anfassen. Größere Gewinnmitnahmen zeichnen sich aber auch nicht ab - Zinshoffnungen stützen weiter die Kurse.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deutscher Name, China-Ware: Die Tricks der Billig-Shops",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/mode-labels-online-shops-china-100.html",
+      "published": "2025-11-28T06:34:13",
+      "content": "   Sie wirken wie kleine deutsche Labels, mit rührender Geschichte und hohen Rabatten. Doch viele dieser Online-Shops kommen aus China und enttäuschen die Kunden. Von Svea Eckert und Sabine Hausherr.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nationalgardistin nach Schüssen in Washington gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/nationalgardistin-gestorben-100.html",
+      "published": "2025-11-28T06:26:14",
+      "content": "   Eine der beiden in Washington angeschossenen Nationalgardisten ist nach Angaben von Präsident Trump ihren Verletzungen erlegen. Er kündigte politische Konsequenzen an und bezeichnete den mutmaßlichen Angreifer als \"Monster\".   [mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bondi Junction stabbings: ‘10 seconds warning’ from security could have saved lives, inquest hears",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/28/bondi-junction-stabbings-joel-cauchi-inquest-drug-use",
+      "published": "2025-11-28T06:25:44",
+      "content": "Families of those killed ‘angered’  that Scentre Group and Glad security did not accept control room operator was not competent to be in the position she was that dayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastHad new mother Ashlee Good been given “even 1o seconds’ warning” when Joel Cauchi began his stabbing spree at Westfield Bondi Junction, she might have been able to take evasive action to save her life, a court has heard.Schizophrenic man Cauchi, 40, killed Good, 38, Jade Young, 47, Yixuan Cheng, 27, Pikria Darchia, 55, Dawn Singleton, 25, and Faraz Tahir, 30, and injured 10 others at Westfield Bondi Junction before he was shot and killed by police inspector Amy Scott. Continue reading...",
+      "content_length": 771,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Barnaby Joyce’s exit from the Nationals ‘almost a Greek tragedy’, Michael McCormack says – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/28/australia-news-live-storms-hail-queensland-environment-laws-anthony-albanese-labor-greens-sussan-ley-coalition-ntwnfb",
+      "published": "2025-11-28T06:13:53",
+      "content": "Meanwhile Monash University to repay thousands of casual staff underpaid over almost a decade. This blog is now closedGet our breaking news email, free app or daily news podcastHanson-Young says environmental action and business interests linkedHanson-Young was asked if she could guarantee the targets wouldn’t damage the economy or business. She said the Greens were looking at the connection between the two, pointing to the devastating algal bloom in South Australia that had smashed local industry, fishing and tourism.You cannot continue to pretend that somehow the economy is off over there while the environment has nothing to do with it and that the climate has nothing to do with it. If we want a strong economy, we have to transition. We’ve got to do it faster.And the community wants it. No one told South Australians that when the climate crisis hit, they wouldn’t be able to go to the beach in the 40C heat over summer. That is what we are facing this summer. And South Australians want action. Australians want action. The world needs action.It is a good day for the environment and it’s a good day for our forests and our Australian bushland. A good day for our wildlife.It’s been a long time coming, having to fix some of these major flaws in Australia’s environment laws that have allowed land clearing to go unchecked, to allow the destruction of our forests, even when there’s endangered species living there, that it’s their home. And there’s a lot more to do. Continue reading...",
+      "content_length": 1501,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Westjordanland: Video von Militäreinsatz sorgt für Empörung",
+      "link": "https://www.tagesschau.de/ausland/gewalt-westjordanland-100.html",
+      "published": "2025-11-28T06:11:15",
+      "content": "   Wegen seines Vorgehens im Westjordanland steht Israel seit Langem in der Kritik. Nun sorgt ein Video für Empörung, auf dem zu sehen ist, wie Soldaten zwei Palästinenser erschießen, die sich zuvor ergeben hatten. Von Bettina Meier.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rescue operations at Hong Kong apartment complex ‘almost complete’, as death toll reaches 94",
+      "link": "https://www.theguardian.com/news/2025/nov/28/hong-kong-apartment-fire-response-rescue-operations-death-toll",
+      "published": "2025-11-28T06:06:43",
+      "content": "By Friday morning the fires had been mostly contained, after burning for more than 24 hours, officials announcedAnger swelling in Hong Kong over deadliest fire in more than 70 yearsHow the Hong Kong fire unfolded – visual guideRescue operations inside the Hong Kong apartment complex that was engulfed by fire on Wednesday are “almost complete”, fire officials have said, as the death toll reached 94 early on Friday with scores more missing.Firefighters were combing through the high-rises on Friday, attempting to find anyone alive after the massive fire that spread to seven of eight towers, in one of the city’s deadliest ever blazes. Continue reading...",
+      "content_length": 658,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK rejects visa for girl left destitute in Jamaica by Hurricane Melissa",
+      "link": "https://www.theguardian.com/politics/2025/nov/28/uk-home-office-rejects-visa-young-girl-destitute-jamaica-hurricane-melissa",
+      "published": "2025-11-28T06:00:59",
+      "content": "Lati-Yana Brown’s parents had asked for application to be expedited so she could join them in UK after house ruinedAn eight-year-old girl left destitute in Jamaica after Hurricane Melissa has been barred from coming to the UK to join her parents.The Guardian reported on the case of Lati-Yana Stephanie Brown after the hurricane. Her mother, Kerrian Bigby, a carer, moved from Jamaica to be with Lati-Yana’s British father, Jerome Hardy, a telecommunications worker, in April 2023, leaving their daughter to be cared for by her grandmother. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "One in 10 UK parents say their child has been blackmailed online, NSPCC finds",
+      "link": "https://www.theguardian.com/technology/2025/nov/28/one-in-10-uk-parents-say-child-blackmailed-online-sextortion-nspcc-finds",
+      "published": "2025-11-28T06:00:58",
+      "content": "Harms include threats to release intimate pictures as charity warns against parents sharing photos or details of children onlineNearly one in 10 UK parents say their child has been blackmailed online, with harms ranging from threatening to release intimate pictures to revealing details about someone’s personal life.The NSPCC child protection charity also found that one in five parents know a child who has experienced online blackmail, while two in five said they rarely or never talked to their children about the subject. Continue reading...",
+      "content_length": 546,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Met police to face ‘Casey 2’ inquiry after recent scandals",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/28/met-police-change-inquiry-after-recent-scandals",
+      "published": "2025-11-28T06:00:57",
+      "content": "Gillian Fairfield to lead review as critics say nothing has changed since 2023 report found systemic discriminationThe Metropolitan police are to face a new inquiry into whether they have radically changed after a devastating report found the force was riddled with prejudice and failing the public, the Guardian has learned.The “Casey 2” inquiry was supposed to have been launched earlier this year but has been delayed. It is a follow-up to the review by Louise Casey that in 2023 found the Met to be institutionally racist and misogynistic, and concluded that Britain’s largest police force could be broken up if it failed to change. Continue reading...",
+      "content_length": 656,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "\"Entmietung\": Wenn Mieter für Sanierungen ausziehen müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/entmietung-wohnungsnot-100.html",
+      "published": "2025-11-28T05:50:23",
+      "content": "   Bezahlbarer Wohnraum ist gerade in Großstädten knapp. Er wird immer schwerer zu finden, wenn auch große städtische Gesellschaften ihre Wohnungen teuer sanieren, um mehr Miete verlangen zu können. Von Barbara Berner.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump says he will ‘permanently pause’ migration from ‘third world countries’ after national guard shooting",
+      "link": "https://www.theguardian.com/us-news/2025/nov/28/trump-says-he-will-permanently-pause-migration-from-third-world-countries-after-national-guard-shooting",
+      "published": "2025-11-28T05:36:04",
+      "content": "In a social media post sent late on Thanksgiving, US president said he would ‘end all federal benefits and subsidies to noncitizens’ following Washington DC shootingDonald Trump has said he will “permanently pause migration from all third world countries,” a day after two national guard members were shot in Washington DC in an attack that has become a political flashpoint in the president’s ongoing crackdown on immigration.In a social media post beginning with “a very happy Thanksgiving,” sent after 11pm on Thursday, the US president said his administration would “end all federal benefits and subsidies to noncitizens” and remove “anyone who is not a net asset to the United States”. Continue reading...",
+      "content_length": 710,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Maga moms, Trump babies and Erika Kirk: Republicans woo women in run-up to midterms – podcast",
+      "link": "https://www.theguardian.com/politics/audio/2025/nov/28/maga-moms-trump-babies-and-erika-kirk-republicans-woo-women-in-run-up-to-midterms-podcast",
+      "published": "2025-11-28T05:00:57",
+      "content": "Erika Kirk – the widow of Charlie Kirk, the rightwing activist killed in Utah in September – has indicated she would be willing to support JD Vance in a 2028 presidential bid. Katie Miller, the wife of White House deputy chief of staff for policy Stephen Miller, invites senior Republicans on to her podcast for discussions with conservative women. And the Trump administration is developing baby-boom policies it hopes will help gain the backing of women in the midterm elections.Jonathan Freedland speaks to the Guardian columnist Arwa Mahdawi about the Republican drive to win over womenArchive: Megyn Kelly podcast, Katie Miller podcast, NBC, Fox, ABC, CNN Continue reading...",
+      "content_length": 680,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘We had six MPs and four factions’: inside Your Party’s toxic power struggles",
+      "link": "https://www.theguardian.com/politics/2025/nov/28/your-party-rifts-power-struggles-jeremy-corbyn-zarah-sultana",
+      "published": "2025-11-28T05:00:56",
+      "content": "Some say Jeremy Corbyn is too non-committal for project to work, while others blame Zarah Sultana’s combative natureAt an early meeting to set the path for what would become Your Party, participants quickly agreed on one thing: given the cliches about leftwingers forever falling out, at all costs they must avoid a descent into factionalism.Six months on and the Liverpool venue hosting this weekend’s inaugural Your Party conference has been warned to expect potential disruption, including stage invasions by disgruntled members representing particular wings. Extra security guards have been hired. Continue reading...",
+      "content_length": 621,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Is this doable?’: why political paralysis threatens an ambitious Brussels arts complex",
+      "link": "https://www.theguardian.com/world/2025/nov/28/brussels-political-paralysis-threatens-ambitious-kanal-arts-complex",
+      "published": "2025-11-28T05:00:55",
+      "content": "Kanal is 95% complete and on schedule but plans to slash its budget mean conversation around its opening have moved from ‘when’ to ‘if’A year before its scheduled opening on 28 November 2026, building works at Kanal, a new contemporary art museum in Brussels, are running on time.Housed in a remodelled former Citroën garage on the north-western edge of the city centre, the centre is 95% complete. Curators are putting the finishing touches to an opening show that will feature works by Matisse, Picasso and Giacometti on loan from the Centre Pompidou in Paris. Trilingual wall texts in English, Dutch and French have already been signed off. Continue reading...",
+      "content_length": 663,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Police sergeant found guilty of causing death of 16-year-old Indigenous teenager Jai Wright",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/28/jai-wright-police-officer-guilty-causing-indigenous-teenager-death-ntwnfb",
+      "published": "2025-11-28T04:45:30",
+      "content": "Benedict Bryant convicted of dangerous driving occasioning death after placing police car in path of 16-year-old’s trail bike in Sydney in 2022Warning: this article contains the name of an Indigenous Australian who has diedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA police sergeant who was told not to pursue a teenager riding a trail bike has been told he caused the death of the young man when he placed his unmarked car in his path.Benedict Bryant, 47, was found guilty on Friday of dangerous driving occasioning the death of Indigenous teenager Jai Kalani Wright in February 2022 in an inner Sydney suburb.For information and support in Australia call 13YARN on 13 92 76 for a crisis support line for Indigenous Australians; or call Lifeline on 13 11 14, Mensline on 1300 789 978 and Beyond Blue on 1300 22 4636 Continue reading...",
+      "content_length": 907,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Victorian man jailed after homemade gun misfires and kills his pregnant partner",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/28/father-jailed-homemade-gun-misfires-kills-pregnant-woman",
+      "published": "2025-11-28T04:39:23",
+      "content": "Kiara Ferguson died after Adam Winmar’s daughter, four, found loaded weapon in family’s couch in 2023Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSix months’ pregnant with two children at home, a young regional Victorian woman was understandably upset when her four-year-old found a gun inside their couch.Kiara Ferguson, 27, took the homemade firearm from the girl and marched to the back of the family home, where her partner of 10 years was in the toilet. Continue reading...",
+      "content_length": 546,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Man dead and two under arrest after daylight shooting on suburban Sydney street",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/28/sydney-blacktown-daylight-shooting-man-dead-ntwnfb",
+      "published": "2025-11-28T04:30:48",
+      "content": "Police say a man in his early 20s was found in Blacktown with gunshot wounds to his neck, chest and legFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA man has died and two others are in custody after a daylight shooting on a suburban street in Sydney.Police were called to Carinya Street, Blacktown, at about 11.50am on Friday after reports of a public place shooting. Continue reading...",
+      "content_length": 455,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US to stop Venezuelan drug traffickers by land 'very soon', says Trump",
+      "link": "https://www.france24.com/en/americas/20251128-us-venezuelan-drug-traffickers-land-trump",
+      "published": "2025-11-28T03:28:20",
+      "content": "US President Donald Trump said Thursday that efforts to halt Venezuelan drug trafficking “by land” would begin “very soon,” escalating tensions with Caracas, which says the campaign is aimed at regime change. Trump made the comments during a video call with deployed US troops for the Thanksgiving holiday.",
+      "content_length": 306,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Millions in China cram for civil service exam and the hope of a job for life",
+      "link": "https://www.theguardian.com/world/2025/nov/28/china-civil-service-exam-age-limit-changed",
+      "published": "2025-11-28T02:27:56",
+      "content": "Amid troubled economic times, many in China are shifting back towards the certainty of a career in the public sectorA record number of people are set to take China’s notoriously gruelling national civil service exam this weekend, reflecting the increasing desire of Chinese workers to find employment in the public rather than private sector.Around 3.7 million people have registered for the tests on Saturday and Sunday, which will be the first since the government increased the age limit for certain positions. The age limit for general candidates has increased from 35 to 38, while the age limit for those with postgraduate degrees has been raised from 40 to 43. Continue reading...",
+      "content_length": 686,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Koalition ringt um Kompromiss bei Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-266.html",
+      "published": "2025-11-28T01:14:37",
+      "content": "   Bis tief in die Nacht haben Union und SPD im Koalitionsausschuss beraten. Vor allem bei der Rente hakte es zuletzt. Gelingt ein Kompromiss oder ist die Koalition in Gefahr? Am Vormittag soll über die Ergebnisse informiert werden. Von Iris Sayram.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Canada minister resigns from cabinet over Carney’s controversial oil pipeline deal",
+      "link": "https://www.theguardian.com/world/2025/nov/27/mark-carney-alberta-oil-pipeline-deal-canada-first-nations",
+      "published": "2025-11-28T00:09:16",
+      "content": "Minister Steven Guilbeault says Indigenous nations were not consulted and the pipeline would have ‘major environmental impacts’Mark Carney has agreed an energy deal with Alberta centred on plans for a new heavy oil pipeline reaching from the province’s oil sands to the Pacific coast, a politically volatile project that is expected to face stiff opposition.The move proved politically damaging within hours, with the minister of Canadian culture, Steven Guilbeault, who is the former environment minister, announcing he would leave cabinet. Guilbault, a former activist and lifelong environmental advocate, said he strongly opposed the plan. Continue reading...",
+      "content_length": 662,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie Trump den Angriff auf die Nationalgarde instrumentalisiert",
+      "link": "https://www.tagesschau.de/ausland/amerika/angriff-washington-trump-100.html",
+      "published": "2025-11-28T00:04:17",
+      "content": "   Obwohl die Hintergründe des Angriffs auf die Nationalgardisten unklar sind, nutzt US-Präsident Trump den Vorfall für seine politische Agenda. Aggressiv verteidigt er seine Migrationspolitik. Von Giselle Ucar.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Flash flooding in Sumatra kills 69 as rescue crews search rivers for survivors",
+      "link": "https://www.theguardian.com/world/2025/nov/28/flash-flooding-sumatra-death-toll-rises",
+      "published": "2025-11-28T00:01:17",
+      "content": "Monsoon rains cause devastation on Indonesian island, sparking landslides and flash floodingFlash floods and landslides on Indonesia’s Sumatra island have killed 69 people, with 59 missing as emergency workers search in rivers and the rubble of villages for bodies and possible survivors.Monsoon rains over the past week caused rivers to burst their banks in North Sumatra province on Tuesday. The deluge tore through mountainside villages, swept away people and submerged more than 2,000 houses and buildings, the National Disaster Management Agency said. Nearly 5,000 residents fled to government shelters. Continue reading...",
+      "content_length": 628,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "National Guard's Sarah Beckstrom dies following shooting near White House",
+      "link": "https://www.france24.com/en/americas/20251127-trump-national-guard-member-shot-white-house-died",
+      "published": "2025-11-27T23:59:30",
+      "content": "US President Donald Trump said on Thursday that National Guard soldier Sarah Beckstrom, one of two troops shot near the White House a day earlier, had died, while the other remained “fighting for his life”. Trump called Beckstrom a “highly respected, young, magnificent person”.",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louvre hikes ticket price by 45% for most non-EU tourists in revenue push",
+      "link": "https://www.france24.com/en/france/20251127-non-eu-visitors-louvre",
+      "published": "2025-11-27T23:38:48",
+      "content": "Paris’s Louvre museum said on Thursday it will raise ticket prices for most non-EU visitors, requiring tourists from the United States, Britain and China to pay $37. The 45% increase is expected to lift annual revenue by up to $23 million to fund structural upgrades after last month’s daylight theft.",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "ESA will Deutschen auf den Mond bringen und unabhängiger werden",
+      "link": "https://www.tagesschau.de/wissen/esa-mondmission-100.html",
+      "published": "2025-11-27T23:36:16",
+      "content": "   Bis zum Ende des Jahrzehnts soll ein deutscher Astronaut Richtung Mond fliegen. So ein Schachzug bringt Aufmerksamkeit, aber das zentrale Thema der ESA ist eigentlich ein anderes: Unabhängigkeit. Von Bianca Schwarz.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Suspect in Washington DC national guard shooting had ties to CIA, agency confirms",
+      "link": "https://www.theguardian.com/us-news/2025/nov/27/washington-dc-national-guard-shooting-suspect",
+      "published": "2025-11-27T23:23:51",
+      "content": "Rahmanullah Lakanwal, 29, worked with agency-backed military units during US war in AfghanistanWashington DC national guard shooting: what we know so farThe suspected shooter of two national guard members in Washington DC on Wednesday worked with CIA-backed military units during the US war in Afghanistan, the agency has confirmed.The alleged gunman, identified as Rahmanullah Lakanwal, 29, came to the US in September 2021 under an Operation Allies Welcome program that gave some Afghans who had worked for the US government entry visas to the US. He was granted asylum in April this year, under the Trump administration, Reuters reported. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday",
+      "link": "https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025",
+      "published": "2025-11-27T23:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nWe’ve seen Sony’s DualSense Edge discounted on a few occasions this year, and now it’s back on sale ahead of Black Friday as part of Sony’s ongoing holiday promo. Right now, you can snag the pro-style gamepad in either black or white at Amazon, Walmart, and Best Buy for around $169 ($30 off), which is just $10 shy of its previous low. The black version of the DualSense Edge is seldom discounted by this much, so now’s a good time to pick one up if you prefer the stealthier look.\nSony DualSense Edge\n\nWhere to Buy: $199.99 $169 at Amazon $199.99 $169.99 at Best Buy $199 $169 at Walmart\nIf you spend a lot of time gaming on the PlayStation 5, the DualSense Edge elevates the experience by offering more customization than Sony’s standard DualSense controller. For starters, its deep software integration with the PS5 lets you create up to four profiles, each with customization options for button mapping, stick sensitivity, and assigning commands to the rear buttons. You can create separate profiles for Ghost of Yōtei and Arc Raiders, for instance, and swap between them on the fly without having to leave your game.\n\nIn addition to custom profiles, the DualSense Edge lets you adjust the feel of the triggers (L2 and R2), so you can tailor them to specific play styles and games. You can set the triggers to be more sensitive for online shooters like Call of Duty: Black Ops 7, or less sensitive for racing games to achieve smoother acceleration and braking. Moreover, the Edge makes it easy to swap out stick modules in case one stops working.\n\nAs much as we enjoy how much you can customize the DualSense Edge, though, it’s not without its faults. In his review, The Verge’s Cameron Faulkner found that the controller averaged only about eight hours of battery life on a full charge, which is worse than the standard DualSense controller. It does, however, come with a long charging cable that can lock into the controller, preventing it from accidentally being yanked out.\n\nRead our full DualSense Edge review.",
+      "content_length": 2029,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Louvre erhöht 2026 Eintrittspreise für Nicht-Europäer um 45 Prozent",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-louvre-preis-100.html",
+      "published": "2025-11-27T22:59:21",
+      "content": "   Nicht-europäische Touristen müssen ab 2026 tiefer in die Tasche greifen, wenn sie den Louvre in Paris besuchen wollen. Das Museum will mit den Einnahmen seine Sicherheitsvorkehrungen verbessern.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump orders review of 'every' green card from 19 countries after capital attack",
+      "link": "https://www.france24.com/en/americas/20251127-us-green-card-capital-attack",
+      "published": "2025-11-27T22:59:21",
+      "content": "President Donald Trump ordered a sweeping review of green card holders from what his administration calls “countries of concern”, the head of US Citizenship and Immigration Services said on Thursday, directing the agency to reassess vetting procedures for permanent residents from those nations.",
+      "content_length": 295,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "G.Bissau president leaves the country after coup",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251127-g-bissau-president-leaves-the-country-after-coup",
+      "published": "2025-11-27T22:12:15",
+      "content": "In tonight's edition, ousted Guinea-Bissau president Umaro Sissoco Embalo has arrived in Senegal after General Horta N’Tam was appointed as the country’s transitional leader. Also, many women in Africa were promised jobs in hospitality and catering. Instead, they found themselves building drones for the Russian war effort. And in Kinshasa, entire neighbourhoods submerged, streets turned into rivers, flooding fueled not just by heavy rains but by mountains of plastic waste.",
+      "content_length": 477,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Most non-EU visitors will pay 45% more to visit Louvre",
+      "link": "https://www.france24.com/en/video/20251127-most-non-eu-visitors-will-pay-45-more-to-visit-louvre",
+      "published": "2025-11-27T22:03:40",
+      "content": "Paris's Louvre museum said Thursday it would raise ticket prices for most non-EU visitors, meaning US, British and Chinese tourists among others will have to pay $37 to get in. The museum told AFP the 45-percent price hike aims to boost annual revenues by up to $23 million to fund structural improvements at the world's most-visited art museum, which is reeling from the daylight theft of priceless treasures last month.",
+      "content_length": 421,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netanyahu government relies solely on force, with no clear strategy or diplomatic vision",
+      "link": "https://www.france24.com/en/video/20251127-netanyahu-government-relies-solely-on-force-with-no-clear-strategy-or-diplomatic-vision",
+      "published": "2025-11-27T21:36:58",
+      "content": "Yossi Mekelberg, Senior Consulting Fellow at MENAP, Chatham House, offers in-depth analysis of Israel's latest military operation in the occupied West Bank. He warns that the operation isn't an isolated security raid, but as part of a broader objective: build on earlier operations in locations such as Jenin, fostering mass displacement, destruction, intensifying a system of collective pressure on an already oppressed population. Mekelberg argues the operation reflects the logic of Israel's most far‑right government in the Jewish state's history. They encourage settler‑backed extremism where extreme force, not diplomacy, remains the “modus operandi.”",
+      "content_length": 657,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Palestinian Authority accuses Israel of 'war crime' after summary 'execution' in West Bank",
+      "link": "https://www.france24.com/en/video/20251127-palestinian-authority-accuses-israel-of-war-crime-after-summary-execution-in-west-bank",
+      "published": "2025-11-27T21:24:22",
+      "content": "Israeli soldiers on Thursday appeared to kill a pair of Palestinian men in the occupied West Bank after they had surrendered to troops, drawing Palestinian accusations that the men were executed “in cold blood.” The Israeli military said it was investigating. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+      "content_length": 312,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ousted Guinea-Bissau President Embalo arrives in Senegal amid regional tensions",
+      "link": "https://www.france24.com/en/live-news/20251127-ousted-guinea-bissau-president-embalo-arrives-in-senegal",
+      "published": "2025-11-27T21:16:15",
+      "content": "Ousted Guinea-Bissau President Umaro Sissoco Embalo arrived in Senegal on Thursday on a special flight after West Africa’s ECOWAS chair intervened to secure his transfer, Senegal’s foreign ministry said.",
+      "content_length": 203,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday",
+      "link": "https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025",
+      "published": "2025-11-27T21:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nMeta may have just released the Ray-Ban Meta (Gen 2) at the end of October, but they’re not significantly different from the last-gen model introduced in 2021. The overall experience is very similar, which is why the original Ray-Ban Meta smart glasses remain a great buy, especially now that they’re on sale for an all-time low of around $238.99 ($60 off) at Amazon, Best Buy, and Target for Black Friday.\nRay-Ban Meta (Gen 1) smart glasses\n\nWhere to Buy: $299 $238.99 at Amazon $299 $239.2 at Best Buy $299 $239.2 at Target\nLike their successor, the first-gen Ray-Ban Meta let you listen to music, snap photos, record 1080p video, and make hands-free calls thanks to a five-microphone array. You can upload the resulting photos and videos — and even livestream— to Facebook or Instagram via the companion app. The glasses also support a host of AI-powered features, letting you use your voice to take photos, pull up the history of a landmark, ask questions, or get recipes based on what’s in your fridge. They can even translate multiple languages in real time, helping you with Spanish, Italian, French, and other languages you may be less familiar with.\n\nAdditionally, many of the same software upgrades currently slated to roll out to the Gen 2 model — including the new slo-mo and hyperlapse video modes, as well as the new “conversation focus” feature that boosts the audio of whoever you’re talking to — will also roll out to the original pair. The forthcoming software update, which is scheduled for the fall, will also improve the live translation feature by expanding it to support additional languages, including German and Portuguese.\n\nThe biggest upgrade with the Ray-Ban Meta Gen 2 is that they have twice as much battery life: they offer up to eight hours of continuous use and a charging case that adds an additional two days of runtime, compared to 32 additional hours with the first-gen model. You’ll also get slightly sharper 3K video at 30fps, but since both models use the same 12-megapixel sensor, the difference isn’t all that significant.\n\nRead our full Ray-Ban Meta smart glasses review.",
+      "content_length": 2123,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israel forces kill two Palestinians seen surrendering in West Bank raid",
+      "link": "https://www.france24.com/en/middle-east/20251127-israel-forces-kill-two-palestinians-surrendering-west-bank-raid",
+      "published": "2025-11-27T20:55:26",
+      "content": "Two Palestinian men were shot dead during an Israeli raid in Jenin on Thursday moments after appearing to surrender, prompting condemnations as footage of the incident sparked widespread outrage.",
+      "content_length": 195,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Girl, 12, killed herself after medical staff failed to spot brain disorder, inquest finds",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/27/girl-12-killed-herself-after-medical-staff-failed-to-spot-brain-disorder-inquest-finds",
+      "published": "2025-11-27T20:54:41",
+      "content": "Mia Lucas, who died in Sheffield after being sectioned, had undiagnosed condition causing ‘acute psychosis’A 12-year-old girl who took her own life after being sectioned was failed by medical staff who did not spot her underlying brain disorder, an inquest has found.Mia Lucas was found unresponsive in her room at the Becton centre, which is part of Sheffield children’s hospital, on 29 January last year.In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counselor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+      "content_length": 836,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Yes, ICE arrested the mother of Karoline Leavitt’s nephew",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251127-yes-ice-arrested-the-mother-of-karoline-leavitt-s-nephew",
+      "published": "2025-11-27T20:51:40",
+      "content": "33-year old Brazil- born Bruna Ferreira was detained this week by ICE officials whilst on the school run to pick up her child, the son she shares with the brother of White House Press Secretary Karoline Leavitt. Whilst the Department of Homeland Security calls Ferreira a \"criminal illegal alien,\" her family and lawyer say there's no proof of a criminal record, nor her legal status. Karoline Leavitt has declined to comment. Vedika Bahl goes through what we know in Truth or Fake.",
+      "content_length": 482,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Robert AM Stern, architect dubbed ‘King of Central Park West’, dies aged 86",
+      "link": "https://www.theguardian.com/us-news/2025/nov/27/robert-am-stern-architect-dies-aged-86",
+      "published": "2025-11-27T20:35:06",
+      "content": "Stern, credited with designing 15 Central Park West, sought to design buildings that invoked pre-war splendorRobert AM Stern, an architect who fashioned the New York City skyline with buildings that sought to invoke pre-war splendor but with modern luxury fit for billionaires and movie stars, has died at the age of 86.Dubbed “The King of Central Park West” by Vanity Fair, Stern was credited with designing 15 Central Park West that, in 2008, was credited as being the highest-priced new apartment building in the history of New York. Continue reading...",
+      "content_length": 556,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Ukraine-Plan: Putin bleibt bei seinen Bedingungen - und droht",
+      "link": "https://www.tagesschau.de/ausland/asien/putin-drohung-ukraine-100.html",
+      "published": "2025-11-27T20:29:30",
+      "content": "   Mit Blick auf Friedensverhandlungen gibt sich Russlands Präsident Putin offiziell gesprächsbereit, bleibt in der Sache jedoch hart: Wenn die Ukraine die Gebiete nicht aufgebe, die Russland beansprucht, gehe der Krieg weiter.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mutmaßlicher Chef des Nord-Stream-Anschlags kommt nach Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/nord-stream-anschlag-106.html",
+      "published": "2025-11-27T20:04:45",
+      "content": "   Der mutmaßliche Anführer des Nord-Stream-Sprengkommandos wird heute nach Deutschland überstellt. Seine Verteidigerin will offenbar mit einem Verfahrenshindernis argumentieren. Dann könnte er straffrei davonkommen. Von M. Götschenberg und H. Schmidt.[mehr]",
+      "content_length": 258,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Former Daily Mail editor Paul Dacre to be witness in trial brought by Prince Harry and others",
+      "link": "https://www.theguardian.com/media/2025/nov/27/former-daily-mail-editor-paul-dacre-to-be-witness-in-trial-brought-by-prince-harry-and-others",
+      "published": "2025-11-27T19:51:37",
+      "content": "Judge warns he will not permit case ‘to descend into a wide-ranging public inquiry’The former editor of the Daily Mail, Paul Dacre, is to be called as a witness in the legal action brought by the Duke of Sussex and six other household names against the newspaper’s publishers over allegations of unlawful information gathering, the high court was told.Antony White KC, for Associated Newspapers Limited (ANL), said Dacre, 77, now the editor-in-chief of ANL’s DMG Media company, and Peter Wright, a former editor of the Mail on Sunday, could be called as early defence witnesses in the trial, scheduled to begin on 19 January. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Peru’s ousted ‘president of the poor’ gets 11-year sentence for rebellion",
+      "link": "https://www.theguardian.com/world/2025/nov/27/perus-ousted-president-of-the-poor-gets-11-year-sentence-for-rebellion",
+      "published": "2025-11-27T19:43:37",
+      "content": "Pedro Castillo was sentenced by the supreme court for trying to disband Congress and rule by decree in 2022Peru’s supreme court on Thursday sentenced the former leftwing president Pedro Castillo to 11 years, five months and 15 days in prison for trying to disband Congress and rule by decree in December 2022.Labelled Peru’s first poor president, the former rural schoolteacher, who had never held elected office before winning the presidency, was impeached by Congress and jailed on the same day after his attempted power grab. Continue reading...",
+      "content_length": 548,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Getting ready to fight back? France introduces military service as Russian threat looms",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251127-france-introduces-military-service-as-russian-threat-looms-getting-ready-to-fight-back",
+      "published": "2025-11-27T19:38:03",
+      "content": "Emmanuel Macron announced France is to reintroduce a national military service. Young people will be taken into the military and trained for a period of around a year and paid 800 euros a month. It will be open to all, and voluntary.",
+      "content_length": 233,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "JP Morgan says it will build the biggest office block in London",
+      "link": "https://www.france24.com/en/tv-shows/business/20251127-jp-morgan-says-it-will-build-the-biggest-office-block-in-london",
+      "published": "2025-11-27T19:23:39",
+      "content": "Two of Wall Street's biggest banks have announced expansion plans in the UK, a day after the Chancellor of the Exchequer revealed a budget that spared them of tax increases. French MPs are debating whether or not to nationalise steelmaking giant ArcelorMittal amid concern for the industry. Plus, Venezuela bans several foreign airlines, including Iberia and TAP Air Portugal from flying to the country.",
+      "content_length": 403,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday",
+      "link": "https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale",
+      "published": "2025-11-27T19:00:00",
+      "content": "\n\n\n\t\n\tDreame’s X40 Ultra is over half off for Black Friday.\t\n\nRobot vacuums show up in our gift guides almost every year, and it’s easy to understand why: they clean, they save time, and they’re cheaper than hiring a professional. But not all robovacs are created equal, and some save more time than others. The Dreame X40 Ultra is one of those, offering a more genuinely hands-free cleaning experience than what you typically get. And now through December 1st, it’s down to a new low of $499.99 ($700 off) at Amazon, Best Buy, and directly from Dreame.\nDreame X40 Ultra\n\nWhere to Buy: $1199.99 $499.99 at Amazon $1199.99 $499.99 at Dreame $1199.99 $499.99 at Best Buy\nIf you’re looking for a great robot vacuum that also does a fantastic job of mopping, the last-gen X40 Ultra is one of the best we’ve tested. With 12,000Pa of suction power, it does a great job of sucking up dirt and debris. It even comes with AI-powered smart dirt detection, which uses onboard cameras to spot particularly dirty areas, then slows down and passes over them multiple times until they’re thoroughly cleaned.\n\nIts dual oscillating mop pads also do a fantastic job on hardwood floors, even extending into edges and under cabinets. It can also automatically detach and reattach its mop pads when switching to vacuuming, so your carpets stay dry. In fact, it repeats this process multiple times throughout a cleaning cycle to ensure carpets are vacuumed and hard floors are mopped properly.\n\nWhat’s more, the robovac doesn’t require much babysitting; it maps rooms effectively, and its AI-assisted obstacle avoidance navigates around larger items like shoes with ease. Plus, the X40 Ultra can empty its own dustbin, refill its water tank, and clean its washboard — and its mop pads can even wash and dry themselves.",
+      "content_length": 1796,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Israel still committing genocide in Gaza, Amnesty International says",
+      "link": "https://www.theguardian.com/world/2025/nov/27/israel-still-committing-genocide-in-gaza-amnesty-international-says",
+      "published": "2025-11-27T18:51:29",
+      "content": "The NGO’s chief says last month’s ceasefire ‘risks creating a dangerous illusion that life in Gaza is returning to normal’Amnesty International has said Israel is “still committing genocide” against Palestinians in the Gaza Strip, despite the ceasefire agreed last month.The fragile, US-brokered truce between Israel and Hamas came into effect on 10 October, after two years of war. Continue reading...",
+      "content_length": 402,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "All of Africa's coup leaders during the past five years are still in power",
+      "link": "https://www.france24.com/en/video/20251127-all-of-africa-s-coup-leaders-during-the-past-five-years-are-still-in-power",
+      "published": "2025-11-27T18:47:04",
+      "content": "Soldiers in Guinea-Bissau have announced a new junta leader, cementing a forceful takeover of power that began after a disputed presidential election, in what the main opposition candidate called a ploy to prevent him from taking over power. Guinea-Bissau, one of the world’s poorest countries, and a hub for drug trafficking between Latin America and Europe, has been dogged by coups and attempted coups since its independence from Portugal more than 50 years ago. For in-depth analysis and a deeper perspective, Angela Diffley welcomes Nina Wilén, Associate Professor in Political Science at Lund University and Director for the Africa Programme at Egmont Institute for International Relations. Since 2020, 'ECOWAS has lost quite a lot of its power and credibility', explains Ms. Wilén: Out of the 15-member states, there have been five successful coups. ECOWAS has been unsuccessful \"at restoring constitutional order to any of these states.\"",
+      "content_length": 945,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Venezuela bans six international airlines as tensions with US escalate",
+      "link": "https://www.theguardian.com/world/2025/nov/27/venezuela-bans-six-leading-airlines-as-tensions-with-us-escalate",
+      "published": "2025-11-27T18:38:43",
+      "content": "Carriers accused of joining ‘actions of state terrorism promoted by US’ after they suspended flights to VenezuelaVenezuela has banned six international airlines, accusing them of “state terrorism” after the carriers suspended flights to the country following a warning from the US Federal Aviation Administration (FAA).Venezuela’s civil aviation authority announced late on Wednesday that Spain’s Iberia, Portugal’s Tap, Colombia’s Avianca, Chile and Brazil’s Latam, Brazil’s Gol and Turkish Airlines would have their operational permits revoked for “joining the actions of state terrorism promoted by the United States government and unilaterally suspending air commercial operations”. Continue reading...",
+      "content_length": 706,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Papst würdigt Rolle der Türkei - und mahnt zugleich",
+      "link": "https://www.tagesschau.de/ausland/asien/papst-tuerkei-100.html",
+      "published": "2025-11-27T18:30:31",
+      "content": "   Die erste Amtsreise hat Leo XIV. in die Türkei geführt. Er würdigte die Rolle des Landes als Brücke zwischen Ost und West. Nach einem Treffen mit Präsident Erdogan mahnte der Papst, die Würde und Freiheit aller Menschen zu achten.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Europol seizes 8m fake and harmful toys in pre-Christmas crackdown",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/nov/27/europol-seizes-8m-fake-and-harmful-toys-in-pre-christmas-crackdown",
+      "published": "2025-11-27T18:27:45",
+      "content": "Agency warns shoppers to be vigilant online and on the high street, with counterfeit items often posing health risksMore than 8m fake and harmful toys have been seized from shops and markets across the EU in a pre-Christmas crackdown, Europol has said.Hauls of fake dolls, building bricks, toy cars, colouring sets, cuddly toys that could pose fire hazards and educational games were removed across 26 countries. Continue reading...",
+      "content_length": 432,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Putin says US peace plan could form basis for end to Ukraine war – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/nov/27/russia-ukraine-war-peace-deal-eu-europe-latest-news-updates",
+      "published": "2025-11-27T18:16:15",
+      "content": "This live blog is now closed. You can read our latest reports here:Putin insists Ukraine has to surrender territory for any deal to be possibleFrance to introduce voluntary military service amid threat from RussiaMeanwhile, we are getting some new lines from Russia on what would and wouldn’t be acceptable to Moscow in a potential peace deal on Ukraine.Foreign ministry spokesperson Maria Zakharova said that Ukrainian membership of Nato would be unacceptable, as she blamed the alliance for trying to draw Ukraine into its structure and pose a threat against Russia, Reuters reported. Continue reading...",
+      "content_length": 606,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Putin insists Ukraine has to surrender territory for any deal to be possible",
+      "link": "https://www.theguardian.com/world/2025/nov/27/putin-insists-ukraine-surrender-territory-for-peace-deal-possible",
+      "published": "2025-11-27T18:12:05",
+      "content": "Russian president says latest draft peace plan ‘can be basis for future agreements’ if Kyiv gives up unspecified areasVladimir Putin has said that the outline of a draft peace plan discussed by the US and Ukraine could serve as a basis for future negotiations to end the war – but insisted Ukraine would have to surrender territory for any deal to be possible.“In general, we agree that this can be the basis for future agreements,” Putin said, noting that the version of the plan discussed by Washington and Kyiv in Geneva had been shared with Moscow. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong massive fire exposes dangers of bamboo scaffolding",
+      "link": "https://www.france24.com/en/video/20251127-hong-kong-massive-fire-exposes-dangers-of-bamboo-scaffolding",
+      "published": "2025-11-27T17:08:05",
+      "content": "A deadly fire in Hong Kong, the worst in over 70 years, is believed to have been fueled by traditional bamboo scaffolding and plastic mesh, complicating rescue efforts. Authorities plan to phase out bamboo scaffolding for metal due to safety concerns, while investigators have arrested three construction company officials on manslaughter charges as they probe the blaze’s causes.",
+      "content_length": 380,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Haushaltsmisere im Bund, Krise in den Städten - das Beispiel Stuttgart",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-stuttgart-100.html",
+      "published": "2025-11-27T17:04:20",
+      "content": "   Nicht nur beim Bund klafft ein Loch im Haushaltsbeutel, auch in einst reichen Städten ist die Lage angespannt. Die Einnahmen sinken stetig und die Ausgaben wachsen. Städte wie Stuttgart müssen nun Sozialleistungen kürzen. Von Kim Lucia Ruoff.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Florida professor may have solved mystery of Peru’s Band of Holes",
+      "link": "https://www.theguardian.com/us-news/2025/nov/27/peru-band-of-holes-mystery",
+      "published": "2025-11-27T17:01:32",
+      "content": "Charles Stanish surmised indentations were rudimentary market place and later adapted as accounting and storage systemA Florida archaeologist’s decades-long persistence has helped solve one of Peru’s most puzzling geographical conundrums: the origin and purpose of the so-called Band of Holes in the country’s mountainous Pisco Valley.Charles Stanish, professor of archaeology at the University of South Florida, and an expert on Andean culture, spent years studying the more than 5,200 curious hillside shallow pits known to local residents as Monte Sierpe - serpent mountain. Continue reading...",
+      "content_length": 597,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas",
+      "link": "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025",
+      "published": "2025-11-27T17:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIf you want your house to be the one everyone slows down to look at this holiday season, Philips Hue’s Festavia lights can make that happen. They aren’t cheap, but thanks to an early Black Friday sale at Amazon, you can pick up a 65-foot string for $145.19 (about $97 off) or a 130-foot strand for around $237.60 (about $158 off), which is the lowest price we’ve seen on either strand since they were first introduced.\nPhilips Hue Festavia string lights\n\nWhere to Buy: $241.99 $145.19 at Amazon (65-foot) $395.99 $237.6 at Amazon (130-foot) $241.99 $145.19 at Philips Hue (65-foot)\nThe Festavia lights are impressive holiday string lights, boasting rich colors, individually addressable LEDs, and a variety of magical preset scenes that combine to create an effect that outshines most rivals. What’s great is you can use them indoors and outdoors thanks to their IP54 rating, so if you don’t want to decorate your porch or walkway, you can use them to dress up your Christmas tree or stair rails.\n\nThe lights will work over Bluetooth, but with a Hue Bridge or newer Bridge Pro, you can take things even further with automations and the ability to sync the lights with your music. They also play nicely with other Philips Hue gear — like color-changing light strips, spotlights, and bulbs — so you can create a festive light show that’ll dazzle the neighbors. As a bonus, you can set schedules in the easy-to-use mobile app, so the lights can turn on and off even when you’re not home. And because they support Matter, they work with all major smart home platforms, including Alexa, Google Home, and Apple Home.\nGovee Christmas String Lights 2\n\nWhere to Buy: $99.99 $63.99 at Amazon (66-foot) $129.99 $74.99 at Amazon (99-foot) $199.99 $129.99 at Amazon (164-foot)\nIf you’re looking for something more affordable or additional size options, Govee’s Christmas Lights 2 are also on sale right now. You can grab a 66-foot strand from Amazon and Govee for $63.99 ($36 off), or a 99-foot strand for $11 more (Amazon / Govee). The longer 164-foot set is also available for $129.99 ($70 off) from Amazon and Govee, while the 328-foot string can be had for $249.99 ($150 off) at Amazon and Govee’s online storefront. As for how these prices stack up to prior sales, these are the best we’ve seen, regardless of strand length.\n\nLike the Festavia, the Lights 2 support Matter and can be safely used indoors or outside thanks to their IP65 rating. However, the included power adapter is only IP44-rated, and the LEDs use drop-style heads rather than bullet heads, which is fine for the roof but not nearly as striking on a Christmas tree. Govee’s companion app isn’t as intuitive as Philips Hue&#8217;s, either, and the Festavia lights still offer a better selection of preset scenes.",
+      "content_length": 2781,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How Microsoft’s developers are using AI",
+      "link": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad",
+      "published": "2025-11-27T17:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nMicrosoft is pitching a future where AI controls everything on your PC and agents go and do work for you in the background. But before the company gets there, it has to build the tools to make these systems work and convince its own developers that AI is actually capable of achieving these big promises.\nMicrosoft CEO Satya Nadella revealed earlier this year that up to 30 percent of the code of \"some of our projects\" is written by AI, and I've been eager to learn exactly how Microsoft's developers are using the technology ever since. I've been speaking to sources and company execs to get a better idea of how AI is being used by Microsoft dev …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "ESA will deutschen Astronauten zum Mond schicken",
+      "link": "https://www.tagesschau.de/wissen/forschung/mondmission-esa-deutscher-100.html",
+      "published": "2025-11-27T16:45:40",
+      "content": "   Die europäische Weltraumorganisation ESA hat mitgeteilt, dass ein deutscher Astronaut an einer Mondmission teilnehmen soll. Wer genau an der Reise Richtung Mond teilnehmen wird, bleibt aber noch offen.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong: At least 65 dead in high-rise towers fire",
+      "link": "https://www.france24.com/en/video/20251127-hong-kong-at-least-65-dead-in-high-rise-towers-fire",
+      "published": "2025-11-27T16:37:11",
+      "content": "Three construction workers were arrested as rescues continued and smoke billowed from the Wang Fuk Court complex.\n \n#HongKong #HongKongfire #towersfire #WangFukCourt",
+      "content_length": 165,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Acht Wintersportler aus Lawine auf Tiroler Gletscher gerettet",
+      "link": "https://www.tagesschau.de/ausland/europa/tirol-lawine-stubaital-100.html",
+      "published": "2025-11-27T16:26:12",
+      "content": "   Für acht Wintersportler ist ein Lawinenabgang in Tirol glimpflich ausgegangen, alle konnten gerettet werden. Die Lawine war - vermutlich von Skifahrern - oberhalb einer Piste am Stubaier Gletscher ausgelöst worden. Sie traf auch die gesicherte Piste.[mehr]",
+      "content_length": 259,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Watch how Apple made its new puppet-packed holiday ad",
+      "link": "https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects",
+      "published": "2025-11-27T16:18:17",
+      "content": "\n\n\n\t\n\tApple’s new holiday ad stars a forest full of woodland creatures. | Screenshot: YouTube / Apple\t\n\nWhile companies like Coca-Cola turned to generative AI to create “visually jarring” holiday ads this year, Apple continues to embrace practical effects with its new festive short film called A Critter Carol featuring a forest full of tech-savvy woodland creatures.\n\nIn the ad a hiker drops their iPhone 17 Pro, which is found by a curious raccoon who uses it to shoot an impromptu performance of the song “Friends” by Flight of the Conchords, along with other animals including a bear, wolf, owl, deer, squirrel, and rabbit. The phone is eventually retrieved by the hiker, who uses their Apple Watch to locate it.\n\nSimilar to how the new Apple TV intro was created by filming a glass model of the logo illuminated with colored lights, Apple released a behind-the-scenes look at the practical effects used to make A Critter Carol. There were lots of blue screens and blue bodysuits used that allowed the forest set to be digitally extended and human performers to be removed in post-production, but the critters were all hand-crafted puppets brought to life by a small army of puppeteers controlling various body parts. And yes, the entire production was shot on an iPhone 17 Pro.",
+      "content_length": 1283,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "In West Africa, France will 'focus on economic and scientific cooperation and cultural relations'",
+      "link": "https://www.france24.com/en/video/20251127-in-west-africa-france-will-focus-on-economic-and-scientific-cooperation-and-cultural-relations",
+      "published": "2025-11-27T16:09:30",
+      "content": "From Nepal to Peru, Morocco and now Madagascar, brandishing the symbol of a skull and crossbones in a straw hat, Gen Z protests across the world have been rising up to authorities in 2025, even toppling a few governments in the process. The rebellions, spanning three continents: Latin America, Asia and Africa, are led by youth frustrated with issues like unemployment, poverty and inequality. All the while, French President Emmanuel Macron is touring the African continent, including Madagascar, envisioning fostering a new era of Franco-African relations. For in-depth analysis and a deeper perspective, Erin Ogunkeye welcomes Dr. Emmanuel Igah, Author of \"Nigeria Handbook\" and Senior Consultant at Phobos International.",
+      "content_length": 725,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russian spy network exploits Ukrainian teenagers in Europe",
+      "link": "https://www.france24.com/en/europe/20251127-russian-spy-network-exploits-ukrainian-teenagers-europe",
+      "published": "2025-11-27T16:08:46",
+      "content": "One hundred dollars for torching a van, a few hundred more for planting a bomb or quick cash for snapping a photo of a strategic location: Russian intelligence services have found a new, cheap – and increasingly effective – way to conduct sabotage operations across Europe. They are recruiting Ukrainian children and teens online, luring them with gamified “tasks” and small financial rewards.",
+      "content_length": 393,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Lebanon-Israel: One year into the fragile ceasefire",
+      "link": "https://www.france24.com/en/video/20251127-lebanon-israel-one-year-into-the-fragile-ceasefire",
+      "published": "2025-11-27T15:58:03",
+      "content": "A year ago, Israel and Lebanon agreed to a ceasefire after several weeks of intense fighting, triggered in part by the so-called 'pager attack' involving Hezbollah members. The ceasefire has been in effect for a year, but Israel continues to regularly strike southern Lebanon, making daily life extremely difficult for residents. Rawad Taha has the details from Beirut.",
+      "content_length": 369,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A humanoid robot-shaped bubble is forming, China warns",
+      "link": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble",
+      "published": "2025-11-27T15:57:49",
+      "content": "\n\n\n\t\n\t\t\n\nA humanoid robot bubble could be brewing, warned China’s leading economic planning agency on Thursday. The alert comes amid growing fears that a bubble in a related industry — AI — is about to burst.&nbsp;\n\nSpeaking at a press briefing, National Development and Reform Commission spokesperson Li Chao said China’s humanoid robotics industry needs to balance “the speed of growth against the risk of bubbles.” Investment has been pouring into the sector despite there being few proven use cases for the bots, Li said, risking a flood of “highly similar” models as funding for research and development shrinks.\n\nMore than 150 humanoid robotics companies are operating in China, Li said. More than half are startups or entrants from other industries.&nbsp;\n\nThe warning marks a rare note of caution from Beijing for an industry it has declared vital for future economic growth. Earlier this year, China designated embodied intelligence — the technology behind humanoid robotics — a national priority.&nbsp;",
+      "content_length": 1012,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gera: Frau in Straßenbahn angezündet - lebenslange Haft für Ehemann",
+      "link": "https://www.tagesschau.de/inland/regional/thueringen/gera-urteil-versuchter-mord-100.html",
+      "published": "2025-11-27T15:57:18",
+      "content": "   Im März hatte ein Mann seine Ehefrau in einer Straßenbahn mit Benzin übergossen und angezündet. Nun ist gegen ihn das Urteil gefallen: lebenslange Haft und Zehntausende Euro Schmerzensgeld.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Guinea-Bissau, a day after the military coup",
+      "link": "https://www.france24.com/en/video/20251127-guinea-bissau-a-day-after-the-military-coup",
+      "published": "2025-11-27T15:56:41",
+      "content": "A day after the military seized power in Guinea-Bissau, General N’Tal was sworn in as interim president during a brief ceremony surrounded by heavily armed soldiers. Once considered a close ally of ousted President Umaro Sissoco Embaló, N’Tal now heads what the army describes as a new command, following Embaló’s arrest and detention.",
+      "content_length": 335,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Broadway musical Chicago returns to Paris",
+      "link": "https://www.france24.com/en/video/20251127-broadway-musical-chicago-returns-to-paris",
+      "published": "2025-11-27T15:55:02",
+      "content": "The legendary Broadway musical 'Chicago' is making its return to Paris, bringing its sharp wit, dazzling choreography, and iconic jazz numbers back to the French stage. FRANCE 24's team ent to the Casino de Paris to see it.",
+      "content_length": 223,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie gefährlich ist Bambus im Gerüstbau?",
+      "link": "https://www.tagesschau.de/ausland/asien/hochhaus-brand-hongkong-bambus-100.html",
+      "published": "2025-11-27T15:52:57",
+      "content": "   Hongkong ist einer der letzten Orte weltweit, in denen Bambusgerüste noch eine große Rolle spielen. Nach dem tödlichen Hochhausbrand ist der traditionelle Baustoff in den Fokus gerückt. Welche Rolle spielte er - und warum gibt es überhaupt Gerüste aus Bambus?[mehr]",
+      "content_length": 268,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Frankreich: Macron kündigt neuen freiwilligen Wehrdienst an",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-wehrdienst-100.html",
+      "published": "2025-11-27T15:46:32",
+      "content": "   Wie muss sich der Wehrdienst in Zeiten neuer Bedrohungen ändern? Frankreich diskutiert das ähnlich wie Deutschland. Präsident Macron kündigte nun einen neuen Freiwilligendienst an. Die Wehrpflicht bleibt ausgesetzt - zumindest vorerst. Von Cai Rienäcker.[mehr]",
+      "content_length": 263,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Shoppen am Black Friday: Diese Rechte haben Verbraucher",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-rechte-black-friday-100.html",
+      "published": "2025-11-27T15:29:04",
+      "content": "   Auf der Schnäppchenjagd kann es schnell zu Fehlkäufen kommen. Welche Rechte haben Verbraucher, welche Fristen gelten und wann ist man auf die Kulanz der Händler angewiesen? Von Robin Mai und Michael Nordhardt.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "aja monet: The Grammy-nominated poet taking on power and the culture wars",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251127-aja-monet-the-grammy-nominated-poet-taking-on-power-and-the-culture-wars",
+      "published": "2025-11-27T15:21:41",
+      "content": "In this arts24 interview, Grammy-nominated poet aja monet joins us in Paris to talk about her new collection \"Florida Water\" and what it means to make art in a moment of political turmoil. She opens up about living through the new wave of American culture-war battles – from book bans to attacks on arts funding – and explains why she believes poetry has become an important tool for resistance, healing and community. aja monet also reflects on the heartbreak at the centre of \"Florida Water\", her long-standing activism for Palestine and the loneliness she sees shaping a generation. With poems like \"Castaway\" and \"For Sonia\", she explores how poetry can help us face climate grief, injustice and the feeling of being overwhelmed by the world.",
+      "content_length": 746,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Prognose des Spendenrats: Die Deutschen spenden weniger als 2024",
+      "link": "https://www.tagesschau.de/inland/spendenaufkommen-rueckgang-100.html",
+      "published": "2025-11-27T15:19:47",
+      "content": "   Gemeinnützige Organisationen müssen sich in diesem Jahr auf weniger Spenden einstellen. Nicht nur die Summe, auch die Zahl der privaten Spender in Deutschland geht zurück. Die Gründe sind nach Einschätzung des Spendenrats vielfältig.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Geld abheben im Supermarkt künftig auch ohne Einkauf",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-einigung-supermarkt-geld-abheben-100.html",
+      "published": "2025-11-27T15:12:08",
+      "content": "   Um den Zugang zu Bargeld zu verbessern, sollen Einzelhändler künftig Barabhebungen ermöglichen können, ohne dass Kunden etwas kaufen müssen. Das ist Teil neuer EU-Regelungen für Zahlungsdienste.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kuxiu’s solid-state power bank now has more capacity and faster wireless charging",
+      "link": "https://www.theverge.com/news/831365/kuxiu-magsafe-semi-solid-state-wireless-power-bank-s3",
+      "published": "2025-11-27T15:06:53",
+      "content": "\n\n\n\t\n\tThe Kuxiu S3 adds a kickstand for hands-free smartphone use. | Image: Kuxiu\t\n\nSeven months after launching its first semi-solid state battery that used a safer and longer-lasting solid-liquid mixed electrolyte, Kuxiu is introducing a new version with some welcome upgrades. The S3 has twice the capacity of the S2 at 10,000mAh – 5,000mAh at 7.7V (38.5Wh) – that the company says is enough to nearly double an iPhone’s battery life, but that will vary depending on the model.\n\nThe Kuxiu S3 is also Qi2.2-compatible so it can wirelessly charge compatible devices at up to 25W. Its larger battery means it’s over 100g heavier than the 145g S2, but Kuxiu has increased the number of N52 magnets it uses from 16 to 18 to help reduce the risk of the power bank being accidentally knocked off your phone. There’s an integrated kickstand now on the back, a small display showing its remaining capacity and charging status, and a built-in cable for charging other devices through a USB-C port with power delivery rated at up to 35W.\n\nAs with the previous model, the S3 is more expensive than traditional wireless power banks offering similar capacity, charging rates, and features, but the cost of the technology should drop over time as manufacturing improves and increases. It’s available now for $149.98, but temporarily discounted to $68.99. If that seems hard to stomach, remember that while the capacity of most power banks will start to degrade after 300 to 500 cycles, the S3 should only see a drop to about 80 percent capacity after 1,000 charging cycles. It will have a much longer lifespan, and is less at risk from issues like fire and thermal runaway should you accidentally drop it.",
+      "content_length": 1693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How to help your parents with their tech over the holidays",
+      "link": "https://www.theverge.com/tech/827812/tech-support-family-thanksgiving-how-to",
+      "published": "2025-11-27T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nGoing home for the holidays isn't all turkey, holiday decorations, and political arguments discussions. It also comes with requests for tech support and questions like \"Why does my computer do this?\" and \"I read about this AI - what is that?\"\nThink of it as an opportunity rather than a burden. If you're like many people, you get tech support calls from frustrated parents or grandparents all year long. This is your chance to make sure things are set up so that, when you do get that call in a month or two, you can more easily fix things - or help your parents fix it themselves.\nMake sure everything is updated\nIt's important to keep computer …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Empörung in Südafrika über Trumps G20-Ausladung",
+      "link": "https://www.tagesschau.de/ausland/suedafrika-empoerung-trump-100.html",
+      "published": "2025-11-27T14:59:02",
+      "content": "   Es ist ein neuer Tiefpunkt in den Beziehungen beider Staaten: US-Präsident Trump hat angekündigt, Südafrika vom nächsten G20-Gipfel auszuladen. Experten sehen eine gefährliche Entwicklung - und in Südafrika ist die Empörung groß. Von S. Ueberbach.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ernährungsreport: Worauf es Deutschen bei Lebensmitteln ankommt",
+      "link": "https://www.tagesschau.de/wissen/ernaehrungsreport-lebensmittel-100.html",
+      "published": "2025-11-27T13:51:56",
+      "content": "   Geschmack, Saison, Preis - das ist den Deutschen wichtig bei den Lebensmitteln, die sie in den Einkaufswagen legen. Verbraucher achten dem neusten Ernährungsreport zufolge wieder mehr auf die Preise - aber auch auf das Tierwohl.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Open-Source-Entwickler fordern Gleichstellung mit Vereinsarbeit",
+      "link": "https://www.heise.de/news/Petition-Open-Source-Arbeit-soll-als-Ehrenamt-gelten-11094436.html",
+      "published": "2025-11-27T13:20:00",
+      "content": "Eine Petition fordert, ehrenamtliche Arbeit an Open-Source-Software rechtlich wie klassisches Ehrenamt zu behandeln – mit steuerlichen Vorteilen.",
+      "content_length": 145,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Sharehoster: Zwei Jahre Haft auf Bewährung für Betreiber von „share-online.biz“",
+      "link": "https://www.heise.de/news/share-online-biz-Zwei-Jahre-Haft-auf-Bewaehrung-fuer-Betreiber-von-Sharehoster-11094313.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-27T12:23:00",
+      "content": "Im Oktober 2019 wurde mit „share-online.biz“ der größte deutsche Sharehoster abgeschaltet. Nun wurde einer der Betreiber verurteilt, Rechteinhaber jubeln.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Blast from the past: 15 movie gems of 1985",
+      "link": "https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/",
+      "published": "2025-11-27T12:15:18",
+      "content": "Peruse a list of films released in 1985 and you’ll notice a surprisingly high number of movies that have become classics in the ensuing 40 years. Sure, there were blockbusters like Back to the Future, The Goonies, Pale Rider, The Breakfast Club and Mad Max: Beyond Thunderdome, but there were also critical arthouse favorites like Kiss of the Spider Woman and Akira Kurosawa’s masterpiece, Ran. Since we’re going into a long Thanksgiving weekend, I’ve made a list, in alphabetical order, of some of the quirkier gems from 1985 that have stood the test of time. (Some of the films first premiered at film festivals or in smaller international markets in 1984, but they were released in the US in 1985.)\n(Some spoilers below but no major reveals.)\nAfter Hours\n\n        Credit:\n          Warner Bros.\n      Read full article\nComments",
+      "content_length": 830,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "KDE-Desktop sagt X11-Modus adé und setzt vollständig auf Wayland",
+      "link": "https://www.heise.de/news/KDE-Desktop-sagt-X11-Modus-ade-und-setzt-vollstaendig-auf-Wayland-11094339.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-27T12:15:00",
+      "content": "Anfang 2027 und damit etwas mehr als ein Jahr nach Gnome will auch KDE den Support für X11 entfernen und fortan vollends auf Wayland setzen.",
+      "content_length": 140,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Private Altersvorsorge - ein Muss?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-altersvorsorge-blackrock-studie-100.html",
+      "published": "2025-11-27T12:14:34",
+      "content": "   Die Politik streitet noch über die Rentenreform, gleichzeitig schwindet das Vertrauen in die staatliche Rente. Viele Menschen sorgen privat vor. Doch immer noch zu wenige, wie Studien zeigen. Von Bianca von der Au.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "PFAS-Belastung: Das Trinkwasser in Villy kann krank machen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-trinkwasser-pfas-100.html",
+      "published": "2025-11-27T12:14:01",
+      "content": "   Im französischen Villy darf Trinkwasser aus der Leitung nicht getrunken werden. Denn es ist massiv durch PFAS, sogenannte Ewigkeitschemikalien, belastet - und damit möglicherweise ein immenses Gesundheitsrisiko. Von Carolin Dylla.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Four-inch worm hatches in woman’s forehead, wriggles to her eyelid",
+      "link": "https://arstechnica.com/health/2025/11/doctors-pull-4-inch-worm-out-of-womans-eyelid-after-monthlong-incubation/",
+      "published": "2025-11-27T12:00:04",
+      "content": "If you need some motivation to keep from eating too much this Thanksgiving, here it is: Doctors in Romania pulled an 11 cm (4.3 inch) living, writhing round worm from a woman’s left eyelid.\nAccording to a report in the New England Journal of Medicine, the worm likely hatched from a hard lump in her right temple, which the woman recalled first spotting a month beforehand. She also noticed that the nodule had vanished just a day before the worm apparently made a squiggly run for her eye.\nWhen she went to an ophthalmologist the next day, doctors immediately noted the “mobile lesion” on her eyelid, which was in the suspicious shape of a bunched-up worm just under her skin with a little redness and swelling.Read full article\nComments",
+      "content_length": 738,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ein Jahr Waffenstillstand: Droht ein neuer Krieg im Libanon?",
+      "link": "https://www.tagesschau.de/ausland/asien/jahrestag-waffenstillstand-israel-hisbollah-100.html",
+      "published": "2025-11-27T11:50:06",
+      "content": "   Vor einem Jahr begann die Waffenruhe zwischen Israel und der Hisbollah im Libanon. Doch fast täglich wird sie von Israel gebrochen. Und die Miliz hat sich noch immer nicht entwaffnen lassen. Wie viel ist das Abkommen noch wert? Von A. Osius.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Influenza-Subtyp: Was in dieser Grippesaison zu erwarten ist",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/grippe-influenza-subtyp-100.html",
+      "published": "2025-11-27T11:48:23",
+      "content": "   Ein neuer Influenza-Subtyp breitet sich derzeit in Europa aus. Die sogenannte Subklade K unterscheidet sich deutlich von den Viren, gegen die sich die aktuellen Grippe-Impfstoffe richten. Von F. Bäumer.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verheerende Fluten in Südostasien - Opferzahlen steigen",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-ueberflutung-opfer-100.html",
+      "published": "2025-11-27T11:29:50",
+      "content": "   Hochwasser und Überschwemmungen bringen in Thailand Millionen Menschen in Gefahr. Zehntausende Menschen sind obdachlos. Die Behörden melden immer mehr Todesopfer der Fluten. Auch Indonesien und Malaysia sind massiv betroffen. [mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "FBI: Kontoübernahme-Betrug mit mehr als 262 Millionen US-Dollar Schaden",
+      "link": "https://www.heise.de/news/FBI-warnt-vor-Kontouebernahme-Betrug-mit-mehr-als-262-Millionen-US-Dollar-Schaden-11093745.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-27T10:58:00",
+      "content": "Das FBI warnt vor Betrügern, die sich als Finanzinstitutsangestellte ausgeben, um Geld und Daten zu stehlen und Konten zu übernehmen.",
+      "content_length": 133,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "US-Regierung will Alibaba, Baidu und BYD als „chinesische Militärfirmen“ listen",
+      "link": "https://www.heise.de/news/US-Regierung-will-Alibaba-Baidu-und-BYD-als-chinesische-Militaerfirmen-listen-11094039.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-11-27T10:55:00",
+      "content": "Die US-Regierung führt eine Liste mit Unternehmen, die Chinas Militär helfen. Darauf sollten auch Alibaba, Baidu und BYD stehen, meint das Pentagon jetzt.",
+      "content_length": 154,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Retouren steigen 2025 auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/retouren-onlinehandel-pakete-100.html",
+      "published": "2025-11-27T10:06:28",
+      "content": "   Der wieder anziehende Onlinehandel lässt auch die Zahl der Retouren wieder steigen. Kunden in Deutschland schicken in diesem Jahr laut einer Prognose so viele online bestellte Produkte zurück wie nie zuvor. [mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie das Rentenpaket Jens Spahn in die Zwickmühle bringt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-fraktion-100.html",
+      "published": "2025-11-27T10:05:52",
+      "content": "   Die Situation ist festgefahren: Die SPD will die vereinbarte Rentenreform durchbringen, die Unionsspitze auch - doch die Junge Union wehrt sich. Fraktionschef Spahn muss kämpfen - auch für sich selbst. Von Kerstin Palzer.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NHS doctor suspended over alleged antisemitic social media posts",
+      "link": "https://www.theguardian.com/news/2025/nov/27/nhs-doctor-suspended-alleged-antisemitic-social-media-posts",
+      "published": "2025-11-27T10:05:51",
+      "content": "Rahmeh Aladwan barred from practising for 15 months pending inquiry amid claims she ‘celebrated terrorist acts’An NHS doctor accused of antisemitism has been suspended for 15 months pending an investigation, the Medical Practitioners Tribunal Service (MPTS) in the UK has ruled.The General Medical Council (GMC) is investigating Dr Rahmeh Aladwan over posts and comments made across various social media platforms after several complaints, including from the Jewish Medical Association UK and the Campaign Against Antisemitism. Continue reading...",
+      "content_length": 547,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Industriefirmen wollen Produktion verlagern",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/industrieunternehmen-verlagerung-produktion-100.html",
+      "published": "2025-11-27T09:36:24",
+      "content": "   Immer mehr Unternehmen wollen ihre Produktion aus Deutschland ins Ausland verlagern. Eine wichtige Rolle spielen dabei die US-Zölle. Aber auch China und Indien sind weiterhin beliebt.[mehr]",
+      "content_length": 192,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Taliban beanspruchen alle Vertretungen Afghanistans in Deutschland",
+      "link": "https://www.tagesschau.de/inland/taliban-botschaft-konsulat-100.html",
+      "published": "2025-11-27T09:21:45",
+      "content": "   Die Botschaft in Berlin arbeitet schon offiziell mit den Taliban zusammen. Das Generalkonsulat in Bonn hatte sich widersetzt. Nun haben die Taliban offenbar alle diplomatischen Vertretungen Afghanistans in Deutschland übernommen. Von P. Hornung[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Brandenburg: Langer und teurer AKW-Rückbau in Rheinsberg",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/rueckbau-akw-rheinsberg-100.html",
+      "published": "2025-11-27T08:25:53",
+      "content": "   Seit 30 Jahren bauen Beschäftigte im brandenburgischen Rheinsberg das erste Kernkraftwerk der DDR zurück. Der Rückbau soll bereits 850 Millionen Euro gekostet haben - und dürfte weitere 20 Jahre dauern. Von Mirja Fiedler.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Antifa nicht für Jagdschloss-Brand verantwortlich",
+      "link": "https://www.tagesschau.de/faktenfinder/brand-jagdschloss-thurn-und-taxis-100.html",
+      "published": "2025-11-27T08:11:56",
+      "content": "   Anfang Oktober ist das Jagdschloss Thiergarten der Familie Thurn und Taxis niedergebrannt. Im Netz war schnell von vorsätzlicher Brandstiftung die Rede, die Antifa stecke dahinter. Doch die Polizei widerspricht. Von P. Siggelkow.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ver.di und DGB warnen vor Annäherung der Familienunternehmer an AfD",
+      "link": "https://www.tagesschau.de/inland/afd-gewerkschaften-familienunternehmen-100.html",
+      "published": "2025-11-27T07:40:42",
+      "content": "   Die Einladung von AfD-Vertretern löst bei ve.rdi und DGB heftige Kritik aus. Gewerkschafter warnen vor historischen Parallelen - und fordern die Mitgliedsunternehmen zu einer klaren Distanzierung auf.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Der Thanksgiving-Effekt führt zu steigenden Aktienkursen an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thanksgiving-boerse-kursrally-100.html",
+      "published": "2025-11-27T07:22:07",
+      "content": "   Rund um Feiertage wie Thanksgiving in den USA sind Gewinne an den Börsen die Regel, nicht die Ausnahme. Wie groß jetzt die Wahrscheinlichkeit für steigende Kurse ist - und woran das liegt, erklärt Angela Göpfert. [mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kreml zu europäischen Vorschlägen: \"Uns passt das nicht\"",
+      "link": "https://www.tagesschau.de/ausland/europa/gespraeche-ukraine-reaktionen-100.html",
+      "published": "2025-11-24T23:32:36",
+      "content": "   Nach den Ukraine-Gesprächen in Genf herrscht in Europa vorsichtige Zuversicht. Nun meldet sich auch der Kreml zu Wort: Zum ursprünglichen US-Plan sei man gesprächsbereit - die europäischen Gegenvorschläge aber seien \"nicht konstruktiv\".[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    }
+  ]
+}
