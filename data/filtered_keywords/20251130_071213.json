@@ -1,0 +1,1006 @@
+{
+  "metadata": {
+    "timestamp": "20251130_071213",
+    "input_file": "data/deduplicated/20251130_071213.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 122,
+      "filtered_count": 109,
+      "blacklisted_count": 13,
+      "reduction_rate": "10.7%",
+      "top_blacklist_reasons": {
+        "fußball": 2,
+        "regen": 2,
+        "vermisst": 2,
+        "temperatur": 2,
+        "verspätung": 2,
+        "brand in": 1,
+        "hagel": 1,
+        "champions league": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Sternbilder im Winter: Die Zwillinge, zwei ungleiche Brüder",
+      "link": "https://www.tagesschau.de/wissen/forschung/sternbilder-astronomie-zwillinge-100.html",
+      "published": "2025-11-30T06:55:49",
+      "content": "   Zwei helle Sterne bilden das Brüderpaar der Zwillinge. Zu den beiden hat sich derzeit der unübersehbare Riese Jupiter gesellt. Und Sternschnuppen hat das Sternbild auch noch im Gepäck. Von H. Westram.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Parteitag in Hannover: Grüne justieren Nahostpolitik neu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-parteitag-nahost-100.html",
+      "published": "2025-11-30T06:45:38",
+      "content": "   Neuer Kurs in ihrer Nahostpolitik: Die Grünen betonen das Selbstbestimmungsrecht der Palästinenser jetzt stärker. Die Partei fasste auf ihrem Parteitag in Hannover auch einen Wehrdienst-Beschluss. [mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "At least four dead and 10 wounded in California shooting",
+      "link": "https://www.france24.com/en/americas/20251130-at-least-four-dead-and-10-wounded-in-california-shooting",
+      "published": "2025-11-30T06:43:45",
+      "content": "At least four people were killed and 10 others wounded when gunfire erupted during a family gathering at a Stockton banquet hall Saturday evening, in what local authorities say may have been a \"targeted attack\".",
+      "content_length": 211,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gießen - Hessens Regierungschef Rhein (CDU) verurteilt Gewalt bei Protesten gegen Gründung von AfD-Jugendorganisation",
+      "link": "https://www.deutschlandfunk.de/hessens-regierungschef-rhein-cdu-verurteilt-gewalt-bei-protesten-gegen-gruendung-von-afd-jugendorgan-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Hessens Ministerpräsident Rhein hat die Gewalt bei Protesten gegen die Gründung der neuen AfD-Jugendorganisation in Gießen kritisiert. Der CDU-Politiker erklärte, der Einsatz von Gewalt und der Versuch, durch Aufmärsche Versammlungen zu verhindern, könnten niemals demokratische Mittel sein.",
+      "content_length": 291,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gießen - Neugründung der AfD-Jugendorganisation \"Generation Deutschland\"- Experten: \"Keine Mäßigung zu erwarten\"",
+      "link": "https://www.deutschlandfunk.de/neugruendung-der-afd-jugendorganisation-generation-deutschland-experten-keine-maessigung-zu-erwarten-106.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Begleitet von massiven Protesten hat die AfD in Gießen ihre neue Jugendorganisation mit dem Namen \"Generation Deutschland\" gegründet. Bei der Versammlung verabschiedeten mehr als 800 Teilnehmer ein entsprechendes Statut mit Regeln zur Rolle der Organisation.",
+      "content_length": 258,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interview der Woche - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer Reihe von Problemen geführt",
+      "link": "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-reihe-von-problemen-gefuehrt-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Der Drogenbeauftragte der Bundesregierung, Streeck, drängt auf Änderungen am Cannabis-Gesetz. Die Teillegalisierung habe zu einer ganzen Reihe von Problemen geführt, bei denen gegengesteuert werden müsse, sagte der CDU-Politiker im Interview der Woche des Deutschlandfunks.",
+      "content_length": 273,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Rubio und Witkoff treffen ukrainische Delegation",
+      "link": "https://www.deutschlandfunk.de/rubio-und-witkoff-treffen-ukrainische-delegation-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "US-Außenminister Rubio und der amerikanische Sondergesandte Witkoff kommen heute mit einem Verhandlungsteam der Ukraine zusammen. Nach offiziellen Angaben soll der Plan für ein Ende des russischen Krieges gegen die Ukraine erörtert werden. Auch Trumps Schwiegersohn und Berater Kushner nimmt demnach an dem Treffen im Bundesstaat Florida teil.",
+      "content_length": 343,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - Luftverteidigung in Polen reagiert auf russische Kampfjets - Bundeswehr beteiligt",
+      "link": "https://www.deutschlandfunk.de/luftverteidigung-in-polen-reagiert-auf-russische-kampfjets-bundeswehr-beteiligt-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Russische Kampfjets haben einem Medienbericht zufolge einen Alarm der Luftverteidigung in Polen ausgelöst.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesparteitag in Hannover - Grüne beziehen Position zu Wehrdienst, Ukraine und Nahost",
+      "link": "https://www.deutschlandfunk.de/gruene-beziehen-position-zu-wehrdienst-ukraine-und-nahost-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Auf ihrem Bundesparteitag in Hannover haben die Grünen unter anderem in der Nahost-Politik Position bezogen.",
+      "content_length": 108,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesparteitag in Hannover - Grüne wollen Luxusflüge mit Extra-Abgaben belegen",
+      "link": "https://www.deutschlandfunk.de/gruene-wollen-luxusfluege-mit-extra-abgaben-belegen-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Die Grünen wollen für höhere Abgaben auf Luxusreisen, vor allem mit Privatjets, eintreten.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Deutscher Städtetag - Kommunen fordern Soforthilfe - sonst Zuschüsse für Stadtfeste und Sportvereine gefährdet",
+      "link": "https://www.deutschlandfunk.de/kommunen-fordern-soforthilfe-sonst-zuschuesse-fuer-stadtfeste-und-sportvereine-gefaehrdet-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Der Deutsche Städtetag fordert eine umgehende finanzielle Unterstützung für die Kommunen.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Juso-Kongress in Mannheim - SPD-Chefin Bas verteidigt geplante Bürgergeld-Reform",
+      "link": "https://www.deutschlandfunk.de/spd-chefin-bas-verteidigt-geplante-buergergeld-reform-110.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Auf dem Bundeskongress der Jusos in Mannheim hat die SPD-Vorsitzende Bas die Kritik an der geplanten Reform beim Bürgergeld zurückgewiesen.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mittelamerika - Präsidentschaftswahl in Honduras: Manipulationsvorwürfe und Trump-Einmischung",
+      "link": "https://www.deutschlandfunk.de/praesidentschaftswahl-in-honduras-manipulationsvorwuerfe-und-trump-einmischung-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Die Menschen in Honduras sind heute zur Wahl eines neuen Staatsoberhaupts aufgerufen.",
+      "content_length": 85,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kirgistan - Neues Parlament wird gewählt",
+      "link": "https://www.deutschlandfunk.de/neues-parlament-wird-gewaehlt-256.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "In Kirgistan wird heute über ein neues Parlament abgestimmt.",
+      "content_length": 60,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Siedlergewalt - Erneut Verletzte nach Übergriffen israelischer Extremisten auf Palästinenser im Westjordanland",
+      "link": "https://www.deutschlandfunk.de/erneut-verletzte-nach-uebergriffen-israelischer-extremisten-auf-palaestinenser-im-westjordanland-104.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Bei einem erneuten Angriff extremistischer, israelischer Siedler auf Palästinenser im Westjordanland hat es nach Angaben der Hilfsorganisation Roter Halbmond zehn Verletzte gegeben.",
+      "content_length": 181,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Zahl der Todesopfer im Gazakrieg überschreitet nach palästinensischen Angaben 70.000 - Schätzungen rechnen mit weit mehr Toten",
+      "link": "https://www.deutschlandfunk.de/zahl-der-todesopfer-im-gazakrieg-ueberschreitet-nach-palaestinensischen-angaben-70-000-schaetzungen--104.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Die Zahl der Todesopfer im Gazakrieg hat nach palästinensischen Angaben die Zahl von 70.000 überschritten.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wachsende Spannungen - Trump: Luftraum über Venezuela gilt als geschlossen",
+      "link": "https://www.deutschlandfunk.de/trump-luftraum-ueber-venezuela-gilt-als-geschlossen-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Nach Angaben von US-Präsident Trump soll der venezolanische Luftraum als geschlossen betrachtet werden.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nordafrika - Tunesien: Regierungskritikerin Chaima Issa festgenommen - Urteile gegen dutzende Oppositionelle",
+      "link": "https://www.deutschlandfunk.de/tunesien-regierungskritikerin-chaima-issa-festgenommen-urteile-gegen-dutzende-oppositionelle-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "In Tunesien ist die Regierungskritikerin Chaima Issa festgenommen worden.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schweiz - Volksentscheide zur Dienstpflicht und Erbschaftssteuer",
+      "link": "https://www.deutschlandfunk.de/volksentscheide-zur-dienstpflicht-und-erbschaftssteuer-100.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "In der Schweiz stehen heute Volksabstimmungen an.",
+      "content_length": 49,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auslandsreise - Papst fliegt von der Türkei in den Libanon",
+      "link": "https://www.deutschlandfunk.de/papst-fliegt-von-der-tuerkei-in-den-libanon-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Nach drei Tagen in der Türkei setzt Papst Leo XIV. heute seine erste Auslandsreise seit seiner Wahl zum Pontifex im Libanon fort.",
+      "content_length": 129,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Debatte um Verbrenner-Aus - Bundeskanzler Merz erhöht Druck auf EU-Kommission",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-erhoeht-druck-auf-eu-kommission-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "In der Debatte um das Verbrenner-Aus erhöht Bundeskanzler Merz den Druck auf die EU-Kommission. Deutschland werde an dem \"sturen und falschen Verbrennerverbot in der Europäischen Union\" nicht weiter festhalten, erklärte Merz bei einem Landesparteitag der sachsen-anhaltinischen CDU in Magdeburg.",
+      "content_length": 295,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rentenstreit - Wüst warnt vor Koalitionsbruch - Bas erwartet Billigung im Bundestag",
+      "link": "https://www.deutschlandfunk.de/wuest-warnt-vor-koalitionsbruch-bas-erwartet-billigung-im-bundestag-102.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Der nordrhein-westfälische Ministerpräsident Wüst hat vor einem Bruch der Bundesregierung wegen des Rentenkonflikts gewarnt.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hasselfeldt-Nachfolge beim DRK - Hermann Gröhe zum Präsident des Deutschen Roten Kreuzes gewählt",
+      "link": "https://www.deutschlandfunk.de/hermann-groehe-zum-praesident-des-deutschen-roten-kreuzes-gewaehlt-106.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Ex-Bundesgesundheitsminister Gröhe ist neuer Präsident des Deutschen Roten Kreuzes.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Leipzig - Kretschmer bleibt CDU-Chef in Sachsen",
+      "link": "https://www.deutschlandfunk.de/kretschmer-bleibt-cdu-chef-in-sachsen-106.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "In Sachsen ist Ministerpräsident Kretschmer als CDU-Landeschef bestätigt worden.",
+      "content_length": 80,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sonderparteitag in Burg - Parteiinterne Auseinandersetzungen - BSW wählt Teile des Landesvorstands ab",
+      "link": "https://www.deutschlandfunk.de/parteiinterne-auseinandersetzungen-bsw-waehlt-teile-des-landesvorstands-ab-104.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Das BSW in Sachsen-Anhalt hat auf einem Sonderparteitag in Burg Teile des Landesvorstands abgewählt.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Noworossijsk - Ukrainischer Angriff auf Ölterminal",
+      "link": "https://www.deutschlandfunk.de/ukrainischer-angriff-auf-oelterminal-106.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Die Ukraine hat nach russischen Angaben bei einem Angriff mit Seedrohnen ein Ölterminal im Schwarzmeerhafen Noworossijsk schwer beschädigt.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weltartenschutzkonferenz in Samarkand - Schutz von Giraffe, Nashorn und Elefanten soll bestehen bleiben - Antrag Namibias abgelehnt",
+      "link": "https://www.deutschlandfunk.de/schutz-von-giraffe-nashorn-und-elefanten-soll-bestehen-bleiben-antrag-namibias-abgelehnt-110.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Der weltweite Schutzstatus bestimmter Giraffen, Nashörner und Elefanten soll bestehen bleiben.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Shakespeare in Love\" - Britischer Dramatiker Tom Stoppard gestorben",
+      "link": "https://www.deutschlandfunk.de/britischer-dramatiker-tom-stoppard-gestorben-110.html",
+      "published": "2025-11-30T06:29:12",
+      "content": "Der britische Dramatiker Tom Stoppard ist tot. Nach Angaben seiner Agentur starb Stoppard im Alter von 88 Jahren.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Japan ‘One Piece’ singer stopped mid-performance as Japan-China relations sour",
+      "link": "https://www.theguardian.com/world/2025/nov/30/japan-one-piece-singer-maki-otsuki-stopped-mid-performance-as-japan-china-relations-sour",
+      "published": "2025-11-30T06:17:55",
+      "content": "Axing of Maki Otsuki performance in Shanghai the latest in a spate of cancelled cultural events involving Asia’s two biggest economiesJapanese “One Piece” singer Maki Otsuki was forced to halt her performance on stage in Shanghai, her management said, one of the latest events hit by a diplomatic spat between Tokyo and Beijing.Otsuki, known for the theme song of the popular anime, had been slated to perform for two days from Friday at the Bandai Namco Festival 2025 in the Chinese city. Continue reading...",
+      "content_length": 509,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Russian drone strike kills at least one, wounds 11 near Kyiv",
+      "link": "https://www.france24.com/en/europe/20251130-live-russian-drone-strike-kills-at-least-one-wounds-11-near-kyiv",
+      "published": "2025-11-30T06:06:07",
+      "content": "A Russian drone attack killed at least one person and wounded 11 in Vyshgorod, outside of Kyiv, the regional governor said Sunday. The attack came ahead of a meeting between top Trump administration officials and Ukrainian negotiators in Florida which aims to broker an end to Russia's war in Ukraine and set the stage for key talks planned this week in Moscow with Russian leader Vladimir Putin. Follow the latest updates on FRANCE 24's liveblog.",
+      "content_length": 447,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "All the president’s millions: how the Trumps are turning the presidency into riches",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/30/all-the-presidents-millions-how-the-trumps-are-turning-the-presidency-into-riches",
+      "published": "2025-11-30T06:00:03",
+      "content": "From Vietnam to the Balkans, Donald Trump’s family has launched a global dealmaking blitz since his re-electionA crusading prosecutor in the Balkans comes under pressure to drop a big case. Vietnamese villagers learn they are to be evicted. A convicted crypto kingpin in the Gulf receives a pardon.All have one thing in common: they appear to be connected to the Trump family’s campaign to amass riches around the world. Since Donald Trump’s re-election a year ago, warnings that his use of presidential power to advance personal interests is corroding American democracy have grown ever louder. What is less understood – and perhaps even more dangerous – is the damage this is doing everywhere else. Continue reading...",
+      "content_length": 720,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Water shortages could derail UK’s net zero plans, study finds",
+      "link": "https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds",
+      "published": "2025-11-30T06:00:02",
+      "content": "Tensions grow after research in England finds there may not be enough water for planned carbon capture and hydrogen projectsRevealed: Europe’s water reserves drying up due to climate breakdownTensions are growing between the government, the water sector and its regulators over the management of England’s water supplies, as the Environment Agency warns of a potential widespread drought next year.Research commissioned by a water retailer has found water scarcity could hamper the UK’s ability to reach its net zero targets, and that industrial growth could push some areas of the country into water shortages. Continue reading...",
+      "content_length": 631,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Can you have a community without craic? Scholars of Ireland’s pubs warn of declining numbers",
+      "link": "https://www.theguardian.com/world/2025/nov/30/ireland-pubs-declining-numbers",
+      "published": "2025-11-30T05:00:01",
+      "content": "Two new books analyse what makes the ‘perfect pub’ and both come to a sobering conclusion: Irish pubs are in troubleLike triple-distilled whiskey, Irish pubs appear to have timeless appeal. They are staple setting in films, books and plays, draw tourists to Ireland, replicate themselves around the world and induce social media quests for the perfect snug and the perfect pint.Scholars have now bestowed academic imprimatur on this cultural treasure status by examining – and celebrating – pubs through the lens of history, sociology, architecture, psychology, design, art and literature. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ley says Coalition’s migration principles will include ‘issues around language and values’ – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/30/australia-news-live-jetstar-flights-resume-anthony-albanese-sussan-ley-labor-part-coalition-melbourne-metro-tunnel-ntwnfb",
+      "published": "2025-11-30T04:44:45",
+      "content": "This blog is now closedRising Tide protest: climate activists stop three ships from entering world’s largest coal port in NewcastleGet our breaking news email, free app or daily news podcastLittleproud suggests values test for temporary migrants would stop ‘importing hate’Littleproud says a values test for new migrants – which the Coalition has flagged – wouldn’t hurt.What do you think about this idea of some sort of values test for people who are coming on temporary visas? There is already the citizenship test for those who want to become citizens, but if you are coming temporary visa, on any of these visas you are talking about, do think there should be some sort of values test? Is that a problem the moment?I don’t think it hurts … When you’ve seen the discord on streets, particularly of Sydney and Melbourne over the last two years since October 2023, I think there is a risk that we as Australians can’t import the hate that permeates in some other parts of the world. I think it’s important we make sure that when we do bring people from those challenged parts of the world, that they understand they are coming here with a responsibility to live up to the values and principles that our great country has been built on, with is migration, but how we have come together to be able to achieve a harmonious society for most of it and not allow that hate that permeates in some parts of the world to be imported in.Different individuals and groups have been misrepresenting key cost estimates from the [Net Zero] Australia Project as ‘the cost of Australia reaching net zero’. These misrepresented costs have typically ranged from $1.5 trillion to $9 trillion.” Continue reading...",
+      "content_length": 1694,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Die Schweiz stimmt ab: Reiche Erben belasten - für den Klimaschutz?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmungen-100.html",
+      "published": "2025-11-30T04:03:25",
+      "content": "   Die Debatten in der Schweiz sind hitzig: Sollen Erbschaften ab 50 Millionen künftig mit 50 Prozent besteuert werden? Und wie wäre eine Bürgerdienstpflicht für alle? Heute stimmt die Bevölkerung ab. Von K. Hondl.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine: Ein Toter und Verletzte bei russischen Drohnenangriffen nahe Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriff-russland-kiew-100.html",
+      "published": "2025-11-30T04:02:58",
+      "content": "   Eine weitere Nacht in Folge hat Russland die Ukraine mit Drohnen angegriffen. Dabei starb mindestens ein Mensch, viele weitere wurden verletzt.[mehr]",
+      "content_length": 152,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Besuch in unsicheren Zeiten: Libanon freut sich auf den Papst",
+      "link": "https://www.tagesschau.de/ausland/asien/papst-reise-libanon-100.html",
+      "published": "2025-11-30T04:02:10",
+      "content": "   Der Libanon bereitet sich auf den Besuch von Papst Leo XIV. vor, viele Menschen fiebern dem Ereignis entgegen. Das letzte Mal war ein Papst vor mehr als zehn Jahren zu Besuch, eine Reise mit Symbolkraft. Von Anna Osius.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rising Tide protest: climate activists stop three ships from entering world’s largest coal port in Newcastle",
+      "link": "https://www.theguardian.com/environment/2025/nov/30/rising-tide-protest-climate-activists-stop-three-ships-from-entering-worlds-largest-coal-port-in-newcastle",
+      "published": "2025-11-30T03:48:30",
+      "content": "Australian campaigners demand Albanese government cancel planned fossil fuel projects and tax existing operations at 78%Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastActivists say they have blocked two more coal ships from entering the Port of Newcastle on the fourth day of the Rising Tide protests, bringing the total number of ships turned around by campaigners this weekend to three.Thousands of people have gathered at Rising Tide’s annual climate protest at the world’s largest coal port. The blockade began on Thursday and will continue until Tuesday. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anger mounts in Hong Kong over apartment fires as Beijing warns against ‘anti-China disruptors’",
+      "link": "https://www.theguardian.com/news/2025/nov/30/anger-mounts-in-hong-kong-over-apartment-fires-as-beijing-warns-against-anti-china-disruptors",
+      "published": "2025-11-30T03:21:00",
+      "content": "Police on Saturday detained one person who was part of a group that launched a petition demanding accountabilityAnger over a deadly blaze at a Hong Kong high-rise apartment complex simmered on Sunday as Beijing warned against attempts to use the disaster to disrupt the city, while people across the financial hub continued to mourn for the more than 128 victims.Police on Saturday detained one person who was part of a group that launched a petition demanding government accountability, an independent probe into possible corruption, proper resettlement for residents, and a review of construction oversight, two sources familiar with the matter said. Continue reading...",
+      "content_length": 672,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Präsident Trump erklärt Luftraum über Venezuela für geschlossen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-luftraum-venezuela-100.html",
+      "published": "2025-11-30T00:42:32",
+      "content": "   Seit Wochen verschärft US-Präsident Trump den Ton gegenüber Venezuela. Nun will er, dass dort keine Flugzeuge mehr fliegen. Das südamerikanische Land reagiert empört und spricht von einer \"feindseligen Handlung\".[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Couple from Kazakhstan allegedly used hidden camera and earpieces to win $1.18m from Sydney’s Crown casino",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/30/couple-from-kazakhstan-allegedly-used-hidden-camera-and-earpieces-to-win-118m-from-sydneys-crown-casino",
+      "published": "2025-11-30T00:03:33",
+      "content": "Woman, 36, and her husband, 44, arrested at Barangaroo and charged with dishonestly obtaining financial advantageFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA married couple from Kazakhstan has allegedly won more than $1m from Sydney’s Crown casino using a tiny camera hidden in a Mickey Mouse T-shirt and “deep-seated earpieces” that allowed them to communicate.New South Wales police said on Sunday the couple, Dilnoza Israilova and Alisherykhoja Israilov, were charged with dishonestly obtaining financial advantage by deception, after being arrested in the Barangaroo casino. Continue reading...",
+      "content_length": 668,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainian naval drones strike two Russian oil tankers in Black Sea",
+      "link": "https://www.theguardian.com/world/2025/nov/29/ukrainian-naval-drones-strike-two-russian-oil-tankers-in-black-sea",
+      "published": "2025-11-29T23:46:37",
+      "content": "Kyiv tries to pile pressure on Russia with attack on empty vessels on way to load up with oil for foreign marketsUkrainian naval drones hit two tankers operating under sanctions in the Black Sea as they headed to a Russian port to load up with oil destined for foreign markets, an official said on Saturday, as Kyiv tries to pile pressure on Russia’s vast oil industry.The two oil tankers, identified as the Kairos and Virat, were empty and sailing to Novorossiysk, a major Russian Black Sea oil terminal, the official at the security service of Ukraine told Reuters. Continue reading...",
+      "content_length": 587,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Six dead and dozens wounded in Russian attack on Ukraine",
+      "link": "https://www.theguardian.com/world/2025/nov/29/deadly-russian-attack-on-kyiv-cuts-power-to-half-of-city",
+      "published": "2025-11-29T23:03:26",
+      "content": "Strike on Kyiv cuts power to half of city amid Moscow’s campaign to break civil resistance by attacking energy gridSix people were killed and dozens were wounded  by a Russian drone and missile attack on Ukraine.Nearly 600 drones and 36 rockets were fired into the country in an attack that its president, Volodymyr Zelenskyy, said highlighted Ukraine’s need for western help with air defence, as well as other financial and political support. Continue reading...",
+      "content_length": 463,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Four-year-old Gus Lamont disappeared from his homestead into the Australian outback. Two months on, questions remain",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/29/four-year-old-gus-lamont-disappeared-from-his-homestead-into-the-australian-outback-two-months-on-questions-remain",
+      "published": "2025-11-29T23:00:50",
+      "content": "Authorities have undertaken one of the largest and most intensive searches for a missing person in South AustraliaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen a four-year-old child disappeared in the vast, brutal Australian outback, the response was swift and broad-ranging.It’s now been two months since Gus Lamont, a blond, curly haired child described as both shy and adventurous, went missing from his family’s homestead in a remote part of South Australia. Continue reading...",
+      "content_length": 554,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anker’s handy little 3-port charger is just 35 bucks",
+      "link": "https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port",
+      "published": "2025-11-29T23:00:00",
+      "content": "\n\n\n\t\n\tIs there anything quite like the satisfying snap of folding prongs?\t\n\nEarlier this year, I decided to level up my travel game and invest in a charger to bring on trips, rather than raiding my desk outlets every time I packed. I needed a multitasker, something that could power my MacBook Air, charge my phone, and accommodate the random USB-A cord I always seem to need for some reason (I’m looking at you, electric toothbrush). That multitasker turned out to be Anker’s Prime 67W charger, and I haven’t looked back since.\nAnker Prime Charger (67W)\nThe 67W Prime charger includes two USB-C ports and one USB-A along with retractable prongs to make it an easy travel companion.\n\nWhere to Buy: $49.99 $34.99 at Amazon $49.99 $34.99 at Anker $49.99 at Best Buy\nIt’s impressively small considering the power it delivers and the number of ports it offers — two USB-C ports and that single USB-A port. The prongs are retractable, and I welcome every bit of space savings from a travel gadget. It’s usually $49.99, which isn’t terrible considering that it’s basically three chargers in one. At a 30 percent discount, it looks like a mighty powerful little stocking stuffer.",
+      "content_length": 1172,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best gaming headset I tried this year is $60 off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday",
+      "published": "2025-11-29T22:48:25",
+      "content": "\n\n\n\t\n\t\t\n\nEarlier this year, I reviewed the Fractal Scape, a wireless gaming headset made for PC (also compatible with Switch 2) that really wowed me. Frankly, I wasn’t expecting much in this debut headset from a company known mostly for making PC cases, but it’s one of the most thoughtfully-designed models that I’ve tried recently.\n\nIf you’re in the market for an elegant headset that sounds great and docks to recharge (keeping cable clutter to a minimum on your desk), I suggest checking out the Black Friday special on the Scape. The discount on these initially brought them down to $169.99, but you can now snag a pair at Amazon and B&amp;H Photo in both black and gray for $139.99, which is $60 off the usual price.\nFractal Scape gaming headset\n\nWhere to Buy: $199.99 $139.99 at Amazon (gray) $199.99 $139.99 at Amazon (black) $199.99 $139.99 at B&amp;H Photo\nThe Scape doesn’t do it all; it lacks active noise cancellation, it can’t pair via 2.4GHz and Bluetooth simultaneously, and its ear cups don’t swivel. That all would have been nice, but I’m still eager to recommend it for its great sound quality, sharp Scandinavian design, and because its browser-based settings customization is very good. Also, I have a soft spot for its Digital Crown-like knob used for adjusting volume and for pausing or skipping songs. At $140, it’s hard to do better than the Scape.\n\nUpdate, November 29th: Adjusted the price to note they’re even cheaper right now.",
+      "content_length": 1456,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tens of thousands march across Europe in show of support for Palestinians",
+      "link": "https://www.france24.com/en/france/20251129-tens-of-thousands-march-across-europe-in-show-of-support-for-palestinians-in-gaza",
+      "published": "2025-11-29T21:43:08",
+      "content": "Tens of thousands rallied in Paris on Saturday to show support for Palestinians in Gaza, as protesters accused Israel of violating a fragile US-brokered ceasefire and demanded tougher international action amid soaring death tolls and ongoing restrictions on aid. Gaza’s health ministry, run by Hamas, said Saturday that more than 70,000 people have been killed since the war began.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "At least 500 killed in south-east Asia floods and landslides",
+      "link": "https://www.theguardian.com/world/2025/nov/29/indonesia-and-thailand-flooding-death-toll-tops-350-as-rescuers-struggle-to-reach-worst-hit-areas",
+      "published": "2025-11-29T21:17:58",
+      "content": "More than 350 people killed on Indonesia’s Sumatra island with 162 reported dead across ThailandThe death toll from devastating floods and landslides in south-east Asia reportedly climbed past 500 on Saturday as clean-up and search-and-rescue operations got under way in Indonesia, Thailand and Malaysia.Heavy monsoon rain overwhelmed swathes of the three countries this week, killing hundreds and leaving thousands stranded, many on rooftops awaiting rescue. Continue reading...",
+      "content_length": 479,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Fujifilm X Half is on sale for what it should have originally cost",
+      "link": "https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday",
+      "published": "2025-11-29T21:08:03",
+      "content": "\n\n\n\t\n\tFujifilm knows how to commit to a bit. | Photo: Vjeran Pavic / The Verge\t\n\nFujifilm’s unusual X Half elicited a lot of feelings from photographers when it came out earlier this year — from “That looks like so much fun,” to “Wait, it costs how much?“ Its $849.95 list price felt way too high for what is, by all accounts, a fun, unserious little point-and-shoot. But its $649 sale price? Much easier to stomach.\n\nThe X Half comes with a 1-inch sensor, a fixed 32mm-equivalent f/2.8 lens, and a whole lot of nostalgia-inducing features, designed to make it feel like you’re shooting with an old-school analogue camera. There are, of course, vintage film simulations, but it goes beyond that with a mode that even requires you to manually “advance” the roll between shots. It’s pretty dang charming.\nFujifilm X Half\nThe X Half is a digital point-and-shoot camera that&#8217;s extremely dedicated to analog vibes. There&#8217;s no RAW mode or image stabilization, but there are film simulations and nostalgia-inducing features aplenty.\n\nWhere to Buy: $849.95 $649 at Amazon $849.95 $649.95 at Fujifilm $849.99 $649.99 at Best Buy\nDespite the retro vibe, it’s a modern digital camera through and through. But that doesn’t mean you should expect to get the usual suite of features you’d get from most other premium point-and-shoots. There’s no electronic viewfinder, no stabilization, and no RAW mode. Giving all that up for an $850 camera would be tough, but if you were looking for an excuse to treat yourself to an inventive, dare we say fun gadget, then this might just be the right price.\n\n",
+      "content_length": 1595,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "published": "2025-11-29T21:00:53",
+      "content": "\n\n\n\t\n\t\t\n\nEditor’s note: Black Friday deals are still happening, so check out the latest and greatest discounts that today has to offer.\n\nIf you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89.99 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack, not to mention great rumble, OS-level rear button customization, and a slick design. It’s not perfect, but it’s the total package.&nbsp;\n\nBut it’d be a disservice to you to call it a day there. There are several third-party offerings that are significantly cheaper, yet don’t make too many compromises in terms of features. I’ve spent time testing a handful of them, and there’s a small batch of models that I think will satisfy most people, with a range of styles, prices, and features.\n\nEvery controller I’ve included in this guide is compatible with both the Switch 2 and original Switch (all of them can remotely wake the Switch 2), as well as platforms like PC and mobile. Each offering also includes better, longer-lasting joystick technology than you’ll get with Nintendo’s flagship controller; the Switch 2 Pro Controller’s potentiometer-based joysticks are prone to degradation over time, after all, but our picks include either Hall effect or TMR joysticks.\n\nThe best Switch 2 controller for most people\nEasySMX S10 Gaming Controller for Switch 2\n\nScore: 8ProsConsTMR joysticksamiibo supportGreat rumbleClicky buttons are divisiveThe grips might be too grating for some\nWhere to Buy: $59.99 $41.99 at Amazon (with Prime) $59.99 at EasySMX (with code EASYSMXBF) $59.99 $41.99 at Walmart\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / Software customization: No / Rumble: Yes, HD / NFC: Yes / Motion: Yes / Power: Built-in rechargeable 1,200mAh battery / Console wake-up: Yes\n\nThe EasySMX S10 is nearly as capable and comfortable as the Switch 2 Pro Controller, yet it&#8217;s $30 cheaper at $59.99. It’s full of surprises, too, including the best adaptation of Nintendo&#8217;s HD rumble that I&#8217;ve felt in a third-party controller. It’s also one of the few options that can remotely wake the Switch 2 from sleep mode via Bluetooth. Lastly, it includes amiibo support — another rare feature to find in a third-party gamepad.\n\nHowever, the S10 isn’t a Switch 2 Pro copycat; it’s a lot grippier, both around the grips themselves and on its stick caps. Button presses and trigger pulls feel different from most other controllers, too, yielding a softer press and shorter travel, which is likely to be the most divisive aspect of the S10. One of my favorite aspects of the S10’s design is its swappable eight-way (circular) D-pad, making diagonal attacks in Hollow Knight: Silksong considerably easier to execute than with a four-way D-pad.\n\nIf I could change one thing about the S10, it’d be the system-level buttons (screenshot, GameChat, and home). They’re crammed awkwardly just below the D-pad and right stick.\n\nHonorable mentions\nGulikit ES Pro\n\nScore: 7ProsConsIncredible value in terms of specs and comfortLousy rumbleLacks a C button\nWhere to Buy: $29.99 $23.69 at Amazon\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: No / Software customization: No / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 950mAh battery / Console wake-up: Yes\n\nGulikit’s ES Pro is a love letter to the Xbox controller, but for Switch 2. It’s just $29.99, which is a steal considering this gamepad features an eight-way D-pad that’s great for fighting games, Metroidvanias, and retro titles where it’s an advantage to easily be able to aim diagonally (a setting can make it so that it only registers inputs for the cardinal directions, if you prefer).\n\nThe ES Pro doesn’t need to do much to justify its price, but it does so anyway. It features tunneling magnetoresistance (TMR) joysticks that are resistant to drifting and offer improved power efficiency compared to Hall effect tech, just like the EasySMX S10. Similarly, it can be set up to remotely wake your Switch 2 or OG Switch console from across the room using its own set of strange, one-time-only instructions that you can view in its instruction manual.&nbsp;\n\nI’ve got almost no qualms with this controller, except for its bad rumble. It just has no subtlety, rumbling in an all-or-nothing manner. I was happier using the ES Pro with the vibrations off, which isn’t any fun. Additionally, it’s far less complete than the S10, as it lacks built-in amiibo support and a C button for GameChat; however, depending on your needs, those omissions might not matter to you.\n8BitDo Pro 3 Bluetooth Gamepad\n\nScore: 7ProsConsIncludes dock and 2.4GHz dongleHighly customizableComfortable for small handsBad rumble\nWhere to Buy: $69.99 $62 at Amazon (at checkout) $69.99 $55.99 at 8BitDo\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, 2.4GHz, wired / Connector type: USB-C / Mappable rear buttons: Yes, two / Software customization: Yes / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 1,000mAh battery / Console wake-up: Yes\n\n8BitDo’s Pro 3 is a great yet pricey Switch 2 Pro alternative with a PlayStation-style stick layout. At $69.99, it’s not as affordable (nor as value-packed) as the top contenders. However, the Pro 3 offers a lot of customization, some being cosmetic, while other aspects can impact gameplay.\n\nIt has a lot going for it, with TMR joysticks, two back paddles, and a total of three shoulder buttons per side thanks to new custom M buttons. Its analog stick caps can be popped off in favor of glossy arcade stick-style nubs, which were my preferred choice in fighting games (plus, they just look cool). Its ABXY buttons can be suctioned off with an included tool to swap the layout as needed, and for visual flair, each controller includes colored buttons to evoke a retro Nintendo console. Also, it has trigger locks, letting you set triggers to have a short, clicky pull or the default travel distance.\n\nHowever, I’d skip the Pro 3 if you want good rumble feedback. It’s pretty lousy on that front, to the point that I preferred to turn off rumble entirely in games. In case you’re considering the similarly priced Ultimate 2 Bluetooth, it also has bad rumble, but it’s a great controller otherwise that offers similar features with an Xbox-style stick layout.\n\nRead my full 8BitDo Pro 3 review.\nGameSir Super Nova\n\nScore: 6ProsConsComfortable, sleek designButtons are easy to swapButtons don’t feel good to pressCan’t wake Switch 2\nWhere to Buy: $49.99 $39.99 at Amazon $49.99 $39.99 at Walmart $49.99 $39.99 at Best Buy\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, mobile / Connectivity: Bluetooth, 2.4GHz, wired / Connector type: USB-C / Mappable rear buttons: Yes, two/ Software customization: Yes / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 1,000mAh battery / Console wake-up: No\n\nGameSir’s Super Nova is a passable Switch Pro copy that I had a tough time warming up to, even if there’s a lot about it that sounds great on paper. It’s comfortable, with rubbery grips and decent rumble, and it uses Hall effect joysticks. However, it has, by a wide margin, my least favorite D-pad and buttons to press out of all the controllers on our list. The underlying tech is responsive, but it feels cheap to hammer on.\n\nThat’s a shame, as it’s a slick-looking controller with a magnetic faceplate that pops off, allowing you to easily swap the buttons around without the need for an extra tool. The rear triggers also have trigger stops, which can reduce the travel of each pull, and the two back paddles are easy to press. It even includes a charging dock — as well as a dazzling set of RGB LEDs, which you can turn off — along with a USB-A 2.4GHz transmitter that lets you easily connect the gamepad with your PC.\nGuliKit Elves 2\n\nScore: 6ProsConsCute, compact designCan wake Switch 2Hall effect sticksSticks and triggers have limited range Lacks features from the ES Pro\nWhere to Buy: $29.99 $23.69 at Amazon\nSupported platforms: Nintendo Switch 2, Nintendo Switch, PC, Steam Deck, mobile / Connectivity: Bluetooth, wired / Connector type: USB-C / Mappable rear buttons: No/ Software customization: No / Rumble: Yes / NFC: No / Motion: Yes / Power: Built-in rechargeable 800mAh battery / Console wake-up: Yes\n\nGulikit Elves 2 is a compact, Sega Saturn-inspired controller I wanted to love a little more than I do. The affordable gamepad shares some of the same benefits as the identically priced ES Pro — including Switch 2 wake-up and multiplatform support — but it’s smaller, which could make it a great pick for kids or small-handed folks who have a difficult time wrapping their digits around larger gamepads.&nbsp;\n\nThere isn’t much wasted space in this controller, either, as it comes with a rechargeable battery, rumble motors, a gyroscope, and an eight-way D-pad that feels nice to use. Even for my medium-sized hands, its grips turn the small gamepad into something that’s satisfying to hold. I don’t like it as much for a handful of minor reasons relating to long-term comfort, button and trigger feel preferences, and some missing functionality. Compared to the ES Pro, it lacks TMR sticks (it has Hall effect), the Pro’s better triggers, and swappable buttons.\n\nWhat’s next?\n\nSince I last updated this post, I’ve received several controllers that I’m still in the process of testing. Gulikit sent its TT Max and TT Pro wireless controllers, both of which have PlayStation-style stick layouts, TMR sticks, and adjustable stick tension, impressive rumble, among other interesting features that should make them contenders for this list. But GuliKit told me it ran into several issues with early units, and it’s slightly delaying the launch. I’ll have revised versions in my hands soon, I’m told. \n\nI also received two promising gamepads from the company Mobapad, the budget-friendly N1 and the more high-end Huben 2, and I’ll soon receive Turtle Beach’s Rematch Wireless controller for testing.\n\nThe hunt continues for gamepad contenders that pack in a bunch of features without breaking the bank. They’re rarer than you might think! For instance, PowerA recently launched a $69.99 Switch 2 controller called the Advantage Wireless Controller. It features Hall effect joysticks, but seemingly lacks rumble and the ability to wake the Switch 2. Hori also recently launched the Turbo Switch 2 in Japan, each with TMR joysticks. Its highlight feature is a button that can disable the screenshot, home, and plus / minus buttons.\n\nUpdate, November 25th: Adjusted pricing as needed, and went into detail about some new controllers that I’m currently testing and expecting to receive soon.",
+      "content_length": 11033,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Behold, the black Apple Watch Ultra 2 is $200 off during Black Friday",
+      "link": "https://www.theverge.com/gadgets/833432/black-apple-watch-ultra-2-black-friday-deal-sale",
+      "published": "2025-11-29T21:00:00",
+      "content": "\n\n\n\t\n\tWhat time is it? Time to look freaking cool.\t\n\nLast year, I wrote that you do not need a black Apple Watch Ultra 2. It was simply a color refresh, I said. The original Apple Watch Ultra on your wrist was still perfectly fine. The landfills of the world were better off without Apple’s first-gen ruggedized smartwatch filling it. Also, suggesting that you spend another $800 just because it looked sick as hell (I mean, looketh at these photos) isn’t great advice.\n\nI still stand by that statement. But, but, but!!! If, you have been good and resisted for this long, I feel both guilty and obligated to let you know the black Ultra 2 is $200 off, listed for $600 at Amazon and Best Buy during Black Friday. And that’s a better value proposition now compared to back then for a few reasons.\nApple Watch Ultra 2 (black)\nThe Apple Watch Ultra 2 comes in one size — 49mm — and is geared toward athletic types. It’s the most rugged wearable in Apple’s lineup, offering the brightest display as well as the longest battery life. It runs on Apple’s last-gen S9 chip, letting you take advantage of Apple’s newer double-tap feature. Read our hands-on impressions.\n\nWhere to Buy: $799 $599 at Amazon $799 $599 at Best Buy\nFor starters — the Ultra 3 is very nice but also the upgrades are extremely minor. You get satellite messaging for emergencies (only helpful if you frequently go off-grid or have crap connectivity where you live) and slightly better battery. Also, this Black Friday price is only $10 more than Apple’s refurbished models. And $200 off is solid savings if you’re looking to upgrade from an original Ultra.\n\nI am loathe to encourage unnecessary consumption — both in this economy?! and for the environment. But look. I’ve heard it said that gadget color refreshes come into our lives for a reason, bringing something we must learn. And we are led to deals that help us most to save, if we click them. (And help our budgets in return). Who can say if, wearing the black Ultra, I’ve been changed for the better. But, because I’ve been wearing the black Ultra, I have been changed for good.",
+      "content_length": 2102,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Liveblog zum AfD-Treffen: Verletzte bei Zusammenstößen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-afd-treffen-in-giessen-massiver-gegenprotest-bei-afd-treffen-in-giessen-erwartet-100.html",
+      "published": "2025-11-29T20:52:47",
+      "content": "   Das AfD-Treffen in Gießen ist beendet. Bis zu 30.000 Menschen demonstrierten laut Polizeiangaben weitgehend friedlich dagegen. Es gab aber auch Verletzte nach Zusammenstößen. Die Entwicklungen im Liveblog.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza death toll surpasses 70,000, says health ministry",
+      "link": "https://www.theguardian.com/world/2025/nov/29/gaza-death-toll-rises-says-health-ministry",
+      "published": "2025-11-29T20:32:30",
+      "content": "Two Palestinian children reportedly killed on Saturday as Israel continues its strikes after latest ceasefireThe Palestinian death toll has surpassed 70,000 since the Israel-Gaza war began, Gaza’s health ministry said on Saturday, while a hospital reported Israeli fire killed two Palestinian children in the territory’s south.The toll has continued to rise after the latest ceasefire took effect on 10 October. Israel still carries out strikes in response to what it has called violations of the truce, and bodies from earlier in the war are being recovered from the rubble. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "I bought this $110 Nespresso rig and it’s been caffeinated bliss ever since",
+      "link": "https://www.theverge.com/gadgets/833482/delonghi-nespresso-vertuo-black-friday-deal",
+      "published": "2025-11-29T20:30:00",
+      "content": "\n\n\n\t\n\tI’m working late, because I’m a writer. Need espresso. | Image: Delonghi\t\n\nBefore I went to Italy on vacation, I was fine with instant coffee and my electric kettle. I’m no coffee snob — just get that sweet caffeine into my veins as fast as humanly possible. But during that vacation, where every hotel room had a lil Nespresso machine, I suddenly became an espresso convert. “I’m going to be an annoying espresso person as soon as I get home!!,” I thought. And then I saw how much that cost to do it the “good” way.\n\nTwenty minutes of maniacal laughing later, my spouse and I found this early Black Friday deal last week for the De’Longhi Nespresso Vertuo Plus coffee and espresso maker that’s still going on. At it’s regular $169 price tag, I’d have stuck with my dirty water. But Amazon has it at $110, a 35 percent markdown. For that price, I was game. Especially because it can do both coffee and espresso, depending on the pods you get. Each purchase also comes with a sampler box so you can figure out what you like.\nDe’Longhi Nespresso Vertuo Plus Coffee and Espresso Maker\n\nWhere to Buy: $169 $109.99 at Amazon\nIsn’t this just a fancy Keurig? Yes, it is. But the extra fancy has been worth it over the last few days. Keurigs make coffee that, in my opinion, taste like doo-doo water (editor’s note: I’ll allow it) and this gadget produces coffee that tastes better for less effort and money. (My favorite coffeeshops near the office now charge $10 per cup, sob.) I had reservations over the environmental impact of using pods, until I saw that Nespresso has a recycling program. Right now, I’m sipping on a delightful maple-and-pecan flavored coffee while my spouse just threw back a double espresso shot. I like it so much, I volunteered to spread the good word and write this deal.\n\nSome of y’all may scoff. But again, I’m lazy and this gets me maximum flavor for minimum effort. If that’s you, too, then I swear. This machine? That’s that me Nespresso, baby. ",
+      "content_length": 1977,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mindestens zwei Tote durch massive Angriffe auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-124.html",
+      "published": "2025-11-29T20:27:48",
+      "content": "   Mindestens zwei Todesopfer, mehrere Verletzte und Stromausfälle - Kiew wurde ein weiteres Mal Ziel russischer Angriffe. Die Verhandlungen über ein mögliches Kriegsende sollen Berichten zufolge im Laufe des Wochenendes fortgesetzt werden.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Your Party’s first conference shows little sign of achieving fresh start",
+      "link": "https://www.theguardian.com/politics/2025/nov/29/your-partys-first-conference-shows-little-sign-of-achieving-fresh-start",
+      "published": "2025-11-29T20:07:11",
+      "content": "Differences between Zarah Sultana and Jeremy Corbyn and over admitting Socialist Workers members mean rows look likely to continueWhen the idea of a new leftwing party spearheaded by Jeremy Corbyn and Zarah Sultana was first mooted in the summer, it was so popular that hundreds of thousands of people expressed an interest in joining.Although it was quickly beset by arguments – its co-founders rowed bitterly over its initial leadership and funding model – many hoped this weekend’s inaugural conference would signal a fresh start. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Android phone you should buy your dad is just $349",
+      "link": "https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale",
+      "published": "2025-11-29T20:03:51",
+      "content": "\n\n\n\t\n\tThe 9A will likely be replaced by a new model this spring, but when has Dad ever cared about keeping up with trends?\t\n\nNot to generalize, but the Google Pixel 9A is a classic dad phone. It’s not fussy. It’s durable and scheduled to get software updates for the better part of a decade. It’s a solid deal at its full $499 MSRP, but the Black Friday price of $349 is even sweeter. It’s the lowest we’ve seen the 9A on sale for, matching its Prime Day price. If Dad missed out on it back in October, he can strike now while the iron is hot again.\nGoogle Pixel 9A\nThe Pixel 9A adds more robust water resistance and a brighter, bigger screen to what was already a winning formula for a good midrange phone. Read our review.\n\nWhere to Buy: $499 $349 at Amazon $499 $399 at Best Buy $499 $399 at Google\nOf course, you don’t have to be a dad, a dude, or anyone in particular to appreciate the 9A. It’s missing some of the fancier features on the flagship Pixel phones (it’s now the only Google phone that doesn’t come with a telephoto camera), but it has a solid processor and a reliable camera.\n\nIt runs Google’s streamlined Android implementation, so it might appeal to someone who finds Samsung software a little cluttered. And at $349, it’s also a good bet for anyone who wants to pay out of pocket for a phone and avoid financing or carrier deals. It’s a heck of a value proposition for the no-nonsense person in your life — dads and otherwise.",
+      "content_length": 1447,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Venezuela denounces ‘colonialist threat’ as Trump orders airspace closed",
+      "link": "https://www.theguardian.com/world/2025/nov/29/donald-trump-venezuela-airspace-closure",
+      "published": "2025-11-29T19:47:26",
+      "content": "President made declaration in a social media post, after FAA last week warned airlines of ‘worsening security situation’The Venezuelan government has responded defiantly to the heightened pressure by the US government, including Donald Trump’s recent statements on Saturday that the airspace above and surrounding Venezuela is to be closed in its entirety.In a statement, the Venezuelan government said Trump’s comments are a “colonialist threat” against their sovereignty and violate international law. The government also said it demanded respect for its airspace and would not accept foreign orders or threats. Continue reading...",
+      "content_length": 633,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Neue AfD-Jugend \"Generation Deutschland\": Kontrolliert rebellieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteijugend-100.html",
+      "published": "2025-11-29T19:39:30",
+      "content": "   Die \"Junge Alternative\" war gesichert rechtsextrem und schwer zu kontrollieren. Auch deswegen wurde sie aufgelöst und nun von der \"Generation Deutschland\" ersetzt. Die will Kaderschmiede sein - aber trotzdem rebellisch. Von Gabor Halasz.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "This great 27-inch Studio Display alternative is cheaper than ever",
+      "link": "https://www.theverge.com/gadgets/833564/this-great-27-inch-studio-display-alternative-is-cheaper-than-ever",
+      "published": "2025-11-29T19:30:00",
+      "content": "\n\n\n\t\n\tSleek looks on a slick deal. | Image: KTC H27P3 5K monitor has some formidable specs for a fair price.\t\n\nApple’s Studio Display has its shortcomings, especially when you consider its lofty $1,599 price tag. But what if I told you that a more affordable 5K monitor that nearly matches its specs is less than a third of its price for Black Friday?\n\nThe 27-inch KTC H27P3 5K monitor is selling for $534.99 ($135 off) at Amazon, and even less at $509.99 ($160 off) directly from KTC when you click the on-page coupon while it’s still available. The H27P3 has an IPS display with 5120 x 2880 resolution, 60Hz refresh, HDR support, 65W USB-C PD charging (for a single-cable connection to a laptop), with DisplayPort 1.4 and HDMI 2.0 ports. Its 217 pixels per inch is just one pixel shy from matching the Studio Display’s 218 PPI count. Regardless, everything from text and images will look super sharp with no visible artifacts on a screen that’s so dense with pixels.\nKTC H27P3 27-inch 5K monitor\nA much cheaper alternative to the 27-inch Apple Studio Display. At 5120 x 2880, it sports the same resolution. And it features a dual mode, allowing you to use it at 2560 x 1440 with a faster 120Hz refresh rate.\n\nWhere to Buy: $669.99 $534.99 at Amazon $669.99 $509.99 at KTC (with on-page coupon)\nIt’s very thin and fairly color-accurate, and is overall a much more appealing value than the Studio Display if you want a quality monitor for productivity and for some color-sensitive work. The KTC even has a unique feature that Apple can’t match: a dual mode for 120Hz refresh at 2560 x 1440 resolution if you prefer smoother performance over 5K clarity.\n\nOur own Cameron Faulkner has been testing the KTC, so be sure to keep an eye out for that full review. In the meantime, based on initial use and the astronomical price of its competition, we feel comfortable recommending this 5K display for just a bit over five-hundo.",
+      "content_length": 1922,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verletzte nach Siedlergewalt bei Bethlehem",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-siedlergewalt-102.html",
+      "published": "2025-11-29T19:26:32",
+      "content": "   Immer wieder eskaliert die Gewalt im Westjordanland, die Angriffe radikaler israelischer Siedler gegen Palästinenser häufen sich. Bei einem weiteren Vorfall sollen nun erneut mehrere Menschen verletzt worden sein.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australian taxpayers subsidise rising specialist fees as spending on Abbott-era Medicare safety net ‘explodes’",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/30/australian-taxpayers-subsidise-rising-specialist-fees-abbott-era-medicare",
+      "published": "2025-11-29T19:00:46",
+      "content": "Exclusive: Health department data shows spending on the 2004 extended safety net has nearly tripled, from $324.9m in 2010 to $850.4m in 2024Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTaxpayers are increasingly subsiding the rising fees of specialist doctors, as new data shows “explosive” government spending on the Medicare safety net, which has more than doubled in 15 years.Total Medicare safety net benefits rose from $339m in 2010 to $871.4m in 2024, data requested by Guardian Australia from the federal health department shows, with an Abbott-era expansion causing the biggest blowout in costs while also increasing inequities in the health system. Continue reading...",
+      "content_length": 745,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "White House launches website to excoriate media for ‘biased’ stories",
+      "link": "https://www.theguardian.com/us-news/2025/nov/29/white-house-media-website-trump",
+      "published": "2025-11-29T18:50:54",
+      "content": "Trump administration lists reporting it objects to in latest escalation of attacks on US journalismThe White House rolled out a new section of its official website on Friday that publicly criticizes and catalogs media organizations and journalists it claims have distorted coverage.At the top of the page, the text reads: “Misleading. Biased. Exposed.” The feature names the Boston Globe, CBS News and the Independent as “media offenders of the week”, accusing them of inaccurately portraying Trump’s remarks about six Democratic lawmakers who released of video encouraging military members to not follow illegal orders. Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Dokumentation zeigt russische Kriegspropaganda an Schulen",
+      "link": "https://www.tagesschau.de/kultur/russland-kriegspropaganda-doku-100.html",
+      "published": "2025-11-29T17:27:56",
+      "content": "   Zwei Jahre filmte Pavel Talankin, wie russische Schüler indoktriniert werden. Daraus entstand die Doku \"Mr. Nobody Against Putin\". Im ARD-Gespräch schildert der im Exil lebende Lehrer seine Erfahrungen. Von M. Allweiss.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pete Hegseth denies he gave orders to ‘kill everybody’ on alleged ‘narco-boat’",
+      "link": "https://www.theguardian.com/us-news/2025/nov/29/pete-hegseth-denies-ordering-deaths-narco-boat",
+      "published": "2025-11-29T17:27:08",
+      "content": "Defense secretary called reports about his role in strike as ‘fake news’ intended to discredit US militaryThe US defense secretary, Pete Hegseth, has declared recent reporting that he may have illegally ordered all people to be killed in a military strike in the Caribbean as “fake news” on Friday evening, adding that the series of strikes of people on boats had been “lawful under both US and international law”.Hegseth lambasted reports about his role in the strike as “fabricated, inflammatory and derogatory reporting to discredit our incredible warriors fighting to protect the homeland”. Continue reading...",
+      "content_length": 614,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Parteitag: Grüne wollen sozial gerechteren Klimaschutz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-parteitag-280.html",
+      "published": "2025-11-29T17:09:08",
+      "content": "   Die Grünen wollen den Klimaschutz mehr mit sozialer Gerechtigkeit in Einklang bringen. Parteichef Banaszak warb auf dem Parteitag für eine \"Klimapolitik für alle\". Zudem wurde die Rückkehr des 9-Euro-Ticket gefordert. [mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Experts say strict new FDA protocol for vaccine approval is ‘dangerous and irresponsible’",
+      "link": "https://www.theguardian.com/society/2025/nov/29/regulator-fda-stricter-protocols-vaccine-approvals",
+      "published": "2025-11-29T17:04:27",
+      "content": "Lead FDA vaccine regulator announced new approval process after claiming Covid vaccine had killed 10 childrenThe leading vaccine regulator at the Food and Drug Administration (FDA) has announced a far stricter course for federal vaccine approvals, following claims from his team that Covid vaccines were linked to the deaths of at least 10 children.Experts suggest the announcement will make the vaccine approval process significantly more difficult. Continue reading...",
+      "content_length": 470,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "GB News urged to cut ties with contributor accused of racism",
+      "link": "https://www.theguardian.com/media/2025/nov/29/gb-news-urged-to-cut-ties-with-contributor-lucy-white-accused-of-racism",
+      "published": "2025-11-29T17:00:41",
+      "content": "Rightwing activist claimed Commons deputy speaker Nusrat Ghani should be barred because she was born in PakistanGB News is facing calls to cut ties with a regular contributor who has been accused of racism after claiming that the House of Commons deputy speaker, Nusrat Ghani, should not be allowed in the house because she was born in Pakistan.The comments by Lucy White, a rightwing activist, have drawn criticism from across the political spectrum amid warnings that explicitly racist language is becoming increasingly normalised in British life. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "At least three killed in Russian drone and missile strikes on Ukraine",
+      "link": "https://www.france24.com/en/video/20251129-at-least-three-killed-in-russian-drone-and-missile-strikes-on-ukraine",
+      "published": "2025-11-29T16:43:42",
+      "content": "Russian drone and missile attacks in and around the Ukraine's capital killed at least three people early Saturday, officials said. The Kyiv City Military Administration said two people were killed in the strikes on the capital, and a woman died, and eight were wounded in a combined missile and drone attack on the broader Kyiv region, according to the regional police.",
+      "content_length": 369,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo follows papal tradition with Blue Mosque visit",
+      "link": "https://www.france24.com/en/video/20251129-pope-leo-follows-papal-tradition-with-blue-mosque-visit",
+      "published": "2025-11-29T16:40:25",
+      "content": "Pope Leo XIV visited Istanbul’s iconic Blue Mosque on Saturday, echoing similar trips by past pontiffs. Previous papal visits to the Sultan Ahmed Mosque, as it is officially known, signalled respect for Turkey’s Muslim majority. However, the visit drew backlash from a small nationalist minority, FRANCE 24’s Jasper Mortimer said, noting that only 40 protesters gathered in the city of 16 million.",
+      "content_length": 397,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Security guarantees a 'sticking point' in Ukraine peace deal",
+      "link": "https://www.france24.com/en/video/20251129-security-guarantees-a-sticking-point-in-ukraine-peace-deal",
+      "published": "2025-11-29T16:36:19",
+      "content": "Ukraine is facing extremely hard challenges ahead as it is under pressure from Washington to agree to the terms of a peace deal with Russia, FRANCE 24's Douglas Herbert said in an analysis. \"The sticking point here are the so-called security guarantees,\" Herbert said, underlining the vague promises made towards Ukraine in case of another Russian invasion. \"It's extremely unclear, what they really mean, who will be able to provide them and how,\" he added.",
+      "content_length": 458,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nur geringe Beeinträchtigungen durch A320-Update",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/airbus-a320-rueckruf-104.html",
+      "published": "2025-11-29T16:33:45",
+      "content": "   Infolge einer Panne bei einem A320-Jet mussten weltweit Tausende Maschinen der Serie überprüft und mit einem Software-Update versehen werden. Trotz einiger Einschränkungen blieb der Flugverkehr dabei weitgehend stabil. [mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sexkaufverbot in Schweden: \"Das macht es gefährlicher für mich\"",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-verbot-sexkauf-100.html",
+      "published": "2025-11-29T16:10:49",
+      "content": "   Bundestagspräsidentin Klöckner fordert ein Sexkaufverbot nach dem Vorbild Schwedens. Strafbar machen sich dort nur die Freier. Was bedeutet das für schwedische Sexarbeiterinnen? Von Christian Blenker.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum der deutsche Mietmarkt in der Klemme steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mietpreise-108.html",
+      "published": "2025-11-29T15:39:11",
+      "content": "   Über 1.000 Euro Kaltmiete - für keine 70 Quadratmeter? Exklusive Daten zeigen, wie stark die Angebotsmieten deutschlandweit gestiegen sind - und wo selbst auf dem flachen Land die Preise abheben. Von A. Mühlhausen.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump says Venezuela airspace should be considered closed, Caracas slams 'colonialist threat'",
+      "link": "https://www.france24.com/en/americas/20251129-trump-says-venezuela-airspace-should-be-considered-closed-in-its-entirety",
+      "published": "2025-11-29T15:23:19",
+      "content": "President Donald Trump on Saturday warned that the airspace above and around Venezuela should be considered closed, escalating tensions with Venezuelan President Nicolas Maduro as Washington steps up a major military deployment in the Caribbean and strikes on alleged drug-smuggling vessels. Caracas slammed the warning as a \"colonialist threat\".",
+      "content_length": 346,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Your Party conference thrown into chaos as Zarah Sultana boycotts first day",
+      "link": "https://www.theguardian.com/politics/2025/nov/29/corbyn-and-sultana-at-odds-over-your-party-leadership-as-conference-opens",
+      "published": "2025-11-29T14:53:01",
+      "content": "Sultana skips Saturday’s proceeding in solidarity with delegates expelled over links to other partiesZarah Sultana has boycotted the first day of Your Party’s inaugural conference, throwing the party’s first official gathering into chaos amid disagreements with co-founder Jeremy Corbyn over how the party should be run.Corbyn confirmed to journalists on Saturday that he preferred a single leader and is likely to stand for the role but Sultana said she would vote for collective leadership and that she did not believe parties should be run by “sole personalities”. Continue reading...",
+      "content_length": 587,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Neue AfD-Jugendorganisation \"Generation Deutschland\" gegründet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-jugend-generation-deutschland-gruendung-104.html",
+      "published": "2025-11-29T14:51:21",
+      "content": "   Die AfD hat in Gießen ihre neue Jugendorganisation gegründet und den brandenburgischen Landtagsabgeordneten Hohm zum Vorsitzenden gewählt. Die Veranstaltung konnte wegen massiver Proteste erst deutlich verspätet beginnen. [mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Northwestern University agrees to pay US government $75m to restore research funding",
+      "link": "https://www.theguardian.com/us-news/2025/nov/29/northwestern-university-agreement-us-government",
+      "published": "2025-11-29T14:42:02",
+      "content": "Agreement will also end series of investigations of university over school’s alleged failure to fight antisemitismNorthwestern University has agreed to pay $75m to the US government in a deal with the Trump administration to end a series of investigations and restore hundreds of millions of dollars in federal research funding.Donald Trump’s administration had cut off $790m in grants in a standoff that contributed to university layoffs and the resignation in September of Northwestern’s president, Michael Schill. The administration argued the school had not done enough to fight antisemitism. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Germany’s far-right AfD sets up youth wing, drawing thousands of demonstrators",
+      "link": "https://www.france24.com/en/europe/20251129-germany-s-far-right-afd-sets-up-youth-wing-drawing-thousands-of-demonstrators",
+      "published": "2025-11-29T14:39:16",
+      "content": "Thousands of demonstrators gathered Saturday in the central German city of Giessen for the launch of far-right Alternative for Germany (AfD) party’s new youth organisation. The meeting was delayed as some AfD supporters clashed with police.",
+      "content_length": 240,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mutmaßliche Schattenflotten-Tanker geraten vor Türkei in Brand",
+      "link": "https://www.tagesschau.de/ausland/europa/brand-tanker-schwarzes-meer-102.html",
+      "published": "2025-11-29T14:36:05",
+      "content": "   Im Schwarzen Meer sind zwei Tanker in Brand geraten, die der russischen Schattenflotte angehören sollen. In einem Fall spricht die Türkei von einem Angriff durch ein unbemanntes Schiff. [mehr]",
+      "content_length": 195,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mindestens 130 Tote durch Zyklon \"Ditwah\" in Sri Lanka",
+      "link": "https://www.tagesschau.de/ausland/asien/zyklon-sri-lanka-102.html",
+      "published": "2025-11-29T14:21:51",
+      "content": "   Viele zerstörte Häuser, Tausende Menschen in Notunterkünften und mindestens 130 Tote - das ist die Bilanz des Zyklon \"Ditwah\", der über Sri Lanka hinweggefegt ist. Landesweit gilt ein Notstand.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "How big tech is creating its own friendly media bubble to ‘win the narrative battle online’",
+      "link": "https://www.theguardian.com/technology/2025/nov/29/big-tech-silicon-valley-ceo-media",
+      "published": "2025-11-29T14:18:45",
+      "content": "At a time when distrust of big tech is high, Silicon Valley is embracing an alternative ecosystem where every CEO is a starA montage of Palantir’s CEO, Alex Karp, and waving US flags set to a remix of AC/DC’s Thunderstruck blasts out as the intro for the tech billionaire’s interview with Sourcery, a YouTube show presented by the digital finance platform Brex. Over the course of a friendly walk through the company offices, Karp fields no questions about Palantir’s controversial ties to ICE but instead extolls the company’s virtues, brandishes a sword and discusses how he exhumed the remains of his childhood dog Rosita to rebury them near his current home.“That’s really sweet,” host Molly O’Shea tells Karp. Continue reading...",
+      "content_length": 734,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Fast jede zweite Hebamme denkt ans Aufhören",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hebammen-studie-existenzaengste-100.html",
+      "published": "2025-11-29T14:05:37",
+      "content": "   Die Bezahlung von Hebammen wurde im November reformiert - für eine engmaschigere Betreuung während der Geburt. Doch freiberufliche Hebammen befürchten hohe Verdiensteinbußen und fühlen sich übergangen. Von Katharina Spreier.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zelenskyy faces ‘mini-revolution’ as Yermak’s fall reshapes Ukraine’s wartime power system",
+      "link": "https://www.theguardian.com/world/2025/nov/29/zelenskyy-faces-mini-revolution-as-yermak-fall-reshapes-ukraine-wartime-power-system",
+      "published": "2025-11-29T13:38:01",
+      "content": "Exit of Zelenskyy’s most powerful aide could also have impact on Kyiv’s negotiating position in talks over ending warUkraine’s political system is bracing for a “mini-revolution” as the county’s president, Volodymyr Zelenskyy, is forced to adapt to life without his closest adviser, chief enforcer and most loyal associate, Andriy Yermak, who resigned on Friday after his apartment was searched as part of a widening anti-corruption probe.Yermak’s resignation could have tremendous consequences for domestic governance, as well as for Ukraine’s negotiating position in talks over ending the war with Russia, where he had served as the head of Ukraine’s delegation to peace talks with the White House. Continue reading...",
+      "content_length": 720,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel has ‘de facto state policy’ of organised torture, says UN report",
+      "link": "https://www.theguardian.com/world/2025/nov/29/israel-has-de-facto-state-policy-of-organised-torture-says-un-report",
+      "published": "2025-11-29T13:18:04",
+      "content": "Committee highlights allegations including dog attacks and sexual violence, raising concern about impunity for war crimesIsrael has “a de facto state policy of organised and widespread torture”, according to a UN report covering the past two years, which also raised concerns about the impunity of Israeli security forces for war crimes.The UN committee on torture expressed “deep concern over allegations of repeated severe beatings, dog attacks, electrocution, waterboarding, use of prolonged stress positions [and] sexual violence”. Continue reading...",
+      "content_length": 555,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Impasse over EHRC single-sex spaces guidance ‘distracting from other issues’",
+      "link": "https://www.theguardian.com/world/2025/nov/29/ehrc-guidance-single-sex-spaces",
+      "published": "2025-11-29T13:00:39",
+      "content": "Staff at human rights body said to be ‘desperate for regime change’ over inertia after court’s legal definition of a womanThe ongoing impasse over guidance from the UK’s human rights watchdog on access to single-sex spaces is distracting from other pressing issues, including the rise of the far right, insiders have told the Guardian.Some members of staff at the Equality and Human Rights Commission (EHRC) are described as “desperate for regime change” ahead of the new chair, Mary-Ann Stephenson, taking up her post in December. Continue reading...",
+      "content_length": 551,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Airlines worldwide work to fix software glitch on A320 aircraft",
+      "link": "https://www.france24.com/en/video/20251129-airlines-worldwide-work-to-fix-software-glitch-on-a320-aircraft",
+      "published": "2025-11-29T12:46:00",
+      "content": "Airlines around the world reported short-term disruptions heading into the weekend as they fixed software on the widely used A320 family of aircraft. FRANCE 24 speaks to Anita Mendiratta, strategic advisor, author and diplomat specialising in tourism and aviation to better understand the situation.",
+      "content_length": 299,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Achieving lasting remission for HIV",
+      "link": "https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/",
+      "published": "2025-11-29T12:15:27",
+      "content": "Around the world, some 40 million people are living with HIV. And though progress in treatment means the infection isn’t the death sentence it once was, researchers have never been able to bring about a cure. Instead, HIV-positive people must take a cocktail of antiretroviral drugs for the rest of their lives.\nBut in 2025, researchers reported a breakthrough that suggests that a “functional” cure for HIV—a way to keep HIV under control long-term without constant treatment—may indeed be possible. In two independent trials using infusions of engineered antibodies, some participants remained healthy without taking antiretrovirals, long after the interventions ended.\nIn one of the trials—the FRESH trial, led by virologist Thumbi Ndung’u of the University of KwaZulu-Natal and the Africa Health Research Institute in South Africa—four of 20 participants maintained undetectable levels of HIV for a median of 1.5 years without taking antiretrovirals. In the other, the RIO trial set in the United Kingdom and Denmark and led by Sarah Fidler, a clinical doctor and HIV research expert at Imperial College London, six of 34 HIV-positive participants have maintained viral control for at least two years.Read full article\nComments",
+      "content_length": 1231,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "They tried to overturn the 2020 US election. Now, they hold power in Trump’s Washington",
+      "link": "https://www.theguardian.com/us-news/2025/nov/29/2020-election-deniers-trump",
+      "published": "2025-11-29T12:00:36",
+      "content": "Those who tried to overturn the 2020 election now occupy key federal roles, shaping rules and sowing doubt for 2026The people who tried to overturn the 2020 election have more power than ever – and they plan to use it.Bolstered by the president, they have prominent roles in key parts of the federal government. Harmeet Dhillon, a lawyer who helped advance Donald Trump’s claims of a stolen election in 2020, now leads the civil rights division of the justice department. An election denier, Heather Honey, now serves as the deputy assistant secretary for election integrity in the Department of Homeland Security. Kurt Olsen, an attorney involved in the “stop the steal” movement, is now a special government employee investigating the 2020 election. Continue reading...",
+      "content_length": 771,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Airlines rush to fix Airbus A320 software glitch, disruptions reported",
+      "link": "https://www.france24.com/en/europe/20251129-airlines-rush-to-fix-airbus-a320-software-glitch-disruptions-reported",
+      "published": "2025-11-29T11:57:11",
+      "content": "Airlines worldwide on Saturday rushed to fix software on hundreds of Airbus A320s after a JetBlue jet’s sudden altitude drop exposed a solar radiation-linked glitch. There were short-term disruptions at several airports as US passengers prepared to return home after the Thanksgiving holiday, one of the busiest travel times in the country.",
+      "content_length": 340,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump casts long shadow over Honduran politics ahead of vote",
+      "link": "https://www.france24.com/en/video/20251129-trump-casts-long-shadow-over-honduran-politics-ahead-of-vote",
+      "published": "2025-11-29T11:27:33",
+      "content": "US President Donald Trump on Friday made a major intervention into Honduran politics days before the Central American nation votes, pardoning a convicted ex-leader and threatening to cut US support if his preferred candidate loses. Trump said he will pardon ex-president Juan Orlando Hernandez, who was convicted last year in a US court of drug trafficking charges and sentenced to 45 years in prison.",
+      "content_length": 401,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US Defense Secretary Hegseth issued kill order after strike on Caribbean boat, reports say",
+      "link": "https://www.france24.com/en/video/20251129-us-defense-secretary-hegseth-issued-kill-order-after-strike-on-caribbean-boat-reports-say",
+      "published": "2025-11-29T11:24:48",
+      "content": "The US military conducted a follow-up strike on a boat in the Caribbean that it believed to be ferrying drugs, killing survivors of an initial missile attack, US media reported Friday. Prior to the operation, the troops had been given a directive from US Defense Secretary Pete Hegseth to kill everyone on board, the Washington Post and CNN both reported, citing unnamed sources familiar with the operation. FRANCE 24's Fraser Jackson brings you the details.",
+      "content_length": 458,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kurse für Polens Zivilisten: Trainieren für den Ernstfall",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-zivilschutz-training-100.html",
+      "published": "2025-11-29T11:24:04",
+      "content": "   Polen will seine Truppenstärke in den kommenden Jahren massiv aufstocken, aber ohne Rückkehr zur Wehrpflicht. Mit Basis- und Überlebenstraining soll sich die Armee nun auch für Zivilisten öffnen. Von Martha Wilczynski.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong mourns victims of deadly building fire",
+      "link": "https://www.france24.com/en/video/20251129-hong-kong-mourns-victims-of-deadly-building-fire",
+      "published": "2025-11-29T11:21:35",
+      "content": "An outpouring of grief swept Hong Kong on Saturday as thousands paid their respects and laid flowers for the 128 people killed in one of the city's deadliest fires, marking the start of an official, three-day mourning period. People from across the city flocked to a small park near the charred shell of Wang Fuk Court, the residential complex that burned for more than 40 hours, to place white and yellow flowers and leave handwritten messages of remembrance.",
+      "content_length": 460,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump vows to pardon ex-Honduran president, ruling party blasts election interference",
+      "link": "https://www.france24.com/en/americas/20251129-trump-announces-pardon-of-honduran-ex-president-ahead-of-election",
+      "published": "2025-11-29T10:06:48",
+      "content": "President Donald Trump said Friday he will pardon former Honduran leader Juan Orlando Hernández, who was extradited to the United States and is serving a drug-trafficking sentence. The ruling party’s presidential candidate for Sunday’s election accused Washington of interfering in the vote.",
+      "content_length": 291,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Runaway nuns allowed back in Austrian convent 'until further notice'",
+      "link": "https://www.france24.com/en/video/20251129-runaway-nuns-allowed-back-in-austrian-convent-until-further-notice",
+      "published": "2025-11-29T10:02:42",
+      "content": "Three nuns in their 80s who made headlines after fleeing their care home to take back their convent in Austria are being allowed to stay there \"until further notice\", church officials said Friday. The story of runaway sisters Rita, 82, Regina, 86, and Bernadette, 88, defying the church hierarchy made headlines across the globe.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky removes top aide and negotiator after anti-graft raids",
+      "link": "https://www.france24.com/en/video/20251129-zelensky-removes-top-aide-and-negotiator-after-anti-graft-raids",
+      "published": "2025-11-29T10:00:57",
+      "content": "Ukrainian President Volodymyr Zelensky removed his powerful chief of staff and top negotiator on Friday, after detectives raided Andriy Yermak's house as part of a sweeping corruption probe. Yermak's removal deals a serious blow to Zelensky, who faces a mounting Russian offensive in the east as Washington peddles a plan to end the war that Kyiv fears will hand big concessions to Moscow.",
+      "content_length": 389,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Convincing evidence Israel backed aid convoy looters in Gaza, historian says",
+      "link": "https://www.theguardian.com/world/2025/nov/29/convincing-evidence-israel-backed-aid-convoy-looters-in-gaza-historian-says",
+      "published": "2025-11-29T10:00:35",
+      "content": "Account of visit to Gaza by French professor describes Israeli military attacks on security personnel protecting convoysA historian who spent more than a month in Gaza at the turn of the year says he saw “utterly convincing” evidence that Israel supported looters who attacked aid convoys during the conflict.Jean-Pierre Filiu, a professor of Middle East studies at France’s prestigious Sciences Po university, entered Gaza in December where he was hosted by an international humanitarian organisation in the southern coastal zone of al-Mawasi. Continue reading...",
+      "content_length": 564,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Airbus rush to update A320 software after plane's sudden altitude drop",
+      "link": "https://www.france24.com/en/video/20251129-airbus-rush-to-update-a320-software-after-plane-s-sudden-altitude-drop",
+      "published": "2025-11-29T09:55:34",
+      "content": "Airlines around the world canceled and delayed flights heading into the weekend to fix software on a widely used commercial aircraft after an analysis found the computer code may have contributed to a sudden drop in the altitude of a JetBlue plane last month. Airbus said Friday that an examination of the JetBlue incident revealed that intense solar radiation may corrupt data critical to the functioning of flight controls on the A320 family of aircraft.",
+      "content_length": 456,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Warum auch Veggie-Produkte für die Fleischindustrie wichtig sind",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/fleisch-industrie-konsum-deutschland-100.html",
+      "published": "2025-11-29T09:45:41",
+      "content": "   Die Deutschen essen immer weniger Fleisch: mit rund 53 Kilogramm im Jahr ganze acht Kilogramm weniger pro Kopf als noch vor zehn Jahren. Vegetarische Ersatzprodukte werden dagegen immer wichtiger. Von Teresa Peters.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wer über die Zukunft der Ukraine verhandelt",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-verhandelnde-102.html",
+      "published": "2025-11-29T09:37:37",
+      "content": "   In der kommenden Woche wollen Vertreter der USA und Russlands weiter über ein Abkommen zur Beendigung des Krieges in der Ukraine sprechen. Wer sitzt dabei am Tisch - und welche Erfahrung bringen die Verhandler mit? Ein Überblick.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel’s new draft law reignites ultra-Orthodox conscription debate",
+      "link": "https://www.france24.com/en/live-news/20251129-ultra-orthodox-military-conscription-row-reignites-in-israel",
+      "published": "2025-11-29T09:27:20",
+      "content": "Israeli lawmakers on Monday are set to debate a new draft law on conscripting ultra-Orthodox Jews amid fierce political battles between religious parties critical for Prime Minister Benjamin Netanyahu’s survival and critics who denounce the new proposed exemptions as a “fraud” and “conscription on paper only”.",
+      "content_length": 311,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Schiedsgericht soll über Rückgabe von NS-Raubkunst entscheiden",
+      "link": "https://www.tagesschau.de/kultur/ns-raubkunst-schiedsgericht-100.html",
+      "published": "2025-11-29T09:25:37",
+      "content": "   Ein Schiedsgericht soll über die Rückgabe von Nazi-Raubkunst entscheiden. Die Politik feiert das als großen Fortschritt. Kunsthistoriker und Anwälte der Erben jüdischer Opfer haben aber große Zweifel. Von Ulf Kalkreuth.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche (ehemals Snapshots)",
+      "link": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-ehemals-Snapshots-11092397.html",
+      "published": "2025-11-29T08:05:00",
+      "content": "Snapshots sind jetzt Häppchen: kleine, aber interessante Meldungshäppchen zu Apache Hop, Kedro, OpenMP, Kube One, Node.js, Jupyter, gcc, Python und Uno.",
+      "content_length": 152,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Exclusive: The first proof of the use of chemical weapons in Sudan’s civil war",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20251129-exclusive-first-proof-use-chemical-weapons-sudan-civil-war",
+      "published": "2025-11-29T07:22:44",
+      "content": "An investigation by the FRANCE 24 Observers team reveals how chlorine gas was used as a weapon in the ongoing civil war in Sudan. All evidence suggests the Sudanese army used chlorine to recapture a strategic refinery from the Rapid Support Forces militia.",
+      "content_length": 256,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "How did chlorine imported to Sudan for water purification end up being used as a poison gas?",
+      "link": "https://www.france24.com/en/africa/20251129-sudan-chlorine-imports-investigation-water",
+      "published": "2025-11-29T07:00:11",
+      "content": "Barrels containing chlorine gas were used as a chemical weapon near an oil refinery in Sudan in September 2024, as shown by the first part of an investigation by the FRANCE 24 Observers. In this second installment, we trace how the barrels were imported into the country by Ports Engineering Company, a Sudanese company with links to the army, under the pretext that they would be used to produce potable water.",
+      "content_length": 411,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Paris arthouse cinemas reinvent themselves amid audience decline",
+      "link": "https://www.france24.com/en/live-news/20251129-paris-s-arthouse-cinemas-adapt-to-battle-decline",
+      "published": "2025-11-29T06:43:19",
+      "content": "With audiences dwindling and streaming on the rise, Paris’s iconic arthouse cinemas are racing to reinvent themselves or risk closing for good. One cinema in the Champs-Elysées area has adopted a \"modular\" economic model, enabling screening rooms to be rapidly transformed into reception spaces.",
+      "content_length": 295,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand, Indonesia, Malaysia launch clean-up after floods kill hundreds",
+      "link": "https://www.france24.com/en/live-news/20251129-thailand-indonesia-begin-clean-up-after-massive-floods-kill-hundreds",
+      "published": "2025-11-29T06:11:14",
+      "content": "The death toll from catastrophic floods and landslides across Southeast Asia soared past 350 on Saturday, as rescue teams raced to reach stranded communities in Indonesia, Thailand and Malaysia and begin clearing the devastation left by a week of relentless monsoon rain.",
+      "content_length": 271,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Symfony 7.4 und 8.0: Doppel-Release räumt Codebasis auf",
+      "link": "https://www.heise.de/news/Symfony-7-4-und-8-0-Doppel-Release-raeumt-Codebasis-auf-11093761.html",
+      "published": "2025-11-28T11:41:00",
+      "content": "Symfony 7.4 und 8.0 bringen dieselben Features, verabschieden sich von der XML‑Konfiguration und führen ein neues, arraybasiertes PHP‑Format für Projekte ein.",
+      "content_length": 158,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
