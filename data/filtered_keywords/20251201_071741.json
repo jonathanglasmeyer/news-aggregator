@@ -1,0 +1,1017 @@
+{
+  "metadata": {
+    "timestamp": "20251201_071741",
+    "input_file": "data/deduplicated/20251201_071741.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 124,
+      "filtered_count": 110,
+      "blacklisted_count": 14,
+      "reduction_rate": "11.3%",
+      "top_blacklist_reasons": {
+        "temperatur": 3,
+        "polizeieinsatz": 2,
+        "oscar": 2,
+        "rückruf": 1,
+        "bürgermeister": 1,
+        "fußball": 1,
+        "formel 1": 1,
+        "e-reader": 1,
+        "the voice": 1,
+        "regen": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Vor Abstimmung - Unionsfraktionsvize Middelberg geht von Zustimmung zur Rentenreform aus",
+      "link": "https://www.deutschlandfunk.de/unionsfraktionsvize-middelberg-geht-von-zustimmung-zur-rentenreform-aus-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Der stellvertretende Fraktionsvorsitzende der Union, Middelberg, geht von einer Zustimmung zur Rentenreform im Bundestag aus. Er sehe zwar berechtigte Bedenken, sagte der CDU-Politiker im Deutschlandfunk. Doch es gehe auch um die Regierung insgesamt und die Umsetzung ihres Programms.",
+      "content_length": 284,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Florida - USA und Ukraine nennen Gespräche über Ende des russischen Angriffskrieges \"produktiv\" - Rubio: Moskau muss einbezogen werden",
+      "link": "https://www.deutschlandfunk.de/usa-und-ukraine-nennen-gespraeche-ueber-ende-des-russischen-angriffskrieges-produktiv-rubio-moskau-m-102.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die Beratungen der USA und der Ukraine über weitere Details des amerikanischen Planes für ein Ende des russischen Angriffskrieges waren nach Auskunft beider Seiten bislang produktiv. US-Außenminister Rubio sieht noch Verhandlungsbedarf. Offen ist, wie Russland auf das Ergebnis reagieren wird.",
+      "content_length": 293,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "SIPRI-Bericht - Weltweit größte Rüstungskonzerne verzeichnen erneut höhere Einnahmen",
+      "link": "https://www.deutschlandfunk.de/weltweit-groesste-ruestungskonzerne-verzeichnen-erneut-hoehere-einnahmen-104.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die 100 weltweit größten Rüstungskonzerne haben laut dem schwedischen Friedensforschungsinstitut SIPRI im vergangenen Jahr erneut mehr Waffen und militärische Dienstleistungen verkauft. Der Umsatz sei im Vergleich zu 2023 um fast sechs Prozent gestiegen, heißt es in dem neuesten SIPRI-Bericht.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Brandmauer\" - CDU und SPD begrüßen Rückzieher des Familienunternehmer-Verbands bezüglich AfD",
+      "link": "https://www.deutschlandfunk.de/cdu-und-spd-begruessen-rueckzieher-des-familienunternehmer-verbands-bezueglich-afd-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die Kehrtwende des Verbands der Familienunternehmer bezüglich seines Umgangs mit der AfD ist bei Union und SPD auf Zustimmung gestoßen.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Israel - Proteste und Kritik nach Gnadengesuch Netanjahus",
+      "link": "https://www.deutschlandfunk.de/proteste-und-kritik-nach-gnadengesuch-netanjahus-104.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In Israel hat das Gnadengesuch von Ministerpräsident Netanjahu Proteste ausgelöst.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Honduras - Trumps Favorit führt bei Präsidentschaftswahl",
+      "link": "https://www.deutschlandfunk.de/trumps-favorit-fuehrt-bei-praesidentschaftswahl-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Bei der Präsidentschaftswahl in Honduras führt der Kandidat der konservativen Nationalpartei, Asfura.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Senator: Washington hat Venezuelas Staatschef Maduro Verlassen des Landes angeboten",
+      "link": "https://www.deutschlandfunk.de/senator-washington-hat-venezuelas-staatschef-maduro-verlassen-des-landes-angeboten-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die USA haben nach Angaben eines Senators dem venezolanischen Präsidenten Maduro angeboten, sein Land zu verlassen.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Welt-Aids-Tag - Deutsche Aidshilfe warnt vor Rückschritten",
+      "link": "https://www.deutschlandfunk.de/deutsche-aidshilfe-warnt-vor-rueckschritten-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die Deutsche Aidshilfe hat vor Rückschlägen bei der globalen Bekämpfung von HIV und Aids gewarnt.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Wadephul kündigt weitere Gespräche zu russischen Vermögen an",
+      "link": "https://www.deutschlandfunk.de/wadephul-kuendigt-weitere-gespraeche-zu-russischen-vermoegen-an-106.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Außenminister Wadephul hat einen weiteren Anlauf der Bundesregierung zur Nutzung eingefrorener russischer Vermögenswerte für die Verteidigung der Ukraine angekündigt.",
+      "content_length": 166,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Bundesgesundheitsministerin Warken wirft AfD-Fraktion \"unterirdische Kommentare\" gegen weibliche Abgeordnete vor",
+      "link": "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-wirft-afd-fraktion-unterirdische-kommentare-gegen-weibliche-abgeo-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Bundesgesundheitsministerin Warken hat stark frauenfeindliche Zwischenrufe der AfD im Bundestag kritisiert.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Keine Hinweise auf Bedrohungen - Bundesinnenminister Dobrindt: \"Die Weihnachtsmärkte sind sicher\"",
+      "link": "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-die-weihnachtsmaerkte-sind-sicher-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die deutschen Weihnachtsmärkte sind nach Angaben von Bundesinnenminister Dobrindt sicher.",
+      "content_length": 89,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bangladesch - Britische Abgeordnete zu zwei Jahren Haft verurteilt",
+      "link": "https://www.deutschlandfunk.de/britische-abgeordnete-zu-zwei-jahren-haft-verurteilt-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In einem Korruptionsprozess in Bangladesch ist die britische Abgeordnete und Ex-Staatsministerin Siddiq zu zwei Jahren Haft verurteilt worden.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gemeinsame Regierungskonsultationen - Deutschland und Polen wollen Partnerschaft vertiefen",
+      "link": "https://www.deutschlandfunk.de/deutschland-und-polen-wollen-partnerschaft-vertiefen-108.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In Berlin finden heute deutsch-polnische Regierungskonsultationen statt.",
+      "content_length": 72,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheitspolitik - DAK-Krankenkasse klagt gegen Bundesregierung wegen Krankenkassenbeiträgen",
+      "link": "https://www.deutschlandfunk.de/dak-krankenkasse-klagt-gegen-bundesregierung-wegen-krankenkassenbeitraegen-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die Krankenkasse \"DAK-Gesundheit\" will heute eine Klage gegen die Bundesregierung einreichen.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost-Konflikt - Israels Armee: Mehr als 40 Hamas-Kämpfer in Tunneln getötet",
+      "link": "https://www.deutschlandfunk.de/israels-armee-mehr-als-40-hamas-kaempfer-in-tunneln-getoetet-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die israelische Armee hat nach eigenen Angaben bei der Zerstörung von Tunneln im Gazastreifen mehr als 40 Kämpfer der militant-islamistischen Hamas getötet.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Syrien - Amerikanische und einheimische Streitkräfte zerstören zahlreiche Waffenlager von IS-Terrormiliz",
+      "link": "https://www.deutschlandfunk.de/amerikanische-und-einheimische-streitkraefte-zerstoeren-zahlreiche-waffenlager-von-is-terrormiliz-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In Syrien haben einheimische und amerikanische Streitkräfte nach US-Angaben zahlreiche Waffenlager der IS-Terrormiliz zerstört.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost-Reise - Papst ruft politische Kräfte im Libanon zu Frieden und Hoffnung auf",
+      "link": "https://www.deutschlandfunk.de/papst-ruft-politische-kraefte-im-libanon-zu-frieden-und-hoffnung-auf-110.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Papst Leo XIV. ist im Rahmen seiner Nahost-Reise zu einem mehrtägigen Besuch im Libanon eingetroffen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Diplomatie - Chinas Außenminister heute zu Gesprächen in Russland",
+      "link": "https://www.deutschlandfunk.de/chinas-aussenminister-heute-zu-gespraechen-in-russland-100.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Chinas Außenminister Wang Yi reist heute zu Gesprächen nach Moskau.",
+      "content_length": 67,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Litauen - Hauptstadtflughafen wegen Ballons erneut geschlossen",
+      "link": "https://www.deutschlandfunk.de/hauptstadtflughafen-wegen-ballons-erneut-geschlossen-104.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In Litauen hat der Hauptstadtflughafen von Vilnius erneut seinen Betrieb vorübergehend eingestellt.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kirgisistan - Präsident festigt Macht durch Parlamentswahl",
+      "link": "https://www.deutschlandfunk.de/praesident-festigt-macht-durch-parlamentswahl-106.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In der zentralasiatischen Republik Kirgisistan hat Präsident Dschaparow bei vorgezogenen Parlamentswahlen seine Machtbasis festigen können.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schweiz - Bürger stimmen gegen allgemeinen Pflichtdienst und Erbschaftssteuer für Reiche",
+      "link": "https://www.deutschlandfunk.de/buerger-stimmen-gegen-allgemeinen-pflichtdienst-und-erbschaftssteuer-fuer-reiche-102.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In der Schweiz gab es heute zwei Volksabstimmungen: Eine zu einer allgemeinen Dienstpflicht und eine zu einer Erbschaftssteuer für Reiche. Beide Initiativen wurden mit deutlicher Mehrheit abgelehnt.",
+      "content_length": 198,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kriminalität - Notaufnahmen verzeichnen mehr Schwerverletzte durch Messergewalt",
+      "link": "https://www.deutschlandfunk.de/notaufnahmen-verzeichnen-mehr-schwerverletzte-durch-messergewalt-108.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Die Notaufnahmen in Deutschlands Krankenhäusern verzeichnen deutlich mehr Schwerverletzte durch Messergewalt.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bürokratie - Ministerpräsident Wüst für deutlich weniger Genehmigungsverfahren",
+      "link": "https://www.deutschlandfunk.de/ministerpraesident-wuest-fuer-deutlich-weniger-genehmigungsverfahren-108.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Der nordrhein-westfälische Ministerpräsidet Wüst hat die Notwendigkeit unterstrichen, dass der Staat wieder handlungsfähiger werden muss.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesparteitag - \"Wähler gewinnt man nicht mit Parolen aus dem Wolkenkuckucksheim\": Özdemir rät Grünen zu mehr Bodenständigkeit",
+      "link": "https://www.deutschlandfunk.de/waehler-gewinnt-man-nicht-mit-parolen-aus-dem-wolkenkuckucksheim-oezdemir-raet-gruenen-zu-mehr-boden-102.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Am letzten Tag des Bundesdelegiertentreffens der Grünen hat sich Cem Özdemir zu Wort gemeldet, der Spitzenkandidat für die Landtagswahl in Baden-Württemberg. Er fordert, dass sich die Grünen als technologieaffine Fortschrittspartei präsentieren - ohne radikale Parolen.",
+      "content_length": 269,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Generation Deutschland\" - Wirrer Auftritt Alexander Eichwalds bei AfD-Jugendkongress in Gießen löst weiter Irritationen aus",
+      "link": "https://www.deutschlandfunk.de/wirrer-auftritt-alexander-eichwalds-bei-afd-jugendkongress-in-giessen-loest-weiter-irritationen-aus-102.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "Der Auftritt eines Bewerbers beim Gründungskongress der neuen AfD-Jugendorganisation \"Generation Deutschland\" in Gießen sorgt innerhalb der Partei und außerhalb weiterhin für Irritationen.",
+      "content_length": 188,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Korruptionsprozess - Diskussionen um Netanjahus Begnadigungsgesuch: Was sind die Hintergründe - und welchen Spielraum hat Israels Präsident Herzog?",
+      "link": "https://www.deutschlandfunk.de/diskussionen-um-netanjahus-begnadigungsgesuch-was-sind-die-hintergruende-und-welchen-spielraum-hat-i-102.html",
+      "published": "2025-12-01T07:04:20",
+      "content": "In Israel sorgt das Begnadigungsgesuch von Premierminister Netanjahu, der wegen Korruptionsvorwürfen vor Gericht steht, für großes Aufsehen und viele Fragen. Wie geht es nun weiter - und welchen rechtlichen Spielraum hat Präsident Herzog? Ein Überblick.",
+      "content_length": 253,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "In der AfD rätseln viele über skurrilen Eichwald-Auftritt",
+      "link": "https://www.tagesschau.de/inland/alexander-eichwald-afd-auftritt-100.html",
+      "published": "2025-12-01T06:55:10",
+      "content": "   V-Mann, Provokateur oder einfach authentisch? Mit einem Auftritt, der an Hitler erinnerte, mischte ein Bewerber den AfD-Jugendkongress auf. Wer der Mann wirklich ist, bleibt unklar - doch ihm droht nun ein Parteiausschluss.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bangladesh court sentences UK MP Tulip Siddiq to two years prison in absentia",
+      "link": "https://www.theguardian.com/world/2025/dec/01/bangladesh-court-sentences-uk-mp-tulip-siddiq-to-two-years-prison-in-absentia",
+      "published": "2025-12-01T06:43:26",
+      "content": "Siddiq, who serves as an MP for Hampstead and Highgate in London, has denied the allegationsA Bangladesh court has sentenced British MP and former minister Tulip Siddiq to two years in jail, in a corruption case involving the alleged illegal allocation of a plot of land.Siddiq, who serves as an MP for Hampstead and Highgate in London, had denied the allegations and the trial was conducted in her absence. Continue reading...",
+      "content_length": 427,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump und Maduro telefonieren: US-Druck auf Venezuela bleibt",
+      "link": "https://www.tagesschau.de/ausland/amerika/telefonat-trump-maduro-100.html",
+      "published": "2025-12-01T06:41:37",
+      "content": "   Inmitten der Spannungen zwischen Venezuela und den USA haben die Präsidenten Trump und Maduro telefoniert. Der Inhalt: unbekannt. Ein US-Senator legt Maduro aber eine Ausreise nahe.[mehr]",
+      "content_length": 190,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Australia’s drug regulator issues mental health warning for weight-loss drugs including Ozempic",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/01/mental-health-warning-issued-for-weight-loss-drugs-including-ozempic-in-australia",
+      "published": "2025-12-01T06:31:46",
+      "content": "TGA issues a separate warning for Mounjaro about risk of reduced effectiveness of contraceptionFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe medicines regulator has added two new safety warnings about mental health and contraception for people taking high-profile diabetes and weight loss drugs.While there is no proof of a causal association, experts say the risks are significant enough that awareness is important as part of a precautionary approach. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Startschuss für Jahresendrally im DAX?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-jahresendralley-euro-100.html",
+      "published": "2025-12-01T06:20:26",
+      "content": "   Die Anleger am deutschen Aktienmarkt hoffen in der neuen Woche auf eine Fortsetzung des jüngsten Aufwärtstrends. Analysten zufolge ist die Ausgangslage für eine Jahresendrally gegeben.[mehr]",
+      "content_length": 193,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Südkorea: Bei Onlinehändler Daten zu zwei Dritteln der Bevölkerung abgegriffen",
+      "link": "https://www.heise.de/news/Suedkorea-Bei-Onlinehaendler-Daten-zu-zwei-Dritteln-der-Bevoelkerung-abgegriffen-11097841.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-01T06:04:00",
+      "content": "Ein inzwischen nicht mehr Coupang arbeitender Angestellter soll bei Südkoreas größtem Onlinehändler Daten zur gesamten Kundschaft abgegriffen haben.",
+      "content_length": 148,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Live: Zelensky meets Macron in Paris to boost European support amid peace talks",
+      "link": "https://www.france24.com/en/europe/20251201-live-zelensky-meets-macron-in-paris-to-boost-european-support-amid-peace-talks",
+      "published": "2025-12-01T06:03:40",
+      "content": "Ukrainian President Volodymyr Zelensky meets French President Emmanuel Macron in Paris on Monday, seeking to bolster European support as US President Donald Trump expressed optimism about a potential peace deal to end Russia's war in Ukraine. The meeting follows talks in Florida between US and Ukrainian negotiators that both sides described as \"productive\". Follow our liveblog for the latest updates.",
+      "content_length": 403,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UK refrains from hitting high street on Black Friday as fears grow over economy",
+      "link": "https://www.theguardian.com/business/2025/dec/01/uk-shoppers-high-street-visits-black-friday-fears-economy",
+      "published": "2025-12-01T06:00:28",
+      "content": "Data comes as KPMG highlights soft consumer spending as one factor likely to hold back growth in 2026Shoppers held back from visiting high streets over Black Friday, data shows, amid fears weak consumer spending will put the brakes on economic growth in 2026.Visitors to all UK shopping destinations were down 2% on Friday and 7.2% compared with the equivalent days last year, according to the monitoring company MRI Software, with locations near central London offices among the few to experience a lift in visits. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "How the cuts have shaken HIV/Aids care to its core and will mean millions more infections ahead",
+      "link": "https://www.theguardian.com/global-development/2025/dec/01/global-health-hiv-aids-funding-cuts-infections-prevention",
+      "published": "2025-12-01T06:00:27",
+      "content": "Reports highlight devastating impact of slashed funding, especially in parts of Africa, that could lead to 3.3m new HIV infections by 2030In Mozambique, a teenage rape victim sought care at a health clinic only to find it closed. In Zimbabwe, Aids-related deaths have risen for the first time in five years. In Ethiopia and the Democratic Republic of the Congo (DRC), patients with suspected HIV went undiagnosed due to test-kit stocks running out.Stories of the devastating impact of US, British and wider European aid cuts on the fight against HIV – particularly in sub-Saharan Africa – continue to mount as 2025 comes to an end, and are set out in a series of reports released in the past week. Continue reading...",
+      "content_length": 717,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘I have been defeated’: hundreds of Palestinians face eviction from East Jerusalem",
+      "link": "https://www.theguardian.com/world/2025/dec/01/i-have-been-defeated-hundreds-of-palestinians-face-eviction-from-east-jerusalem",
+      "published": "2025-12-01T06:00:27",
+      "content": "Residents in Batn al-Hawa have all but given up hope and blame the Gaza war which, they say, has created ‘an atmosphere of hate’ towards themThe dome of the al-Aqsa mosque gleamed in the late afternoon autumnal sun as Zohair Rajabi looked out from his balcony towards the skyline of Jerusalem’s Old City. Christian pilgrims spilled out of buses, while observant Jewish worshippers gathered outside the gate to the Western Wall.New flags now fly a few metres from Rajabi’s home. Blue and white and bearing the Star of David, they mark where residents were evicted recently from their homes by Israeli police. After more than 20 years of activism, Rajabi knows his days in Batn al-Hawa, a predominantly Palestinian neighbourhood less than a mile south of the Old City, are almost certainly numbered. Continue reading...",
+      "content_length": 817,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Number of refugees allowed to settle in UK under UN schemes falls 26% in a year",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/01/number-of-refugees-allowed-to-settle-in-uk-under-un-schemes-falls-26-in-a-year",
+      "published": "2025-12-01T06:00:26",
+      "content": "Refugee Council says Home Office figures show safe and legal pathways are ‘disappearing when most needed’The number of refugees allowed to settle in the UK under UN-facilitated schemes has dropped by more than a quarter in a year, according to figures released by the Home Office.Just 7,271 people were granted protection through refugee resettlement programmes in the year ending September 2025, about half of whom were Afghans whose lives were at risk after an accidental data breach by a UK defence official. Continue reading...",
+      "content_length": 531,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Wiggles don’t condone drugs, spokesperson says after controversial TikTok video set to Ecstasy song",
+      "link": "https://www.theguardian.com/music/2025/dec/01/wiggles-tiktok-video-set-to-ecstasy-song-response",
+      "published": "2025-12-01T05:45:45",
+      "content": "Blue Wiggle Anthony Field and ‘Tree of Wisdom’ appeared in now-deleted video from singer Keli HolidayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Wiggles want to make one thing very clear: they do not condone the use of MDMA.After two of its members appeared in a controversial TikTok video, the group – which has entertained children around the world for decades – issued a statement on the weekend denying any suggestion it supports the use of drugs. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Podcast 15 Minuten: Drei Jahre ChatGPT, Ski und Alkohol, Rindfleisch",
+      "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten-afd-jugend-plastiktueten-trainersuche-102.html",
+      "published": "2025-12-01T05:42:27",
+      "content": "   Nach drei Jahren birgt ChatGPT weiter das Risiko von Falschinformationen. Im österreichischen Ski-Hotspot Sölden gilt jetzt ein Alkoholverbot. Und: Wer profitiert vom teuren Rindfleisch? Die Themen im Podcast 15 Minuten.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Wie mit Weihnachtsmärkten Meinung gemacht wird",
+      "link": "https://www.tagesschau.de/11km-podcast-weihnachtsmaerkte-100.html",
+      "published": "2025-12-01T05:31:54",
+      "content": "   Gerüchten zufolge müssen in Deutschland massenweise Weihnachtsmärkte abgesagt werden - wegen teurer Sicherheitskonzepte. Das stimmt nicht. Doch die Falschinformation machte international die Runde. 11KM zeigt, wie es dazu kam.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Glasfaserausbau: Warum viele Deutsche am Kupferkabel festhalten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/glasfaser-internet-deutsche-100.html",
+      "published": "2025-12-01T05:30:32",
+      "content": "   Wir streamen, surfen, zoomen - die Datenmengen steigen rasant. Dieses Tempo könnte Glasfaser liefern. Doch viele bleiben lieber bei DSL oder Kabel. Jetzt will die Bundesregierung gegensteuern. Von Kai-Hendrik Haß.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sri Lanka and Indonesia deploy militaries as Asia flood toll nears 1,000",
+      "link": "https://www.theguardian.com/world/2025/dec/01/asia-flood-sri-lanka-indonesia-deploy-military",
+      "published": "2025-12-01T05:30:16",
+      "content": "Separate weather systems brought torrential rainfall to Sri Lanka and large parts of Indonesia’s Sumatra, southern Thailand and northern Malaysia How cyclones and monsoon rains combined to devastate parts of Asia – visual guide Sri Lanka and Indonesia have deployed military personnel to help victims of devastating flooding that has killed nearly 1,000 people across four countries in Asia in recent days.Separate weather systems brought torrential, extended rainfall to the entire island of Sri Lanka and large parts of Indonesia’s Sumatra, southern Thailand and northern Malaysia last week. Continue reading...",
+      "content_length": 613,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Suche nach Friedensabkommen zwischen der Ukraine und Russland",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-krieg-russland-gespraeche-usa-100.html",
+      "published": "2025-12-01T05:29:21",
+      "content": "   Heute reist der US-Sondergesandte Witkoff nach Russland, um mit dem Kreml über den US-Plan für die Ukraine zu verhandeln. Drei Knackpunkte wurden am Wochenende bei einem US-Treffen mit ukrainischen Vertretern deutlich. Von M. Ganslmeier.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Old tensions simmer just below surface as Tusk and Merz to meet in Berlin",
+      "link": "https://www.theguardian.com/world/2025/dec/01/polish-german-leaders-meet-tensions-ukraine",
+      "published": "2025-12-01T05:00:27",
+      "content": "Ukraine will top agenda, but meeting comes as positive sentiment towards Germany in Poland hits near record lowsWhen the Polish and German governments meet on Monday for annual political talks in Berlin – the first since Friedrich Merz became chancellor – the headlines are likely to be dominated by Ukraine.Amid growing US pressure for a peace deal with Russia, Warsaw and Berlin will want to send a signal of support for Kyiv and of unity between central Europe’s largest – and militarily strongest – countries. Continue reading...",
+      "content_length": 533,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wood-burning stoves to face partial ban in Labour’s updated environment plan",
+      "link": "https://www.theguardian.com/environment/2025/dec/01/wood-burning-stoves-to-face-partial-ban-in-labours-updated-environment-plan",
+      "published": "2025-12-01T05:00:27",
+      "content": "Exclusive: Pollution targets set out alongside nature recovery projects to allay concerns over housebuildingWood-burning stoves are likely to face tighter restrictions in England under new pollution targets set as part of an updated environmental plan released by ministers on Monday.Speaking to the Guardian before the publication of the updated environmental improvement plan (EIP), the environment secretary, Emma Reynolds, said it would boost nature recovery in a number of areas, replacing an EIP under the last government she said was “not credible”. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rising levels of hate forcing women out of Swedish public life, says equality agency",
+      "link": "https://www.theguardian.com/world/2025/dec/01/harassment-and-hate-forcing-women-out-of-swedish-politics",
+      "published": "2025-12-01T05:00:26",
+      "content": "Country seen as champion of equal rights faces reckoning after senior politician says she felt compelled to quitIncreasing hate, threats and harassment against female politicians are scaring women away from public life and forcing them to censor themselves, the Swedish government’s equality agency has said, warning that this poses a “big threat to democracy.”Women’s safety in politics has come under heightened scrutiny in the Scandinavian country since October, when Anna-Karin Hatt resigned as leader of the Centre party after only five months in office, citing hate and threats. Continue reading...",
+      "content_length": 604,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Schools urged to trial four-day week to ease pressure on teachers in England and Wales",
+      "link": "https://www.theguardian.com/education/2025/dec/01/schools-urged-to-trial-four-day-week-to-ease-pressure-on-teachers-in-england-and-wales",
+      "published": "2025-12-01T05:00:25",
+      "content": "Advocacy group tells education secretary ‘working smarter’ can protect staff wellbeing and help studentsCampaigners have urged the government to pilot four-day working weeks in schools in England and Wales saying it would boost teacher wellbeing, retention and recruitment rates.The 4 Day Week Foundation has written to the education secretary calling for greater autonomy for schools to pilot shorter working weeks, saying the government will not be able to meet its manifesto pledge of recruiting 6,500 new teachers without change. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sri Lanka, Indonesia deploy military as regional floods leave more than 1,000 dead",
+      "link": "https://www.france24.com/en/asia-pacific/20251201-sri-lanka-indonesia-military-regional-floods-dead",
+      "published": "2025-12-01T04:03:23",
+      "content": "Sri Lanka and Indonesia deployed troops on Monday to assist survivors of severe flooding that has killed more than 1,000 people across four Asian countries. Torrential rains swept Sri Lanka, Indonesia’s Sumatra, southern Thailand and northern Malaysia last week, with separate weather systems unleashing days of intense, widespread downpours.",
+      "content_length": 342,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Deutsch-polnische Regierungskonsulationen in schwierigen Zeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-polen-regierungskonsulationen-100.html",
+      "published": "2025-12-01T03:27:56",
+      "content": "   Der Optimismus war groß, die Ernüchterung ist umso größer: Denn die deutsch-polnischen Beziehungen stecken fest. Ob die bevorstehenden Regierungskonsultationen neuen Schwung bringen, ist unklar. Von Martha Wilczynski. [mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sydney police charge four men over alleged ‘international satanic child sex abuse material ring’",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/01/sydney-police-charge-four-men-alleged-international-satanic-child-sex-abuse-material-ring-ntwnfb",
+      "published": "2025-12-01T02:48:04",
+      "content": "Detectives claim to have uncovered Sydney-based network involving online distribution of child sexual abuse material involving ritualistic or satanic themesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFour Australians remain locked up after being charged for alleged involvement in a satanic child sexual abuse material ring.Detectives busted an apparent Sydney-based pedophile network they claimed was actively involved in possessing, distributing and facilitating child sexual abuse involving ritualistic or satanic themes. Continue reading...",
+      "content_length": 613,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Weltweite Rüstungsumsätze erreichen laut SIPRI-Bericht Rekordhoch",
+      "link": "https://www.tagesschau.de/ausland/europa/sipri-umsatz-ruestung-waffen-100.html",
+      "published": "2025-12-01T02:00:14",
+      "content": "   Die weltweite Aufrüstung schreitet zügig voran und beschert den Rüstungsfirmen steigende Verkaufszahlen. Allein die vier größten deutschen Konzerne steigerten ihre Einnahmen laut dem neuen SIPRI-Bericht um mehr als ein Drittel. Von J. Sinram.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Der Verband der Familienunternehmer will Umgang mit der AfD ändern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/verband-familienunternehmer-afd-100.html",
+      "published": "2025-12-01T01:59:37",
+      "content": "   \"Es ist das Gegenteil von dem passiert, was wir wollten\", heißt es vom Verband der Familienunternehmer. Präsidentin Ostermann kündigte an, man werde den Umgang mit der AfD neu diskutieren. Der Verband distanziere sich klar von Extremisten.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump confirms call with Maduro, Venezuela slams US attack preparations",
+      "link": "https://www.france24.com/en/americas/20251201-trump-maduro-venezuela-us-attack",
+      "published": "2025-12-01T01:56:24",
+      "content": "US President Donald Trump said Sunday he had recently spoken with Venezuelan leader Nicolas Maduro as tensions surged, while Caracas accused Washington of preparing an attack. The United States has tightened pressure with a military buildup in the Caribbean, branding an alleged Maduro-run drug cartel a terrorist group, and warning that Venezuelan airspace is \"closed\".",
+      "content_length": 370,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "USA und Ukraine bekräftigen gemeinsame Ziele für Frieden",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-usa-gespraeche-100.html",
+      "published": "2025-12-01T01:09:02",
+      "content": "   Ob der Friedensplan auch zu einem Ende des Krieges führt, ist noch offen. Aber bei ihrem Treffen zeigten sich die Vertreter der USA und der Ukraine zuversichtlich. Nach den Gesprächen in Florida steht ein Treffen mit Putin in Russland an.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump confirms he recently spoke with Venezuela’s Nicolás Maduro",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/trump-nicolas-maduro-venezuela-call",
+      "published": "2025-12-01T00:16:10",
+      "content": "Trump remained tight-lipped on details of call with Venezuelan president as tensions rise between countriesDonald Trump confirmed on Sunday that he had spoken with Venezuelan president Nicolás Maduro, but he did not provide details on what the two leaders discussed.“I don’t want to comment on it. The answer is yes,” the US president said when asked if he had spoken with Maduro. He was speaking to reporters onboard Air Force One. Continue reading...",
+      "content_length": 452,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Special forces chief tried to cover up concerns about SAS conduct in Afghanistan, inquiry told",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/01/senior-british-army-cover-up-unlawful-killings-afghanistan-inquiry",
+      "published": "2025-12-01T00:01:19",
+      "content": "Whistleblower says chain of command failed to stop extrajudicial shootings, including of children, after alarm was raisedThe former director of UK special forces and other senior military officers tried to cover up concerns that SAS units were carrying out unlawful killings in Afghanistan, an inquiry has heard.A senior special forces whistleblower said the chain of command failed to stop extrajudicial shootings, including of two small children, after the alarm was first raised in early 2011. That failure allegedly allowed them to continue until 2013. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "World's arms makers post record $679 billion in sales as wars fuel demand, output lags",
+      "link": "https://www.france24.com/en/europe/20251130-world-arms-makers-679-billion-sales",
+      "published": "2025-11-30T23:56:44",
+      "content": "Sales by the world’s top 100 arms makers hit a record $679 billion last year, up 5.9% as wars in Ukraine and Gaza drove demand, researchers said on Monday, though production bottlenecks slowed deliveries. SIPRI said arms revenues have climbed 26% over the 2015–2024 period.",
+      "content_length": 273,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump invites families of national guard members who were shot to White House",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/trump-invites-white-house-national-guard-dc-shooting-victim-families",
+      "published": "2025-11-30T23:29:37",
+      "content": "President plans to honor Sarah Beckstrom, who was fatally shot, as well as Andrew Wolfe, who is in critical conditionDonald Trump said on Sunday that he invited the family of a national guard member fatally shot last week to the White House, adding that he spoke to her parents and they were “devastated”.US army specialist Sarah Beckstrom, 20, was killed in a shooting on Wednesday in Washington DC. Her fellow service member, US air force staff Sgt Andrew Wolfe, 24, remains hospitalized in critical condition. Vigils across West Virginia have taken place in their memory. Continue reading...",
+      "content_length": 594,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Data centers in Oregon might be helping to drive an increase in cancer and miscarriages",
+      "link": "https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage",
+      "published": "2025-11-30T23:17:08",
+      "content": "\n\n\n\t\n\t\t\n\nMorrow County, Oregon is home to mega farms and food processing plants. But it’s also home to several Amazon data centers. And now, some experts believe, that combination is leading to an alarmingly high concentration of nitrates in the drinking water that is driving up cancer and miscarriage rates in the area. \n\nRolling Stone’s exposé details how Amazon, despite not using any dangerous nitrates to cool its data centers, is accelerating the contamination of the Lower Umatilla Basin aquifer, which residents rely on for drinking water. It’s a combination of poor wastewater management, sandy soil, and good old physics that has led to nitrate concentrations in drinking water as high as 73 ppm (parts per million) in some wells, which is 10 times the state limit of 7 ppm and seven times the federal limit.\n\nAccording to Rolling Stone, “experts say Amazon’s arrival supercharged this process. The data centers suck up tens of millions of gallons of water from the aquifer each year to cool their computer equipment, which then gets funneled to the Port’s wastewater system.” The result is that more nitrate-laden wastewater gets pumped onto area farms. But the porous soil saturates quickly and more nitrates make their way into the aquifer.\n\nThis is exacerbated when Amazon then pulls this contaminated water, which is already over federal legal limits for nitrates, up to cool its data centers:\n\n\nWhen that tainted water moves through the data centers to absorb heat from the server systems, some of the water is evaporated, but the nitrates remain, increasing the concentration. That means that when the polluted water has moved through the data centers and back into the wastewater system, it’s even more contaminated, sometimes averaging as high as 56 ppm, eight times Oregon’s safety limit.\n\n\nAmazon, of course, disputes this narrative. Spokesperson Lisa Levandowski told Rolling Stone that, the story was “misleading and inaccurate,” and that, “the volume of water our facilities use and return represents only a very small fraction of the overall water system — not enough to have any meaningful impact on water quality.”\n\nLevandowski also said that the area’s groundwater problems “significantly predate AWS’ (Amazon Web Services) presence.” Though, if Amazon was aware of the area’s challenges in securing enough safe drinking water for its residents, it raises questions about why the company hasn’t done more to mitigate its impact or why it even chose Morrow County in the first place.\n\nThe rise in nitrates in the drinking water has been linked to a surge in rare cancers and miscarriages. But efforts to limit further contamination and provide residents with safe, clean drinking water have been slow to materialize. The limited scope of the response and the fact that 40 percent of the county&#8217;s residents live below the poverty line has drawn comparisons to the crisis in Flint, Michigan. Kristin Ostrom, executive director of Oregon Rural Action (ORA), a water rights advocacy group, told Rolling Stone, “These are people who have no political or economic power, and very little knowledge of the risk.”",
+      "content_length": 3138,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off",
+      "link": "https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday",
+      "published": "2025-11-30T22:23:06",
+      "content": "\n\n\n\t\n\t\t\n\nBlack Friday might have passed, but that doesn’t mean the holiday deals are gone. You can still find low prices on excellent TVs, streaming devices, and soundbars through Cyber Monday. I’ve found the best of these deals to level up your home theater setup, and make sure that your holiday season (and every day after) is filled with the best picture and sound quality for your space.\n\nCyber Monday usually offers great deals on products from last year, as retailers attempt to clear their inventory, but this year there’s also amazing pricing — more than I’ve seen in the past — on current models. And those prices are across all the major manufacturers, with deals on mini-LED (great for a bright room) or OLED and QD-OLED TVs, which deliver the best contrast you can get with a dynamic image. Atmos soundbars will send sounds zooming around your room, and streaming devices and disc players serve up your favorite content. Take a look at what I’ve lined up for you.\n\n\n\n\n\n\n4K TV dealsTV source and streaming device dealsSoundbar deals\n\n\n4K TV deals\nHisense U65QF TV (2025)\nWhile getting a high-end TV for $2,000 during Cyber Monday is great, not everyone wants to spend that much. The Hisense U6 might be an entry-level model, but it still offers great performance for the price — especially when that price is 50 percent off and under $400.\n\nWhere to Buy: $799.99 $397.99 at Amazon (55-inch) $799.99 $399.99 at Best Buy (55-inch) $847.99 $547.99 at Amazon (65-inch)Sony Bravia 8 II\nSony TVs don’t see the same level of discounts as competitors, so being able to save $1,000 or more on the winner of the Value Electronics “King of TV” 2025 shootout (where The Verge’s own Nilay Patel was a judge) is a huge opportunity. It’s a fantastic OLED TV that’s sure to please.\n\nWhere to Buy: $2999.99 $1998 at Amazon (55-inch) $2999.99 $1998 at B&amp;H Photo (55-inch) $3499.99 $2298 at Amazon (65-inch)\n\nIf you’re looking for a solid OLED TV, but don’t need the best of the best, the Samsung S90F is one of the best 65-inch TVs you can get for its sale price of $1,397.99 (down from about $1,600 last month) at Amazon and two dollars more at Best Buy. It might not be the brightest OLED of 2025 (for that, see the LG G5), but at a little over 1,400 nits, there’s plenty of light to combat a well-lit living space. The S90F is also very accurate and has excellent color gamut coverage, which translates to vibrant, lifelike colors. And for gamers, all four HDMI ports are version 2.1, the TV supports high refresh rates with FreeSync up to 144Hz for PC gaming, and its input lag is under 10ms.\n\nHisense U7 Series ULED TV (2025)\nIt’s always more immersive to watch TV and movies on a bigger screen, but up until the last few years that required a projector. Now, TVs like the 100-inch Hisense U7 deliver a brighter image than any projector ever could for a fraction of the cost.\n\nWhere to Buy: $3497.99 $2199.99 at Best Buy (100-inch) $3497.99 $2197.99 at Amazon (100-inch)TCL QM8K Series QD-Mini LED TV\nThe QM8K is one of the best (and brightest) mini-LED TVs of 2025. And a 65-inch model under $1,000 is an absolute steal.\n\nWhere to Buy: $3199.99 $1399.99 at Best Buy (75-inch) $1799.99 $899.99 at Best Buy (65-inch) $3799.99 $1799.99 at Best Buy (85-inch)\nTV source and streaming device deals\nGoogle TV Streamer (4K)\nGoogle&#8217;s terrific TV Streamer (4K) is the company’s best attempt at a streaming device yet, with built-in ethernet, an excellent interface, and smart home compatibility with both Matter and Thread. Read our review.\n\nWhere to Buy: $99.99 $74.99 at Amazon $99.99 $74.99 at Walmart $99.99 $74.99 at Best BuyAmazon Fire TV Stick 4K Max (2023)\nAmazon’s latest streaming stick is faster than its predecessor with Wi-Fi 6E and double the storage.  It also now displays widgets and artwork when idle while continuing to offer Alexa integration. Read our review.\n\nWhere to Buy: $59.99 $34.99 at Amazon $59.99 $34.99 at Best Buy $59.99 $34.99 at TargetRoku Ultra\nRoku’s latest Ultra streamer has built-in ethernet, a rechargeable voice remote with backlit buttons, and AirPlay 2 support. You can also control it with Amazon Alexa through a compatible smart speaker. The Roku Channel app lets you stream over 400 free live TV stations, plus exclusive movies like Weird: The Al Yankovic Story.\n\nWhere to Buy: $99.99 $68.99 at Amazon $99.99 $69.99 at Best Buy $99.99 $69.99 at B&amp;H Photo\n\nIt was a dark day in the AV world when Oppo stopped making its universal disc players, but in 2022, Magnetar filled that void with the release of the UDP800, and then the UDP900 in 2023. Both were lauded by enthusiasts. Magnetar is following them up with MKII versions of each model, which are shipping as of today. To celebrate, Magnetar is offering Cyber Monday sale pricing through its website: $1,599.99 for the UDP800 MKII ($200 off) and $2,999.99 for the UDP900 MKII ($300 off). While they might be expensive, if you’re a diehard audio and video fan with the means, there aren’t better players available.\n\n\nSoundbar deals\nSonos Arc Ultra\nThe Arc Ultra surpasses the original Arc soundbar with more immersive Dolby Atmos surround sound, much better bass, and the ability to play music over Bluetooth.\n\nWhere to Buy: $1099 $879 at Amazon $1099 $879 at Best Buy $1099 $879 at Sonos\n\nIn my opinion, upgrading your TV’s sound is an absolute must for a truly immersive home theater experience. And another single soundbar option that delivers surprisingly full sound and Atmos performance for its size is the Bose Smart Ultra Soundbar. It’s priced at $699 for Cyber Monday (that’s 22 percent off) at Amazon, Walmart, and Best Buy (where it’s $0.99 more). It sounds great with both movies and music, and has a nice slim profile that’s low enough for practically any TV.\n\n\n\nSometimes, for a secondary TV setup in a guest room or den, you just need something cheap that gets the job done. The Roku Streambar SE is just that. I wouldn’t use it as a main system, but if you want to improve the sound from a TV that you only use occasionally, the Streambar gets the job done. It’s narrow, so it fits well with smaller TV sizes, and includes wireless playback options. Not to mention, it doubles as a 4K HDR streaming stick, with HDMI-out. And during Cyber Monday, it’s only $75.04 (just under $25 off) at Amazon and Walmart.\n\nSonos Beam (second-gen)\nThe Sonos Beam (second-gen) is a compact soundbar that supports Dolby Atmos and can stream music from a plethora of services. Read our review.\n\nWhere to Buy: $499 $349 at Amazon $499 $349 at Best Buy $499 $349 at SonosSamsung Q990F Soundbar System\nIf you want to bring your home theater to the next level, the Samsung Q990F is the answer. The Q990 series has been at the top of best lists for years, and for good reason. It delivers an excellent Atmos experience with clear dialogue and booming bass to fully immerse you in whatever you&#8217;re watching.\n\nWhere to Buy: $1997.99 $1497.99 at Amazon $1999.99 $1499.99 at Best Buy\nUpdate, November 30th: Updated to reflect current pricing / availability and several new deals, including those for the second-gen Sonos Beam and Hisense U65QF TV.",
+      "content_length": 7141,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "African leaders push for recognition of colonial crimes and reparations",
+      "link": "https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations",
+      "published": "2025-11-30T21:40:48",
+      "content": "Algerian foreign minister says African countries and peoples continue to pay a heavy price for colonialismAfrican leaders are pushing to have colonial-era crimes recognised, criminalised and addressed through reparations.At a conference in the Algerian capital, Algiers, diplomats and leaders convened to advance an African Union resolution passed at a meeting earlier this year calling for justice and reparations for victims of colonialism. Continue reading...",
+      "content_length": 462,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thousands march in Croatia against far-right revival and WWII revisionism",
+      "link": "https://www.france24.com/en/europe/20251130-thousands-march-in-croatia-against-far-right-revival-and-wwii-revisionism",
+      "published": "2025-11-30T21:39:16",
+      "content": "Several thousand people rallied in Croatia’s capital on Sunday, denouncing the rise of far-right nationalism and attempts to glorify the country’s WWII pro-Nazi Ustasha regime. Similar marches took place in Rijeka, Pula and Zadar.",
+      "content_length": 230,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Papst Leo XIV. im Libanon: \"Wir hoffen, dass er den Frieden bringt\"",
+      "link": "https://www.tagesschau.de/ausland/asien/papst-libanon-104.html",
+      "published": "2025-11-30T21:15:06",
+      "content": "   Bei seinem Besuch im Libanon wird der Papst gefeiert wie ein Popstar. Viele Menschen in dem von Krisen und Kriegen erschüttertem Land  sehen im Oberhaupt der katholischen Kirche einen Friedensbotschafter. Von Anna Osius.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Looting reported as Indonesia and Sri Lanka battle deadly floods",
+      "link": "https://www.france24.com/en/asia-pacific/20251130-looting-reported-as-indonesia-and-sri-lanka-battle-deadly-floods",
+      "published": "2025-11-30T20:43:54",
+      "content": "Indonesian authorities said residents in flood-stricken Sumatra have looted shops for food and water as the death toll climbs to 442 and hundreds remain missing, while Sri Lanka reported at least 193 dead after days of torrential rains and mudslides.",
+      "content_length": 250,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "NRW-Ministerpräsident appelliert vor Abstimmung über Rentenpaket an Abgeordnete",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wuest-bab-renten-100.html",
+      "published": "2025-11-30T19:24:20",
+      "content": "   In dieser Woche stimmt der Bundestag über das Rentenpaket ab. Für eine Mehrheit braucht die Koalition aber die Stimmen der \"Jungen Gruppe\". Die hält sich bislang bedeckt. NRW-Ministerpräsident Wüst appellierte an deren \"Gesamtverantwortung\".[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "My favorite snore-blocking sleepbuds are down to a new low price for Cyber Monday",
+      "link": "https://www.theverge.com/gadgets/834099/anker-soundcore-sleep-a20-snore-blocking-earbuds-lowest-price-cyber-monday",
+      "published": "2025-11-30T19:18:09",
+      "content": "\n\n\n\t\n\tThese slimline earbuds can help side-sleepers get more shut-eye.\t\n\nAnker’s seriously small Soundcore Sleep A20 sleepbuds can be nabbed for $108 right now at Amazon, their best price since they launched on Kickstarter at $90 last year. They normally sell for $179.99, making this a standout deal for a pair of ultra-tiny sleep buds that I barely notice as I drift off to the soothing sounds of rain or birdsong.\nAnker Soundcore Sleep A20\nAnker’s Soundcore Sleep A20 are sleep buds that block external sounds, allow you to play Bluetooth audio and white noise, and track your sleep. Read our review.\n\nWhere to Buy: $179.99 $107.99 at Amazon $179.99 $107.99 at Best Buy\nI’ve had mine since they launched in 2024 and wear them almost every night. I love that they include built-in soundscapes, so I don’t need to keep my phone nearby. But with a quick tap, they switch into standard Bluetooth earbuds if I decide I’d rather fall asleep to The Tortured Poets Department streaming from my phone.\n\nThis year, Anker released an active noise-canceling model, the A30, which is also on sale for $179.99 at Amazon (down from $229). While ANC would certainly help block out more noise, the battery-life hit that my colleague Thomas Ricker noted in his review makes me perfectly content with my A20s. They can last up to 14 hours, compared to six to nine hours on the A30s. Sleep buds are useless if they’re dead. And while I can still hear my husband snoring with the A20s, they muffle it enough that it fades into background noise instead of keeping me up.\n\n",
+      "content_length": 1553,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods",
+      "link": "https://www.theguardian.com/world/2025/nov/30/indonesia-thailand-floods",
+      "published": "2025-11-30T18:37:29",
+      "content": "Officials in Indonesia say more than 442 people have died, while Sri Lanka suffers worst natural disaster since 2004 tsunami Authorities in Sri Lanka, Indonesia and Thailand are racing to clear debris and find hundreds of missing people after more than 900 died in devastating floods and landslides across the south of Asia.In the latest example of the impact of the climate crisis on storm patterns and extreme weather, heavy monsoon rains, exacerbated by a tropical storm, have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies. Continue reading...",
+      "content_length": 627,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainian and US officials meet in Florida to discuss proposals to end Russia’s war",
+      "link": "https://www.theguardian.com/world/2025/nov/30/ukrainian-and-us-officials-talks-florida-russia-war",
+      "published": "2025-11-30T18:20:51",
+      "content": "Marco Rubio, Steve Witkoff and Jared Kushner meet Kyiv delegation amid more deadly Russian attacks in UkraineUkrainian negotiators have met US officials in Florida to thrash out details of Washington’s proposed framework to end Russia’s war in Ukraine, as Kyiv faces pressure on military and political fronts.The secretary of state, Marco Rubio; the special envoy, Steve Witkoff; and Jared Kushner, Donald Trump’s son-in-law; sat down with a Ukrainian delegation on Sunday before planned US talks this week in Moscow with Vladimir Putin. Continue reading...",
+      "content_length": 557,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo urges Lebanese leaders to make peace highest priority",
+      "link": "https://www.theguardian.com/world/2025/nov/30/pope-leo-urges-lebanese-leaders-make-peace-highest-priority",
+      "published": "2025-11-30T18:09:12",
+      "content": "Pontiff tells politicians and religious heads they must persevere with peace efforts despite facing ‘highly complex, conflictual’ situationPope Leo has urged political leaders in Lebanon to make peace their highest priority in a forceful appeal as he is visiting the country, which remains a target of Israeli airstrikes, on the second leg of his first overseas trip as Catholic leader.Leo, the first US pope, arrived in Beirut on Sunday from a four-day visit to Turkey where he said that humanity’s future was at risk because of the world’s unusual number of bloody conflicts, and condemned violence in the name of religion. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "California police search for suspect who killed four including three children at family party",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/stockton-banquet-hall-shooting-california",
+      "published": "2025-11-30T18:08:41",
+      "content": "Victims who died in Stockton attack reportedly between ages eight and 21, while 11 others were woundedPolice are searching for the suspect who killed four people, including three children, and injured 11 in a shooting at a family gathering in Stockton, California, on Saturday night – and they are appealing to the public for any tips people may have.“If you have surveillance footage, if you’re a local business here, if you’re in the area, live in the area, or maybe you’ve heard rumors – please contact the sheriff’s office,” said Heather Brent, a spokesperson for the San Joaquin county sheriff’s office. Continue reading...",
+      "content_length": 628,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Winter storm brings foot of snow to midwest over busiest US travel weekend",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/midwest-winter-storm-thanksgiving-travel",
+      "published": "2025-11-30T17:49:10",
+      "content": "Plane skidded off runway and 45 cars were piled up as 53 million were under winter weather alerts over ThanksgivingA Thanksgiving weekend storm system brought over a foot of snow and strong winds across the US midwest and thunderstorms across the south, as 53 million people from South Dakota to New York were under winter weather alerts.Over the weekend, ahead of one of the busiest travel days of the year on Sunday, a 45-car pile-up occurred on interstate 78 in Indiana and a Delta Air Lines plane skidded off the runway in Des Moines, Iowa, during landing. Continue reading...",
+      "content_length": 580,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel’s Netanyahu seeks pardon to end corruption trial",
+      "link": "https://www.france24.com/en/video/20251130-israel-s-netanyahu-seeks-pardon-to-end-corruption-trial-1",
+      "published": "2025-11-30T16:43:28",
+      "content": "Israeli Prime Minister Benjamin Netanyahu asked the country’s president on Sunday for a pardon in his long-running corruption trial, arguing that the criminal proceedings were hindering his ability to govern and that a pardon would be good for Israel. Under Israeli law, however, the president does not have the power to pardon someone who is not a convicted criminal, FRANCE 24’s Noga Tarnopolsky said, noting that no verdict has yet been rendered on Netanyahu, who is actively seeking to prevent his trial from reaching its conclusion.",
+      "content_length": 537,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kristi Noem claims suspect in national guard shooting was ‘radicalized’ in US",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/kristi-noem-national-guard-shooting-deportation-flights",
+      "published": "2025-11-30T16:29:57",
+      "content": "Homeland security secretary also blamed ‘activist’ judges for defying court order to halt deportation flightsKristi Noem, the homeland security secretary, claimed on Sunday that the suspect in the national guard shooting in Washington DC was “radicalized” in the US and blamed the Biden administration, though the suspect’s asylum was approved under Donald Trump.The shooting suspect, 29-year-old Rahmanullah Lakanwal, was granted asylum under the Trump administration in April 2025. He worked with CIA backed units in Afghanistan, coming to the US in September 2021 under an Operation Allies Welcome program. Continue reading...",
+      "content_length": 629,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Dignitas founder ends his own life through assisted death",
+      "link": "https://www.theguardian.com/society/2025/nov/30/dignitas-founder-ludwig-minelli-assisted-death",
+      "published": "2025-11-30T16:08:51",
+      "content": "Ludwig Minelli, whose work had lasting influence on Swiss law, dies just days before his 93rd birthdayThe head of the Swiss right-to-die organisation Dignitas has ended his life through an assisted death, the group has said.Ludwig Minelli, who founded the group in 1998, died on Saturday, days before his 93rd birthday, Dignitas said. It added: “Right up to the end of his life, he continued to search for further ways to help people to exercise their right to freedom of choice and self-determination in their ‘final matters’ – and he often found them.” Continue reading...",
+      "content_length": 574,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "History buffs flock to Czech Republic to re-enact Napoleon’s Austerlitz triumph",
+      "link": "https://www.france24.com/en/video/20251130-history-buffs-flock-to-czech-republic-to-re-enact-napoleon-s-austerlitz-triumph",
+      "published": "2025-11-30T16:01:56",
+      "content": "Thousands of history buffs from across Europe gather each year in the Czech Republic to commemorate the Battle of Austerlitz, Napoleon’s victory over Russian and Austrian forces. Cannons and guns blazing, enthusiasts re-enact battle scenes from a campaign first fought more than 200 years ago.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Korruptionsprozess in Israel: Netanjahu bittet um Begnadigung",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-antrag-begnadigung-100.html",
+      "published": "2025-11-30T15:56:01",
+      "content": "   Im Korruptionsprozess gegen den israelischen Premier geht es um teuren Schmuck, Zigarren und Champagner. Nun bittet er Präsident Herzog um eine Begnadigung - und begründet es mit der Sorge um Israel. Von Ivo Marusczyk.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "3 years of ChatGPT: China surges, Europe retreats, and we all drown in AI slop",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20251130-3-years-of-chatgpt-china-surges-europe-retreats-and-we-all-drown-in-ai-slop",
+      "published": "2025-11-30T15:19:12",
+      "content": "With the launch of ChatGPT three years ago to the day, it looked like America had won the next major technology race before it had even started. But the landscape has shifted dramatically. China is overtaking the United States in open-source models, Europe is walking back its regulatory ambitions, and the internet is drowning in AI-generated rubbish.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thousands rally in Madrid to demand snap election over corruption allegations",
+      "link": "https://www.theguardian.com/world/2025/nov/30/thousands-rally-in-madrid-to-demand-pm-resign-over-corruption-allegations",
+      "published": "2025-11-30T15:15:27",
+      "content": "Pressure grows on Pedro Sánchez amid series of claims involving his family, party and administrationTens of thousands of people have attended an anti-government demonstration in Madrid to demand a snap general election as the country’s socialist prime minister, Pedro Sánchez, tries to weather a series of corruption allegations involving his family, his party and his administration.Sunday’s protest, called by Spain’s conservative People’s party (PP) under the slogan, “This is it: mafia or democracy?”, was held three days after one of Sánchez’s closest erstwhile allies, the former transport minister José Luis Ábalos, was remanded in custody by a judge investigating an alleged kickbacks-for-contracts scheme. Continue reading...",
+      "content_length": 734,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Parteitag von Bündnis 90/Grüne: \"Opposition ist nicht nur Mist\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruenen-parteitag-154.html",
+      "published": "2025-11-30T15:15:01",
+      "content": "   Nach dem Ende der Ampelkoalition haben die Grünen auf ihrem Bundesparteitag versucht, sich neu zu verorten. Mit Forderung nach einem sozial verträglichen Klimaschutz und dem Neun-Euro-Ticket will man raus aus dem Elf-Prozent-Tal. Von Sabine Henkel.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump grants clemency to executive convicted in fraud scheme – report",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/trump-grants-clemency-executive-convicted-fraud-scheme",
+      "published": "2025-11-30T14:55:11",
+      "content": "David Gentile had just begun to serve a seven-year sentence for role in $1.6bn scheme that defrauded thousands Donald Trump granted clemency to private equity executive David Gentile, who had just begun a seven-year prison sentence for what prosecutors described as a $1.6bn fraud scheme, reported the New York Times.The founder and former Chief Executive Officer (CEO) of GPB Capital, 59 year old Gentile was convicted and sentenced in May to seven years in prison for his role in defrauding thousands of individual investors. Continue reading...",
+      "content_length": 547,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hondurans vote amid Trump threat to cut aid if his preferred candidate loses",
+      "link": "https://www.theguardian.com/world/2025/nov/30/honduras-vote-election-trump-threat-cut-aid-if-nasry-tito-asfura-loses",
+      "published": "2025-11-30T14:31:59",
+      "content": "US president favours Nasry ‘Tito’ Asfura of rightwing National party, as polls show three candidates are neck-and-neckHondurans have begun voting in an election held amid threats by Donald Trump to cut aid to the country if his preferred candidate loses.Honduras could be the next country in Latin America, after Argentina and Bolivia, to swing right after years of leftwing rule. Continue reading...",
+      "content_length": 400,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "PKK urges Turkey to free Ocalan, warns peace process will halt",
+      "link": "https://www.france24.com/en/middle-east/20251130-pkk-urges-turkey-to-free-ocalan-warns-peace-process-will-halt",
+      "published": "2025-11-30T14:21:55",
+      "content": "The Kurdistan Workers’ Party (PKK) will take no further steps in indirect talks with Turkey as long as its founder Abdullah Ocalan remains imprisoned, said a senior commander. Since talks began last year, the PKK has complied with several peace process steps as Turkey prepares a legal framework for the group’s political integration.",
+      "content_length": 334,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Schweizer stimmen gegen Steuer für Superreiche",
+      "link": "https://www.tagesschau.de/ausland/europa/volksabstimmung-schweiz-106.html",
+      "published": "2025-11-30T14:07:13",
+      "content": "   Die Schweizer Jungsozialisten wollten Superreiche zur Kasse bitten und aus den Einnahmen Klimaschutzmaßnahmen finanzieren. Doch die Initiative fiel in der Volksabstimmung durch - ebenso das Vorhaben \"Bürgerdienst für alle\".[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US stops processing visas for Afghan allies: Tens of thousands likely to be affected",
+      "link": "https://www.france24.com/en/video/20251130-us-stops-processing-visas-for-afghan-allies-tens-of-thousands-likely-to-be-affected",
+      "published": "2025-11-30T14:05:15",
+      "content": "The Trump administration has halted all asylum decisions and paused issuing visas for people traveling on Afghan passports, seizing on the National Guard shooting in the nation's capital to intensify efforts to rein in legal immigration. The move may impact the around 190,000 Afghans who were evacuated by Washington during Operation Allies Welcome and Operation Enduring Welcome, Beth Bailey, host of The Afghanistan Project Podcast. Bailey added that those most likely to be affected by the decision are the \"125,000 Afghans who are still attempting to get an SIV, Special Immigrant Visas, or the 85,000 individuals who are in the US refugee admissions programme and are overseas waiting for help.\"",
+      "content_length": 701,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "More than 670 NSW pokies venues to be stripped of ability to stay open after 4am",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/01/more-than-670-nsw-pokies-venues-to-be-stripped-of-ability-to-stay-open-after-4am",
+      "published": "2025-11-30T14:00:12",
+      "content": "Exclusive: Government to end exemptions to mandated closing times for pubs and clubs, including those that allow 24/7 gamblingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMore than 670 poker machine venues across New South Wales will lose their “outdated exemptions” to operate after 4am as the state government responds to pressure to address “a public health catastrophe”.The decision, announced by the state’s gaming minister David Harris, will ensure gaming rooms are closed at the mandated 4am deadline. Some venues are allowing them to be played 24/7. Continue reading...",
+      "content_length": 645,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Benjamin Netanyahu asks Israel’s president for pardon in corruption case",
+      "link": "https://www.theguardian.com/world/2025/nov/30/benjamin-netanyahu-asks-israel-president-isaac-herzog-for-pardon-corruption-case",
+      "published": "2025-11-30T13:04:17",
+      "content": "Request is submitted weeks after Donald Trump called on Isaac Herzog to pardon Israeli prime ministerBenjamin Netanyahu has asked Israel’s president for a pardon for bribery and fraud charges and an end to a five-year corruption trial, arguing that it would be in the “national interest”.Isaac Herzog’s office acknowledged receipt of the 111-page submission from the prime minister’s lawyer, and said it had been passed on to the pardons department in the ministry of justice. The president’s legal adviser would also formulate an opinion before Herzog made a decision, it added. Continue reading...",
+      "content_length": 599,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Revisiting Jill of the Jungle, the last game Tim Sweeney designed",
+      "link": "https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/",
+      "published": "2025-11-30T12:10:21",
+      "content": "Boy, was 1992 a different time for computer games. Epic MegaGames’ Jill of the Jungle illustrates that as well as any other title from the era. Designed and programmed by Epic Games CEO Tim Sweeney, the game was meant to prove that console-style games of the original Nintendo era could work just as well on PCs. (Later, the onus of proof would often be in the reverse direction.)\nAlso, it had a female protagonist, which Sweeney saw as a notable differentiator at the time. That’s pretty wild to think about in an era of Tomb Raider‘s Lara Croft, Horizon Forbidden West‘s Aloy, Life is Strange‘s Max Caulfield, Returnal‘s Selene Vassos, Control‘s Jesse Faden, The Last of Us‘ Ellie Williams, and a seemingly endless list of others—to say nothing of the fact that many players of all genders who played the games Mass Effect and Cyberpunk 2077 seem to agree that the female protagonist options in those are more compelling than their male alternatives.\nAs wacky as it is to remember that the idea of a female character was seen as exceptional at any point (and with the acknowledgement that this game was nonetheless not the first to do that), it’s still neat to see how forward-thinking Sweeney was in many respects—and not just in terms of cultural norms in gaming.Read full article\nComments",
+      "content_length": 1293,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Netanjahu bittet Präsidenten um Begnadigung in Korruptionsprozess",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-antrag-begnadigung-100.html",
+      "published": "2025-11-30T12:03:51",
+      "content": "   Seit Jahren läuft ein Korruptionsprozess gegen Israels Premier Netanjahu. Ihm wird etwa die Annahme von Geschenken vorgeworfen. Er bestreitet das - und will das Verfahren jetzt per Begnadigung stoppen. Was macht der Präsident?[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Was mit leer stehenden Gebäuden passiert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienmarkt-erbe-schrottimmobilien-100.html",
+      "published": "2025-11-30T11:44:39",
+      "content": "   Leer stehende, heruntergekommene Gebäude aus der Gründerzeit oder verwahrloste Mietskasernen sind nicht nur in Großstädten ein Problem. Auch auf dem Land sind sie eine Herausforderung für Kommunen. Von M. Reher und A. Hahn.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Palestinians battle harsh weather as winter arrives in Gaza",
+      "link": "https://www.france24.com/en/video/20251130-palestinians-battle-harsh-weather-as-winter-arrives-in-gaza",
+      "published": "2025-11-30T11:33:23",
+      "content": "Palestinians in Gaza are again fighting for survival as a harsh winter cold sweeps the enclave. With many families confined to tents, residents are struggling to stay warm while essential supplies remain critically scarce.",
+      "content_length": 222,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israeli PM Netanyahu turns to president for pardon in ongoing trial",
+      "link": "https://www.france24.com/en/video/20251130-israeli-pm-netanyahu-turns-to-president-for-pardon-in-ongoing-trial",
+      "published": "2025-11-30T11:31:18",
+      "content": "Israeli Prime Minister Benjamin Netanyahu has asked Israel’s president to grant him a pardon amid his long-running corruption trial, which has bitterly divided the country. After requesting multiple delays in the proceedings, Netanyahu has put himself in what FRANCE 24’s Noga Tarnopolsky described as a “paradoxical situation.” He previously persuaded the Supreme Court to allow him to run for office, yet now argues it is impossible for him to testify while leading the country, Tarnopolsky said, reporting from Jerusalem.",
+      "content_length": 524,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Death toll in Hong Kong housing estate fire rises to 146 as the city grieves",
+      "link": "https://www.france24.com/en/asia-pacific/20251130-death-toll-in-hong-kong-housing-estate-fire-rises-to-146-as-the-city-grieves",
+      "published": "2025-11-30T11:00:14",
+      "content": "The death toll from a devastating fire at a Hong Kong apartment complex blaze rose to at least 146 on Sunday as more bodies were recovered from the charred remains of the Wang Fuk Court buildings. More than a thousand people queued near the housing complex on Sunday to pay tribute to the victims.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netanyahu seeks pardon from Israeli president in corruption case",
+      "link": "https://www.france24.com/en/live-news/20251130-netanyahu-asks-israeli-president-to-grant-him-pardon-from-corruption-charges",
+      "published": "2025-11-30T10:52:06",
+      "content": "Israeli Prime Minister Benjamin Netanyahu on Sunday submitted a formal pardon request in his long-running corruption cases to the Israeli presidential office. The extraordinary appeal is now under review by President Isaac Herzog, whose office said the decision carries “significant implications.” Dozens of protesters demonstrated outside Herzog's private home in Tel Aviv, urging him to reject Netanyahu's request.",
+      "content_length": 416,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump officials to sit down with Ukrainian negotiators in Florida",
+      "link": "https://www.france24.com/en/video/20251130-trump-officials-to-sit-down-with-ukrainian-negotiators-in-florida",
+      "published": "2025-11-30T10:45:32",
+      "content": "Top Trump administration officials including Secretary of State Marco Rubio, Special Envoy Steve Witkoff are meeting Ukrainian negotiators in Florida this weekend. The meeting comes after the resignation of Ukraine's top negotiator and chief of staff, Andrii Yermak, due to an anti-graft probe. FRANCE 24's Gulliver Cragg brings you the latest.",
+      "content_length": 344,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong mourns as apartment fire death toll rises to 146",
+      "link": "https://www.theguardian.com/world/2025/nov/30/hong-kong-mourns-as-apartment-blaze-death-toll-rises",
+      "published": "2025-11-30T10:42:28",
+      "content": "Rescue teams find more bodies in burnt-out buildings of Wang Fuk Court complex after Wednesday’s fireThe death toll in Hong Kong’s apartment complex fire has risen to 146 after investigators discovered more bodies in the burnt-out buildings. A steady stream of people placed bouquets of flowers at an ever-growing makeshift memorial at the scene of the disaster, among the worst in the city’s history.The Hong Kong police’s disaster victim identification unit has been going through the buildings of the Wang Fuk Court complex meticulously and has found bodies both in apartment units and on the roofs, the officer in charge, Cheng Ka-chun, said on Sunday. Continue reading...",
+      "content_length": 676,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Solingen und Aachen: Polizeigroßeinsatz in der Tuningszene",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizei-tuning-100.html",
+      "published": "2025-11-30T10:40:00",
+      "content": "   200 Menschen gingen auf einen Polizeiwagen los, laut Angaben der Beamten gab es eine Bedrohungslage: In Solingen hat die Polizei nach Ausschreitungen ein Tuningtreffen aufgelöst. Auch in Aachen mussten Einsatzkräfte ausrücken.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ligue 1: PSG fall to Monaco (1-0) as Marseille fail to capitalise",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251130-ligue-1-psg-fall-to-monaco-1-0-as-marseille-fail-to-capitalise",
+      "published": "2025-11-30T10:13:44",
+      "content": "Stunned 1-0 by Monaco on Saturday at the Stade Louis-II, Paris Saint-Germain suffered their second league defeat of the season on Matchday 14. Marseille, held 2-2 in dramatic fashion by Toulouse, squandered the chance to climb back to the top of Ligue 1.",
+      "content_length": 254,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sri Lanka reels from Cyclone Ditwah as death toll nears 200",
+      "link": "https://www.france24.com/en/video/20251130-sri-lanka-reels-from-cyclone-ditwah-as-death-toll-nears-200",
+      "published": "2025-11-30T10:00:44",
+      "content": "Entire areas of Sri Lanka's capital were flooded on Sunday after a powerful cyclone triggered heavy rains and mudslides across the island, with authorities reporting nearly 200 dead and dozens more missing. Officials said the extent of the damage in the country's worst-affected central region was only just being revealed as relief workers cleared roads blocked by fallen trees and mudslides.",
+      "content_length": 393,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hondurans to elect new president in tight race overshadowed by Trump",
+      "link": "https://www.france24.com/en/video/20251130-hondurans-to-elect-new-president-in-tight-race-overshadowed-by-trump",
+      "published": "2025-11-30T09:58:27",
+      "content": "Hondurans will elect a new president Sunday while still grappling with U.S. Donald Trump’s sudden intervention in what was expected to be a close contest, the latest signal of the United States’ renewed interest in Latin America. Among the five presidential candidates on the ballot, polls indicated three had a chance to win and were finishing in close competition.",
+      "content_length": 366,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Rubio and Witkoff to meet with Ukraine's negotiators in Florida",
+      "link": "https://www.france24.com/en/video/20251130-rubio-and-witkoff-to-meet-with-ukraine-s-negotiators-in-florida",
+      "published": "2025-11-30T09:53:40",
+      "content": "Top Trump administration officials are meeting Ukrainian negotiators in Florida this weekend, pushing to broker an end to Russia's war in Ukraine and setting the stage for key talks planned this week in Moscow with Russian leader Vladimir Putin, Secretary of State Marco Rubio, Special Envoy Steve Witkoff and Jared Kushner, the son-in-law of US President Donald Trump, were expected to sit down with a Ukrainian delegation to further hash out the details of a proposed peace framework.",
+      "content_length": 486,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Was sich im Dezember ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neu-ab-dezember-112.html",
+      "published": "2025-11-30T09:47:32",
+      "content": "   Ab Dezember wird die Rente nur noch auf ein Bankkonto ausgezahlt. Bis Ende des Jahres muss die Nebenkostenabrechnung für 2024 zugestellt werden. Und: Ab Mitte des Monats gilt bei der Deutschen Bahn ein neuer Fahrplan.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Haitis Banden und ihre Waffen aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/haiti-waffenschmuggel-100.html",
+      "published": "2025-11-30T09:45:22",
+      "content": "   Der Staat hat das Gewaltmonopol in großen Teilen Haitis verloren, die Hauptstadt wird von Banden kontrolliert. Sie sichern sich ihre Macht mit Waffen - die vor allem aus den USA kommen. Von M.-K. Boese und A. Demmer.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The week in pictures: Hong Kong blaze, Pope Leo visits Istanbul's Blue Mosque and Thailand floods",
+      "link": "https://www.france24.com/en/asia-pacific/20251130-the-week-in-pictures-a-deadly-blaze-in-hong-kong-pope-leo-s-visits-istanbul-s-blue-mosque-and-massive-floods-in-thailand",
+      "published": "2025-11-30T09:39:00",
+      "content": "A Hong Kong apartment complex went up in flames killing at least 148 people in one of the city's deadliest fires, Guinea-Bissau's junta formed a government days after taking power in a coup and Pope Leo XIV made a high-profile visit to Istanbul's Blue Mosque. FRANCE 24 looks back at the week's most striking images.",
+      "content_length": 316,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Weihnachtsbacken wird dieses Jahr billiger",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbacken-zutaten-butter-zucker-preise-100.html",
+      "published": "2025-11-30T09:29:23",
+      "content": "   Deflation in der Weihnachtsbäckerei: Die Preise für wichtige Backzutaten sind zuletzt drastisch gefallen. Woran das liegt - und warum das nicht für alle eine gute Nachricht ist, erklärt Angela Göpfert.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sri Lanka’s capital hit by floods as cyclone death toll nears 200",
+      "link": "https://www.theguardian.com/world/2025/nov/30/sri-lanka-capital-colombo-hit-by-floods-as-cyclone-death-toll-rises",
+      "published": "2025-11-30T09:28:31",
+      "content": "Hundreds of people still missing after heavy rain and mudslides in country’s deadliest natural disaster for yearsEntire areas of Sri Lanka’s capital are flooded after a powerful cyclone triggered heavy rains and mudslides across the island, with authorities reporting nearly 200 dead and dozens more missing.Officials said the extent of the damage in the country’s worst-affected central region was slowly becoming clear on Sunday as relief workers cleared roads blocked by fallen trees and mudslides. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie eine Dorfbaumanagerin das Landleben umkrempelt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/dorfumbau-managerin-100.html",
+      "published": "2025-11-30T09:28:06",
+      "content": "   In den Städten ist Wohnraum knapp und teuer, in vielen Dörfern stehen ganze Häuser leer. Eine Gemeinde in Rheinland-Pfalz will gegensteuern und gezielt junge Menschen für ein Haus auf dem Land begeistern. Von Oliver Bemelmann.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "USA und Ukraine besprechen 28-Punkte-Plan für Kriegsende",
+      "link": "https://www.tagesschau.de/ausland/europa/usa-ukraine-verhandlungen-kriegsende-100.html",
+      "published": "2025-11-30T08:47:03",
+      "content": "   Wie geht es mit dem US-Plan zur Beendigung des russischen Angriffskriegs weiter? In Florida treffen sich Vertreter der Ukraine und der USA. Auch der Trump-Schwiegersohn ist dabei. Selenskyj gibt sich optimistisch.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Too many cooks? Trump’s growing army of Ukraine negotiators",
+      "link": "https://www.france24.com/en/americas/20251130-too-many-cooks-trump-growing-army-ukraine-negotiators-rubio-witkoff",
+      "published": "2025-11-30T08:45:59",
+      "content": "With the quartet of Marco Rubio, Steve Witkoff, Jared Kushner and Daniel Driscoll, US President Donald Trump’s team of negotiators pushing for peace in Ukraine seems to be growing by the minute. And they are all throwing their own ideas and strategies into the mix. Facing them is Russian President Vladimir Putin's trusted aide Kirill Dmitriev, whose diplomatic one-man show has steadfastly advanced the Kremlin’s demands.",
+      "content_length": 423,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Studie zeigt entscheidende Phasen der Hirnentwicklung",
+      "link": "https://www.tagesschau.de/wissen/forschung/hirnentwicklung-100.html",
+      "published": "2025-11-30T07:50:07",
+      "content": "   Das menschliche Gehirn entwickelt sich laut einer neuen Studie in vier Phasen. Diese Phasen geben Hinweise darauf, wann das Gehirn besonders leistungsfähig oder besonders verletzlich ist. Von Ulrike Till.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tel Aviv: Wohl letzte Kundgebung auf dem \"Platz der Geiseln\"",
+      "link": "https://www.tagesschau.de/ausland/asien/kundgebung-tel-aviv-112.html",
+      "published": "2025-11-30T07:13:40",
+      "content": "   \"Bring them home!\" - dieser Ruf ging jahrelang vom \"Platz der Geiseln\" in Tel Aviv aus. Eine eigene Gedenkkultur entwickelte sich. Nach der Rückkehr fast aller Verschleppten steht ein Wandel an - aber welcher? Von Ivo Marusczyk.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
