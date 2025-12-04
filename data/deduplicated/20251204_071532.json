@@ -1,0 +1,1355 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-04T07:15:32.210921",
+    "deduplicated_at": "2025-12-04 07:15:32",
+    "lookback_days": 7,
+    "total_input": 1077,
+    "duplicates_removed": 928,
+    "new_articles": 149,
+    "deduplication_rate": "86.2%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "\"Damascus Dossier\" - Geheimdokumente könnten bei Strafverfolgung gegen Syriens Assad-Regime helfen",
+      "link": "https://www.deutschlandfunk.de/geheimdokumente-koennten-bei-strafverfolgung-gegen-syriens-assad-regime-helfen-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Rund ein Jahr nach dem Sturz des Assad-Regimes in Syrien haben Medien einen großen Datensatz ausgewertet, der zur Identifizierung von Opfern beitragen sowie die Strafverfolgung erleichtern soll. Wie NDR, WDR, Süddeutsche Zeitung und internationale Partner berichten, sollen die 130.000 Fotos und Dokumente vor allem Leichen von Gefangenen zeigen.",
+      "content_length": 346,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Identität weiterer Leiche einer Geisel bestätigt - Raketenangriff auf Gazastreifen mit Toten",
+      "link": "https://www.deutschlandfunk.de/identitaet-weiterer-leiche-einer-geisel-bestaetigt-raketenangriff-auf-gazastreifen-mit-toten-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Die militant-islamistische Hamas und die mit ihr verbündete Dschihadisten-Gruppierung Islamischer Dschihad haben Israel die weitere Leiche einer Geisel überstellt. Das Rote Kreuz übergab sie der israelischen Polizei.",
+      "content_length": 216,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rentenpaket - Wüst (CDU) erwartet eigene Mehrheit der Koalition",
+      "link": "https://www.deutschlandfunk.de/wuest-cdu-erwartet-eigene-mehrheit-der-koalition-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Der nordrhein-westfälische Ministerpräsident Wüst hat sich zuversichtlich gezeigt, dass das Rentenpaket im Bundestag mit den Stimmen der schwarz-roten Koalition beschlossen wird.",
+      "content_length": 178,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wien - OSZE-Jahrestreffen heute ohne Rubio und Lawrow",
+      "link": "https://www.deutschlandfunk.de/osze-jahrestreffen-heute-ohne-rubio-und-lawrow-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "In Wien kommt heute die Organisation für Sicherheit und Zusammenarbeit in Europa zu ihrem Jahrestreffen zusammen.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Amerikanisch-russische Ukraine-Gespräche - Berichte über weiteres Treffen zwischen Unterhändlern Witkoff und Umerow",
+      "link": "https://www.deutschlandfunk.de/berichte-ueber-weiteres-treffen-zwischen-unterhaendlern-witkoff-und-umerow-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Im US-Bundesstaat Florida sollen nach übereinstimmenden Berichten heute die Gespräche über ein mögliches Ende des russischen Angriffskriegs gegen die Ukraine fortgesetzt werden. Das melden mehrere Medien unter Berufung auf Washingtoner Regierungskreise. Demnach trifft sich der US-Sondergesandte Witkoff in Miami mit dem ukrainischen Chefunterhändler Umerow.",
+      "content_length": 358,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Verhandlungen in Brüssel - EU-Einigung auf Abschwächung von Gentechnik-Regeln",
+      "link": "https://www.deutschlandfunk.de/eu-einigung-auf-abschwaechung-von-gentechnik-regeln-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Unterhändler der EU haben sich auf Lockerungen der Regeln zur Gentechnik verständigt.",
+      "content_length": 85,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Indexmieten - Hubig plant Gesetzentwurf noch in diesem Jahr",
+      "link": "https://www.deutschlandfunk.de/hubig-plant-gesetzentwurf-noch-in-diesem-jahr-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Bundesjustizministerin Hubig will an die Inflationsrate gekoppelte Indexmieten stärker regulieren und dazu schon bald einen Gesetzentwurf vorlegen.",
+      "content_length": 147,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Dooring\"-Unfälle - Bundesregierung will Kfz-Hersteller zu Türwarnsystemen verpflichten",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-will-kfz-hersteller-zu-tuerwarnsystemen-verpflichten-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Radfahrer und Nutzer von E-Rollern sollen besser vor schweren Unfällen durch plötzlich geöffnete Autotüren geschützt werden.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Staatsbesuch - Bundespräsident Steinmeier betont Freundschaft zwischen Deutschland und Großbritannien",
+      "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-betont-freundschaft-zwischen-deutschland-und-grossbritannien-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Bundespräsident Steinmeier hat bei seinem Staatsbesuch in Großbritannien die deutsch-britischen Beziehungen gewürdigt. Bei einem Staatsbankett auf Schloss Windsor sagte er, der Austritt Großbritanniens aus der EU sei ein tiefer Einschnitt gewesen. Man habe aber nicht zugelassen, dass die gemeinsame Freundschaft davon beschädigt worden sei.",
+      "content_length": 341,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Libanon - Israel lobt \"gute Stimmung\" bei Treffen mit libanesischen Regierungsvertreten",
+      "link": "https://www.deutschlandfunk.de/israel-lobt-gute-stimmung-bei-treffen-mit-libanesischen-regierungsvertreten-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Erstmals seit Jahrzehnten hat es offizielle Gespräche zwischen Regierungsvertreten Israels und des Libanon gegeben.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Innenministerkonferenz - Bremens Innensenator Mäurer fordert Böllerverbot an Silvester",
+      "link": "https://www.deutschlandfunk.de/bremens-innensenator-maeurer-fordert-boellerverbot-an-silvester-104.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Zum Auftakt der Innenministerkonferenz von Bund und Ländern hat Bremens Innensenator Mäurer zu einem Böllerverbot an Silvester aufgerufen. Mäurer sagte, er glaube, dass viele nachdenklich geworden seien. Für Polizei und Feuerwehr seien die Silvesternächte ein Alptraum.",
+      "content_length": 269,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Spiegel\"-Bericht - Wirtschaftsministerium fördert offenbar Firma, an der Ressortchefin Reiches Lebensgefährte Guttenberg beteiligt ist",
+      "link": "https://www.deutschlandfunk.de/wirtschaftsministerium-foerdert-offenbar-firma-an-der-ressortchefin-reiches-lebensgefaehrte-guttenbe-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Das Bundeswirtschaftsministerium hat offenbar sechsstellige Fördergelder für ein Start-up bewilligt, an dem Ex-Verteidigungsminister Guttenberg beteiligt ist.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tarifverhandlungen - Beamtenbund signalisiert Warnstreiks im öffentlichen Dienst der Länder",
+      "link": "https://www.deutschlandfunk.de/beamtenbund-signalisiert-warnstreiks-im-oeffentlichen-dienst-der-laender-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Nach der ersten Verhandlungsrunde im öffentlichen Dienst der Länder zeichnen sich Warnstreiks ab.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Steuerpaket - Bundestag entscheidet über Steuererleichterungen für Pendler, Gastronomen und Ehrenamtler",
+      "link": "https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-steuererleichterungen-fuer-pendler-gastronomen-und-ehrenamtler-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Der Bundestag entscheidet heute über ein Entlastungs-Paket für Berufspendler, Gastronomen und Ehrenamtler.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Erstmals seit 2021 - Putin zu Staatsbesuch in Indien",
+      "link": "https://www.deutschlandfunk.de/putin-zu-staatsbesuch-in-indien-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Der russische Staatschef Putin reist heute zu einem zweitägigen Besuch nach Indien.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Selenskyj kündigt weitere Gespräche mit den USA an",
+      "link": "https://www.deutschlandfunk.de/selenskyj-kuendigt-weitere-gespraeche-mit-den-usa-an-102.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Nach dem Treffen von US-Vertretern mit Kremlchef Putin in Moskau hat der ukrainische Präsident Selenskyj neue Gespräche mit den USA in Aussicht gestellt.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Unterstützung der Ukraine - Bundeskanzler Merz spricht sich für Verwendung eingefrorener russischer Vermögenswerte aus",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-spricht-sich-fuer-verwendung-eingefrorener-russischer-vermoegenswerte-aus-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Bundeskanzler Merz hat sich hinter den Vorschlag der EU-Kommission gestellt, eingefrorene russische Vermögenswerte für einen Kredit für die Ukraine zu nutzen.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball - Bayern München, Holstein Kiel, VfB Stuttgart und SC Freiburg im Viertelfinale des DFB-Pokals",
+      "link": "https://www.deutschlandfunk.de/bayern-muenchen-holstein-kiel-vfb-stuttgart-und-sc-freiburg-im-viertelfinale-des-dfb-pokals-104.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Die Fußball-Bundesligisten München, Stuttgart und Freiburg sowie Zweitligist Kiel haben das Viertelfinale des DFB-Pokals erreicht.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - EU-Kommission will Vorrat an Lithium und Seltenen Erden für die Industrie anlegen",
+      "link": "https://www.deutschlandfunk.de/eu-kommission-will-vorrat-an-lithium-und-seltenen-erden-fuer-die-industrie-anlegen-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Die EU-Kommission will Unternehmen den Zugang zu Rohstoffen wie Lithium und Seltenen Erden sichern.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "CDU - Merz nennt jüngste Aktion des Zentrums für Politische Schönheit \"vollkommen geschmacklos\"",
+      "link": "https://www.deutschlandfunk.de/merz-nennt-juengste-aktion-des-zentrums-fuer-politische-schoenheit-vollkommen-geschmacklos-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Bundeskanzler Merz hat die Aktion des Zentrums für Politische Schönheit kritisiert, eine Statue des ermordeten CDU-Politikers Walter Lübcke vor der Parteizentrale in Berlin aufzustellen.",
+      "content_length": 186,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sport-Entscheidung - EM der Frauen findet 2029 in Deutschland statt",
+      "link": "https://www.deutschlandfunk.de/em-der-frauen-findet-2029-in-deutschland-statt-106.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Die nächste Fußball-EM der Frauen findet 2029 in Deutschland statt. Der Deutsche Fußball-Bund erhielt bei der UEFA-Vergabe den Zuschlag für die Ausrichtung des Turniers. Zum dritten Mal nach 1989 und 2001 wird damit der EM-Ball in Deutschland rollen.",
+      "content_length": 250,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Die Lottozahlen - 21 - 27 - 29 - 37 - 44 - 49",
+      "link": "https://www.deutschlandfunk.de/21-27-29-37-44-104.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Die Lottozahlen: 21 - 27 - 29 - 37 - 44 - 49",
+      "content_length": 44,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Vielerorts bewölkt oder trüb bei -1 bis 9 Grad",
+      "link": "https://www.deutschlandfunk.de/vielerorts-bewoelkt-oder-trueb-bei-1-bis-9-grad-100.html",
+      "published": "2025-12-04T07:11:00",
+      "content": "Das Wetter: Meist bedeckt, gelegentlich etwas Sprühregen. Auflockerungen am ehesten im höheren Bergland. Höchsttemperaturen minus 1 bis 9 Grad. Morgen meist stark bewölkt bis bedeckt, im Südosten teils Schnee, teils Regen, örtlich gefrierend. 0 bis 8 Grad.",
+      "content_length": 256,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weitere sterbliche Überreste aus Gaza an Israel übergeben",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-uebergabe-sterblicher-ueberreste-geiseln-102.html",
+      "published": "2025-12-04T07:08:42",
+      "content": "   Die Hamas hat die Leiche eines thailändischen Arbeiters an Israel übergeben. Damit befindet sich nur noch eine tote Geisel im Gazastreifen. Israelische Truppen haben erneut im Gazastreifen angegriffen.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vertreter der Ukraine und USA treffen sich offenbar heute erneut",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-usa-100.html",
+      "published": "2025-12-04T07:06:11",
+      "content": "   Noch zeichnet sich kein Durchbruch bei einem möglichen Plan zur Beendigung des russischen Kriegs gegen die Ukraine ab. Nun wollen sich laut Medienberichten Vertreter der USA und der Ukraine heute in Florida treffen.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians",
+      "link": "https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians",
+      "published": "2025-12-04T07:00:08",
+      "content": "Government once seen as progressive on migration says aid cuts to blame for excluding countries ‘not experiencing war’The Ugandan government has stopped granting asylum and refugee status to people from Eritrea, Somalia and Ethiopia, citing severe funding shortfalls for the significant policy shift.Hillary Onek, Uganda’s minister for refugees, announced that the government would no longer grant the status to new arrivals from countries “not experiencing war”. Continue reading...",
+      "content_length": 483,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘People had forgotten about it’: onboard the 7am Manchester-London train service saved from axe",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/04/onboard-7am-manchester-london-train-service-saved-from-axe",
+      "published": "2025-12-04T07:00:08",
+      "content": "Passengers welcome climbdown and say plan to turn Avanti West Coast service into ‘ghost train’ made no sense“I don’t think I’ve seen it this busy in years,” said Liam, a customer service specialist struggling to deal with a growing line of tired customers onboard the 7am Avanti West Coast service from Manchester to London.They were made more agitated by the news that the microwave was broken and bacon sandwiches were off the menu. “I don’t think there’s been this many people on the 7am since before Covid,” said the beleaguered staff member. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia news live: Labor senator accuses Matt Canavan of ‘killing blue-collar jobs’ with his opposition to renewables",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/04/australia-news-live-senate-estimates-national-fiscal-outlook-labor-coalition-cost-of-living-victoria-public-service-cuts-ntwnfb",
+      "published": "2025-12-04T06:58:27",
+      "content": "Follow today’s news liveAccused childcare paedophile Joshua Dale Brown charged with 83 new offencesGet our breaking news email, free app or daily news podcastChalmers says GDP growth figures ‘very positive and very promising’Chalmers also said he was encouraged by the release of national accounts figures yesterday, which showed annual GDP growth hitting 2.1%, even though the quarterly pace of growth was a disappointing 0.4%.The reason for that is because the overwhelming story of these national accounts was a very substantial recovery in the private sector. We saw business investment absolutely galloping. We saw investment in the building of new homes growing strongly as well. We saw the fourth consecutive quarter of productivity growth.And so, overwhelmingly, this is a very positive and a very promising story emerging out of these national accounts. Continue reading...",
+      "content_length": 882,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Venezuela’s Maduro says phone call with Trump was ‘respectful’, even ‘cordial’",
+      "link": "https://www.france24.com/en/americas/20251204-venezuela-maduro-says-phone-call-with-trump-was-respectful-cordial",
+      "published": "2025-12-04T06:54:38",
+      "content": "Venezuelan President Nicolas Maduro on Wednesday confirmed that he had a phone call with US President Donald Trump amid increasing tensions over the US military buildup in the Caribbean. Trump confirmed the telephone conversation over the weekend, but was non-committal about the tone and outcome.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "England earthquake of 3.3 magnitude rattles Lancashire and Lake District",
+      "link": "https://www.theguardian.com/world/2025/dec/04/earthquake-of-33-magnitude-rattles-lancashire-and-lake-district",
+      "published": "2025-12-04T06:50:15",
+      "content": "Residents report homes shaking from 3.3-magnitude quake that British Geological Survey says was centred just off the coast of Silverdale, LancashireA 3.3-magnitude earthquake shook homes in north-west England late on Wednesday, the British Geological Survey (BGS) reported.The quake struck shortly after 11.23pm and was felt across Lancashire and the southern Lake District, including the towns of Kendal and Ulverston, within 12 miles of the epicentre. Continue reading...",
+      "content_length": 473,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel identifies remains of latest returned hostage as Thai national",
+      "link": "https://www.france24.com/en/middle-east/20251204-israel-identifies-remains-of-latest-returned-hostage-as-thai-national",
+      "published": "2025-12-04T06:42:05",
+      "content": "The Israeli army on Thursday identified the remains of the second-last hostage to be released from Gaza under the terms on the US-brokered ceasefire deal. The hostage was identified as Sudthisak Rinthalak, a Thai national who was killed during the October 7, 2023 Hamas attack.",
+      "content_length": 277,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Was die Google-Trends über die Gesellschaft verraten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/google-suchtrends-2025-100.html",
+      "published": "2025-12-04T06:34:41",
+      "content": "   Einmal im Jahr erklärt der Google-Konzern, was die Deutschen im Netz suchen. In diesem Jahr warfen Jugendtrends wie \"6-7\" und die Politik besonders viele Fragen auf. Was die aktuellen Ergebnisse aussagen, berichtet Andreas Hilmer.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sydney drivers stuck in busy tunnel for up to four hours amid fears of ‘shockcrete’ roof collapse",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/04/sydney-drivers-stuck-in-busy-tunnel-for-up-to-four-hours-amid-fears-of-shockcrete-roof-collapse",
+      "published": "2025-12-04T06:34:20",
+      "content": "After an earlier closure on Thursday the M4 tunnel reopened one westbound lane between Haberfield and North Strathfield on ThursdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastDrivers have been left stranded for up to four hours in Sydney’s M4 motorway tunnel within the WestConnex, after fears of a concrete roof collapse which saw the closure of all westbound lanes.About 6am on Thursday morning, Transport for NSW advised the tunnel was closed westbound between Haberfield and North Strathfield due to “emergency roadworks”. Continue reading...",
+      "content_length": 615,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Geht die Hängepartie weiter?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-116.html",
+      "published": "2025-12-04T06:28:23",
+      "content": "   Im DAX zeichnet sich ein neuerlicher Anstieg an die runde Marke von 23.800 Punkten ab. Tags zuvor hatte der Leitindex zwischenzeitlich den schwachen Monatsstart aufgeholt. Letztlich schmolz das Plus aber wieder zusammen.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kylian Mbappé’s magic guides Real Madrid to victory over Bilbao",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251204-kylian-mbapp%C3%A9-s-magic-guides-real-madrid-to-victory-over-bilbao",
+      "published": "2025-12-04T06:21:19",
+      "content": "Kylian Mbappé is on fire! The French forward scored twice during Real Madrid’s 3-0 win over Athletic Bilbao. The former PSG player also provided an assist. It’s Real Madrid’s first victory in three La Liga matches.",
+      "content_length": 214,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Live:Trump's top envoys to meet Ukrainian negotiator in Florida after Putin meeting",
+      "link": "https://www.france24.com/en/europe/20251204-live-macron-tells-xi-china-s-cooperation-on-ukraine-decisive",
+      "published": "2025-12-04T06:18:46",
+      "content": "US President Donald Trump's special envoy Steve Witkoff, as well as son-in-law Jared Kushner, are set to meet with top Ukrainian negotiator Rustem Umerov in Florida on Thursday, according to US officials. The meeting follows talks between the envoys and Russian President Vladimir Putin in Moscow amid diplomatic efforts to secure a ceasefire with Ukraine. Follow our liveblog for the latest updates.",
+      "content_length": 400,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man pleads not guilty over allegedly projecting pro-Palestine messages on Sydney Opera House forecourt",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/04/man-pleads-not-guilty-over-allegedly-projecting-pro-palestine-messages-on-sydney-opera-house-forecourt-ntwnfb",
+      "published": "2025-12-04T06:16:32",
+      "content": "Lawyers for Fouad Masri say the case will have important ramifications for freedom of speech in AustraliaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA man has pleaded not guilty after being charged over allegedly projecting pro-Palestine messages on to the forecourt of the Sydney Opera House, in a case his lawyers say has significant ramifications for freedom of speech.Fouad Masri, 50, allegedly used a projector to display a number of messages on to the stairs at the southern end of the forecourt on 11 October, including “reparation for Genocide”, “reparation for Holocaust”, “Minns stop supporting genocide”, “end the occupation”, “Palestine the right to defend itself”, and “occupation is terrorism”. Continue reading...",
+      "content_length": 797,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Signal-Chat zu Jemen-Angriff: Pentagon-Bericht belastet Hegseth",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-signal-affaere-bericht-100.html",
+      "published": "2025-12-04T06:12:53",
+      "content": "   In einem Signal-Chat diskutierte US-Verteidigungsminister Hegseth im März geheime Details eines Angriffs im Jemen. Das Pentagon hat den Vorfall nun untersucht und belastet Hegseth schwer. Er habe möglicherweise Soldaten gefährdet.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Länder fordern Finanzierungszusagen vom Bund bei neuen Gesetzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ministerpraesidentenkonferenz-asylbewerber-ukrainer-100.html",
+      "published": "2025-12-04T06:12:15",
+      "content": "   Klamme Kasse und steigende Kosten: Die Länder wollen bei der Ministerpräsidentenkonferenz heute mehr Geld vom Bund einfordern. Wer Gesetze bestellt, soll bezahlen - das gelte auch für die Änderungen bei den Leistungen für Ukrainer. Von B. Schwarz.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "High levels of ‘forever chemical’ found in cereal products across Europe – study",
+      "link": "https://www.theguardian.com/environment/2025/dec/04/high-levels-of-forever-chemical-found-in-cereal-products-across-europe-study",
+      "published": "2025-12-04T06:00:07",
+      "content": "Pesticide Action Network Europe study finds average concentrations 100 times higher than in tap waterHigh levels of a toxic “forever chemical” have been found in cereal products across Europe because of its presence in pesticides.The most contaminated food is breakfast cereal, according to a study by Pesticide Action Network Europe (PAN), with average concentrations 100 times higher than in tap water. Continue reading...",
+      "content_length": 424,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Leasehold ‘wild west’ under scrutiny as minister criticises FirstPort’s fees and failures",
+      "link": "https://www.theguardian.com/society/2025/dec/04/leasehold-wild-west-under-scrutiny-as-minister-criticises-firstports-fees-and-failures",
+      "published": "2025-12-04T06:00:05",
+      "content": "Exclusive: Senior minister raises ‘significant concerns’ over one of UK’s biggest property managers A senior minister has said he has “significant concerns” about one of Britain’s biggest property managers after dozens of residents complained of high charges, slow repairs and aggressive debt collection techniques.It is the latest sign of growing anger in Westminster over the behaviour of FirstPort, which manages properties on behalf of 1 million people, and other leasehold management companies. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "OSZE - eine Reserve für bessere Zeiten?",
+      "link": "https://www.tagesschau.de/ausland/europa/osze-ministerrat-112.html",
+      "published": "2025-12-04T05:36:20",
+      "content": "   Konflikte entschärfen, Kriege verhindern - das wäre die Aufgabe der OSZE. Doch seit dem Ukraine-Krieg ist die Organisation blockiert. Experten halten sie aber nicht für überflüssig - als eine Art Reserve für bessere Zeiten. Von Anna Tillack.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Verschwunden, gefoltert, getötet - Einblicke in Assads Tötungsmaschinerie",
+      "link": "https://www.tagesschau.de/podcast-11km-syrien-krankenhaus-folter-100.html",
+      "published": "2025-12-04T05:20:28",
+      "content": "   Mehr als 160.000 Syrerinnen und Syrer gelten bis heute als vermisst. Eine geheime Festplatte liefert nun erste Antworten. 11KM über Fotos, die zeigen, wie systematisch das ehemalige Assad-Regime gefoltert und getötet hat.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Detainees at ‘Alligator Alcatraz’ facing ‘harrowing human right violations’, new report alleges",
+      "link": "https://www.theguardian.com/us-news/2025/dec/04/alligator-alcatraz-human-right-violations-amnesty-report",
+      "published": "2025-12-04T05:05:04",
+      "content": "Amnesty International finds immigrants at Florida facility were shackled and left outside in metal cage for up to a dayDetainees at the notorious Florida immigration jail known as “Alligator Alcatraz” were shackled inside a 2ft high metal cage and left outside without water for up to a day at a time, a shocking report published Thursday by Amnesty International alleges.The human rights group said migrants held at the state-run Everglades facility, and at Miami’s Krome immigration processing center operated by a private company on behalf of the Trump administration, continue to be exposed to “cruel, inhuman and degrading treatment” rising in some cases to torture. Continue reading...",
+      "content_length": 691,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "\"Damascus Dossier\" - \"Es war ein Krankenhaus des Todes\"",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-assad-verbrechen-damascus-dossier-104.html",
+      "published": "2025-12-04T05:03:12",
+      "content": "   Syrische Militärkrankenhäuser haben in der Tötungsmaschinerie Assads eine zentrale Rolle gespielt. Das zeigt eine internationale Recherche. Ärzte aus diesen Krankenhäusern praktizieren mittlerweile auch in Deutschland.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Damascus Dossier\" - Anatomie eines Verbrechens",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-assad-verbrechen-damascus-dossier-100.html",
+      "published": "2025-12-04T05:02:58",
+      "content": "   Tausende Dokumente enthüllen schwerste Menschenrechtsverletzungen des Assad-Regimes. Die Daten, die NDR/WDR, SZ und  internationale Partner ausgewertet haben, geben auch Aufschluss über das Schicksal von mehr als 1.500 Vermissten.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "\"Damascus Dossier\": Zehntausende Bilder voller Anklagen",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-assad-verbrechen-damascus-dossier-102.html",
+      "published": "2025-12-04T05:02:21",
+      "content": "   Seit dem Ende des Assad-Regimes machen sich Syrer weltweit auf die Suche nach Angehörigen. Viele waren in Folter-Kerkern verschwunden. Eine Festplatte mit mehr als 70.000 Fotos könnte nun helfen, Opfer und Täter zu ermitteln.  [mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ghana’s Ibrahim Mahama first African to top annual art power list",
+      "link": "https://www.theguardian.com/artanddesign/2025/dec/04/ibrahim-mahama-ghana-tops-artreview-power-list",
+      "published": "2025-12-04T05:00:06",
+      "content": "Artist who once draped Barbican in brightly coloured fabric says he is humbled by recognition in ArtReview rankingsThe Ghanaian artist Ibrahim Mahama has become the first African to be named the most influential figure in the art world in ArtReview magazine’s annual power list.Mahama, whose work often uses found materials including textile remnants, topped the ranking of the contemporary art world’s most influential people and organisations as chosen by a global judging panel. Continue reading...",
+      "content_length": 501,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Revealed: Myanmar junta ‘crony’ given key role behind Fifa peace prize",
+      "link": "https://www.theguardian.com/football/2025/dec/04/revealed-myanmar-junta-crony-given-key-role-behind-fifa-peace-prize",
+      "published": "2025-12-04T05:00:05",
+      "content": "Inaugural prize expected to be handed to Donald Trump but ‘process’ for choosing future winners to be proposed by controversial tycoon’s committeeIt was the timing that set off the first alarm bells. With Donald Trump brooding over missing out on the Nobel peace prize, and shortly before Gianni Infantino, the president of world football’s governing body, Fifa, was due to meet the US president in Miami, an announcement was made.In a press release and a post on his personal Instagram account last month, Infantino said Fifa would launch its very own peace prize, to be awarded each year to “individuals who help unite people in peace through unwavering commitment and special actions”. Continue reading...",
+      "content_length": 708,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Making mental health crisis worse’: Young Nationals warn regional children will be cut off from family by social media ban",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/04/australia-u16-social-media-ban-children-riskier-platforms-young-nationals",
+      "published": "2025-12-04T04:30:49",
+      "content": "Exclusive: President of National party’s youth branch says many children in regional and remote areas rely on social media to stay connectedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal Nationals’ youth branch has called to dump the under-16s social media ban, amid a growing Coalition push against the world-leading laws coming into effect from next week.Coalition members including leader Sussan Ley, Andrew Bragg and Matt Canavan have voiced alarm at the looming 10 December commencement, despite the opposition waving through parliament legislation that specified the date and the party’s former leader Peter Dutton championing the ban. Continue reading...",
+      "content_length": 739,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sydney author’s erotica novel references ‘sexual stuff’ with a child, police officer tells court",
+      "link": "https://www.theguardian.com/books/2025/dec/04/sydney-authors-erotica-novel-references-sexual-stuff-with-a-child-police-officer-tells-court-ntwnfb",
+      "published": "2025-12-04T04:17:30",
+      "content": "A Christian charity executive who wrote Daddy’s Little Toy says her book refers to infant role play by adults rather than child abuseFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA book written by a Christian charity marketing executive contained references to “sexual stuff” with a young child, the police officer tasked with reading the novel has said.Lauren Ashley Mastrosa, 34, is fighting child abuse charges brought over the book Daddy’s Little Toy which she wrote under the pen name Tori Woods. Continue reading...",
+      "content_length": 588,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU einigt sich auf Lockerungen für gentechnisch veränderte Lebensmittel",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gentechnik-eu-einigung-lockerung-100.html",
+      "published": "2025-12-04T04:09:31",
+      "content": "   Für viele gentechnisch veränderte Lebensmittel soll es künftig keine Hinweispflicht mehr in Supermärkten geben. Darauf einigten sich Vertreter aus dem Europaparlament und dem Rat der EU-Länder.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Macron meets Xi in Beijing as he urges China to push for Ukraine ceasefire",
+      "link": "https://www.france24.com/en/asia-pacific/20251204-macron-meets-xi-china-ukraine-ceasefire",
+      "published": "2025-12-04T03:50:41",
+      "content": "French President Emmanuel Macron arrived in Beijing on Thursday for high-stakes talks with Xi Jinping, aiming to persuade China to use its influence with Moscow to help secure a ceasefire in Ukraine while also tackling deepening trade tensions between Europe and the world’s second-largest economy.",
+      "content_length": 298,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand seizes more than $300m in assets and issues 42 arrest warrants in cyberscam crackdown",
+      "link": "https://www.theguardian.com/world/2025/dec/04/thailand-scam-cyberscam-crackdown-arrests-south-east-asia",
+      "published": "2025-12-04T03:44:22",
+      "content": "Seizures and warrants involve Chinese-Cambodian tycoon Chen Zhi, who heads US-sanctioned Prince Group, and Cambodians Kok An and Yim LeakThailand has seized assets worth more than $300m, including shares in a major regional energy company, and issued arrest warrants for 42 people in a high-profile push against regional scam networks, officials said on Wednesday.Parts of south-east Asia, including the border areas between Thailand, Myanmar and Cambodia, have become hubs for online fraud, with criminal networks earning billions from illegal compounds where trafficking victims are often forced to work. Continue reading...",
+      "content_length": 626,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'Three businessmen in Miami lounge:  Trump has re-injected life into stalled peace process'",
+      "link": "https://www.france24.com/en/video/20251204-three-businessmen-in-miami-lounge-trump-has-re-injected-life-into-stalled-peace-process",
+      "published": "2025-12-04T03:21:51",
+      "content": "Europe has largely been left on the sidelines of US President Donald Trump's push to end the war. All the while, a string of ministers warn that Putin does not appear so far to be willing to make any concessions at talks with Washington. For in-depth analysis and a deeper perspective, FRANCE 24 welcomes Benoit Faucon, Middle East Correspondent for The Wall Street Journal.",
+      "content_length": 374,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Half of Europeans see Trump as enemy of Europe, survey finds",
+      "link": "https://www.theguardian.com/world/2025/dec/04/europeans-trump-enemy-of-europe-russia-war-poll",
+      "published": "2025-12-04T03:00:02",
+      "content": "Nine-country poll finds half of people believe risk of war with Russia is high and three-quarters want to stay in EUNearly half of Europeans see Donald Trump as “an enemy of Europe”, rather more rate the risk of war with Russia as high and more than two-thirds believe their country would not be able to defend itself in the event of such a war, a survey has found.The nine-country poll for the Paris-based European affairs debate platform Le Grand Continent also found that nearly three-quarters of respondents wanted their country to stay in the EU, with almost as many saying leaving the union had harmed the UK. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pentagon reportedly knew strike on alleged drug boat left survivors - as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/03/donald-trump-somali-immigrants-ice-minnesota-pete-hegseth-caribbean-boats-venezuela-us-politics-live-latest-news-updates",
+      "published": "2025-12-04T02:54:49",
+      "content": "This blog is now closed.Trump news at a glance: Hegseth remains in hot seat over Signal chat leak, boat strikesTrump officials say second strike aimed to destroy suspected drug boat instead of crewThe Department of Homeland Security (DHS) announced it had started its immigration enforcement operation in New Orleans today.In a statement, the department said Operation Catahoula Crunch would target “criminal illegal aliens roaming free thanks to sanctuary policies”. New Orleans is the latest Democratic-run city (albeit in a Republican-led state) to see federal immigration agents on its streets. Most recently, the Trump administration targeted Charlotte, North Carolina, and touted the arrest of more than 300 undocumented immigrants. Continue reading...",
+      "content_length": 758,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Meta begins removing under-16s in Australia ahead of youth social media ban",
+      "link": "https://www.france24.com/en/asia-pacific/20251204-meta-begins-removing-under-16-australia-social-media-ban",
+      "published": "2025-12-04T02:40:44",
+      "content": "US social media giant Meta has begun removing Australian users under the age of 16 from its Instagram, Threads and Facebook platforms as the country prepares to enforce a world-first youth social media ban from December 10. The sweeping new rules will force major platforms to block underage users in the country or face hefty fines.",
+      "content_length": 333,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Safety volunteer charged in fatal shooting of ‘No Kings’ protester in Utah",
+      "link": "https://www.theguardian.com/us-news/2025/dec/03/no-kings-rally-utah-fatal-shooting",
+      "published": "2025-12-04T02:00:55",
+      "content": "Protest guard fired at armed man he mistakenly believed to be threat to protesters but accidentally killed a bystanderA safety volunteer accused of fatally shooting a man taking part in a June No Kings protest in Salt Lake City, while firing at another armed man he believed to be a threat, was charged with manslaughter on Wednesday.Matthew Scott Alder, 43, was charged with one count of manslaughter. Alder opened fire during the protest on 14 June after seeing another man, Arturo Gamboa, carrying a rifle. Alder told investigators that he believed Gamboa, 24, was about to commit a mass shooting, so he fired three shots, wounding Gamboa but killing a bystander, Arthur “Afa” Ah Loo. Ah Loo was recording video of protesters in the street when he was fatally shot. Continue reading...",
+      "content_length": 788,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump officials say second strike aimed to destroy suspected drug boat instead of crew",
+      "link": "https://www.theguardian.com/us-news/2025/dec/03/trump-officials-boat-strikes-legal-analysis",
+      "published": "2025-12-04T01:44:01",
+      "content": "Officials hew closely to secret memo which gives legal cover to firing on boats even if it would kill people on board Trump administration officials have defended carrying out a follow-up strike on a drug boat that killed survivors on 2 September by arguing that its objective was to ensure the complete destruction of the boat, an action the Pentagon had internal legal approval to conduct.The White House press secretary, Karoline Leavitt, said in a briefing on Monday that Adm Frank Bradley, who oversaw the operation and gave the order for the second strike, directed it to sink the boat. Continue reading...",
+      "content_length": 612,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong warns ‘external forces’ working to exploit apartment fire, as death toll rises to 159",
+      "link": "https://www.theguardian.com/news/2025/dec/04/hong-kong-fire-death-toll-protective-netting-remove",
+      "published": "2025-12-04T01:20:17",
+      "content": "Police say number of dead may still be revised as ‘suspected human bones’ found during search require forensic testingHong Kong and Beijing officials have warned against what they claim are “external forces” threatening to exploit last week’s deadly apartment complex fire for political disruption, as rescuers say at least 159 people have been confirmed dead.The fire at the Wang Fuk Court in northern Hong Kong is the city’s worst disaster in 75 years, and the world’s most fatal residential building fire since 1980. The eight-tower complex – home to nearly 5,000 people – was under extensive renovations that have since been found to contain substandard, flammable materials. Continue reading...",
+      "content_length": 699,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Path to peace in Ukraine unclear, says Trump, as US envoys prepare to meet Kyiv official",
+      "link": "https://www.theguardian.com/world/2025/dec/04/trump-ukraine-peace-envoys-prepare-meet-kyiv-official",
+      "published": "2025-12-04T01:15:59",
+      "content": "Trump’s comments come after an hours-long meeting at the Kremlin between US envoys and Vladimir Putin failed to achieve a breakthroughAnalysis: the Ukraine peace deal has stumbled yet again over an inevitable obstacle: PutinThe path ahead for Ukraine peace talks is unclear, Donald Trump has said, after what he called “reasonably good” talks between Russian president Vladimir Putin and US envoys which nonetheless failed to achieve a breakthroughAfter their hours-long meeting at the Kremlin on Tuesday, US special envoy Steve Witkoff and Trump’s son-in-law Jared Kushner, were set to meet top Ukrainian negotiator Rustem Umerov in Florida on Thursday. Continue reading...",
+      "content_length": 674,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Federal agents launch immigration crackdown in New Orleans",
+      "link": "https://www.theguardian.com/us-news/2025/dec/03/new-orleans-ice-crackdown",
+      "published": "2025-12-04T01:12:52",
+      "content": "Gregory Bovino, border patrol chief and face of Trump’s mass deportation efforts, seen patrolling French QuarterFederal agents descended on New Orleans on Wednesday, making Louisiana’s most populous city the latest front in the Trump administration’s sweeping crackdown on immigrant communities.Masked agents patrolled a heavily Latino suburb in marked and unmarked vehicles, and a resident told the Associated Press he watched agents arresting men outside a home improvement store in New Orleans – a familiar scene that has played out in several major cities in recent months. Continue reading...",
+      "content_length": 597,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Antigravity’s 360-degree drone is here to help you forget DJI",
+      "link": "https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy",
+      "published": "2025-12-04T00:59:12",
+      "content": "\n\n\n\t\n\tThe Antigravity A1.\t\n\nWith DJI facing an imminent import ban in the US and its flagship drones disappearing from shelves, the new Antigravity A1 didn’t need to be a groundbreaking gadget to make headlines. It just needed to be a competent alternative that you can actually buy in the United States. In August, the Chinese brand couldn’t promise that for sure.\n\nBut today, it’s happening: the Antigravity A1 is now on sale at Best Buy here in the US, on shelves and shipping this very week. It seems Best Buy jumped the gun ahead of a full reveal tomorrow, December 4th — there’s one for sale at my local store right now!\n\nAnd thankfully, it’s not just a DJI alternative: this $1,599 drone and headset combo is like nothing I’ve tried before. \n\n\n  @verge I tried Antigravity, the first drone from Insta360. It&#8217;s a flying 360-degree camera with these wild goggles that have a screen on the front, point-to-fly controls, and the ability to film in every direction and piece together dynamic videos afterward! The company says it&#8217;s coming to the US for as little as $1,300 or as much as $1,700 if Trump&#8217;s tariffs allow and claims it&#8217;s standing up a whole Antigravity company to make it happen. #todayimtoyingwith #drone #dronefootage #dronetok #tech  ♬ original sound &#8211; The Verge   \n\n\nAs I explained in August and as you can see in my embedded video, this 8K drone isn’t about “piloting a drone” or “shooting aerial footage.” It’s designed to keep you from having to think about flying or filming at all. \n\nThe 360-degree camera and motion-sensing goggles let you simply turn your head to look in any direction. Inside, you’ll see a line you can move with your arm and point where you want to go. Pull a trigger, and the drone flies there, while your head stays free to take in the sights from above. And because you’re recording video in every direction simultaneously, you can rotate and zoom your recorded video when you’re done.\n\nAt $1,599 — $1,899 if you want three batteries, a multi-charger, and a carrying case, or $1,999 for three “high-capacity” batteries according to the Best Buy listing — this drone is more expensive than drones with cameras that’ll produce higher-quality traditional rectangular footage.\n\nIn my early demo, the Antigravity A1 weighs, flies, and folds like a DJI Mini, not the higher-grade Mavic or Air, even though it’s priced closer to where those higher-end drones were priced when they were broadly available in the US.\n\nBut none of those prosumer DJI drones came with a 360-degree camera system and bundled goggles that make easy flying and filming the priority. (Antigravity’s goggles are more impressive, too.) But that could happen with DJI’s own 360-degree drone, the Avata 360, which just got FCC clearance last week. Maybe it’ll make it to the US before the door closes on future DJI gadgets.\n\nThe Avata 360 might be a different beast than the Antigravity A1, though. While the A1 is a beginner-friendly Mini-style drone that gently flies around, and is light enough that it shouldn’t need registration, DJI’s Avata line has been heavier cinewhoop-style FPV drones designed for swooping and soaring at high speed.",
+      "content_length": 3187,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "King Charles decries ‘Russian aggression’ in pledge on defending Europe",
+      "link": "https://www.theguardian.com/world/2025/dec/03/german-president-state-visit-uk-windsor-king-charles",
+      "published": "2025-12-04T00:21:17",
+      "content": "Monarch welcomed German president, Frank-Walter Steinmeier, and promised both nations’ support for UkraineThe UK and Germany are ready to “bolster Europe” against the threat of further Russian aggression and both nations “stand” with Ukraine, King Charles said as he hosted the German president, Frank-Walter Steinmeier.The visit comes at a difficult time for Europe in the face of Russia’s war in Ukraine, and will aim to underscore the Kensington treaty signed in July – the first formal pact between the UK and Germany since the second world war – which sets out plans for closer cooperation on migration, defence, trade and education. Continue reading...",
+      "content_length": 658,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid",
+      "link": "https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/",
+      "published": "2025-12-04T00:06:58",
+      "content": "On Friday, Vinay Prasad—the Food and Drug Administration’s chief medical and scientific officer and its top vaccine regulator—emailed a stunning memo to staff that quickly leaked to the press. Without evidence, Prasad claimed COVID-19 vaccines have killed 10 children in the US, and, as such, he announced unilateral, sweeping changes to the way the agency regulates and approves vaccines, including seasonal flu shots.\nOn Wednesday evening, a dozen former FDA commissioners, who collectively oversaw the agency for more than 35 years, responded to the memo with a scathing rebuke. Uniting to publish their response in the New England Journal of Medicine, the former commissioners said they were “deeply concerned” by Prasad’s memo, which they framed as a “threat” to the FDA’s work and a danger to Americans’ health.\nIn his memo, Prasad called for abandoning the FDA’s current framework for updating seasonal flu shots and other vaccines, such as those for COVID-19. Those updates currently involve studies that measure well-characterized immune responses (called immunobridging studies). Prasad dismissed this approach as insufficient and, instead, plans to require expensive randomized trials, which can take months to years for each vaccine update.Read full article\nComments",
+      "content_length": 1278,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Refugee homelessness in UK has more than doubled in two years, charity says",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/04/refugee-homelessness-increase-uk-naccom",
+      "published": "2025-12-04T00:01:58",
+      "content": "Naccom members accommodated record 4,434 refugees and migrants in 2024-25 but could not house another 3,450Thousands of refugees are facing a growing homelessness crisis, according to a network of more than 100 organisations across the UK who say homelessness has more than doubled among refugees in the last two years.Naccom, the national charity of 140 frontline refugee and migrant organisations, blames the increase on “near-constant government policy changes” and the introduction of eVisas, which some refugees have not been able to activate in order to access vital services and support. Continue reading...",
+      "content_length": 614,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sevenfold increase in serious incidents at UK immigration detention centre, report finds",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/04/sevenfold-increase-in-serious-incidents-at-uk-immigration-detention-centre-report-finds",
+      "published": "2025-12-04T00:01:58",
+      "content": "Incidents rose from four in 2023 to 28 in 2024 as 22 Serco officers also investigated for serious misconduct at Gatwick centreThere has been a sevenfold increase in serious incidents at an immigration detention centre near Gatwick airport, a watchdog report has revealed.There were 28 serious incidents at Gatwick immigration removal centre in 2024 compared with four recorded in 2023, the report from the independent monitoring board said. These included large protests and men jumping on to anti-suicide netting. On 12 occasions the National Tactical Response Group, a specialist unit to deal with protests and other serious problems, was called in to quell disorder. Continue reading...",
+      "content_length": 689,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US Department of Homeland Security launches immigration crackdown in New Orleans",
+      "link": "https://www.france24.com/en/americas/20251203-usa-immigration-crackdown-new-orleans",
+      "published": "2025-12-03T23:19:07",
+      "content": "The US Department of Homeland Security launched a major immigration crackdown in New Orleans on Wednesday, escalating the Trump administration’s campaign in Democratic-run cities and prompting concern from local leaders over the scope, tactics and potential civil rights implications of the operation.",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "European Commission plans ‘reparations loan’ to Ukraine using frozen Russian assets",
+      "link": "https://www.theguardian.com/world/2025/dec/03/european-commission-reparations-loan-ukraine-frozen-russian-assets",
+      "published": "2025-12-03T23:17:40",
+      "content": "Leaders focus on bolstering Ukraine’s finances as US-Russia talks to end war make little progress The European Commission will move ahead with controversial plans to fund Ukraine with a loan based on Russia’s frozen assets, but in a concession to concerns raised by Belgium, which hosts most of the assets, the EU executive has also proposed another option: an EU loan based on common borrowing.The European Commission president, Ursula von der Leyen, said on Wednesday the two proposals would ensure “Ukraine has the means to defend [itself] and take forward peace negotiations from a position of strength”. Continue reading...",
+      "content_length": 628,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Admins and defenders gird themselves against maximum-severity server vuln",
+      "link": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
+      "published": "2025-12-03T23:16:03",
+      "content": "Security defenders are girding themselves in response to the disclosure of a maximum-severity vulnerability disclosed Wednesday in React Server, an open-source package that’s widely used by websites and in cloud environments.\nThe vulnerability is easy to exploit and allows hackers to execute malicious code on servers that run it. Exploit code is now publicly available.\nReact is embedded into web apps running on servers so that remote devices render JavaScript and content more quickly and with fewer resources required. React is used by an estimated 6 percent of all websites and 39 percent of cloud environments. When end users reload a page, React allows servers to re-render only parts that have changed, a feature that drastically speeds up performance and lowers the computing resources required by the server.Read full article\nComments",
+      "content_length": 845,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Great handling, advanced EV tech: We drive the 2027 BMW iX3",
+      "link": "https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/",
+      "published": "2025-12-03T23:01:26",
+      "content": "BMW provided flights from Washington, DC, to Malaga, Spain, and accommodation so Ars could drive the iX3. Ars does not accept paid editorial content.\nThe new BMW iX3 is an important car for the automaker. It’s the first of a new series of vehicles that BMW is calling the Neue Klasse, calling back to a range of cars that helped define the brand in the 1960s. Then, as now, propulsion is provided by the best powertrain BMW’s engineers could design and build, wrapped in styling that heralds the company’s new look. Except now, that powertrain is fully electric, and the cabin features technology that would have been scarcely believable to the driver of a new 1962 BMW 1500.\nIn fact, the iX3 is only half the story when it comes to BMW’s neue look for the Neue Klasse—there’s an all-electric 3 series sedan on the way, too. The sedan will surely appeal to enthusiasts, particularly the version that the M tuning arm has worked its magic upon, but you’ll have to wait until early 2026 to read about that stuff. Which makes sense: crossovers and SUVs—or “sports activity vehicles” in BMW-speak—are what the market wants these days, so that’s what comes first.\nThe technical stuff\nAs we learned earlier this summer, BMW leaned heavily into sustainability when it designed the iX3. There’s extensive use of recycled battery minerals, interior plastics, and aluminum, and the automaker has gone for a monomaterial approach where possible to make recycling the car a lot easier. There’s also an all-new EV powertrain, BMW’s sixth-generation. When it goes on sale here next summer, the launch model will be the iX3 50 xDrive, which pairs an asynchronous motor at the front axle and an electrically excited synchronous motor at the rear for a combined output of 463 hp (345 kW) and 475 lb-ft (645 Nm).Read full article\nComments",
+      "content_length": 1820,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "BMW iX3 first drive: a ‘New Class’ is in session",
+      "link": "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
+      "published": "2025-12-03T23:01:00",
+      "content": "\n\n\n\t\n\t\t\n\nBMW has been peppering us with teasers and bits and pieces about its next-gen EV platform, Neue Klasse, for so long - fully two years now - that I confess I've become a bit numb to the hype. I'd seen the dashboard-filling displays, talked to engineers endlessly about the completely retooled active safety suite, and even got a go behind the wheel of a prototype machine.\nAll this for the launch of a crossover SUV, typically the most milquetoast of all the automotive classifications. But after spending the better part of a day wheeling around the final version of the iX3, I'm surprised to say it was all worth it. This little(ish) SUV really is …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Doctor jailed for supplying 'Friends' star Matthew Perry with ketamine",
+      "link": "https://www.france24.com/en/americas/20251203-doctor-jailed-friends-star-matthew-perry-ketamine",
+      "published": "2025-12-03T22:55:08",
+      "content": "A California physician who sold ketamine at steep markups to \"Friends\" star Matthew Perry in the weeks before the actor’s fatal overdose was sentenced to prison on Wednesday. The case marks the first sentencing in the criminal probe into Perry’s 2023 death, which investigators say involved a network of suppliers who fuelled the actor’s addiction.",
+      "content_length": 348,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gaza: Israeli strike kills five, including two children, says civil defence agency",
+      "link": "https://www.theguardian.com/world/2025/dec/03/gaza-israeli-strike-kills-five-including-two-children-says-civil-defence-agency",
+      "published": "2025-12-03T22:46:38",
+      "content": "Agency says missile struck citizens in Khan Younis, as Israel reports targeting ‘Hamas terrorist’ after clash with militants An Israeli strike on Palestinian territory has killed five people including two children, Gaza’s civil defence agency told AFP on Wednesday.“Five citizens, including two children, killed and others injured, some seriously, as a result of an Israeli missile strike,” in al-Mawasi, west of Khan Younis, civil defence spokesperson Mahmud Bassal told AFP. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Satellites keep photobombing the Hubble telescope, and it’s getting worse",
+      "link": "https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution",
+      "published": "2025-12-03T22:05:46",
+      "content": "\n\n\n\t\n\tA simulated image representing the projected contamination by satellite trails in one of the future space telescopes. The stripes of light reflected from artificial telecommunication satellites outshine the otherwise pristine image of two galaxies interacting in the background. | Image: NASA / Borlaff, Marcum, Howell (Nature, 2025)\t\n\nIt’s getting harder and harder for the Hubble and other telescopes orbiting Earth to capture pristine images thanks to the sudden surge in satellite launches. Satellite trails could mess up nearly 40 percent of images the Hubble takes and up to 96 percent of those taken by three other telescopes over the next decade, according to a study by NASA researchers published today in the journal Nature. \n\nThat could jeopardize scientists’ ability to spot worrisome asteroids or discover new planets, they warn. Our view of space just gets fuzzier without efforts to limit light pollution from new megaconstellations of satellites.\n\nThe scale of the problem is astounding\n\n“My career has been focused on trying to make telescopes see better … try to make the telescopes more sensitive, more precise, getting better images,” says Alejandro Borlaff, a NASA research scientist and lead author of the study. “For the first time, we found something that may actually be worse in the future.” \n\nThe scale of the problem is astounding. Cheaper launch costs and the proliferation of telecommunications satellites like Starlink’s have opened up a Pandora’s box of new challenges in space. Satellite trails, which look like streaks of light, were already detected in 4.3 percent of images taken by the Hubble between 2018 and 2021. The number of satellites orbiting Earth has grown from 5,000 in 2019 to more than 15,800 today, according to the European Space Agency. That number could reach as high as 560,000 if currently planned satellite launches proceed over the next 10 years or so. \n\nBorlaff and his colleagues simulated the view that four telescopes are likely to have after all those launches. With that much crowding in space, they project that the Hubble telescope could inadvertently capture an average of 2.14 satellites per exposure. The Chinese Space Station Telescope Xuntian, one of the other telescopes included in the study that’s expected to launch next year, could see an average of 92 satellites per exposure. The Hubble is less likely to catch as many satellites in its images because of its narrower field of view. Fortunately, other powerful telescopes, including the James Webb, orbit far enough from Earth to avoid light contamination from satellites.\nView Link\nThe issue goes beyond accidentally including a satellite (or many) among the visions of swirling nebulae, stars, and distant planets these telescopes capture. The satellites reflect light from the Sun, Moon, or Earth, which can be bright enough to obscure details that might otherwise be captured in an image were it not for that light pollution. Researchers might not be able to detect a change in the brightness of a star that could indicate that there’s an exoplanet there, Borlaff explains. “You will lose that information because a satellite passed in front of you.” \n\nNow’s the time to find solutions, he says, before there are so many satellites in orbit. Efforts to design darker, less reflective satellites have posed new problems because they tend to get hotter and shed more infrared light as a result. Researchers have also tried strategizing to take images at times and locations with a lower likelihood of satellites crossing their path, an endeavor that’s harder to do the more crowded it gets out there. It’ll take more coordination on the ground with companies and governments launching satellites, maybe by placing them in orbit lower than where the telescopes are to avoid obstructing their view or regulating where they can be deployed.&nbsp;\n\n“There has to be an optimal way to place constellations and space telescopes … so we can coexist in a sustainable way,” Borlaff says.",
+      "content_length": 4013,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Eurovision Song Contest faces major test as countries weigh Israel's participation",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251203-eurovision-song-contest-faces-major-test-as-countries-weigh-israel-s-participation",
+      "published": "2025-12-03T22:04:09",
+      "content": "The Eurovision Song Contest faces a \"watershed moment\" on Thursday when members of the body that organises the contest may vote on whether Israel can compete in 2026, as some nations threaten to withdraw if it is not excluded due to the Gaza war. FRANCE 24's Sharon Gaffney speaks with Dean Vuletic, historian of the Eurovision Song Contest, and author of 'Post-war Europe and the Eurovision Song Contest'.",
+      "content_length": 406,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU proposes using frozen Russian assets to provide €90 billion to Ukeraine",
+      "link": "https://www.france24.com/en/tv-shows/business/20251203-eu-proposes-using-frozen-russian-assets-to-provide-%E2%82%AC90-billion-to-ukeraine",
+      "published": "2025-12-03T22:01:43",
+      "content": "The European Commission has unveiled plans to provide €90 billion to support Ukraine over the next two years, by either using frozen Russian assets or by borrowing money on international markets. Although the EU has already been using interests earned on Russian central bank assets held up in Europe to help Ukraine, Belgium is firmly against tapping into the actual funds.  But first, the EU has presented a new strategy to reduce its dependence on China for rare earths.",
+      "content_length": 473,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Algerian court upholds seven-year prison sentence for French journalist",
+      "link": "https://www.france24.com/en/africa/20251203-algerian-court-upholds-seven-year-prison-sentence-for-french-journalist",
+      "published": "2025-12-03T22:00:57",
+      "content": "Algerian courts on Wednesday ruled to uphold a seven-year jail sentence for French sports journalist Christophe Gleizes, a decision that was criticised by the French government which has sought to broker Gleizes' release.",
+      "content_length": 221,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Viral TikTok account impersonates France 24, spreads fake news",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251203-viral-tiktok-account-impersonates-france-24-spreads-fake-news-1",
+      "published": "2025-12-03T21:53:58",
+      "content": "In recent weeks, a viral account on Tiktok has impersonated France 24 in a bid to spread fake news. Charlotte Hughes takes a closer look at the false content in question, and what more we know about its origins.",
+      "content_length": 211,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Anthropic&#8217;s AI bubble &#8216;YOLO&#8217; warning",
+      "link": "https://www.theverge.com/column/837779/anthropic-ai-bubble-warning",
+      "published": "2025-12-03T21:45:00",
+      "content": "\n\n\n\t\n\tAndrew Ross Sorkin and Dario Amodei speak onstage during The New York Times DealBook Summit 2025 at Jazz at Lincoln Center on December 03, 2025 in New York City. | Image: Getty\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nDario Amodei took the stage at the DealBook Summit on Wednesday to throw punches without naming names.\nThe Anthropic CEO spent a good chunk of the interview with Andrew Ross Sorkin drawing a careful line between his company's approach and that of a certain competitor. When asked about whether the AI industry is in a bubble, Amodei separated the \"technological side\" from the \"economic side\" and then twisted the knife.\n\"On the technological side, I feel really solid,\" he said. \"On the economic side …\nRead the full story at The Verge.",
+      "content_length": 867,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "I tested 30 smart locks, and these are the best",
+      "link": "https://www.theverge.com/23393163/best-smart-door-lock",
+      "published": "2025-12-03T21:42:29",
+      "content": "\n\n\n\t\n\t\t\n\nA smart lock is an easy solution to some common problems. Locked yourself out? Need to let a friend in to water the plants? Your latchkey kid lost their key? Hands are full, and it’s raining cats and dogs? A smart lock solves all of these problems and more.\n\nOne of the best smart home upgrades you can make, a smart lock gives you remote control access to your house from anywhere, plus easy, key-free ways to unlock and lock your door. Smart locks also remember everything that happened, so they can tell you when your door was unlocked, and sometimes who did it.\n\nFor most people, control and convenience are big enough selling points. However, smart locks also work nicely with other smart home devices, including video doorbells and smart lighting. My favorite way to integrate locks in my home is with an evening&nbsp;smart home&nbsp;routine, which locks the doors, dims the lights, and sets my thermostat to sleep mode. We have four exterior doors, so it saves me from walking around the house at night checking everything is secure.\n\nHaving a connected lock on your door is as secure as a standard lock, and sometimes more. Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it&#8217;s harder to physically pick a lock without a keyway. Plus, any smart lock is more secure than leaving a spare key under a flowerpot.\n\nI’ve been testing smart door locks for six years and have installed more than 30 for this guide alone. Here are my top picks for your front door. Whether you want the best of the best, don&#8217;t want to replace your existing lock, are on a budget, or want a smart lock that doesn&#8217;t look like a smart lock, there are great options for every need.\n\n\n\nBest smart lock\nKwikset Halo Select\n\nScore: 8ProsConsExcellent auto-unlock functionChoice of Wi-Fi or Matter-over-ThreadGreat designDiscreet door sensorCan be rekeyedHave to choose between Thread and Kwikset’s auto-unlockNo Home Key or biometric accessTouchscreen shows fingerprintsProminent Kwikset branding\nWhere to Buy: $259 at Amazon $259 at Home Depot $259 at Lowes\nConnectivity: Wi-Fi, Thread / Access options: Key, keycode, app, voice / Auto-unlock: Yes / Battery type: Four AA batteries / Battery life: Six to 12 months / Guest codes: Yes / Security rating: ANSI Grade AAA / Works with: Amazon Alexa, Google Assistant, Matter (including Apple Home, Samsung SmartThings)\n\nThe Kwikset Halo Select is a good-looking, reliable smart lock with top-notch security ratings, broad smart home compatibility, and the best auto-unlock function I’ve tested to date.\n\nI strongly believe a smart lock should look good on your door, and the Halo Select does exactly that, plus it can blend in with both traditional and contemporary door sets. (But I could do without the prominent Kwikset branding.)\n\nOf the four entry methods — a keyway (which is re-keyable), a touchscreen keypad, app/smart home control, and auto-unlock by location — I liked the last one the best. It worked so well that I didn’t mind that it lacks a fingerprint reader or Apple Home Key.\n\nMy experience with automatic unlocking on other locks (which uses a combination of Bluetooth, GPS, and Wi-Fi to determine your location) has been generally frustrating, but on the Halo Select, it’s been flawless. It unlocks just as I approach my porch, making coming home and opening the door a virtually hands-free experience.\n\nThe Select can also auto-lock based on your location, not just after a set amount of time, as most locks offer. I also like the Halo Select’s LED lock indicator on the touchscreen, which tells you at a glance if the door is locked or unlocked.\n\nThe Halo Select has built-in Wi-Fi and a Thread radio, but you have to pick one. \n\nIf you set it up with Wi-Fi, you can use the Kwikset app and connect to Amazon Alexa and Google via the cloud. With Matter, you can connect to those platforms locally and also to Apple Home and others, but you won’t be able to use the Kwikset app after setup, so you lose the auto-unlock feature, among others.\n\nKwikset’s auto-unlock feature worked flawlessly in testing\n\nMatter-over-Thread does promise better battery life — and long-term testing bears this out — as well as the ability to easily share the lock with other ecosystems. I set it up in Apple Home, Google Home, and Samsung SmartThings via Matter with no issues and could control it with all three via routines, automations, and voice commands.\n\nIt’s a shame to have to choose between using Matter and some of this lock’s best features, but this is a problem across Matter, not specific to Kwikset. Kwikset’s solution allows you to use its advanced features today while still having the future-proofing potential of Matter for tomorrow.\n\nKwikset recently launched the Halo Select Plus, which we’re currently testing. This adds Apple Home Key support, but at $329, you’re paying a lot more for this one added function. Other recent updates include new finishes for the Halo Select line.\n\nRead my review of the Kwikset Halo Select.\n\nBest budget smart(ish) lock\nWyze Lock Bolt\nThis inexpensive smart door lock has a lightning-fast fingerprint reader plus an easy-to-use, backlit keypad. It’s Bluetooth-only (unless you also buy its compatible video doorbell to act as a Wi-Fi bridge), so the battery lasts over a year. At under $80, it’s the best budget lock we tested.\n\nScore: 7ProsConsInexpensive Good fingerprint readerOffline access codesLong battery lifeNo Wi-Fi No smart home supportLarge rear housing\nWhere to Buy: $79.98 $65.75 at Home Depot $79.98 $72.02 at Amazon $79.98 at Wyze\nConnectivity: Bluetooth 5.0  / Access options: Fingerprint, keypad, app / Auto-unlock: No / Battery type: Four AA batteries  / Battery life: One year / Security Grade: ANSI/BHMA Grade 3 / Guest codes: Yes / Works with: N/A\n\nThe Wyze Lock Bolt is a good choice if you want something inexpensive and useful and don’t care about smart home integration — or prefer a lock without it. It’s not sleek or stylish; it’s just a big hunk of black plastic (there’s also a satin nickel version). Out of the box, it doesn’t connect to Wi-Fi or integrate with any smart home systems, but it does have an easy-to-use backlit keypad and a lightning-fast fingerprint reader. It’ll auto-lock if you want, and it’s half the price of most smart locks in this list.\n\nIn addition to the fingerprint reader and keypad, the Wyze Lock Bolt can be controlled over Bluetooth, and its range is very good. I could lock the door from my bedroom at the other end of the house using the Wyze app. That’s important, as there’s no way to lock the door on a schedule (although you can enable auto-lock).\n\nThe Wyze doesn’t connect to Wi-Fi or integrate with any smart home systems \n\nThe Bolt doesn’t integrate with smart home platforms, but if you don’t need to control your lock with your voice or plan to add it to any smart home routines, you won’t miss those features. It also delivers up to a year of battery life on four AAs — I tested it for three months and it only lost 15 percent.\n\nBut without Wi-Fi, I couldn’t check on it or control it when I was away from home, so turning on the auto-lock option is a must. If I wanted to let someone in while I was gone, I couldn’t unlock the door remotely, but I could generate an offline code in the Wyze app and share that. This uses similar technology to two-factor authentication codes and worked perfectly in my testing.&nbsp;\n\nSince I tested the lock, Wyze has introduced an integration with its Wyze Video Doorbell Pro that lets you unlock the Bolt remotely when paired with the doorbell — but it doesn’t let you lock it remotely, which is odd. Of course, if you enable auto-lock, this is less of an issue.\n\nBest retrofit smart lock\nNuki Smart Lock\nNuki Smart Lock\n\nScore: 9ProsConsLightning fastNice, compact designSimple to installSupports Wi-Fi and Matter over ThreadNo account requiredBroad smart home compatibilitySubscription required for remote access (without Matter)No Apple Home KeyProprietary charging cableNo door sensor included\nWhere to Buy: $159 $101.76 at Amazon (with on-page coupon)\nConnectivity: Bluetooth, Wi-Fi, and Matter-over-Thread / Access options: Key, app, voice, fingerprint and keypad (sold separately) /  Auto-unlock: Yes / Battery type: Non-removable, rechargeable / Battery life: Up to 12 months / Guest codes: Yes / Works with: Amazon Alexa, Google Home, Apple Home, Samsung SmartThings\n\nThe Nuki Smart Lock is the most advanced retrofit smart lock we’ve tested, and a worthy replacement for our previous pick, the August Wi-Fi Smart Lock. It features a compact design and lightning-fast locking — even quicker than manually turning the lock — and it works over Bluetooth, Wi-Fi, and Matter over Thread, the latter of which enables out-of-home control and notifications through any Matter-compatible smart home platform.\n\nWhereas most smart locks feature a big, bulky design, the Nuki Smart Lock boasts a minimalist style with a premium look and feel. Installation is straightforward — simply remove the thumbturn from your existing deadbolt, replace it with a blackplate, and snap the Nuki into place. Once it’s installed, you can get up and running without signing up for an account, which is a rare feature for a smart lock.\n\nThe Nuki app gives you access to multiple settings and customization options. In addition to standard features like key sharing with family members and enabling auto-lock and auto-unlock, it supports schedules, an activity log, and a convenient Night Mode, which can lock the door at a set time, disable auto-unlock, and enable auto-lock.\n\nIf you don’t have a Matter hub and a Thread border router — like a HomePod — Nuki offers a subscription service called Nuki Premium ($5.90 per month). It adds features like remote access, lock activity notifications, and integration with rental platforms like Airbnb. Another possible upgrade is the optional keypad, which supports both PIN codes and fingerprints, making it easy for friends, family, and guests to gain access without needing to download an app. Although the fingerprint reader works well, there is no backlight, making nighttime use tricky without a porch light. The current keypad doesn’t support Apple Home Key, though Nuki is planning to release one later this year with ultra-wideband unlocking (UWB) and NFC support.\n\nNuki’s smart lock has a built-in battery that can last for months, and it only takes a few hours to fully recharge. While a non-removable battery raises concerns about longevity — smart locks generally use AA batteries — Nuki claims it should last 10 years. After that, the company says a replacement plan will be offered.\n\nRead our review of the Nuki Smart Lock.\n\nBest smart lock for renters\nYale Approach Lock with Wi-Fi\nThis slimline, easy-to-install, inexpensive retrofit lock is a simple solution with a year of battery life. It requires a plug-in bridge for out-of-home control and doesn’t work with Apple Home. The optional keypad adds to the cost but also to the convenience. \n\nScore: 7ProsConsEasy installOption of fingerprint keypadA year of battery lifeRequires Wi-Fi bridgeKeypad is big and uglyNo support for Matter\nWhere to Buy: $129.99 $96.34 at Amazon $239.99 at Yale (with fingerprint keypad)\nConnectivity: Bluetooth and Wi-Fi (with plug-in module) / Access options: Key, app, voice, keypad and fingerprint reader sold separately / Auto-unlock: Yes / Battery type: Four AA alkaline batteries / Battery life: 12 months / Guest codes: Yes / Works with: Amazon Alexa, Google Home, Samsung SmartThings\n\nStarting at $130, the Yale Approach is a more affordable retrofit lock with no monthly subscription. It’s super easy to install, looks nice, and has a good list of features — auto-lock, auto-unlock, app and voice control. Add the Bluetooth keypad to get one-touch locking, key code, and fingerprint access.\n\nThe Approach replaces your thumb turn, so you can still use your current lock and key — making it a great option if you are renting and don’t want to annoy your landlord. It has a nice, slim profile and blends in better than the rear housing of most smart locks.\n\nThe lock comes in black or silver and took me less than five minutes to install. It uses four AA batteries and promises 12 months of battery life. This is because there is no built-in Wi-Fi; instead, it uses an included plug-in bridge.\n\nThe bridge adds out-of-home control and connection to smart home platforms, including Alexa and Google Home, but there’s no Apple Home support). This allows for voice control and adding it to smart home routines. Yale told me there’s an onboard Thread radio that will be activated to support Matter, but didn’t say when this would arrive.\n\nThe optional Bluetooth keypad lets you control the lock from the outside without using an app or key, and it worked promptly and reliably. There’s the option of a fingerprint version, and that was similarly a good experience — just touch and open. The keypad also allows you to lock the door when you leave by pressing the Yale logo button. \n\nThe keys are a bit sensitive; I frequently get double inputs when pressing. But I liked the LED indicator that notifies you with green if your code was accepted or red if there’s an issue. This made it easy to know if the input worked, as the lock is very quiet — it’s hard to hear it locking or unlocking.\n\nMy biggest disappointment is the look of the keypad. It’s big, wide, and black, with prominent white numbers that don’t disappear when not in use — it looks a bit like a toy keypad on your door.\n\nBest fingerprint smart lock\nYale Assure Lock 2 Touch\nThis fingerprint lock is fast and reliable, and the keypad is a good backup option for visitors. It works with Apple Home and can be upgraded to support Wi-Fi — which you’ll need for remote unlocking, Android phones, Amazon Alexa, and Google Home support. Auto-unlock can open the door as you approach, and you can also use a key if you just can’t let go.\n\nScore: 8ProsConsFast fingerprint readerNice, compact designWorks with Apple HomeCompatible with Wi-Fi and Z-WaveTouchscreen isn’t intuitiveAuto-unlock can be slow / unreliableNo Matter supportProminent Yale brandingAdditional connectivity options cost extra\nWhere to Buy: $189.99 $169.99 at Amazon (Bluetooth) $279.99 $269.99 at Amazon (Wi-Fi)\nConnectivity: Bluetooth (can add Wi-Fi, Z-Wave) / Access options: Key, keypad, fingerprint reader, app, voice / Auto-unlock: Yes / Battery type: Four AA batteries / Battery life: Six months to a year / Guest codes: Yes / Security rating: ANSI/BHMA Grade 2 / Works with: Apple Home, Amazon Alexa, Google Home, Samsung SmartThings\n\nThe Yale Assure 2 line — previously my top pick — has something for everyone. There’s an option with or without a keyway, with a touchscreen keypad or a physical keypad, or with Apple Home Key, but my favorite model is the Yale Assure Lock 2 Touch with a built-in fingerprint reader. It costs $279.99, and the built-in fingerprint reader is fast and efficient. I tested the touchscreen version, but Yale recently released a keypad version. Unless you really value the clean look of the touchscreen (which is blank when off), go with the keypad — it’s much easier to use.\n\nThe Yale Assure 2 is a good-looking lock that works with every smart home platform with its swappable modules. Its slimline design (both front and back), wide smart home compatibility, easy-to-use app, and good selection of unlocking options — including fingerprint unlock — make it a great option for your front door.&nbsp;\n\nThe lock supports Bluetooth out of the box and works with the Yale Access app and Apple Home app (which adds remote unlocking if you have an Apple Home hub). Along with a keycode, fingerprint reader, or key, you can also choose to use auto-unlocking. Auto-unlock is a decent alternative to fingerprint unlock, but I found I often had to wait at the door for a second or two before it worked. Still, it’s faster than fumbling through a purse for keys when your hands are full.\n\nSupport for other platforms and remote unlocking comes through Yale’s ingenious swappable networking modules, which cost around $80 each. There’s a Wi-Fi module to add Alexa and Google Home integration and a Z-Wave module for compatibility with (some) SmartThings hubs, Ring Alarm, and other Z-Wave hubs. Yale promised support for Matter via a Matter-over-Thread module back in 2022, but this still hasn’t materialized. They have announced a different lock that uses Thread, but it doesn’t have a fingerprint reader. I plan to test this soon.\n\nI tested the Wi-Fi module in the Assure 2 Touch, which worked well with Amazon Alexa and Google Home. It allowed me to add the lock to Alexa Routines, lock and unlock it with my voice, and control it away from home. The downside is that control over Wi-Fi is considerably slower than over Bluetooth and drains the battery more quickly. Yale estimates up to a year on Bluetooth only, compared to six months over Wi-Fi; I got about four months.\n\nRead my review of the Yale Assure Lock 2 Touch.\n\nBest smart lock that works with Apple Home Key\nSchlage Encode Plus\nThe Encode Plus is a high-end, reliable smart lock that works with Apple Home and has Home Key compatibility. It also has a Thread radio on board, which helps with connectivity and battery life.\n\nScore: 8ProsConsSupport for Apple Home and Home KeyWorks over ThreadEasy-to-use keypadNice design options that may match your hardwareExpensiveQuite loudNo Matter support\nWhere to Buy: $329.99 $259 at Amazon $329 $259 at The Home Depot $297.09 at Build\nConnectivity: Wi-Fi or Thread / Access options: Key, keypad, app, voice, Apple Home Key / Auto-unlock: No / Battery type: Four AA batteries / Battery life: Up to six months / Security Grade: ANSI Grade 1 / Guest codes: Yes / Works with: Apple Home Key, Amazon Alexa, Ring, and Google Home\n\nApple Home Key lets you use your iPhone or Apple Watch to tap to unlock your door in much the same way as you tap to pay. It uses an NFC chip in the lock, and is fast, efficient, and secure. There are no apps to open, no buttons to press, and no need to unlock your phone (although you can add that step as an extra security layer). However, it does require an Apple device; it won’t work on Android. \n\nHome Key took a while to gain adoption, but there are now several options (and should soon be more as Apple has made it part of Matter). The Schlage Encode Plus is still the best option — if one of the most expensive — as it has a built-in keypad and works over Thread. \n\nThe keypad is useful for giving access to people with whom you can’t share a Home Key (sharing is quite limited), and Thread makes for a rock-solid connection. While it won’t be updated to support Matter, the Thread radio adds better battery life and a more stable connection to Apple Home than Bluetooth. I have had numerous connectivity issues in HomeKit with Bluetooth-only locks.\n\nTo use Home Key, you need to have an Apple Home Hub, such as an Apple TV or HomePod. Adding the lock to the Home app automatically adds the Home Key card to your Wallet, as well as that of anyone else you have added to your Apple Home. That’s much easier than getting household members to download a whole new app for the door lock. I should know — I try regularly. \n\nTo allow someone not in your household to control the lock, you’ll have to give them a standard PIN, which you can do in the Apple Home app or the Schlage Encode app. If you like, you can set this lock up entirely in the Home app and never have to use the manufacturer’s app.&nbsp;\n\nRead our review of the Schlage Encode Plus.\n\nBest smart lock that doesn’t look like a smart lock\nLevel Lock Pro\n\nScore: 8ProsConsNo brandingSmall and unobtrusiveSupports Home KeyWorks over ThreadBroad smart home compatibility through MatterDoor senseExpensiveKeypad costs extraAuto-unlock can be unreliableNot ideal for older doors\nWhere to Buy: $349 at Level\nConnectivity: Bluetooth, Thread, Wi-Fi with bridge / Access options: Key, app, voice, keypad (sold separately), Apple Home Key / Auto-unlock: Yes / Battery type: One CR2 battery / Battery life: 12 months / Guest codes: Yes / Works with: Matter, Apple Home, Google Home, Amazon Alexa, Samsung SmartThings\n\nIf you don’t want a smart lock that looks like a smart lock, there’s the Level Lock Pro. It doesn’t feature a chunky battery box or prominent branding, yet it packs a ton of technology inside the footprint of a traditional lock. The newer model features an upgraded processor, Matter-over-Thread support, a passive infrared sensor for presence detection, and a built-in door sensor to tell you if the door is open or closed, not just locked. It also comes in one of two discreet finishes, matte black or nickel, and offers up to a year of battery life with a single CR2.\n\nIn terms of execution, the faster dual-core Bluetooth/Thread chip delivers more reliable performance than earlier models — including our former pick, the Level Lock Plus — and the lock offers support for multiple access options. You can unlock the Lock Pro with a regular key, Apple Home Key, the Level app, voice control, auto-unlock, or a touch-to-unlock mode. We found the auto-unlock feature to be finicky at times, though, and the installation can be a headache on older doors. It’s also pricey, starting at $349 (plus an optional $79 Wi-Fi bridge).\n\nThat said, if you want a lock that offers premium features and a sleek design, the Lock Pro feels like the brand’s most fully realized vision of what a minimalist smart lock should be.\n\nRead our hands-on impressions of the Level Lock Pro.\n\nBest smart lever lock\nAqara Smart Lock U300\n\nWhere to Buy: $229.99 $179.99 at Amazon $229.99 $183.99 at Best Buy\nConnectivity: Thread / Access options: Key, app, voice, keypad, NFC tag, Apple Home Key / Auto-unlock: No / Battery type: Four AA batteries / Battery life: 10 months / Guest codes: Yes / Works with: Matter, Apple Home, Amazon Alexa, Google Home, Samsung SmartThings\n\nThe Aqara U300 is a lever-style smart lock; it replaces a knob or lever lock on a door with a single borehole rather than a door with a deadbolt lock with two holes. This type of lock is traditionally found on interior doors, pedestrian doors into garages, or side doors.\n\nThere are options for smart lever locks from Yale, Schlage, and Lockly, but the U300 is the only one with Home Key compatibility and a built-in fingerprint reader. It also works over Thread and supports Matter.\n\nI installed it on my garage door, and it works like a charm. The fingerprint reader is right where you put your thumb to open the door, so I barely notice it unlocking as I walk in. It also has a keypad, and I can use my iPhone or Apple Watch for Home Key. It’s set to auto-lock by default, but you can enable passage mode directly on the lock if you don’t want it to stay locked all the time.\n\nIt paired to Matter easily — I set it up in Apple Home and could add a code and Home Key all without even opening the Aqara app. Because it uses Thread, there’s no need for an Aqara hub. Thread also enables up to 10 months of battery life, according to Aqara.\n\nI love the idea of using smart locks on other doors in my home. I could see this working on a basement door, a home office, or any other room you like to keep people out of. However, I would like to see a way to permanently enable passage mode. Currently, you have to do it on the device, and it reverts to auto-lock after an undetermined period. This makes it somewhat useless for interior doors. It’s also very large and only comes in black or silver, so it likely wouldn’t blend in with your interior decor. A slimmer option, in more colorways, designed for inside use would be nice to see.\n\nThe U300 is expensive at $230, but it&#8217;s similar to other outdoor-rated options (it’s IPX4-rated). The addition of Thread — a protocol that works over a mesh network — makes it easier to extend connectivity further to places like a shed or garage.\n\nBest smart lock that’s also a video doorbell\nEufy FamiLock S3 Max\n\nScore: 7ProsConsDigital peephole is usefulPalm unlock is fastNo subscription fees for videoLock supports MatterFacial recognition with HomeBaseVery expensiveNighttime video is not greatNo package detectionHomeBase required for most smart alerts\nWhere to Buy: $399.99 $299.99 at Amazon $399.99 $299.99 at Eufy $399.99 at Best Buy\nConnectivity: Wi-Fi or Eufy HomeBase / Access options: Key, palm unlock, keypad, app, voice / Auto-unlock: No / Battery type: Removable, rechargeable lithium-ion battery, AAA backup / Battery life: Five months / Guest codes: Yes / Security rating: ANSI Grade 1 / Works with: Matter (including Apple Home), Amazon Alexa, and Google Home\n\nEufy’s new FamiLock S3 Max combines a smart lock and video doorbell in one device and features a digital peephole and a wave-to-unlock function. It also has a keyway and keypad and supports Matter-over-Wi-Fi, so it can work with all the major smart home platforms.\n\nMy favorite of all these features is the video screen on the inside part of the lock, which shows a live feed of who is on the other side of the door. If you have a peephole or a window in your door, this might not be much use — and you can opt to get the lock without the screen for $50 less. But as a quick way to confirm who is at your door before opening it, it&#8217;s super handy.\n\nThe lock has another fairly unique feature: palm vein recognition technology. This lets you wave your hand over it to unlock it, and is an alternative form of biometric access to the popular fingerprint reader.\n\nPalm unlocking isn’t any faster or easier than using your fingerprint, though, and I found it harder to get used to. But once I got the hang of it, it worked reliably. Both my kids also picked it up quickly, and my husband, who has trouble with fingerprint locks in general, really liked it.\n\nThe main reason to buy this lock is for the video doorbell feature. The FamiLock’s 2K camera provides clear, crisp video during daylight hours and decent night vision, although my protruding door frame reflected the LEDs, causing the footage to blow out a bit.\n\nThe 180-degree diagonal field of view meant I could see top to bottom and all of one side (not the other side, though, due to the aforementioned door frame). But packages and people were clearly visible, which is most of what you want to see with a doorbell camera.\n\nThere’s no fee for viewing recorded footage of visitors in the Eufy app, and videos are stored locally on the device. Live view and recording pulled up promptly in the app, and the doorbell can alert you when it sees a person. For more advanced smart alerts, including facial recognition, you need to connect it to a Eufy HomeBase.\n\nBear in mind, Matter integration only controls the lock, as cameras aren’t supported by the standard yet, so the benefits of using Matter are fairly limited. (If you’re looking for a biometric Matter lock,&nbsp;Eufy’s E30 is a good fingerprint lock that uses Matter-over-Thread.)\n\nAdding a video doorbell to a smart lock puts a lot of strain on the battery. While you can adjust several settings to help save power, Eufy says you’ll only get about five months of battery life from the lock’s giant 15,000mAh removable battery. Handily, four AAA backup batteries are tucked into the top to keep it functioning while you’re recharging the battery (which takes a while). I’ve been testing it for over a week, and the battery indicator hasn’t budged yet.\n\nAt $400, this is a very expensive lock, but it works well and provides dual functionality of a doorbell and door lock.\n\nRead my review of the Eufy FamiLock S3 Max.\n\nBest facial recognition smart lock\nLockly Visage\n\nScore: 8ProsConsFacial recognition is super fastHome Key and a fingerprint readerCompact designComes with two rechargeable batteriesKeypad is hard to see, fiddly to useWired door sensor is uglyNo support for Matter\nWhere to Buy: $349 at Amazon $349 at The Home Depot $349 at Lockly\nConnectivity: Wi-Fi (2.4gHz) / Access options: Fingerprint, facial recognition, app, voice, keypad, Home Key, key / Auto-unlock: No / Battery type: 10,000mAh rechargeable / Battery life: Eight months / Guest codes: Yes / Security rating: ANSI Grade 1 / Works with: Apple Home, Amazon Alexa, Google Home\n\nI was very impressed with the Lockly Visage. The first facial recognition residential smart lock on the market, it also features a fingerprint reader, a keypad, a keyway, and Apple Home Key — that&#8217;s a lot of high-tech ways to unlock your door. And while it&#8217;s probably too much lock for most people, if you are a super smart home user or a major gadget nerd, you’ll love this lock.\n\nI was skeptical about the facial unlocking at first, but it worked really well, opening a second or two before I put my hand on the handle. The only caveat is that I had to be approaching face-on, which in most cases I was, but the couple of times I approached from a slightly odd angle, it failed to unlock. In those cases, though, I had the option of using my fingerprint or Home Key.\n\nThere’s also a touchscreen keypad, which is mainly useful for handing out codes to guests and visitors whose faces and fingers you don’t want to scan into your lock. The keypad is probably my least favorite part of the lock; it&#8217;s very small, which is good for the overall look, but fiddly to access. It&#8217;s also hard to see in bright light. But with all the other ways to unlock, this isn’t a deal-breaker.\n\nNote that the Visage doesn’t take video or still images; its infrared camera is only used for facial recognition, data for which is stored on the device. Lockly does have a video doorbell version for $429, though that doesn’t have facial recognition.\n\nSurprisingly, despite all the tech packed into it, the lock is compact and stylish-looking and works with the redesigned Lockly Home app, which is now more straightforward and easier to use. The lock works over Wi-Fi and supports Apple Home, Google Home, and Alexa, but there’s no support for Matter.\n\nLockly claims eight months of battery life with its included rechargeable 10,000mAh battery. Uniquely, it comes with two batteries, so you can swap one and keep the lock online while charging the other. \n\nAt $350, the Lockly Visage is very expensive, but considering the tech packed into this lock, plus the two batteries, it’s not outrageous. Its solid build, broad smart home compatibility, and multiple very cool ways to control it make this a great lock.\n\n\n\nOther smart locks to consider\n\n\nEufy’s E30 smart lock works with both Matter-over-Thread and Wi-Fi. It has a fingerprint reader, key, and keypad, and you can use the fingerprint access through the Eufy app while connecting it to platforms like Apple Home through Matter. Unlike the Kwikset Halo Select, you can use Wi-Fi and Thread simultaneously, which is unusual. I’ve not tested it long enough to determine if you still benefit from Thread’s better battery life. It’s cheaper than the Halo, has a fingerprint reader instead of auto-unlock, and promises 8 months of battery life. It can also integrate with a Eufy doorbell to control it from a live view. It has a nice compact design, but the rear housing is huge to fit 8 AA batteries. The lock is loud in operation, and the fingerprint reader was finicky; it also has the lowest ANSI/BHMA rating.\n\n\n\nU-tec’s Bolt Fingerprint Matter works over Thread and can be set up directly in your smart home platform of choice — no need to use U-tec’s U Home. But if you want to use its built-in fingerprint reader, you’ll need to download the app. And if you don’t use it, then it&#8217;s kind of a waste of space, so the whole “you only need one app” feature falls flat. I also don’t love the design of the Ultraloqs, while smaller on the exterior than most smart locks, they are squat and chunky looking, resembling a combination lock rather than door hardware. It also uses eight batteries, which is an absurd amount, and is very noisy.\n\n\n\nIf you’re an Amazon Alexa Ring household, the&nbsp;Schlage Encode Wifi&nbsp;lock is a good option; it integrates with the Ring app, so you can lock and unlock it while viewing a live feed from your&nbsp;Ring doorbell. Its design will also match a Schlage door set, which is important for some people. There’s no door-sensing or auto-unlock option, but you have three reliable ways to get in: a key, a PIN, and the app. It also lasts at least six months on one set of four AAs.\n\n\n\nIf you want Home Key but the Schlage is too expensive or not your style, the Aqara U50 is a good, inexpensive alternative that’s less than half the price of the Schlage. It doesn’t have as good a build quality, and the keypad is a bit finicky, but it works with Apple Home and Home Key out of the box. (You‘ll need an Aqara hub for any other smart home integrations, including Matter.) It also pairs with Aqara’s G4 video doorbell to unlock the door while viewing video from the live feed. (Aqara has a doorbell that’s also a hub).\n\n\n\nThe Aqara Smart Lock U100 is a Matter-compatible smart lock that also works with Apple HomeKit and Home Key. A full replacement deadlock that can be unlocked by key, keypad, NFC key fob, fingerprint, voice control, through an app, or with Apple Home Key. It&#8217;s a good lock, but its smart home integrations are complicated, and there are now better options.\n\n\n\nThe Yale Assure SL with Matter Module is a Matter-over-Thread deadbolt smart lock. It’s simple, with a clean design and a touchscreen keypad for entry. There’s no keyway, fingerprint reader, or Apple Home Key, but in terms of simplicity, reliability, and future-proofing, it’s a good option. It&#8217;s one of the few locks you can connect directly to your smart home platform of choice without needing to download the manufacturer’s app — the Assure SL doesn’t even work with Yale’s app.\n\n\n\nThe SwitchBot Lock Pro&nbsp;is an all-around upgrade to one of my previous favorite locks, the SwitchBot lock (which is now discontinued). It’s a great solution if you have an unusual lock, as it can work on almost any door; it has higher-quality materials than the original, but now requires you to replace the rear of your lock (as most retrofit locks do). It does support Matter through a bridge, but for $200, I would still opt for Nuki.\n\n\n\nThe Kwikset Halo Touch is a Bluetooth and Wi-Fi fingerprint lock with a traditional keyway. As there’s no keypad, it looks more like a standard lock with the bonus of easy access. This is more limiting when it comes to sharing access to your door, but it’s a good solution for anyone who wants a simple key-free way into their home and knows they won’t need to share lots of digital keys.\n\n\n\nThe Tapo DL100 is a $70 smart lock with built-in Wi-Fi, a keypad, and a physical key, plus access via the Tapo mobile app and smart home integrations. It’s cheaper than my budget pick, the Wyze Bolt, and includes Wi-Fi for remote access, but you don’t get a fingerprint reader. It works with Tapo’s excellent video doorbells.\n\n\n\n\nWhat’s coming next and what I’m currently testing\n\n\nThe SwitchBot Lock Ultra Vision is a retrofit smart lock that features a keypad with built-in facial recognition. The keypad also has a fingerprint reader and auto-unlock. The lock can work with almost any style of door lock, connects over Bluetooth, and works with Apple Home (through Matter), Amazon Alexa, and Google Home, with a SwitchBot hub. \n\n\n\nThe Yale Smart Lock with Matter (pictured) is a $170 smart lock that uses Thread and is a full-deadbolt replacement featuring a keypad and keyway for access. It’s designed to pair with Google’s Nest video doorbells.\n\n\n\nThe Ultraloq Bolt NFC ($249) is U-tec’s first Apple Home Key smart lock, and it now supports tap-to-unlock on Android phones. There’s no fingerprint reader, but there is a keypad and a physical key. Built-in Wi-Fi adds support for Amazon Alexa, Google Home, and Samsung SmartThings.\n\n\n\nThe Schlage Sense Pro is the company’s first lock to support Matter&nbsp;and one of the first to use&nbsp;ultra-wideband technology (UWB)&nbsp;for hands-free unlocking is scheduled to launch this year. It has a keypad but no keyway and will work with the Aliro standard when it launches. This means it should support a version of Apple Home Key.\n\n\n\nU-tec’s&nbsp;Ultraloq Bolt Mission&nbsp;is a $400 lock that will work with UWB for hands-free unlocking; it also has a keypad and a keyway, and the company says it will support Matter when it launches.\n\n\n\nKwikset says it&#8217;s launching the Aura Reach later this year, a Matter-over-Thread version of its midrange Aura line.\n\n\n\nWyze’s Palm Lock is a $130 palm-scanning door lock that allows users to unlock their door with the wave of a hand. It uses palm vein recognition to identify registered users, and it can also be unlocked using a physical key, a code, or Wyze’s mobile app. Battery life is rated at up to six months, while a backup battery can power the lock for up to two weeks. It also features Wi-Fi support, so it can be locked and unlocked from anywhere your phone has internet access.\n\n\n\nThe TCL D2 Pro is another palm-scanning door lock that promises near-instant recognition and 99.99 percent accuracy. It supports real-time notifications, a 10,000mAh battery, auto-lock, and multiple access options, including a physical key, a keypad, via Google Home or Amazon Alexa, app control, and a key FOB. Additionally, TCL says your data is stored locally for enhanced privacy and security.\n\n\nSmart lock FAQs\n\nPhotography by Jennifer Pattison Tuohy / The Verge\n\nUpdate, December 3rd: Updated to reflect current pricing / availability. Brandon Russell also contributed to this post.",
+      "content_length": 37703,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Algeria upholds 7-year jail term for French sports journalist",
+      "link": "https://www.france24.com/en/video/20251203-algeria-upholds-7-year-jail-term-for-french-sports-journalist",
+      "published": "2025-12-03T21:32:28",
+      "content": "An Algerian appeals court on Wednesday upheld a seven-year prison term for French sports journalist Christophe Gleizes, who was jailed in June on terrorism-related charges. Gleizes, 36, is France's only journalist imprisoned abroad, and his jailing comes at a time of diplomatic friction between Paris and Algiers. FRANCE 24's Vedika Bahl reports.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "300,000 people displaced in northern Mozambique",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251203-300-000-people-displaced-in-northern-mozambique",
+      "published": "2025-12-03T21:29:36",
+      "content": "In tonight's edition, in Mozambique, more than 300,000 people have fled jihadist violence that is spilling over into previously safe communities. Also, fragile hopes for the signing of a peace deal between Rwanda and DR Congo this week are strained. And around 1 in 6 people are reckoned to suffer from infertility during their reproductive years. Medics specializing in the field are calling for more prioritization of the issue in countries' approach to familyplanning .",
+      "content_length": 472,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Reddit&#8217;s CEO says r/popular &#8216;sucks,&#8217; and it&#8217;s going away",
+      "link": "https://www.theverge.com/news/837780/reddit-r-popular-community-going-away-steve-huffman",
+      "published": "2025-12-03T21:20:20",
+      "content": "\n\n\n\t\n\tReddit CEO Steve Huffman. | Photo: Getty Images\t\n\nReddit is “moving away” from r/popular, the default feed for new users, and plans to replace it with “better, more relevant and personalized feeds,” according to CEO Steve Huffman (aka Spez). Huffman also notes that r/popular “sucks.”\n\n“For a long while, we were known as the ‘front page of the internet,’ but we’ve outgrown a singular front page for everyone,” Huffman says. “You have different interests than I do, and your Reddit should look different from mine. And from your neighbor’s, or your coworker’s, or your best friend’s.”\n\nRegarding r/popular, he says that “in theory, it’s what’s most popular on Reddit, but it’s actually what is liked by the most active users on Reddit—which is not the same thing. Having it as a default feed gives the false impression of a singular Reddit culture, one that is neither representative of Reddit nor appealing to new users (or anyone at all, IMO).” So, in the “near future,” Reddit is going to “stop showing it to new users, and unless you read it regularly, we’ll remove it from the core group of feeds in the app.”\n\nThe changes to r/popular will start showing up to some users as early as this week, spokesperson Tim Rathschmidt tells The Verge. Reddit originally made r/popular the default for logged-out users in 2017.\n\nHuffman didn’t go into detail on what the improved feeds might look like, and Rathschmidt says that the company is “still in early-stage testing and don’t have more to share at the moment.” However, Huffman did reply to a post asking for the return of News feed filters by saying that he’s “fully aligned here” and that “when I talk about more personalized and relevant feeds, this sort of functionality is what I’m referring to.”\n\nReddit is also in the process of changing its policies for moderators to prevent users from overseeing a large number of high-traffic communities, seemingly to reduce the number of so-called “powermods.” As announced in September, beginning March 31st, 2026, users will only be able to moderate up to five communities that have over 100K weekly visitors. The company says that the change will impact “less than 0.1% of active mods.”\n\n“Distinct communities require distinct leaders,” Huffman says. “A situation where someone moderates an unlimited number of massive communities is not that, which is why we’re making a few changes.”",
+      "content_length": 2392,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump embraces gas guzzlers and air pollution by weakening fuel economy standards",
+      "link": "https://www.theverge.com/news/837575/trump-rollback-fuel-economy-standards",
+      "published": "2025-12-03T21:19:09",
+      "content": "\n\n\n\t\n\tMotorists drive on Interstate 210 during the morning commute on December 03, 2025 in Pasadena, California.\t\n\nPresident Donald Trump announced a new plan that lets carmakers pollute more by making less fuel efficient vehicles. The National Highway Traffic Safety Administration (NHTSA) said today that it’ll roll back fuel economy rules finalized last year by the Biden administration for model year 2022-2031 vehicles.\n\nThe Trump administration has eliminated incentives for EV purchases, stymied energy efficiency policies and gutted pollution regulations in general. The president wants the US to produce more oil and gas, and says that his agenda will boost business for American automakers. Critics contend that Americans will ultimately pay for these measures with higher fuel costs, as well as health risks and climate disasters stemming from tailpipe emissions.\n\n“Slashing fuel economy standards will increase costs for drivers and threaten the progress made in reducing dangerous air pollution and preventing adverse health outcomes for children, older adults, and communities who live near busy roads,” Darien Davis, government affairs advocate on climate change and clean energy at the League of Conservation Voters, said in a statement emailed to The Verge.\n\n“Slashing fuel economy standards will increase costs for drivers”\n\nNHTSA proposed a federal fuel economy standard of around 34.5 miles per gallon of gas by 2031.&nbsp; That’s far lower than the bar Biden set last year of reaching an average of roughly 50.4 miles per gallon by 2031.&nbsp;\n\nThe agency previously estimated that the higher standards set in 2024 would collectively save Americans $23 billion in fuel costs over the years, or about $600 for each passenger car and light truck owner over the lifetime of their vehicle. The rules were expected to cut down gasoline use by 70 billion gallons through 2050. That would avoid 710 million metric tons of planet-heating carbon dioxide pollution, equivalent to taking more than 165.6 million gas-guzzling passenger vehicles off the road for a year. Trump claimed without evidence that his latest action would shave $1,000 off the price of a car, while clean energy advocates expect the rollback to lead to higher fuel costs.\n\nAutomakers would likely have had to sell more EVs in order to meet the higher Biden-era standards for fleetwide fuel economy. Trump’s Transportation Secretary Sean Duffy accused the Biden administration in June of illegally using Corporate Average Fuel Economy (CAFE) standards to mandate EV sales. In July, Republicans eliminated fines for carmakers failing to meet CAFE standards in the giant spending bill they passed in July and sunsetted tax credits for EVs. “America Now Effectively Has No Fuel Economy Rules,” reads a July headline from Kelley Blue Book.&nbsp;\n\nGM had paid $128.2 million in CAFE penalties for 2016 and 2017, Reuters reports. Stellantis, which owns Chrysler, has paid more than $590 million in penalties since 2016. Leadership for both companies joined the president in the Oval Office today as he announced the new CAFE standards. \n\n“We’ve just freed you up, so you’re going to have a good day, you’re going to have a good number of years,” Trump said to auto industry leaders during the announcement.&nbsp;\n\n“Today is a victory of common sense and affordability,” Ford CEO Jim Farley later responded.&nbsp;\n\nThe US Department of Transportation is expected to post the proposal for public comment before finalizing standards next year.",
+      "content_length": 3516,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Republicans drop Trump-ordered block on state AI laws from defense bill",
+      "link": "https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/",
+      "published": "2025-12-03T21:06:34",
+      "content": "A Donald Trump-backed push has failed to wedge a federal measure that would block states from passing AI laws for a decade into the National Defense Authorization Act (NDAA).\nHouse Majority Leader Steve Scalise (R-La.) told reporters Tuesday that a sect of Republicans is now “looking at other places” to potentially pass the measure. Other Republicans opposed including the AI preemption in the defense bill, The Hill reported, joining critics who see value in allowing states to quickly regulate AI risks as they arise.\nFor months, Trump has pressured the Republican-led Congress to block state AI laws that the president claims could bog down innovation as AI firms waste time and resources complying with a patchwork of state laws. But Republicans have continually failed to unite behind Trump’s command, first voting against including a similar measure in the “Big Beautiful” budget bill and then this week failing to negotiate a solution to pass the NDAA measure.Read full article\nComments",
+      "content_length": 995,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Putin has 'something to back his confidence with', analyst says",
+      "link": "https://www.france24.com/en/video/20251203-putin-has-something-to-back-his-confidence-with-analyst-says",
+      "published": "2025-12-03T20:57:16",
+      "content": "NATO chief Mark Rutte hit back at Vladimir Putin's hawkish comments on Wednesday, saying the alliance is 'ready to do what it takes' to protect Europe. Speaking on FRANCE 24, Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiative, says that Putin has 'something to back his confidence with' based on the absence of an international response to the repeated violations of NATO airspace.",
+      "content_length": 403,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Humans in southern Africa were an isolated population until recently",
+      "link": "https://arstechnica.com/science/2025/12/ancient-genomes-from-southern-africa-reveal-distinct-human-lineage/",
+      "published": "2025-12-03T20:40:42",
+      "content": "The fossil and genetic evidence agree that modern humans originated in Africa. The most genetically diverse human populations—the groups that have had the longest time to pick up novel mutations—live there today. But the history of what went on within Africa between our origins and the present day is a bit murky.\nThat’s partly because DNA doesn’t survive long in the conditions typical of most of the continent, which has largely limited us to trying to reconstruct the past using data from present-day populations. The other part is that many of those present-day populations have been impacted by the vast genetic churn caused by the Bantu expansion, which left its traces across most of the populations south of the Sahara.\nBut a new study has managed to extract genomes from ancient samples in southern Africa. While all of these are relatively recent, dating from after the end of the most recent glacial period, they reveal a distinct southern African population that was relatively large, outside of the range of previously described human variation, and it remained isolated until only about 1,000 years ago.Read full article\nComments",
+      "content_length": 1144,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Macron arrives in China for talks with Xi on trade ties and Russia's war in Ukraine",
+      "link": "https://www.france24.com/en/video/20251203-macron-arrives-in-china-for-talks-with-xi-on-trade-ties-and-russia-s-war-in-ukraine",
+      "published": "2025-12-03T20:33:39",
+      "content": "Emmanuel Macron arrived in China on Wednesday for a three-day state visit focusing on trade and diplomatic talks as the French president seeks to enlist Beijing in pressuring Russia toward a ceasefire with Ukraine. FRANCE 24's Mark Owen speaks with Jean-François Di Meglio, Economist and President of the Asia Centre think tank. He says that the French President will likely prioritise discussions on global governance, insisting on Xi's participation in next year's G7 summit in France.",
+      "content_length": 487,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Apple&#8217;s head of UI design is leaving for Meta",
+      "link": "https://www.theverge.com/news/837654/apple-meta-alan-dye-designer",
+      "published": "2025-12-03T20:13:01",
+      "content": "\n\n\n\t\n\t\t\n\nAlan Dye, who has led Apple’s UI design team since 2015, is leaving to join Meta as its chief design officer, Bloomberg reports. He’ll join Meta on December 31st, and Meta is opening a design studio and giving Dye oversight of design for “hardware, software and AI integration for its interfaces,” according to Bloomberg. Dye will report to Meta CTO Andrew Bosworth.\n\nDesigner Steve Lemay will replace Dye at Apple, the company confirmed to Bloomberg. “Steve Lemay has played a key role in the design of every major Apple interface since 1999,” CEO Tim Cook told Bloomberg in a statement. “He has always set an extraordinarily high bar for excellence and embodies Apple’s culture of collaboration and creativity.” Following the recent retirement of former COO Jeff Williams, Apple’s design team now reports to Tim Cook.\n\nHere’s what Meta CEO Mark Zuckerberg says about the new design studio and the role of design at the company:\n\n\nThe new studio will bring together design, fashion, and technology to define the next generation of our products and experiences. Our idea is to treat intelligence as a new design material and imagine what becomes possible when it is abundant, capable, and human-centered. We plan to elevate design within Meta, and pull together a talented group with a combination of craft, creative vision, systems thinking, and deep experience building iconic products that bridge hardware and software. \n\n\nIn other post, he says:\n\n\nWe&#8217;re entering a new era where AI glasses and other devices will change how we connect with technology and each other. The potential is enormous, but what matters most is making these experiences feel natural and truly centered around people. With this new studio, we&#8217;re focused on making every interaction thoughtful, intuitive, and built to serve people. \n\n\nApple designer Billy Sorrentino is also leaving to join Meta, Zuckerberg says.\n\nApple didn’t immediately reply to a request for comment.\n\nDye’s departure is the latest leadership change at Apple, and another one of many top designers who have left the company in the last several years. Williams officially left Apple in November, and the company announced earlier this week that AI chief John Giannandrea would be stepping down. Bloomberg has also reported that chips lead Johnny Srouji is evaluating his future at the company.\n\nUpdate, December 3rd: Added posts from Meta CEO Mark Zuckerberg.",
+      "content_length": 2427,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU presents plan to use Russian assets for Ukraine as Belgium frets",
+      "link": "https://www.france24.com/en/video/20251203-eu-presents-plan-to-use-russian-assets-for-ukraine-as-belgium-frets",
+      "published": "2025-12-03T19:56:19",
+      "content": "The EU on Wednesday laid out a plan to use frozen Russian assets to help fund Ukraine with 90 billion euros over the next two years, despite outspoken opposition from key player Belgium. The European Union's executive has been drawing up options to help plug Kyiv's looming budget black holes as Russia's punishing invasion drags on towards a fourth year. FRANCE 24's Monte Francis reports.",
+      "content_length": 390,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Here are my 25 favorite deals from REI’s Cyber Week sale",
+      "link": "https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals",
+      "published": "2025-12-03T19:49:09",
+      "content": "\n\n\n\t\n\tThe JBL Charge 6 portable Bluetooth speaker is currently down to an all-time low of $129.99 ($70 off) at multiple retailers.\t\n\nREI took a hike during Black Friday, but the retailer is back with a full week of deals. Now through December 8th, REI is hosting a Cyber Week sale that offers big discounts on gadgets and gear designed for the outdoors. If you’re planning to hit the slopes this winter, now’s a good time to stock up. Perhaps you’re dreaming of the day warmer weather returns; there are plenty of deals on off-season gear, too.\n\nBelow, we’ve rounded up the best deals on Garmin watches, Bluetooth speakers, action cameras, camping gear, and more from brands like Insta360, JBL, and Yeti. Many of the products on this list we’ve either tested, reviewed, or bought ourselves, so you can be assured you’re making a quality purchase, whether you’re upgrading your kit, or buying a stocking stuffer or two. On top of Cyber Week, you can also save up to 60 percent off at REI Outlet, giving you more ways to save.\nGarmin Fenix 8\nThe Garmin Fenix 8 is a premium multisport watch that adds a speaker, mic, and on-device assistant for calls, timers, and voice commands. It also offers elite battery life, dual-frequency GPS, and robust sensors. Read our review.\n\nWhere to Buy: $999.99 $749.99 at Amazon (43mm) $1099.99 $849.99 at Walmart (51mm) $1099.99 $849.99 at REI (47mm)Garmin Venu 3S\nThe Venu 3S remains our favorite Garmin smartwatch. It’s a comfortable wearable with up to 10 days of battery life and a vibrant 1.2-inch OLED display, not to mention solid sleep tracking, Atrial Fibrillation detection, and a built-in EKG reader. Read our review.\n\nWhere to Buy: $449.99 $349.99 at Amazon $449.99 $349.99 at Best Buy $449.99 $349.99 at REIGarmin Forerunner 165 Music\nThe Garmin Forerunner 165 Music lets you download songs from Spotify, Amazon Music, and more. It also provides in-depth training metrics; however, it leaves out some of the more advanced features in exchange for a more affordable price. Read our review.\n\nWhere to Buy: $299.99 $249.99 at Amazon $299.99 $249.99 at Best Buy $299.99 $249.99 at REI\n\nYou can snag the Garmin Enduro 3 at its all-time low price of $749.99 ($150 off) at Amazon, Walmart, and REI. The high-end fitness watch is a popular option among the ultramarathon crowd, offering battery life that lasts up to 90 days with solar charging. It has a built-in LED flashlight, while the inclusion of multi-band GPS with SatIQ can help you stay on course during your trail runs. There are also features like TopoActive maps, adaptive training, recovery insights, and even rucking and ski profiles.\n\n\n\nIf you’re on the hunt for a more affordable option, the Garmin Vivoactive 6 is currently available at its all-time low of $249.99 ($50 off) at Amazon, Walmart, and REI. The fitness watch can track a range of workouts, including walking, running, cycling, HIIT, golf, and more. It also provides extensive health monitoring, including wrist-based heart rate, morning report, stress tracking, and menstrual cycle and pregnancy tracking. The battery life is rated to last up to 11 days, too, so you don’t have to worry about putting it on a charger every night.\n\n\n\nThere’s nothing like cooking a warm meal at your campsite. Sure, you have to carry some extra gear, but it’s worth it in the end, and right now you can get Coleman’s Cascade Classic Camp Stove for $97.49 (about $33 off) in a slick “hickory moss” color at REI. The camp stove provides 20,000 total BTU of cooking power, with two adjustable burners and enough room to accommodate one 12-inch pan and one 10-inch pan. It also features handy wind guards to help shield the burners and flame, along with up to one hour of burn time on high.\n\nDJI Osmo Pocket 3\nThe Pocket 3 features a 1-inch CMOS sensor, three built-in microphones, and a 2-inch rotatable screen. If you’re unhappy with the video your phone captures, DJI’s compact cam makes it easy to get high-quality, stabilized footage, whether you’re vlogging your adventures or filming a wedding. Read our impressions.\n\nWhere to Buy: $799.99 $519 at Amazon $799.99 $529 at B&amp;H $799.99 $598 at Walmart\n\nThe Garmin inReach Messenger Plus is a satellite communicator that’s great for going off the grid, and it’s currently at its all-time low price of $349 ($150 off) at Amazon, Walmart, and REI. The Messenger Plus can connect to the Iridium satellite network for global SOS, location sharing, and photo and voice messaging, so you can send a selfie to a loved one to let them know you’re ok. The richer context makes the Messenger Plus a nice upgrade over something like the Garmin inReach Mini 2, which only supports text, so long as you’re willing to pay the $7.99 per month subscription fee.\n\n\n\nIf you’ll be on the trail when it’s dark, you’re going to need a headlamp. Luckily, the&nbsp;BioLite Range 500 Headlamp is on sale for around $52.39 (about $18 off) at REI and BioLite’s online storefront. The headlamp is a great, basic option that features a max output of 500 lumens and five light modes, including white flood, white spot, white strobe, red flood, and red strobe. Its IP67 rating means it’s safe to use in the rain, while its side LED display can indicate how long the built-in, 1,634mAh battery can go before it needs to be recharged.\n\nJBL Clip 5\nThe Clip 5 is a compact Bluetooth speaker that provides big sound. It has a full customizable equalizer, so you can adjust the sound to your taste, along with an IP67 rating and up to 12 hours of playtime. It also has a built-in carabiner (hence the name), making it easy to clip the speaker to a backpack for easy listening on the go.\n\nWhere to Buy: $79.95 $59.95 at Amazon $79.95 $59.99 at REI $79.95 $59.95 at JBL\n\nI wouldn’t recommend playing music out on the trail; however, it’s nice to have some (quiet) tunes while gathered around a campfire. You can play your favorite playlist with the JBL Flip 7, which you can snag at an all-time low of $109.95 ($40 off) at Amazon, Best Buy, and REI. The portable Bluetooth speaker features some nice upgrades over its predecessor, including a more rugged design, an enhanced tweeter, and an additional two hours of battery life. It also has an IP68 rating, so you can enjoy the Flip 7 by the lake, while JBL’s AI Sound Boost technology can raise the speaker’s volume without introducing distortion.\n\n\n\nThe JBL Charge 6 is a larger, more robust option, and it’s currently at an all-time low of $129.99 ($70 off) at Amazon, Best Buy, and REI. The portable Bluetooth speaker provides up to 28 hours of battery life with JBL’s Playtime Boost feature, an IP68 rating, and a handy removable strap, making the Charge 6 easier to transport. It also features an upgraded woofer and supports lossless audio through compatible music streaming services, including Apple Music and Spotify; however, you must connect a phone or laptop to the speaker via USB-C to use that feature.\n\nEcoFlow River 3 Plus Portable Power Station\nThe River 3 Plus is a relatively compact but mighty portable power station with an output of up to 600W. It weighs 10 pounds, features app support, and can double as an uninterruptible power supply in emergencies.\n\nWhere to Buy: $299 $178.99 at REI $299 $269 at Amazon $299 $269 at EcoFlow\n\nYou can snag the EcoFlow Rapid Magnetic Power Bank at its all-time low of $68.99 ($51 off) at REI. The 10,000mAh Qi2-ready battery is a great option for travel season, when you’ll likely be away from a charger for an extended period of time. It can charge newer iPhones or select Android devices at up to 15W via Qi2, while its built-in USB-C cable can provide up to 65W of power to larger devices. As a bonus, it features a retractable kickstand and a digital display, which can show you how much charge the power bank has left in the tank.\n\nInsta360 X5\nThe Insta360 X5 is a powerful 360-degree camera that offers a larger sensor and new image processing. It can capture 4K footage at up to 120fps or 8K footage at up to 30fps, producing sharp video with rich colors. It also features more durable lenses than prior models, which you can swap out if they get damaged. Read our review.\n\nWhere to Buy: $549.99 $464.99 at REI $549.99 $464.99 at Amazon $549.99 $464.99 at Best Buy\n\nA portable power bank is an essential companion if you frequently travel. Right now, you can snag the BioLite Charge 80 PD Power Bank for around $74.89 at REI and Biolite. The Charge 80 PD features a capacity of 20,000mAh, providing multiple charges to your smartphone. It can even charge most 13-inch laptops, too. There are three total ports — a single USB-C and two USB-A — allowing you to charge three devices simultaneously. Biolite says it’s also carry-on compliant, so you can take it on flights to see family during the holidays.\n\n\n\nThe&nbsp;Yeti Rambler&nbsp;is available for its lowest price of the year from&nbsp;REI and&nbsp;Yeti, where you can grab it for just $30.40 (about $8 off). The 20-ounce water bottle is made of kitchen-grade stainless steel and features double-wall vacuum insulation, ensuring your beverage stays hot or cold for hours. It also features a press-in straw lid that’s leak-resistant, while its tapered design ensures it can fit most cupholders, making it a great companion for road trips.\n\nMpowerd Luci Solar String Lights: Color\nMpowerd’s solar-powered string lights are perfect for camping or a backyard shindig. The 18-foot string can display six colors and last up to 15 hours on a single charge; the case also doubles as a charger, allowing you to top off your phone in a pinch.\n\nWhere to Buy: $54.95 $32.93 at REI $54.95 $32.97 at AmazonDJI Osmo 360\nDJI’s Osmo 360 is the company’s first 360-degree action camera. The compact camera features strong stabilization, so footage doesn’t come out shaky, and it can record at 8K/30fps for up to 100 minutes on a full charge.\n\nWhere to Buy: $549.99 $357.49 at Amazon $549.99 $357.49 at REI $549.99 $357.49 at B&amp;H Photo\n\nThe&nbsp;Leatherman Wingman&nbsp;is currently available for&nbsp;$55.89 (about $14 off) at REI. It’s a versatile multitool that’s great for everyday odd jobs, offering spring-loaded pliers for one-handed use, an outside-accessible locking blade, and scissors for quick cuts. Additionally, it features Phillips and flathead screwdrivers, a file, a package opener, and a bottle / can opener. Its compact size makes it easy to slide into your pocket, too, making small fixes — like campsite repairs — quick and easy.\n\n\n\nCoffee is the unsung hero of early morning hikes, which makes a quality mug an essential add to your next adventure. Right now, Stanley’s Everyday Camp Mug is down to an all-time low of $18.69 (about $6 off) at REI and Amazon. The 12-ounce mug features double-wall vacuum insulation, promising to keep warm drinks warm and cold drinks cold for up to six hours. It’s made of a durable 18/8 stainless steel, while the drink-through lid can be closed to prevent splashes.\n\nGoPro Hero 13 Black Specialty Bundle\nThe GoPro Hero 13 features in-camera noise reduction and a new burst slo-mo mode that can record 5.3K video at 120fps. The camera has been updated with Wi-Fi 6 (an upgrade from its predecessor’s Wi-Fi 5), though it still offers many of the same specs as the Hero 12, including the same 8:7 sensor. Read our review.\n\nWhere to Buy: $430 $329.99 at REI\n\nNo REI guide would be complete without a sleeping bag. While there are plenty of great options on sale, REI Co-op’s Trailmade 20 Sleeping Bag is down to just $82.93 (about $36 off) at REI. The sleeping bag is rated to keep you warm in temperatures as low as 21 degrees Fahrenheit, with a quilt construction, face muffler and draft tube, and a contoured hood that fits snuggly over your head. It also features a durable water repellent finish and includes a stuff sack, so you can pack it down and throw it in your bag.\n\n\n\nIt’s that time of year when the sun rises late and sets early, so you’ll need a solid light source to get around your campsite. The Nite Ize Radiant 314 Rechargeable Lantern is currently down to $31.73 (about $13 off) at REI. The lantern provides 314 lumens of brightness, an impact-resistant design, and an IPX4 rating for water resistance. The lantern can also run up to 96 hours on a single charge, while the built-in power bank can provide an extra boost of power to your phone in a pinch.\n\n\n\nThe&nbsp;JBL Vibe Beam 2&nbsp;have returned to their lowest price of around $37.95 ($27 off) at&nbsp;REI,&nbsp;Amazon, and&nbsp;Best Buy. The affordable wireless earbuds offer noise cancellation and a helpful transparency mode that allows outside noise to pass through, so you can stay aware of your surroundings. Meanwhile, its IP54 rating provides water- and dust-resistance, while the wireless earbuds promise up to 10 hours of continuous listening, or 30 hours with the included charging case.\n",
+      "content_length": 12850,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
+      "link": "https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/",
+      "published": "2025-12-03T19:48:47",
+      "content": "On Wednesday, Micron Technology announced it will exit the consumer RAM business in 2026, ending 29 years of selling RAM and SSDs to PC builders and enthusiasts under the Crucial brand. The company cited heavy demand from AI data centers as the reason for abandoning its consumer brand, a move that will remove one of the most recognizable names in the do-it-yourself PC upgrade market.\n“The AI-driven growth in the data center has led to a surge in demand for memory and storage,” Sumit Sadana, EVP and chief business officer at Micron Technology, said in a statement. “Micron has made the difficult decision to exit the Crucial consumer business in order to improve supply and support for our larger, strategic customers in faster-growing segments.”\nMicron said it will continue shipping Crucial consumer products through the end of its fiscal second quarter in February 2026 and will honor warranties on existing products. The company will continue selling Micron-branded enterprise products to commercial customers and plans to redeploy affected employees to other positions within the company.Read full article\nComments",
+      "content_length": 1124,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nach Korruptionsskandal: Massive Proteste griechischer Landwirte",
+      "link": "https://www.tagesschau.de/ausland/europa/griechland-landwirte-proteste-100.html",
+      "published": "2025-12-03T19:48:22",
+      "content": "   In Griechenland blockieren Landwirte seit Tagen Straßen und Grenzübergänge. Es kam zu Zusammenstößen mit der Polizei. Hintergrund ist ein Korruptionsskandal im Zusammenhang mit der Auszahlung von EU-Agrarsubventionen. [mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NASA nominee appears before Congress, defends plans to revamp space agency",
+      "link": "https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/",
+      "published": "2025-12-03T19:31:04",
+      "content": "Private astronaut Jared Isaacman returned to Congress on Wednesday for a second confirmation hearing to become NASA administrator before the US Senate Committee on Commerce, Science, and Transportation in Washington, DC.\nThere appeared to be no showstoppers during the hearing, in which Isaacman reiterated his commitment to the space agency’s Artemis Program and defended his draft plan for NASA, “Project Athena,” which calls for an assessment of how NASA should adapt to meet the modern space age.\nDuring his testimony, Isaacman expressed urgency as NASA faces a growing threat from China to its supremacy in spaceflight.Read full article\nComments",
+      "content_length": 650,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU agrees deal to ban Russian gas by end of 2027",
+      "link": "https://www.france24.com/en/video/20251203-eu-agrees-deal-to-ban-russian-gas-by-end-of-2027",
+      "published": "2025-12-03T19:20:05",
+      "content": "European Union lawmakers and member states reached a deal Wednesday to ban all imports of Russian gas before the end of 2027, as the bloc seeks to choke off key funds feeding Moscow's war chest. Aimed at breaking a reliance the bloc has struggled to end despite the invasion of Ukraine, the accord marks a compromise between EU capitals and the European Parliament, which wanted the ban to hit sooner. FRANCE 24's Carys Garland reports.",
+      "content_length": 436,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "PlayStation is making an MLB The Show mobile game",
+      "link": "https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game",
+      "published": "2025-12-03T19:19:36",
+      "content": "\n\n\n\t\n\tThis is a screenshot from the PS5 version of MLB The Show 25.\t\n\nMLB The Show is coming to iOS and Android. Sony has revealed MLB The Show Mobile, which it says is “a new standalone experience built from the ground up to deliver realistic baseball gameplay on mobile devices.”&nbsp;\n\nThe game is live now only in the Philippines (here’s a Google Play link for the game), and Sony plans to “expand availability to more players around the world,” though it has “no set timeline for expansion,” according to an FAQ. It’s optimized for the iPhone 16 “or comparable” and the “Samsung Galaxy S25, Sony Xperia V, or comparable,” Sony says. Higher-end devices will be able to take advantage of “enhanced graphics, increased frame rates, and higher resolutions.” But because it’s a new, standalone game, it won’t have crossplay with other platforms.\n\n\n\t\n\t\t\n\n\n\n\n\n\t\n\n\nThe reveal of MLB The Show Mobile follows another surprise foray from PlayStation into mobile: last month’s announcement of Rachet &amp; Clank: Ranger Rumble, a mobile arena shooter set in the Ratchet &amp; Clank universe. And Sony signaled years ago that it was getting more interested in mobile games — it created a PlayStation Studios Mobile Division in 2022. ",
+      "content_length": 1225,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Licence to kill?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251203-licence-to-kill",
+      "published": "2025-12-03T19:17:22",
+      "content": "When should a soldier disobey an order? The US president and his Pentagon chief doubling down on operations to sink without summation alleged drug boats in the Carribean and the Pacific, the pair pushing back on a Washington Post report asserting that back in September, Pete Hegseth's orders led to a follow-up strike on a vessel, killing all remaining survivors. Among the issues whether interested parties could face war crimes charges.",
+      "content_length": 439,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sony drops new trailer for 28 Years Later: Bone Temple",
+      "link": "https://arstechnica.com/culture/2025/12/new-28-years-later-bone-temple-trailer-teases-a-cure/",
+      "published": "2025-12-03T19:13:48",
+      "content": "\nSony Pictures has dropped a new trailer for 28 Years Later: The Bone Temple, slated for release early next year and directed by Nia DaCosta, teasing a possible cure for the zombie outbreak that has devastated human populations for three decades. It’s the sequel to this year’s critically acclaimed 28 Years Later, the third film in a franchise credited with sparking the 21st-century revival of the zombie genre.\n(Some spoilers for the first three films below.)\nAs previously reported, in 28 Days Later, a highly contagious “Rage Virus” was accidentally released from a lab in Cambridge, England. Those infected turned into violent, mindless monsters who brutally attacked the uninfected—so-called “fast zombies”—and the virus spread rapidly, effectively collapsing society. The sequel, 28 Weeks Later, featured a new cast of characters living on the outskirts of London. But all it takes is one careless person getting infected for the virus to spread uncontrollably again. So naturally, that’s what happened.Read full article\nComments",
+      "content_length": 1037,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "NATO zu Ukraine-Gesprächen: Selbst Optimist Rutte ist ernüchtert",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-aussenministertreffen-100.html",
+      "published": "2025-12-03T19:09:11",
+      "content": "   Das Treffen von Witkoff mit Putin hat offenbar nichts gebracht - von einem Frieden ist die Ukraine noch weit entfernt. Und so macht sich im Kreise der NATO Ernüchterung breit - auch beim sonst so optimistischen Chef. Von Sabrina Fritz.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "British troops accused of human rights violations and sexual abuse in Kenya",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/03/british-troops-accused-of-human-rights-violations-environmental-destruction-and-sexual-abuse-in-kenya",
+      "published": "2025-12-03T19:00:41",
+      "content": "Kenyan parliament says UK army training unit ‘dismissed most complaints as false, without publishing its findings’A report by the Kenyan parliament into the conduct of troops stationed at a British military base close to the town of Nanyuki in Kenya has alleged human rights violations, environmental destruction and sexual abuse by British soldiers.The inquiry into the British Army Training Unit in Kenya (Batuk) was carried out by Kenya’s departmental committee on defencе, intelligence and foreign relations.The establishment of a survivor liaison unit to offer legal aid to victims of crimes linked to Batuk personnel.For the British and Kenyan governments to negotiate “mechanisms to hold Batuk soldiers accountable for child support”.The creation of a military-linked crimes taskforce to oversee investigation and prosecution of offences committed by foreign military personnel. Continue reading...",
+      "content_length": 905,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bezahlung für Menschen mit Behinderung: Grundsicherung trotz Vollzeitjob",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/menschen-mit-behinderung-bezahlung-100.html",
+      "published": "2025-12-03T18:37:22",
+      "content": "   Menschen mit Behinderung haben es am Arbeitsmarkt schwer. Viele arbeiten in Werkstätten und verdienen dort deutlich weniger als Mindestlohn. Eine Mutter will das nicht mehr hinnehmen. Von Klara Jakubzik.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rare win for renewable energy: Trump admin funds geothermal network expansion",
+      "link": "https://arstechnica.com/science/2025/12/rare-win-for-renewable-energy-trump-admin-funds-geothermal-network-expansion/",
+      "published": "2025-12-03T18:35:59",
+      "content": "The US Department of Energy has approved an $8.6 million grant that will allow the nation’s first utility-led geothermal heating and cooling network to double in size.\nGas and electric utility Eversource Energy completed the first phase of its geothermal network in Framingham, Massachusetts, in 2024. Eversource is a co-recipient of the award along with the city of Framingham and HEET, a Boston-based nonprofit that focuses on geothermal energy and is the lead recipient of the funding.\nGeothermal networks are widely considered among the most energy-efficient ways to heat and cool buildings. The federal money will allow Eversource to add approximately 140 new customers to the Framingham network and fund research to monitor the system’s performance.Read full article\nComments",
+      "content_length": 781,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump halts immigration applications from 19 'high-risk' countries",
+      "link": "https://www.france24.com/en/americas/20251203-trump-halts-immigration-applications-from-19-high-risk-countries",
+      "published": "2025-12-03T18:24:57",
+      "content": "The White House has paused immigration applications for people from 19 countries and intends to put immigrants from those countries already in the US under extra scrutiny, it said in a memo released on Tuesday. Under the new rules, immigrants from \"high-risk\" countries who entered the US during the Biden administration will undergo a comprehensive review of benefit requests.",
+      "content_length": 377,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+      "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+      "published": "2025-12-03T18:24:06",
+      "content": "Microsoft has lowered sales growth targets for its AI agent products after many salespeople missed their quotas in the fiscal year ending in June, according to a report Wednesday from The Information. The adjustment is reportedly unusual for Microsoft, and it comes after the company missed a number of ambitious sales goals for its AI offerings.\nAI agents are specialized implementations of AI language models designed to perform multistep tasks autonomously rather than simply responding to single prompts. So-called “agentic” features have been central to Microsoft’s 2025 sales pitch: At its Build conference in May, the company declared that it has entered “the era of AI agents.”\nThe company has promised customers that agents could automate complex tasks, such as generating dashboards from sales data or writing customer reports. At its Ignite conference in November, Microsoft announced new features like Word, Excel, and PowerPoint agents in Microsoft 365 Copilot, along with tools for building and deploying agents through Azure AI Foundry and Copilot Studio. But as the year draws to a close, that promise has proven harder to deliver than the company expected.Read full article\nComments",
+      "content_length": 1199,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU-Kommission plant Zentrum für kritische Rohstoffe",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-zentrum-kritische-rohstoffe-100.html",
+      "published": "2025-12-03T18:15:56",
+      "content": "   Die Abhängigkeit der EU von der Lieferung kritischer Rohstoffe ist ihr in der Vergangenheit immer wieder zum Verhängnis geworden. Nun will sie sich davor besser schützen - und dafür die Zusammenarbeit untereinander verbessern. Von T. Spickhofen.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "House Democrats release new images of Epstein’s private Caribbean island",
+      "link": "https://www.theguardian.com/us-news/2025/dec/03/epstein-caribbean-island-new-photo-video-release",
+      "published": "2025-12-03T18:13:03",
+      "content": "Images and videos taken in 2020, a year after he died in jail, show the late sex offender’s homeUS politics – live updatesHouse Democrats released photos and videos from Jeffrey Epstein’s private Caribbean island on Wednesday, offering a rare glimpse into a secretive place where Epstein is alleged to have trafficked young girls.The new images and videos show Epstein’s home, including bedrooms, a telephone, what appears to be an office or library, and a chalkboard on which the words “fin”, “intellectual”, “deception” and “power” are written. Several photos show a room with a dentist chair and masks hanging on the wall. The New York Times reported that Epstein’s last girlfriend was a dentist who shared an office with one of his shell companies. The videos appear to be a walk-through of the property. Continue reading...",
+      "content_length": 828,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
+      "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
+      "published": "2025-12-03T18:11:45",
+      "content": "Amazon Prime Video has scaled back an experiment that created laughable anime dubs with generative AI.\nIn March, Amazon announced that its streaming service would start including “AI-aided dubbing on licensed movies and series that would not have been dubbed otherwise.” In late November, some AI-generated English and Spanish dubs of anime popped up, including dubs for the Banana Fish series and the movie No Game No Life: Zero. The dubs appear to be part of a beta launch, and users have been able to select “English (AI beta)” or “Spanish (AI beta)” as an audio language option in supported titles.\n“Absolutely disrespectful”\nNot everyone likes dubbed content. Some people insist on watching movies and shows in their original language to experience the media more authentically, with the passion and talent of the original actors. But you don’t need to be against dubs to see what’s wrong with the ones Prime Video tested.Read full article\nComments",
+      "content_length": 953,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zelenska calls for action over Ukrainian children taken to Russian",
+      "link": "https://www.france24.com/en/video/20251203-zelenska-calls-for-action-over-ukrainian-children-taken-to-russian",
+      "published": "2025-12-03T18:04:43",
+      "content": "Thousands of Ukrainian children have been forcibly taken to Russia or Russian-controlled territories, with families struggling to locate them amid the conflict. Ukrainian First Lady Olena Zelenska launched the Bring Kids Back foundation to help reunite children with their parents, while French authorities and humanitarian groups call for action.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Luftwaffe nimmt erstes Raketenabwehrsystem \"Arrow 3\" in Betrieb",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-inbetriebnahme-arrow-100.html",
+      "published": "2025-12-03T17:57:08",
+      "content": "   Als Reaktion auf die erhöhte Bedrohung durch Russland hat die Bundeswehr die erste Stufe des Raketenabwehrsystems \"Arrow 3\" in Betrieb genommen. Es soll feindliche Flugkörper in Höhen außerhalb der Atmosphäre zerstören können.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "FCC boss Brendan Carr claims another victory over DEI as AT&T drops programs",
+      "link": "https://arstechnica.com/tech-policy/2025/12/fcc-boss-brendan-carr-claims-another-victory-over-dei-as-att-drops-programs/",
+      "published": "2025-12-03T17:48:44",
+      "content": "AT&amp;T told the Federal Communications Commission that it has eliminated DEI (diversity, equity, and inclusion) policies and programs, complying with demands from Chairman Brendan Carr.\nThe FCC boss has refused to approve mergers and other large transactions involving companies that don’t agree to drop support for DEI. On Monday, AT&amp;T filed a letter disowning its former DEI initiatives in the FCC docket for its $1 billion purchase of US Cellular spectrum licenses.\n“We have closely followed the recent Executive Orders, Supreme Court rulings, and guidance issued by the US Equal Employment Opportunity Commission and have adjusted our employment and business practices to ensure that they comply with all applicable laws and related requirements, including ending DEI-related policies as described below, not just in name but in substance,” AT&amp;T’s letter to Carr said.Read full article\nComments",
+      "content_length": 908,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "A spectacular explosion shows China is close to obtaining reusable rockets",
+      "link": "https://arstechnica.com/space/2025/12/a-little-known-chinese-company-nearly-landed-a-rocket-from-space-on-its-first-try/",
+      "published": "2025-12-03T17:40:15",
+      "content": "China’s first attempt to land an orbital-class rocket may have ended in a fiery crash, but the company responsible for the mission had a lot to celebrate with the first flight of its new methane-fueled launcher.\nLandSpace, a decade-old company based in Beijing, launched its new Zhuque-3 rocket for the first time at 11 pm EST Tuesday (04:0 UTC Wednesday), or noon local time at the Jiuquan launch site in northwestern China.\nPowered by nine methane-fueled engines, the Zhuque-3 (Vermillion Bird-3) rocket climbed away from its launch pad with more than 1.7 million pounds of thrust. The 216-foot-tall (66-meter) launcher headed southeast, soaring through clear skies before releasing its first stage booster about two minutes into the flight.Read full article\nComments",
+      "content_length": 769,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘People know so much more about Russian literature’: An author’s invitation to discover Ukraine",
+      "link": "https://www.france24.com/en/europe/20251203-people-know-so-much-more-about-russian-literature-an-author-s-invitation-to-discover-ukraine",
+      "published": "2025-12-03T17:34:44",
+      "content": "A cultural event called Season of Ukraine – Journey to Ukraine: culture strikes back – running from December 2025 to March 2026 seeks to amplify the voices of Ukrainian artists by hosting 50 cultural events in multiple cities across France. FRANCE 24 spoke to Ukrainian author Andrei Kurkov on how Russia is battering Ukrainian culture and the need to create bridges with France through literature.",
+      "content_length": 398,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Fraudulent gambling network may actually be something more nefarious",
+      "link": "https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/",
+      "published": "2025-12-03T17:23:26",
+      "content": "A sprawling infrastructure that has been bilking unsuspecting people through fraudulent gambling websites for 14 years is likely a dual operation run by a nation-state-sponsored group that is targeting government and private-industry organizations in the US and Europe, researchers said Wednesday.\nResearchers have previously tracked smaller pieces of the enormous infrastructure. Last month, security firm Sucuri reported that the operation seeks out and compromises poorly configured websites running the WordPress CMS. Imperva in January said the attackers also scan for and exploit web apps built with the PHP programming language that have existing webshells or vulnerabilities. Once the weaknesses are exploited, the attackers install a GSocket, a backdoor that the attackers use to compromise servers and host gambling web content on them.\nAll of the gambling sites target Indonesian-speaking visitors. Because Indonesian law prohibits gambling, many people in that country are drawn to illicit services. Most of the 236,433 attacker-owned domains hosting the gambling sites are hosted on Cloudflare. Most of the 1,481 hijacked subdomains were hosted on Amazon Web Services, Azure, and GitHub.Read full article\nComments",
+      "content_length": 1226,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Marktbericht: Leichte Verluste",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-boerse-100.html",
+      "published": "2025-12-03T17:13:36",
+      "content": "   Die Börse konnte den gestern eingeschlagenen Erholungskurs nicht fortsetzen. Zum Ende des Handelstags drehten die Kurse mehrheitlich ins Minus.[mehr]",
+      "content_length": 152,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Samara Weaving levels up in Ready or Not 2: Here I Come trailer",
+      "link": "https://arstechnica.com/culture/2025/12/samara-weaving-levels-up-in-ready-or-not-2-here-i-come-trailer/",
+      "published": "2025-12-03T17:04:50",
+      "content": "\nOne of big surprise hits of 2019 was the delightful horror comedy Ready or Not, in which Samara Weaving’s blushing bride must play a deadly game of Hide and Seek on her wedding night. Searchlight Pictures just released the trailer for its sequel: Ready or Not 2: Here I Come.\n(Spoilers for Ready or Not below.)\nIn Ready or Not, Grace (Weaving) falls in love with Alex Le Domas (Mark O’Brien), a member of a wealthy gaming dynasty. After a picture-perfect wedding on the family estate, Alex informs Grace that there’s just one more formality to be observed: At midnight, she has to draw a card from a mysterious box and play whatever game is named there.Read full article\nComments",
+      "content_length": 680,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU looks at legally forcing industries to reduce purchases from China",
+      "link": "https://www.theguardian.com/world/2025/dec/03/eu-strategy-raw-materials-rare-earths-supply-chain-resourceeu",
+      "published": "2025-12-03T16:28:46",
+      "content": "Commission unveils €3bn strategy to de-risk and diversify supply chains for critical rare earth metals and elementsBusiness live – latest updatesThe EU is considering legally forcing industries to reduce purchases from China to insulate Europe from future hostile acts, the industry commissioner, Stéphane Séjourné, says.He made his remarks as the European Commission unveiled a €3bn (£2.63bn) strategy to reduce its dependency on China for critical raw materials amid a global scramble caused by Beijing’s “weaponisation” of supplies of everything from chips to rare earths. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Planned satellite constellations may swamp future orbiting telescopes",
+      "link": "https://arstechnica.com/science/2025/12/planned-satellite-constellations-may-swamp-future-orbiting-telescopes/",
+      "published": "2025-12-03T16:26:32",
+      "content": "On Wednesday, three NASA astronomers released an analysis showing that several planned orbital telescopes would see their images criss-crossed by planned satellite constellations, such as a fully expanded Starlink and its competitors. While the impact of these constellations on ground-based has been widely considered, orbital hardware was thought to be relatively immune from their interference. But the planned expansion of constellations, coupled with some of the features of upcoming missions, will mean that at least one proposed observatory will see an average of nearly 100 satellite tracks in every exposure.\nMaking matters worse, some of the planned measures meant to minimize the impact on ground-based telescopes will make things worse for those in orbit.\nConstellations vs. astronomy\nSatellite constellations are a relatively new threat to astronomy; prior to the drop in launch costs driven by SpaceX’s reusable rockets, the largest constellations in orbit consisted of a few dozen satellites. But the rapid growth of the Starlink system caused problems for ground-based astronomy that are not easy to solve.Read full article\nComments",
+      "content_length": 1148,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Krankenkassen legen Sparpaket in Milliardenhöhe vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-krankenkassen-100.html",
+      "published": "2025-12-03T16:15:58",
+      "content": "   Seit Jahren wächst der finanzielle Druck auf die gesetzlichen Krankenkassen. Ihr Spitzenverband macht nun Vorschläge für milliardenschwere Einsparungen - bei Krankenhäusern, niedergelassenen Ärzten und der Pharmaindustrie. [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schlechter Eindruck durch ruckelnde Videokonferenz",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/psychologie-videokonferenzen-aufmerksamkeit-100.html",
+      "published": "2025-12-03T16:01:56",
+      "content": "   Das Gesicht eingefroren, die Stimme verzögert: Fehler in Videogesprächen nerven. Und sie können ernsthafte Konsequenzen haben - zum Beispiel in Bewerbungsgesprächen oder vor Gericht. Das zeigt eine neue Studie. Von Veronika Simon.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-EM der Frauen 2029 geht nach Deutschland",
+      "link": "https://www.tagesschau.de/sport/fussball-em-frauen-deutschland-100.html",
+      "published": "2025-12-03T15:56:25",
+      "content": "   Deutschland wird die Fußball-Europameisterschaft der Frauen 2029 ausrichten. Der DFB erhielt mit seiner Bewerbung den Turnierzuschlag durch das Exekutivkomitee der Europäischen Fußballunion UEFA.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU will eingefrorenes russisches Vermögen für Ukraine-Hilfen nutzen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-vermoegen-100.html",
+      "published": "2025-12-03T14:54:33",
+      "content": "   EU-Kommissionspräsidentin von der Leyen hat einen Vorschlag zur Finanzierung der künftigen Ukraine-Hilfe vorgestellt. Dafür sollen auch eingefrorene russische Gelder verwendet werden - was einigen EU-Ländern zu riskant ist.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Entspannt zocken - warum \"Cozy Games\" so beliebt sind",
+      "link": "https://www.tagesschau.de/kultur/entwicklerpreis-cozy-games-100.html",
+      "published": "2025-12-03T14:51:39",
+      "content": "   Wohlfühlspiele ohne Zeitdruck: \"Cozy Games\" liegen voll im Trend - so auch das Spiel \"Tiny Bookshop\". Es wurde jetzt beim Deutschen Entwicklerpreis mehrfach ausgezeichnet. Warum sind \"Cozy Games\" so erfolgreich? Von Susanne Fritz.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "HSBC appoints interim chair Brendan Nelson to permanent role",
+      "link": "https://www.theguardian.com/business/2025/dec/03/hsbc-appoints-interim-chair-brendan-nelson-to-permanent-role",
+      "published": "2025-12-03T14:42:20",
+      "content": "Questions raised about permanency of 76-year-old’s appointment and ‘leadership stability at critical juncture for bank’Business live – latest updatesHSBC has appointed the former KPMG partner Brendan Nelson as its chair after a prolonged search process that left one of the world’s biggest banks without a permanent executive in the top role for months.The decision to appoint Nelson, who has been serving as interim chair, came as a surprise, after a protracted hunt for a permanent successor for Mark Tucker which involved courting external candidates including the former chancellor George Osborne and the head of Goldman Sachs’s Asia-Pacific division, Kevin Sneader. Continue reading...",
+      "content_length": 690,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Streit über das Rentenpaket: Das kann doch nicht euer Ernst sein",
+      "link": "https://www.tagesschau.de/kommentar/rente-union-spd-104.html",
+      "published": "2025-12-03T14:36:26",
+      "content": "   In der schwarz-roten Koalition werden regelmäßig Sachfragen zu Machtfragen - so auch beim Streit über die Rente, findet Georg Schwarte. Die Abstimmung im Bundestag werde so zur Abstimmung über die Regierungsfähigkeit.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Linke will sich bei Abstimmung zum Rentenpaket enthalten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenpaket-linke-enthaltung-100.html",
+      "published": "2025-12-03T14:18:35",
+      "content": "   Im Rentenstreit gibt es für die Regierungskoalition Unterstützung von unerwarteter Seite. Die Linksfraktion will sich bei der Abstimmung im Bundestag enthalten - weshalb das Vorhaben wohl eine Mehrheit bekommen würde.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Colombia’s president warns Trump: ‘Do not wake the jaguar’ with threats of military strikes",
+      "link": "https://www.theguardian.com/world/2025/dec/03/colombia-trump-warning-military-threat",
+      "published": "2025-12-03T14:16:49",
+      "content": "Gustavo Petro responded to intimations by US president of military strikes on Colombian soil to fight drug traffickingColombia’s president has warned Donald Trump that he risked “waking the jaguar” after the US leader suggested that any country he believed was making illegal drugs destined for the US was liable to a military attack.During a cabinet meeting on Tuesday, the US president said that military strikes on land targets inside Venezuela would “start very soon”. Trump also warned that any country producing narcotics was a potential target, singling out Colombia, which has long been a close ally in Washington’s “war on drugs”. Continue reading...",
+      "content_length": 659,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hugo Boss verschreckt die Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-hugo-boss-100.html",
+      "published": "2025-12-03T13:55:43",
+      "content": "   Die Aussicht ein weiteres \"Übergangsjahr\" bei Hugo Boss kommt an der Börse schlecht an. Die Mode-Aktie verliert zweistellig an Wert. Am Gesamtmarkt dominieren dagegen die Pluszeichen.[mehr]",
+      "content_length": 192,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Stadionsicherheit international: Strenge Kontrollen, personalisierte Tickets",
+      "link": "https://www.tagesschau.de/ausland/europa/fussball-stadien-sicherheit-100.html",
+      "published": "2025-12-03T13:35:44",
+      "content": "   Debatten um den Einsatz von Pyrotechnik und um mehr Sicherheit in Stadion gehören in allen Staaten mit Fußballbegeisterung zum Alltag. Welche Lösungen hat man in Italien, Spanien und der englischen Liga gefunden?[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NATO will weitere US-Waffen für die Ukraine kaufen",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-treffen-bruessel-106.html",
+      "published": "2025-12-03T13:33:04",
+      "content": "   Ein Durchbruch in den Ukraine-Verhandlungen scheint nicht in Sicht. Um den Druck auf Russland zu erhöhen, sollen erneut mehrere Milliarden Euro für Rüstungsgüter bereitgestellt werden - auch mit Geld aus Deutschland.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Fast 60 Prozent plus bei E-Auto-Zulassungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neuzulassungen-e-autos-byd-100.html",
+      "published": "2025-12-03T13:18:06",
+      "content": "   Im November sind deutlich mehr E-Autos auf die Straßen gekommen. Allein beim chinesischen Hersteller BYD lag das Plus bei über 800 Prozent. Branchenkenner rechnen mit einem weiter wachsenden Stromer-Anteil am Gesamtmarkt.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Behandlungen in deutschen Notaufnahmen erreichten 2024 Rekordwert",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/notaufnahmen-statistik-2024-100.html",
+      "published": "2025-12-03T13:13:04",
+      "content": "   Die Notaufnahmen in Deutschland waren im vergangenen Jahr so voll wie noch nie. Besonders hoch war die Behandlungsquote - also die Zahl der Fälle pro Einwohner - in den Stadtstaaten.[mehr]",
+      "content_length": 191,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "GlobalBuildingAtlas: 3D-Modelle aller 2,8 Milliarden Gebäude der Welt auf GitHub",
+      "link": "https://www.heise.de/news/GlobalBuildingAtlas-3D-Modelle-aller-2-8-Milliarden-Gebaeude-der-Welt-auf-GitHub-11101307.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-03T13:07:00",
+      "content": "Ein Forschungsteam aus München hat einen immensen Datensatz aller Bauwerke der Welt erstellt und freigegeben. Der soll etwa bei der Stadtplanung helfen. ",
+      "content_length": 153,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Millionen Payback-Konten angreifbar",
+      "link": "https://www.tagesschau.de/investigativ/ndr/payback-daten-100.html",
+      "published": "2025-12-03T12:58:32",
+      "content": "   Cyberkriminelle nutzen aktuell offenbar eine Schwachstelle im Sicherheitskonzept von Payback aus, um Kundendaten und Bonuspunkte zu stehlen. Dies zeigen Recherchen von STRG_F (NDR/funk). Potenziell betroffen sind Millionen Konten.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spiegel mit Verfassungsbeschwerde zu Wirecard-Artikeln erfolgreich",
+      "link": "https://www.tagesschau.de/inland/spiegel-wirecard-pressefreiheit-bverfg-100.html",
+      "published": "2025-12-03T12:42:58",
+      "content": "   Ein Ex-Wirecard-Manager hatte gegen Berichte des Spiegel über ihn geklagt und vor Zivilgerichten Recht bekommen. Diese hätten aber die Pressefreiheit des Magazins nicht richtig gewichtet, hat nun das Bundesverfassungsgericht entschieden. Von Max Bauer.[mehr]",
+      "content_length": 261,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Der Warzenbeißer ist das Insekt des Jahrs 2026",
+      "link": "https://www.tagesschau.de/wissen/insekt-des-jahres-warzenbeisser-100.html",
+      "published": "2025-12-03T12:30:58",
+      "content": "   Er hat einen bulligen Körper, lange Fühler, und seine \"Zick\"-Laute sind besonders markant: Der Warzenbeißer ist Insekt des Jahres 2026 - eine bedrohte Heuschrecke, die ihren Namen einem alten Volksglauben verdankt.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Guitar amp sims have gotten astonishingly good",
+      "link": "https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/",
+      "published": "2025-12-03T12:15:12",
+      "content": "It’s an incredible time to be a guitarist who doesn’t want to own a bunch of $2,000 amps and an expensive pedalboard of gear. Amp and pedal simulators, which have been around for decades, have in the last few years finally come into their own as nearly indistinguishable sonic replacements. Even John Mayer is now willing to ditch his beloved tube amps for digital models.\nI certainly don’t have Mayer’s chops or gear budget, but I do love messing with this sort of tech and have purchased everything from NeuralDSP‘s Archetypes series to Amplitube and Guitar Rig. Last week, as part of an early Black Friday sale, I picked up two amp/effects suites from British developer Polychrome DSP—Nunchuck (Marshall amps) and Lumos (clean through mid-gain tones). They are both excellent.\nAny reasonable person should be satisfied with this tech stack, which models gear that collectively costs as much as my house. After my Polychrome DSP purchases, I reminded myself that I am a reasonable person, and that I could therefore ignore any further amp sims that might tempt my wandering eye.Read full article\nComments",
+      "content_length": 1106,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "WordPress 6.9 erschienen: Mehr Zusammenarbeit und KI-Grundlagen",
+      "link": "https://www.heise.de/news/WordPress-6-9-erschienen-Mehr-Zusammenarbeit-und-KI-Grundlagen-11101303.html",
+      "published": "2025-12-03T12:10:00",
+      "content": "WordPress 6.9 &quot;Gene&quot; konzentriert sich auf verbesserte Zusammenarbeit, neue Blöcke, schnellere Ladezeiten und Grundlagen für die KI-Integration.",
+      "content_length": 154,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Warum die Linke den Ton verschärft",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-bundestag-strategie-100.html",
+      "published": "2025-12-03T12:01:57",
+      "content": "   Die Linke sorgt mit provokanten Äußerungen für Aufsehen - etwa wenn Vorsitzende Schwerdtner die Junge Union als \"Heiopeis\" bezeichnet. Die Union bestärkt das in ihrer Ablehnung. Doch was will die Linke damit erreichen? Von Uwe Jahn.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Staaten fordern umfassende Vorratsdatenspeicherung bis 2026",
+      "link": "https://www.heise.de/news/Vorratsdaten-Kommission-soll-bis-Mitte-2026-Vorschlag-vorlegen-11101379.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-03T11:45:00",
+      "content": "Die Vorratsdatenspeicherung kommt wieder, zumindest als Diskussionspunkt. Was die EU-Staaten sich wünschen, verrät ein vorweihnachtlicher Wunschzettel.",
+      "content_length": 151,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide",
+      "link": "https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide",
+      "published": "2025-12-03T11:40:31",
+      "content": "Exclusive: Analyst claims UK officials deleted alert to threat of genocidal violence by paramilitaries to protect UAEWarnings of a possible “genocide” in Sudan were removed from a UK risk assessment by Foreign Office officials, according to a whistleblower whose testimony raises fresh concern over British failures to act on the atrocities unfolding in the war-ravaged country.The threat analyst said they were prevented from warning that genocide could occur in Darfur by Foreign, Commonwealth and Development Office (FCDO) officials in a risk assessment collated days after Sudan’s brutal civil war erupted in April 2023. Continue reading...",
+      "content_length": 644,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "programmier.bar: CTO-Special mit Dirk Daumann von Blacklane",
+      "link": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Dirk-Daumann-von-Blacklane-11101191.html",
+      "published": "2025-12-03T11:13:00",
+      "content": "Wie wird aus einem Beweis an sich selbst eine Karriere durch bekannteste Tech-Stationen? CTO und CPO Dirk Daumann erzählt von seinen prägendsten Entscheidungen.",
+      "content_length": 160,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Steinmeier in London: Neuer Schwung für alte Handelsbeziehungen?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/steinmeier-grossbritannien-brexit-100.html",
+      "published": "2025-12-03T10:25:16",
+      "content": "   Großbritanniens Wirtschaft ächzt unter den Folgen des Brexits. Entsprechend bemüht ist die Regierung, um europäische Partner zu buhlen - so auch beim Staatsbesuch von Bundespräsident Steinmeier. Von Christoph Prössl.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hochverarbeitete Lebensmittel gefährden immer mehr Kinder",
+      "link": "https://www.tagesschau.de/wissen/hochverarbeitete-lebensmittel-gefaehrden-kinder-100.html",
+      "published": "2025-12-03T09:52:59",
+      "content": "   Stark verarbeitete Lebensmittel prägen weltweit Speisepläne und die Werbung. Ein neuer UNICEF-Bericht zeigt, wie umfassend Kinder damit in Kontakt kommen - und welche Folgen das für sie, ihre Familien und für ganze Länder hat.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel: Übergebene sterbliche Überreste stammen nicht von Geiseln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-sterbliche-ueberreste-geiseln-100.html",
+      "published": "2025-12-03T09:26:36",
+      "content": "   Die Übergabe der letzten noch im Gazastreifen verbliebenen toten Geiseln verzögert sich weiter. Die Hamas hatte zwar sterbliche Überreste Israel überstellt, laut Israel seien diese aber nicht den beiden Geiseln zuzuordnen.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kosten für Erdgas, Öl, Fernwärme: Heizen erneut teurer geworden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-kosten-gas-oel-fernwaerme-100.html",
+      "published": "2025-12-03T08:35:53",
+      "content": "   Die Heizkosten sind einer Studie zufolge erneut gestiegen - allerdings deutlich moderater als in den Jahren zuvor. Innerhalb Deutschlands gibt es dabei deutliche Preisunterschiede. [mehr]",
+      "content_length": 190,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Experte sieht Perspektive für Pokrowsk \"nicht besonders positiv\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-pokrowsk-124.html",
+      "published": "2025-12-03T08:03:37",
+      "content": "   Zehntausende russische Soldaten rücken im Osten der Ukraine vor. Zwar widerspricht Kiew Angaben aus Moskau, wonach mehrere Orte eingenommen worden seien. Doch selbst ukrainische Experten sehen Russland im Vorteil. Von F. Kellermann.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "KI macht Entwickler ersetzbar, aber gute Architekten nicht",
+      "link": "https://www.heise.de/blog/KI-macht-Entwickler-ersetzbar-aber-gute-Architekten-nicht-11097760.html",
+      "published": "2025-12-03T07:30:00",
+      "content": "KI generiert Code, aber wer entscheidet, welcher Code entstehen soll? Warum Architektur und Domänenwissen jetzt wichtiger werden, nicht weniger.",
+      "content_length": 144,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
