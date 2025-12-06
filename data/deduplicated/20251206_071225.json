@@ -1,0 +1,1328 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-06T07:12:25.658823",
+    "deduplicated_at": "2025-12-06 07:12:25",
+    "lookback_days": 7,
+    "total_input": 1140,
+    "duplicates_removed": 994,
+    "new_articles": 146,
+    "deduplication_rate": "87.2%",
+    "historical_files_checked": 6
+  },
+  "articles": [
+    {
+      "title": "Altersversorgung - Bas kündigt Rentenkommission noch vor Weihnachten an",
+      "link": "https://www.deutschlandfunk.de/bas-kuendigt-rentenkommission-noch-vor-weihnachten-an-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Nach der Verabschiedung der Rentengesetze im Bundestag hat SPD-Chefin Bas ihre Unterstützung für eine umfassende Reform zugesagt. Gebraucht werde ein ganz neues Rentensystem, sagte sie im ARD-Fernsehen. Die junge Generation müsste dabei an den Verhandlungen beteiligt werden.",
+      "content_length": 275,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Tourismus - TUI: Reisen wird 2026 etwas teurer",
+      "link": "https://www.deutschlandfunk.de/tui-reisen-wird-2026-etwas-teurer-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der europäische Touristikveranstalter TUI hat angekündigt, im kommenden Jahr die Preise für Urlaubsreisen um durchschnittlich ein bis drei Prozent zu erhöhen.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Spiegel\"-Bericht - Zu Guttenberg und Bundeswirtschaftsministerin Reiche weisen Vorwürfe wegen Interessenkonflikten zurück",
+      "link": "https://www.deutschlandfunk.de/zu-guttenberg-und-bundeswirtschaftsministerin-reiche-weisen-vorwuerfe-wegen-interessenkonflikten-zur-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der frühere CSU-Politiker zu Guttenberg hat auch auf juristischem Wege einen Medienbericht über Interessenkonflikte zurückgewiesen.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interessenkonflikte? - \"Habe alles getan\" - Kulturstaatsminister Weimer weist Vorwürfe erneut zurück",
+      "link": "https://www.deutschlandfunk.de/habe-alles-getan-kulturstaatsminister-weimer-weist-vorwuerfe-erneut-zurueck-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Kultur- und Medienstaatsminister Weimer hat sich erneut gegen Vorwürfe möglicher Interessenkonflikte zwischen seinem Ministeramt und seinem früheren Unternehmen verteidigt.",
+      "content_length": 172,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Soziale Medien - Meta kooperiert bei Nachrichten für KI-Assistenten mit US-Sendern und Zeitungen",
+      "link": "https://www.deutschlandfunk.de/meta-kooperiert-bei-nachrichten-fuer-ki-assistenten-mit-us-sendern-und-zeitungen-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der Facebook-Mutterkonzern Meta will Nachrichteninhalte von externen Medienhäusern in seinen KI-Assistenten einbinden. Die Nutzer von Facebook, Instagram und WhatsApp sollen in Zukunft mit Echtzeitinformationen von etablierten Nachrichtenredaktionen versorgt werden.",
+      "content_length": 266,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Protesten - Innenministerkonferenz verzichtet auf zusätzliche Maßnahmen für mehr Sicherheit in Fußballstadien",
+      "link": "https://www.deutschlandfunk.de/innenministerkonferenz-verzichtet-auf-zusaetzliche-massnahmen-fuer-mehr-sicherheit-in-fussballstadie-106.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die organisierten Fußball-Fans in Deutschland haben die Ergebnisse der Innenministerkonferenz zur Stadionsicherheit als ihren Erfolg gewertet.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestagsbeschluss zu Migrationspolitik - Regierung kann künftig ohne Bundesrat sichere Herkunftsstaaten bestimmen",
+      "link": "https://www.deutschlandfunk.de/regierung-kann-kuenftig-ohne-bundesrat-sichere-herkunftsstaaten-bestimmen-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der Bundestag hat weitere Gesetze der Koalition zur Verschärfung der Migrationspolitik beschlossen.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nord Stream-Ausschuss - Schwesig fast 14 Stunden lang befragt",
+      "link": "https://www.deutschlandfunk.de/schwesig-fast-14-stunden-lang-befragt-110.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die Ministerpräsidentin von Mecklenburg-Vorpommern, Schwesig, ist vom Nord Stream 2-Untersuchungsausschuss fast 14 Stunden lang vernommen worden.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Europa-Schelte - US-Sicherheitsstrategie stößt auf Kritik",
+      "link": "https://www.deutschlandfunk.de/us-sicherheitsstrategie-stoesst-auf-kritik-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die neue Sicherheitsstrategie der US-Regierung stößt in Europa auf Kritik.",
+      "content_length": 74,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südliches Afrika - US-Deportationen nach Eswatini: Unmut über geheimes Millionenabkommen mit Washington wächst",
+      "link": "https://www.deutschlandfunk.de/us-deportationen-nach-eswatini-unmut-ueber-geheimes-millionenabkommen-mit-washington-waechst-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "In der Bevölkerung von Eswatini im südlichen Afrika gibt es zunehmend Unmut über die Aufnahme von Straftätern, die aus den USA deportiert werden.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Architekt Frank Gehry ist tot",
+      "link": "https://www.deutschlandfunk.de/architekt-frank-gehry-ist-tot-110.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der Architekt Frank Gehry ist tot.",
+      "content_length": 34,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesparteitag - BSW will in Magdeburg Führung und neuen Parteinamen wählen",
+      "link": "https://www.deutschlandfunk.de/bsw-will-in-magdeburg-fuehrung-und-neuen-parteinamen-waehlen-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Das Bündnis Sahra Wagenknecht kommt heute zu einem zweitägigen Bundesparteitag in Magdeburg zusammen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost-Reise - Kanzler Merz in Jordanien und Israel",
+      "link": "https://www.deutschlandfunk.de/kanzler-merz-in-jordanien-und-israel-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Bundeskanzler Merz reist heute zu seinen Antrittsbesuchen nach Jordanien und Israel.",
+      "content_length": 84,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brauchtum - Borkumer feiern Klaasohm-Fest nach massiver Kritik im vergangenen Jahr am Frauen-Schlagen",
+      "link": "https://www.deutschlandfunk.de/borkumer-feiern-klaasohm-fest-nach-massiver-kritik-im-vergangenen-jahr-am-frauen-schlagen-100.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Auf der Nordseeinsel Borkum ist das traditionelle Klaasohm-Fest gefeiert worden.",
+      "content_length": 80,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Eurovision Song Contest - Bundesregierung kritisiert ESC-Boykott einiger EU-Staaten wegen Israel - Linke will auch \"palästinensische Teilnahme\"",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-kritisiert-esc-boykott-einiger-eu-staaten-wegen-israel-linke-will-auch-palaestinensi-108.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Vertreter der Bundesregierung kritisieren den Boykott des ESC durch mehrere EU-Staaten. Spanien, Irland, Slowenien und die Niederlande hatten angekündigt, dem Eurovision Song Contest im Mai in Wien fernzubleiben. Grund ist, dass Israel teilnehmen darf. Die Linken-Bundestagsfraktion findet, dass auch palästinensische Künstler dabei sein sollten.",
+      "content_length": 346,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-WM-Auslosung - DFB-Elf spielt in der Vorrunde gegen Curaçao, die Elfenbeinküste und Ecuador",
+      "link": "https://www.deutschlandfunk.de/dfb-elf-spielt-in-der-vorrunde-gegen-cura-ao-die-elfenbeinkueste-und-ecuador-108.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Deutschland trifft bei der Fußballweltmeisterschaft 2026 in der Vorrunde auf Curaçao, die Elfenbeinküste und Ecuador. Dies ergab in Washington die Auslosung für das Turnier, das in den USA, Mexiko und Kanada stattfindet.",
+      "content_length": 220,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fußball-Bundesliga - Mainz - Mönchengladbach 0:1",
+      "link": "https://www.deutschlandfunk.de/mainz-moenchengladbach-0-104.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "In der Fußball-Bundesliga hat Mainz das Freitagsspiel verloren.",
+      "content_length": 63,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schwimm-Kurzbahn-Europameisterschaften - Isabel Gose und Anna Elendt gewinnen Titel",
+      "link": "https://www.deutschlandfunk.de/isabel-gose-und-anna-elendt-gewinnen-titel-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die Schwimmerinnen Isabel Gose und Anna Elendt haben bei den Kurzbahn-Europameisterschaften in Polen Gold gewonnen.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Selenskyj entlässt Bürochef Jermak auch aus Sicherheitsrat",
+      "link": "https://www.deutschlandfunk.de/selenskyj-entlaesst-buerochef-jermak-auch-aus-sicherheitsrat-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Der ukrainische Präsident Selenskyj hat seinen entlassenen Stabschef Jermak auch von anderen Posten entbunden.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kandahar - Erneute Gefechte zwischen Afghanistan und Pakistan",
+      "link": "https://www.deutschlandfunk.de/erneute-gefechte-zwischen-afghanistan-und-pakistan-104.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "An der Grenze zwischen Afghanistan und Pakistan ist es erneut zu Gefechten gekommen.",
+      "content_length": 84,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russland - Justiz geht weiter gegen Oppositionspolitiker Schlosberg vor",
+      "link": "https://www.deutschlandfunk.de/justiz-geht-weiter-gegen-oppositionspolitiker-schlosberg-vor-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die russische Justiz geht erneut gegen den Oppositionspolitiker Schlosberg vor.",
+      "content_length": 79,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Merz bei De Wever - Einig, dass die Ukraine finanziert werden muss",
+      "link": "https://www.deutschlandfunk.de/einig-dass-die-ukraine-finanziert-werden-muss-102.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Bundeskanzler Merz hat Belgiens Ministerpräsidenten de Wever im Fall eines Zugriffs der EU auf eingefrorene russische Vermögen eine gleichmäßige Risikoverteilung auf die Mitgliedsstaaten versprochen.",
+      "content_length": 199,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gespräche in Miami - Ukraine und die USA: Friede hängt von Russland ab",
+      "link": "https://www.deutschlandfunk.de/ukraine-und-die-usa-friede-haengt-von-russland-ab-104.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die Ukraine und die USA sind bei ihren Gesprächen in Miami übereingekommen, dass ein Kriegsende nun an Russland liege.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienberichte - KEF senkt Empfehlung für Erhöhung des Rundfunkbeitrags",
+      "link": "https://www.deutschlandfunk.de/kef-senkt-empfehlung-fuer-erhoehung-des-rundfunkbeitrags-106.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Die Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten - KEF - hat überraschend ihre Beitragsempfehlung reduziert. Wie die Branchendienste Medieninsider und DWDL berichten, legt die KEF der Politik nun eine Erhöhung zum 1. Januar 2027 um 28 Cent auf 18 Euro 64 nahe.",
+      "content_length": 281,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Meist bedeckt bei 4 bis 13 Grad",
+      "link": "https://www.deutschlandfunk.de/meist-bedeckt-bei-4-bis-13-grad-104.html",
+      "published": "2025-12-06T07:04:30",
+      "content": "Das Wetter: Zeitweise Regen. Auflockerungen vor allem im Osten. Höchstwerte 1 bis 11 Grad.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Four civilians killed in Pakistan-Afghanistan border clash",
+      "link": "https://www.france24.com/en/asia-pacific/20251206-four-civilians-killed-in-pakistan-afghanistan-border-clash",
+      "published": "2025-12-06T06:57:04",
+      "content": "An overnight exchange of fire at the Chaman–Spin Boldak crossing killed four civilians and wounded four more, Afghan officials said. Both sides blamed each other despite a truce after deadly clashes in October. Tensions between Pakistan and Afghanistan have escalated since the Taliban took power in 2021, with Islamabad accusing Kabul of harbouring militants and the border remaining largely closed.",
+      "content_length": 400,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Russia launches massive overnight attack on Ukraine, wounding three, Kyiv says",
+      "link": "https://www.france24.com/en/europe/20251206-live-russia-launches-massive-overnight-attack-on-ukraine-wounding-three-kyiv-says",
+      "published": "2025-12-06T06:17:37",
+      "content": "Russia launched a massive overnight assault on the Kyiv region early Saturday, firing drones and missiles that wounded three people and triggered air-raid alerts across large parts of the country. In Miami, US and Ukrainian officials are extending negotiations with both sides agreeing that \"real progress\" depends on Russia's willingness to end the war. Follow our liveblog for the latest updates.",
+      "content_length": 398,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Bloodshed was supposed to stop’: no sign of normal life as Gaza’s killing and misery grind on",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/06/bloodshed-was-supposed-to-stop-no-sign-of-normal-life-as-gazas-killing-and-misery-grind-on",
+      "published": "2025-12-06T06:00:48",
+      "content": "The term ceasefire ‘risks creating a dangerous illusion life is returning to normal’ for Palestinians squeezed into the remaining 42% of their land behind Israel’s ‘yellow line’ When Jumaa and Fadi Abu Assi went to look for firewood their parents thought they would be safe. They were just young boys, aged nine and 10 and, after all, a ceasefire had been declared in Gaza.Their mother, Hala Abu Assi, was making tea in the family’s tent in Khan Younis when she heard an explosion, a missile fired by an Israeli drone. She ran to the scene – but it was too late. Continue reading...",
+      "content_length": 582,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Environment Agency faces landfill tax bill worth millions to clear illegal waste",
+      "link": "https://www.theguardian.com/environment/2025/dec/06/environment-agency-millions-landfill-tax-illegal-waste",
+      "published": "2025-12-06T06:00:48",
+      "content": "Exclusive: ‘extremely unhelpful’ policy seen as deterrent to clearing thousands of dump sites across EnglandMillions of pounds in landfill tax owed to the government has to be paid by the Environment Agency (EA) if it clears any of the thousands of illegal waste dumps across the country.Of the £15m that taxpayers are paying for the clearance of the only site the agency has committed to clearing up – a vast illegal dump at Hoad’s Wood in Kent – £4m is landfill tax. Continue reading...",
+      "content_length": 488,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK IVF couples use legal loophole to rank embryos based on potential IQ, height and health",
+      "link": "https://www.theguardian.com/society/2025/dec/06/uk-ivf-couples-use-legal-loophole-rank-embryos-iq-height-health",
+      "published": "2025-12-06T06:00:45",
+      "content": "British fertility clinics raise scientific and ethical objections over patients sending embryos’ genetic data abroad for analysisWhat is polygenic embryo screening in IVF and does it work?Couples undergoing IVF in the UK are exploiting an apparent legal loophole to rank their embryos based on genetic predictions of IQ, height and health, the Guardian has learned.The controversial screening technique, which scores embryos based on their DNA, is not permitted at UK fertility clinics and critics have raised scientific and ethical objections, saying the method is unproven. But under data protection laws, patients can – and in some cases have – demanded their embryos’ raw genetic data and sent it abroad for analysis in an effort to have smarter, healthier children. Continue reading...",
+      "content_length": 790,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Retired UK civil servant ordered to pay back £25,000 after pension scheme error",
+      "link": "https://www.theguardian.com/money/2025/dec/06/retired-uk-civil-servant-ordered-to-pay-back-25000-after-pension-scheme-error",
+      "published": "2025-12-06T06:00:45",
+      "content": "Eleven years of overpayments leave 63-year-old facing hardship and return to full-time workA retired civil servant faces being forced back into full-time work after being ordered to return £25,000 in overpaid pension benefits.Derek Ritchie, 63, was informed in March by scheme administrators that his payments had been miscalculated since 2014. Continue reading...",
+      "content_length": 364,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bombed Chornobyl shelter no longer blocks radiation and needs major repair – IAEA",
+      "link": "https://www.theguardian.com/world/2025/dec/06/chornobyl-disaster-shelter-no-longer-blocks-radiation-and-needs-major-repair-iaea",
+      "published": "2025-12-06T05:52:39",
+      "content": "Drone attack that Ukraine blamed on Russia blew hole in painstakingly erected €1.5bn shield meant to allow for final clean-up of 1986 meltdown siteThe protective shield over the Chornobyl disaster nuclear reactor in Ukraine, which was hit by a drone in February, can no longer perform its main function of blocking radiation, the International Atomic Energy Agency (IAEA) has announced.In February a drone strike blew a hole in the “new safe confinement”, which was painstakingly built at a cost of €1.5bn ($1.75bn) next to the destroyed reactor and then hauled into place on tracks, with the work completed in 2019 by a Europe-led initiative. The IAEA said an inspection last week of the steel confinement structure found the drone impact had degraded the structure. Continue reading...",
+      "content_length": 787,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Spielzeugkonsum in Deutschland: Teuer - auch fürs Klima",
+      "link": "https://www.tagesschau.de/wissen/klima/klimabilanz-spielzeug-100.html",
+      "published": "2025-12-06T05:30:54",
+      "content": "   Dieses Jahr werden die Deutschen Schätzungen zufolge 4,5 Milliarden Euro für neues Spielzeug ausgeben - mit Auswirkungen auf die Erde und das Klima. Eine mögliche Alternative: Secondhand. Von Ulrike Brandt.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Deportationen nach Eswatini: Unmut über geheimen Millionendeal",
+      "link": "https://www.tagesschau.de/ausland/afrika/eswatini-unmut-deportationen-100.html",
+      "published": "2025-12-06T04:34:37",
+      "content": "   In Eswatini sorgt der Deal für Angst und Unmut: Das kleine Land in Afrika nimmt abgeschobene Straftäter aus den USA auf und kassiert dafür offenbar Millionen. Ein Verstoß gegen die Verfassung? Von S. Ueberbach. [mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Merz spricht von \"konstruktivem Austausch\" über russische Gelder",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-belgien-russland-100.html",
+      "published": "2025-12-06T04:31:17",
+      "content": "   Kanzler Merz hat in Belgien mit Premier de Wever und Kommissionspräsident von der Leyen über den Umgang mit den eingefrorenen russischen Geldern gesprochen. Mitte Dezember soll eine \"einvernehmliche Lösung\" gefunden werden.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Suspected smuggling boat struck twice by military was reportedly moving drugs to South American country, not US –as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/05/trump-pete-hegseth-signal-politics-updates",
+      "published": "2025-12-06T02:58:27",
+      "content": "This live blog is now closed.Trump news at a glance: list of countries under US travel ban set to growLauren Gambino and Melody SchreiberAfter a delay and an unusually contentious meeting, a federal vaccine advisory panel is expected to vote today whether to change the longstanding recommendation that all newborns be immunized against hepatitis B. Continue reading...",
+      "content_length": 369,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "San Diego agrees to pay $30m to family of boy, 16, shot dead by police",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/san-diego-settlement-konoa-wilson-police",
+      "published": "2025-12-06T02:35:20",
+      "content": "Settlement one of US’s largest and comes after officer killed Konoa Wilson, who was running from teen shooting at himThe city of San Diego has agreed to pay a $30m settlement to the family of Konoa Wilson, the 16-year-old boy fatally shot in the back by a police officer while running away after narrowly missing another shooting by an unknown third party at a train station.The payout is the result of the wrongful death lawsuit Wilson’s family filed against the city in June, claiming the officer who shot the teen acted with “racial violence”. Wilson is half Black, family attorneys said. Continue reading...",
+      "content_length": 611,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "CDC advisory panel votes to limit hepatitis B vaccines for newborns",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/cdc-panel-rfk-hepatitis-b-vaccine",
+      "published": "2025-12-06T01:40:47",
+      "content": "Move from CDC advisers mirrors Trump team’s regressive approach to longstanding vaccine guidanceWho’s allowed to get the hepatitis B vaccine in the US now?Vaccine advisers for the US Centers for Disease Control and Prevention (CDC) voted on Friday morning to limit hepatitis B vaccines in a major move signaling the Trump administration’s regressive approach to vaccines that have been given safely and effectively for decades.The panel of advisers, hand-picked by the US health secretary, Robert F Kennedy Jr, decided to remove the well-established and far-reaching recommendation that all newborns in the US receive a hepatitis B vaccine. Continue reading...",
+      "content_length": 660,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘No mistrust’ between Europe and US over Ukraine, Macron says",
+      "link": "https://www.theguardian.com/world/2025/dec/05/no-mistrust-between-europe-and-us-over-ukraine-macron-says",
+      "published": "2025-12-06T00:43:37",
+      "content": "French president’s remarks come a day after a report claimed he had warned Washington could betray KyivEmmanuel Macron has said there is “no mistrust” between Europe and the US, a day after a report claimed the French president had warned privately there was a risk Washington could betray Ukraine.“Unity between Americans and Europeans on the Ukrainian issue is essential. And I say it again and again, we need to work together,” Macron told reporters during a visit to China on Friday. Continue reading...",
+      "content_length": 507,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump advisers and Ukrainian officials will meet for third day amid progress on peace plan",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/ukraine-russia-trump-peace-plan",
+      "published": "2025-12-06T00:20:53",
+      "content": "Joint statement comes as Trump pushes Kyiv and Moscow on US-mediated proposal to end nearly four years of warDonald Trump’s advisers and Ukrainian officials said Friday they’ll meet for a third day of talks after making progress on creating a security framework for postwar Ukraine and are urging Russia to commit to peace.The officials, who met for a second day in Florida on Friday, issued a joint statement that offered broad brushstrokes about the progress they say that’s been made as Trump pushes Kyiv and Moscow to agree to a US-mediated proposal to end nearly four years of war. Continue reading...",
+      "content_length": 606,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Verge’s 2025 holiday gift guide",
+      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "published": "2025-12-06T00:08:39",
+      "content": "\n\n\n\t\n\t\t\n\nThe holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low.\nFortunately, we did some planning on your behalf. As much as we love playing with the latest gadgets and gizmos here at The Verge, we also love recommending them. That's why, after consulting with our expert team of writers and editors, we've compiled a medley of gift ideas that won't be regifted come this time next year - from noise-canceling earbuds and e-reade …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Arizona congresswoman says she was ‘pepper sprayed’ at protest against ICE",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/adelita-grijalva-arizona-pepper-spray-ice-protest",
+      "published": "2025-12-05T23:40:33",
+      "content": "Adelita Grijalva, a Democratic representative, said she was ‘sprayed in the face’ at demonstration outside a restaurantAdelita Grijalva, an Arizona congressperson, said she was “sprayed in the face” during a protest against a federal immigration raid at a Mexican restaurant in Tucson on Friday.In a video filmed after the incident, Grijalva said she joined a group of protesters assembled outside Taco Giro, a “small mom-and-pop” restaurant in Tucson Grijalva said she visits weekly. By the time she arrived, she said, the protesters had “stopped” a squadron of dozens of mostly masked Immigration and Customs Enforcement (ICE) agents. Continue reading...",
+      "content_length": 656,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wayne Swan warns Labor not to speak to Australians in ‘highly stylised political way’",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/06/wayne-swan-warns-labor-not-to-speak-to-australians-in-highly-stylised-political-way",
+      "published": "2025-12-05T23:00:37",
+      "content": "Exclusive: ALP national president urges party to urgently renew its ageing grassroots membership base in suburban and regional areasGet our breaking news email, free app or daily news podcastThe Australian Labor party must renew or risk collapse like other centre-left parties including the US Democrats, the national president Wayne Swan has said, cautioning his own side against complacency after its election win and the chaos engulfing the Coalition.In an interview with Guardian Australia, the former treasurer also said Labor “shouldn’t be afraid” of engaging in contentious policy debates as he suggested modern voters wouldn’t embrace a “tame” agenda. Continue reading...",
+      "content_length": 679,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Streaming service makes rare decision to lower its monthly fees",
+      "link": "https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/",
+      "published": "2025-12-05T22:56:51",
+      "content": "Somewhere, a pig is catching some sweet air.\nIn a rare move for a streaming service, Fubo announced today that it’s lowering the prices for some of its subscription plans.\nFubo is a sports-focused vMVPD (virtual multichannel video programming distributor, or a company that enables people to watch traditional TV channels live over the Internet). Disney closed its acquisition of Fubo in October.Read full article\nComments",
+      "content_length": 422,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘Cultivate resistance’: policy paper lays bare Trump support for Europe’s far right",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/civilisational-erasure-us-strategy-document-appears-to-echo-far-right-conspiracy-theories-about-europe",
+      "published": "2025-12-05T22:55:35",
+      "content": "Text signed by president seems to echo ‘great replacement’ theory, saying Europe faces ‘civilisational erasure’ Donald Trump’s administration has said Europe faces “civilisational erasure” within the next two decades as a result of migration and EU integration, arguing in a policy document that the US must “cultivate resistance” within the continent to “Europe’s current trajectory”.Billed as “a roadmap to ensure America remains the greatest and most successful nation in human history and the home of freedom on earth”, the US National Security Strategy makes explicit Washington’s support for Europe’s nationalist far-right parties. Continue reading...",
+      "content_length": 657,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Professor visiting Harvard arrested by ICE agrees to leave country",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/harvard-professor-arrested-ice",
+      "published": "2025-12-05T22:35:36",
+      "content": "Carlos Portugal Gouvea, charged with firing a pellet gun on eve of Yom Kippur outside a synagogue, has said he was not aware of the holiday or that he was shooting next to oneUS immigration authorities arrested a visiting professor at Harvard law school after he was charged with discharging a pellet gun outside a Massachusetts synagogue the day before Yom Kippur, the US Department of Homeland Security (DHS) said on Thursday – and he agreed to leave the country.Carlos Portugal Gouvea, a Brazilian citizen, was arrested on Wednesday by US Immigration and Customs Enforcement (ICE) after his temporary nonimmigrant visa was revoked by the state department following what the Trump administration labeled an “anti-semitic shooting incident” – a description at odds with how local authorities have described the case. Continue reading...",
+      "content_length": 837,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "People flee DR Congo fighting one day after peace deal signed in Washington",
+      "link": "https://www.theguardian.com/world/2025/dec/05/people-flee-dr-congo-fighting-one-day-after-peace-deal-signed-in-washington",
+      "published": "2025-12-05T22:17:21",
+      "content": "Hundreds driven into Rwanda as M23 militia battles Congolese army and Burundian soldiers for border town of KamanyolaFresh fighting in eastern DR Congo has forced hundreds to flee across the border into Rwanda, a day after a peace deal was signed in Washington DC.Thursday’s agreement was meant to stabilise the resource-rich east but it has had little visible effect on the ground so far, in an area plagued by conflict for 30 years. Continue reading...",
+      "content_length": 454,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Welcome to the big leagues, Netflix",
+      "link": "https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs",
+      "published": "2025-12-05T22:02:58",
+      "content": "\n\n\n\t\n\t\t\n\nWarner Bros. has an infamous history of being bought by other companies and then quickly ending up back on the market after its new owners realize how difficult it is to capitalize on a legacy production studio's assets. Those challenges are part of what doomed WB's mergers with AOL and AT&amp;T, who bought the studio in attempts to reinvent themselves. But WB's latest acquisition deal - this time with Netflix for $83 billion - feels like it has the potential to turn out differently because of how much of a major player within the entertainment industry the streamer has become. It also signals just how far Netflix has come: in less than two deca …\nRead the full story at The Verge.",
+      "content_length": 698,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "2026 FIFA World Cup: balanced routes for African teams",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251205-2026-fifa-world-cup-balanced-routes-for-african-teams",
+      "published": "2025-12-05T21:47:15",
+      "content": "The 2026 Men's World Cup draw has taken place, and we now know which countries will be competing in the group stages. Nine African teams are participating in this edition, maybe ten depending on the runoff results, and everyone is excited about who ended up where. Highly anticipated matches include Ivory Coast vs Germany in Group E, Senegal vs France in Group I, and Morocco vs Brazil in Group C.",
+      "content_length": 398,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pakistan and Afghanistan trade heavy fire along border, officials say",
+      "link": "https://www.france24.com/en/asia-pacific/20251205-pakistan-and-afghanistan-trade-heavy-fire-along-border-officials-say",
+      "published": "2025-12-05T21:37:28",
+      "content": "Pakistan and Afghanistan exchanged heavy fire along their shared border on Friday, officials from both countries said, after peace talks between the South Asian neighbours ended without a breakthrough earlier this week.",
+      "content_length": 219,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bas fordert \"ganz neues System\" bei der Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-beschluss-bas-merz-100.html",
+      "published": "2025-12-05T21:32:16",
+      "content": "   Das Rentenpaket ist beschlossen, als nächstes soll eine große Rentenreform kommen - \"zügig\", wenn es nach Kanzler Merz geht. Arbeitsminister Bas sagte in den tagesthemen, es müsse ein \"ganz neues System\" geben.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Chamberlain blocks smart home integrations with its garage door openers — again",
+      "link": "https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers",
+      "published": "2025-12-05T21:00:00",
+      "content": "\n\n\n\t\n\tThe MyQ garage door controller is an accessory that can connect Chamberlain Group garage door openers to the MyQ app. The MyQ platform used to support more smart home integrations, but has increasingly become focused on those that require subscriptions.\t\n\nGarage door opener manufacturer The Chamberlain Group has launched a new version of the communication platform that powers its connected garage door openers - and it's bad news for smart home users. \nThe new Security+ 3.0 platform, launching alongside Chamberlain's latest openers, shuts down the workarounds that third-party accessory makers such as Tailwind, Meross, and Ratgdo developed to let you integrate your garage door with Apple Home, Home Assistant, Amazon Alexa, Google Home, and others. \nInstead, you're pushed into Chamberlain's ad-stuffed MyQ app and a short list of partners and integrations, nearly all of which require paid subsc …\nRead the full story at The Verge.",
+      "content_length": 945,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Star-Architekt Frank Gehry mit 96 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/frank-gehry-tod-100.html",
+      "published": "2025-12-05T20:55:49",
+      "content": "   Das Guggenheim-Museum in Bilbao oder die markanten Bauten im Düsseldorfer Medienhafen stammen von ihm, er gewann viele bedeutende Preise. Nun ist der Star-Architekt Frank Gehry im Alter von 96 Jahren gestorben. [mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US Supreme Court to review Trump's order to restrict birthright citizenship",
+      "link": "https://www.france24.com/en/americas/20251205-us-supreme-court-to-review-trump-s-order-to-restrict-birthright-citizenship",
+      "published": "2025-12-05T20:53:21",
+      "content": "The US Supreme Court agreed on Friday to review US President Donald Trump's order on birthright citizenship. Several lower courts have previously blocked Trump's bid to restrict the law that states anyone born on US soil is automatically an American citizen.",
+      "content_length": 258,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Star Wars’ original theatrical cut returns to theaters in 2027",
+      "link": "https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date",
+      "published": "2025-12-05T20:44:13",
+      "content": "\n\n\n\t\n\t\t\n\nDisney is bringing a “newly restored version” of the original, 1977 theatrical cut of Star Wars back to theaters on February 19th, 2027. It will only be available in theaters for “a limited time,” Disney says, and it’s being released as part of “Lucasfilm’s yearlong 50th anniversary celebration” for the franchise. Tickets aren’t on sale yet, but Disney says it will share details on when and where to buy tickets on StarWars.com.\n\nDisney initially revealed earlier this year that it would be bringing Star Wars back to theaters. Star Wars creator George Lucas has famously tinkered with what’s now called A New Hope, but a few lucky fans have already been able to recently see the first theatrical cut; The British Film Institute showed an original, 35mm release print of the movie in June at an event that featured an introduction from Lucasfilm president Kathleen Kennedy, who confirmed that it was “in fact, the first print.”\n\nAhead of the re-release of the first Star Wars, Disney is bringing The Mandalorian and Grogu to theaters on May 22nd, 2026. Another film, Star Wars: Starfighter, starring Ryan Gosling, is coming to theaters on May 28th, 2027.",
+      "content_length": 1166,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Hearings in absentia 'conceivable' for Putin and Netanyahu, ICC says",
+      "link": "https://www.france24.com/en/europe/20251205-hearing-in-absentia-conceivable-for-putin-and-netanyahu-icc-says",
+      "published": "2025-12-05T20:33:40",
+      "content": "Hearings in absentia could be possible for Russian President Vladimir Putin and Israeli Prime Minister Benjamin Netanyahu, the deputy prosecutor for the International Criminal Court said on Friday. Both leaders have been issued arrest warrants by the international tribunal.",
+      "content_length": 274,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Liberty, equality, invincibility: Cultural highlights of France's Ukraine Season",
+      "link": "https://www.france24.com/en/europe/20251205-liberty-equality-invincibility-the-highlights-of-the-ukraine-season-in-france",
+      "published": "2025-12-05T20:17:01",
+      "content": "France's Ukraine Season (December 1, 2025-March 31, 2026) is an invitation to “travel” to a country which is fighting for its freedom while creating new cultural horizons. More than 50 cultural events will take place during the festival in 20 cities across France.",
+      "content_length": 264,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "REPLAY - Decoding the 2026 FIFA World Cup draw: expert analysis",
+      "link": "https://www.france24.com/en/video/20251205-replay-decoding-the-2026-fifa-world-cup-draw-expert-analysis",
+      "published": "2025-12-05T20:11:51",
+      "content": "In this special 2-hour edition, we dissect the results of the highly anticipated 2026 World Cup Draw. Sports consultants Karim Baldé and Thando Sibiya offer in-depth commentary and strategic insights on each group as they unfold. From potential powerhouses to dark horses, we explore what these matchups mean for the tournament ahead.",
+      "content_length": 334,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Offenbar Drohnen über französischem Marinestützpunkt gesichtet",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-drohne-sichtung-u-boot-stuetzpunkt-100.html",
+      "published": "2025-12-05T20:08:01",
+      "content": "   Über einer Marinebasis in der Bretagne sollen Drohnen gesichtet worden sein. Dort befinden sich französische Atom-U-Boote. Die Behörden sind in Alarmbereitschaft.[mehr]",
+      "content_length": 171,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pantone’s ‘Cloud Dancer’ color party is a recession indicator",
+      "link": "https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party",
+      "published": "2025-12-05T19:59:54",
+      "content": "\n\n\n\t\n\t\t\n\nPantone's color of the year for 2026 is white - sorry, Cloud Dancer. Pantone announced the shade on Thursday, and describes it as a \"discrete white hue offering a promise of clarity.\" The accompanying image shows a person with cropped hair in billowy white clothing, arms outstretched over a background of clouds.\n\n\"PANTONE 11-4201 Cloud Dancer encourages true relaxation and focus, allowing the mind to wander and creativity to breathe, making room for innovation,\" the company writes. But all I can see is a recession indicator.\n\n\n\n\nThis is the third year in a row where the Pantone color has slid more and more into unobtrusive, dispassionat …\nRead the full story at The Verge.",
+      "content_length": 689,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal",
+      "link": "https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung",
+      "published": "2025-12-05T19:34:38",
+      "content": "\n\n\n\t\n\t2023’s iPhone 15 is the most recent that Trump Mobile offers.\t\n\nIt's been well established that the Trump Phone doesn't exist. But that isn't the only phone Trump Mobile sells. It also offers a range of refurbished Apple and Samsung handsets that you can buy right now. You really shouldn't though.\nI was relieved reading Allison's coverage over the last two weeks to discover that not everything about Trump Mobile is a scam. It may have taken her a couple weeks to actually get a SIM card, but once it arrived it did work just fine - it's T-Mobile, after all. It made me realize that you could, if you wanted, get Trump Mobile coverage on a Trump Mobile-sold phone right now, so long as you don't mind that the …\nRead the full story at The Verge.",
+      "content_length": 754,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "DFB-Team spielt bei WM gegen Curaçao, Elfenbeinküste und Ecuador",
+      "link": "https://www.tagesschau.de/sport/fussball-wm-2026-vorrunde-100.html",
+      "published": "2025-12-05T19:28:15",
+      "content": "   Die deutsche Fußball-Nationalmannschaft trifft bei der WM 2026 in der Gruppe E auf Curaçao, die Elfenbeinküste und Ecuador. Das ergab die Auslosung in Washington. Das Turnier findet in Mexiko, Kanada und den USA statt.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The 2026 FIFA World Cup draw is complete – Our analysis",
+      "link": "https://www.france24.com/en/video/20251205-the-2026-fifa-world-cup-draw-is-complete-%E2%80%93-our-analysis",
+      "published": "2025-12-05T19:26:03",
+      "content": "Discover which teams have been drawn into each group for the upcoming FIFA World Cup. In this video, we break down the group stage, analyze potential matchups, and highlight the teams to watch.",
+      "content_length": 193,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "FIFA World Cup draw: Which group is the 'Group of Death' this time around?",
+      "link": "https://www.france24.com/en/video/20251205-fifa-world-cup-draw-which-group-is-the-group-of-death-this-time-around",
+      "published": "2025-12-05T19:18:18",
+      "content": "The 2026 World Cup draw determines where 48 nations will play in next year’s tournament, running from June 11 to July 19. In every World Cup, there’s usually a “Group of Death” — a group where several top teams face off, making it extremely tough to advance. Which group is it this year?",
+      "content_length": 287,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "USA kritisieren Europa und kündigen Einmischung an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-vorwuerfe-europa-100.html",
+      "published": "2025-12-05T19:15:18",
+      "content": "   In ihrer neuen Sicherheitsstrategie greifen die USA Europa scharf an und kündigen eine Einmischung zugunsten rechter Parteien an. Die US-Regierung wolle nun \"Widerstand\" in Europa kultivieren.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "France face Senegal, a qualifier and Norway in World Cup group",
+      "link": "https://www.france24.com/en/sport/20251205-live-fifa-world-cup-2026-draw-reveals-group-allocations-for-biggest-ever-tournament",
+      "published": "2025-12-05T19:05:49",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Horses is a hit, but its studio might still be in trouble",
+      "link": "https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship",
+      "published": "2025-12-05T19:00:31",
+      "content": "\n\n\n\t\n\t\t\n\nAfter indie narrative horror game Horses was banned from Steam two years ago, it put the studio, Santa Ragione, at risk of closure. Studio cofounder and Horses producer Pietro Righi Riva had to make a difficult phone call to the game’s director, Italian filmmaker Andrea Lucco Borlera. “I was terrified for him,” Riva said in an interview with The Verge. “This was his first game and he put so much work, so much passion, so many years, and it was supposed to be his big breakthrough.” \n\nBut Horses has broken through even without Steam. Riva’s detailed accounting of the game’s multiple storefront bans caught the attention of journalists, developers, and curious gamers eager to see just what was so objectionable that the game couldn’t be sold on Steam alongside the likes of Sex Standing or Sex with Hitler 2. That attention has made Horses the video game cause célèbre of the moment, catapulting it to bestseller status on GOG.com.\n\nBut while this all sounds like a happy ending, Riva isn’t ready to breathe easy just yet. “I’m relieved because with all this attention, I&#8217;m probably going to be able to give back most of the money [roughly half of $100,000] that I had to borrow,” he said. “But we’re not out of the [woods] yet, no.” \n\nHorses is a short, crunchy-looking game, boasting Dreamcast-era graphics with gameplay that’s no more involved than clicking things to put them in and take them out of your inventory. And while Santa Ragione has had success with Saturnalia and Milky Way Prince before the bans, it was largely a little-known developer. Riva is aware of how that looks, acknowledging that the bans have been instrumental in Horses punching through the noise.\n\n“There is no way the same kind of interest would have happened,” he said. And despite that first difficult call, Riva says Borlera is quite pleased at what the bans have done for his game. “He&#8217;s extremely happy with the reception that the game is getting,” Riva said. “People are reading into the game and [&#8230;] engaging with it in a way that he hoped.”\n\n“There is no way the same kind of interest would have happened.”\n\nThat engagement, though, isn’t enough to make up for the access Steam could have provided. While Riva is grateful for the support of gamers and storefronts like GOG, it’s not enough, and he’s still very much in fear of Santa Ragione’s future. “Even with all the publicity, all the reporting, all the reviews, everything else,” he said. “This still does not compare to the kind of audience we would have on Steam.”\n\nSteam has an outsize influence on the PC video game market. The indie studios that cannot afford the costs of porting their games to consoles are at the mercy of Valve’s vague, capricious, and often inconsistent moderation whims. Though Horses has found a roundabout way to relative success without it, Riva said that journey has been traumatic, affecting not just him and his team but his peers and future projects.\n\n“I think there is going to be, in my case, and in other people&#8217;s case, a certain degree of self-censorship,” he said. “It&#8217;s terrifying, and it&#8217;s going to make people make safer and safer games, me included.”",
+      "content_length": 3187,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Chrome can now autofill details from your Google account",
+      "link": "https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet",
+      "published": "2025-12-05T19:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nGoogle has announced several autofill improvements being rolled out to the mobile and desktop versions of Chrome. The updates will give autofill access to more of your data from places like Google Wallet and make it easier to select the right info a form is asking for when there are multiple suggestions.\n\nAutofill can now access your name, email address, and saved work and home addresses from your Google Account while you’re signed into the desktop, iOS, and Android versions of Chrome.\n\nFor Chrome on Android, Google is expanding the autofill suggestions that appear above the onscreen keyboard so they’re not as condensed and easier to differentiate. The suggestions will now display two lines of information that could, for example, include the addresses of two contacts with the same name so you have more context for choosing the correct one.\n\nGoogle is also improving how Chrome’s autofill completes forms with international addresses, including Mexican descriptions that often reference two cross-streets, while support for “phonetic names in Japan” will be introduced later.\n\nLast month Chrome added the ability to autofill details like your passport number, driver’s license, loyalty cards, and info about your vehicle including its VIN and license plate for desktop users who turned on “enhanced autofill.” Both the desktop and Android versions of Chrome will now be able to access data from travel bookings saved in Google Wallet, so if you’re booking an airport rental car online, you can autofill details like the time and day your flight arrives.",
+      "content_length": 1573,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The 2026 FIFA World Cup draw begins: How are the groups shaping up?",
+      "link": "https://www.france24.com/en/video/20251205-the-2026-fifa-world-cup-draw-begins-how-are-the-groups-shaping-up",
+      "published": "2025-12-05T18:54:11",
+      "content": "The draw ceremony for the 2026 FIFA World Cup is underway in Washington, DC. What do the twelve groups of four teams look like, and which teams have to worry? Analysis by FRANCE 24's Selina Sykes and sports consultants Karim Baldé and Thando Sibiya.",
+      "content_length": 249,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Will 2026 be Africa’s year? Experts react to the World Cup draw",
+      "link": "https://www.france24.com/en/video/20251205-will-2026-be-africa-s-year-experts-react-to-the-world-cup-draw",
+      "published": "2025-12-05T18:53:12",
+      "content": "The draw for the 2026 FIFA World Cup is underway, setting the stage for a historic tournament hosted across the United States, Canada, and Mexico.\n \nIn this special segment, we break down Africa’s chances of going all the way in 2026. Could this be the year an African team lifts the World Cup trophy for the first time?\n \nJoin our experts Karim Baldé and Thando Sibiya, who explore the form, strengths, and potential breakthroughs of Africa’s top contenders.",
+      "content_length": 459,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
+      "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
+      "published": "2025-12-05T18:49:43",
+      "content": "The bidding war is over, and Netflix has been declared the winner.\nAfter flirting with Paramount Skydance and Comcast, Warner Bros. Discovery (WBD) has decided to sell its streaming and movie studios business to Netflix. If approved, the deal is set to overturn the media landscape and create ripples that will affect Hollywood for years.\n$72 billion acquisition\nNetflix will pay an equity value of $72 billion, or an approximate total enterprise value of $82.7 billion, for Warner Bros. All of WBD has a $60 billion market value, NBC News notes.Read full article\nComments",
+      "content_length": 572,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "2026: The most expensive FIFA World Cup ever",
+      "link": "https://www.france24.com/en/video/20251205-2026-the-most-expensive-fifa-world-cup-ever",
+      "published": "2025-12-05T18:49:16",
+      "content": "The draw for the 2026 FIFA Men's World Cup is underway today. The once-every-four-year tournament will be co-hosted by three countries: Mexico, the United Stated and Canada. The final match, however, will be held in New York City and costs could be prohibitive for some superfans. Our colleagues at France 2 and Catherine Viette look ahead to what is shaping up to be the most expensive World Cup ever.",
+      "content_length": 402,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Analyse zum Rentenpaket-Votum: Warum die Koalition weiter wackeln wird",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abstimmung-rente-102.html",
+      "published": "2025-12-05T18:49:11",
+      "content": "   Der Kanzler und die Koalition haben bei der Rente gewonnen - aber es bleiben Unzufriedene in den eigenen Reihen zurück. Die knappe Mehrheit wird zur Bürde für die Regierung Merz. Von Corinna Emundts.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "You can now use Pixel phones as a Switch 2 webcam",
+      "link": "https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam",
+      "published": "2025-12-05T18:46:37",
+      "content": "\n\n\n\t\n\tThat Pixel phone in your pocket is now a Switch 2 webcam. | Photo by Cameron Faulkner / The Verge\t\n\nWhen it launched the Switch 2’s compatibility with various webcams was hit or miss. A webcam isn’t a necessary accessory, but since the Switch 2 lacks one of its own, you need one to take full advantage of the console’s GameChat feature that can livestream players’ faces during multiplayer matches. Switch 2 webcam compatibility has since improved, but if you don’t already own one, you can now use your Pixel smartphone, according to Android Authority.\n\nDespite Nintendo’s claims that the Switch 2 works with most USB webcams, our own testing confirmed that Pixel smartphones could not be used as webcams at launch, even with the device’s settings switched to the USB webcam mode that Google introduced with Android 14. Switch 2 users eventually found that Android phones and iPhones could be used as a webcam for the console, but with the help of additional USB-C to HDMI adapters, and HDMI capture cables.\n\nBut extra hardware is no longer needed to use a Pixel smartphone as a Switch 2 webcam. We tested a Pixel 9 Pro connected directly to the Switch 2’s top USB-C port with a single cable and, after switching the USB preferences to “Webcam” mode, we were able to use the smartphone as the camera for GameChat. If you’re playing multiplayer games like Mario Kart World, GameChat lets you not only speak with other competitors around the world, but also see them superimposed over a livestream of them playing if you’re using a webcam.\n\nIt’s not known if recent updates on Google’s or Nintendo’s end are responsible for making this work (the Pixel 9 Pro we tested it with is running the Android 16 December release), but it’s a welcome upgrade for those who frequently travel with their Switch 2 and don’t want to lug a separate webcam everywhere they go.",
+      "content_length": 1865,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "AI deepfakes of real doctors spreading health misinformation on social media",
+      "link": "https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media",
+      "published": "2025-12-05T18:45:58",
+      "content": "Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects TikTok and other social media platforms are hosting AI-generated deepfake videos of doctors whose words have been manipulated to help sell supplements and spread health misinformation.The factchecking organisation Full Fact has uncovered hundreds of such videos featuring impersonated versions of doctors and influencers directing viewers to Wellness Nest, a US-based supplements firm. Continue reading...",
+      "content_length": 510,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reform UK revokes membership of council leader accused of racism",
+      "link": "https://www.theguardian.com/politics/2025/dec/05/reform-uk-revokes-membership-ian-cooper-council-leader-accused-of-racism",
+      "published": "2025-12-05T18:45:37",
+      "content": "Party removes Ian Cooper after he was alleged to have abused Sadiq Khan, David Lammy and other figures onlineNigel Farage has revoked the party membership of a Reform UK council leader accused of racially abusing Sadiq Khan, David Lammy and other public figures online.Ian Cooper, the leader of Staffordshire county council, allegedly called the London mayor a “narcissistic Pakistani” and said migrants were “intent on colonising the UK, destroying all that has gone before”. Continue reading...",
+      "content_length": 496,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Luigi Mangione trial is all about narrative control",
+      "link": "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
+      "published": "2025-12-05T18:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nOn Monday, several dozen members of the public are lined up outside 100 Centre Street in Lower Manhattan, hoping to squeeze into the courtroom to hear testimony from witnesses called by the state against Luigi Mangione - the man accused of shooting and killing UnitedHealthcare CEO Brian Thompson a year ago. \nDespite the endless news coverage, viral memes, and photos seen by millions of people, the group that shows up to hearings has thinned out significantly since the court date in February, when hundreds gathered outside and in the courthouse. There is a small demonstration ramping up, organized by healthcare reform group People Over Profi …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Donald Trump awarded first FIFA 'peace prize' at football World Cup draw",
+      "link": "https://www.france24.com/en/video/20251205-donald-trump-awarded-first-fifa-peace-prize-at-football-world-cup-draw",
+      "published": "2025-12-05T18:21:17",
+      "content": "President Donald Trump was awarded the new FIFA peace prize on Friday at the 2026 World Cup draw — giving the soccer spectacle to set matchups for the quadrennial tournament even more of a Trumpian flair. Trump, who has openly campaigned for the Nobel Peace Price, had been heavily favored to win the newly created FIFA prize. He and FIFA president Gianni Infantino are close allies, and Infantino had made clear that he thought Trump should have won the Nobel for his efforts to broker a ceasefire in Gaza. Analysis by Thando Sibiya, sports consultant.",
+      "content_length": 553,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Will 2026 become the year of Lamine Yamal's first FIFA World Cup?",
+      "link": "https://www.france24.com/en/video/20251205-will-2026-become-the-year-of-lamine-yamal-s-first-fifa-world-cup",
+      "published": "2025-12-05T18:16:42",
+      "content": "The 2026 World Cup draw has begun. Among the bookies favorites is Spain. Will the team's star player Lamine Yamal win the World Cup for the first time in his life? Analysis by sports consultants Karim Baldé and Thando Sibiya.",
+      "content_length": 225,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Jugendliche protestieren in zahlreichen Städten gegen Wehrdienst",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wehrdienst-schueler-streik-100.html",
+      "published": "2025-12-05T18:13:58",
+      "content": "   Aus Protest gegen das neue Wehrdienstgesetz sind bundesweit Tausende Jugendliche in den Streik getreten. In teils eisiger Kälte machten sie auf Demos ihrem Frust Luft. Ob das zulässig ist, ist aber fraglich.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Xi holds his ground as Macron's visit to China only yields modest returns",
+      "link": "https://www.france24.com/en/video/20251205-xi-holds-his-ground-as-macron-s-visit-to-china-only-yields-modest-returns",
+      "published": "2025-12-05T18:01:48",
+      "content": "Emmanuel Macron’s three-day state visit to China ended with only modest gains, highlighting the limits of European leverage in Beijing at a time of deepening geopolitical tensions and a widening trade imbalance. For in-depth analysis and a deeper perspective, William Hilderbrandt welcomes Laure Pallez, Senior Partner at Mascaret, specialising in US, Europe and China.",
+      "content_length": 369,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Donald Trump threatens to move FIFA World Cup games out of Democrat cities",
+      "link": "https://www.france24.com/en/video/20251205-donald-trump-threatens-to-move-fifa-world-cup-games-out-of-democrat-cities",
+      "published": "2025-12-05T17:52:22",
+      "content": "The draw ceremony for the 2026 FIFA World Cup is underway at the Kennedy Center in Washington, D.C. A record 48 teams will take part in this summer's tournament. U.S. President Donald Trump is also attending the event. Sports consultants Karim Baldé and Thando Sibiya discuss the impacts of Trump's football Diplomacy.",
+      "content_length": 318,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Innenminister wollen gegen Gewalt in Fußballstadien vorgehen",
+      "link": "https://www.tagesschau.de/inland/innenministerkonferenz-142.html",
+      "published": "2025-12-05T17:49:14",
+      "content": "   Seit Wochen gibt es Proteste gegen die Pläne für verschärfte Sicherheitsmaßnahmen in Fußballstadien. Die Innenminister haben nun betont, dass man mehr tun wolle. Zu den meisten strittigen Vorschlägen gab es aber keine Beschlüsse.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rare set of varied factors triggered Black Death",
+      "link": "https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/",
+      "published": "2025-12-05T17:44:18",
+      "content": "The Black Death ravaged medieval Western Europe, ultimately wiping out roughly one-third of the population. Scientists have identified the bacterium responsible and its likely origins, but certain specifics of how and why it spread to Europe are less clear. According to a new paper published in the journal Communications Earth &amp; Environment, either one large volcanic eruption or a cluster of eruptions might have been the triggering factor, setting off a chain of events that brought the plague to the Mediterranean region in the 1340s.\nTechnically, we’re talking about the second plague pandemic. The first, known as the Justinian Plague, broke out about 541 CE and quickly spread across Asia, North Africa, the Middle East, and Europe. (The Eastern Roman Emperor Justinian I, for whom the pandemic is named, actually survived the disease.) There continued to be outbreaks of the plague over the next 300 years, although the disease gradually became less virulent and died out. Or so it seemed.\nIn the Middle Ages, the Black Death burst onto the scene, with the first historically documented outbreak occurring in 1346 in the Lower Volga and Black Sea regions. That was just the beginning of the second pandemic. During the 1630s, fresh outbreaks of plague killed half the populations of affected cities. Another bout of the plague significantly culled the population of France during an outbreak between 1647 and 1649, followed by an epidemic in London in the summer of 1665. The latter was so virulent that, by October, one in 10 Londoners had succumbed to the disease—over 60,000 people. Similar numbers perished in an outbreak in Holland in the 1660s. The pandemic had run its course by the early 19th century, but a third plague pandemic hit China and India in the 1890s. There are still occasional outbreaks today.Read full article\nComments",
+      "content_length": 1854,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Eurovision in crisis? Israel’s inclusion causes rift – The Latest",
+      "link": "https://www.theguardian.com/news/audio/2025/dec/05/eurovision-in-crisis-israels-inclusion-causes-rift-the-latest",
+      "published": "2025-12-05T17:37:45",
+      "content": "Several countries are boycotting Eurovision after Israel was cleared to compete in the 2026 song contest despite calls for it to be excluded over the war in Gaza. Lucy Hough speaks to our European culture editor, Philip Oltermann – Watch on YouTube Continue reading...",
+      "content_length": 268,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US President Donald Trump named first winner of FIFA Peace Prize",
+      "link": "https://www.france24.com/en/live-news/20251205-us-president-donald-trump-named-first-winner-of-fifa-peace-prize",
+      "published": "2025-12-05T17:32:58",
+      "content": "FIFA on Friday awarded its first peace prize to US President Donald Trump, who described it as \"one of the great honours\" of his life. Trump received the prize during the 2026 World Cup draw in Washington, DC.",
+      "content_length": 209,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge",
+      "link": "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/",
+      "published": "2025-12-05T17:29:37",
+      "content": "I wrote a couple of weeks ago about my personal homebrew Steam Machine, a self-built desktop under my TV featuring an AMD Ryzen 7 8700G processor and a Radeon 780M integrated GPU. I wouldn’t recommend making your own version of this build, especially with RAM prices as they currently are, but there are all kinds of inexpensive mini PCs on Amazon with the same GPU, and they’ll all be pretty good at playing the kinds of games that already run well on the less-powerful Steam Deck.\nBut this kind of hardware is an imperfect proxy for the Steam Machine that Valve plans to launch sometime next year—that box will include a dedicated GPU with 8GB of dedicated video memory, presenting both benefits and possible pitfalls compared to a system with an integrated GPU.\nAs a last pre-Steam Machine follow-up to our coverage so far, we’ve run tests on several games we test regularly in our GPU reviews to get a sense of how current versions of SteamOS stack up to Windows running on the same hardware. What we’ve found so far is basically the inverse of what we found when comparing handhelds: Windows usually has an edge on SteamOS’s performance, and sometimes that gap is quite large. And SteamOS also exacerbates problems with 8GB GPUs, hitting apparent RAM limits in more games and at lower resolutions compared to Windows.Read full article\nComments",
+      "content_length": 1348,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Who are the 48 teams in the 2026 FIFA World Cup draw?",
+      "link": "https://www.france24.com/en/video/20251205-who-are-the-48-teams-in-the-2026-fifa-world-cup-draw",
+      "published": "2025-12-05T17:25:13",
+      "content": "The draw ceremony for the 2026 FIFA World Cup is taking place at the Kennedy Center in Washington, D.C. A record 64 nations will participate to determine which 48 teams will take the tournament field this summer.",
+      "content_length": 212,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation",
+      "link": "https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/",
+      "published": "2025-12-05T17:06:34",
+      "content": "Federal vaccine advisors hand-selected by anti-vaccine Health Secretary Robert F. Kennedy Jr. have voted to eliminate a recommendation that all babies be vaccinated against hepatitis B on the day of birth. The decision was made with no evidence of harm from that dose and no evidence of any benefit from the delay.\nPublic health experts, medical experts, and even some members of the panel decried the vote, which studies and historical data indicate will lead to more infections in babies that, in turn, will lead to more cases of chronic liver disease, liver cancer, and premature death.\n“I will just say we have heard ‘do no harm’ is a moral imperative. We are doing harm by changing this [recommendation],” Cody Meissner, a pediatrician and voting member of the Advisory Committee on Immunization Practices (ACIP), said as he voted against the change.Read full article\nComments",
+      "content_length": 881,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "'You can't build peace just with Russia': Ex-EU Commissioner Moscovici on US-led Ukraine talks",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20251205-you-can-t-build-peace-just-with-russia-ex-eu-commissioner-moscovici-on-us-led-ukraine-talks",
+      "published": "2025-12-05T17:04:50",
+      "content": "With France going through major government instability and facing an alarmingly high public debt, and with Europe struggling to find its diplomatic feet as the US pursues talks to end the war in Ukraine, we speak to a seasoned political figure at the French and European level. Pierre Moscovici is the First President of the French Court of Auditors, a former EU Commissioner for Economic and Monetary Affairs, and was a minister of the economy and finance in the former Socialist government in France.",
+      "content_length": 502,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Diplomacy to end Ukraine war gets bogged down: Europe's leadership vacuum?",
+      "link": "https://www.france24.com/en/tv-shows/talking-europe/20251205-diplomacy-to-end-ukraine-war-gets-bogged-down-europe-s-leadership-vacuum",
+      "published": "2025-12-05T16:53:37",
+      "content": "A ceasefire in Ukraine remains a distant prospect, to say nothing of an actual peace settlement. US diplomatic efforts in Moscow have become bogged down, with no compromise in sight on the fundamental issues, especially the territorial ones. Meanwhile, the EU seems to be relegated to a relatively minor diplomatic role – reacting to the Trump plan with a counter-proposal, and continuing to hold meetings of the \"coalition of the willing\" to help Kyiv.",
+      "content_length": 453,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netflix to acquire Warner Bros studio, HBO Max for $72 billion",
+      "link": "https://www.france24.com/en/business/20251205-netflix-to-acquire-warner-bros-studio-dc-studios-streaming-business-hbo-max-for-72-billion",
+      "published": "2025-12-05T16:45:10",
+      "content": "Streaming giant Netflix has agreed to acquire Warner Bros studios and its streaming business for $72 billion, the two American companies announced in a statement on Friday. This acquisition would bring two of the industry’s biggest players in film and TV under one roof.",
+      "content_length": 270,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bundestag beschließt mehrere Maßnahmen zur Verschärfung der Migrationspolitik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verschaerfung-asylrecht-100.html",
+      "published": "2025-12-05T16:45:05",
+      "content": "   Die Bundesregierung kann künftig ohne Zustimmung des Bundesrates entscheiden, welche Staaten sie als \"sichere Herkunftsländer\" einstuft. Es ist nicht die einzige Verschärfung der Migrationspolitik, die heute im Bundestag beschlossen wurde.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Elon Musk’s X first to be fined under EU’s Digital Services Act",
+      "link": "https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/",
+      "published": "2025-12-05T16:15:20",
+      "content": "Elon Musk’s X became the first large online platform fined under the European Union’s Digital Services Act on Friday.\nThe European Commission announced that X would be fined nearly $140 million, with the potential to face “periodic penalty payments” if the platform fails to make corrections.\nA third of the fine came from one of the first moves Musk made when taking over Twitter. In November 2022, he changed the platform’s historical use of a blue checkmark to verify the identities of notable users. Instead, Musk started selling blue checks for about $8 per month, immediately prompting a wave of imposter accounts pretending to be notable celebrities, officials, and brands.Read full article\nComments",
+      "content_length": 706,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Das Rentenpaket ist beschlossen - das sind die Kernpunkte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenpaket-kernpunkte-100.html",
+      "published": "2025-12-05T16:09:03",
+      "content": "   Nach langem Hin und Her ist das Gesetzespaket nun verabschiedet worden - und regelt sehr unterschiedliche Aspekte des Rentensystems. Doch worum geht es dabei genau? Ein Überblick über Aktivrente, Mütterrente, Haltelinie &amp; Co.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Toyota’s new GR GT picks up where the 2000GT and Lexus LFA left off",
+      "link": "https://arstechnica.com/cars/2025/12/toyota-busts-out-a-new-flagship-gazoo-racing-coupe-plus-gt3-version/",
+      "published": "2025-12-05T15:55:52",
+      "content": "There’s some Toyota news today that doesn’t involve the chairman wearing a MAGA hat. The Japanese automaker evidently decided it’s been too long since it flexed its engineering chops on something with two doors and plenty of power, so it has rectified that situation with a new flagship coupe for its Gazoo Racing sporty sub-brand. Meet the GR GT, which looks set to go on sale toward the end of next year.\nThe Camry-esque look at the front, and to an extent the rear, came second to the GR GT’s aerodynamics, which is the opposite way to how Toyota usually styles its cars. It’s built around a highly rigid aluminum frame—Toyota’s first, apparently—with carbon fiber for the hood, roof, and some other body panels to minimize weight. The automaker says that lowering the car’s center of gravity was a top priority, and weight balance and distribution also help explain the transaxle layout, where the car’s transmission is behind the cockpit and between the rear wheels.\n\n      \n      \n        \n    \n    \n      I get a LOT of Camry from the nose.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      We're told it will have a good V8 sound.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      Does this interior befit a coupe that will cost about half a million dollars?\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      I mostly posted this because of the license plate.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      Aluminum forms the chassis.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      The transaxle-layout powertrain.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      The seats look grippy.\n\n              \n          Credit:\n\n          \n          Toyota\n\n                  \n          \n  \n      \n    \n  \nThat transaxle transmission will be an eight-speed automatic that uses a wet clutch instead of a torque converter and into which the car’s hybrid motor is integrated. Power from the 4.0 L twin-turbo V8 and the hybrid system should be a combined 641 hp (478 kW) and 626 lb-ft (850 Nm). Despite the aluminum frame and use of composites, the GT GR is no featherweight; it will weigh as much as 3,858 lb (1,750 kg). The V8 is a new design with a short stroke, a hot-V configuration for the turbochargers, and dry sump lubrication.Read full article\nComments",
+      "content_length": 2896,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rentenpaket verabschiedet: Spannend wird es erst jetzt",
+      "link": "https://www.tagesschau.de/kommentar/rentenpaket-abstimmung-bundestag-100.html",
+      "published": "2025-12-05T15:54:00",
+      "content": "   Der Bundestag hat mit Kanzlermehrheit für das Rentenpaket gestimmt - trotz massiver Kritik. Doch so werden die Probleme nicht gelöst, sondern verschärft, meint Hans-Joachim Vieweger. Was es jetzt braucht, sind umfassende Reformen.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Moskaus Chefunterhändler verspottet Merz nach geleaktem Gespräch",
+      "link": "https://www.tagesschau.de/ausland/europa/dmitrijew-spott-merz-100.html",
+      "published": "2025-12-05T15:35:17",
+      "content": "   Einem Medienbericht zufolge sollen mehrere europäische Spitzenpolitiker vor den US-Verhandlern im Ukraine-Krieg gewarnt haben. Putins Chefunterhändler Dmitrijew reagierte mit Spott und sagte, Merz sei \"nicht einmal im Spiel\".[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum Rekordsieger Irland den ESC boykottiert",
+      "link": "https://www.tagesschau.de/ausland/europa/esc-irland-boykott-100.html",
+      "published": "2025-12-05T15:29:15",
+      "content": "   Die deutsche Regierung begrüßt, dass Israel beim ESC mitmachen darf - und nennt den Boykott mancher Länder \"bedauerlich\". Eines dieser Länder ist Rekordsieger Irland. Wie sind dort die Reaktionen? Von G. Biesinger[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Knight of the Seven Kingdoms trailer brings levity to Westeros",
+      "link": "https://arstechnica.com/culture/2025/12/knight-of-the-seven-kingdoms-trailer-brings-levity-to-westeros/",
+      "published": "2025-12-05T15:12:05",
+      "content": "\nWith House of the Dragon entering its third season, HBO is ready to debut a new spinoff series set in Game of Thrones’ Westeros: A Knight of the Seven Kingdoms, based on George R.R. Martin’s Tales of Dunk and Egg novellas. HBO clearly has a lot of confidence in this series; it’s already been renewed for a second season. And judging by the final trailer, that optimism is warranted.\nAs we’ve previously reported, A Knight of the Seven Kingdoms adapts the first novella in the series, The Hedge Knight, and is set 50 years after the events of House of the Dragon. Per the official premise:\nA century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naïve but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits all await these improbable and incomparable friends.\nPeter Claffey co-stars as Ser Duncan the Tall, aka a hedge knight named “Dunk,” along with Dexter Sol Ansell as Prince Aegon Targaryen, aka “Egg,” a child prince and Dunk’s squire. The main cast also includes Finn Bennett as Egg’s older brother, Prince Aerion “Brightflame” Targaryen; Bertie Carvel as Egg’s uncle, Prince Baelor “Breakspear” Targaryen, heir to the Iron Throne; Tanzyn Crawford as a Dornish puppeteer named Tanselle; Daniel Ings as Ser Lyonel “Laughing Storm” Baratheon, heir to House Baratheon; and Sam Spruell as Prince Maekar Targaryen, Egg’s father.Read full article\nComments",
+      "content_length": 1597,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bundestag stimmt für neues Wehrdienstgesetz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienstgesetz-abstimmung-100.html",
+      "published": "2025-12-05T15:09:06",
+      "content": "   Der Bundestag hat für die Einführung eines neuen Wehrdienstes gestimmt. Das Gesetz sieht die Musterung aller Männer ab dem Geburtsjahr 2008 vor. Die Entscheidung für den Wehrdienst soll aber freiwillig bleiben.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Freundlichkeit ist ein Booster für die Gesundheit",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/ehrenamt-freundlichkeit-dopamin-gesundheit-wohlbefinden-100.html",
+      "published": "2025-12-05T14:58:31",
+      "content": "   Studien belegen, dass Freundlichkeit mehr ist als zwischenmenschliche Harmonie: Sie gilt als Booster für Gesundheit und Wohlbefinden. Außerdem wirkt Freundlichkeit ansteckend und kann so positive Wellen schlagen. Von Anja Braun.   [mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag stimmt mit Kanzlermehrheit für Rentenpaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abstimmung-rente-100.html",
+      "published": "2025-12-05T14:57:11",
+      "content": "   Nach langem Streit hat der Bundestag das Rentenpaket der schwarz-roten Regierung beschlossen. Es erhielt die von Kanzler Merz geforderte absolute Mehrheit. Aber: Sieben Unionsabgeordnete stimmten dagegen.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tag des Handwerks zeigt Probleme der Branche",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/probleme-handwerk-100.html",
+      "published": "2025-12-05T14:16:24",
+      "content": "   Handwerk hat goldenen Boden - doch dieses Sprichwort stammt noch aus Zeiten, in denen die Branche nicht mit so vielen Problemen zu kämpfen hatte. Wo es überall hakt, erklärt Ingo Nathusius.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Streamingdienst Netflix übernimmt Warner Bros. Discovery",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-warner-uebernahme-streaming-100.html",
+      "published": "2025-12-05T14:14:52",
+      "content": "   Milliardendeal in der Film- und Medienbranche: Der US-Streamingdienst Netflix wird Warner Bros. Discovery übernehmen - eines der ältesten und wichtigsten Hollywood-Studios. Doch es gibt kartellrechtliche Bedenken.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "RKI-Daten: Deutsche haben wenig Gesundheitskompetenz",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/rki-gesundheitspanel-100.html",
+      "published": "2025-12-05T14:07:40",
+      "content": "   Neue Daten des Robert Koch-Instituts zeigen: Ein Großteil der Deutschen ist mit der Verantwortung für die eigene Gesundheit überfordert. Und in manchen Bereichen klafft die soziale Schere immer weiter auf. Von Korinna Hennig.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Not approved for human use’: the online frenzy for injectable peptides sweeping Australia",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/06/not-approved-for-human-use-the-online-frenzy-for-injectable-peptides-sweeping-australia",
+      "published": "2025-12-05T14:00:29",
+      "content": "Social media is driving a boom in the use of peptides to improve appearance and physical performance. Many are experimental and come with risk of serious side effectsGet our breaking news email, free app or daily news podcastOn TikTok, a 21-year-old fitness influencer is spruiking a drug that hasn’t even finished clinical trials.“This stuff is actually hard to come by in Australia, so I’ll leave a reputable source in the description,” the Sydneysider says. “Obviously, not approved for human use, so do with it as you will.” Continue reading...",
+      "content_length": 548,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Financial markets now certain the RBA will hike interest rates in 2026",
+      "link": "https://www.theguardian.com/business/2025/dec/06/financial-markets-inflation-rba-interest-rates-2026",
+      "published": "2025-12-05T14:00:28",
+      "content": "The changed outlook is a result of unwelcome inflation data, but could slow down the hot property marketGet our breaking news email, free app or daily news podcastFinancial markets are now pricing in a 100% chance the Reserve Bank will hike rates in 2026, in what would be a blow to mortgage holders but may take some steam out of an overheating property market.The latest forecasts represent a turnaround from just two weeks ago, when traders were factoring in an even chance that the next RBA move would be a cut by its May meeting. Continue reading...",
+      "content_length": 554,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "South Australian bus ads misled public by claiming gas is ‘clean and green’, regulator finds",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/06/south-australia-bus-advertising-natural-gas-clean-green",
+      "published": "2025-12-05T14:00:27",
+      "content": "Ads to be removed from Adelaide Metro buses after advertising regulator rules they breach its environmental claims codeSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereSouth Australia’s transport department misled the public by running ads on buses claiming “natural gas” was “clean and green”, the advertising regulator has found.The SA Department for Transport and Infrastructure has agreed to remove the advertising that has been on some Adelaide Metro buses since the early 2000s after Ad Standards upheld a complaint from the not-for-profit organisation Comms Declare.Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+      "content_length": 728,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Playwright Jeremy O Harris arrested in Japan for alleged drug smuggling",
+      "link": "https://www.theguardian.com/stage/2025/dec/05/jeremy-o-harris-arrested-japan",
+      "published": "2025-12-05T13:49:40",
+      "content": "The writer of the Tony award-nominated Slave Play remains in custody after authorities say they found MDMA in his bagAmerican actor and playwright Jeremy O Harris, known for the Tony-nominated Slave Play, was arrested last month at an airport in Japan on suspicion of attempting to smuggle illegal drugs into the country, local authorities said late on Thursday.Harris, 36, was stopped on 16 November at Naha airport on Okinawa island after a customs officer discovered 0.78 grams of crystal containing the synthetic drug MDMA in his tote bag, an Okinawa regional customs spokesperson said. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Putin vows oil shipments to India will be ‘uninterrupted’ in defiance of US",
+      "link": "https://www.theguardian.com/world/2025/dec/05/putin-vows-oil-shipments-to-india-will-be-uninterrupted-in-defiance-of-us",
+      "published": "2025-12-05T13:38:14",
+      "content": "Narendra Modi says energy security is ‘pillar of the India-Russia partnership’ as two leaders meet in DelhiVladimir Putin has told the Indian prime minister, Narendra Modi, that Russia is ready to continue “uninterrupted” shipments of oil to India, signalling a defiant stance to the US as the two leaders met in Delhi and affirmed that their ties were “resilient to external pressure”.The statement, made on Friday after the annual India-Russia summit, appeared to be directed at western countries – particularly the US – that have attempted to pressure New Delhi into scaling back its ties to Moscow. Continue reading...",
+      "content_length": 622,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Herausforderung London: Bahn und Eurostar wollen Direktverbindung",
+      "link": "https://www.heise.de/news/Deutsche-Bahn-und-Eurostar-planen-Direktverbindung-nach-London-11104459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T13:34:00",
+      "content": "Deutsche Bahn und Eurostar planen eine direkte Zugverbindung von Deutschland nach London. Viele Hürden sind zu überwinden.",
+      "content_length": 122,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Telekommunikation: 300.000-Euro-Bußgeld für 1N Telecom wegen dreister Praktiken",
+      "link": "https://www.heise.de/news/Telekommunikationsanbieter-300-000-Euro-Bussgeld-wegen-dreister-Praktiken-11103886.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T13:23:00",
+      "content": "Wegen dreister Werbebriefe und Datenschutzverstößen muss ein Telekommunikationsanbieter zwei Bußgelder in Höhe von 300.000 Euro zahlen.",
+      "content_length": 135,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Putin und Modi vereinbaren engere Zusammenarbeit",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-indien-gipfel-100.html",
+      "published": "2025-12-05T13:22:13",
+      "content": "   Trotz scharfer Kritik aus dem Westen sucht Indiens Regierungschef Modi weiter die Nähe zu Russlands Präsident Putin. Bei ihrem Treffen vereinbarten sie mehr Handel und Waffenexporte - und sie betonten Energiekooperationen.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "DSA: Millionenstrafe gegen X",
+      "link": "https://www.heise.de/news/DSA-EU-Kommission-verhaengt-120-Millionen-Euro-Strafe-gegen-X-11104519.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T13:03:00",
+      "content": "Wegen mehrerer Verstöße gegen den Digital Services Act hat die Europäische Kommission eine erste Strafe gegen Elon Musks Plattform X verhängt.",
+      "content_length": 142,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "US airstrike survivors clung to boat wreckage for an hour before second deadly attack, video shows",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/us-airstrike-survivors-clung-to-boat-wreckage-for-an-hour-before-second-deadly-attack-video-shows",
+      "published": "2025-12-05T12:37:29",
+      "content": "Footage seen by US senators shows two unarmed, shirtless men struggling to stay afloat before they were killed, sources sayExperts say Trump’s ‘drug boat’ war is legally shakyTwo men who survived a US airstrike on a suspected drug smuggling boat in the Caribbean clung to the wreckage for an hour before they were killed in a second attack, according to a video of the episode shown to senators in Washington.The men were shirtless, unarmed and carried no visible radio or other communications equipment. They also appeared to have no idea what had just hit them, or that the US military was weighing whether to finish them off, two sources familiar with the recording told Reuters. Continue reading...",
+      "content_length": 702,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "HBO Max: Netflix kauft Warner Bros. für 83 Milliarden US-Dollar",
+      "link": "https://www.heise.de/news/Fuer-72-Milliarden-US-Dollar-Netflix-kauft-Warner-Bros-11104451.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T12:29:00",
+      "content": "Es ist ein Mega-Deal in der Entertainment-Branche: Netflix will die Filmsparte von Warner Bros. inklusive HBO Max für 83 Milliarden US-Dollar kaufen. ",
+      "content_length": 150,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mangelnde Transparenz: EU-Kommission verhängt Millionenstrafe gegen X",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-x-strafe-100.html",
+      "published": "2025-12-05T12:25:54",
+      "content": "   Wegen mangelnder Transparenz bei Werbung und Nutzerkonten hat die EU-Kommission eine Strafe in Höhe von 120 Millionen Euro gegen den Onlinedienst X verhängt. Ein weiteres Verfahren gegen TikTok wurde dagegen eingestellt.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "New report warns of critical climate risks in Arab region",
+      "link": "https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/",
+      "published": "2025-12-05T12:15:43",
+      "content": "As global warming accelerates, about 480 million people in North Africa and the Arabian Peninsula face intensifying and in some places unsurvivable heat, as well as drought, famine, and the risk of mass displacement, the World Meteorological Organization warned Thursday.\nThe 22 Arab region countries covered in the WMO’s new State of the Climate report produce about a quarter of the world’s oil, yet directly account for only 5 to 7 percent of global greenhouse gas emissions from their own territories. The climate paradox positions the region as both a linchpin of the global fossil-fuel economy and one of the most vulnerable geographic areas.\nWMO Secretary-General Celeste Saulo said extreme heat is pushing communities in the region to their physical limits. Droughts show no sign of letting up in one of the world’s most water-stressed regions, but at the same time, parts of it have been devastated by record rains and flooding, she added.Read full article\nComments",
+      "content_length": 974,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rüstungsgeschäft verhilft Industrie zu kräftigem Auftragsplus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-industrieauftraege-dax-boerse-100.html",
+      "published": "2025-12-05T12:05:16",
+      "content": "   Die Stabilisierung der Industrie in Deutschland setzt sich fort. Die gestiegenen Aufträge - vor allem im Rüstungssektor - geben auch dem Aktienmarkt heute Rückenwind. Trotzdem bleiben Ökonomen skeptisch.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rocket Report: Blunder at Baikonur; do launchers really need rocket engines?",
+      "link": "https://arstechnica.com/space/2025/12/rocket-report-openais-launch-overture-south-korea-making-progress-in-space/",
+      "published": "2025-12-05T12:00:57",
+      "content": "Welcome to Edition 8.21 of the Rocket Report! We’re back after the Thanksgiving holiday with more launch news. Most of the big stories over the last couple of weeks came from abroad. Russian rockets and launch pads didn’t fare so well. China’s launch industry celebrated several key missions. SpaceX was busy, too, with seven launches over the last two weeks, six of them carrying more Starlink Internet satellites into orbit. We expect between 15 and 20 more orbital launch attempts worldwide before the end of the year.\nAs always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.\n\n    \n                        \n                  \n      \n\nAnother Sarmat failure. A Russian intercontinental ballistic missile (ICBM) fired from an underground silo on the country’s southern steppe on November 28 on a scheduled test to deliver a dummy warhead to a remote impact zone nearly 4,000 miles away. The missile didn’t even make it 4,000 feet, Ars reports. Russia’s military has been silent on the accident, but the missile’s crash was seen and heard for miles around the Dombarovsky air base in Orenburg Oblast near the Russian-Kazakh border. A video posted by the Russian blog site MilitaryRussia.ru on Telegram and widely shared on other social media platforms showed the missile veering off course immediately after launch before cartwheeling upside down, losing power, and then crashing a short distance from the launch site.Read full article\nComments",
+      "content_length": 1721,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "US leader of global neo-Nazi terrorist group signals retribution for arrests",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/neo-nazi-base-leader-on-terrorism-arrest",
+      "published": "2025-12-05T12:00:24",
+      "content": "Rinaldo Nazzaro says detention of suspected Base members in Spain justifies ‘resistance … by any means necessary’After Spanish police and Europol’s counter-terrorism section arrested three suspected members of the Base – a globally proscribed neo-Nazi terrorist group – in the eastern province of Castellón, its American leader living in Russia was defiant and signaled further actions.In a text message to the Guardian, Rinaldo Nazzaro called the arrests another “example of political persecution” by world governments that are “further justifying our resistance to its hegemonic rule by any means necessary”. Continue reading...",
+      "content_length": 630,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Parlament einigt sich auf schwächeres Waldschutzgesetz",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-waldschutz-gesetz-100.html",
+      "published": "2025-12-05T11:41:43",
+      "content": "   Schon 2023 wurde beschlossen: Für Produkte wie Kaffee und Rindfleisch soll es strengere Nachweispflichten geben. Doch die Regeln für den Schutz von Wäldern werden nun gelockert - mit den Stimmen rechter Parteien.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Arbeitsmarkt für Informatiker: Keine besseren Aussichten",
+      "link": "https://www.heise.de/news/Arbeitsmarkt-fuer-Informatiker-Keine-besseren-Aussichten-11095815.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T11:37:00",
+      "content": "Die Arbeitslosigkeit von IT-Fachkräften steigt, die Nachfrage sinkt. Dennoch soll es einen IT-Fachkräftemangel geben. Wie passt das zusammen? Eine Spurensuche.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Arbeitsmarktanforderungen 2030: Menschliche Kompetenzen vor KI-Skills",
+      "link": "https://www.heise.de/news/Arbeitsmarktanforderungen-2030-Menschliche-Kompetenzen-vor-KI-Skills-11103789.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T11:24:00",
+      "content": "KI-Skills sind wichtige Zukunftskompetenzen. Das Weltwirtschaftsforum prognostiziert aber, dass menschliche Kompetenzen weiterhin entscheidend bleiben.",
+      "content_length": 151,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Linux 6.18: LTS-Kernel mit vielen Last-Minute-Bugfixes",
+      "link": "https://www.heise.de/news/Linux-6-18-LTS-Kernel-mit-vielen-Bugfixes-kurz-vor-Veroeffentlichung-11104048.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T11:07:00",
+      "content": "Linus Torvalds hat den Linux-Kernel 6.18 herausgegeben. Auf den letzten Metern gab es noch viele Korrekturen. Der Support läuft bis 2027.",
+      "content_length": 137,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie Deutschland bei der Altersvorsorge international abschneidet",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/rentensysteme-vergleich-international-100.html",
+      "published": "2025-12-05T10:34:28",
+      "content": "   Bei der Qualität des Rentensystems rangiert Deutschland Studien zufolge eher im Mittelfeld. Länder mit einer besonders stabilen Finanzierung der Altersvorsorge haben ihre eigenen Rezepte. Von Wolfgang Landmesser.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gesellschaft für deutsche Sprache kürt \"KI-Ära\" zum Wort des Jahres",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wort-des-jahres-2025-ki-aera-100.html",
+      "published": "2025-12-05T10:33:25",
+      "content": "   Welcher Begriff hat dieses Jahr am meisten geprägt? Wenn es nach der Gesellschaft für deutsche Sprache geht, ist es das Wort \"KI-Ära\". Es gebe Chancen und Risiken, die mit dieser Technologie verbunden seien, so die Jury.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Überblick: Was sieht das neue Wehrdienstgesetz vor?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-ueberblick-100.html",
+      "published": "2025-12-05T10:31:46",
+      "content": "   Verpflichtende Musterung, Wiederaufbau einer Wehrerfassung und Zielwerte für die Vergrößerung der Truppe: Nach jahrelanger Debatte über einen neuen Wehrdienst hat der Bundestag die neuen Regeln nun beschlossen. Ein Überblick.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Weather tracker: Heavy snow blankets parts of US as winter storms hit",
+      "link": "https://www.theguardian.com/environment/2025/dec/05/weather-tracker-heavy-snow-blankets-parts-us-winter-storms-hit",
+      "published": "2025-12-05T10:20:33",
+      "content": "Snowfall moves south-east over Wyoming and Colorado and combines with dense fog in some areasA cold spell continued to grip parts of the US this week. After a winter storm brought 20-30cm of snow across Wisconsin, and even up to 35cm in places last weekend, the focus of the winter weather hazards shifted elsewhere early this week.A storm system moving south-east over Wyoming and Colorado brought a continuous period of snowfall until Thursday morning. Central Colorado and northern New Mexico bore the brunt of the snowfall with accumulations reaching 30cm in places. The heavy snowfall across the Denver region was its first of the winter and caused widespread disruption to flights into and out of Denver on Wednesday and Thursday. Almost 1,000 flights were delayed or cancelled as a result of the treacherous conditions. Continue reading...",
+      "content_length": 846,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "MIT: Mikro-Schlagflügelroboter fliegt so schnell und akrobatisch wie eine Biene",
+      "link": "https://www.heise.de/news/MIT-Mikro-Schlagfluegelroboter-fliegt-so-schnell-und-akrobatisch-wie-eine-Biene-11103960.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T10:00:00",
+      "content": "Einen winzigen Schlagflügelroboter schnell und akrobatisch wie eine Biene fliegen zu lassen, benötigt eine komplexe Flugsteuerung. ",
+      "content_length": 131,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie Paketzentren die Sendungsflut vor Weihnachten bewältigen",
+      "link": "https://www.tagesschau.de/wirtschaft/pakete-weihnachten-dhl-100.html",
+      "published": "2025-12-05T09:55:22",
+      "content": "   Mehr als zwölf Millionen Pakete und Päckchen pro Tag fertigen DHL-Paketzentren an manchen Tagen vor Weihnachten ab. Wie ist diese Flut überhaupt zu bewältigen? Michael Eiden war vor Ort in einem Paketzentrum in Rheinland Pfalz.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Streamingdienst Netflix im Bieterkampf um Warner Bros.vorn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-warner-paramount-ellison-bieterstreit-100.html",
+      "published": "2025-12-05T09:46:42",
+      "content": "   Der Streaming-Dienst Netflix könnte kurz vor der Übernahme des Hollywood-Konzerns Warner Bros. stehen. Aber noch hat der Konkurrent Paramount nicht aufgegeben - Geld hat die Besitzerfamilie Ellison genug.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gruppen-Auslosung der Fußball-WM in Washington mit Trump als Gast",
+      "link": "https://www.tagesschau.de/ausland/amerika/fussball-wm-auslosung-102.html",
+      "published": "2025-12-05T09:27:07",
+      "content": "   Die WM-Auslosung soll eine pompöse Show mit vielen Stars werden. Mit dabei ist auch US-Präsident Trump, der die WM entgegen der FIFA-Statuten als politische Bühne nutzt. Daran und am Ort der Auslosung gibt es Kritik. Von N. Barth.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Office-Abos werden teurer: Microsoft hebt Preise kräftig an",
+      "link": "https://www.heise.de/news/Microsoft-erhoeht-Preise-fuer-Microsoft-365-ab-Juli-2026-deutlich-11103864.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T09:19:00",
+      "content": "Microsoft kündigt Preiserhöhungen für alle M365-Abonnements an. Die neuen Preise gelten ab Juli 2026, Begründung sind neue KI-Features.",
+      "content_length": 135,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weltweites CDN: Offenbar wieder Störung bei Cloudflare",
+      "link": "https://www.heise.de/news/Weltweites-CDN-Offenbar-wieder-Stoerung-bei-Cloudflare-11103942.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T09:19:00",
+      "content": "Verschiedene Webseiten, inklusive Cloudflares eigener Homepage, lieferten lediglich den HTTP-Fehler 500 aus. Der Anbieter erklärt: Schuld war \"React2Shell\".",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Drupal Canvas: Visueller Page Builder für Drupal veröffentlicht",
+      "link": "https://www.heise.de/news/Drupal-Canvas-Visueller-Page-Builder-fuer-Drupal-veroeffentlicht-11103777.html",
+      "published": "2025-12-05T08:58:00",
+      "content": "Drupal veröffentlicht mit Canvas einen visuellen Page Builder. Damit sollen Nutzer individuelle Webseiten ohne tiefe Programmierkenntnisse erstellen können.",
+      "content_length": 156,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "11KM-Podcast: Ukraine-Verhandlungen - Frieden zu welchem Preis?",
+      "link": "https://www.tagesschau.de/11km-podcast-ukraine-verhandlungen-100.html",
+      "published": "2025-12-05T08:47:44",
+      "content": "   Die Ukraine steckt in einem Korruptionsskandal - und in schwierigen Verhandlungen mit Russland. 11KM über ein innenpolitisches Beben, russisches Kalkül und den langen Weg zu einem möglichen Frieden.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sulu 3.0: CMS mit neuem Content-Speicher und klarerer Architektur",
+      "link": "https://www.heise.de/news/Sulu-3-0-CMS-mit-neuem-Content-Speicher-und-klarerer-Architektur-11103711.html",
+      "published": "2025-12-05T08:42:00",
+      "content": "Das Symfony‑basierte CMS in Version 3.0 bringt ein neues Content‑Storage‑System sowie flexiblere Speicher‑ und Suchoptionen für Entwicklerteams.",
+      "content_length": 144,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Chinas Führung will Auflagen bei Export von seltenen Erden lockern",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-seltene-erden-ausfuhren-100.html",
+      "published": "2025-12-05T08:19:46",
+      "content": "   Chinas strenge Ausfuhrkontrollen bei seltenen Erden setzen weltweit Unternehmen unter Druck. Nun deutet sich ein Kurswechsel an. Das Handelsministerium erklärte, allgemeine Lizenzen für den Export wieder auszustellen. Von B. Eyssel.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Merz verhandelt in Brüssel über russische Vermögen",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-von-der-leyen-belgien-100.html",
+      "published": "2025-12-05T08:16:12",
+      "content": "   Die Ukraine braucht viel Geld - und in Belgien liegt ein großer Teil russischer Staatsvermögen im Ausland. Kanzler Merz und Kommissionspräsidentin von der Leyen wollen darauf zugreifen - müssen aber Überzeugungsarbeit leisten.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie Filme und Serien 2025 auf US-Präsident Trump reagiert haben",
+      "link": "https://www.tagesschau.de/kultur/trump-filme-serien-100.html",
+      "published": "2025-12-05T08:13:11",
+      "content": "   Seit fast einem Jahr heißt der US-Präsident wieder Trump. Ein Blick zurück zeigt: Seine Präsidentschaft beschäftigt Filme und Serien wie kaum eine Präsidentschaft zuvor. Von Widerstand bis zu Appeasement ist alles zu sehen. Von Ferdinand Meyen.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Elektroauto: Bundestag verlängert Steuerbefreiung um fünf Jahre",
+      "link": "https://www.heise.de/news/Elektroauto-Bundestag-verlaengert-Steuerbefreiung-um-fuenf-Jahre-11103751.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-05T08:08:00",
+      "content": "Um mehr batterieelektrische Autos schneller auf die Straße zu bringen, wird die Steuerbefreiung länger als geplant fortgeführt. Das beschloss der Bundestag.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merz besteht bei Abstimmung über Rentenpaket auf Kanzlermehrheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-abstimmung-merz-kanzlermehrheit-100.html",
+      "published": "2025-12-05T08:05:33",
+      "content": "   Bundeskanzler Merz geht vor der Abstimmung über das umstrittene Rentenpaket ins Risiko: Zwar würden seiner Regierung voraussichtlich 284 Ja-Stimmen reichen - doch er setzt die Zielmarke deutlich höher.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "RSF massacres left Sudanese city ‘a slaughterhouse’, satellite images show",
+      "link": "https://www.theguardian.com/global-development/2025/dec/05/rsf-massacres-sudanese-city-el-fasher-slaughterhouse-satellite-images",
+      "published": "2025-12-05T08:00:42",
+      "content": "Up to 150,000 residents of El Fasher are missing since North Darfur capital fell to paramilitary Rapid Support ForcesThe Sudanese city of El Fasher resembles a “massive crime scene”, with large piles of bodies heaped throughout its streets as the paramilitary Rapid Support Forces (RSF) work to destroy evidence of the scale of their massacre.Six weeks after the RSF seized the city, corpses have been gathered together in scores of piles to await burial in mass graves or cremated in huge pits, analysis indicates. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Macht das Rentensystem die junge Generation arm?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/rente-umlagesystem-private-vorsorge-100.html",
+      "published": "2025-12-05T07:29:27",
+      "content": "   Vor allem junge Menschen haben kaum noch Hoffnung auf die gesetzliche Rente. Denn schon jetzt ist für viele Menschen das Rentenniveau zu gering, um den Lebensstandard zu sichern. Von L.-M. Hiltscher und J. Bartlitz.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
