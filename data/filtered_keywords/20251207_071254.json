@@ -1,0 +1,925 @@
+{
+  "metadata": {
+    "timestamp": "20251207_071254",
+    "input_file": "data/deduplicated/20251207_071254.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 113,
+      "filtered_count": 100,
+      "blacklisted_count": 13,
+      "reduction_rate": "11.5%",
+      "top_blacklist_reasons": {
+        "fußball": 3,
+        "brand in": 2,
+        "weltmeister": 2,
+        "stau": 2,
+        "regen": 1,
+        "europa league": 1,
+        "temperatur": 1,
+        "eurovision": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Angriffe auf Energieinfrastruktur - Russland attackiert Ukraine weiter",
+      "link": "https://www.deutschlandfunk.de/russland-attackiert-ukraine-weiter-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Ungeachtet der Gespräche über eine Friedenslösung hat Russland die Ukraine auch in dieser Nacht massiv aus der Luft angegriffen.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russland - Kreml begrüßt neue US-Sicherheitsstrategie",
+      "link": "https://www.deutschlandfunk.de/kreml-begruesst-neue-us-sicherheitsstrategie-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Das russische Präsidialamt hat die neue nationale Sicherheitsstrategie der USA begrüßt.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Friedensnobelpreisträgerin Oleksandra Matwijtschuk fordert Deutschland auf, Russlandpolitik aufzuarbeiten",
+      "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matwijtschuk-fordert-deutschland-auf-russlandpolitik-aufzuarb-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die ukrainische Friedensnobelpreisträgerin Oleksandra Matwijtschuk hat Deutschland dazu aufgerufen, Fehler im Umgang mit Russland stärker aufzuarbeiten.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bild-Zeitung - SED-Opferbeauftragte Zupke fordert Umbenennung von Lenin-Straßen",
+      "link": "https://www.deutschlandfunk.de/sed-opferbeauftragte-zupke-fordert-umbenennung-von-lenin-strassen-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die SED-Opferbeauftragte Zupke fordert eine Umbenennung der verbliebenen Straßen in Deutschland, die nach Lenin und ehemaligen SED-Funktionären benannt sind.",
+      "content_length": 157,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost-Reise - Bundeskanzler Merz bekräftigt in Israel enge Partnerschaft",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-bekraeftigt-in-israel-enge-partnerschaft-104.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Bundeskanzler Merz ist zum ersten Mal seit seinem Amtsantritt nach Israel gereist. In Jerusalem betonte er Deutschlands fortwährende Verpflichtung gegenüber dem jüdischen Staat, kritisierte indirekt aber auch Israels Vorgehen im Gaza-Krieg.",
+      "content_length": 240,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Asien - Japan wirft China gefährliche Provokation mit Kampfjets vor",
+      "link": "https://www.deutschlandfunk.de/japan-wirft-china-gefaehrliche-provokation-mit-kampfjets-vor-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Japan wirft China eine Provokation mit Kampfjets vor.",
+      "content_length": 53,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "China-Reise - Außenminister Wadephul in Peking erwartet",
+      "link": "https://www.deutschlandfunk.de/aussenminister-wadephul-in-peking-erwartet-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Außenminister Wadephul reist heute nach China.",
+      "content_length": 46,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Stuttgart 21 - Bahnchefin Palla kündigt interne Untersuchung zu erneuter Verzögerung an",
+      "link": "https://www.deutschlandfunk.de/bahnchefin-palla-kuendigt-interne-untersuchung-zu-erneuter-verzoegerung-an-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die neue Bahnchefin Palla hat wegen der erneuten Verzögerungen beim Bahnprojekt Stuttgart 21 interne Untersuchungen angekündigt.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesparteitag - Neue BSW-Spitze gewählt - Gründerin Wagenknecht: \"Partei durchlebt schwierige Zeiten\"",
+      "link": "https://www.deutschlandfunk.de/neue-bsw-spitze-gewaehlt-gruenderin-wagenknecht-partei-durchlebt-schwierige-zeiten-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die scheidende BSW-Vorsitzende Wagenknecht sieht ihre Partei in schwierigen Zeiten und räumt auf dem Bundesparteitag in Magdeburg Fehler ein. Neben einer neuen Spitze bekommt die Partei auch einen neuen Namen.",
+      "content_length": 209,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gespräche in Miami und London - Ukraine, USA und westliche Verbündete hoffen auf Bewegung in Moskau",
+      "link": "https://www.deutschlandfunk.de/ukraine-usa-und-westliche-verbuendete-hoffen-auf-bewegung-in-moskau-106.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Frankreichs Präsident Macron hat für Montag ein Treffen in London zu den Bemühungen um ein Ende des Kriegs in der Ukraine angekündigt. Daran teilnehmen sollen der ukrainische Präsident Selenskyj, Bundeskanzler Merz und der britische Premierminister Starmer.",
+      "content_length": 257,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südlich von Kreta - 18 Migranten sterben bei Bootsunglück im Mittelmeer",
+      "link": "https://www.deutschlandfunk.de/18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die griechische Küstenwache hat vor der Insel Kreta ein manövrierunfähiges Boot mit 18 toten Migranten entdeckt.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Griechenland - Ausschreitungen in Athen",
+      "link": "https://www.deutschlandfunk.de/ausschreitungen-in-athen-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "In Athen ist es zu Ausschreitungen zwischen Demonstranten und der griechischen Polizei gekommen.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Honduras - Weiter Kopf-an-Kopf-Rennen bei Präsidentschaftswahl",
+      "link": "https://www.deutschlandfunk.de/weiter-kopf-an-kopf-rennen-bei-praesidentschaftswahl-100.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Eine Woche nach der Präsidentschaftswahl in Honduras gibt es noch kein Endergebnis.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "BSW-Bundesparteitag - De Masi und Mohamed Ali sind neues Führungsduo",
+      "link": "https://www.deutschlandfunk.de/de-masi-und-mohamed-ali-sind-neues-fuehrungsduo-114.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Das Bündnis Sarah Wagenknecht hat eine neue Parteispitze.",
+      "content_length": 57,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "RKI-Studie - Menschen in Deutschland fühlen sich kränker als früher",
+      "link": "https://www.deutschlandfunk.de/menschen-in-deutschland-fuehlen-sich-kraenker-als-frueher-106.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die Bundesbürger schätzen ihre gesundheitliche Situation schlechter ein als früher. Dabei zeigen sich deutliche Unterschiede zwischen den Bevölkerungsgruppen.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Sicherheitsstrategie - EU-Außenbeauftragte Kallas: \"USA bleiben größter Verbündeter\"",
+      "link": "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-usa-bleiben-groesster-verbuendeter-114.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "In ihrer neuen Sicherheitsstrategie beklagen die USA unter anderem einen Verlust der Demokratie und Meinungsfreiheit in Europa. Laut der EU-Außenbeauftragten Kallas ändert das nichts an den guten Beziehungen zu den Vereinigten Staaten.",
+      "content_length": 235,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Nach Millionenstrafe gegen X: Unternehmer Musk empfiehlt Abschaffung der EU",
+      "link": "https://www.deutschlandfunk.de/nach-millionenstrafe-gegen-x-unternehmer-musk-empfiehlt-abschaffung-der-eu-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Der Besitzer des Onlinedienstes X, Musk, hat auf die von der EU verhängte Millionenstrafe gegen sein Unternehmen reagiert. Er schrieb auf X, die EU sollte abgeschafft werden.",
+      "content_length": 174,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russischer Einfluss auf Pipelinebau? - CDU kritisiert Schwesig-Aussagen im Untersuchungsausschuss zu Nord Stream 2",
+      "link": "https://www.deutschlandfunk.de/cdu-kritisiert-schwesig-aussagen-im-untersuchungsausschuss-zu-nord-stream-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die CDU im Landtag von Mecklenburg-Vorpommern zweifelt an den Aussagen von Ministerpräsidentin Schwesig im Nordstream-Untersuchungsausschuss.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kurz vor Parlamentswahl - Brandkatastrophe in Hongkong: Chinesische Sicherheitsbehörde bezichtigt internationale Medien der Falschberichterstattung",
+      "link": "https://www.deutschlandfunk.de/brandkatastrophe-in-hongkong-chinesische-sicherheitsbehoerde-bezichtigt-internationale-medien-der-fa-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Einen Tag vor der Parlamentswahl in Hongkong hat die chinesische Sicherheitsbehörde internationale Medien der Falschberichterstattung bezichtigt.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Trotz staatlicher Drohungen - Venezolanische Friedensnobelpreisträgerin Machado will Auszeichnung persönlich entgegennehmen",
+      "link": "https://www.deutschlandfunk.de/venezolanische-friedensnobelpreistraegerin-machado-will-auszeichnung-persoenlich-entgegennehmen-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die venezolanische Friedensnobelpreisträgerin Machado plant, die Auszeichnung in der kommenden Woche persönlich in Oslo entgegenzunehmen.",
+      "content_length": 137,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Eingefrorene russische Gelder - Merz nach Gespräch mit Belgiens Premier De Wever: Hoffnung auf Einigung noch im Dezember",
+      "link": "https://www.deutschlandfunk.de/merz-nach-gespraech-mit-belgiens-premier-de-wever-hoffnung-auf-einigung-noch-im-dezember-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Bundeskanzler Merz hat in Brüssel mit Belgiens Premier De Wever und Kommissionspräsidentin von der Leyen über den Umgang mit den eingefrorenen russischen Geldern beraten. Merz sprach anschließend von konstruktiven Gesprächen.",
+      "content_length": 225,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Russische Luftangriffe auf Bahnhof und Energieanlagen - IAEA erneut in Sorge um AKW Saporischschja",
+      "link": "https://www.deutschlandfunk.de/russische-luftangriffe-auf-bahnhof-und-energieanlagen-iaea-erneut-in-sorge-um-akw-saporischschja-102.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Russland hat in acht Regionen der Ukraine Anlagen zur Strom- und Wärmeversorgung mit Drohnen und Raketen angegriffen. Wie die Regierung in Kiew mitteilte, kam es zu Ausfällen. Zudem wurde nahe der Hauptstadt laut der staatlichen Eisenbahngesellschaft ein Verkehrsknotenpunkt getroffen.",
+      "content_length": 285,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Katars Regierungschef al-Thani: Waffenruhe ohne kompletten Abzug Israels unvollständig",
+      "link": "https://www.deutschlandfunk.de/katars-regierungschef-al-thani-waffenruhe-ohne-kompletten-abzug-israels-unvollstaendig-112.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Der Regierungschef Katars, al-Thani, sieht die Waffenruhe im Gazastreifen ohne einen \"kompletten Abzug\" der israelischen Armee aus dem Palästinensergebiet als unvollständig an.",
+      "content_length": 176,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bürgerkrieg - Waffenruhe im Sudan weiter brüchig - Zahl der Todesopfer nach Drohnenangriff auf Kindergarten in Kalogi auf 50 gestiegen",
+      "link": "https://www.deutschlandfunk.de/waffenruhe-im-sudan-weiter-bruechig-zahl-der-todesopfer-nach-drohnenangriff-auf-kindergarten-in-kalo-112.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "Die Waffenruhe im Sudan ist laut dem Deutschen Roten Kreuz weiterhin brüchig. Der Leiter der internationalen Zusammenarbeit beim DRK, Johnen, sagte im Deutschlandfunk, es komme immer wieder zu Kampfhandlungen und Übergriffen auf die Zivilbevölkerung. Entmenschlichung sei ein Kennzeichen dieses Kriegs.",
+      "content_length": 302,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südliches Afrika - US-Deportationen nach Eswatini: Unmut über geheimes Millionenabkommen mit Washington wächst",
+      "link": "https://www.deutschlandfunk.de/us-deportationen-nach-eswatini-unmut-ueber-geheimes-millionenabkommen-mit-washington-waechst-106.html",
+      "published": "2025-12-07T06:33:05",
+      "content": "In der Bevölkerung von Eswatini im südlichen Afrika gibt es zunehmend Unmut über die Aufnahme von Straftätern, die aus den USA deportiert werden. Viele Menschen in dem Königreich sorgten sich um die öffentliche Sicherheit, berichtet die ARD.",
+      "content_length": 241,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Live: Russia pounds Ukraine's Kremenchuk as US-hosted peace talks wrap up",
+      "link": "https://www.france24.com/en/europe/20251207-live-russia-attacks-ukraine-kremenchuk-infrastructure-us-peace-talks-florida-witkoff",
+      "published": "2025-12-07T06:30:25",
+      "content": "Russia launched a major overnight attack on the industrial Ukrainian city of Kremenchuk, striking key water and heating infrastructure, Ukrainian officials said on Sunday. The assault came as a Ukrainian delegation had wrapped up three days of talks with US President Donald Trump’s advisers in Florida, aimed at securing an agreement to end the war. Follow our liveblog for all the latest developments.",
+      "content_length": 403,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘No one knows where it came from’: first wild beaver spotted in Norfolk for 400 years",
+      "link": "https://www.theguardian.com/environment/2025/dec/07/no-one-knows-where-it-came-from-first-wild-beaver-spotted-in-norfolk-for-400-years",
+      "published": "2025-12-07T06:00:15",
+      "content": "Cameras capture lone creature collecting materials for its lodge in riverside nature reserveA wild beaver has been spotted in Norfolk for the first time since beavers were hunted to extinction in England at the beginning of the 16th century.It was filmed dragging logs and establishing a lodge in a “perfect beaver habitat” on the River Wensun at Pensthorpe, a nature reserve near Fakenham in Norfolk. Continue reading...",
+      "content_length": 421,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘What choice do we have?’: no end in sight for Ukraine’s war-weary frontline troops",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/07/what-choice-do-we-have-no-end-in-sight-for-ukraines-war-weary-frontline-troops",
+      "published": "2025-12-07T06:00:14",
+      "content": "As peace hopes falter, infantry soldiers face more long deployments risking their lives against Russian attacksFor almost all of their 62-day deployment on the frontline west of Pokrovske, Bohdan and Ivan hid – first in a village shop, then, after a deadly firefight with Russian soldiers, in a tiny basement where the infantrymen from Ukraine’s  31st Brigade had to survive seven more weeks.Food, water, cigarettes and other supplies were airlifted in by a friendly drone, their toilet was their 3 sq metre room, their nearest comrades 200 metres or so away. Their only hope was to remain underground, because they knew if they were detected a Russian drone could kill them all. Continue reading...",
+      "content_length": 699,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Aufschwung in Syrien lässt ein Jahr nach Assad auf sich warten",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-unternehmen-100.html",
+      "published": "2025-12-07T05:32:45",
+      "content": "   Vor fast einem Jahr wurde in Syrien Langzeitmachthaber Assad gestürzt. Unternehmer in der einstigen Wirtschaftsmetropole Aleppo hatten große Hoffnung. Doch noch ist viel zerstört, die Sanktionen sind noch nicht restlich aufgehoben. Von Nina Amin.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Albanese warns of ‘difficult’ bushfire season ahead as cooler conditions bring relief to disaster-ravaged NSW",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/07/disaster-declared-as-nsw-firefighters-continue-to-battle-20-uncontained-bushfires",
+      "published": "2025-12-07T04:44:03",
+      "content": "Most active fires contained on Sunday as disaster payments announced after at least 12 homes in Koolewong and four at Bulahdelah were destroyedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe prime minister, Anthony Albanese, has warned of a “difficult” summer bushfire season ahead, as a natural disaster was declared in parts of New South Wales and crews battling more than 70 fires gained the upper hand on Sunday.The most destructive blaze – an out-of-control bushfire at Koolewong, not far from built-up areas of the Central Coast – destroyed more than 12 homes on Saturday. The threat had eased by midday on Sunday, as strong winds gave way to a cool change.Central CoastMid CoastUpper HunterMuswellbrookWarrumbungleDubbo Continue reading...",
+      "content_length": 815,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NSW Central Coast ‘not out of the woods yet’ as bushfire conditions ease – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/07/australia-news-live-nsw-bushfire-central-coast-upper-hunter-chris-minns-anthony-albanese-anika-wells-social-media-ban-syria-refugees-tasmania-dolphin-sands-labor-coalition-ntwnfb",
+      "published": "2025-12-07T04:39:27",
+      "content": "This blog is now closed.Get our breaking news email, free app or daily news podcastAlbanese has also defended a $100k expense for communications minister Anika Wells, a staffer and a public servant to join the prime minister and foreign minister Penny Wong in New York for a United Nations meeting.Anika Wells was doing her job as the communications minister who is in charge of this world-leading, world-leading legislation, passed with bipartisan support, to give credit to Peter Dutton when he was opposition leader. And it was an important event. And it wasn’t just the event there, it was then the follow-up of people wanting to have meetings, have discussions, how is this going to work? What can we do to get buy-in here? When you’ve got Australia, a middle power, taking on these global giants.There’s family reunion entitlements, all of the travel within guidelines.I’m saying it was within entitlements and Anika Wells was working on that trip as sports minister, participating the lifting up of para-sport.But we’ve said very clearly that this won’t be perfect. Just like chances last night was Saturday night, somewhere in Australia, somewhere under 18s got a drink in a pub. But it’s the right thing to do for society to express its views, its judgement about what is appropriate. Continue reading...",
+      "content_length": 1313,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie sanktioniertes russisches Holz über China in die EU gelangt",
+      "link": "https://www.tagesschau.de/investigativ/swr/russland-holzhandel-eu-100.html",
+      "published": "2025-12-07T04:03:24",
+      "content": "   Trotz internationaler Sanktionen gelangt weiterhin russisches Birkenholz im großen Stil auf den europäischen Markt - über Umwege über China. Das zeigen SWR-Recherchen. Eine Spur führt zu einem deutsch-schweizerischen Spielzeugproduzenten.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ausschreitungen in Athen am Gedenktag für getöteten Teenager",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-proteste-120.html",
+      "published": "2025-12-07T03:30:58",
+      "content": "   Beim Gedenken an einen durch die Polizei erschossenen 15-Jährigen sind friedliche Proteste in Athen eskaliert. Der Teenager war 2008 getötet worden. Seitdem gibt es jährliche Demonstrationen. [mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "16 Stunden Stromsperre täglich wegen Angriffen auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-stromsperre-100.html",
+      "published": "2025-12-07T02:50:05",
+      "content": "   In der Ukraine ist das Stromnetz durch massive russische Angriffe so beschädigt, dass die Menschen nur für einen Teil des Tages Licht und Wasser haben. Die Reparaturen werden wohl Wochen dauern. Unterdessen attackiert Russland weiter.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine war briefing: With no Miami breakthrough, Zelenskyy turns to European allies",
+      "link": "https://www.theguardian.com/world/2025/dec/07/ukraine-war-briefing-with-no-miami-breakthrough-zelenskyy-turns-to-european-allies",
+      "published": "2025-12-07T01:53:37",
+      "content": "Positive tone after Florida talks with Ukrainian president heading to London Street to see Starmer, Macron and Merz. What we know on day 1,383 Continue reading...",
+      "content_length": 162,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Besuch in Nahost: Merz wirbt für Zweistaatenlösung",
+      "link": "https://www.tagesschau.de/ausland/asien/merz-besuch-jordanien-israel-100.html",
+      "published": "2025-12-07T01:48:34",
+      "content": "   Bei seinem Antrittsbesuch in Israel hat Kanzler Merz erneut das Ziel einer Zweistaatenlösung in Nahost betont. Zuvor warnte er in Jordanien vor israelischen Annexionen im Westjordanland. Heute wird Merz Israels Premier Netanjahu treffen.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Albanese defends decision to sign off on $100,000 US trip for Anika Wells and staff",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/07/albanese-defends-decision-to-sign-off-on-100000-us-trip-for-anika-wells-and-staff",
+      "published": "2025-12-07T00:28:47",
+      "content": "Communications minister also faces scrutiny over taxpayer-funded family trip to ThredboFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnthony Albanese has defended his decision to sign off on a $100,000 trip to New York City for Anika Wells and two others to spruik Australia’s social media ban to global leaders at the UN general assembly.The minister’s travel entitlements have come under intense scrutiny in the past week with the Nine newspapers reporting on Sunday that Wells’ family went on a skiing trip to Thredbo in June using taxpayer-funded family reunion entitlements while the minister was there for an official event. Continue reading...",
+      "content_length": 717,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hegseth gives defiant speech defending ‘drug boat’ strikes amid scrutiny",
+      "link": "https://www.theguardian.com/us-news/2025/dec/06/hegseth-boat-strikes",
+      "published": "2025-12-07T00:00:58",
+      "content": "At event in California, US defense secretary says Trump has power to take military action ‘as he sees fit’Pete Hegseth on Saturday doubled down on his defense of US military strikes on alleged drug cartel boats in the Caribbean, arguing that Donald Trump has the power to take military action “as he sees fit” and dismissing concerns that the strikes violate international law.Hegseth spoke on Saturday at the Ronald Reagan presidential library in Simi Valley, California, amid growing scrutiny over the legality of the attacks and his leadership of the Pentagon. Continue reading...",
+      "content_length": 583,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Qatar and Egypt urge Israeli withdrawal to secure next step in Gaza peace deal",
+      "link": "https://www.theguardian.com/world/2025/dec/06/qatar-and-egypt-urge-israeli-withdrawal-to-secure-next-step-in-gaza-peace-deal",
+      "published": "2025-12-06T21:58:59",
+      "content": "Mediators of delicate truce say troop removal and deployment of international force crucial to second phaseQatar and Egypt, the guarantors of the Gaza ceasefire, called on Saturday for the withdrawal of Israeli troops and the deployment of an international stabilisation force as the necessary next steps in fully implementing the fragile agreement.The measures were spelt out in the US- and UN-backed peace plan that has largely halted fighting, though the warring parties have yet to agree on how to move forward from the deal’s first phase. Continue reading...",
+      "content_length": 563,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russia hammers Ukraine's energy infrastructure as Florida peace talks continue",
+      "link": "https://www.france24.com/en/europe/20251206-russia-hammers-ukraine-s-energy-infrastructure-as-florida-peace-talks-continue",
+      "published": "2025-12-06T21:47:55",
+      "content": "Moscow hammered Ukraine's energy infrastructure with a massive drone and missile barrage overnight into Saturday as US officials continued to hold talks with a Ukrainian delegation in Florida on ending the war. Ukrainian President Volodymyr Zelensky said he had a \"substantive phone call\" with the US negotiators.",
+      "content_length": 313,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hamas says it will hand over weapons to a Palestinian authority 'if the occupation ends'",
+      "link": "https://www.france24.com/en/middle-east/20251206-hamas-says-it-will-hand-over-weapons-to-a-palestinian-authority-if-the-occupation-ends",
+      "published": "2025-12-06T21:11:09",
+      "content": "Palestinian militant group Hamas said Saturday it was ready to give up its arms to a future Palestinian authority \"if the occupation ends\". Israel has killed more than 360 Palestinians in the devastated Gaza Strip since the latest ceasefire came into effect on October 10, health officials say.",
+      "content_length": 294,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US waives $11m fine for Southwest Airlines over 2022 holiday meltdown",
+      "link": "https://www.theguardian.com/us-news/2025/dec/06/southwest-settlement-fine-waived",
+      "published": "2025-12-06T21:09:54",
+      "content": "White House decision is part of $140m settlement over flight chaos during busy December travel periodThe Trump administration said on Saturday it will waive an $11m fine imposed on Southwest Airlines as part of a $140m settlement over the carrier’s meltdown in December 2022 during a busy holiday travel period.Southwest in December 2023 agreed to pay a $35m cash fine over three years over the airline’s handling of the meltdown that stranded more than 2 million passengers. It also agreed to provide $90m in travel vouchers of $75 or more to passengers delayed at least three hours getting to final destinations because of an airline-caused issue or cancellation. Continue reading...",
+      "content_length": 685,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Filmbranche: Regierung rechnet offenbar mit Milliardeninvestitionen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/filmbranche-weimer-investitionen-selbstverpflichtung-100.html",
+      "published": "2025-12-06T20:59:46",
+      "content": "   Der Filmstandort Deutschland kann in den kommenden Jahren im Idealfall mit milliardenschweren Investitionen rechnen. Dabei soll es sich laut Regierungskreisen um eine Selbstverpflichtung von Streaminganbietern und Sendern handeln. Von N. Markwald.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "18 tote Menschen auf treibendem Boot vor Kreta aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-boot-kreta-100.html",
+      "published": "2025-12-06T20:40:53",
+      "content": "   Vor der griechischen Insel Kreta ist ein treibendes Boot mit 18 toten Migranten an Bord entdeckt worden. Die Passagiere haben vermutlich bei einem schweren Sturm die Kontrolle über das Boot verloren. [mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "California officials warn foragers after person dies from poison mushroom",
+      "link": "https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning",
+      "published": "2025-12-06T20:19:53",
+      "content": "Several additional people, including children, have severe liver damage amid 21 cases of amatoxin poisoningCalifornia officials are warning foragers after an outbreak of poisoning linked to wild mushrooms that has killed one adult and caused severe liver damage in several patients, including children.The state poison control system has identified 21 cases of amatoxin poisoning, likely caused by death cap mushrooms, the health department said Friday. The toxic wild mushrooms are often mistaken for edible ones because of their appearance and taste. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Apple’s chip chief might be the next exec to leave",
+      "link": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
+      "published": "2025-12-06T19:55:52",
+      "content": "\n\n\n\t\n\t\t\n\nBloomberg’s Mark Gurman is reporting that Johny Srouji, senior vice president of hardware technologies, told Tim Cook he is “seriously considering” leaving Apple for another company in the near future. It was reported in October that Srouji was “evaluating his future at the tech giant.” While nothing is confirmed, it seems the executive is leaning towards not having a future at Cupertino.\n\nIf Srouji leaves, he would be just the latest in a string of high-profile shakeups in the company’s C-suite. COO Jeff Williams announced his retirement in July, which led to some shifting of roles. But things have only accelerated in December, with AI chief John Giannandrea stepping down, policy lead Lisa Jackson and general counsel Kate Adams announcing plans to retire, and UI design lead Alan Dye departing for Meta, all in the last few days.\n\nApple has struggled somewhat to find its footing as the industry further embraces AI. Now Tim Cook is tasked with trying to stem the bleeding, while being subject to rumors of his own departure. Gurman, who is usually reliable, has said those rumors are premature, but it still adds to the uncertainty surrounding what is typically one of the more stable companies in Silicon Valley. ",
+      "content_length": 1235,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "At least 18 migrants die as inflatable boat sinks off Greek island of Crete",
+      "link": "https://www.france24.com/en/europe/20251206-at-least-18-migrants-die-as-inflatable-boat-sinks-off-greek-island-of-crete",
+      "published": "2025-12-06T19:44:25",
+      "content": "At least 18 people attempting to reach Europe by inflatable boat drowned after their dinghy capsized south of the Greek island of Crete, authorities said Saturday. Two people have been rescued so far as the search for survivors continues.",
+      "content_length": 238,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gunmen kill at least 12 people including three-year-old in hostel in South Africa",
+      "link": "https://www.theguardian.com/world/2025/dec/06/gunmen-kill-pretoria-south-african-hostel",
+      "published": "2025-12-06T19:31:59",
+      "content": "Police launch ‘manhunt’ after 25 people are shot in early morning in township attack west of PretoriaGunmen have stormed into a hostel in South Africa’s capital and killed at least 12 people, including a three-year-old child, and injured more than a dozen others.Police said they had launched a “manhunt” for three people and were investigating whether the killings were linked to a bar within the hostel that may have been selling alcohol illegally. Continue reading...",
+      "content_length": 470,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "BSW-Parteivorsitz: De Masi und Mohamed Ali neues Führungsduo",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteispitze-de-masi-mohamed-ali-100.html",
+      "published": "2025-12-06T19:19:42",
+      "content": "   Nach seiner Namensänderung hat das BSW einen neuen Co-Parteichef: den Europaabgeordneten De Masi. Er bekam eine Zustimmung von rund 93 Prozent. Die Co-Vorsitzende Mohamed Ali bleibt im Amt - mit rund 83 Prozent Zustimmung.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg: Treffen von Merz, Macron, Starmer und Selenskyj in London",
+      "link": "https://www.tagesschau.de/ausland/merz-macron-selenskyj-starmer-london-100.html",
+      "published": "2025-12-06T19:10:20",
+      "content": "   Was ist der Stand bei den Ukraine-Gesprächen, bei denen die USA vermitteln? Darüber wollen Anfang kommender Woche die Staats- und Regierungschefs aus Deutschland, Frankreich, Großbritannien und der Ukraine beraten. Sie treffen sich in London.  [mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bold shapes and binoculars: Frank Gehry’s stunning California architecture",
+      "link": "https://www.theguardian.com/artanddesign/2025/dec/06/frank-gehry-california-architecture",
+      "published": "2025-12-06T19:00:04",
+      "content": "From his home town of Los Angeles, the architect designed a career around defying what was predictableIn Frank Gehry’s world, no building was left untilted, unexposed or untouched by unconventional material. The Canadian-American architect, who died in his Los Angeles home at 96, designed a career around defying what was predictable and pulling in materials that were uncommon and, as such, relatively inexpensive.Gehry collaborated with artists to turn giant binoculars into an entryway of a commercial campus, and paid homage to a writer’s past as a lifeguard by creating a livable lifeguard tower. And while dreaming this up, he transformed American architecture along the way. Continue reading...",
+      "content_length": 702,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Greyness and solitude: French ex-president Sarkozy describes 3-week prison stay",
+      "link": "https://www.france24.com/en/live-news/20251206-greyness-and-solitude-french-ex-president-describes-prison-stay",
+      "published": "2025-12-06T18:51:13",
+      "content": "The first excerpts of French former president Nicolas Sarkozy's prison diary speak of a monotonous three-week bid in prison. Sarkozy was sentenced to five years in prison for criminal conspiracy related to efforts to finance his successful 2007 presidential campaign with Libyan funds. An appeals trial will open in March.",
+      "content_length": 322,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Senator says ICE ‘attack dog’ caused ‘horrific’ injuries to unresisting man as he was detained",
+      "link": "https://www.theguardian.com/us-news/2025/dec/06/us-senator-ice-attack-dog-horrific-injuries",
+      "published": "2025-12-06T18:40:33",
+      "content": "Patty Murray of Washington state said ICE agents lied to Wilmer Toledo-Martinez to lure him outside before dog attacked himA US senator has condemned the Trump administration after she alleged that an Immigration and Customs Enforcement (ICE) “attack dog” mauled one of her constituents.Democratic senator Patty Murray of Washington state said Wilmer Toledo-Martinez suffered “horrific” injuries while ICE agents detained him in November. Continue reading...",
+      "content_length": 458,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'Guardian angels': Milei welcomes Argentina's first F-16 fighter jets",
+      "link": "https://www.france24.com/en/live-news/20251206-milei-welcomes-argentina-s-first-f-16-fighter-jets",
+      "published": "2025-12-06T18:31:11",
+      "content": "Argentina's far-right President Javier Milei on Saturday welcomed six US-made F-16 fighter jets purchased from Denmark, saying the purchase would \"considerably strengthen\" the country's air force. Milei's government bought 24 of the used supersonic fighters from Copenhagen last year.",
+      "content_length": 284,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kallas calls Washington EU's 'biggest ally' after US security strategy slams Europe",
+      "link": "https://www.france24.com/en/europe/20251206-kallas-calls-washington-eu-s-biggest-ally-after-us-security-strategy-slams-europe",
+      "published": "2025-12-06T18:28:25",
+      "content": "EU foreign policy chief Kaja Kallas responded Saturday to a new US National Security Strategy accusing Europe of facing \"civilisational erasure\" due to its immigration policies by saying that Washington remained the bloc's main ally. The strategy also called for the US to aggressively maintain dominance in the Western Hemisphere.",
+      "content_length": 331,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UN rights chief decries 'repressive tactics' in Uganda ahead of vote",
+      "link": "https://www.france24.com/en/video/20251206-un-rights-chief-decries-repressive-tactics-in-uganda-ahead-of-vote",
+      "published": "2025-12-06T18:25:41",
+      "content": "The United Nations deplored Wednesday an intensifying crackdown on the opposition and media in Uganda ahead of next month's general election, urging impartial investigations into alleged arbitrary arrests, disappearances and \"torture\". The UN rights office highlighted \"credible reports\" indicating that at least 550 people, including members and supporters of the main opposition National Unity Platform party (NUP) and presidential candidate Bobi Wine, had been arrested and detained since the start of the year. More from FRANCE 24's regional correspondent Juliette Montilly.",
+      "content_length": 578,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU reagiert gelassen auf neue Sicherheitsstrategie der USA",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-usa-standpauke-100.html",
+      "published": "2025-12-06T17:54:33",
+      "content": "   Die neue nationale Sicherheitsstrategie der USA liest sich wie eine Standpauke für die EU. Doch Brüssel reagiert gelassen - denn nicht alles in den Beziehungen läuft schlecht. Von Sabrina Fritz. [mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zelenskyy to meet Starmer at Downing Street to discuss US draft peace deal",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/06/zelenskyy-to-meet-starmer-at-downing-street-to-discuss-us-draft-peace-deal",
+      "published": "2025-12-06T17:46:24",
+      "content": "Emmanuel Macron and Friedrich Merz will also be present for talks on guaranteeing Ukraine’s postwar securityVolodymyr Zelenskyy will visit Downing Street on Monday for an in-person meeting with Keir Starmer, Emmanuel Macron and Friedrich Merz in a show of support for Ukraine.Starmer will use the meeting with the leaders from Ukraine, France and Germany to discuss the continuing talks between US and Ukrainian officials aimed at finding an agreement on guaranteeing Ukraine’s postwar security. Continue reading...",
+      "content_length": 515,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tschechien: Hepatitis-Gefahr auf dem Weihnachtsmarkt",
+      "link": "https://www.tagesschau.de/ausland/weihnachtsmaerkte-prag-hepatitis-100.html",
+      "published": "2025-12-06T17:39:34",
+      "content": "   Tschechien erlebt einen massiven Anstieg von Hepatitis-A-Infektionen. Das Virus überträgt sich über Schmierinfektionen, was für Weihnachtsmärkte besonders heikel ist. Impfungen helfen - doch der Impfstoff ist rar. Von Danko Handrick.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Syria interim president accuses Israel of fighting ‘ghosts’ and exporting crises",
+      "link": "https://www.theguardian.com/world/2025/dec/06/syria-interim-president-accuses-israel-fighting-ghosts-gaza",
+      "published": "2025-12-06T17:31:44",
+      "content": "Ahmed al-Sharaa says Israel justifies aggression in the name of security amid airstrikes on southern SyriaSyria’s interim president has accused Israel of fighting “ghosts” and exporting its crises to other countries after the war in Gaza.President Ahmed al-Sharaa’s comments come amid persistent airstrikes and incursions by the Israeli military into southern Syria. Continue reading...",
+      "content_length": 386,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Farage dodges press as he unveils Reform’s first peer after Conservative defection",
+      "link": "https://www.theguardian.com/politics/2025/dec/06/reform-uk-gains-its-first-peer-after-conservative-party-defection-malcolm-offord",
+      "published": "2025-12-06T17:20:19",
+      "content": "Party leader leaves latest recruit, Malcolm Offord, to field questions on antisemitism allegations at Scotland rallyNigel Farage has addressed Reform UK’s largest rally in Scotland to date but refused to engage with local journalists – leaving the newly defected peer Malcolm Offord to field questions on allegations of racism and antisemitism.Farage introduced the former Conservative peer and millionaire donor Offord at a sold-out rally of about 700 at a hotel conference centre near Falkirk. Continue reading...",
+      "content_length": 515,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wagenknecht will Neuauszählung der Bundestagswahl \"durchklagen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-magdeburg-wagenknecht-100.html",
+      "published": "2025-12-06T17:10:11",
+      "content": "   Ein neuer Name ist gesetzt, das Kürzel BSW bleibt. Eine neue Parteispitze soll folgen: BSW-Gründerin Wagenknecht gibt in Magdeburg ihr Amt als Vorsitzende ab - und fordert weiter eine Neuauszählung der Bundestagswahl.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Senior DWP civil servant blames victims for carer’s allowance scandal",
+      "link": "https://www.theguardian.com/society/2025/dec/06/senior-dwp-civil-servant-blames-victims-for-carers-allowance-scandal",
+      "published": "2025-12-06T17:06:12",
+      "content": "Neil Couling said failings by individual claimants ‘at the heart’ of crisis, despite a report finding DWP shortcomings ‘unacceptable’ One of the most senior civil servants in the Department for Work and Pensions (DWP) has placed the blame for the carer’s allowance benefits crisis on victims, many of who have been left with life-changing debts.In an internal blogpost written for Whitehall colleagues, Neil Couling, the director general of DWP services, said individual failings by carers were “at the heart” of the issue that has been likened to the Post Office Horizon scandal. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
+      "link": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
+      "published": "2025-12-06T17:00:00",
+      "content": "\n\n\n\t\n\tIt’s a great time to consider buying Nintendo’s latest console. | Photo: Cameron Faulkner / The Verge\t\n\nCyber week has just about wrapped up, but there are still some amazing Cyber Monday leftovers that you can save money on. The one deal we can’t stop telling readers about is the unexpected $50 discount on Nintendo’s Switch 2 console bundle that includes Mario Kart World, bringing it down to $449.99 (was $499.99). Currently, you can snag the bundle at Amazon, Walmart, and Best Buy. It’s the best Switch 2 console to buy for the holidays because it comes with Mario Kart World, a fun racing game that’s $79.99 to buy outside of the bundle. You’re getting it for free instead.\n\nA price drop for the new handheld was about the last thing we expected to see this week, and we’re happy that the deal has endured over multiple days. We don’t know when it will end, so we’re treating every day like it’ll be the last.\n\nIf you’re shopping for a Switch 2 console, there are some extras that you may want to consider buying along with it. Games aside, we have buying guides with recommendations if you’re looking for cheap, but great wireless controllers, protective cases that are better than the rest, as well as the best Switch 2 screen protectors we tried.\nNintendo Switch 2\nThe Nintendo Switch 2 has a 7.9-inch LCD display, magnetically attached Joy-Con 2 controllers, backwards compatibility with most original Switch games, and exclusive titles including Donkey Kong Bananza and Kirby Air Riders. Read our review.\n\nWhere to Buy: $499.99 $449 at Amazon (Mario Kart World bundle) $499.99 $449.99 at Walmart (Mario Kart World bundle) $499.99 $449 at Best Buy (Mario Kart World bundle)\nWe learned something interesting, but not entirely surprising, about people who were reading our Black Friday coverage: they love ice cream. They flocked to the $70 off deal that’s still happening at Amazon and Best Buy on Ninja’s Creami ice cream maker that can seemingly do it all. You’ll have a tough time finding a more capable machine at its $279.99 sale price (if you frequently treat yourself and the family to ice cream cones, the Creami’s cost will be offset faster than you might think). This machine has a ton of modes, letting you craft soft serve or thicker, scoopable ice cream. You can use it to craft sorbet, gelato, frozen custard, or froyo – or whip up a milkshake. One full batch of ice cream can fill four small cones, or four scooped bowls.\nNinja Creami Scoop &amp; Swirl\nNinja&#8217;s clever 2-in-1 machine can spin up soft serve and traditional hard scoops in a few easy steps, not to mention creamy milkshakes, gelato, and frozen yogurt. \n\nWhere to Buy: $349.99 $279.99 at Amazon $349.99 $279.99 at Best Buy $349.99 $279.99 at SharkNinja\nNot everyone is ready for smart glasses that have cameras built into them. We get it (some Verge staffers feel the same way). However, if you want glasses with some smarts — the ability to take audio calls and listen to music and podcasts, or get Alexa assistance with questions or commands — look no further than the Black Friday bundle that includes Amazon’s latest Echo Frames glasses. The glasses typically sold for over $300 before Black Friday, but you can get the glasses in multiple styles for just $114.99 at Amazon.\nAmazon Echo Frames (latest verion)\nThe smart glasses resemble a pair of regular eyeglasses but can be used to listen to music, take calls, and perform a range of Alexa-enabled tasks. They feature up to six hours of audio playback with their open-ear design.\n\nWhere to Buy: $299.99 $114.99 at Amazon (original)\nOther Verge-approved deals we dug this week\n\n\nFor a limited time, B&amp;H Photo has the best price on the M4 Mac Mini that has 24GB of RAM and 256GB of storage — definitely an odd configuration, but a fast one, nevertheless! Normally $779, you can snag it for $679. Of course, most people who want this much memory probably want a bigger SSD than what’s offered here. Unfortunately, getting 24GB RAM with a 512GB SSD costs $904 at Amazon. If you prefer having a 512GB SSD and are alright settling with just 16GB of RAM, Amazon has that model for $729. As for my opinion on the matter, get the model with more RAM. Read our review.\n\n\n\nJBL’s Tour One M3 over-ear headphones plummeted to their lowest price yet at Amazon and B&amp;H Photo, where the black or blue color schemes are $249.99 (originally $449, but commonly discounted to about $380). These hang with other flagship headphones in terms of sound quality, comfort, and have a robust active noise cancellation effect (they hit my radar thanks to a May 2025 review from Wirecutter). They’re especially interesting because they include an Auracast transmitter, with which you can plug into any device to beam a Bluetooth signal that any other Auracast-enabled device can connect to (the Tour One M3 is supported, obviously). In normal use, the transmitter is handy for setting up no-fuss connections to really any device with a headphone jack, be it in-flight entertainment, a treadmill, a laptop, or a portable gaming console, to provide some examples.\n\n\n\nI have another treat for your ears — this one being particularly good for PC gamers. The Fractal Scape is a wireless gaming headset better than most at its sale price of $169.99 ($30 off) at Amazon and Walmart. Not only does it sound very good while playing games and listening to music, its web browser-based tool makes it very easy to customize equalizers, in addition to tweaking the built-in LEDs built into the ear cups. Two other things make this one worth considering: recharging them is really easy, as you simply put them on the included docking station, and its Digital Crown-esque knob makes adjusting the volume or skipping tracks a breeze. Read our review.\n",
+      "content_length": 5771,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "French food safety agency finds PFAS in more than 90 percent of tap water",
+      "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20251206-french-food-safety-agency-finds-pfas-in-more-than-90-percent-of-tap-water",
+      "published": "2025-12-06T16:55:19",
+      "content": "The ANSES has found that 92% of the country's drinking water contains forever chemicals known as PFAS. The report analyzed more than 600 tap water samples and an equal number of untreated water samples over a two-year period.  Meanwhile another study has found that breakfast cereals, and bread here in Europe are also heavily contaminated with PFAS. Our guest on the show François Veillerette the director of the NGO Generations Futures and former President of Greenpeace France.",
+      "content_length": 480,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kaja Kallas says Washington EU's 'biggest ally' after US security strategy published",
+      "link": "https://www.france24.com/en/video/20251206-kaja-kallas-says-washington-eu-s-biggest-ally-after-us-security-strategy-published",
+      "published": "2025-12-06T16:24:35",
+      "content": "European Union foreign policy chief Kaja Kallas said on Saturday that the United States remains Europe's biggest ally, after the Trump administration said in a major strategy document that Europe faces \"civilisational erasure\" and may one day lose its status as a reliable ally. The new US National Security Strategy, posted on the White House website overnight Thursday-to-Friday, denounced the European Union as anti-democratic and Europe as lacking in self-confidence, and said the goal of the US should be \"to help Europe correct its current trajectory\". Analysis by FRANCE 24 international affairs editor, Kethevane Gorjestani.",
+      "content_length": 632,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Don’t say we didn’t warn you’: Hong Kong foreign media told not to cause trouble after fire",
+      "link": "https://www.theguardian.com/news/2025/dec/06/dont-say-we-didnt-warn-you-beijing-summons-journalists-in-hong-kong-after-fire",
+      "published": "2025-12-06T16:24:30",
+      "content": "Beijing security agency accuses international journalists of disregarding facts and smearing governmentBeijing’s security agency in Hong Kong has summoned international journalists to inform them it will not tolerate “trouble-making”, following critical coverage of the deadly apartment complex fire that has left the territory reeling.Senior reporters from several media outlets operating in the city were called to the Office for Safeguarding National Security (OSNS), which was set up by Beijing in 2020. Continue reading...",
+      "content_length": 527,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+      "link": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+      "published": "2025-12-06T16:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is connect to the right broadcast. These could be flight announcements from your gate at the airport, the microphone a teacher is using during a presentation, or the TV you're watching while on the treadmill at the gym.\nBy letting you link directly into one of these broadcasts, Auracast can increase auditory accessibility for those who are hard of hear …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tower of London reopens after apple crumble thrown at crown jewels display",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/06/tower-of-london-closes-apple-crumble-thrown-on-crown-jewels-display-case",
+      "published": "2025-12-06T15:52:38",
+      "content": "Four people arrested after civil-resistance group Take Back Power protest against inequality in the UKPart of the Tower of London was temporarily closed to visitors on Saturday after food was thrown at a display case containing the crown jewels in a protest against inequality in the UK.Four people were arrested after the action, which was claimed by Take Back Power – a self-described, non-violent civil-resistance group. It said custard and apple crumble was flung at the case, which contained the imperial state crown. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Weihnachtsfeiern im Betrieb - was gilt rechtlich?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-rechtslage-weihnachtsfeier-100.html",
+      "published": "2025-12-06T15:15:59",
+      "content": "   Alle Jahre wieder: Gefeiert wird zur Weihnachtszeit nicht nur im privaten Kreis, sondern auch im Betrieb. Aber gibt es eine Pflicht, mitzufeiern? Und wie ist man dort versichert? Ein rechtlicher Überblick von C. Kehlbach und R. Mai. [mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Protest in London: Kronjuwelen mit Nachtisch attackiert",
+      "link": "https://www.tagesschau.de/ausland/europa/kronjuwelen-london-102.html",
+      "published": "2025-12-06T15:11:46",
+      "content": "   Die britischen Kronjuwelen sind von unschätzbarem Wert - materiell und symbolisch. Dies machten sich Aktivisten zunutze, die im Tower of London eine Vitrine mit Lebensmitteln beschmierten. Vier Personen wurden festgenommen.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Starvation fears mount in Indonesia after catastrophic floods",
+      "link": "https://www.france24.com/en/video/20251206-starvation-fears-mount-in-indonesia-after-catastrophic-floods",
+      "published": "2025-12-06T15:02:57",
+      "content": "Ruinous floods and landslides have killed more than 900 people on Indonesia's island of Sumatra, the country's disaster management agency said Saturday, with fears that starvation could send the toll even higher. Story by Eliza Herbert.",
+      "content_length": 236,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
+      "link": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
+      "published": "2025-12-06T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nEveryone had a good laugh at HBO Max this week when the new 4K Mad Men remaster debuted with a number of glaring errors that should have been caught before the show was uploaded to the streamer's servers. Episodes went live with incorrect titles, and in one instance you could still see members of the show's production crew who shouldn't have been visible on-camera. The mistakes were reportedly the result of  Lionsgate Television - Mad Men's original production company - sending over the incorrect set of exported files.\nIt is wild to think that no one at HBO noticed that the remastered \"Red in the Face\" episode still included a clear shot of …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US Supreme Court to decide legality of Trump's order to limit birthright citizenship",
+      "link": "https://www.france24.com/en/video/20251206-us-supreme-court-to-decide-legality-of-trump-s-order-to-limit-birthright-citizenship",
+      "published": "2025-12-06T14:51:54",
+      "content": "The Supreme Court agreed on Friday to decide the legality of President Donald Trump's directive to restrict birthright citizenship in the United States, a contentious part of his efforts to curb immigration and a step that would alter how a 19th century constitutional provision has long been understood. Story by Shirli Sitbon.",
+      "content_length": 328,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two marathon organisers arrested in Iran for allowing women to compete without veils",
+      "link": "https://www.france24.com/en/middle-east/20251206-two-marathon-organisers-arrested-in-iran-for-allowing-women-to-compete-without-veils",
+      "published": "2025-12-06T14:47:16",
+      "content": "Two people who organised a marathon in Iran where a number of women athletes competed without wearing veils have been arrested, the Islamic republic's judiciary said Saturday. While women in Iran are required by law to cover their hair in public, the law's enforcement has become more sporadic since the country was swept by mass protests in 2022.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "AI ‘creators’ might just crash the influencer economy",
+      "link": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok",
+      "published": "2025-12-06T14:30:37",
+      "content": "\n\n\n\t\n\t\t\n\nIt was only in June that Jeremy Carrasco uploaded his first videos to TikTok and Instagram. In that short time, he's amassed over 300,000 followers on each platform. No, it's not exactly Charli D'Amelio numbers, but that does make him one of the biggest names in AI literacy on social media. \nJeremy told The Verge that he always wanted to try his hand at being a YouTuber. Instead, he found himself behind the camera, working as a producer and director on multicamera livestreams. But he finally decided to take the plunge after realizing that most of the dialogue around generative AI was being driven by the tech companies. \"We need other people …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Russische Angriffe auf Bahnhof und Energieversorgung",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-134.html",
+      "published": "2025-12-06T14:16:53",
+      "content": "   Russland hat erneut die ukrainische Energie-Infrastruktur ins Visier genommen. In acht Regionen der Ukraine kam es nach Angaben aus Kiew in der vergangenen Nacht zu Angriffen. Auch ein Bahnhof nahe der Stadt wurde zum Ziel.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Frank Gehry: maximalist master who created instant icons like the Bilbao Guggenheim",
+      "link": "https://www.theguardian.com/artanddesign/2025/dec/06/frank-gehry-architect-bilbao-guggenheim-instant-icons",
+      "published": "2025-12-06T14:01:30",
+      "content": "He made buildings that looked like slouching drunks and quarrelling couples but it was the Spanish museum that secured his ‘starchitect’ status – a creation that became something of a curseFrank Gehry once had a cameo in The Simpsons in which he designed buildings by scrunching up pieces of paper. There was a bit more to it than that, but from Prague to Panama City, his scrunched contours were instantly recognisable, expressed in an exuberant parade of buildings that cranked and slumped as if hit by a wrecking ball, or crashed and whirled like dervishes, defying laws of gravity and structural logic. Though Gehry, who has died aged 96, came of age in the era of modernism, it was as if he were physically incapable of drawing a straight line.In his prime, Gehry’s architecture was a rebuff to modernist imperators such as Mies van der Rohe and his po-faced injunction, “less is more”. The American postmodern theorist and architect Robert Venturi turned it on its head, quipping “less is a bore”. It summed up the maximalist Gehry perfectly. Continue reading...",
+      "content_length": 1068,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Horses deserves to be played, even if it&#8217;s not very good",
+      "link": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
+      "published": "2025-12-06T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHorses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes together in support of it. But as a game, Horses doesn't deserve all this - neither its bans nor, after playing it myself, all the glowing praise.\nHorses is a collaboration between indie studio Santa Ragione and Italian filmmaker Andrea Lucco Bolera. Bolera wrote the game and acted in and directed the FMV cutscenes that are interspersed throughout, while the developers at Santa Ragione …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Sharaa says Israeli demands for demilitarised zone puts Syria in 'dangerous' position",
+      "link": "https://www.france24.com/en/middle-east/20251206-sharaa-says-israeli-demands-for-demilitarised-zone-puts-syria-in-dangerous-position",
+      "published": "2025-12-06T13:44:05",
+      "content": "Syrian leader Ahmed al-Sharaa told the Doha Forum Saturday that Israel's continued insistence on a demilitarised zone in the country's south could lead the two nations to a \"dangerous place\". Israeli troops continue to occupy a UN-patrolled area in the Golan Heights and have repeatedly launched military operations deeper into Syria.",
+      "content_length": 334,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Kallas setzt trotz kritischer US-Strategie weiter auf Nähe",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-sicherheitsstrategie-europa-100.html",
+      "published": "2025-12-06T13:30:52",
+      "content": "   Die EU hat gelassen auf die europakritische US-Sicherheitsstrategie reagiert. Die USA seien der \"größte Verbündete\", betonte die Außenbeauftragte Kallas. Bundesaußenminister Wadephul wurde hingegen deutlicher.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hollywood unions alarmed by Netflix's $72 billion Warner Bros deal",
+      "link": "https://www.france24.com/en/video/20251206-hollywood-unions-alarmed-by-netflix-s-72-billion-warner-bros-deal",
+      "published": "2025-12-06T13:23:30",
+      "content": "Hollywood unions and theatre owners sounded the alarm on Friday  over Netflix's proposed $72 billion takeover of Warner Bros Discovery, warning the deal would cut jobs, concentrate power and reduce theatrical movie releases if the deal passes regulatory review. Details and analysis with Michael Wayne, assistant professor at the department of Media and Communication at Erasmus University.",
+      "content_length": 390,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A massive, Chinese-backed port could push the Amazon Rainforest over the edge",
+      "link": "https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/",
+      "published": "2025-12-06T12:30:35",
+      "content": "CHANCAY, Peru—The elevator doors leading to the fifth-floor control center open like stage curtains onto a theater-sized screen.\nThis “Operations Productivity Dashboard” instantaneously displays a battery of data: vehicle locations, shipping times, entry times, loading data, unloading data, efficiency statistics.\nMost striking, though, are the bold lines arcing over the dashboard’s deep-blue Pacific—digital streaks illustrating the routes that lead thousands of miles across the ocean, from this unassuming city, to Asia’s biggest ports.Read full article\nComments",
+      "content_length": 567,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU says US ‘still our biggest ally’ despite release of policy paper supporting Europe’s far-right – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/06/eu-europe-latest-news-updates-russia-ukraine-war",
+      "published": "2025-12-06T12:30:09",
+      "content": "This blog is now closed, you can read more of our European news coverage hereOvernight Russian missile and drone strikes left parts of Ukraine without power on Saturday morning, Ukraine’s energy ministry said.The Russian defense ministry confirmed that Russian forces attacked energy facilities that supported the Ukrainian military and port infrastructure used by Ukrainian forces, saying that the strike was in response to what it called Ukrainian attacks on civilian targets.The Zaporizhzhia nuclear power plant temporarily lost all off-site power overnight, the International Atomic Energy Agency said on Saturday, marking the 11th time the facility temporarily lost power during the war.Ukraine peace plan talks continue between Trump advisers and Ukrainian officials, with the parties involved saying on Friday that they will meet for a third day of talks.EU foreign policy chief Kaja Kallas responded to the US National Security Strategy, a policy paper released by the Trump administration on Friday that made explicit Washington’s support for Europe’s nationalist far-right parties. “US is still our biggest ally,” Kallas said Saturday.Keir Starmer is scheduled to meet with Volodymyr Zelenskyy in Downing Street on Monday, the Press Association reports. Continue reading...",
+      "content_length": 1283,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Merz reist erstmals als Kanzler nach Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/merz-israel-staatsbesuch-100.html",
+      "published": "2025-12-06T12:27:44",
+      "content": "   Bundeskanzler Merz reist heute nach Israel. Gerade wegen der besonderen bilateralen Beziehung und der angespannten Sicherheitslage steht der Besuch unter kritischer Beobachtung. Von Bettina Meier.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Palestine’s ambassador calls for better security after masked men target London embassy",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/06/palestine-ambassador-security-concerns-after-masked-men-target-london-embassy",
+      "published": "2025-12-06T12:00:53",
+      "content": "Husam Zomlot says protest by activists waving Israeli flags and union jacks was ‘flagrant breach of diplomatic law’The Palestinian ambassador to the UK has called for “comprehensive protection” after his embassy was targeted by masked men waving Israeli flags and union jacks.Husam Zomlot made the call after the group posed at the entrance to the embassy, in Hammersmith, west London, last Saturday. The building was defaced with stickers such as “I love the IDF [Israel Defense Forces]”, according to images captured by security cameras. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Maduro says the real reason for Trump’s Venezuela fixation is oil – is he right?",
+      "link": "https://www.theguardian.com/world/2025/dec/06/venezuela-oil-trump-maduro",
+      "published": "2025-12-06T12:00:51",
+      "content": "The South American country facing a huge US military buildup has almost a fifth of known global reservesVisual guide to US military presence in the CaribbeanVenezuela’s dictator, Nicolás Maduro, says the real motive behind the massive US military buildup in the Caribbean is oil: his country has the largest proven reserves in the world.The US state department denies this, insisting that the airstrikes on boats that have killed more than 80 people and the vast military deployment off South America are part of a campaign against drug trafficking. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump attacks European values in new security strategy",
+      "link": "https://www.france24.com/en/video/20251206-trump-attacks-european-values-in-new-security-strategy",
+      "published": "2025-12-06T11:59:20",
+      "content": "National security documents are traditionally published by US presidents, but Donald Trump's version marks a major change. The administration's defense strategy singles out Europe and China as problems to be addressed. Story by Antoine Fenaux and Gabrielle Nadler.",
+      "content_length": 264,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Welche Rolle spielen Rohstoffbörsen für den Preis der Schokolade?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/preise-schokolade-rohstoff-kakao-terminmarkt-100.html",
+      "published": "2025-12-06T11:30:34",
+      "content": "   Kurz vor Weihnachten ist Schokolade teurer geworden. Dabei ist der Kakaopreis auf dem Weltmarkt gefallen. Warum kommt das nicht bei den Kunden an? Wer bestimmt den Kakao-Preis? Von Bianca von der Au.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Unraveling chronic fatigue syndrome: Insights from top scientist on myalgic encephalomyelitis",
+      "link": "https://www.france24.com/en/video/20251206-unraveling-chronic-fatigue-syndrome-insights-from-top-scientist-on-myalgic-encephalomyelitis",
+      "published": "2025-12-06T10:50:04",
+      "content": "Myalgic encephalomyelitis (ME), also known as chronic fatigue syndrome, affects over 500,000 people in France, with cases rising significantly since the Covid-19 pandemic. Alain Moreau is one of the world’s top scientists on the question. The director of the interdisciplinary Canadian collaborative myalgic encephalomyelitis research discusses advancements in research, including the genetic signature of ME, current research priorities, and the gap between scientific understanding and public perception.",
+      "content_length": 506,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "India withdraw pilot rest policy as IndiGo crisis leaves hundreds stranded for fifth day",
+      "link": "https://www.france24.com/en/video/20251206-india-withdraw-pilot-rest-policy-as-indigo-crisis-leaves-hundreds-stranded-for-fifth-day",
+      "published": "2025-12-06T10:47:19",
+      "content": "India's IndiGo airline is scrambling to cope with widespread flight disruptions triggered by new rules for pilots' rest breaks. A staffing shortage has seen the airline cancel hundreds of flights. The country's aviation ministry had to step in - rolling back the policy change for the beleaguered airline - to help it through the current crisis during peak travel time. Story by Catherine Viette.",
+      "content_length": 396,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Frank Gehry, master \"starchitect\" known for designing famous museums, dies at 96",
+      "link": "https://www.france24.com/en/video/20251206-frank-gehry-master-starchitect-known-for-designing-famous-museums-dies-at-96",
+      "published": "2025-12-06T10:45:57",
+      "content": "He was one of the superstars of modern architecture. Franck Gehry died in Santa Monica, California, leaving behind some iconic works, such as the Guggenheim Museum in Bilbao and the Louis Vuitton Foundation in France. Story by Morgan Ayre and Jean Barrère.",
+      "content_length": 256,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Deadly floods claim over 900 lives in Indonesia as survivors struggle to obtain aid",
+      "link": "https://www.france24.com/en/asia-pacific/20251206-indonesia-flood-death-toll-passes-900-disaster-agency",
+      "published": "2025-12-06T10:44:19",
+      "content": "The death toll from cyclone-driven floods and landslides across three Indonesian provinces on Sumatra rose to 908 people on Saturday, with over 400 listed as missing, government data showed. The disaster has also claimed around 200 lives in southern Thailand and Malaysia. Indonesia’s environment ministry has suspended operations at mining and hydropower firms blamed for worsening the floods through deforestation.",
+      "content_length": 416,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pakistani construction workers risk their lives, several meters above the ground",
+      "link": "https://www.france24.com/en/video/20251206-pakistani-construction-workers-risk-their-lives-several-meters-above-the-ground",
+      "published": "2025-12-06T10:44:03",
+      "content": "In Pakistan, videos of construction workers operating in life-threatening conditions are spreading across social media. Men are seen standing on unstable scaffolding, without helmets or harnesses, hanging several meters above the ground. These viral images expose a long-ignored reality: the widespread absence of basic safety protections for millions of construction workers. Report by Shahzaib Wahlah and Sonia Ghezali.",
+      "content_length": 421,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Syrians celebrate as one year anniversary of Bashar al-Assad's fall approaches",
+      "link": "https://www.france24.com/en/video/20251206-syrians-celebrate-as-one-year-anniversary-of-bashar-al-assad-s-fall-approaches",
+      "published": "2025-12-06T10:41:58",
+      "content": "In Syria, as the anniversary of former president Bashar al-Assad's fall approaches, people have already started celebrating. Al-Assad held power for 24 years and his family ruled for over 50. Over their rule, the family was responsible for human rights violations and war crimes, including the use of chemical weapons  and barrel bombs. While Syrians view the one year anniversary as a joyous occasion, many are still in mourning as all the country suffered at the hands of the al-Assad dynasty. Story by Gabrielle Nadler.",
+      "content_length": 522,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "2026 FIFA World Cup: Contenders plot path to glory after Trump steals show at draw",
+      "link": "https://www.france24.com/en/video/20251206-2026-fifa-world-cup-contenders-plot-path-to-glory-after-trump-steals-show-at-draw",
+      "published": "2025-12-06T10:05:14",
+      "content": "The path to glory at the 2026 World Cup has now been laid out after the contenders discovered their tournament fate at Friday's draw ceremony in Washington which was dominated by Donald Trump. Story by Morgan Ayre.",
+      "content_length": 214,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Google \"Find Hub\": Nachbrenner durch Integration in Android-Einrichtung",
+      "link": "https://www.heise.de/news/Google-Find-Hub-Nachbrenner-durch-Integration-in-Android-Einrichtung-11105224.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-06T09:30:00",
+      "content": "Google bietet mit dem \"Find Hub\" eine Alternative zu Apples \"Wo ist?\". Nun lässt er sich im Android-Setup aktivieren.",
+      "content_length": 117,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Windows 11 25H2: Weitere automatische Update-Verteilung",
+      "link": "https://www.heise.de/news/Windows-11-25H2-Weitere-automatische-Update-Verteilung-11105130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-06T09:06:00",
+      "content": "In der Nacht zum Freitag hat Microsoft mit der automatischen Verteilung des Windows-11-25H2-Updates auf 24H2-Maschinen begonnen.",
+      "content_length": 128,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Altersvorsorge: Wie Klingbeil die Riester-Rente reformieren will",
+      "link": "https://www.tagesschau.de/wirtschaft/riester-rente-116.html",
+      "published": "2025-12-06T08:14:07",
+      "content": "   Finanzminister Klingbeil will die umstrittene Riester-Rente mit einem \"Altersvorsorgedepot\" ablösen. Das soll ohne starre Garantievorgaben, dafür mit viel Wahlfreiheit und einem Gebührendeckel daherkommen. Von Jan-Peter Bartels.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Macron denies warning Ukraine about potential US betrayal –  as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/05/vladimir-putin-narendra-modi-russia-india-us-ukraine-trade-latest-news-updates",
+      "published": "2025-12-05T15:24:04",
+      "content": "This blog is now closed, you can read more on this story hereRussia and India will reshape their defence ties to take account of New Delhi’s push for self-reliance, the two countries said in a joint statement after a summit between president Putin and Indian prime minister Narendra Modi.“In response to India’s aspirations for self-reliance, the partnership is currently being reoriented toward joint research and development, as well as the production of advanced defence platforms,” the statement said. Continue reading...",
+      "content_length": 525,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
