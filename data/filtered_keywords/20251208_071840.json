@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "timestamp": "20251208_071840",
+    "input_file": "data/deduplicated/20251208_071840.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 125,
+      "filtered_count": 116,
+      "blacklisted_count": 9,
+      "reduction_rate": "7.2%",
+      "top_blacklist_reasons": {
+        "bürgermeister": 2,
+        "bundesliga": 1,
+        "fußball": 1,
+        "weltmeister": 1,
+        "diebstahl": 1,
+        "temperatur": 1,
+        "stau": 1,
+        "oscar": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Porsche in Russland: Autos lassen sich nicht starten",
+      "link": "https://www.heise.de/news/Porsche-in-Russland-Autos-lassen-sich-nicht-starten-11105814.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-08T07:09:00",
+      "content": "Viele Porsche-PKW in Russland lassen sich derzeit nicht starten. Ursache scheint die satellitengestützte Alarmanlage zu sein.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "China-Reise - Wadephul dämpft Hoffnungen der deutschen Industrie auf baldige Lizenzen für Import von Seltenen Erden",
+      "link": "https://www.deutschlandfunk.de/wadephul-daempft-hoffnungen-der-deutschen-industrie-auf-baldige-lizenzen-fuer-import-von-seltenen-er-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Bundesaußenminister Wadephul ist nach China gereist. Ende Oktober hatte er die Reise noch abgesagt. Bei seinem Besuch geht es um die Bedeutung eines fairen Handels, unter anderem um Exportbeschränkungen für wichtige Güter.",
+      "content_length": 222,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Reaktionen auf Dokument - CDU-Außenpolitiker Röttgen: Neue US-Sicherheitsstrategie ist \"zweite Zeitenwende für Europa\"",
+      "link": "https://www.deutschlandfunk.de/cdu-aussenpolitiker-roettgen-neue-us-sicherheitsstrategie-ist-zweite-zeitenwende-fuer-europa-108.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die neue nationale Sicherheitsstrategie der US-Regierung hat in Deutschland parteiübergreifend Besorgnis ausgelöst. Der CDU-Außenpolitiker Röttgen sagte der Frankfurter Allgemeinen Zeitung, das von Präsident Trump unterzeichnete Dokument wende sich ausdrücklich gegen die europäischen Demokratien.",
+      "content_length": 297,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Altersversorgung - Bas lobt Vorschlag, Rentenbeginn an Beitragsjahre zu koppeln",
+      "link": "https://www.deutschlandfunk.de/bas-lobt-vorschlag-rentenbeginn-an-beitragsjahre-zu-koppeln-110.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Bundesarbeitsministerin Bas hat den Vorschlag gelobt, den Beginn der Rente mit der Zahl der Beitragsjahre zu verknüpfen.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bahnverkehr - Einschnitte in NRW wegen Lokführermangels werden zurückgenommen",
+      "link": "https://www.deutschlandfunk.de/einschnitte-in-nrw-wegen-lokfuehrermangels-werden-zurueckgenommen-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Einschränkungen im Bahnverkehr durch Lokführermangel sollen in Nordrhein-Westfalen bald ein Ende haben.",
+      "content_length": 103,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Besuch in Jerusalem - Bundeskanzler Merz: Vorgehen der israelischen Armee in Gaza hat Deutschland in ein Dilemma geführt",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-vorgehen-der-israelischen-armee-in-gaza-hat-deutschland-in-ein-dilemma-gefuehrt-114.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Bundeskanzler Merz hat bei seinem Besuch in Israel die historische Verantwortung der Bundesrepublik betont. Zugleich übte er Kritik am israelischen Vorgehen im Gaza-Krieg. Merz sagte nach einem Treffen mit dem israelischen Ministerpräsidenten Netanjahu in Jerusalem, Deutschland werde immer für die Existenz und die Sicherheit Israels einstehen.",
+      "content_length": 345,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gazastreifen - Netanjahu: \"Beginn der zweiten Phase des US-Friedensplans voraussichtlich Ende des Monats\"",
+      "link": "https://www.deutschlandfunk.de/netanjahu-beginn-der-zweiten-phase-des-us-friedensplans-voraussichtlich-ende-des-monats-110.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Israel wird nach Einschätzung von Regierungschef Netanjahu voraussichtlich zum Jahreswechsel in die zweite Phase des US-Plans für den Gazastreifen eintreten. Er begründete dies damit, dass die Terrororganisation Hamas die sterblichen Überreste der letzten israelischen Geisel zurückgegeben habe.",
+      "content_length": 295,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grenzkonflikt - Thailand greift Kambodscha aus der Luft an",
+      "link": "https://www.deutschlandfunk.de/thailand-greift-kambodscha-aus-der-luft-an-106.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Thailand hat eigenen Angaben zufolge Luftangriffe gegen das benachbarte Kambodscha geflogen.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kanaren - Erneut Menschen auf Teneriffa von hohen Wellen ins Meer gerissen und ertrunken",
+      "link": "https://www.deutschlandfunk.de/erneut-menschen-auf-teneriffa-von-hohen-wellen-ins-meer-gerissen-und-ertrunken-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "An der Küste von Teneriffa sind drei Menschen von einer Welle ins Meer gerissen worden und ertrunken.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Migration - EU-Innenminister streben Einigung bei Solidaritätsmechanismus an",
+      "link": "https://www.deutschlandfunk.de/eu-innenminister-streben-einigung-bei-solidaritaetsmechanismus-an-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die Innenminister der Europäischen Union kommen heute in Brüssel zusammen, um sich auf die Umsetzung des EU-Asylpakts zu verständigen. Dabei geht es unter anderem um den \"Solidaritätsmechanismus\", der ab dem Sommer die Verteilung von Flüchtlingen innerhalb der EU regeln soll.",
+      "content_length": 276,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Drohnenangriff auf Wohnblock in der Region Sumy",
+      "link": "https://www.deutschlandfunk.de/drohnenangriff-auf-wohnblock-in-der-region-sumy-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "In der Ukraine sind bei neuen russischen Drohnenangriffen mindestens sieben Menschen verletzt worden.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Präsidentin der UNO-Vollversammlung - Baerbock warnt vor ukrainischen Gebietsabtretungen als Teil einer Friedenslösung",
+      "link": "https://www.deutschlandfunk.de/baerbock-warnt-vor-ukrainischen-gebietsabtretungen-als-teil-einer-friedensloesung-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die Präsidentin der UNO-Vollversammlung, Baerbock, hat vor Gebietsabtretungen der Ukraine als Teil einer Friedenslösung gewarnt. Wer Aggression prämiere, werde statt Frieden weitere Kriege ernten, sagte die frühere Bundesaußenministerin der Funke-Mediengruppe.",
+      "content_length": 260,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Friedensnobelpreisträgerin Oleksandra Matwijtschuk fordert Deutschland auf, Russlandpolitik aufzuarbeiten",
+      "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matwijtschuk-fordert-deutschland-auf-russlandpolitik-aufzuarb-106.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die ukrainische Friedensnobelpreisträgerin Oleksandra Matwijtschuk hat Deutschland dazu aufgerufen, Fehler im Umgang mit Russland stärker aufzuarbeiten.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - EVP-Fraktionsvorsitzender Weber fordert rasche Nutzung eingefrorener russischer Gelder für Ukraine",
+      "link": "https://www.deutschlandfunk.de/evp-fraktionsvorsitzender-weber-fordert-rasche-nutzung-eingefrorener-russischer-gelder-fuer-ukraine-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Der Vorsitzende der EVP-Fraktion im Europäischen Parlament, Weber, hat gefordert, mit dem eingefrorenen russischen Vermögen schnellstmöglich die Menschen in der Ukraine zu unterstützen.",
+      "content_length": 185,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - Trump äußert sich \"ein wenig enttäuscht\" über Selenskyj",
+      "link": "https://www.deutschlandfunk.de/trump-aeussert-sich-ein-wenig-enttaeuscht-ueber-selenskyj-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "US-Präsident Trump hat sich kritisch über den ukrainischen Präsidenten Selenskyj geäußert.",
+      "content_length": 90,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesrepublik Deutschland - Haus der Geschichte zeigt nach Umbau neue Dauerausstellung - mehr Raum für Zeit nach Wiedervereinigung",
+      "link": "https://www.deutschlandfunk.de/haus-der-geschichte-zeigt-nach-umbau-neue-dauerausstellung-mehr-raum-fuer-zeit-nach-wiedervereinigun-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Das Haus der Geschichte der Bundesrepublik Deutschland in Bonn eröffnet heute seine neue Dauerausstellung. Sie wurde seit September 2024 komplett umgebaut und überarbeitet, um den Besuchern einen frischen und aktuelleren Blick auf die Geschichte der Bundesrepublik zu geben.",
+      "content_length": 274,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - Fotograf Martin Parr im Alter von 73 Jahren gestorben",
+      "link": "https://www.deutschlandfunk.de/fotograf-martin-parr-im-alter-von-73-jahren-gestorben-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Seine grellen, ironischen, teils bitterbösen Aufnahmen des britischen Lebens machten den Fotografen Martin Parr weltberühmt. Er starb am Samstag im Alter von 73 Jahren im westenglischen Bristol, wie seine Stiftung und die Agentur Magnum Photos mitteilten.",
+      "content_length": 255,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Benin - Ecowas schickt nach Putschversuche militärische Eingreiftruppe",
+      "link": "https://www.deutschlandfunk.de/ecowas-schickt-nach-putschversuche-militaerische-eingreiftruppe-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Nach dem vereitelten Putschversuch in Benin hat die westafrikanische Staatengemeinschaft Ecowas die Entsendung einer militärischen Eingreiftruppe beschlossen.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - 100 entführte Schulkinder in Nigeria offenbar wieder in Freiheit",
+      "link": "https://www.deutschlandfunk.de/100-entfuehrte-schulkinder-in-nigeria-offenbar-wieder-in-freiheit-104.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "In Nigeria sind einem Medienbericht zufolge 100 Schulkinder von ihren Entführern freigelassen worden.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Internationaler Hilfsaufruf - UNO benötigt Gelder zur Rettung von 135 Millionen Menschen",
+      "link": "https://www.deutschlandfunk.de/uno-benoetigt-gelder-zur-rettung-von-135-millionen-menschen-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die Vereinten Nationen haben sich mit einem weltweiten Hilfsappell zur Rettung von Millionen Menschenleben an die Staatengemeinschaft gerichtet.",
+      "content_length": 144,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Appell an Taliban-Regime - UNO in Afghanistan fordert Ende von Zutrittsverbot für Frauen",
+      "link": "https://www.deutschlandfunk.de/uno-in-afghanistan-fordert-ende-von-zutrittsverbot-fuer-frauen-102.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die Vereinten Nationen haben das Taliban-Regime in Afghanistan aufgefordert, Frauen wieder Zutritt zu ihren Büros zu gewähren.",
+      "content_length": 126,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hongkong - Niedrige Beteiligung an Parlamentswahl",
+      "link": "https://www.deutschlandfunk.de/niedrige-beteiligung-an-parlamentswahl-110.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "In der chinesischen Sonderverwaltungszone Hongkong sind Teile des Parlaments gewählt worden.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheitskosten - Chef der Techniker Krankenkasse erwartet höhere Beitragssätze",
+      "link": "https://www.deutschlandfunk.de/chef-der-techniker-krankenkasse-erwartet-hoehere-beitragssaetze-106.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Der Chef der Techniker Krankenkasse, Baas, erwartet für das kommende Jahr steigende Beitragssätze.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schlechter Gebäudezustand - Wasserschaden im Louvre beschädigt hunderte Bücher",
+      "link": "https://www.deutschlandfunk.de/wasserschaden-im-louvre-beschaedigt-hunderte-buecher-104.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Ein Leck in einer Wasserleitung hat im Louvre in Paris Hunderte von Büchern in der Abteilung für ägyptische Altertümer beschädigt.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Streaming - Trump will sich mit Fusion von Netflix und Warner befassen",
+      "link": "https://www.deutschlandfunk.de/trump-will-sich-mit-fusion-von-netflix-und-warner-befassen-100.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "US-Präsident Trump will sich in die Prüfung der geplanten Fusion von Netflix und Warner Brothers Discovery einschalten.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Traditionen - UNESCO berät über Jodeln als Weltkulturerbe",
+      "link": "https://www.deutschlandfunk.de/unesco-beraet-ueber-jodeln-als-weltkulturerbe-106.html",
+      "published": "2025-12-08T07:07:58",
+      "content": "Die UNESCO berät ab heute in Indien über die Anerkennung von 66 Traditionen aus aller Welt als Kulturerbe.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wadephul betont in Peking Bedeutung von fairem Handel",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wadephul-china-102.html",
+      "published": "2025-12-08T07:04:38",
+      "content": "   Ende Oktober platzte der Antrittsbesuch des deutschen Außenministers quasi in letzter Minute, weil es zu wenige hochrangig besetzte Termine gab. Nun ist Wadephul in Peking. Zunächst ging es um Handelsthemen.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ex-Honduran president thanks God – and Trump – for drug-trafficking pardon",
+      "link": "https://www.theguardian.com/us-news/2025/dec/08/ex-honduran-president-juan-orlando-hernandez-trump-pardon",
+      "published": "2025-12-08T07:00:46",
+      "content": "Juan Orlando Hernández thanked the Lord for being ‘a free man’ and then Trump for ‘changing my life’Former Honduras president Juan Orlando Hernández recently thanked God and Donald Trump – in that order – for being pardoned by the latter of a drug trafficking conviction won by federal US prosecutors less than two years earlier.Speaking in a video posted to social media and referring to the US president, Hernández eventually said Trump “changed my life, and I’ll never forget that”. But first he praised God, saying in Spanish, “You saw the injustice and suffering, and in your infinite mercy you helped us.” Continue reading...",
+      "content_length": 631,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Seizure of South Yemen by UAE-backed forces could lead to independence claim",
+      "link": "https://www.theguardian.com/world/2025/dec/08/seizure-south-yemen-uae-backed-forces-could-lead-independence-claim",
+      "published": "2025-12-08T07:00:46",
+      "content": "STC troops now control all eight governorates, a major setback for Emirates’ regional rival Saudi ArabiaThe United Arab Emirates-backed military leadership in South Yemen has seized power across the whole of the south of the country, a move that opens up the possibility that the South will declare independence and revert Yemen to being two states for the first time since 1960.As many as 10,000 troops from the Southern Transitional Council (STC) poured into the oil-rich Hadramaut governorate last week and later into Marah, the less-populated governorate bordering Oman, which had not previously been under its control. Continue reading...",
+      "content_length": 643,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Local authorities in England and Wales warn finances at ‘breaking point’",
+      "link": "https://www.theguardian.com/society/2025/dec/08/local-authorities-england-and-wales-warn-finances-breaking-point",
+      "published": "2025-12-08T07:00:45",
+      "content": "More councils expected to fall into bankruptcy in near future as they face nervous wait over government fundingLocal authorities in England and Wales have warned their finances are at “breaking point” with more councils expected to fall into bankruptcy in future, as they face a nervous wait to discover their government funding this month.Council leaders expect changes to annual funding arrangements will result in steep cuts for many local authorities, preventing many from balancing their books and providing basic services to citizens. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump says Zelenskyy ‘isn’t ready’ to accept US peace deal ahead of UK meeting with European leaders",
+      "link": "https://www.theguardian.com/world/2025/dec/08/ukraine-peace-deal-trump-zelenskyy-not-ready",
+      "published": "2025-12-08T06:54:30",
+      "content": "Ukraine’s president set to meet the leaders of the UK, France and Germany in London on MondaySee all our Ukraine war coverageDonald Trump has said Volodymyr Zelenskyy “isn’t ready” to sign off on a US-authored peace proposal aimed at ending the war between Russia and Ukraine, at the end of three days of talks between Washington and Kyiv in Florida.“I’m a little bit disappointed that President Zelenskyy hasn’t yet read the proposal, that was as of a few hours ago. His people love it, but he hasn’t,” Trump claimed as he spoke with reporters on Sunday night. Continue reading...",
+      "content_length": 581,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australians’ credit card debt at four-year high – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/08/australia-news-live-politics-coalition-housing-policy-liberal-labor-vic-nsw-qld-tasmania-weather-bushfires-economy-education-health-social-media-cost-of-living",
+      "published": "2025-12-08T06:53:09",
+      "content": "This blog is now closed Anika Wells claimed more than $8,500 for family travel to Melbourne during AFL grand final weekends over three yearsGet our breaking news email, free app or daily news podcastAlbanese and Ley respond to tragic firefighter deathThe prime minister, Anthony Albanese, has issued a statement after the death of a firefighter who was battling a blaze at Bulahdelah on the NSW mid-north coast.My heart goes out to the loved ones and colleagues of the firefighter who has tragically lost their life in the Bulahdelah bushfire. All Australians are thinking of you in your time of grief.This terrible news is a sombre reminder of the dangers that our emergency services personnel face to keep our homes and communities safe – and the extraordinary courage that their job demands. We honour that bravery, every day.All Australians are with the firefighter’s family, friends and the team who worked beside him. Our emergency services put themselves in harm’s way to keep Australians safe. Today we mourn this terrible loss. Continue reading...",
+      "content_length": 1056,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Anleger hoffen auf US-Zinssenkung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-geldanlage-fed-zinssenkung-aktienmarkt-100.html",
+      "published": "2025-12-08T06:48:36",
+      "content": "   Warten auf die Fed ist in dieser Woche das Motto an den Börsen. Am Mittwoch wird die US-Notenbank ihre Zinsentscheidung bekannt geben. Sinkende Zinsen könnten der Startschuss für eine Jahresendrally sein.[mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Live: Zelensky to meet European leaders in London after Trump criticism",
+      "link": "https://www.france24.com/en/europe/20251208-live-zelensky-to-meet-european-leaders-in-london-after-trump-criticism",
+      "published": "2025-12-08T06:33:38",
+      "content": "Ukrainian President Volodymyr Zelensky is due to meet European leaders in London on Monday, following tensions with the US over a peace proposal to end the war with Russia. The talks come after a week of inconclusive negotiations in Miami while Moscow's strikes on Ukraine continue. Follow our liveblog for the latest developments.",
+      "content_length": 331,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong sees near-record low election turnout amid discontent over apartment fire",
+      "link": "https://www.theguardian.com/world/2025/dec/08/hong-kong-election-low-turnout-discontent-apartment-fire",
+      "published": "2025-12-08T06:33:36",
+      "content": "Sunday’s ‘patriots only’ Legislative Council elections took place in the shadow of the Tai Po fire that killed at least 159 peopleHong Kong saw a near-record low turnout in Sunday’s “patriots only” Legislative Council elections, with fewer than 32% of voters turning out, as the number of registered voters fell for the fourth consecutive year.At 31.9%, Sunday’s turnout is marginally higher than 2021’s record low of 30.2%. But fewer people overall voted this year: 1.3 million compared to 1.4 million in 2021. Hong Kong’s population is about 7.5 million. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "F1: Lando Norris claims first world champion title in Abu Dhabi",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251208-f1-lando-norris-claims-first-world-champion-title-in-abu-dhabi",
+      "published": "2025-12-08T06:28:43",
+      "content": "Lando Norris (McLaren) finished third in the Abu Dhabi Grand Prix. He was crowned world champion with a two point lead over Max Verstappen (Red Bull).",
+      "content_length": 150,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Millionenstrafe gegen X: Musk fordert Abschaffung der EU, Account wird gesperrt",
+      "link": "https://www.heise.de/news/Millionenstrafe-gegen-X-Musk-fordert-Abschaffung-der-EU-Account-wird-gesperrt-11105798.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-08T06:05:00",
+      "content": "Die Reaktionen auf eine moderate Geldstrafe gegen X sind harsch, der US-Außenminister spricht gar von einem „Angriff“. Die Plattform selbst reagiert unerwartet.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Syria to commemorate one year since Assad's toppling",
+      "link": "https://www.france24.com/en/middle-east/20251208-syria-to-commemorate-one-year-since-assad-s-toppling",
+      "published": "2025-12-08T06:04:28",
+      "content": "As Syria prepares to mark the first anniversary of Bashar al-Assad’s overthrow on Monday, the war-scarred nation finds itself celebrating a dramatic political shift even as it struggles with deep fractures, sporadic violence and the daunting task of rebuilding after more than a decade of conflict.",
+      "content_length": 298,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Rights groups warn against UK plans to weaken torture protections in ECHR",
+      "link": "https://www.theguardian.com/law/2025/dec/08/rights-groups-warn-uk-weaken-torture-protections-echr",
+      "published": "2025-12-08T06:00:44",
+      "content": "Exclusive: Ministers face pushback over potential changes to asylum seekers’ rights before Council of Europe meetingHuman rights groups have warned UK ministers against weakening protections against torture or other mistreatment for asylum seekers before a crucial European summit this week on how to respond to migration.David Lammy, the justice secretary, is expected to help lead arguments at the Council of Europe meeting on Wednesday on how the European convention on human rights (ECHR) could be reinterpreted to limit the scope of rights under article 3, which prohibits torture and “inhuman or degrading treatment”. Continue reading...",
+      "content_length": 643,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Zombie’ electricity projects in Britain face axe to ease quicker grid connections",
+      "link": "https://www.theguardian.com/business/2025/dec/08/zombie-electricity-projects-britain-face-axe-grid-connections-net-zero",
+      "published": "2025-12-08T06:00:44",
+      "content": "Backlog delaying ‘shovel-ready’ ventures will be cleared with aim of building virtually zero-carbon power system by 2030Britain’s energy system operator is pulling the plug on hundreds of electricity generation projects to clear a huge backlog that is stopping “shovel-ready” schemes from connecting to the power grid.Developers will be told on Monday whether their plans will be dismissed by the National Energy System Operator (Neso) – or whether they will be prioritised to connect by either the end of the decade or 2035. Continue reading...",
+      "content_length": 545,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Barnaby Joyce joins One Nation as sitting MP with promise of future Senate ticket",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/08/barnaby-joyce-joins-one-nation-pauline-hanson",
+      "published": "2025-12-08T05:35:07",
+      "content": "Former Nationals leader and ex-deputy prime minister confirms long-awaited move on MondayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBarnaby Joyce says he is “philosophically aligned” with One Nation after finalising his long-anticipated move to Pauline Hanson’s rightwing party.Joyce completed his defection from the Nationals on Monday, appearing with “fellow traveller” Hanson to confirm he would sit as a One Nation MP for the remainder of the term. He would lead the party’s New South Wales Senate ticket at the next federal election. Continue reading...",
+      "content_length": 628,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Linguists start compiling first ever complete dictionary of ancient Celtic",
+      "link": "https://www.theguardian.com/science/2025/dec/08/linguists-start-compiling-first-ever-complete-dictionary-of-ancient-celtic",
+      "published": "2025-12-08T05:00:44",
+      "content": "More than 1,000 words used as far back as 325BC to be collected for insight into past linguistic landscapeIt is not likely to be a hefty volume because the vast majority of the material has been lost in the mists of time. But the remnants of a language spoken in parts of the UK and Ireland 2,000 years ago are being collected for what is being billed as the first complete dictionary of ancient Celtic.The dictionary will not be huge because relatively few words survive, but experts from Aberystwyth University say they expect they will end up with more than 1,000 words. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "A year after fall of Assad, a divided Syria struggles to escape cycle of violence",
+      "link": "https://www.theguardian.com/world/2025/dec/08/stalled-justice-violence-syria-assad-one-year-on",
+      "published": "2025-12-08T05:00:43",
+      "content": "While country’s return to global stage has filled many Syrians with pride, domestically old grievances threaten efforts to rebuild the stateLying in bed recovering after his latest surgery, Ayman Ali retells the story of Syria’s revolution through his wounds. His right eye, lost in an attack on a rebel observation post he was manning in 2012, is covered by yellow medical tape. Propped against the wall is a cane he uses to walk, after a rocket attack in 2014 left him with a limp.For 14 years, Ali dreamed of freedom and of justice. A year after the ousting of Bashar al-Assad, he has his freedom but not his justice. The man he was dreaming of holding accountable – a member of his extended family who was a part of an Assad militia – had already fled the country by the time Ali returned to his home in Damascus. Continue reading...",
+      "content_length": 837,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rules on single-sex spaces pose risk to trans people’s mental health, UK charities say",
+      "link": "https://www.theguardian.com/society/2025/dec/08/single-sex-spaces-trans-nonbinary-mental-health-charities",
+      "published": "2025-12-08T05:00:43",
+      "content": "Fifteen organisations sign letter expressing deep concern over EHRC guidance being considered by ministersNew rules on access to single-sex spaces could pose a significant risk to the mental health of trans and non-binary people, according to 15 of the UK’s most respected mental charities.Organisations including Samaritans, Mind, Centre for Mental Health and the Royal College of Psychiatrists have written to the equalities minister, Bridget Phillipson, to express their “deep concern” about guidance from the Equality and Human Rights Commission (EHRC) that is awaiting approval from the government. Continue reading...",
+      "content_length": 623,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘I’d defend our nation’: Poles prepare for growing threat of war",
+      "link": "https://www.theguardian.com/world/ng-interactive/2025/dec/08/id-defend-our-nation-poles-prepare-for-growing-threat-of-war",
+      "published": "2025-12-08T05:00:42",
+      "content": "From digging trenches and building walls, to learning survival skills, Poland is increasingly aware of risks posed by its eastern neighboursCezary Pruszko still remembers the civil defence training of his Communist-era schooldays – map reading, survival skills, and a sense that the danger of war was real and ever present.“My generation grew up with those threats. You didn’t have to explain why this mattered,” said the 60-year-old Pruszko, as he refreshed those skills at an army base outside Warsaw on a recent frosty Saturday morning. With dozens of other Polish civilians, he toured a bomb shelter, fitted gas masks and practised striking sparks from a flint to start a fire. Continue reading...",
+      "content_length": 701,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Portrait of a man’, who was 18th-century Corsican independence leader, goes on sale",
+      "link": "https://www.theguardian.com/artanddesign/2025/dec/08/portrait-of-a-man-18th-century-corsican-independence-leader-sale",
+      "published": "2025-12-08T05:00:42",
+      "content": "Painting of Enlightenment figure, whose constitution for the island inspired revolutionaries in US, is up for auctionThirty years ago, a painting by the British artist Sir William Beechey was sold as “portrait of a man”.The anonymous buyer, however, knew precisely who the unnamed man in the picture was: Pascal Paoli, the 18th-century Corsican independence leader and icon of the Enlightenment. Continue reading...",
+      "content_length": 415,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Benin on edge after loyalist troops foil attempted coup",
+      "link": "https://www.france24.com/en/africa/20251208-live-benin-on-edge-after-loyalist-troops-foil-attempted-coup",
+      "published": "2025-12-08T04:37:40",
+      "content": "A group of soldiers announced Sunday morning on Benin state television the dissolution of the government of President Patrice Talon in an apparent coup, which would have been the latest of many in West Africa. Later, Interior Minister Alassane Seidou said in a video on Facebook that the attempted coup had been “foiled\". Follow our liveblog for the latest developments.",
+      "content_length": 370,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Japan PM vows ‘resolute’ response after Chinese aircraft accused of locking radar on to Japanese fighter jets",
+      "link": "https://www.theguardian.com/world/2025/dec/08/japan-china-radar-fighter-jets-claims",
+      "published": "2025-12-08T04:14:44",
+      "content": "China’s ambassador summoned over alleged weekend incident that saw Chinese J-15 fighter aircraft twice train their radar on Japanese F-15sThe diplomatic dispute between Japan and China appeared to deepen over the weekend after Chinese military planes were accused of locking their radar on to Japanese fighter jets near the Okinawa islands.Japan’s prime minister, Sanae Takaichi, vowed to “respond calmly and resolutely” to the alleged incident, saying her country would take all possible measures to strengthen maritime and airspace surveillance and closely monitor Chinese military activities. The country’s foreign ministry also summoned China’s ambassador on Sunday. China’s government has roundly rejected Japan’s accusations, instead lodging its own counterprotests. Continue reading...",
+      "content_length": 792,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Troubled youth prison unit should be closed urgently after Indigenous teenager Cleveland Dodd’s death: coroner",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/08/indigenous-teenager-cleveland-dodd-death-coroner",
+      "published": "2025-12-08T03:50:38",
+      "content": "16-year-old’s death was caused by longstanding failures in the justice system, coroner Phil Urquhart findsWarning: This article contains references to an Indigenous Australian who has diedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe coroner investigating the death of Indigenous teenager Cleveland Dodd has called for the youth detention unit he was held in to be closed and investigated, after finding that his death was caused by longstanding failures in the justice system.Cleveland was found unresponsive inside a cell in the trouble-plagued Unit 18, a youth wing of the Casuarina high-security adult prison, south of Perth, in the early hours of 12 October 2023. Continue reading...",
+      "content_length": 759,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand launches airstrikes along disputed border with Cambodia as tensions flare",
+      "link": "https://www.theguardian.com/world/2025/dec/08/thailand-airstrikes-disputed-border-cambodia",
+      "published": "2025-12-08T03:28:57",
+      "content": "Escalation comes after Thai soldier was killed and four others wounded in clashes, more than a month after Donald Trump oversaw ceasefire agreementThailand has launched airstrikes along its disputed border with Cambodia, after both countries accused one another of breaching a ceasefire deal brokered by Donald Trump.Thailand’s military said airstrikes were launched after at least one of its soldiers was killed and four others wounded in clashes along the countries’ tense border on Monday morning. Thailand’s air force said it was using aircraft to strike military targets in several areas, accusing Cambodia of mobilising heavy weaponry and repositioning combat units. Continue reading...",
+      "content_length": 692,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand launches air raids on Cambodia as disputed border clashes intensify",
+      "link": "https://www.france24.com/en/asia-pacific/20251208-thailand-air-strikes-cambodian-military-army",
+      "published": "2025-12-08T03:14:19",
+      "content": "Thailand launched air strikes on Cambodian positions Monday after Cambodian troops opened fire along a disputed border, killing one Thai soldier, the Thai army said. Both sides traded blame for the clash, which erupted in Thailand’s Ubon Ratchathani province and left four additional Thai soldiers wounded, a spokesman said.",
+      "content_length": 324,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Deutsche Politiker besorgt wegen US-Sicherheitsstrategie",
+      "link": "https://www.tagesschau.de/ausland/europa/us-sicherheitsstrategie-reaktionen-100.html",
+      "published": "2025-12-08T03:07:48",
+      "content": "   Mehrere deutsche Politiker haben besorgt auf die neue US-Sicherheitsstrategie reagiert. Sie werten sie als deutliches Zeichen einer Abkehr von Europa. Der CDU-Politiker Röttgen sprach von einer \"zweiten Zeitenwende\".[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU set to tighten migration rules with plan for offshore ‘return hubs’",
+      "link": "https://www.france24.com/en/europe/20251208-eu-migration-return-hubs",
+      "published": "2025-12-08T02:53:19",
+      "content": "EU states are expected on Monday to back tougher migration rules, including plans for “return hubs” outside the bloc, as governments seek to blunt far-right gains. Interior ministers in Brussels will vote on proposals to tighten controls on migrant arrivals and accelerate returns, the first test of measures issued this year.",
+      "content_length": 326,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj trifft Merz, Macron und Starmer in London",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-london-106.html",
+      "published": "2025-12-08T02:22:22",
+      "content": "   Wie ist der Stand in Sachen US-Plan für die Ukraine? Darüber berät Präsident Selenskyj heute in London mit europäischen Verbündeten. Gespräche mit US-Vertreten in den vergangenen Tagen nannte er konstruktiv, aber nicht einfach.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Katy Perry and Justin Trudeau make their relationship Instagram official",
+      "link": "https://www.theguardian.com/world/2025/dec/08/katy-perry-justin-trudeau-instagram-relationship-official",
+      "published": "2025-12-08T02:10:56",
+      "content": "The singer posted a photo of the pair smiling cheek to cheek and a video of them eating sushi together while in JapanKaty Perry and Justin Trudeau have launched their relationship on Instagram, after the singer posted a photo of the pair smiling cheek to cheek and a video of them eating sushi together while in Japan.Perry’s post appeared to confirm the pair are in a relationship, after months of speculation about a possible romance between her and the former Canadian prime minister. Continue reading...",
+      "content_length": 507,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UN report sounds alarm over Māori rights in New Zealand",
+      "link": "https://www.theguardian.com/world/2025/dec/08/un-cerd-report-maori-rights-new-zealand",
+      "published": "2025-12-08T02:10:32",
+      "content": "UN committee raised concerns over government policies including scrapping the Māori Health Authority and funding cuts for Indigenous servicesA United Nations committee has warned New Zealand is at serious risk of weakening Māori rights and entrenching disparities for the Indigenous population, in its most critical review of the country’s record on racial discrimination.Last month, the UN’s committee for the convention on the elimination of all forms of racial discrimination (CERD) examined New Zealand’s record as part of its eight year review cycle for signatories to the convention. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump says Zelensky ‘isn’t ready’ to approve US peace plan to end Russia-Ukraine war",
+      "link": "https://www.france24.com/en/americas/20251208-trump-zelensky-peace-proposal",
+      "published": "2025-12-08T01:49:45",
+      "content": "US President Donald Trump said on Sunday he was “a little bit disappointed” that Ukrainian President Volodymyr Zelensky had not engaged with a US proposal to end the war with Russia, after days of talks ended without a breakthrough though Kyiv pledged to pursue further negotiations.",
+      "content_length": 283,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "You need to watch the modern horror masterpiece, His House",
+      "link": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
+      "published": "2025-12-08T01:45:45",
+      "content": "\n\n\n\t\n\t\t\n\nThere's an argument to be made that \"the real monster is trauma\" has become an overused trope in modern horror. Hereditary, The Babadook, and, much less effectively, Smile, are just a few higher-profile examples. But, if you ask me, few films have deployed this trope quite as effectively as the 2020 film His House.\nThe film follows Bol and Rial, refugees from South Sudan, played by Sope Dirisu and Wunmi Mosaku. Both deliver the kind of incredible performances that you rarely see in a genre film like this. It's part of what elevates His House above the standard \"haunted by trauma\" fare. Mosaku, in particular, shows the sort of nuance and scr …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Three NSW men convicted of gang raping teenagers during bucks party successfully overturn convictions",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/08/three-men-convicted-gang-raping-teenagers-bucks-party-overturn-convictions",
+      "published": "2025-12-08T01:33:05",
+      "content": "Two of the men will face retrial while third has been acquitted after successfully arguing trial judge erred in directions to juryFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTwo men jailed for gang raping three teenagers during a bucks party weekend will face a retrial and a third has been acquitted after winning appeals against their convictions.Maurice Hawell, 31, his younger brother Marius, 24, and Andrew David, 31, were all found guilty of sexually assaulting three women in 2024 after a joint trial lasting almost four weeks. Continue reading...",
+      "content_length": 623,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anika Wells claimed more than $8,500 for family travel to Melbourne during AFL grand final weekends over three years",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/08/anika-wells-claimed-more-than-8500-for-family-travel-to-melbourne-during-afl-grand-final-weekends-three-years-in-a-row",
+      "published": "2025-12-08T01:21:51",
+      "content": "Exclusive: Labor’s minister for communications and sport has stood by her use of family travel expenses as within the rulesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnika Wells claimed more than $8,500 in family travel expenses to Melbourne during AFL grand final weekends in 2022, 2023 and 2024, when she received free suite tickets to the matches.The minister for communications and sport has stood by her use of family travel expenses as within the rules, but the Coalition opposition is demanding reforms to expense rules and an inquiry into Wells’ spending by the independent parliamentary expenses authority (IPEA), which tracks and reports politicians’ spending on travel and office expenses. Continue reading...",
+      "content_length": 790,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Drei Menschen nach hohem Wellengang vor Teneriffa ertrunken",
+      "link": "https://www.tagesschau.de/ausland/europa/teneriffa-riesenwelle-100.html",
+      "published": "2025-12-08T01:11:00",
+      "content": "   Erst vor einem Monat waren mehrere Menschen auf Teneriffa ums Leben gekommen, weil sie von extrem großen Wellen ins Meer gerissen wurden. Nun hat sich dort erneut ein solches Unglück ereignet. Drei Menschen starben.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump takes spotlight as Kennedy Center Honors recognizes artists",
+      "link": "https://www.theguardian.com/us-news/2025/dec/07/trump-kennedy-center-honors",
+      "published": "2025-12-08T00:55:51",
+      "content": "President hosts awards program, mixing politics with a celebration of stars from music and filmPresident Donald Trump solidified his takeover of Washington’s John F Kennedy Center for the Performing Arts on Sunday by hosting its flagship awards program – a presidential first – mixing politics with a celebration of stars from music and film.This year’s Kennedy Center Honors, widely seen as the top US recognition for lifetime achievement in the performing arts, feted actor Sylvester Stallone, disco singer Gloria Gaynor, country musician George Strait, Phantom of the Opera star Michael Crawford and rock band Kiss. Continue reading...",
+      "content_length": 638,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Republicans in Congress mocked Trump privately, Marjorie Taylor Greene says",
+      "link": "https://www.theguardian.com/us-news/2025/dec/07/congress-republicans-tease-trump-marjorie-taylor-greene",
+      "published": "2025-12-08T00:12:13",
+      "content": "Georgia lawmaker says colleagues who made fun of president before 2024 win now support him out of fearRepublicans in Congress privately made fun of Donald Trump only to come around to support him when he won their party’s 2024 White House nomination, outgoing GOP House member Marjorie Taylor Greene said on Sunday.“I watched many of my colleagues go from making fun of him, making fun of how he talks, making fun of me constantly for supporting him, to when he won the primary in 2024, they all started – excuse my language, Lesley – kissing his ass,” Greene, a Georgia Republican, said in a clip of an interview that is set to air on Sunday on CBS’s 60 Minutes program. Continue reading...",
+      "content_length": 691,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK asylum policy causes more violence and deaths, say rights groups",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/08/uk-asylum-policy-causes-more-violence-and-deaths-say-rights-groups",
+      "published": "2025-12-08T00:01:34",
+      "content": "Home Office drive to stop small boats crossing Channel is handing more power to people smugglers, report findsThe UK’s policy to stop asylum seekers from crossing the Channel in small boats has led to an increase in violence, deaths and smuggler control, but has not deterred arrivals, according to a report by human rights organisations.The 176-page report from Humans for Rights Network, includes contributions from 17 refugee and human rights organisations operating in northern France and six in the UK. Continue reading...",
+      "content_length": 527,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Britischer Fotograf Martin Parr mit 73 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/fotograf-martin-parr-gestorben-100.html",
+      "published": "2025-12-07T23:12:09",
+      "content": "   Mit seinen farbenfrohen und oft humorvollen Strandbildern von britischen Touristen wurde er berühmt. Jetzt ist der englische Fotograf Martin Parr im Alter von 73 Jahren in seiner Heimatstadt Bristol gestorben. [mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Geringe Beteiligung an Parlamentswahl in Hongkong",
+      "link": "https://www.tagesschau.de/ausland/asien/hongkong-parlamentswahl-wahlbeteiligung-100.html",
+      "published": "2025-12-07T22:59:09",
+      "content": "   An der Parlamentswahl in Hongkong hat nach offiziellen Angaben nur knapp ein Drittel der Wahlberechtigten teilgenommen. Nach der Brandkatastrophe hatten viele eine Verschiebung gefordert. Zugelassen waren nur Peking-treue Kandidaten.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Netflix CEO made a visit to the White House before buying Warner Bros.",
+      "link": "https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros",
+      "published": "2025-12-07T22:34:20",
+      "content": "\n\n\n\t\n\t\t\n\nIn November, Ted Sarandos, Netflix’s co-CEO made a trip to the White House for a lengthy meeting with Donald Trump. According to Bloomberg, the two discussed a number of topics, but chief among them was Netflix’s plan to bid on Warner Bros. At the end of their conversation, Sardonos felt that “Netflix wouldn’t face immediate opposition from the White House.”\n\nThis week, Netflix successfully won the bidding war for Warner, offering $82.7 billion. It’s well known that Paramount and its CEO David Ellison were eager to acquire the storied studio and its streaming assets. Ellison and his father, Larry Ellison, have close ties to the White House, and as part of their pitch to Warner, suggested that only they were in a position to overcome the regulatory hurdles of further media consolidation. \n\nSarandos seems to have rightly believed that the Ellisons overestimated their political clout. And despite some public efforts to turn the White House against the deal, Netflix won out, for now. There is of course, still a chance that Paramount could launch a hostile takeover effort, or that the Justice Department could try and scuttle the deal — nothing is guaranteed yet. \n\nSarandos tried to acquire Paramount before David Ellison swooped in, so snatching Warner Bros. out from under his nose is likely something of a personal victory.",
+      "content_length": 1348,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nigeria secures release of 100 kidnapped schoolchildren as 165 remain missing",
+      "link": "https://www.france24.com/en/africa/20251207-nigeria-100-abducted-schoolchildren",
+      "published": "2025-12-07T22:30:24",
+      "content": "Nigerian authorities have secured the release of 100 schoolchildren abducted by gunmen from a Catholic school last month, a UN source and local media said on Sunday. The fate of about 165 remaining students and staff is unclear, with officials providing no updates on ongoing rescue efforts.",
+      "content_length": 291,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nigerian state secures release of 100 out of 265 kidnapped schoolchildren",
+      "link": "https://www.theguardian.com/world/2025/dec/07/release-secured-of-100-kidnapped-nigerian-schoolchildren-but-many-still-being-held",
+      "published": "2025-12-07T21:51:16",
+      "content": "Gunmen abducted 315 pupils and staff last month from St Mary’s school in Niger state as part of spate of kidnappingsNigerian authorities have secured the release of 100 kidnapped schoolchildren taken by gunmen from a Catholic school last month, a UN source and local media said on Sunday, though the fate of another 165 students and staff thought to remain in captivity remained unclear.In November 315 students and staff were kidnapped from St Mary’s co-educational boarding school in north-central Niger state, as the country buckled under a wave of mass abductions reminiscent of the infamous 2014 Boko Haram abduction of schoolgirls in Chibok. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ilhan Omar says Trump’s anti-Somali tirade ‘completely disgusting’",
+      "link": "https://www.theguardian.com/us-news/2025/dec/07/ilhan-omar-trump-anti-somali-tirade-disgusting",
+      "published": "2025-12-07T21:35:11",
+      "content": "Minnesota representative says ‘hateful rhetoric’ can lead to ‘dangerous actions by people who listen to the president’US House member Ilhan Omar on Sunday defended the Somali community in her Minnesota congressional district, saying it was “completely disgusting” when Donald Trump recently referred to them as garbage.“These are Americans that he is calling ‘garbage,’” Omar, a Somalia-born Democrat, said while responding to the president’s remarks on CBS’s Face the Nation. “I think it is also really important for us to remember that this kind of hateful rhetoric – and this level of dehumanizing – can lead to dangerous actions by people who listen to the president.” Continue reading...",
+      "content_length": 692,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'If there's a coup, then ECOWAS will be willing to step in': West Africa bloc orders troops to Benin",
+      "link": "https://www.france24.com/en/video/20251207-if-there-s-a-coup-then-ecowas-will-be-willing-to-step-in-west-africa-bloc-orders-troops-to-benin",
+      "published": "2025-12-07T21:18:35",
+      "content": "The ECOWAS West Africa regional bloc on Sunday ordered the deployment of troops from four countries to Benin following an attempted coup. FRANCE 24's Nigeria correspondent Sam Olukoya gives his analysis on the signal that ECOWAS is sending to other countries across a part of Africa increasingly prone to military putsches.",
+      "content_length": 323,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "X cuts off the European Commission’s ad account after being fined €120 million",
+      "link": "https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account",
+      "published": "2025-12-07T20:52:37",
+      "content": "\n\n\n\t\n\t\t\n\nFriday, the EU slapped X with a €120 million fine (about $140 million) for violating the Digital Services Act (DSA). It was the first time that a company had been hit with a penalty for running afoul of the law. Elon Musk responded with his trademark tact and professionalism by posting “Bullshit” on X in response to the announcement from the European Commission. But that wasn’t the end, because just a day later Nikita Bier, X&#8217;s head of product, accused the Commission of abusing an exploit to boost the reach of the announcement and responded by shutting down its ad account. \n\nAccording to Bier, the Commission had not used its ad account since 2021, but used a post format explicitly reserved for ads in its announcement of the fine against X. He claims that the Commission posted “a link that deceives users into thinking it’s a video and to artificially increase its reach.” (For the record, the post itself includes a video.)\n\nThe seemingly retaliatory revocation of the European Commission’s ad account is unlikely to materially change things for either X or the EU. If, as Bier claims, the Commission has not used its ad account since 2021, holding it hostage is unlikely to give X any leverage. And, while it can appeal the decision, X is currently still on the hook for the sizable fine. Plus, it must provide details for how it plans to address the “deceptive” use of verified checkmarks in the next 60 days, or face additional penalties.\n\nWe’ve reached out to the Commission for comment and will update if we hear back.",
+      "content_length": 1549,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Troops and warplanes deployed in Benin after ‘failed coup attempt’",
+      "link": "https://www.theguardian.com/world/2025/dec/07/troops-and-warplanes-deployed-in-benin-after-failed-coup-attempt",
+      "published": "2025-12-07T20:50:54",
+      "content": "West African Ecowas forces sent to country after group of soldiers announced dissolution of government on state TVWest African troops were deployed to Benin on Sunday after what the country’s president described as an unsuccessful coup attempt.Benin’s president, Patrice Talon, said on Sunday that the situation was “totally under control” after security forces acted to end a coup attempt by a group of soldiers who attacked state institutions. Continue reading...",
+      "content_length": 465,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Democrats urge Pentagon to release video of strike on alleged drug boat",
+      "link": "https://www.theguardian.com/us-news/2025/dec/07/democrats-trump-caribbean-drug-boat-strike-video",
+      "published": "2025-12-07T20:08:00",
+      "content": "Trump team faces mounting pressure as members of Congress allege that the deadly attack was unlawfulUS Democrats on Sunday pushed the Trump administration to release video of a second strike on an alleged drug boat incapacitated in the Caribbean, continuing to escalate pressure on the Pentagon amid accusations the attack was unlawful.Eleven people died in the 2 September attack, including two men killed in a follow-up strike as they reportedly clung to wreckage for an hour. That killing has been met with intense scrutiny and accusations of war crimes after the Washington Post reported defense secretary Pete Hegseth gave an order to “kill them all”. Adm Frank Bradley of the US navy, who oversaw the attack, told lawmakers on Thursday there was no such order – and the Pentagon has defended the legality of the attack. Continue reading...",
+      "content_length": 845,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Detained Georgia veteran deserves to stay in US after serving country, fiancee says",
+      "link": "https://www.theguardian.com/us-news/2025/dec/07/georgia-veteran-detained-ice",
+      "published": "2025-12-07T20:00:30",
+      "content": "Jamaican-born US army veteran faces deportation as more non-US citizen military members are swept up by ICE raidsThe fiancee of a Jamaican-born, decorated US army veteran who is now facing deportation under the Trump administration says she hopes his story might inspire legislative action to restore immigration protections for former military members.“If you served this country, you deserve a chance to stay in this country,” said April Watkins, who is engaged to Godfrey Wade, one of tens of thousands who have been put in immigration detention under Donald Trump’s second presidency. “That is the hope for not only him but for any veteran who sits in a detention center. Look at their service that they gave this country and take that into consideration.” Continue reading...",
+      "content_length": 780,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Chef der Techniker Krankenkasse: Krankenkassenbeiträge werden 2026 wohl steigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitssystem-krankenkassenbeitraege-baas-100.html",
+      "published": "2025-12-07T19:43:32",
+      "content": "   Die Bundesregierung will die Krankenkassenbeiträge eigentlich stabil halten. Doch der Chef von Deutschlands größter Krankenkasse warnt im Bericht aus Berlin: Gesetzlich Versicherte müssten sich schon bald auf höhere Beiträge einstellen.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bas offen für Kopplung des Renteneintrittsalters an Beitragsjahre",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/renteneintrittsalter-bas-100.html",
+      "published": "2025-12-07T19:02:55",
+      "content": "   Nicht nach Alter, sondern nach Anzahl der Beitragsjahre über den Renteneintritt entscheiden - im Bericht aus Berlin äußerte Arbeitsministerin Bas Sympathie für die Idee. Für Akademiker könnte dies ein späterer Renteneintritt bedeuten. [mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "TikTok in Frankreich: Die Politik erhöht den Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tiktok-100.html",
+      "published": "2025-12-07T18:09:41",
+      "content": "   \"Zerstörerisch\", so beschreibt ein Untersuchungsausschuss der französischen Nationalversammlung die Wirkung, die TikTok auf Jugendliche haben kann. Auch deshalb diskutiert Frankreich über ein Verbot für unter 15-Jährige. Von Carolyn Dylla.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong votes in legislative elections following deadliest fire in decades",
+      "link": "https://www.france24.com/en/asia-pacific/20251207-hong-kong-votes-in-legislative-elections-following-deadliest-fire-in-decades",
+      "published": "2025-12-07T18:08:03",
+      "content": "Turnout in Hong Kong's legislative elections on Sunday rose slightly to 31.9 percent, official data showed. Beijing's sweeping changes to Hong Kong's electoral system in 2021 following massive and sometimes violent protests have seen fewer people turning out to vote in the Chinese territories elections.",
+      "content_length": 304,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Water leak in the Louvre damages hundreds of works, museum says",
+      "link": "https://www.theguardian.com/world/2025/dec/07/water-leak-in-the-louvre-damages-hundreds-of-works-museum-says",
+      "published": "2025-12-07T17:37:22",
+      "content": "Open valve in heating system affects 300 to 400 items just weeks after a brazen jewel theft raised security concernsA water leak in late November damaged several hundred works in the Louvre’s Egyptian department, the Paris museum said on Sunday, weeks after a brazen jewel theft raised concerns over its infrastructure.“Between 300 and 400 works” were affected by the leak discovered on 26 November, the museum’s deputy administrator, Francis Steinbock, said, describing them as “Egyptology journals” and “scientific documentation” used by researchers. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bundeskanzler Merz in Israel: Ein Besuch als Balanceakt",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-antrittsbesuch-merz-netanjahu-fazit-100.html",
+      "published": "2025-12-07T17:17:13",
+      "content": "   Bundeskanzler Merz unterstreicht bei seinem Besuch in Jerusalem die besondere Beziehung mit Israel. Er spricht aber auch von einem deutschen Dilemma. Das wird beim Termin mit Premier Netanjahu deutlich. Von Bettina Meier.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wagenknecht auf BSW-Parteitag: Applaus und Widerworte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-magdeburg-wagenknecht-102.html",
+      "published": "2025-12-07T17:05:52",
+      "content": "   Sahra Wagenknecht ist auf dem BSW-Parteitag in Magdeburg noch immer ein Magnet für ihre Anhänger. Aber die Parteigründerin muss auch Widerworte ertragen. Wohin steuert das BSW? Von Bianca Schwarz.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Merz trifft Netanjahu - vereint und doch uneins",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-antrittsbesuch-merz-netanjahu-jerusalem-100.html",
+      "published": "2025-12-07T16:46:28",
+      "content": "   Bei seinem Besuch in Israel hat Kanzler Merz seine Zuversicht betont - und Premier Netanjahu in die Pflicht genommen. Der zeichnete eine andere Vorstellung davon, wie ein Frieden in der Region aussehen soll. [mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Benin: the government declares coup attempt has been 'foiled'",
+      "link": "https://www.france24.com/en/video/20251207-benin-the-government-declares-coup-attempt-has-been-foiled",
+      "published": "2025-12-07T16:27:21",
+      "content": "A coup that was announced in Benin on Sunday has been \"foiled\", the interior minister said in a video on Facebook. Earlier, a group of soldiers had appeared on Benin ’s state TV to announce the dissolution of the government in an apparent coup, the latest of many in West Africa. Details and analysis by FRANCE 24 international affairs editor, Kethevane Gorjestani.",
+      "content_length": 365,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Benin: Government says fourteen people arrested over coup attempt",
+      "link": "https://www.france24.com/en/video/20251207-benin-government-says-fourteen-people-arrested-over-coup-attempt",
+      "published": "2025-12-07T16:25:58",
+      "content": "Fourteen people have been arrested in connection with an attempted coup in Benin, a government spokesperson told Reuters on Sunday. Earlier in the day, a group of soldiers in the West African nation claimed on national television that they had seized power. Analysis by Berverly Ochieng, senior analyst at Control Risk's Global Risk Analysis in Dakar, Senegal.",
+      "content_length": 360,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Disarming Hamas should not be first task of Gaza stabilisation force, Turkey says",
+      "link": "https://www.theguardian.com/world/2025/dec/07/disarming-hamas-should-not-first-task-gaza-stabilisation-force-turkey-says",
+      "published": "2025-12-07T16:13:30",
+      "content": "Ankara’s foreign minister suggests international partners should start by separating Israeli troops from Hamas The international stabilisation force (ISF) in Gaza should make its priority the separation of Israeli troops and Hamas rather than the disarmament of the Palestinian group, the Turkish foreign minister, Hakan Fidan, has said.He also suggested that Indonesia and Azerbaijan, two countries that have offered to contribute troops, would prefer that Turkey was a member of the planned UN-backed force, something Israel is seeking to veto. Continue reading...",
+      "content_length": 566,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Betrug bei der Geldanlage: \"Banken werben nicht in WhatsApp-Gruppen\"",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/geldanlage-boersentipps-fake-100.html",
+      "published": "2025-12-07T15:23:25",
+      "content": "   Online-Betrüger geben sich immer häufiger als Banken und Sparkassen aus. In WhatsApp-Gruppen versprechen sie die Chance aufs große Geld und zocken ihre Opfer ab. Polizei und Verbraucherschützer warnen. Von J. Bartlitz und P. Rothkranz.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong heads to the polls for legislative elections after deadly fire",
+      "link": "https://www.france24.com/en/video/20251207-hong-kong-heads-to-the-polls-for-legislative-elections-after-deadly-fire",
+      "published": "2025-12-07T15:04:14",
+      "content": "Hong Kong voters trickled into polling stations on Sunday to choose new lawmakers under Beijing's \"patriots only\" rules, with some urging candidates to help with government relief efforts after the city's deadliest fire in decades. Analysis by Kerry Brown, professor of Chinese Studies and idrector at the Lau China Institute at King's college, London.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A very human vision for going all-in on AI",
+      "link": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
+      "published": "2025-12-07T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt's easy to think about AI as a sort of existential battle between human and machine. Maybe it will be, someday, in a Skynet sort of way. But there are also lots of people trying to figure out how to use AI not as a replacement for human creativity and thinking but as a tool meant to augment those things.\nSari Azout is one of those people. She's the founder of Sublime, a platform dedicated to curation, creativity, and ideas. Sublime is all about taste, which makes it slightly surprising that there's a huge amount of AI powering the way it works. But to Azout, it all makes sense.\n\nSubscribe: Spotify | Apple Podcasts | Overcast | Pocket Ca …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "France: a year of renewal for Paris' Notre-Dame cathedral",
+      "link": "https://www.france24.com/en/video/20251207-france-a-year-of-renewal-for-paris-notre-dame-cathedral",
+      "published": "2025-12-07T14:56:12",
+      "content": "Sunday marks one year since Paris' celebrated Notre-Dame cathedral reopened its doors after restoration following the 2019 fire that damaged much of the church's roof. This first year back has been a resounding success, with visitor numbers outstripping even those at the Louvre museum and the Eiffel Tower. Analysis by architectural historian Mathieu Lours.",
+      "content_length": 358,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "First phase of Gaza ceasefire plan nearly complete, says Netanyahu",
+      "link": "https://www.theguardian.com/world/2025/dec/07/first-phase-trump-israel-gaza-ceasefire-plan-netanyahu",
+      "published": "2025-12-07T14:49:39",
+      "content": "Israeli PM to discuss next steps with Donald Trump this month but timetable for lasting peace remains unclearBenjamin Netanyahu has said that the first phase of the UN-endorsed Gaza ceasefire plan is close to completion, and that the second phase must involve the disarmament of Hamas.The Israeli prime minister said he would discuss the next steps later this month in Washington with Donald Trump, whose Gaza proposals were codified in a UN security council resolution on 17 November. Continue reading...",
+      "content_length": 505,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Netanyahu says Israel and Hamas expected to begin Gaza ceasefire's second phase soon",
+      "link": "https://www.france24.com/en/middle-east/20251207-netanyahu-says-israel-and-hamas-expected-to-begin-gaza-ceasefire-s-second-phase-soon",
+      "published": "2025-12-07T14:44:20",
+      "content": "Israeli Prime Minister Benjamin Netanyahu said Sunday that he expected the second phase of the Gaza ceasefire to begin \"very shortly\" once Hamas returns the remains of the last hostage whose body was taken by Palestinian militants during the October 7, 2023 attacks. Israel's army chief Lieutenant General Eyal Zamir told reserve troops that the demarcation line that now divides the Palestinian territory was a \"new border\".",
+      "content_length": 425,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "What Google Glass got right — and really, really wrong",
+      "link": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
+      "published": "2025-12-07T14:17:43",
+      "content": "\n\n\n\t\n\t\t\n\nGoogle didn't invent the concept of smart glasses, but it did help make them mainstream. In retrospect, 13 years after their launch, this is both a good and bad thing. Glass made a lot of people dream about new ways to use computers without staring down at screens all day. Glass also made a lot of people realize just how bad it might feel to have a world full of face computers. Which is more predictive: Glass, or Glassholes? And can you even have one without the other?\nFor this episode of Version History, we go back in time and tell the story of Google Glass. David Pierce, Victoria Song, and tech journalist David Imel trace the product's be …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Putschversuch in Benin - Regierung sieht Lage unter Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/afrika/benin-putschversuch-100.html",
+      "published": "2025-12-07T14:17:39",
+      "content": "   Im staatlichen Fernsehen haben Soldaten die Absetzung des Präsidenten von Benin verkündet. Regierungsmitglieder des westafrikanischen Landes sagen dagegen, die Lage sei unter Kontrolle.[mehr]",
+      "content_length": 194,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "A love letter to glory days of iPhone gaming",
+      "link": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
+      "published": "2025-12-07T14:00:00",
+      "content": "\n\n\n\t\n\tYear Walk. | Image: Simogo\t\n\nIt may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of huge audiences, leading to a great time of experimentation that unfortunately didn't last. But if you want to relive those better days, Simogo's new collection is just the thing.\nYou might recognize the name Simogo from more recent titles, like the noir mystery Lorelei and the Laser Eyes or the vibrant interactive pop album Sayonara Wild Hearts. Before that, though, the studio was a cr …\nRead the full story at The Verge.",
+      "content_length": 719,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Live: Benin arrests a dozen soldiers over coup attempt, military and security sources say",
+      "link": "https://www.france24.com/en/africa/20251207-live-apparent-coup-attempt-in-benin-govt-claims-army-has-situation-under-control",
+      "published": "2025-12-07T13:42:57",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thomas Gottschalk verabschiedet sich von der TV-Bühne",
+      "link": "https://www.tagesschau.de/kultur/gottschalk-tv-abschied-100.html",
+      "published": "2025-12-07T13:36:41",
+      "content": "   Nach fast 50 Jahren ist Schluss: Moderator und TV-Ikone Gottschalk hat seine Karriere, die im Radio begonnen hatte, beendet. Der 75-Jährige ist an Krebs erkrankt und zieht sich aus der Öffentlichkeit zurück.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The week in pictures: Trump first winner of FIFA Peace Prize, Pope in Lebanon, Sri Lanka Floods",
+      "link": "https://www.france24.com/en/asia-pacific/20251207-the-week-in-pictures-trump-fifa-peace-prize-pope-lebanon-sri-lanka-floods",
+      "published": "2025-12-07T13:16:00",
+      "content": "US President Donald Trump named first winner of FIFA Peace Prize, Pope Leo XIV's three-day visit to Lebanon, Vladimir Putin's state visit to India, and the floods that affected nearly 1,600 people in several Asian countries. FRANCE 24 looks back at the week's most striking images.",
+      "content_length": 281,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two marathon organisers arrested in Iran over women running without hijabs",
+      "link": "https://www.theguardian.com/world/2025/dec/07/marathon-organisers-arrested-iran-women-running-without-hijabs-kish-island",
+      "published": "2025-12-07T13:00:38",
+      "content": "Judiciary says a criminal case has been opened after online images showed a number of unveiled female competitors Judicial authorities in Iran have arrested two organisers of a marathon held on an island off the country’s southern coast after images emerged showing women taking part in the race without hijabs.The arrests on Saturday come as the authorities face increasing criticism from ultraconservatives who accuse them of inadequate efforts to enforce a mandatory headscarf law for women amid fears of growing western influence on the Islamic republic. Continue reading...",
+      "content_length": 578,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Starlink made ‘work from home’ possible from anywhere — now, I&#8217;m ready for a change",
+      "link": "https://www.theverge.com/column/837202/starlink-work-from-home",
+      "published": "2025-12-07T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nI've worked from home for 20 years. In that time, I've seen technologies supporting remote work advance considerably. But nothing has been as transformative as the arrival of Starlink, SpaceX's internet service that lets me \"work from home\" anywhere I choose, be it from the open road, forest, or desolate beach.\nSpaceX began launching Starlink satellites in 2019 to provide data in the l …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "An all-time great game makes a comeback",
+      "link": "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer",
+      "published": "2025-12-07T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 108, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your holiday shopping is going well, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas, finishing and then immediately rewatching The Chair Company, working by the light of this extremely rad MoMA lamp, installing a bunch of Hue Dimmer Switches around my house, trying desperately to hide the giant box that came with my new Frame TV, wondering if my 12,983 minutes of Spotify time this year  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "British photographer Martin Parr dies at 73, studio announces",
+      "link": "https://www.france24.com/en/live-news/20251207-photographer-martin-parr-dies-at-73-studio-announces",
+      "published": "2025-12-07T12:41:43",
+      "content": "British photographer Martin Parr, famed for his iconic depictions of British life, has died at 73, his studio announced on Sunday.",
+      "content_length": 130,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Attempted coup d'état in Benin: Foreign minister says situation under control",
+      "link": "https://www.france24.com/en/video/20251207-attempted-coup-d-%C3%A9tat-in-benin-foreign-minister-says-situation-under-control",
+      "published": "2025-12-07T12:16:29",
+      "content": "Benin's government said on Sunday its armed forces had foiled a coup attempt after a group of soldiers in the West African nation claimed on national television to have seized power. Details by FRANCE 24 international affairs editor, Shirli Sitbon.",
+      "content_length": 248,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Außenminister Wadephul holt abgesagte China-Reise nach",
+      "link": "https://www.tagesschau.de/ausland/asien/wadephul-china-100.html",
+      "published": "2025-12-07T12:12:20",
+      "content": "   Im Oktober hatte Außenminister Wadephul seine China-Reise kurzfristig abgesagt, jetzt holt er sie nach. Der Besuch ist ein Balanceakt: Wie klar kann er sich äußern, ohne die Beziehungen zu gefährden? Von Ruth Kirchner.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Why is my dog like this? Current DNA tests won’t explain it to you.",
+      "link": "https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/",
+      "published": "2025-12-07T12:08:58",
+      "content": "Popular genetics tests can’t tell you much about your dog’s personality, according to a recent study.\nA team of geneticists recently found no connection between simple genetic variants and behavioral traits in more than 3,200 dogs, even though previous studies suggested that hundreds of genes might predict aspects of a dog’s behavior and personality. That’s despite the popularity of at-home genetic tests that claim they can tell you whether your dog’s genes contain the recipe for anxiety or a fondness for cuddles.\n\n      This is Max, and no single genetic variant can explain why he is the way he is.\n        Credit:\n          Kiona Smith\n      \nGattaca for dogs, except it doesn’t work\nUniversity of Massachusetts genomicist Kathryn Lord and her colleagues compared DNA sequences and behavioral surveys from more than 3,000 dogs whose humans had enrolled them in the Darwin’s Ark project (and filled out the surveys). “Genetic tests for behavioral and personality traits in dogs are now being marketed to pet owners, but their predictive accuracy has not been validated,” wrote Lord and her colleagues in their recent paper.Read full article\nComments",
+      "content_length": 1157,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Notre-Dame's triumphant return: One year of record-breaking visits",
+      "link": "https://www.france24.com/en/video/20251207-notre-dame-s-triumphant-return-one-year-of-record-breaking-visits",
+      "published": "2025-12-07T11:24:18",
+      "content": "Last year, Paris' Louvre museum welcomed 8.7 million visitors, and the Eiffel Tower some 7 million, impressive numbers that pale in comparison that of people who visited Notre-Dame. Sunday marks one year since the cathedral reopened its doors and officials are calling it a success. Story by Eliza Herbert.",
+      "content_length": 306,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Macron threatens tariffs on Chinese goods but seeks trade deal with EU",
+      "link": "https://www.france24.com/en/live-news/20251207-macron-threatens-china-with-tariffs-over-trade-surplus",
+      "published": "2025-12-07T11:23:12",
+      "content": "French President Emmanuel Macron has threatened tariffs on Chinese goods, just days after a state visit to China, in an interview published Sunday by Les Echos. He also stated that he still believes a negotiated solution is possible to address the trade deficit between the world’s second-largest economy and the European Union (EU).",
+      "content_length": 333,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine's recruitment effort expands to women amid Russian invasion",
+      "link": "https://www.france24.com/en/video/20251207-ukraine-s-recruitment-effort-expands-to-women-amid-russian-invasion",
+      "published": "2025-12-07T11:22:13",
+      "content": "Struggling to recruit new soldiers as Russia presses on with its large-scale invasion, Ukraine has expanded its recruitment campaign among women. Here is a look at some of the women, once working in all types of professions, and now deployed on the battlefield. Story by Shirli Sitbon.",
+      "content_length": 285,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong legislative election under Beijing's scrutiny",
+      "link": "https://www.france24.com/en/video/20251207-hong-kong-legislative-election-under-beijing-s-scrutiny",
+      "published": "2025-12-07T11:19:29",
+      "content": "On Sunday, Hong Kong will hold a legislative election, just under two weeks after a devastating fire that ignited public outrage over the government's response to the tragedy. The election's key focus is on voter turnout, with some analysts suggesting that the growing public anger over the government's accountability in the fire could dampen participation.",
+      "content_length": 358,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "50 Jahre Warten in der Wüste - wohin gehört die Westsahara?",
+      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-polisario-102.html",
+      "published": "2025-12-07T10:43:49",
+      "content": "   Seit Mitte der 1970er-Jahre warten Flüchtlinge aus der Westsahara in algerischen Flüchtlingslager auf eine politische Lösung des Konflikts um die frühere spanische Kolonie. Haben sie noch Hoffnung auf eine Rückkehr? Von K. Böker.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Freiwilligendienste in Israel klagen über Personalmangel",
+      "link": "https://www.tagesschau.de/ausland/korrespondenten/deutsche-freiwillige-israel-100.html",
+      "published": "2025-12-07T10:17:53",
+      "content": "   Daniel Grützmacher ist einer der ersten Deutschen, die seit Beginn des Gazakriegs an einem Freiwilligendienst in Israel teilnehmen. Seine Organisation hofft, dass der Besuch des Kanzlers auch andere wieder ermutigt. Von Bettina Meier.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundeskanzler Merz in Israel: Besuch in Gedenkstätte Yad Vashem",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-antrittsbesuch-bundeskanzler-merz-yad-vashem-100.html",
+      "published": "2025-12-07T09:55:29",
+      "content": "   Bei seinem Antrittsbesuch im Nahen Osten betonte Bundeskanzler Merz in der Holocaust-Gedenkstätte Yad Vashem die Verantwortung Deutschlands gegenüber Israel. Nun spricht er mit Premier Netanjahu.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "ARD-Korrespondent: Wahlen in Hongkong nicht wirklich demokratisch",
+      "link": "https://www.tagesschau.de/ausland/asien/wahl-hongkong-110.html",
+      "published": "2025-12-07T09:18:14",
+      "content": "   Wirklich demokratisch seien die Wahlen in Hongkong auch vor der Wahlrechtsreform nicht gewesen, sagt ARD-Korrespondent Jörg Endriss. Inzwischen herrschten in der Stadt aber immer mehr chinesische Verhältnisse.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hongkonger Parlamentswahl im Schatten der Brandkatastrophe",
+      "link": "https://www.tagesschau.de/ausland/asien/wahlen-hongkong-106.html",
+      "published": "2025-12-07T08:31:13",
+      "content": "   Viele Bewohner Hongkongs blicken ohne große Hoffnung auf die heutigen Parlamentswahlen. Seit 2021 sind nur noch China-treue Kandidaten zugelassen. Für die Bürger ist gerade ein anderes Thema wichtiger. Von Eva Lamby-Schmitt.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Japan wirft China vor, japanische Kampfjets ins Visier zu nehmen",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-china-jets-100.html",
+      "published": "2025-12-07T08:10:59",
+      "content": "   Nahe der Insel Okinawa operiert ein chinesischer Flugzeugträgerverband. Nun melden China und Japan dort Zwischenfälle mit Kampfjets. Hintergrund des Streits könnten Aussagen Tokios zu Taiwan sein.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Magnitude 7.0 earthquake strikes remote area near Alaska-Canada border",
+      "link": "https://www.theguardian.com/world/2025/dec/06/magnitude-7-earthquake-alaska-canada",
+      "published": "2025-12-07T00:21:22",
+      "content": "Although people reported ‘things falling off shelves and walls’, no injuries or structural damage were reportedA powerful, magnitude-7.0 earthquake struck a remote area near the border between Alaska and the Canadian territory of Yukon on Saturday. There was no tsunami warning, and officials said there were no immediate reports of damage or injury.The US Geological Survey said the quake struck about 230 miles (370km) north-west of Juneau, Alaska, and 155 miles west of Whitehorse, Yukon. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
