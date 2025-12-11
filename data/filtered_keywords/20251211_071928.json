@@ -1,0 +1,1305 @@
+{
+  "metadata": {
+    "timestamp": "20251211_071928",
+    "input_file": "data/deduplicated/20251211_071928.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 160,
+      "filtered_count": 142,
+      "blacklisted_count": 18,
+      "reduction_rate": "11.2%",
+      "top_blacklist_reasons": {
+        "fußball": 3,
+        "eurovision": 3,
+        "stau": 3,
+        "sicherheitslücke": 2,
+        "überfall": 1,
+        "wetterbericht": 1,
+        "champions league": 1,
+        "regen": 1,
+        "e-reader": 1,
+        "oscar": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Oslo - Friedensnobelpreisträgerin Machado zeigt sich der Öffentlichkeit - \"Natürlich kehre ich nach Venezuela zürück\"",
+      "link": "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-machado-zeigt-sich-der-oeffentlichkeit-natuerlich-kehre-ich-nach-venezue-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die diesjärige Friedensnobelpreisträgerin María Corina Machado ist nach der offiziellen Preisverleihung in Oslo eingetroffen. Die venezolanische Oppositionsführerin zeigte sich in der Nacht auf dem Balkon eines Hotels in der norwegischen Hauptstadt. Zuvor hatte ihre Tochter den Nobelpreis stellvertretend entgegen genommen.",
+      "content_length": 324,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - US-Repräsentantenhaus beschließt Verteidigungshaushalt im Umfang von fast einer Billion Dollar",
+      "link": "https://www.deutschlandfunk.de/us-repraesentantenhaus-beschliesst-verteidigungshaushalt-im-umfang-von-fast-einer-billion-dollar-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Das US-Repräsentantenhaus hat Verteidigungsausgaben für das kommende Jahr in Höhe von fast einer Billion Dollar beschlossen.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheit - Krankenkassen-Spitzenverband: Sparpaket der Bundesregierung reicht nicht aus - weiter steigende Beiträge erwartet",
+      "link": "https://www.deutschlandfunk.de/krankenkassen-spitzenverband-sparpaket-der-bundesregierung-reicht-nicht-aus-weiter-steigende-beitrae-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Der Spitzenverband der gesetzlichen Krankenkassen hält das geplante Sparpaket der Bundesregierung im Gesundheitsbereich für nicht ausreichend. Die Maßnahmen würden nur kurzfristig Luft verschaffen, sagte der GKV-Vorsitzende Blatt im Deutschlandfunk.",
+      "content_length": 249,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Koalition - Ergebnisse von Spitzentreffen am Morgen",
+      "link": "https://www.deutschlandfunk.de/ergebnisse-von-spitzentreffen-am-morgen-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Nach stundenlangen Beratungen des Koalitionsausschusses wollen Bundeskanzler Merz und die Spitzen von Union und SPD heute über die Ergebnisse informieren.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Protestwelle - Zehntausende Bulgaren fordern den Rücktritt ihrer Regierung",
+      "link": "https://www.deutschlandfunk.de/zehntausende-bulgaren-fordern-den-ruecktritt-ihrer-regierung-108.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "In Bulgarien haben erneut zehntausende Menschen gegen die prowestliche Regierung demonstriert. In der Hauptstadt Sofia und zahlreichen weiteren Orten forderten die überwiegend jungen Teilnehmer den Rücktritt von Ministerpräsident Scheljaskow und seinem Kabinett.",
+      "content_length": 262,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienberichte - Ukraine greift offenbar erneut Tanker im Schwarzen Meer an",
+      "link": "https://www.deutschlandfunk.de/ukraine-greift-offenbar-erneut-tanker-im-schwarzen-meer-an-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die ukrainische Armee hat nach Medienberichten erneut einen Öltanker im Schwarzen Meer angegriffen.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ölhavarie - 200.000 Liter Rohöl in Brandenburg aus einer Pipeline ausgetreten",
+      "link": "https://www.deutschlandfunk.de/200-000-liter-rohoel-in-brandenburg-aus-einer-pipeline-ausgetreten-114.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "An einer Pipeline in Brandenburg ist nach einer Havarie eine große Menge an Erdöl ausgetreten.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bolivien - Ex-Präsident Arce wegen Korruptionsvorwürfen festgenommen",
+      "link": "https://www.deutschlandfunk.de/ex-praesident-arce-wegen-korruptionsvorwuerfen-festgenommen-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Boliviens früherer Präsident Arce ist im Zuge von Ermittlungen wegen mutmaßlicher Veruntreuung festgenommen worden - einen Monat, nachdem er aus dem Amt geschieden ist.",
+      "content_length": 168,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grenzkonflikt mit Thailand - Kambodscha fordert UNO-Sicherheitsrat zum Eingreifen auf",
+      "link": "https://www.deutschlandfunk.de/kambodscha-fordert-uno-sicherheitsrat-zum-eingreifen-auf-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Im Konflikt mit Thailand hat die kambodschanische Regierung den UNO-Sicherheitsrat zum Eingreifen aufgerufen. Das Gremium solle das thailändische Militär auffordern, alle Angriffe sofort zu stoppen, heißt es in einem Schreiben des kambodschanischen UNO-Botschafters. Das Vorgehen der thailändischen Streitkräfte sei eine schwerwiegende Verletzung des humanitären Völkerrechts.",
+      "content_length": 376,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Konkursvergehen - Ex-Milliardär Benko in Innsbruck zu Bewährungsstrafe verurteilt",
+      "link": "https://www.deutschlandfunk.de/ex-milliardaer-benko-in-innsbruck-zu-bewaehrungsstrafe-verurteilt-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Der insolvente österreichische Investor Benko ist zum zweiten Mal wegen Schädigung seiner Gläubiger verurteilt worden. Das Landesgericht Innsbruck verhängte gegen den Gründer des Immobilien- und Handelsimperiums Signa eine Bewährungsstrafe von 15 Monaten.",
+      "content_length": 255,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Früherer SPD-Generalsekretär - Kevin Kühnert arbeitet für NGO \"Bürgerbewegung Finanzwende\"",
+      "link": "https://www.deutschlandfunk.de/kevin-kuehnert-arbeitet-fuer-ngo-buergerbewegung-finanzwende-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Der frühere SPD-Generalsekretär Kühnert arbeitet künftig für die Organisation \"Bürgerbewegung Finanzwende\".",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Soziales - Zukunftspakt Pflege stellt Eckpunkte für Reform vor",
+      "link": "https://www.deutschlandfunk.de/zukunftspakt-pflege-stellt-eckpunkte-fuer-reform-vor-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die Bund-Länder-Arbeitsgruppe \"Zukunftspakt Pflege\" will heute ihren Abschlussbericht vorlegen.",
+      "content_length": 95,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Soziales - Fast jeder Zweite in Deutschland spendet für den guten Zweck",
+      "link": "https://www.deutschlandfunk.de/fast-jeder-zweite-in-deutschland-spendet-fuer-den-guten-zweck-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Menschen in Deutschland haben im vergangenen Jahr gut 14 Milliarden Euro gespendet und damit knapp 13 Prozent mehr als 2023.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Bundesfinanzhof-Entscheidung - \"Haus & Grund\" und Bund der Steuerzahler kündigen Verfassungsbeschwerde gegen Grundsteuer-Reform an",
+      "link": "https://www.deutschlandfunk.de/haus-grund-und-bund-der-steuerzahler-kuendigen-verfassungsbeschwerde-gegen-grundsteuer-reform-an-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Der Immobilieneigentümerverband \"Haus &amp; Grund\" sowie der Bund der Steuerzahler haben Verfassungsbeschwerde gegen die Grundsteuer-Reform angekündigt.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weitere Konzentration im Zeitungsmarkt - Mediengruppe Bayern darf Mediengruppe Oberfranken übernehmen",
+      "link": "https://www.deutschlandfunk.de/mediengruppe-bayern-darf-mediengruppe-oberfranken-uebernehmen-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Das Bundeskartellamt hat keine Einwände gegen eine weitere Konzentration auf dem Pressemarkt.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - Silber-Preis steigt auf neuen Höchststand",
+      "link": "https://www.deutschlandfunk.de/silber-preis-steigt-auf-neuen-hoechststand-106.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Der Preis für Silber ist auf einen neuen Höchststand gestiegen.",
+      "content_length": 63,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Federal Reserve - US-Notenbank Fed senkt erneut den Leitzins",
+      "link": "https://www.deutschlandfunk.de/us-notenbank-fed-senkt-erneut-den-leitzins-106.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die US-Notenbank Fed hat zum dritten Mal in diesem Jahr den Leitzins gesenkt.",
+      "content_length": 77,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Truppeneinsatz - US-Richter entscheidet gegen Trumps Entsendung der Nationalgarde nach Los Angeles",
+      "link": "https://www.deutschlandfunk.de/us-richter-entscheidet-gegen-trumps-entsendung-der-nationalgarde-nach-los-angeles-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die US-Regierung muss den Einsatz der Nationalgarde in Los Angeles auf richterliche Anordnung beenden.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Naher Osten - Schweres Unwetter verschärft Lebensbedingungen in Gaza",
+      "link": "https://www.deutschlandfunk.de/schweres-unwetter-verschaerft-lebensbedingungen-in-gaza-106.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Schwere Unwetter verschärfen die ohnehin schwierigen Lebensbedingungen im Gazastreifen.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Israel genehmigt Ausbau von Siedlungen im Westjordanland",
+      "link": "https://www.deutschlandfunk.de/israel-genehmigt-ausbau-von-siedlungen-im-westjordanland-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Israel hat grünes Licht für den Bau von mehr als 700 weiteren Häusern in drei jüdischen Siedlungen im besetzten Westjordanland gegeben.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grundsicherung - Bundeskanzler Merz: Bürgergeld-Reform wird kommende Woche beschlossen - Bericht über Veto von Reiche und Dobrindt",
+      "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-buergergeld-reform-wird-kommende-woche-beschlossen-bericht-ueber-veto-von-reiche--102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die Bundesregierung will nach Aussage von Kanzler Merz in der kommenden Woche die Reform des Bürgergelds beschließen. Merz erklärte in Berlin, die beteiligten Ministerien müssten noch einige offene Fragen klären. Es gebe bei diesem Thema aber keinen Streit in der Koalition.",
+      "content_length": 274,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Instagram, TikTok, YouTube - Tierqual auf Social Media: Verein sieht große Lücke im deutschen Recht",
+      "link": "https://www.deutschlandfunk.de/tierqual-auf-social-media-verein-sieht-grosse-luecke-im-deutschen-recht-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die Welttierschutzgesellschaft sieht gravierende Gesetzeslücken in Deutschland hinsichtlich der Sozialen Netzwerke.",
+      "content_length": 115,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vivida BKK - Krankenkasse: Einsamkeit bei jungen Menschen kein Randphänomen mehr",
+      "link": "https://www.deutschlandfunk.de/krankenkasse-einsamkeit-bei-jungen-menschen-kein-randphaenomen-mehr-110.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Einsamkeit ist aus Sicht von Krankenkassen bei jungen Menschen kein Randphänomen mehr.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ernährung - Forscher empfehlen gesetzliche Pflicht für Nutri-Score - \"Lebensmittelampel\" laut Studie von Mehrheit der Kunden befürwortet",
+      "link": "https://www.deutschlandfunk.de/forscher-empfehlen-gesetzliche-pflicht-fuer-nutri-score-lebensmittelampel-laut-studie-von-mehrheit-d-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Fünf Jahre nach Einführung des freiwilligen Nutri-Score fordern Forscher eine gesetzliche Pflicht für das Lebensmittel-Kennzeichen.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Streit um Namensverbot - \"Veggie-Burger\" und \"Tofu-Wurst\" bleiben in der EU als Bezeichnungen vorerst erlaubt",
+      "link": "https://www.deutschlandfunk.de/veggie-burger-und-tofu-wurst-bleiben-in-der-eu-als-bezeichnungen-vorerst-erlaubt-104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "In der Europäischen Union bleiben Bezeichnungen wie \"Tofu-Wurst\", \"Soja-Schnitzel\" oder \"Veggie-Burger\" für vegetarische Produkte zunächst erlaubt.",
+      "content_length": 147,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Stockholm - Nobelpreise für Literatur und Wissenschaftskategorien feierlich verliehen",
+      "link": "https://www.deutschlandfunk.de/nobelpreise-fuer-literatur-und-wissenschaftskategorien-feierlich-verliehen-102.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Bei einer Zeremonie in Stockholm sind die Nobelpreise für Literatur und die Wissenschaftskategorien verliehen worden.",
+      "content_length": 117,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Beschlüsse - Bundesregierung will Journalisten, Wissenschaftler und Aktivisten besser vor Einschüchterungsklagen schützen",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-will-journalisten-wissenschaftler-und-aktivisten-besser-vor-einschuechterungsklagen--104.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Journalisten, Wissenschaftler und Aktivisten sollen in Deutschland besser vor Klagen geschützt werden.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Die Lottozahlen - 3 - 11 - 12 - 13 - 17 - 24",
+      "link": "https://www.deutschlandfunk.de/3-11-12-13-17-100.html",
+      "published": "2025-12-11T07:12:32",
+      "content": "Die Lottozahlen: 3 - 11 - 12 - 13 - 17 - 24",
+      "content_length": 43,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Anthony Albanese sidesteps calls for reform amid growing community anger over MP travel perks",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/11/anthony-albanese-sidesteps-calls-for-reform-amid-growing-community-anger-over-mp-travel-perks",
+      "published": "2025-12-11T07:05:06",
+      "content": "The federal opposition and crossbenchers have backed a review of expenses spending rulesAnthony Albanese has sidestepped calls for reform or an inquiry into politicians’ expenses and travel perks, saying he is more focused on the under-16s social media ban than growing community outrage over MP’s using taxpayer funds to fly their spouses to football games, cricket matches and exclusive dinners.At a press conference held at a school in Canberra to promote the under-16s social media ban, Albanese was asked repeatedly about Guardian Australia’s reporting that senior politicians like himself, Anika Wells and Don Farrell enjoy essentially “unlimited” entitlements to fly their spouses around the country. Twice he said: “I haven’t changed the rule”. Continue reading...",
+      "content_length": 772,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia news live: former Labor senator Pat Dodson says his proposals to tackle Indigenous deaths in custody ‘never got taken up’",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/11/vce-atar-results-victoria-social-media-ban-reactions-abs-employment-figures-queensland-parliament-aukus-meeting-washington-dc-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "published": "2025-12-11T07:02:25",
+      "content": "Follow the latest updates‘The whole thing disgusts me’: Australians ditch US travel as new rules require social media to be declaredGet our breaking news email, free app or daily news podcastIndependent senator Lidia Thorpe has said the federal government needs to do more to address Indigenous deaths in custody and stop “handballing” to states and territories after a damning report found more Indigenous people died in custody last year than any year since 1980.Thorpe spoke to ABC News this morning, saying the recommendations from a royal commission completed in 1991 have still not been implemented. She said:There’s no appetite at the federal level to do anything about it. They continue to handball to states and territories but we need national oversight, we need a whole unit … to look at these recommendations and start implementing them.States and territories are using us to score political points coming up to elections and scraping the bottom of the barrel when it comes to so-called ‘being tough on crime’. Continue reading...",
+      "content_length": 1042,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nationalrat stimmt über Kopftuchverbot in Österreich ab",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-kopftuchverbot-100.html",
+      "published": "2025-12-11T07:02:04",
+      "content": "   Österreichs Nationalrat stimmt heute über ein Kopftuchverbot an Schulen für Mädchen unter 14 Jahren ab. Es sieht so aus, als würde das Gesetz durchkommen. Ein erster Versuch war 2020 vor Gericht gescheitert. Von O. Soos.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: US-Börsen steigen nach Zinssenkung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-fed-zinssenkung-wallstreet-100.html",
+      "published": "2025-12-11T06:41:29",
+      "content": "   Nach der Senkung des Leitzinses schließen die US-Börsen im Plus - doch Unsicherheit bleibt wegen des geldpolitischen Kurses. Die Notenbanker scheinen uneins wie selten. Der DAX dürfte schwächer starten. [mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UK denies Milei’s claim of talks over Falklands-era ban on Argentina arms sales",
+      "link": "https://www.theguardian.com/politics/2025/dec/11/uk-denies-mileis-claim-of-talks-over-falklands-era-ban-on-argentina-arms-sales",
+      "published": "2025-12-11T06:26:41",
+      "content": "British government also rejects president’s claims on sovereignty over Falkland Islands as he suggests wanting to make Argentina a ‘world military power’The British government has denied it is engaged in negotiations to lift a ban on selling arms to Argentina that has been in place since the Falklands war.Javier Milei, the president of Argentina, told the Daily Telegraph his government had begun speaking to the UK about the restrictions. Continue reading...",
+      "content_length": 461,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "11KM-Podcast: US-Sicherheitsstrategie - was will Trump von Venezuela?",
+      "link": "https://www.tagesschau.de/podcast-11km-trump-venezuela-100.html",
+      "published": "2025-12-11T06:22:29",
+      "content": "   Die USA greifen vor der Küste Venezuelas angebliche Drogenschmugglerboote mit Bomben an. Doch geht es dabei nur um Drogen? 11KM über die neue Sicherheitsstrategie der USA und den Einfluss des Landes in Südamerika.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Havarie an Öl-Pipeline in Brandenburg",
+      "link": "https://www.tagesschau.de/inland/havarie-an-oel-pipeline-100.html",
+      "published": "2025-12-11T06:18:04",
+      "content": "   Mindestens 200.000 Liter Rohöl sollen ausgetreten sein: An einer Pipeline in der Uckermark hat es einen Schaden gegeben. Mehrere Stunden lang schoss Rohöl aus einer Leitung. Das Leck war durch einen Arbeitsunfall entstanden. [mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Coalition urged to ignore ‘opinions of Pauline Hanson’ as it weighs hardline approach to immigration",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/11/coalition-urged-to-ignore-opinions-of-pauline-hanson-as-it-weighs-hardline-approach-to-immigration",
+      "published": "2025-12-11T06:17:16",
+      "content": "As part of wider strategy, opposition is exploring options to force visa holders to adhere to ‘Australian values’Get our breaking news email, free app or daily news podcastCurtailing procedural rights for asylum seekers will trigger more appeals and keep people “in limbo for years”, advocates warn, as the opposition weighs a hardline plan to speed up deportations.The Asylum Seeker Resource Centre’s head of advocacy, Ogy Simic, implored the Coalition to heed the advice of experts “not the opinions of Pauline Hanson” as it develops an immigration policy that is designed, in part, to combat the political threat of One Nation. Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zehntausende fordern in Bulgarien Rücktritt der Regierung",
+      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-proteste-124.html",
+      "published": "2025-12-11T06:02:46",
+      "content": "   Vor allem junge Menschen sind am Abend in Bulgarien auf die Straße gegangen und haben den Rücktritt der Regierung gefordert. Sie werfen ihr unter anderem Korruption vor. Doch die Regierung will an der Macht festhalten. [mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dragon’s teeth and elf garden among 2025 additions to English heritage list",
+      "link": "https://www.theguardian.com/culture/2025/dec/11/dragons-teeth-elf-garden-historic-england-national-heritage-list",
+      "published": "2025-12-11T06:01:00",
+      "content": "Wartime defences in Surrey and model boat club boathouse in Birmingham among this year’s unusual listingsIf Nazi tanks had ever attempted to invade Guildford, they surely would have been thwarted by concrete pyramid-shaped obstacles known as “dragon’s teeth”.Eight decades after the defences were installed in Surrey woodland, their history is being remembered by Historic England (HE), which has included them on its list of remarkable historic places granted protection in 2025. Continue reading...",
+      "content_length": 500,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sajid Javid told Boris Johnson he was Dominic Cummings’ ‘puppet’",
+      "link": "https://www.theguardian.com/politics/2025/dec/11/sajid-javid-told-boris-johnson-he-was-dominic-cummings-puppet",
+      "published": "2025-12-11T06:00:59",
+      "content": "Former chancellor also says Johnson was ‘least well briefed’ of the PMs he had servedSajid Javid told Boris Johnson he was a “puppet” of Dominic Cummings before he resigned as chancellor rather than accept a Cummings-led takeover of his Treasury, he has said in an interview about his experiences as a minister.Speaking to the Institute for Government (IfG), Javid also said that his other departure from Johnson’s government, shortly before it collapsed in 2022, was because he had lost confidence in the prime minister after being assured that allegations about lockdown-breaking parties in No 10 were “bullshit”. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trans doctor changing room case: does it amount to a bathroom ban?",
+      "link": "https://www.theguardian.com/society/2025/dec/11/trans-doctor-changing-room-case-does-it-amount-to-a-bathroom-ban",
+      "published": "2025-12-11T06:00:59",
+      "content": "Some businesses still waiting for final EHRC guidance while  firms that moved early to exclude trans people show no sign of backtrackingOn Monday, a Dundee employment tribunal ruled a narrow win for Sandie Peggie, the nurse who complained about sharing a changing room with a transgender doctor. But the lengthy judgment also takes on the pivotal question that has been challenging employers, lawyers and campaign groups since April – does a supreme court judgment mean that transgender people must now be excluded from same-sex facilities that align with their chosen gender? Does it amount to a bathroom ban or not?The supreme court ruled earlier this year that the legal definition of a woman is based on biological sex. Interim advice released by the Equality and Human Rights Commission soon after the judgment in effect banned trans people from using facilities according to their lived gender, and its official guidance is expected to closely reflect that advice. Continue reading...",
+      "content_length": 990,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Ukraine gives revised peace plan to US, readies for more talks with allies",
+      "link": "https://www.france24.com/en/europe/20251211-live-ukraine-gives-revised-peace-plan-to-us-readies-for-more-talks-with-allies",
+      "published": "2025-12-11T05:57:20",
+      "content": "Leaders of the “coalition of the willing” nations are set to hold a video conference on the Ukraine war Thursday, as Donald Trump signaled frustration with European allies and cast doubt on continued US participation in future discussions, warning they may be “wasting time.” This comes after Ukraine sent an updated plan to end the war with Russia to Washington, according to Ukrainian officials. Follow our liveblog for more.",
+      "content_length": 427,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "NSW koala numbers higher than previously thought, but new data may not show true picture",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/11/nsw-koala-numbers-higher-than-previously-thought-but-new-data-may-not-show-true-picture",
+      "published": "2025-12-11T05:38:36",
+      "content": "Updated estimate reflects more accurate technology and extensive survey work, rather than a true increase in the koala populationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast The first comprehensive koala survey conducted in New South Wales suggests populations of the endangered marsupial are higher than previously thought.The NSW government’s statewide survey, released on Thursday, estimates there are 274,000 koalas across the state. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sea urchin species on brink of extinction after marine pandemic",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/sea-urchin-species-on-brink-of-extinction-after-marine-pandemic",
+      "published": "2025-12-11T05:00:57",
+      "content": "Ecologically important Diadema africanum almost eliminated by unknown disease in Canary IslandsA marine pandemic is bringing some species of sea urchin to the brink of extinction, and some populations have disappeared altogether, a study has found.Since 2021, Diadema africanum urchins in the Canary Island archipelago have almost entirely been killed by an unknown disease. There has been a 99.7% population decrease in Tenerife, and a 90% decrease off the islands of the Madeira archipelago. Continue reading...",
+      "content_length": 513,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Farage under attack: will it damage Reform UK? – podcast",
+      "link": "https://www.theguardian.com/politics/audio/2025/dec/11/farage-under-attack-will-it-damage-reform-uk-podcast",
+      "published": "2025-12-11T05:00:56",
+      "content": "John Harris speaks to Yinka Bankole about his treatment as a nine-year-old at Dulwich college when Nigel Farage was a prefect. Plus, Kiran Stacey and John discuss whether Reform UK supporters will start to feel uneasy about the allegations of racism against Farage Continue reading...",
+      "content_length": 284,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Demenz-Forschungsprojekt Artemis: Kunst, die Erinnerungen öffnet",
+      "link": "https://www.tagesschau.de/kultur/artemis-demenz-kunst-forschung-102.html",
+      "published": "2025-12-11T04:43:12",
+      "content": "   Das Städel Museum in Frankfurt am Main hat eine neuartige Kunst-App für Menschen mit Demenz entwickelt - mit Erfolg. Die begleitende Forschung zeigt: Kunst kann die Lebensqualität für Demenz-Erkrankte spürbar verbessern. Von Natascha Pflaumbaum[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sexually explicit letters about exiled Hong Kong activists sent to UK and Australian addresses",
+      "link": "https://www.theguardian.com/world/2025/dec/11/sexually-explicit-letters-deepfake-hong-kong-activists-uk-australia",
+      "published": "2025-12-11T04:30:22",
+      "content": "Exclusive: Letters with deepfake images of Carmen Lau in UK and targeting of Ted Hui in Australia part of growing harassmentSexually explicit letters and “lonely housewife” posters about high-profile pro-democracy Hong Kong exiles have been sent to people in the UK and Australia, marking a ratcheting up in the transnational harassment faced by critics of the Chinese Communist party’s rule in the former British colony.Letters purporting to be from Carmen Lau, an exiled pro-democracy activist and former district councillor, showing digitally faked images of her as a sex worker were sent to her former neighbours in Maidenhead in the UK in recent weeks. Continue reading...",
+      "content_length": 677,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sarkozy kämpft für ein milderes Urteil",
+      "link": "https://www.tagesschau.de/ausland/europa/sarkozy-buch-berufung-100.html",
+      "published": "2025-12-11T04:18:44",
+      "content": "   Frankreichs Ex-Präsident Sarkozy wurde zu fünf Jahren Haft verurteilt, ist aber bis zum Berufungsprozess auf freiem Fuß. Diese Zeit nutzt er zur Selbstinszenierung - und für einen politischen Tabubruch. Von J. Borutta.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Venezuelan opposition leader makes first public appearance in months",
+      "link": "https://www.france24.com/en/americas/20251211-venezuelan-opposition-leader-machado-appears-in-oslo-after-nobel-win-maduro-usa",
+      "published": "2025-12-11T03:13:45",
+      "content": "Maria Corina Machado, Venezuelan opposition leader and Nobel Peace Prize laureate, appeared publicly for the first time in nearly a year Thursday, waving to supporters from her Oslo hotel balcony. Her daughter accepted the award on her behalf Wednesday, as Machado arrived in Norway only hours later, ending a long period in hiding under Maduro’s regime.",
+      "content_length": 354,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia",
+      "link": "https://www.theguardian.com/environment/2025/dec/11/climate-crisis-made-monsoon-floods-asia-worse-study",
+      "published": "2025-12-11T03:00:54",
+      "content": "Cyclones like those in Indonesia, Sri Lanka and Malaysia that killed 1,750 are ‘alarming new reality’The climate crisis supercharged the deadly storms that killed more than 1,750 people in Asia by making downpours more intense and flooding worse, scientists have reported. Monsoon rains often bring some flooding but the scientists were clear: this was “not normal”.In Sri Lanka, some floods reached the second floor of buildings, while in Sumatra, in Indonesia, the floods were worsened by the destruction of forests, which in the past slowed rainwater running off hillsides. Continue reading...",
+      "content_length": 596,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Deadly Thailand–Cambodia border clashes intensify ahead of expected Trump call",
+      "link": "https://www.france24.com/en/live-news/20251211-fighting-rages-at-cambodia-thailand-border-ahead-of-expected-trump-call",
+      "published": "2025-12-11T02:55:22",
+      "content": "Deadly clashes between Thailand and Cambodia intensified on Thursday along their disputed border, killing at least 19 and forcing more than half a million people to flee, as US President Donald Trump prepared to urge both sides to halt the fighting.",
+      "content_length": 249,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US forces seize oil tanker in what Venezuela government calls ‘act of international piracy’– as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/10/trump-us-politics-live-updates",
+      "published": "2025-12-11T02:52:09",
+      "content": "This live blog is now closed.Full report – US forces seize oil tanker off Venezuela coastTrump news at a glance: Seizure of oil tanker marks new level of tensions between US and VenezuelaHouse speaker Mike Johnson said today that he has yet to see the video of the boat strike that has been the subject of intense scrutiny and accusations of war crimes.The Republican speaker said he missed the classified briefing with Hegseth and Rubio this week because he was working with House GOP lawmakers on their emerging health care proposals. Continue reading...",
+      "content_length": 556,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Venezuela decries ‘act of piracy’ after US forces seize oil tanker off country’s coast",
+      "link": "https://www.theguardian.com/us-news/2025/dec/10/us-forces-reportedly-seize-oil-tanker-off-venezuela-coast",
+      "published": "2025-12-11T02:50:48",
+      "content": "Footage uploaded to X by US attorney general shows its forces landing on the tanker in major escalation of Trump’s pressure campaignUS forces have seized an oil tanker off the coast of Venezuela, in a major escalation of Donald Trump’s four-month pressure campaign against the South American country’s dictator, Nicolás Maduro, whose government called the seizure “an act of international piracy”.Trump confirmed the operation on Wednesday, saying: “We’ve just seized a tanker on the coast of Venezuela – a large tanker, very large, the largest one ever seized actually.” Continue reading...",
+      "content_length": 591,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Immigrant students experience more bullying as ICE raids cause ‘culture of fear’, says survey",
+      "link": "https://www.theguardian.com/us-news/2025/dec/10/immigrant-students-ice-crackdowns",
+      "published": "2025-12-11T02:45:43",
+      "content": "In survey, US school principals describe ‘climate of distress’ and declines in student attendance amid crackdownsImmigrant students across the US have experienced increased bullying, with Immigration and Customs Enforcement (ICE) crackdowns causing declines in attendance and a “culture of fear” among immigrant students in public schools, according to a new survey of high school principals.Researchers from the University of California, Los Angeles’s Institute for Democracy, Education and Access (Idea) conducted a “nationally representative” survey of more than 600 principals about the toll of raids and deportations, and how schools were responding. Continue reading...",
+      "content_length": 675,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US House passes bill authorizing $900bn for military programs",
+      "link": "https://www.theguardian.com/us-news/2025/dec/10/us-house-defense-bill-military-programs",
+      "published": "2025-12-11T02:18:31",
+      "content": "Legislation includes pay increase for troops and a demand for more information about boat strikes in the CaribbeanThe US House voted 312-112 to pass a sweeping defense policy bill on Wednesday that authorizes $900bn in military programs, including a pay raise for troops and an overhaul of how the Department of Defense purchases weapons.The 3,000-page bill also includes a demand for more information about nearly two dozen lethal boat strikes in the Caribbean targeting suspected drug smugglers. A stipulation calls for the withholding of part of the travel budget of Pete Hegseth, the defense secretary, unless the Pentagon releases to Congress the full, unedited video of a widely scrutinized strike in September which killed survivors of an earlier strike. Continue reading...",
+      "content_length": 781,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Venezuelan Nobel peace prize winner greets crowds in Oslo after nearly a year in hiding",
+      "link": "https://www.theguardian.com/world/2025/dec/11/maria-corina-machado-venezuela-nobel-peace-prize-winner-oslo-norway",
+      "published": "2025-12-11T02:17:08",
+      "content": "María Corina Machado climbs over barriers to meet chanting supporters gathered outside the Grand Hotel in early hours of ThursdayVenezuela’s best-known opposition leader, the Nobel peace prize winner María Corina Machado, has made a dramatic appearance in Norway after slipping out of her authoritarian homeland by boat.The Venezuelan politician and pro-democracy activist stepped out on to the balcony of Oslo’s iconic Grand Hotel at just before 2.30am local time, after spending the past 11 months in hiding in Venezuela’s capital, Caracas. Continue reading...",
+      "content_length": 562,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US House passes bill to bolster Europe’s defence, in apparent rebuke to Trump’s foreign policy strategy",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/us-house-passes-bill-to-bolster-europes-defence-in-apparent-rebuke-to-trumps-foreign-policy-strategy",
+      "published": "2025-12-11T01:48:55",
+      "content": "The 2026 National Defense Authorization Act (NDAA) carries $8bn more than the funding Trump requested in MayThe US House has approved a sweeping defence bill that bolsters Europe’s security, in what appears to be sharp rebuke to Donald Trump’s mounting threats to downgrade Washington’s ties to traditional allies and Nato.The bipartisan vote came just days after the publication of a White House national security strategy that said Europe faced “civilisational erasure” and made explicit Washington’s support for Europe’s nationalist far-right parties – rattling EU leaders and opening up a seismic shift in transatlantic relations. Continue reading...",
+      "content_length": 654,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hamas signals openness to weapons 'freeze' but rejects full disarmament",
+      "link": "https://www.france24.com/en/middle-east/20251211-hamas-signals-openness-to-weapons-freeze-but-rejects-full-disarmament",
+      "published": "2025-12-11T01:47:24",
+      "content": "A senior Hamas leader says the group is willing to consider a temporary “freeze” on its weapons but will not accept full disarmament, a central demand of the US-backed Gaza peace plan. Speaking to Al Jazeera, Khaled Meshaal signaled limited flexibility in ongoing negotiations with mediators, even as the fragile ceasefire enters a new phase and tensions between Israel and Hamas persist.",
+      "content_length": 388,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Half a million evacuated on Thai-Cambodia border as Trump makes diplomatic push to end fighting",
+      "link": "https://www.theguardian.com/world/2025/dec/11/thailand-cambodia-border-evacuation",
+      "published": "2025-12-11T00:46:52",
+      "content": "At least 15 people killed, while more than 500,000 people have fled border areas near where jets, tanks and drones were waging battleHalf a million evacuees in Cambodia and Thailand were sheltering in pagodas, schools and other safe havens on Wednesday after fleeing fresh border clashes while US president Donald Trump vowed to intercede to stop the fighting.At least 15 people, including Thai soldiers and Cambodian civilians, have been killed in the latest hostilities, officials said, while more than 500,000 people have fled border areas near where jets, tanks and drones were waging battle. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
+      "link": "https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/",
+      "published": "2025-12-11T00:29:54",
+      "content": "NASA has lost contact with one its three spacecraft orbiting Mars, the agency announced Tuesday. Meanwhile, a second Mars orbiter is perilously close to running out of fuel, and the third mission is running well past its warranty.\nGround teams last heard from the Mars Atmosphere and Volatile Evolution, or MAVEN, spacecraft on Saturday, December 6. “Telemetry from MAVEN had showed all subsystems working normally before it orbited behind the red planet,” NASA said in a short statement. “After the spacecraft emerged from behind Mars, NASA’s Deep Space Network did not observe a signal.”\nNASA said mission controllers are “investigating the anomaly to address the situation. More information will be shared once it becomes available.”Read full article\nComments",
+      "content_length": 762,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Washington state governor declares emergency amid heavy rains and floods",
+      "link": "https://www.theguardian.com/us-news/2025/dec/10/pacific-north-west-flooding",
+      "published": "2025-12-11T00:23:41",
+      "content": "Bob Ferguson says he has also activated the state’s national guard to respond to the floodingThe governor of Washington, Bob Ferguson, declared a statewide emergency on Wednesday in response to heavy rain in the Pacific north-west state since an atmospheric river smacked the region a day earlier with rains that triggered mudslides and washed out roads and submerged vehicles.The emergency declaration, Ferguson said, “allows us to seek federal funds to cover the cost of this response, which we anticipate will be significant, and also gives us the flexibility we need to respond quickly to keep Washingtonians safe in a fast-moving situation”. Continue reading...",
+      "content_length": 666,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US may require visa-free travellers to submit social media, family data",
+      "link": "https://www.france24.com/en/americas/20251211-us-may-require-visa-free-travelers-to-submit-social-media-family-data-trump-free-speech-privacy-tourism",
+      "published": "2025-12-11T00:22:20",
+      "content": "The US may soon require travellers from visa-exempt countries to provide extensive personal information, including social media activity, email accounts, and family history, before being allowed entry. Under the proposal, citizens of roughly 40 countries who currently travel through the Visa Waiver Program would need to submit five years of social media history and other detailed data through the ESTA system. The move has raised privacy and free speech concerns.",
+      "content_length": 466,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Online child sexual abuse surges by 26% in year as police say tech firms must act",
+      "link": "https://www.theguardian.com/society/2025/dec/11/online-child-sexual-abuse-surges-by-26-percent-in-year-as-police-say-tech-firms-must-act",
+      "published": "2025-12-11T00:01:51",
+      "content": "Figures for England and Wales show there were  51,672 offences for child sexual exploitation and abuse online in 2024Online child sexual abuse in England and Wales has surged by a quarter within a year, figures show, prompting police to call for social media platforms to do more to protect young people.Becky Riggs, the acting chief constable of Staffordshire police, called for tech companies to use AI tools to automatically prevent indecent pictures from being uploaded and shared on their sites. Continue reading...",
+      "content_length": 520,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Donald Trump reminds the entire world he has no idea what 6G means",
+      "link": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
+      "published": "2025-12-10T23:37:26",
+      "content": "\n\n\n\t\n\t\t\n\nWhen business leaders spout buzzwords like \"AI,\" \"8K\" and \"5G,\" sometimes in the same sentence, we often get a sneaking suspicion they don't know what they mean! With President Donald Trump, there's no need to wonder: he clearly has no idea. \"What does [6G] do? Give you a little bit deeper view into somebody's skin?\" he mused today, live on TV, right in front of Qualcomm CEO Cristiano Amon, who did not bother to correct him.\n\nTrump: So we're into 6G now. Yeesh. I was a leader on 5G, getting that done. What does that do? Give you a little bit deeper view into somebody's skin? I like the cameras of the old days.- FactPost (@factpostnews.bsky. …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump could introduce ‘mandatory’ social media reviews for travelers",
+      "link": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
+      "published": "2025-12-10T23:21:05",
+      "content": "\n\n\n\t\n\t\t\n\nThe Trump administration could soon require tourists from dozens of nations to hand over their social media handles before entering the country. Under a proposal from US Customs and Border Protection, the agency would make social media history from the past five years a \"mandatory\" part of the screening process, as reported earlier by The New York Times. \nRight now, travelers from 42 countries - including Australia, France, Germany, Japan, and the UK - can visit the US for up to 90 days without a visa. If the proposal becomes official, visitors would have to include their social media accounts when applying through the Electronic System for …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "After years of resisting it, SpaceX now plans to go public. Why?",
+      "link": "https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/",
+      "published": "2025-12-10T23:16:52",
+      "content": "SpaceX is planning to raise tens of billions of dollars through an initial public offering next year, multiple outlets have reported, and Ars can confirm. This represents a major change in thinking from the world’s leading space company and its founder, Elon Musk.\nThe Wall Street Journal and The Information first reported about a possible IPO last Friday, and Bloomberg followed that up on Tuesday evening with a report suggesting the company would target a $1.5 trillion valuation. This would allow SpaceX to raise in excess of $30 billion.\nThis is an enormous amount of funding. The largest IPO in history occurred in 2019, when the state-owned Saudi Arabian oil company began public trading as Aramco and raised $29 billion. In terms of revenue, Aramco is a top-five company in the world.Read full article\nComments",
+      "content_length": 819,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine sends revised peace plan to US as Trump blasts Europe",
+      "link": "https://www.france24.com/en/live-news/20251210-ukraine-sends-us-new-plan-to-end-the-war-as-trump-blasts-europe",
+      "published": "2025-12-10T22:35:14",
+      "content": "A fresh rift opened between Washington and Europe on Wednesday after Ukraine delivered a new US-requested peace blueprint, prompting President Donald Trump to lash out at Kyiv and its allies as they push back against elements of the American plan.",
+      "content_length": 247,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Machado to come out of hiding after missing Nobel ceremony",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251210-machado-to-come-out-of-hiding-after-missing-nobel-ceremony",
+      "published": "2025-12-10T22:27:59",
+      "content": "Nobel laureate Maria Corina Machado is set to address the world on Thursday, according to the Norwegian government, after the Venezuelan opposition leader was awarded the prestigious peace prize in her absence. FRANCE 24's Sharon Gaffney speaks with Phil Gunson, Senior Analyst at International Crisis Group.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Is the Louvre cursed? Water leak triggers new wave of disinformation",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251210-is-the-louvre-cursed-water-leak-triggers-new-wave-of-disinformation",
+      "published": "2025-12-10T22:23:24",
+      "content": "The Louvre museum is making headlines once again. This time, not because of stolen jewellery, but because of a water leak. A few days ago, a pipe malfunctioned causing water to rain over rare books, and triggering a wave of AI-generated disinformation. We take a closer look in this edition of Truth or Fake.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Former Bolivian president Luis Arce reportedly detained by police",
+      "link": "https://www.theguardian.com/world/2025/dec/10/bolivia-luis-arce",
+      "published": "2025-12-10T22:16:58",
+      "content": "Ally claims former Mas president ‘illegally kidnapped’ and suggests arrest linked to fund for Indigenous BoliviansBolivia’s former president Luis Arce was reportedly detained and taken to police headquarters on Wednesday.His former presidency minister, María Nela Prada Tejada, posted a video on social media saying she had received information from “unofficial sources” that Arce had been “illegally kidnapped” by police. Continue reading...",
+      "content_length": 442,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Spotify&#8217;s Prompted Playlists use AI to control your algorithm",
+      "link": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
+      "published": "2025-12-10T22:11:57",
+      "content": "\n\n\n\t\n\t\t\n\nA new beta feature on Spotify takes the idea behind the Discover Weekly playlist and puts the control in users' hands through AI prompts. Prompted Playlists, which are initially launching in New Zealand on Thursday, let users type out exactly what they want to listen to, with as much or little detail as they like. Then Spotify's AI curates a playlist based on those instructions and the user's listening history. \nUsers can also set Prompted Playlists to regularly refresh with new songs based on the same prompt, effectively allowing you to make a Discover Weekly playlist with an algorithm you control. Earlier this year, Discover Weekly playli …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Montana youth activists who won landmark climate case push for court enforcement",
+      "link": "https://www.theguardian.com/us-news/2025/dec/10/montana-climate-youth-activists-petition-law",
+      "published": "2025-12-10T22:08:16",
+      "content": "In 2023, court ruled in favor of 16 plaintiffs that officials violated their constitutional right by promoting fossil fuelsThe young Montanans who scored a landmark triumph in the lawsuit Held v Montana are calling on the state’s highest court to enforce that victory.In a groundbreaking legal decision in August 2023, a Montana judge ruled in favor of 16 youth plaintiffs who had accused state officials of violating their constitutional rights by promoting fossil fuels. The state’s supreme court affirmed the judge’s findings in late 2024. But state lawmakers have since violated her ruling, enshrining new laws this year that contradict it, argue 13 of the 16 plaintiffs in a petition filed on Wednesday. Continue reading...",
+      "content_length": 728,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US Federal Reserve cuts interest rates for the third straight time",
+      "link": "https://www.france24.com/en/tv-shows/business/20251210-us-federal-reserve-cuts-interest-rates-for-the-third-straight-time",
+      "published": "2025-12-10T21:53:46",
+      "content": "The US Federal Reserve has lowered its benchmark rate by a quarter percentage point, to a range of 3.5% - 3.75%, but signalled there will be fewer cuts going forward amid a cooling labour market and persistently high inflation. The vote was not unanimous, with two calling for keeping rates unchanged, and Trump ally Stephen Miran wanting a larger cut.  Also in the segment, the United Arab Emirates is turning towards AI as part of a strategy at ensuring its future in a post-fossil-fuels world.",
+      "content_length": 496,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "M23 rebels enter strategic congolese town as peace deal crumbles",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251210-m23-rebels-enter-strategic-congolese-town-as-peace-deal-crumbles",
+      "published": "2025-12-10T21:36:31",
+      "content": "In tonight's edition, Rwanda-backed M23 fighters have entered the strategic town of Uvira in eastern DRC, near the Burundian border. Also, at least 22 people have died in Morocco's third largest city, Fez, following the collapse of two residential buildings. And we celebrate women in science with the L'Oreal-UNESCO's Women in Science Young Talents award.",
+      "content_length": 356,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network",
+      "link": "https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition",
+      "published": "2025-12-10T21:31:24",
+      "content": "\n\n\n\t\n\t\t\n\nA startup called Operation Bluebird is trying to reclaim Twitter's branding, as reported earlier by Ars Technica and Reuters. Last week, Operation Bluebird filed a petition that asks the US Patent and Trademark Office (USPTO) to cancel X Corp.'s ownership of the \"Twitter\" and \"Tweet\" trademarks, claiming they've been \"abandoned\" by the Elon Musk-owned company.\nOperation Bluebird is led by founder Michael Peroff, an Illinois trademark and brand protection attorney, along with Stephen Coates, a trademark attorney who worked as Twitter's associate director of trademarks, domain names, and marketing from 2014 to 2016. The startup also filed a t …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best budget robot vacuums",
+      "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "published": "2025-12-10T21:31:06",
+      "content": "\n\n\n\t\n\t\t\n\nToday’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget that they can just be simple machines that get us from point A to point B. Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, and have arms to pick up your socks, but there are plenty of basic budget robot vacuums that just do a decent job of cleaning your floor autonomously — as long as you tidy up first.\n\nFancier models have obstacle recognition, and some even use AI-powered cameras to tell popcorn from poop and avoid the latter. If you want one of those, check out my best robot vacuum buying guide. But if you think you can manage the task of picking up after yourself (and your puppy), a budget bot will save you a lot of money and still do a good job cleaning your floor.&nbsp;\n\n\n\nBest budget robot vacuum&nbsp;\nTapo RV30 Max Plus\nA budget robot vacuum and mop with high-end features, including room-specific cleaning, carpet boost, and smart navigation, it also features an auto-empty dock for just $80 more.\n\nScore: 8ProsConsCheap, even with the auto-empty dock A dual mop and dustbin means no swappingRoom-specific cleaningCarpet boostShort battery lifeSlow to rechargeDocking can be spottyBasic obstacle detection\nWhere to Buy: $329.99 $199.99 at TP-Link (with code WEEKLY80OFFRV) $329.99 $279.99 at Amazon\nSuction power: 5,300Pa / Dustbin capacity: 300ml / Self-empty dock option: Yes / Mopping option: Yes / Mapping: Yes, lidar / Keep-out zones: Yes, virtual / Runtime: 100 mins, 2,600mAh battery/ Brush style: Single rubber bristle hybrid / Works with: Matter\n\nFor around $300, the Tapo RV30 Max Plus is a very capable robot vacuum and mop with some key features typically found only on vacuums that are more than twice its price. These include room-specific cleaning, multiple suction and water levels, smart lidar-based navigation, and an auto-empty dock. With brands like  Roborock, you&#8217;re often paying double for the privilege of not having to empty the bot’s bin.\n\nThanks to lidar navigation, the RV30 did an excellent job of navigating my house, cleaning the perimeters of the rooms, and then using a mesh grid to clean inside the rooms. I did have to tidy up before it ran, though, as there’s no camera on board or AI-powered obstacle detection — so cables and socks will trip it up. \n\nIts 5,200Pa suction power is impressive on a bot at this price, and ably sucked up Cheerios and dry oatmeal on hard flooring. It left some of the finer dust and debris, as its single bristle / rubber brush isn’t super effective. It fared less well on carpet. However, in the app, I could set it to clean a room three times for each job, after which it generally picked up all visible debris.\n\nMopping was better than average for a mop with no pressure or oscillation. It has a wide mop pad, and the bot has a big 300ml tank (which also incorporates a 300ml dustbin), so it applies enough water for a good surface clean.\n\nAnother unique feature for a budget robot is the ability to set customized cleaning for each room, choosing from five suction levels and three water levels as well as three rotations.\n\nThe Tapo app is very simple to use, with an easy-to-edit map that lets you add virtual walls and no-go zones, add furniture, and designate carpet areas. There’s no carpet sensing, so you need to tell it where carpets are if you don’t want it to mop them. You can also set the cleaning direction and build up to four maps — again, features usually only found on higher-end robots.\n\n5,200Pa suction power is impressive on a bot at this price\n\nIt&#8217;s also easy to start a clean from the app, and I really like that you can tap on the map to send the robot to that spot.\n\nThe biggest downside of the Tapo is its tiny battery, which is just 2,600mAh. That is half the size of most vacs, and it couldn’t clean my entire 800-square-foot downstairs without needing to go back and recharge. It also takes a while to charge and occasionally has trouble repositioning itself on its dock.\n\nYou can get the RV30 without the auto-empty dock for around $80 less if you prefer an even simpler robot vacuum setup. This way, it will fit under a couch or bed, but you’ll have to manually empty its bin.\n\nBest basic bump-and-roll bot\nShark Ion\nA truly basic budget bot, the Shark has good suction power,   a big bin, and a roller brush made of bristle and plastic that doesn’t get tangled up easily. There’s no mapping, keep out zones, or obstacle detection, but the bot does offer big wheels that easily roll over obstacles and high transitions between rooms. It&#8217;s easy to buy replacement parts, too, making this one that can go for years. \n\nScore: 7ProsConsBig binEasy to operateEasy to repairBig wheels means it can get over most transitionsLoud and rattlyNo mapping No keep-out zones\nWhere to Buy: $249.99 $234.14 at Amazon $249.99 at Shark\nSuction power: unknown / Dustbin capacity: 425ml /&nbsp; Runtime: 120 mins / Brush style: single bristle / rubber hybrid / Auto-empty dock option: no / Mapping: no / Keep-out zones: no / Works with: Amazon Alexa, Google Home\n\nThe Shark Ion’s big bin, simple app experience, decent battery life, repairability, and bullish nature make this an excellent bump-and-roll bot. It doesn’t map or have any special navigation features other than colliding with things and changing direction. It’s not fancy, but it gets the job done.\n\nIt’s a good one to stick under a bed or desk and set to run when you’re not home, as it’s loud and rattly and will bang into everything in its path. But its big wheels and 120-minute runtime mean it’s less prone to getting stuck or running out of juice than simpler $200 bots.&nbsp;\n\nUnlike many budget bots, it uses a hybrid roller brush that’s both bristle and plastic and doesn’t get as tangled as standard bristle brushes. Its short, squat side brushes are surprisingly effective at getting debris into the robot’s path, and because they’re short, they’re less prone to getting tangled in stray cords.\n\nBut the best thing ‘bout this bot is its tank-like wheels that will roll right over anything in its path, including high transitions between rooms, obstacles like lounger chair legs, and other furniture traps that regularly stump other bots. That’s a good thing, as there’s no mapping, obstacle detection, or any way to set keep-out zones here. This bot just goes.&nbsp;\n\nAnother bonus: replacement parts are easily available, making it simple to repair and just keep going.\n\nShark doesn’t share suction power specs, but it ably handled all my tests, including the toughest: raw oatmeal. Those little flakes are hard to pick up; side brushes will spin them all over the floor. It did a good job on pet hair, too, although, like most robots I tested, it required at least two runs to get everything up effectively.\n\nThe app is super basic: just on / off, scheduling, and a choice of three power levels (all loud). Disappointingly, you can only schedule it once a day. Most robots can be programmed to do two to three passes, but in place of that, I like the option to schedule it to go out twice to make sure it gets the job done. I couldn’t do that with the Shark. Still, you can press its button or use the app to send it out again if needed.\n\nBest budget robot vacuum without Wi-Fi\nEufy 11S Max\nThe Eufy 11S Max is a super slim, repairable bump-and-roll bot with a large 600ml bin and three cleaning levels. Its biggest selling point for some, however, is that it lacks Wi-Fi, meaning you don’t have to fiddle with an app.\n\nScore: 8ProsConsBig binSlim profileAvoids obstaclesQuietEasily repairableNo mappingNo keep-out zonesSmall battery\nWhere to Buy: $279.99 $149.99 at Amazon $279.99 $139.99 at Walmart  $279.99 $259.99 at eBay (with code KLARNAUS50)\nSuction power: 2,000Pa / Dustbin capacity: 600ml /&nbsp;Runtime: 100 mins / Brush style: single bristle / rubber hybrid / Auto-empty dock option: no / Mapping: no / Keep-out zones: no / Works with: n/a\n\nThe Eufy 11S Max is a rarity — a robot vacuum that doesn’t use Wi-Fi at all. There’s not even an app. Instead, you just press the button, and off it trundles. It also comes with a remote if you&#8217;d rather not get up off the couch, and you can use that to program it to clean at a specific time. \n\nThe 11S is super slim, 72.5mm high, with no lidar tower, so it will get under most couches. It has a big 600ml bin, and I was very impressed with how much it got up off my hardwood floors, even with its relatively small 2,000Pa of suction. There are three cleaning levels, and at the lowest, it registers around 55db, which is quiet enough to run in a home office.\n\nIt does have a smallish battery — only 100 minutes of runtime — but it will go back and recharge. For $200, this is the perfect budget bot for those wary of or who don’t want to deal with an app or Wi-Fi. It’s a bump-and-roll bot, meaning there are no real navigation skills. But it has plenty of replaceable parts, including the battery and wheels, so you can keep it going for a long time.\n\nOther budget robot vacuums to consider\n\n\nThe $239.99 $399.99 Switchbot K11 Plus is a great option for small spaces. It’s tiny size lets it navigate around tight spaces with ease, and it even comes with a charging dock that’s shorter than a ruler. Despite its compact size, it offers 6,000Pa suction and does a good job of cleaning up both carpets and hardwood floors. Just note that its mopping is more of a light wipe than a true scrub, and there’s no AI-powered obstacle avoidance.\n\n\nWhat we’re currently testing and what’s coming next\n\n\nIn light of reports around iRobot’s uncertain future, we’ve removed the iRobot Roomba Combo i5 from our recommendations. While if the company goes out of business, Roombas should still work in offline mode, you may not be able to control them via the app or with voice commands. As for the company’s new budget robovacs — Roomba’s $169.99 $319.99 Roomba 105 Combo and the $469.99 Roomba 205 DustCompactor Combo — we’re still in the testing phase, but so far aren’t impressed. While both models can vacuum and mop, boast 7,000Pa of suction, and include other useful features, each has already run into notable issues during testing. For example, the 205 we received — which features an onboard debris and dust compactor that iRobot says goes eight weeks before having to be emptied — arrived with battery problems.\n\n\n\nWe’re also in the process of testing the&nbsp;$329.99&nbsp;$549.99&nbsp;Roborock Q10 S5 Plus Robot Vacuum and Mop, and so far we’re fans. Along with 10,000Pa of suction power, it offers a 2.7-liter self-emptying base that can hold up to 70 days’ worth of debris. Its sonic mop lifts automatically when it detects carpet and can scrub floors 3,000 times per minute, and you can set specific rooms to clean, create no-go zones, and customize cleaning schedules.\n\n\n\nShark has launched a new line of budget robots under its Navigator line. We’ve started testing the Shark Navigator RV2110 and, so far, we’re impressed with its basic lidar navigation, which allows it to map your home so it doesn’t need to bump n’ roll like the Ion. At the current sale price of $179.99 $299.99, it’s a good option as you have more control of where it cleans, and it doesn’t miss areas.\n\n\n\nThe Shark RV2120AE is the same robot with an auto-empty dock, which, like all Shark auto-empty docks, doesn’t require replacement dust bags. However, at $249.99 ($150 off) $499.99, the RV2120AE is more expensive than the Tapo, even when you consider that you have to purchase bags for the latter. The Shark RV2110AE is cheaper at $348, but it has a smaller battery and only one side brush, so it won’t run as long between charges. One benefit of Shark vacuums to consider over the Tapo is that they’re very repairable — you can buy replacement parts for almost everything on the bot, which you can’t with the Tapo.\n\n\nUpdate, December 10th: Adjusted pricing and availability. Removed the Roborock Q5 Pro and added the Switchbot K11 Plus. Sheena Vasani also contributed to this post.",
+      "content_length": 12100,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "After NPR and PBS defunding, FCC receives call to take away station licenses",
+      "link": "https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/",
+      "published": "2025-12-10T21:05:44",
+      "content": "A conservative group yesterday urged the Federal Communications Commission to take licenses away from NPR and PBS stations and let other entities use the spectrum. The request came from the Center for American Rights (CAR), a nonprofit law firm that has played a prominent role in the news-distortion investigations spearheaded by FCC Chairman Brendan Carr.\n“In the wake of the wind-down of the Corporation for Public Broadcasting and the end of federal funding for NPR and PBS, the Center respectfully suggests that the Commission open an inquiry that looks at the future of ‘public’ broadcasting in that new environment,” a Center for American Rights filing said.\nThe CPB is set to shut down after Congress approved President Trump’s request to rescind its funding. The Center for American Rights said the CPB shutdown should be used as an opportunity to reassign spectrum used by NPR and PBS stations to other entities.Read full article\nComments",
+      "content_length": 948,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump: USA beschlagnahmen Tanker vor der Küste Venezuelas",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-venezuela-tanker-100.html",
+      "published": "2025-12-10T21:00:27",
+      "content": "   Die USA haben vor der Küste Venezuelas einen Tanker unter ihre Kontrolle gebracht. Das bestätigte US-Präsident Trump. Seit Wochen erhöhen die USA den Druck auf Venezuela und verlegen Seestreitkräfte in die Region.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The Verge’s favorite holiday gifts under $100",
+      "link": "https://www.theverge.com/tech/800440/best-gifts-under-100-2025",
+      "published": "2025-12-10T21:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nBetween all the new phones, smartwatches, and laptops we see throughout the year, it often feels like we're constantly being nudged toward shinier, more expensive gadgets. And I get it. As a self-professed gadget nerd, few things are more exciting than unboxing and setting up a new device.\nBut the truth is, you can still find plenty of great gifts for under $100. I use the Leatherman Free T4 every day, while Donkey Kong Bananza has provided me (and other Verge staffers) with hours of entertainment. If someone in your life loves the satisfaction of building and has shelves full of knickknacks, the Lego Game Boy is (as our reviewer termed it) …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US forces seize oil tanker near Venezuela, Caracas condemns move as 'piracy'",
+      "link": "https://www.france24.com/en/americas/20251210-us-forces-seize-oil-tanker-off-coast-of-venezuela-trump-says",
+      "published": "2025-12-10T20:56:11",
+      "content": "President Donald Trump said Wednesday that US forces seized a large oil tanker off the coast of Venezuela, marking his administration's latest escalation in its pressure campaign against President Nicolas Maduro. Venezuela's foreign ministry denounced what it called \"blatant theft\" and \"piracy\" amid escalating tensions between the countries.",
+      "content_length": 343,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "'China potentially setting the stage to use military force' against Japan, analyst says",
+      "link": "https://www.france24.com/en/video/20251210-china-potentially-setting-the-stage-to-use-military-force-against-japan-analyst-says",
+      "published": "2025-12-10T20:39:26",
+      "content": "Japan has scrambled jets to monitor Russian and Chinese air forces conducting joint patrols around the country. China's rising military actions in the area follow Japanese PM Sanae Takaichi's comment last month that Tokyo could respond to any Chinese military action against Taiwan that also threatened Japan's security. Bonny Lin, Senior Adviser at CSIS, says that recent developments suggest 'China is potentially setting the stage to use military force if it wanted to'.",
+      "content_length": 473,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A new open-weights AI coding model is closing in on proprietary options",
+      "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
+      "published": "2025-12-10T20:38:58",
+      "content": "On Tuesday, French AI startup Mistral AI released Devstral 2, a 123 billion parameter open-weights coding model designed to work as part of an autonomous software engineering agent. The model achieves a 72.2 percent score on SWE-bench Verified, a benchmark that attempts to test whether AI systems can solve real GitHub issues, putting it among the top-performing open-weights models.\nPerhaps more notably, Mistral didn’t just release an AI model, it released a new development app called Mistral Vibe. It’s a command line interface (CLI) similar to Claude Code, OpenAI Codex, and Gemini CLI that lets developers interact with the Devstral models directly in their terminal. The tool can scan file structures and Git status to maintain context across an entire project, make changes across multiple files, and execute shell commands autonomously. Mistral released the CLI under the Apache 2.0 license.\nIt’s always wise to take AI benchmarks with a large grain of salt, but we’ve heard from employees of the big AI companies that they pay very close attention to how well models do on SWE-bench Verified, which presents AI models with 500 real software engineering problems pulled from GitHub issues in popular Python repositories. The AI must read the issue description, navigate the codebase, and generate a working patch that passes unit tests. While some AI researchers have noted that around 90 percent of the tasks in the benchmark test relatively simple bug fixes that experienced engineers could complete in under an hour, it’s one of the few standardized ways to compare coding models.Read full article\nComments",
+      "content_length": 1619,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Sturmtief Byron trifft Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-ueberschwemmungen-100.html",
+      "published": "2025-12-10T20:33:35",
+      "content": "   Über den kriegszerstörten Gazastreifen ist nun auch noch ein heftiges Sturmtief gezogen und hat schwere Überschwemmungen verursacht. Die Lage der Menschen wird immer verzweifelter. Von Julio Segador.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "European nations weigh looser protections for migrants amid rise of far right parties",
+      "link": "https://www.france24.com/en/video/20251210-european-nations-weigh-looser-protections-for-migrants-amid-rise-of-far-right-parties",
+      "published": "2025-12-10T20:30:27",
+      "content": "European ministers on Thursday battled to resolve differences over the continent's human rights treaty at a meeting in Strasbourg, with some pushing for greater leeway to deport illegal migrants.  At least 27 countries have now called for a rethink of the treaty's interpretation by the European Court of Human Rights, according to reports. FRANCE 24's Dave Keating reports from Brussels.",
+      "content_length": 388,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best smart rings for tracking sleep and health",
+      "link": "https://www.theverge.com/tech/647901/best-smart-rings",
+      "published": "2025-12-10T20:29:50",
+      "content": "\n\n\n\t\n\t\t\n\nSo, you’re thinking of buying a smart ring. Well, some good news. Picking the best of the lot is incredibly easy right now. The “bad” news is that, as far as trustworthiness and reliability, your choices are somewhat limited, as this is still a niche and emerging gadget category.\n\nSmart rings are in the middle of a resurgence. That means a lot of experimental ideas and newcomer tech brands you’ve probably never heard of. Enough competitors have cropped up that I spent the better part of last summer rocking six rings like a high-tech mafia don. While these aren’t necessarily bad products (some are pretty good), many aren’t as polished as what you’d see in more mature categories like smartwatches, headphones, and smartphones.&nbsp;\n\nSpeaking of which, there are a few things to know about the category. Currently, these devices are primarily health trackers. Their benefit is that they’re more discreet and better suited to sleep tracking than a smartwatch. However, the vast majority don’t include smart alarms or push notifications. This makes them best suited for casual athletes or more wellness-minded people. In most cases, hardcore athletes would be better served by a smartwatch or fitness tracker, with a smart ring serving as a supplementary source of data. (But that’s quite an expensive endeavor.) Smart rings are also ill-suited for weightlifters, as they can easily scratch against equipment.&nbsp;\n\nWith that in mind, here’s the best smart ring for most people in 2025 — and a handful of runners-up worth highlighting for the more tech-adventurous.\n\nBest smart ring for most people\nOura Ring 4\nThe Oura Ring 4 has a new all-titanium design, improved battery life, and better accuracy thanks to a new sensor algorithm. \n\nScore: 9ProsConsMore sizesSlimmer designExpanded auto workout detectionRedesigned appBetter battery lifeSubscription required to get all featuresI still wish this had a charging case\nWhere to Buy: $349 at Amazon $349 at Best Buy $349 at Oura\nSurprising no one, it’s the Oura Ring 4.&nbsp;\n\nI can already hear some of you shouting, “But what about the subscription!” And I agree. Even Oura’s relatively affordable $5.99 monthly fee can feel more like $100 when you consider the sheer number of apps, gadgets, and services asking for a chunk of your monthly paycheck. However, Oura is still the best in terms of hardware, size range, features offered, app, dedication to research, and experience in the field. Many of the smart rings available today follow the example set by Oura over the past decade.&nbsp;\n\nThe upgrades from the Oura Ring Gen 3 to the Oura Ring 4 were mostly software-based, with minor hardware refinements. You can read more in my review, but the gist is a more accurate heart rate and blood oxygen algorithm, improved automatic activity detection, and an expanded range that spans size 4 to 15. The app has been redesigned to be less cluttered, and earlier this year, Oura added AI-powered meal logging and glucose tracking, the latter of which requires Oura users to purchase a Dexcom Stelo CGM ($99). Oura also launched an AI chatbot. (Of the AI chatbots in health trackers I’ve tested, this one is among the more polished implementations — though it often feels like Captain Obvious-level insights.)&nbsp;\n\nMore recently, Oura rolled out a new feature called Health Panels, which lets you schedule a blood test at a local Quest Diagnostics location for $99. Users can then view approximately 50 biomarkers within the app related to cardiovascular and metabolic health.\n\nIn addition to the metal versions introduced last year, Oura recently launched colorful ceramic versions of its fourth-gen ring, with prices starting at $499. One downside of the original metal version is that the coating can scuff or wear off with daily use. The new rings are more durable thanks to a zirconia ceramic exterior, which is harder than steel and more resistant to cracking or chipping from impact. However, the trade-off is that the ceramic version is both thicker and heavier, so it may not be as comfortable to wear over extended periods.\n\nI’ve been long-term testing three iterations of the Oura Ring since 2018. Accuracy, design, and comfort have improved with each generation. The company continues to communicate research and scientific developments clearly and frequently. Third-party retail options have expanded, and I’ve seen investment pour into Oura. In an emerging category, these things matter. A lot. While I believe some of Oura’s newer competitors do some things better or have more creative ideas, Oura is the one I continually recommend for its combination of reliability, accuracy, and experience.\n\nRead my full Oura Ring 4 review.\n\nHonorable mentions\n\nIf subscriptions are an absolute dealbreaker, you’ll find zero protest here. In that case, here are the best alternatives to the Oura Ring.&nbsp;\nSamsung Galaxy Ring\n\nScore: 7ProsConsExcellent hardwareLong battery lifeSlim, lightweight designNo subscriptionAndroid onlyBetter if used with Samsung productsAccuracy is a mixed bag\nWhere to Buy: $399.99 $249.99 at Amazon $399.99 $249.99 at Best Buy $399.99 $279.99 at Samsung \nThe $400 Samsung Galaxy Ring nails the hardware. Its charging case is more elegant than the Oura Ring’s, and I prefer the slightly concave design for comfort. It also has the second widest size range. If you’re already all-in on a Samsung Galaxy Watch 8 or Ultra, you get the added benefit of extended battery life. If you have the latest Galaxy Z Flip 7 or Z Fold 7, Samsung also has gesture controls for the ring so you can control the camera.\n\nThere are a lot of interesting ecosystem-centric ideas that Samsung has for its Galaxy Ring, but while there’s no subscription (yet), it’ll cost you a pretty penny to unlock the ring’s full potential. Without discounts, we’re talking about $1,800 to nearly $3,000 for the phone, watch, and ring. The Galaxy Ring is also a first-gen device with some first-gen quirks, too. Samsung is still catching up with sleep tracking accuracy, and its Galaxy AI-powered health features are rather hit or miss.\nUltrahuman Ring Air\n\nWhere to Buy: $349 at Best Buy $349 $279 at Walmart\nI’m also keen on the $350 Ultrahuman Ring Air. It gave the Oura Ring an honest run for its money when I tested six smart rings at once last year. It’s not quite as good with accuracy, but it’s on par with comfort and design. The app has much more of a fitness focus than wellness. Instead of a subscription, it has “PowerPlugs.” You can think of them as add-on features. Some are free, like smart alarms and cycle tracking. Others will come with an additional fee, like a planned atrial fibrillation detection PowerPlug and a cardio adaptability metric, which currently costs $24 a year.\nRingConn Gen 2 Air\n\nWhere to Buy: $199 at Amazon $199 at RingConn\nLastly, I’ve been testing the RingConn Gen 2 Air, a slimmer, entry-level version of its Gen 2 ring. At $200, it’s the most affordable smart ring I’ve tested but looks and feels a lot nicer than the original RingConn I tested last summer. I had issues with the RingConn’s squarish shape, but it’s much less noticeable this time around and more comfortable. It’s broadly accurate, and the app goes heavy on AI, to middling effect. It has great battery life. I’ve gotten around eight to nine days on a single charge — far better than any other smart ring I’ve tested.&nbsp;\n\nWhat’s coming next\n\n\nSandbar, a company founded by former Meta employees, recently announced plans for the AI-powered Stream Ring, which you can preorder now ahead of its tentative release in the summer of 2026. The new smart ring will be available in silver for $249 and gold for $349; both are made of aluminum and feature a black resin band interior, along with an exterior button that users can press to capture voice notes. Additionally, the Stream Ring supports a personalized AI chatbot and promises “all-day battery life.”\n\n\n\nPebble is getting into the smart ring game with the Index 01, which is available for preorder for $75 ahead of its March 2026 debut. Instead of focusing on health and wellness tracking, though, the ring is designed to capture voice notes, set timers and alarms, and create reminders. Whatever you record is sent to the Pebble app for iOS or Android, where you can see a feed of the audio and transcriptions you’ve collected. Pebble says the Index 01’s battery can last a couple of years; however, it can’t be recharged, so once it’s dead, that’s it.\n\n\nUpdate, December 10th: Updated to reflect current pricing / availability and details about the new Pebble Index 01 and ceramic Oura Ring 4. Brandon Russell also contributed to this post.",
+      "content_length": 8673,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The scramble to launch data centers into space is heating up",
+      "link": "https://www.theverge.com/news/841887/data-center-space-solar-power-aetherflux-lunch",
+      "published": "2025-12-10T20:13:03",
+      "content": "\n\n\n\t\n\tBaiju Bhatt, co-founder of space-based solar company Aetherflux and Robinhood Financial LLC, speaks during the TechCrunch Disrupt 2018 summit in San Francisco, California, U.S., on Thursday, Sept. 6, 2018.\t\n\nA startup developing technologies to harness solar power in space is throwing its hat in with big tech companies attempting to build out data centers that orbit Earth. The US-based company, Aetherflux, announced on Tuesday that it plans to launch its first data center satellite in early 2027 - the first piece of a larger constellation of satellites it's calling the \"Galactic Brain.\" \nTech companies are running into physical limits to their AI ambitions on Earth - namely needing more space and electricity for data centers. One potential solution they're exploring is to try sending some of those data centers into orbit, where they could run o …\nRead the full story at The Verge.",
+      "content_length": 898,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
+      "link": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
+      "published": "2025-12-10T20:07:47",
+      "content": "In a surprising, and likely temporary, turn of events, the number of people paying to watch cable channels has grown.\nOn Monday, research analyst MoffettNathanson released its “Cord-Cutting Monitor Q3 2025: Signs of Life?” report. It found that the pay TV operators, including cable companies, satellite companies, and virtual multichannel video programming distributors (vMVPDs) like YouTube TV and Fubo, added 303,000 net subscribers in Q3 2025.\nAccording to the report, “There are more linear video subscribers now than there were three months ago. That’s the first time we’ve been able to say that since 2017.”Read full article\nComments",
+      "content_length": 640,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Will Labour’s move to limit ECHR deter the far right or alienate progressive voters?",
+      "link": "https://www.theguardian.com/law/2025/dec/10/labour-seeks-to-reform-human-rights-laws-in-order-to-save-them",
+      "published": "2025-12-10T20:03:30",
+      "content": "Previously sceptical MPs now want to modernise human rights law to prevent an overreach of the law and losing to the far rightThe sight of David Lammy and the attorney general, Richard Hermer, arriving in Strasbourg together to demand new constraints on human rights law would have been unthinkable a year ago. But as one ally says, quoting Giuseppe Tomasi di Lampedusa’s seminal 1860s novel The Leopard: “If we want things to stay as they are, things will have to change.”It was that sentiment that convinced Lammy’s predecessor, Shabana Mahmood, now home secretary, that the UK should join the push to seek a declaration to change how the European convention of human rights should be interpreted. Continue reading...",
+      "content_length": 719,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "I couldn&#8217;t fix it with iFixit’s AI FixBot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot",
+      "published": "2025-12-10T19:44:24",
+      "content": "\n\n\n\t\n\t\t\n\nMy classic Sony CRT television won't power on. My living room is chilly because my Mitsubishi heat pump isn't putting out enough hot air. I want my Japanese N64 to play US games, too, but I've been too busy to pop the hood. What if I had an AI companion to talk me through?\niFixit just released a voice-and-text chatbot to do just that, one that can supposedly help you figure out repairs just by talking to it - FixBot will ask you questions, and you can share images, too. iFixit claims it \"thinks out loud with you, the way a master technician would, until the diagnosis clicks into place.\"\nHaving tried it, I would definitely not trust iFixit' …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Americans repeating Russian talking points 'very painful' for Ukrainians, MP says",
+      "link": "https://www.france24.com/en/video/20251210-americans-repeating-russian-talking-points-very-painful-for-ukrainians-mp-says",
+      "published": "2025-12-10T19:35:34",
+      "content": "Military aid for Ukraine plummeted in the second half of 2025 as falling European contributions failed to make up for the halt in US support, data from the Kiel Institute showed Wednesday. This as Ukraine is expected to give its latest peace proposals to U.S. negotiators. Speaking on FRANCE 24, Ukrainian MP Lisa Yasko says that Ukrainians 'cannot surrender, cannot pretend that the aggressor suddenly became non-aggressor' as suggested by US President Donald Trump.",
+      "content_length": 467,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Reddit is testing verification",
+      "link": "https://www.theverge.com/news/841879/reddit-verification-test",
+      "published": "2025-12-10T19:33:26",
+      "content": "\n\n\n\t\n\t\t\n\nReddit is starting to test verified profiles, the company announced today. Users who are verified as part of this \"limited alpha test\" will have a gray checkmark next to their username \"across profiles, communities, feeds, post detail pages, and search results.\"\nFor this \"initial test,\" Reddit says it's \"selected a group of public figures and trusted partners,\" and they'll need to opt in, have accounts in good standing, and \"actively contribute\" on the platform. Reddit notes that verification \"doesn't grant special privileges.\"\nCurrently, users can't request verification. Businesses that already have the \"Official\" label that Reddit starte …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US-Geldpolitik: Notenbank Fed senkt abermals den Leitzins",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-zinssenkung-usa-100.html",
+      "published": "2025-12-10T19:31:16",
+      "content": "   Unter erschwerten Bedingungen hat die US-Notenbank ihre Zinsentscheidung getroffen: Der Leitzins wurde zum dritten Mal in Folge gesenkt. Notenbank-Chef Powell steht weiter unter massivem Druck.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Addiction economy: Can regulators rein in social media platforms?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251210-addiction-economy-can-regulators-rein-in-social-media-platforms",
+      "published": "2025-12-10T19:22:04",
+      "content": "Will history remember this as the day the planet started to rein in big tech?\n \nAustralia firing the first shot by banning under 16s from platforms and social media that include giants such as Instagram, YouTube and TikTok. We’ll of course ask if rebellious teens will make light work of the ban. More broadly, is this the day regulators start treating merchants of scrolling the way they do tobacco and drinks giants, like businesses with a penchant for encouraging addiction.",
+      "content_length": 477,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine war: Trump criticises European leaders on eve of crunch coalition meeting",
+      "link": "https://www.theguardian.com/world/2025/dec/10/coalition-willing-nations-war-ukraine-keir-starmer-emmanuel-macron",
+      "published": "2025-12-10T18:44:32",
+      "content": "President says there were ‘strong words’ in latest call, as Volodymyr Zelenskyy to join other European leaders to discuss peace plan on ThursdayLeaders of the “coalition of the willing” group of nations will hold a video call about the Ukraine war on Thursday as Donald Trump voiced impatience with European allies and put US involvement in further talks in doubt, saying they risked “wasting time”.Amid chaotic American efforts to push through a peace deal, the US president said on Wednesday night: “We discussed Ukraine in pretty strong words”, when asked about an earlier phone call with British prime minister Keir Starmer, French President Emmanuel Macron and Germany’s Chancellor Friedrich Merz Continue reading...",
+      "content_length": 721,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US taking 25% cut of Nvidia chip sales “makes no sense,” experts say",
+      "link": "https://arstechnica.com/tech-policy/2025/12/us-taking-25-cut-of-nvidia-chip-sales-makes-no-sense-experts-say/",
+      "published": "2025-12-10T18:30:45",
+      "content": "Donald Trump’s decision to allow Nvidia to export an advanced artificial intelligence chip, the H200, to China may give China exactly what it needs to win the AI race, experts and lawmakers have warned.\nThe H200 is about 10 times less powerful than Nvidia’s Blackwell chip, which is the tech giant’s currently most advanced chip that cannot be exported to China. But the H200 is six times more powerful than the H20, the most advanced chip available in China today. Meanwhile China’s leading AI chip maker, Huawei, is estimated to be about two years behind Nvidia’s technology. By approving the sales, Trump may unwittingly be helping Chinese chip makers “catch up” to Nvidia, Jake Sullivan told The New York Times.\nSullivan, a former Biden-era national security advisor who helped design AI chip export curbs on China, told the NYT that Trump’s move was “nuts” because “China’s main problem” in the AI race “is they don’t have enough advanced computing capability.”Read full article\nComments",
+      "content_length": 992,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
+      "link": "https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/",
+      "published": "2025-12-10T18:13:52",
+      "content": "With a key Russian launch pad out of service, NASA is accelerating the launch of two Cargo Dragon spaceships in order to ensure that astronauts on board the International Space Station have all the supplies they need next year.\nAccording to the space agency’s internal schedule, the next Dragon supply mission, CRS-34, is moving forward one month from June 2026 to May. And the next Dragon supply mission after this, CRS-35, has been advanced three months from November to August.\nA source indicated that the changing schedules are a “direct result” of a launch pad incident on Thanksgiving Day at the Russian spaceport in Baikonur, Kazakhstan.Read full article\nComments",
+      "content_length": 670,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Venezuelan Nobel peace prize winner misses ceremony but vows to continue struggle",
+      "link": "https://www.theguardian.com/world/2025/dec/10/venezuelan-nobel-peace-prize-winner-maria-corina-machado-not-attend-ceremony-oslo",
+      "published": "2025-12-10T18:11:53",
+      "content": "Daughter delivers speech, with Nobel Institute saying María Corina Machado still expected in Oslo after journey of ‘extreme danger’Venezuela’s most prominent opposition leader, María Corina Machado, has vowed to continue her struggle to free the country from years of “obscene corruption”, “brutal dictatorship” and “despair” as she was awarded the Nobel peace prize at a ceremony in Norway’s capital, Oslo.The 58-year-old conservative has lived in hiding in Venezuela since its authoritarian leader, Nicolás Maduro, was accused of stealing the 2024 presidential election from her political movement. Despite fevered speculation that she would make a dramatic appearance at Wednesday’s event, having somehow slipped out of Venezuela, Machado was not present, although she was expected to arrive in Oslo in the coming hours. Continue reading...",
+      "content_length": 843,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Investor Benko erneut teilweise schuldig gesprochen",
+      "link": "https://www.tagesschau.de/wirtschaft/benko-urteil-100.html",
+      "published": "2025-12-10T18:08:01",
+      "content": "   Investor Benko ist wegen Schädigung von Gläubigern zu einer Bewährungsstrafe verurteilt worden - seine Ehefrau wurde freigesprochen. In dem Prozess ging es um Vorwürfe, Wertgegenstände bei Angehörigen versteckt zu haben.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schwarz-roter Koalitionsausschuss: Es läuft nicht rund",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-union-spd-100.html",
+      "published": "2025-12-10T18:01:37",
+      "content": "   Schuldzuweisungen bei der Verzögerung der Bürgergeld-Reform und kontroverse Positionen zur Rente: Beim Koalitionsausschuss heute gibt es beträchtlichen Gesprächsbedarf. In der Koalition zeichnet sich ein Muster ab. Von Corinna Emundts.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
+      "link": "https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/",
+      "published": "2025-12-10T18:00:19",
+      "content": "Although many of us associate it with rally-derived machinery from the late 1990s and early 2000s, these days, Subaru has mostly abandoned its performance cars to concentrate on its true calling—rugged, all-wheel-drive vehicles that are high on practicality, powered by horizontally opposed “boxer” engines. One area where the brand has never particularly excelled has been fuel efficiency, which is where today’s test car, the Subaru Forester Hybrid, comes in.\nThe last time Ars reviewed a Subaru Forester, it left us impressed. How about one with 40 percent better economy, in that case? Now, the 2.5 L flat-four engine operates on the Atkinson/Miller cycle, which generates 162 hp (121 kW) and 154 lb-ft (208 Nm). There’s an electric motor-generator starter and an electric traction motor with 118 hp (88 kW) and 199 lb-ft (270 Nm) that work together to send a combined 194 hp (145 kW) to all four wheels via a symmetrical all-wheel drive system and a planetary continuously variable transmission.\n\n      \n      \n        \n    \n    \n      The Forester Hybrid is 183.3 inches (4,656 mm) long, 70.2 inches (1,783 mm) wide, and 68.1 inches (1,729 mm) tall, with a 105.1-inch (2,670 mm) wheelbase.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      Spot the two EyeSight cameras at the top of the windscreen.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n      \n      \n      \n        \n    \n    \n      Hatching plots.\n\n              \n          Credit:\n\n          \n          Jonathan Gitlin\n\n                  \n          \n  \n      \n    \n  \nIf that sounds vaguely familiar, that’s because it’s the same powertrain that Subaru has also fitted to the smaller Crosstrek Hybrid that we drove in September.Read full article\nComments",
+      "content_length": 1907,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "'Welcome to hell': Sarkozy discusses prison stay, far-right rapprochement in new book",
+      "link": "https://www.france24.com/en/europe/20251210-welcome-to-hell-sarkozy-discusses-prison-stay-far-right-rapprochement-in-new-book",
+      "published": "2025-12-10T17:54:38",
+      "content": "Former French president Nicolas Sarkozy describes his recent 20-day stint in prison as “hell” in a new book released on Wednesday. His “Diary of a Prisoner” provides a rare glimpse into La Santé prison in Paris, were Sarkozy was kept in solitary confinement for security reasons. It also sees the ex-president turn his back on the “republican front” of parties that has traditionally kept the far-right out of power.",
+      "content_length": 416,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU genehmigt Staatshilfen für Atomkraftwerk in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-atomkraft-102.html",
+      "published": "2025-12-10T17:30:23",
+      "content": "   Während Deutschland die Atomenergie hinter sich gelassen hat, steigt Polen erst ein. Das Nachbarland will ein AKW in Ostseenähe bauen - auch um aus der Kohleverstromung auszusteigen. Aus Brüssel gibt es nun grünes Licht. Von David Zajonz. [mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Sales connes’: Brigitte Macron faces uproar over slur targeting feminist activists",
+      "link": "https://www.france24.com/en/video/20251210-sales-connes-brigitte-macron-faces-uproar-over-slur-targeting-feminist-activists",
+      "published": "2025-12-10T17:23:20",
+      "content": "France's first lady Brigitte Macron is in the middle of another controversy, after comments she made backstage at an actor-comedian's show on Saturday surfaced online.\n \nWhat did she say, and why did it spark such an uproar on social media? FRANCE 24's Tanishk Saha explains.\n \n#BrigitteMacron #salesconnes #France",
+      "content_length": 314,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "This is the oldest evidence of people starting fires",
+      "link": "https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/",
+      "published": "2025-12-10T17:14:08",
+      "content": "Heat-reddened clay, fire-cracked stone, and fragments of pyrite mark where Neanderthals gathered around a campfire 400,000 years ago in what’s now Suffolk, England.\nBased on chemical analysis of the sediment at the site, along with the telltale presence of pyrite, a mineral not naturally found nearby but very handy for striking sparks with flint, British Museum archaeologist Rob Davis and his colleagues say the Neanderthals probably started the fire themselves. That makes the abandoned English clay pit at Barnham the oldest evidence in the world that people (Neanderthal people, in this case) had learned to not only use fire, but also create it and control it.\nA cozy Neanderthal campfire\nToday, the Barnham site is part of an abandoned clay pit where workers first discovered stone tools in the early 1900s. But 400,000 years ago, it would have been a picturesque little spot at the edge of a stream-fed pond, surrounded by a mix of forest and grassland. There are no hominin fossils here, but archaeologists unearthed a Neanderthal skull about 100 kilometers to the south, so the hominins at Barnham were probably also Neanderthals. The place would have have offered a group of Neanderthals a relatively quiet, sheltered place to set up camp, according to Davis and his colleagues.Read full article\nComments",
+      "content_length": 1316,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Migration reform divides Europe as far-right influence grows",
+      "link": "https://www.france24.com/en/video/20251210-migration-reform-divides-europe-as-far-right-influence-grows",
+      "published": "2025-12-10T17:14:05",
+      "content": "European migration policy is under renewed pressure as ministers meet to discuss tougher measures against smuggling and deportations, amid rising influence of far-right anti-immigration parties and criticism from Donald Trump. British and Danish leaders argue for “tough but fair” reforms and a modernisation of human rights rules, while the EU is preparing a major overhaul of its asylum system. Critics warn that the push for stricter policies risks sacrificing human rights in an effort to counter populism.",
+      "content_length": 510,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "BGH-Urteil: Riester-Rente darf nicht nur nach unten angepasst werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-riester-100.html",
+      "published": "2025-12-10T17:07:54",
+      "content": "   Versicherer dürfen den Rentenfaktor bei fondsbasierten Riester-Renten nicht einseitig senken. Das hat der BGH entschieden und eine entsprechende Klausel gekippt. Das Urteil dürfte eine Signalwirkung haben. Von Egzona Hyseni.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gaza: Israel to reopen key aid route as humanitarian pressure grows",
+      "link": "https://www.france24.com/en/video/20251210-gaza-israel-to-reopen-key-aid-route-as-humanitarian-pressure-grows",
+      "published": "2025-12-10T16:59:42",
+      "content": "For the first time since September, Israel has announced it will reopen the Allenby Crossing, a key route for humanitarian aid between Jordan, the West Bank and Gaza, after three months of closure following a deadly attack on Israeli soldiers. The move comes after diplomatic talks, while humanitarian groups are also urging the opening of the Rafah crossing to ease shortages in Gaza and address rising child malnutrition, despite ongoing disputes over Israel’s restrictions on aid.",
+      "content_length": 483,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sperm donor with rare cancer mutation fathered nearly 200 children in Europe",
+      "link": "https://arstechnica.com/health/2025/12/sperm-donor-with-rare-cancer-mutation-fathered-nearly-200-children-in-europe/",
+      "published": "2025-12-10T16:59:15",
+      "content": "A single sperm donor who carries a rare cancer-causing genetic mutation has fathered at least 197 children across 14 countries in Europe, according to a collaborative investigation by 14 European news groups.\nAccording to their investigative report, some of the children have already died, and many others are expected to develop deadly cancers.\nThe man—Donor 7069, alias “Kjeld”—carries a rare mutation in the TP53 gene, which codes for a critical tumor suppressor called protein 53 or p53. This protein (which is a transcription factor) keeps cells from dividing uncontrollably, can activate DNA repair processes amid damage, and can trigger cell death when a cell is beyond repair. Many cancers are linked to mutations in p53.Read full article\nComments",
+      "content_length": 755,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gesetz gegen Einschüchterung per Klage verabschiedet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/slapp-klage-gesetzentwurf-richtlinie-100.html",
+      "published": "2025-12-10T16:55:17",
+      "content": "   Sie richten sich gegen Journalisten, Aktivisten, Wissenschaftler und sollen sie mundtot machen: Einschüchterungsklagen oder auch SLAPP. Das Kabinett hat jetzt einen Gesetzentwurf gegen dieses Vorgehen beschlossen.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wahlen in der Ukraine: Ein geschickter Schachzug des Präsidenten",
+      "link": "https://www.tagesschau.de/kommentar/wahlen-ukraine-100.html",
+      "published": "2025-12-10T16:36:15",
+      "content": "   Der ukrainische Präsident Selenskyj hat Wahlen unter Bedingungen ins Spiel gebracht. Das ist geschickt, meint Florian Kellermann. Denn nun sind die USA am Zug.[mehr]",
+      "content_length": 168,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wahlen in der Ukraine - wie realistisch ist das?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wahlen-faq-100.html",
+      "published": "2025-12-10T16:23:18",
+      "content": "   Wahlen während des Krieges? Dagegen sprechen nicht nur geltende ukrainische Gesetze. Auch die Sicherheitslage spielt eine Rolle. Welches Verfahren Präsident Selenskyj vorschlägt - und was rechtlich wie politisch denkbar ist.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesrechnungshof wirft Regierung massive Verschwendung vor",
+      "link": "https://www.tagesschau.de/wirtschaft/bundesrechnungshof-vorwuerfe-100.html",
+      "published": "2025-12-10T15:44:24",
+      "content": "   Moselschleusen, Bundeswehr oder Smartphones für den Zoll: Der Rechnungshof wirft der Regierung in zahlreichen Fällen Verschwendung von Steuergeldern vor. Die Folge: Deutschland verschulde sich \"in einer nie dagewesenen Dimension\".[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Was steckt hinter Selenskyjs Angebot für Wahlen?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-selenskyj-wahlen-100.html",
+      "published": "2025-12-10T15:25:27",
+      "content": "   Bisher schließt das Kriegsrecht in der Ukraine Wahlen aus. Nun erklärt Präsident Selenskyj sich dennoch dazu bereit - und reagiert so auf Vorwürfe von US-Präsident Trump. Welches Risiko geht er damit ein? Von Florian Kellermann.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Klimaziel 2040: Wie viel Klimaschutz steckt drin?",
+      "link": "https://www.tagesschau.de/wissen/klima/eu-klimaziele-122.html",
+      "published": "2025-12-10T15:24:13",
+      "content": "   Die EU hat ihr Klimaziel für 2040 nun endgültig beschlossen. Sie selbst und auch der Bundesumweltminister zeigen sich zufrieden. Experten sind skeptisch - aber auch ein wenig hoffnungsvoll. Von Katha Jansen.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
+      "link": "https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/",
+      "published": "2025-12-10T15:11:10",
+      "content": "Rep. Haley Stevens (D-Mich.) filed articles of impeachment against Health Secretary Robert F. Kennedy Jr. Wednesday, accusing him of abusing the powers of his office and undermining public health, putting Americans’ lives at risk.\nHe “has got to go,” Stevens said in a video announcing the impeachment articles. In an accompanying press statement, she said Kennedy, who rose to prominence as an ardent anti-vaccine activist, “has turned his back on science, on public health, and on the American people—spreading conspiracies and lies, driving up costs, and putting lives at risk.”  She called him the “biggest self-created threat to our health and safety.”\nIt is very unlikely that an impeachment push will gain traction in the Republican-controlled Congress. No other Democratic lawmakers are backing the articles.Read full article\nComments",
+      "content_length": 842,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Reichsbürger-Prozess: Prinz Reuß weist Umsturzpläne von sich",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/reichsbuerger-prozess-reuss-100.html",
+      "published": "2025-12-10T15:00:07",
+      "content": "   Im Frankfurter Reichsbürger-Prozess hat der Hauptangeklagte, Prinz Reuß, gesprochen und beteuert, nie einen Umsturz geplant zu haben. An die Existenz eines militärischen Geheimbunds hingegen habe er geglaubt.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kommt die Bürgergeldreform bis Weihnachten ins Kabinett?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/grundsicherung-116.html",
+      "published": "2025-12-10T14:46:04",
+      "content": "   Aus dem Bürgergeld wird die neue Grundsicherung: Leistungen sollen gekürzt oder gestrichen werden. Darauf hat sich die Koalition eigentlich schon geeinigt. Doch nun wackelt der Zeitplan. Von Nicole Markwald.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dr. Oz tells his federal employees to eat less during the holidays",
+      "link": "https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/",
+      "published": "2025-12-10T14:45:06",
+      "content": "Dr. Mehmet Oz, the administrator for the Centers for Medicare and Medicaid Services (CMS) and former daytime talk show star, has recently been emailing all federal workers in his agency weekly tips on “Crushing Cubicle Cravings” and how to avoid snacking in the office.\n“We all love a fun cookie swap and potluck this time of year. With several teams across CMS hosting holiday gatherings this month, I am sharing some strategies to help you make healthier choices—while still indulging in festive treats,” Oz wrote in his latest missive, which appears as a recurring section in his weekly bulletin titled “From the Administrator’s Desk,” according to emails viewed by WIRED.\n“Set your intentions,” writes Oz. “Decide in advance how many treats you’ll allow yourself to enjoy and try to stick to that number. You don’t have to try every cookie on the cookie table.”Read full article\nComments",
+      "content_length": 891,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Italiens Küche ist immaterielles UNESCO-Weltkulturerbe",
+      "link": "https://www.tagesschau.de/kultur/unesco-immaterielles-kulturerbe-104.html",
+      "published": "2025-12-10T14:41:12",
+      "content": "   Pizza, Pasta, Risotto: Die italienische Küche ist weltweit verbreitet und sehr beliebt. Die UNESCO würdigt sie jetzt als immaterielles Weltkulturerbe. Von Peter Hornung.[mehr]",
+      "content_length": 178,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BGH kippt Kürzungsklausel bei Riester-Rente",
+      "link": "https://www.tagesschau.de/wirtschaft/bgh-riester-rente-100.html",
+      "published": "2025-12-10T14:17:53",
+      "content": "   Darf ein Versicherer eine Riester-Rente kürzen, weil sich die Marktlage verschlechtert? Nein, sagt der BGH - es sei denn, er sieht zugleich eine Erhöhung bei besserer Marktlage vor. Das Urteil gilt als wegweisend. Von E. Hyseni.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Umfrage zum Nutri-Score: Mehrheit der Verbraucher für Pflicht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/lebensmittel-nutri-score-umfrage-100.html",
+      "published": "2025-12-10T14:13:23",
+      "content": "   Seit 2020 können Hersteller die Lebensmittelampel freiwillig auf ihre Produkte drucken. Die Mehrheit der Verbraucher ist aber für eine Pflicht - das zeigt eine Umfrage. Sie sehen auch grundsätzlich Verbesserungsbedarf.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
+      "link": "https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/",
+      "published": "2025-12-10T14:00:43",
+      "content": "Nvidia, AMD, and Intel have all made high-quality image upscaling a cornerstone feature of their new GPUs this decade. Upscaling technologies like Nvidia’s Deep Learning Super Sampling (DLSS), AMD’s FidelityFX Super Resolution (FSR), and Intel’s Xe Super Sampling (XeSS) are all ways to transform a lower-resolution source image into a higher-resolution image, delivering better-looking games without requiring as much graphics hardware as you’d need to render the higher-resolution image natively. Later additions have focused on improving ray-tracing performance and “frame generation” technologies that boost frame rates by creating new AI-generated frames to insert between natively rendered frames.\nGenerally speaking, Nvidia’s DLSS technologies have provided better image quality than AMD’s FSR, but they have only been available on newer Nvidia hardware—the GeForce RTX 20-series or newer for most features, with frame-generation features locked to the RTX 40- and 50-series. FSR’s results don’t look as good, but they have benefited from running on just about anything, including older GPUs, Nvidia GPUs, and even integrated Intel and AMD GPUs.\nToday, AMD is trying to shift that dynamic with something called “FSR Redstone,” a collection of ray-tracing and frame-generation features all intended to boost AMD’s image quality while being relatively easy to implement for game developers who are already using FSR 3.1 or FSR 4.Read full article\nComments",
+      "content_length": 1460,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Frankreich: Brigitte Macron beleidigt Feministinnen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-brigitte-macron-108.html",
+      "published": "2025-12-10T13:45:29",
+      "content": "   Die Ehefrau des französischen Staatspräsidenten, Brigitte Macron, hat eine Gruppe Feministinnen als \"dreckige Schlampen\" verunglimpft. Die Aufregung in Frankreich ist groß. Wollte sie sich bei rechten Stimmen anbiedern? Von Julia Borutta.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Friedensnobelpreis: Venezolanerin Machado in Abwesenheit geehrt",
+      "link": "https://www.tagesschau.de/ausland/europa/nobelpreis-verleihung-machado-102.html",
+      "published": "2025-12-10T13:44:53",
+      "content": "   Der Friedensnobelpreis ist verliehen - doch die Preisträgerin Machado fehlte. Sie ist auf dem Weg nach Oslo, schaffte es aber nicht rechtzeitig. Stellvertretend nahm die Tochter der venezolanischen Oppositionellen den Preis entgegen.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mehr als 20 Tote bei Häusereinsturz in Marokko",
+      "link": "https://www.tagesschau.de/ausland/afrika/marokko-haeusereinsturz-100.html",
+      "published": "2025-12-10T13:36:37",
+      "content": "   Zwei vierstöckige Gebäude sind in der Nacht in der marokkanischen Millionenstadt Fès eingestürzt und haben zahlreiche Menschen unter sich begraben. Mindestens 22 starben. Die Unglücksursache ist noch unklar.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Experten diskutieren über Trumps Venezuela-Pläne",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-usa-militaer-100.html",
+      "published": "2025-12-10T13:18:43",
+      "content": "   Seit Wochen schickt der US-Präsident immer mehr Militär in die Karibik, angeblich gegen Drogenbanden aus Venezuela. Doch auch zu Hause wird die Frage immer lauter: Was will Trump in Venezuela wirklich? Von Carsten Kühntopp.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lob und Kritik für EU-Klimaziele für 2040",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-klimaziele-reaktionen-100.html",
+      "published": "2025-12-10T13:12:47",
+      "content": "   Bis 2040 soll der CO2-Ausstoß in der EU um 90 Prozent sinken. Doch nicht allen gehen die neuen Klimaziele weit genug. Und Kritiker warnen: Schon mehrfach sind getroffene Beschlüsse wieder ins Wanken geraten. Von Kathrin Schmid. [mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mehr Börsengänge im kommenden Jahr erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ipo-boersengaenge-100.html",
+      "published": "2025-12-10T12:57:25",
+      "content": "   In diesem Jahr haben einige Unternehmen ihre Börsenpläne verschoben. Für 2026 zeigen sich Experten aber optimistischer. Ein Kandidat sorgt schon jetzt für Aufsehen.[mehr]",
+      "content_length": 173,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Burkina Faso releases 11 Nigerian troops after ‘unauthorised’ plane landing",
+      "link": "https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing",
+      "published": "2025-12-10T12:51:08",
+      "content": "Military personnel told they can return to Nigeria after actions described as ‘unfriendly act’Authorities in Burkina Faso have released 11 Nigerian military personnel held after a cargo plane from Lagos made an “unauthorised” emergency landing in its second largest city, Bobo-Dioulasso.The breakaway regional Association of Sahel States (AES) said on Monday that the C-130 aircraft had entered Burkina Faso’s airspace without clearance, calling it an “unfriendly act”. Continue reading...",
+      "content_length": 489,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Chemieverband VCI blickt pessimistisch aufs neue Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/chemie-112.html",
+      "published": "2025-12-10T12:35:47",
+      "content": "   Zu wenig Aufträge, Arbeitsplatzabbau, Umsatzminus: Die deutsche Chemieindustrie steckt in einer schweren Krise. Besserung ist nicht in Sicht. Der Branchenverband ist mit Blick auf 2026 in Alarmstimmung. [mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
+      "link": "https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/",
+      "published": "2025-12-10T12:32:21",
+      "content": "A Virginia startup calling itself “Operation Bluebird” announced this week that it has filed a formal petition with the US Patent and Trademark Office, asking the federal agency to cancel X Corporation’s trademarks of the words “Twitter” and “tweet” since X has allegedly abandoned them.\n“The TWITTER and TWEET brands have been eradicated from X Corp.’s products, services, and marketing, effectively abandoning the storied brand, with no intention to resume use of the mark,” the petition states. “The TWITTER bird was grounded.”\nIf successful, two leaders of the group tell Ars, Operation Bluebird would launch a social network under the name Twitter.new, possibly as early as late next year. (Twitter.new has created a working prototype and is already inviting users to reserve handles.)Read full article\nComments",
+      "content_length": 816,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
+      "link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/",
+      "published": "2025-12-10T12:30:29",
+      "content": "It’s once again that special time of year when we give you a chance to do well by doing good. That’s right—it’s the 2025 edition of our annual Charity Drive!\nEvery year since 2007, we’ve encouraged readers to give to Penny Arcade’s Child’s Play charity, which provides toys and games to kids being treated in hospitals around the world. In recent years, we’ve added the Electronic Frontier Foundation to our charity push, aiding in their efforts to defend Internet freedom. This year, as always, we’re providing some extra incentive for those donations by offering donors a chance to win pieces of our big pile of vendor-provided swag. We can’t keep it, and we don’t want it clogging up our offices, so it’s now yours to win.\nThis year’s swag pile is full of high-value geek goodies. We have over a dozen prizes valued at nearly $5,000 total, including gaming hardware and collectibles, apparel, and more. In 2023, Ars readers raised nearly $40,000 for charity, contributing to a total haul of more than $542,000 since 2007. We want to raise even more this year, and we can do it if readers dig deep.Read full article\nComments",
+      "content_length": 1126,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kabinett beschließt schärferes Vorgehen gegen Scheinvaterschaften",
+      "link": "https://www.tagesschau.de/inland/kabinett-scheinvaterschaften-100.html",
+      "published": "2025-12-10T12:09:59",
+      "content": "   Die Bundesregierung will stärker gegen den Betrug mit Scheinvaterschaften vorgehen, durch die Kinder und Mütter einen Aufenthaltstitel erhalten. Künftig soll die Zustimmung der Ausländerbehörde in bestimmten Fällen verpflichtend werden.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "DSW-Erhebung: Virtuelle Hauptversammlungen kommen nicht gut an",
+      "link": "https://www.tagesschau.de/wirtschaft/hauptversammlungen-100.html",
+      "published": "2025-12-10T11:12:47",
+      "content": "   Die Pandemie hat auch in die Aktienkultur eingegriffen. Jährliche Hauptversammlungen konnten seitdem virtuell abgehalten werden. Viele Konzerne kehren mittlerweile zögerlich zur alten Praxis zurück, zeigt ein Report der DSW. [mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump will Thailand und Kambodscha per Telefon zum Frieden drängen",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-gefechte-trump-100.html",
+      "published": "2025-12-10T10:33:48",
+      "content": "   US-Präsident Trump will sich in den gewaltsam eskalierten Grenzkonflikt zwischen Thailand und Kambodscha einschalten - per Telefon. Von den tagelangen Gefechten sind in beiden Nachbarländern Hunderttausende Menschen betroffen.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Was hinter der Übernahmeschlacht um Warner Bros. steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/warner-bros-paramount-netflix-uebernahmeschlacht-100.html",
+      "published": "2025-12-10T10:24:47",
+      "content": "   Netflix will Warner Bros. kaufen, Paramount macht ein feindliches Gegenangebot - beim Ringen um das Hollywood-Studio geht es nicht nur um viel Geld und Marktmacht. Politik und kulturelle Sorgen spielen hinein. Von Nils Dampz.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Anthropic trennt sich von MCP und schenkt es der Linux Foundation",
+      "link": "https://www.heise.de/news/Anthropic-trennt-sich-von-MCP-und-schenkt-es-der-Linux-Foundation-11109827.html",
+      "published": "2025-12-10T09:46:00",
+      "content": "Anthropic übergibt MCP der neu gegründeten Agentic AI Foundation. Diese soll eine neutrale und offene Grundlage für KI-Projekte bilden.",
+      "content_length": 135,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kafka in Blau: IBM kauft Confluent",
+      "link": "https://www.heise.de/news/Kafka-in-Blau-IBM-kauft-Confluent-11109914.html",
+      "published": "2025-12-10T09:36:00",
+      "content": "IBM will für eine zweistellige Milliardensumme Confluent kaufen. Big Blue will so Analytics-Anwendungen und KI-Agenten verlässlich mit Datenströmen verknüpfen.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weltraumteleskop James Webb: \"Erster richtiger Beweis\" für erste Sterngeneration",
+      "link": "https://www.heise.de/news/Weltraumteleskop-James-Webb-Erster-richtiger-Beweis-fuer-erste-Sterngeneration-11109667.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-10T09:29:00",
+      "content": "Viel zu große Schwarze Löcher kurz nach dem Urknall haben die Astronomie vor ein Rätsel gestellt. Nun wurden Sterne entdeckt, die sie ermöglicht haben sollen.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Linux-Kernel: Rust-Support offiziell abgesegnet",
+      "link": "https://www.heise.de/news/Linux-Kernel-Rust-Support-offiziell-abgesegnet-11109733.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-10T08:19:00",
+      "content": "Rust wird Assembler und C bei der Programmierung des Linux-Kernels ebenbürtig – zumindest offiziell, denn praktisch gibt es noch viel zu tun.",
+      "content_length": 141,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "programmier.bar: Release von PHP 8.5 mit Volker Dusch",
+      "link": "https://www.heise.de/blog/programmier-bar-Release-von-PHP-8-5-mit-Volker-Dusch-11103085.html",
+      "published": "2025-12-10T08:15:00",
+      "content": "Wie viel Handarbeit, Abstimmung und Community-Arbeit wirklich in einem PHP-Release steckt, zeigt diese Folge mit Release Manager Volker Dusch.",
+      "content_length": 142,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wendet man DDD auf DDD an, bleibt kein Domain-Driven Design übrig",
+      "link": "https://www.heise.de/blog/Wendet-man-DDD-auf-DDD-an-bleibt-kein-Domain-Driven-Design-uebrig-11102739.html",
+      "published": "2025-12-10T08:00:00",
+      "content": "Wir Entwicklerinnen und Entwickler haben DDD unnötig kompliziert gemacht. Dabei geht es nur darum, die Domäne zu verstehen. Ein Plädoyer für mehr Pragmatismus.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Notepad++-Updater installierte Malware",
+      "link": "https://www.heise.de/news/Notepad-Updater-installierte-Malware-11109571.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-10T07:57:00",
+      "content": "Der Updater des Open-Source-Editors Notepad++ hat Malware auf PCs installiert. Ein Update auf Notepad++ v8.8.9 korrigiert das.",
+      "content_length": 126,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
