@@ -1,0 +1,1535 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-12T07:17:42.342842",
+    "deduplicated_at": "2025-12-12 07:17:42",
+    "lookback_days": 7,
+    "total_input": 1047,
+    "duplicates_removed": 878,
+    "new_articles": 169,
+    "deduplication_rate": "83.9%",
+    "historical_files_checked": 5
+  },
+  "articles": [
+    {
+      "title": "Die US-Einbürgerungstests sind deutlich schwieriger geworden",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-einbuergerung-100.html",
+      "published": "2025-12-12T07:10:14",
+      "content": "   Wer US-Bürger werden will, muss künftig einen viel schwierigeren Einbürgerungstest bestehen. Kritiker sehen darin den Versuch der Trump-Regierung, den Weg zur Staatsbürgerschaft zu erschweren. Von Giselle Ucar.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gesundheitspolitik - \"Register der Ratlosigkeit\", \"bittere Enttäuschung\", \"ein Witz\": Ergebnisse der Bund-Länder-Arbeitsgruppe zur Pflege scharf kritisiert",
+      "link": "https://www.deutschlandfunk.de/register-der-ratlosigkeit-bittere-enttaeuschung-ein-witz-ergebnisse-der-bund-laender-arbeitsgruppe-z-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die Bund-Länder-Arbeitsgruppe \"Zukunftspakt Pflege\" hat ihren Abschlussbericht vorgelegt. Er soll die Weichen für eine Pflegereform im nächsten Jahr stellen. Pflegeanbieter und Arbeitgeber reagieren enttäuscht.",
+      "content_length": 210,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Kommission - Verbrenner-Aus für neu zugelassene Fahrzeuge offenbar vom Tisch",
+      "link": "https://www.deutschlandfunk.de/verbrenner-aus-fuer-neu-zugelassene-fahrzeuge-offenbar-vom-tisch-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die von der Bundesregierung in der EU vorangetriebene Teil-Rücknahme des Verbrenner-Aus rückt näher. Nach Medieninformationen sollen die genauen Pläne kommenden Dienstag vorgestellt werden.",
+      "content_length": 189,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fernverkehr - Flixtrain will neue Züge 2028 auf die Schiene bringen - massiver Ausbau von Verbindungen geplant",
+      "link": "https://www.deutschlandfunk.de/flixtrain-will-neue-zuege-2028-auf-die-schiene-bringen-massiver-ausbau-von-verbindungen-geplant-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Das Unternehmen Flixtrain plant, seine neuen Züge ab 2028 einzusetzen.",
+      "content_length": 70,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brandenburg - Öl-Unfall bei Gramzow - Erde wird weiter abgetragen",
+      "link": "https://www.deutschlandfunk.de/oel-unfall-bei-gramzow-erde-wird-weiter-abgetragen-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Nach einem der größten Öl-Unfälle der vergangenen Jahre in Deutschland wird bei Gramzow in der Uckermark das Abtragen der verunreinigten Erde fortgesetzt.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Studie - Deutlich mehr ADHS-Diagnosen bei Erwachsenen",
+      "link": "https://www.deutschlandfunk.de/deutlich-mehr-adhs-diagnosen-bei-erwachsenen-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Deutlich mehr Erwachsene in Deutschland erhalten heute eine Erstdiagnose für Aufmerksamkeitsdefizit- und Hyperaktivitätsstörungen – ADHS – als noch vor zehn Jahren. Wissenschaftler haben für den Anstieg mehrere Erklärungen.",
+      "content_length": 223,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Antrag des Regierungschefs - Parlament in Thailand aufgelöst",
+      "link": "https://www.deutschlandfunk.de/parlament-in-thailand-aufgeloest-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "In Thailand hat Regierungschef Anutin Charnvirakul das Parlament aufgelöst.",
+      "content_length": 75,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rom - In Italien rufen Gewerkschaften zu landesweiten Protesten gegen die Haushaltspläne der Regierung Meloni auf",
+      "link": "https://www.deutschlandfunk.de/in-italien-rufen-gewerkschaften-zu-landesweiten-protesten-gegen-die-haushaltsplaene-der-regierung-me-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "In Italien wurde für heute zu einem Generalstreik gegen die Haushaltspläne von der Regierung von Ministerpräsidentin Meloni aufgerufen.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesaußenminister - Wadephul (CDU): USA stehen \"klar zur NATO\"",
+      "link": "https://www.deutschlandfunk.de/wadephul-cdu-usa-stehen-klar-zur-nato-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die USA stehen nach den Worten von Bundesaußenminister Wadephul weiterhin klar zur NATO.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russischer Angriffskrieg - Selenskyj: USA wollen entmilitarisierte Zone im Osten der Ukraine",
+      "link": "https://www.deutschlandfunk.de/selenskyj-usa-wollen-entmilitarisierte-zone-im-osten-der-ukraine-116.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die USA drängen die Ukraine weiterhin zur Aufgabe von Staatsgebieten, um einen Friedensschluss mit dem Aggressor Russland zu erreichen.",
+      "content_length": 135,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weißes Haus - Vor der Küste Venezuelas beschlagnahmter Öltanker soll in US-Hafen gebracht werden.",
+      "link": "https://www.deutschlandfunk.de/vor-der-kueste-venezuelas-beschlagnahmter-oeltanker-soll-in-us-hafen-gebracht-werden-102.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Der vor der Küste Venezuelas beschlagnahmte Öltanker wird nach Angaben des Weißen Hauses in einen Hafen in den USA gebracht.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Keine Einigung im Senat - Millionen US-Bürgern drohen erheblich höhere Beiträge für Krankenversicherungen",
+      "link": "https://www.deutschlandfunk.de/millionen-us-buergern-drohen-erheblich-hoehere-beitraege-fuer-krankenversicherungen-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "In den USA müssen mehr als 20 Millionen Bürgerinnen und Bürger zum Jahreswechsel mit erheblich steigenden Kosten bei der Krankenversicherung rechnen.",
+      "content_length": 149,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sexuelle Gewalt an Kindern - Nach Missbrauchsskandalen an Thüringer Schulen: Schutzkonzepte sollen nun zügiger erarbeitet werden",
+      "link": "https://www.deutschlandfunk.de/nach-missbrauchsskandalen-an-thueringer-schulen-schutzkonzepte-sollen-nun-zuegiger-erarbeitet-werden-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Als Reaktion auf die jüngsten Missbrauchsfälle an Thüringer Schulen sollen nun früher als ursprünglich verlangt Schutzkonzepte erarbeitet werden.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Game Awards in Los Angeles - \"Clair Obscur - Expedition 33\" aus Frankreich ist Videospiel des Jahres",
+      "link": "https://www.deutschlandfunk.de/clair-obscur-expedition-33-aus-frankreich-ist-videospiel-des-jahres-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Bei den Game Awards in Los Angeles ist \"Clair Obscur – Expedition 33\" als bestes Videospiel des Jahres ausgezeichnet worden. Es ist das erste Mal, dass ein französisches Spiel den renommierten Preis gewinnt.",
+      "content_length": 207,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gaming - Bayerisches Gutachten macht auf vielfältige Aktivitäten von Extremisten in Online-Videospielen aufmerksam",
+      "link": "https://www.deutschlandfunk.de/bayerisches-gutachten-macht-auf-vielfaeltige-aktivitaeten-von-extremisten-in-online-videospielen-auf-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die bayerische Landesregierung hat ein beauftragtes Gutachten zu Risiken und Gefahren bei Online-Computerspielen vorgestellt.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "High Court - Online-Forum Reddit klagt gegen Social-Media-Verbot für Kinder unter 16 in Australien",
+      "link": "https://www.deutschlandfunk.de/online-forum-reddit-klagt-gegen-social-media-verbot-fuer-kinder-unter-16-in-australien-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Das Online-Forum Reddit hat Klage gegen das australische Verbot von sozialen Medien für Kinder und Jugendliche unter 16 Jahren eingereicht.",
+      "content_length": 139,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gespräche in Nikosia - Präsidenten von beiden Teilen Zyperns bereit zu Verhandlungen über Zukunft der Insel",
+      "link": "https://www.deutschlandfunk.de/praesidenten-von-beiden-teilen-zyperns-bereit-zu-verhandlungen-ueber-zukunft-der-insel-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die Verhandlungen über die Zukunft der geteilten Insel Zypern sollen wieder aufgenommen werden.",
+      "content_length": 95,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA und Kanada - Schwere Überschwemmungen - zehntausende Menschen müssen Häuser verlassen",
+      "link": "https://www.deutschlandfunk.de/schwere-ueberschwemmungen-zehntausende-menschen-muessen-haeuser-verlassen-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Im US-Bundesstaat Washington im Westen des Landes und in der angrenzenden kanadischen Provinz British Columbia haben Stürme und Regenfälle zu schweren Überschwemmungen geführt.",
+      "content_length": 176,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Japan - Erdbeben und Tsunami-Warnung",
+      "link": "https://www.deutschlandfunk.de/erdbeben-und-tsunami-warnung-102.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Der Norden Japans ist von einem Erdbeben der Stärke 6,7 erschüttert worden.",
+      "content_length": 75,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "München - Söder stellt sich zur Wiederwahl als CSU-Chef",
+      "link": "https://www.deutschlandfunk.de/soeder-stellt-sich-zur-wiederwahl-als-csu-chef-102.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Bayerns Ministerpräsident Söder stellt sich heute beim CSU-Parteitag in München zur Wiederwahl als Parteivorsitzender.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Hochwasserkatastrophe 2021 - Neue Ahrtalbahn wieder durchgängig befahrbar",
+      "link": "https://www.deutschlandfunk.de/neue-ahrtalbahn-wieder-durchgaengig-befahrbar-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die Zugstrecke durch das Ahrtal ist viereinhalb Jahre nach der Hochwasserkatastrophe wieder durchgängig befahrbar.",
+      "content_length": 114,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "ChatGPT - OpenAI muss sich wegen Anstiftung zum Mord verantworten",
+      "link": "https://www.deutschlandfunk.de/openai-muss-sich-wegen-anstiftung-zum-mord-verantworten-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Der Entwickler des KI-Assistenten ChatGPT, das Unternehmen OpenAI, muss sich in den USA vor Gericht wegen des Vorwurfs der Anstiftung zum Mord verantworten.",
+      "content_length": 156,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - Grieche Pierrakakis zum neuen Eurogruppen-Chef gewählt",
+      "link": "https://www.deutschlandfunk.de/grieche-pierrakakis-zum-neuen-eurogruppen-chef-gewaehlt-108.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Der griechische Finanzminister Pierrakakis wird neuer Vorsitzender der Eurogruppe.",
+      "content_length": 82,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Europa League - Siege für Freiburg und Stuttgart",
+      "link": "https://www.deutschlandfunk.de/siege-fuer-freiburg-und-stuttgart-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "In der Fußball-Europa-League hat der SC Freiburg mit 1:0 gegen RB Salzburg gewonnen. Die Mannschaft von Trainer Julian Schuster steht damit bereits sicher in der Zwischenrunde.",
+      "content_length": 176,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine - EU will russisches Vermögen dauerhaft einfrieren",
+      "link": "https://www.deutschlandfunk.de/eu-will-russisches-vermoegen-dauerhaft-einfrieren-106.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Die EU will das in Europa liegende Vermögen der russischen Zentralbank auf unbestimmte Zeit einfrieren, um damit einen Kredit für die Ukraine abzusichern.",
+      "content_length": 154,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "NATO-Generalsekretär - Rutte: \"Wir sind Russlands nächstes Ziel\"",
+      "link": "https://www.deutschlandfunk.de/rutte-wir-sind-russlands-naechstes-ziel-110.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "NATO-Generalsekretär Rutte hat in Berlin für viele ungewöhnlich deutlich vor der Bedrohung durch Russland gewarnt. Staatschef Putin wolle es nicht bei dem Krieg gegen die Ukraine belassen, sagte Rutte bei einem Treffen mit Bundeskanzler Merz und fügte wörtlich hinzu: \"Wir sind Russlands nächstes Ziel\".",
+      "content_length": 303,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bulgarien - Ministerpräsident Scheljaskow gibt nach Protesten sein Amt auf",
+      "link": "https://www.deutschlandfunk.de/ministerpraesident-scheljaskow-gibt-nach-protesten-sein-amt-auf-104.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "In Bulgarien ist Ministerpräsident Scheljaskow nach Massenprotesten zurückgetreten.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Entwickler von Künstlicher Intelligenz - \"Time-Magazine\" kürt KI-Architekten zu Person des Jahres",
+      "link": "https://www.deutschlandfunk.de/time-magazine-kuert-ki-architekten-zu-person-des-jahres-108.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Das \"Time-Magazine\" hat die Entwickler der Künstlichen Intelligenz kollektiv zur Person des Jahres gekürt.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Neblig-trüb, in Sachsen und dem südlichen Brandenburg auch sonnig",
+      "link": "https://www.deutschlandfunk.de/neblig-trueb-in-sachsen-und-dem-suedlichen-brandenburg-auch-sonnig-100.html",
+      "published": "2025-12-12T07:06:23",
+      "content": "Das Wetter:",
+      "content_length": 11,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "„Diablo 4: Lord of Hatred“ bringt Paladin und Loot Filter",
+      "link": "https://www.heise.de/news/Diablo-4-Lord-of-Hatred-bringt-Paladin-und-Loot-Filter-11112831.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T07:01:00",
+      "content": "Blizzard setzt die Story von „Diablo 4“ mit „Lord of Hatred“ fort. In der Erweiterung schlagen sich Spieler weiter mit Mephisto herum – auf Wunsch als Paladin.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Climate protesters win groundbreaking class action against Victoria police over use of pepper spray",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/12/victoria-police-pepper-spray-climate-activists-class-action-win",
+      "published": "2025-12-12T06:50:29",
+      "content": "Potentially precedent-setting case brought after Jordan Brown hit with capsicum spray outside mining and resources conference in Melbourne in 2019Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastClimate protesters have won a class action  against Victoria police over the use of capsicum spray during an anti-mining demonstration in Melbourne.The first class action against Victoria police in relation to alleged excessive use of oleoresin capsicum (OC) spray was heard in the state’s supreme court earlier this year, and a decision was handed down on Friday. Continue reading...",
+      "content_length": 643,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: DAX klettert langsam Richtung Rekord",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-ki-blase-100.html",
+      "published": "2025-12-12T06:47:52",
+      "content": "   Während an der Wall Street die Sorgen um den Technologiesektor Tech-Werte etwas ausbremsen, sind andere Branchen wieder gefragt. Der Dow Jones steigt deutlich an, auch der DAX dürfte heute schwungvoll starten.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Konflikt mit Venezuela: Will Trump das Erdöl?",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-trump-102.html",
+      "published": "2025-12-12T06:44:58",
+      "content": "   Die Beschlagnahmung des Tankers vor Venezuela sorgt in den USA für Aufsehen. Die Strategie der Regierung bleibt unklar. Geht es dabei um venezolanisches Erdöl? Experten rechnen mit einer weiteren Eskalation. Von C. Kühntopp.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Former ANZ boss sues bank over cancelled bonuses – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/12/federal-state-health-ministers-meeting-aged-care-travel-expenses-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "published": "2025-12-12T06:29:33",
+      "content": "This blog is now closedBrittany Higgins declared bankrupt after Linda Reynolds wins defamation caseGet our breaking news email, free app or daily news podcastOfficials investigating after Victoria police memorial vandalised overnightVictoria police are investigating the vandalism of the Victoria Police Memorial in Melbourne this morning.If you don’t need to be on the roads during heavy rainfall, we ask the community to delay their travel until the storm passes.If you do come across flash flooding, the best thing to do is turn around and find another way – it’s not worth putting your life or your loved ones at risk. It doesn’t take much for vehicles to become stuck in water or washed away as you don’t know what damage has been done to the road surfaces. Continue reading...",
+      "content_length": 782,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Podcast 15 Minuten: Kosten für Rettungswagen, Kopftuchverbot, teurer Urlaub",
+      "link": "https://www.tagesschau.de/multimedia/podcast/15-min-podcast-rettungswagen-kopftuchverbot-urlaub-100.html",
+      "published": "2025-12-12T06:14:31",
+      "content": "   Im Podcast 15 Minuten geht es um den Streit über die Kosten für Rettungswagen. An Schulen in Österreich gilt bald für junge Mädchen ein Kopftuchverbot. Urlaub wird wieder teurer - gibt es noch günstige Ziele?[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Live: Trump 'extremely frustrated' with Ukraine and Russia over war",
+      "link": "https://www.france24.com/en/europe/20251212-live-trump-extremely-frustrated-with-ukraine-and-russia-over-war",
+      "published": "2025-12-12T06:12:53",
+      "content": "President Donald Trump is \"extremely frustrated\" with both Kyiv and Moscow as efforts to negotiate an end to the nearly four-year war stall, White House spokeswoman Karoline Leavitt said on Thursday. While the US pushes for action, Russia said Friday it destroyed 90 Ukrainian drones overnight, with seven people injured in Tver. Follow our liveblog for the latest developments.",
+      "content_length": 378,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Brittany Higgins declared bankrupt after Linda Reynolds wins defamation case",
+      "link": "https://www.theguardian.com/law/2025/dec/12/brittany-higgins-declared-bankrupt-after-linda-reynolds-wins-defamation-case-ntwnfb",
+      "published": "2025-12-12T06:09:01",
+      "content": "Former defence minister’s application to have former staffer bankrupted has been approved in a Western Australian courtFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBrittany Higgins has been bankrupted by her former boss, bringing Linda Reynolds one step closer to discovering where her former political staffer’s $2.4m compensation payout went.Reynolds, a former Liberal senator, launched bankruptcy proceedings in October against Higgins after successfully suing her for defamation. Continue reading...",
+      "content_length": 571,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Drei Jahre nach Kryptopleite: Do Kwon zu 15 Jahren Gefängnis verurteilt",
+      "link": "https://www.heise.de/news/Drei-Jahre-nach-Kryptopleite-Do-Kwon-zu-15-Jahren-Gefaengnis-verurteilt-11112785.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T06:05:00",
+      "content": "Nach einer Einigung mit der Staatsanwaltschaft konnte der Gründer von TerraUSD auf eine geringere Strafe hoffen. Das Gericht hat dabei aber nicht mitgemacht.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Met police face independent inquiry over fears 300 recruits not properly vetted",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/12/met-police-face-independent-inquiry-over-fears-300-recruits-not-properly-vetted",
+      "published": "2025-12-12T06:00:35",
+      "content": "Home secretary to order special investigation amid concern inadequate checks during hiring spree may pose criminal risk The home secretary is to order an independent special inquiry into whether the Metropolitan police allowed hundreds of recruits to join without proper vetting amid fears they may pose a criminal risk.The Guardian has learned that the inquiry will be carried out by the policing inspectorate, with concerns centred on 300 new officers hired between 2016 and 2023. Continue reading...",
+      "content_length": 502,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Guardian charity appeal donations top £200,000 before annual telethon",
+      "link": "https://www.theguardian.com/society/2025/dec/12/guardian-charity-appeal-donations-top-200000-before-annual-telethon",
+      "published": "2025-12-12T06:00:35",
+      "content": "Milestone reached as journalists including Polly Toynbee and John Crace prepare for fundraising event on SaturdayDonate to our charity appeal hereThe first week of the Guardian’s Hope appeal has raised more than £200,000 for grassroots charities doing inspiring work to bring divided communities together, promoting tolerance and positive change, and opposing racism and hate.The milestone was reached before the annual fundraising telethon on Saturday. Journalists preparing to take donations over the phone include Polly Toynbee, John Crace, Jonathan Liew, Patrick Wintour and Simon Hattenstone. Continue reading...",
+      "content_length": 617,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "„Divinity“: Larian will „Baldur's Gate 3\" übertreffen",
+      "link": "https://www.heise.de/news/Divinity-Larian-will-Baldur-s-Gate-3-uebertreffen-11112773.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T06:00:00",
+      "content": "Back to the roots für die Larian Studios: Nach „Baldur's Gate 3“ setzen die Rollenspiel-Spezialisten ihre „Divinity“-Reihe fort. Es gibt einen ersten Trailer. ",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Söder vor CSU-Parteitag: Mal Rückendeckung für Merz - mal Distanz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-strategie-100.html",
+      "published": "2025-12-12T05:42:22",
+      "content": "   Vor dem CSU-Parteitag sendet Parteichef Söder widersprüchliche Signale an die CDU: Er verspricht Kanzler Merz volle Unterstützung und distanziert sich gleichzeitig, er lobt die Koalition und setzt sich zugleich ab. Von Petr Jerabek.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sydney after-school childcare worker pleads guilty to using children to produce child abuse material",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/12/sydney-childcare-worker-david-william-james-pleads-guilty-to-using-children-to-produce-child-abuse-material-ntwnfb",
+      "published": "2025-12-12T05:19:15",
+      "content": "Former police officer admits to taking explicit images of children as young as four in his careFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA former police officer who was secretly working in childcare has admitted taking explicit photos and videos of children younger than 10 when they were in his care.David William James created the child abuse material while working at six out-of-school hours (OOSH) care services in Sydney’s north and city centres between April 2021 and May 2024. Continue reading...",
+      "content_length": 574,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "British backpacker on e-scooter given four years’ jail for Western Australia crash death",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/12/british-backpacker-sentenced-four-years-jail-fatal-e-scooter-crash-perth",
+      "published": "2025-12-12T05:07:45",
+      "content": "Court heard Alicia Kemp, 25, from Redditch, Worcestershire was over the blood alcohol limit when she drove into Thanh Phan, 51, in PerthA British backpacker has been sentenced to four years in prison after a fatal collision with a father-of-two while riding an electric scooter in Australia.Alicia Kemp, 25, from Redditch, Worcestershire, appeared at Perth district court in Western Australia on Friday where she was sentenced after pleading guilty to dangerous driving causing death while under the influence of alcohol. Continue reading...",
+      "content_length": 541,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "French video game 'Clair Obscur' sweeps Game Awards with record nine wins",
+      "link": "https://www.france24.com/en/live-news/20251212-french-indie-clair-obscur-dominates-game-awards",
+      "published": "2025-12-12T04:53:13",
+      "content": "French indie sensation \"Clair Obscur: Expedition 33\" on Thursday stole the spotlight at the Game Awards in Los Angeles, taking home a record nine prizes including Game of the Year. Created by Montpellier-based studio Sandfall Interactive, the post-apocalyptic RPG triumphed over industry heavyweights and has sold 5 million copies since its launch in April.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Venezolanischer Tanker soll in US-Hafen gebracht werden",
+      "link": "https://www.tagesschau.de/ausland/venezuela-schiff-usa-hafen-100.html",
+      "published": "2025-12-12T04:42:13",
+      "content": "   Der Konflikt zwischen den USA und Venezuela geht weiter. Die Amerikaner wollen den beschlagnahmten Öltanker \"Skipper\" in einen ihrer Häfen bringen. Und US-Präsident Trump spricht erneut eine Drohung aus.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Repräsentantenhaus aufgelöst - Thailand vor Neuwahlen",
+      "link": "https://www.tagesschau.de/ausland/thailand-parlament-100.html",
+      "published": "2025-12-12T04:26:50",
+      "content": "   Diese politische Krise kommt in einer schwierigen Zeit: In Thailand wurde das Repräsentantenhaus aufgelöst. Zuletzt war der Grenzkonflikt mit Kambodscha wieder aufgeflammt.[mehr]",
+      "content_length": 181,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Schwere Überschwemmungen im US-Bundesstaat Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/ueberschwemmungen-128.html",
+      "published": "2025-12-12T04:23:43",
+      "content": "   Heftige Regenfälle und Überschwemmungen im Nordwesten der USA: Zehntausende Menschen sollen ihre Häuser verlassen. Der Gouverneur hat den Notstand ausgerufen.[mehr]",
+      "content_length": 167,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Crypto mogul Do Kwon sentenced to 15 years over $40 billion stablecoin crash",
+      "link": "https://www.france24.com/en/technology/20251212-crypto-mogul-do-kwon-15-years-40-billion-fraud",
+      "published": "2025-12-12T04:21:47",
+      "content": "US prosecutors on Thursday sentenced cryptocurrency entrepreneur Do Kwon to 15 years in prison over fraud tied to the collapse of his company, which erased about $40 billion in investor funds and rattled global crypto markets. Kwon pleaded guilty in New York after an international manhunt and still faces charges in South Korea.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Seized oil tanker off Venezuela to be brought to US as tensions mount",
+      "link": "https://www.france24.com/en/americas/20251212-us-tanker-to-port-venezuela",
+      "published": "2025-12-12T04:11:28",
+      "content": "An oil tanker seized by US  forces off Venezuela’s coast will be taken to a US port, the White House said on Thursday, heightening tensions between the two countries. Washington said it took control of the vessel in a helicopter raid targeting assets linked to President Nicolas Maduro’s government.",
+      "content_length": 299,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Tomb Raider announces two new games",
+      "link": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
+      "published": "2025-12-12T03:11:15",
+      "content": "\n\n\n\t\n\t\t\n\nWhile Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 2026 is Tomb Raider: Legacy of Atlantis. Don't let the fancy name fool you though, Legacy of Atlantis is the Unreal Engine 5 version of the first Tomb Raider game, a remake similar to Tomb Raider Anniversary which updated the 1997 original PlayStation game for the PS2. \n\nBut that's not all. In 2027, the Tomb Raider team will release another game, To …\nRead the full story at The Verge.",
+      "content_length": 694,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
+      "link": "https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/",
+      "published": "2025-12-12T02:51:40",
+      "content": "Over two decades after the release of Star Wars: Knights of the Old Republic II, a new project described as a “spiritual successor” to that seminal RPG series was announced at The Game Awards Thursday night. Star Wars: Fate of the Old Republic will be a collaboration between Lucasfilm Games and Arcanaut Studios, a new development house being launched by original KOTOR director Casey Hudson.\n\nHudson, who will serve as director on the new game, said in an interview with StarWars.com that he has remained in contact with Lucasfilm since the KOTOR days, in the hopes of being able to collaborate in the Star Wars universe again. “It took the right conditions to get everything to line up,” he told the site.\nCalling KOTOR “one of the defining experiences of my career,” Hudson said he wants to “explore a contemporary vision” of the Star Wars universe, and “deliver on the combination of player agency and immersion in Star Wars” that defined the original games. As director on the upcoming game, Hudson said he sees his role as “to gather and shape a cohesive vision that the entire team contributes to. Ensuring that everyone shares that vision and understands their part in creating it, is critical to the success of a project.”Read full article\nComments",
+      "content_length": 1258,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best Christmas gifts we love under $50",
+      "link": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
+      "published": "2025-12-12T02:50:15",
+      "content": "\n\n\n\t\n\t\t\n\nOne of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a gift guide focused on products that cost no more than $50. We've already posted a guide to the best gifts under $100, but you might be surprised how many good gifts can be purchased for half the amount.\nYou can delight a lucky recipient who's looking for a quirky addition to their home with an heirloom tomato beeswax candle. Or present a set of rechargeable hand warmer …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tim Sweeney on the future of Fortnite after another win over Apple",
+      "link": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
+      "published": "2025-12-12T02:48:49",
+      "content": "\n\n\n\t\n\t\t\n\nShortly after appeals court judges ruled against Apple's contempt appeal in a years-long antitrust dispute against the makers of Fortnite, I got to talk to Epic Games CEO Tim Sweeney in an interview. According to Sweeney, today's ruling \"completely shuts down\" Apple's App Store rules that allow it to collect \"junk fees.\"\nThe three-judge Ninth Circuit Court of Appeals panel largely affirmed an April ruling that Apple failed to comply with Judge Yvonne Gonzalez Rogers's 2021 order allowing app developers to link to external payment options, which Sweeney said \"… is really awesome for all developers.\" \nPerhaps the most notable part of the app …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ábrego García aus US-Abschiebehaft entlassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/garcia-freilassung-100.html",
+      "published": "2025-12-12T02:40:31",
+      "content": "   Sein Fall stand exemplarisch für die US-Abschiebepolitik. Ábrego García wurde nach El Salvador abgeschoben, zurückgeholt und wieder festgenommen. Nun ordnete ein Gericht seine Freilassung an.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wirklich seltsame Literatur: \"Weird Girl Fiction\" erobert die Buchläden",
+      "link": "https://www.tagesschau.de/kultur/weird-girl-fiction-100.html",
+      "published": "2025-12-12T02:27:11",
+      "content": "   Protagonistinnen, die ein Dorf mit ihrer Muttermilch ernähren oder sich in eine Pflanze verwandeln: \"Weird Girl Fiction\" trendet auf Social Media. Mittlerweile werben auch Verlage mit dem Label. Was steckt dahinter? Von S. Czilwik.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dozens killed in hospital strike in Myanmar’s western Rakhine state",
+      "link": "https://www.theguardian.com/world/2025/dec/12/dozens-killed-in-hospital-strike-in-myanmars-western-rakhine-state",
+      "published": "2025-12-12T02:07:51",
+      "content": "Conflict monitors say the junta has increased airstrikes year-on-year since the start of Myanmar’s civil warDozens have been killed in a military strike on a hospital in Myanmar’s western Rakhine state, according to an aid worker, a rebel group, a witness and local media reports, as the junta wages a withering offensive ahead of elections beginning this month.“The situation is very terrible,” said on-site aid worker Wai Hun Aung. “As for now, we can confirm there are 31 deaths and we think there will be more deaths. Also there are 68 wounded and will be more and more.” Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Control’s action-RPG sequel launches in 2026",
+      "link": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
+      "published": "2025-12-12T02:05:26",
+      "content": "\n\n\n\t\n\t\t\n\nRemedy Entertainment is finally showing off the much-anticipated sequel to Control. The new game, dubbed Control Resonant, expands on the original with a new action-RPG framework. It takes place seven years later and shifts the setting from the unsettling Oldest House of the original to a more open Manhattan, while putting players in the role of Dylan Faden, brother of Control protagonist Jesse. It's expected to launch in 2026.\nHere's the basic setup, per Remedy:\n\nAfter years in confinement at the hands of the Federal Bureau of Control (FBC), Dylan Faden's former captors are deploying him at the peak of a supernatural crisis. Charged with  …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you",
+      "link": "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/",
+      "published": "2025-12-12T01:50:08",
+      "content": "Back in 2016, after six-and-a-half years spent working on puzzle-adventure opus The Witness, Jonathan Blow says he needed a break. He tells Ars that the project he started in The Witness’ wake was meant to serve as a quick proof of concept for a new engine and programming language he was working on. “It was supposed to be a short game,” that could be finished in “like a year and a half or two years,” he said.\nNow, after nine years of development—and his fair share of outspoken, controversial statements—Blow is finally approaching the finish line on that “short game.” He said Order of the Sinking Star—which was announced Thursday via a Game Awards trailer ahead of a planned 2026 release—now encompasses around 1,400 individual puzzles that could take completionists 400 to 500 hours to fully conquer.\n\n      Jonathan Blow, seen here probably thinking about puzzles.\n        Credit:\n          Thekla, Inc.\n      \n“I don’t know why I convinced myself it was going to be a small game,” Blow told me while demonstrating a preview build to Ars last week. “But once we start things, I just want to do the good version of the thing, right? I always make it as good as it can be.”Read full article\nComments",
+      "content_length": 1206,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
+      "link": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
+      "published": "2025-12-12T01:48:01",
+      "content": "\n\n\n\t\n\t\t\n\nThe next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. \nStar Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Like any announcement trailer, it was brief, featuring a spaceship landing on a rainy planet and a woman in white robes staring into the camera as a lightsaber zhooms to life. According to the trailer's YouTube description, Fate of the Old Republic is a single-player narrative game and the spiritual successor to the KOTOR series.\nDeveloped by Arcanaut Studios in collaboration with Lucasf …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump expands Venezuela sanctions as Maduro decries new ‘era of piracy’",
+      "link": "https://www.theguardian.com/world/2025/dec/11/pressure-on-maduro-grows-after-us-seizes-dark-fleet-tanker-off-coast-of-venezuela",
+      "published": "2025-12-12T01:43:30",
+      "content": "Six more oil supertankers added to sanctions list, as well as members of Maduro’s extended family, amid rising tensions following tanker seizureDonald Trump has exerted more pressure on Venezuela’s president Nicolás Maduro, expanding sanctions and issuing fresh threats to strike land targets in Venezuela, as the South American dictator accused the US president of ushering in a new “era of criminal naval piracy” in the Caribbean.Late on Thursday, the US imposed curbs on three nephews of Maduro’s wife, Cilia Flores, as well as six crude oil supertankers and the shipping companies linked to them. The treasury department alleged the vessels “engaged in deceptive and unsafe shipping practices and continue to provide financial resources that fuel Maduro’s corrupt narco-terrorist regime”. Continue reading...",
+      "content_length": 812,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Aus vom Verbrenner-Aus: Was wird aus Webers Plan?",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-110.html",
+      "published": "2025-12-12T01:37:49",
+      "content": "   Die EU hat sich laut EVP-Chef Weber darauf geeinigt, dass es nun doch kein Aus für Verbrenner geben soll. Der Zeitpunkt dürfte kein Zufall sein. Aber kommt es überhaupt so? Von Sabrina Fritz.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump signs AI executive order pushing to ban state laws",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws",
+      "published": "2025-12-12T01:18:46",
+      "content": "\n\n\n\t\n\tPresident Donald Trump and Commerce Secretary Howard Lutnick look on as White House artificial intelligence (AI) and crypto czar David Sacks speaks\t\n\nOn Thursday evening, with White House AI and crypto czar David Sacks looking over his shoulder, Donald Trump signed an executive order aiming to grab unilateral power over regulating artificial intelligence for the federal government. The order can't by itself unilaterally override state AI laws, but it directs federal agencies to take steps to reduce or eliminate their influence, and discourage states from passing laws that the federal government might challenge, or put crucial funding for other programs at risk.\nIt specifically calls out Colorado's recently passed consumer protection law, making the claim that \"banning 'algorithmic discri …\nRead the full story at The Verge.",
+      "content_length": 840,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘I hope he loses’: Trump blasts Indiana Republican senate leader after his state redistricting effort gets blocked –as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/11/us-seizes-venezuela-tanker-democrats-republicans-donald-trump-latest-news",
+      "published": "2025-12-12T01:15:48",
+      "content": "This live blog is now closed.Trump at a glance: president ‘sick of meetings’ as Ukraine-Russia peace deal talks drag onIndiana Republicans reject effort to redraw voting maps in rebuke to TrumpChris Van Hollen, the Democratic senator from Maryland, was among the lawmakers speaking out against the Trump administration and its actions around Venezuela, taking to the senate floor on Wednesday to call on Congress to block Donald Trump from “using taxpayer dollars to launch a regime change war”.“Last time I checked, the constitution of the United States gives Congress – this body – the power to decide questions of war or peace,” he said. Continue reading...",
+      "content_length": 660,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand PM wins royal approval to dissolve parliament, paving way for early elections",
+      "link": "https://www.france24.com/en/asia-pacific/20251212-thai-prime-minister-dissolve-parliament",
+      "published": "2025-12-12T01:00:15",
+      "content": "Thailand’s Prime Minister Anutin Charnvirakul received royal approval on Friday to dissolve parliament, paving the way for a general election early next year. Voting for the House of Representatives will be held 45 to 60 days after a royal decree, with Anutin leading a caretaker government barred from approving a new budget.",
+      "content_length": 326,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand set for early elections amid political deadlock and Cambodia skirmishes",
+      "link": "https://www.theguardian.com/world/2025/dec/12/thailand-set-for-early-elections-cambodia-clashes",
+      "published": "2025-12-12T00:51:59",
+      "content": "Move follows a disagreement with the largest grouping in parliament, with elections to be held within 45-60 daysThailand’s prime minister, Anutin Charnvirakul, announced on Thursday that he is “returning power to the people”, moving to dissolve parliament and clear the way for elections earlier than previously anticipated.Government spokesperson Siripong Angkasakulkiat said the move followed a disagreement with the largest grouping in parliament, the opposition People’s party. “This happened because we can’t go forward in parliament,” he told Reuters. Continue reading...",
+      "content_length": 577,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "FIFA accused of 'monumental betrayal' over latest World Cup 2026 tickets",
+      "link": "https://www.france24.com/en/sport/20251212-fifa-world-cup-tickets",
+      "published": "2025-12-12T00:35:09",
+      "content": "Soccer fans on Thursday accused FIFA of a “monumental betrayal” after fresh World Cup ticket prices surfaced, showing steep increases. Germany’s soccer federation said national associations receive 8% of tickets, with group-stage seats priced at $180–$700 and final tickets ranging from $4,185 to $8,680.",
+      "content_length": 304,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Game Awards 2025: all the news and announcements",
+      "link": "https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers",
+      "published": "2025-12-12T00:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nThe Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate gamers&#8217; opinions on which title should be named the Game of the Year. I don&#8217;t wanna say it&#8217;s a foregone conclusion what this year&#8217;s GOTY will be — Silksong may surprise us — but it&#8217;s pretty obvious that Clair Obscur: Expedition 33 is the frontrunner and for good reason. It&#8217;s netted 12 nominations, the most out of this year&#8217;s contenders, including all five craft awards (Direction, Art, Music and Score, Narrative, and Audio Design).\n\nOn the announcements side, Crystal Dynamics and Amazon Games are planning something related to the Tomb Raider series. Keighley also probably had plans to reveal big news about Resident Evil: Requiem, but unfortunately it got spoiled early thanks to some leaked key art on the PlayStation Store.  Here&#8217;s all the news, announcements, and trailers from The Game Awards 2025.\n\n\t\t\t\t\t\n\t\t\t\tEven more Expedition 33.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tFlute Guy, now with PVC pipes\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tFrom the makers of Titanfall.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tClair Obscur: Expedition 33 wins Game of the Year.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMega Man is back.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tAn oh-so-brief taste of Super Mario Galaxy.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe power of friendship and F15s.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNow this is podracing?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tA stop motion treat.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTomb Raider announces two new games\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHousemarque&#8217;s next game is getting a small delay.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDiablo IV&#8217;s next expansion is out in the spring.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWerner Herzog alert.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhat is going on here?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHere comes a new trailer.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tControl’s action-RPG sequel launches in 2026\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHere comes Leon.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe next Star Wars game is the spiritual successor to Knights of the Old Republic\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tI think they&#8217;re ONTOS omething.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tA loopy reveal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tUp next from the team behind Baldur&#8217;s Gate 3.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tBadger, badger, badger.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIt&#8217;s a dog herd sheep world out there.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCatfish and Crouton are goin&#8217; on the road.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIt&#8217;s almost that time.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe Game Awards are losing their luster\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIt&#8217;s Expedition 33 vs. the world.\n\t\t\t\n\t\t\t",
+      "content_length": 2370,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "'Trump's foreign policy toward Venezuela unclear, with actions edging dangerously close to red line'",
+      "link": "https://www.france24.com/en/video/20251212-trump-s-foreign-policy-toward-venezuela-unclear-with-actions-edging-dangerously-close-to-red-line",
+      "published": "2025-12-12T00:27:35",
+      "content": "The United States has seized an oil tanker near the Venezuelan coast, which Caracas denounced as \"blatant theft\". Maduro maintains that US operations are aimed at toppling his government and seizing Venezuela's oil reserves. All the while, Nobel Peace laureate Maria Corina Machado confirmed publicly that the United States helped her secretly escape Venezuela to travel to Norway to claim her Nobel Peace Prize award, and controversially expressed support for US military action against her country. Ms. Machado, who vanished in January after challenging the rule of authoritarian strongman Nicolas Maduro, emerged on a hotel balcony in Oslo to cheering supporters where she vowed to return home. For in-depth analysis and a deeper perspective, Genie Godula welcomes Dr. Eduardo Rios, Director of Gnosis Advisory, member of the CERI-Sciences Po’s Political Observatory of Latin America and the Caribbean (OPALC).",
+      "content_length": 913,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Liam Neeson denies anti-vax views after narrating Covid documentary",
+      "link": "https://www.theguardian.com/film/2025/dec/11/liam-neeson-covid-documentary",
+      "published": "2025-12-12T00:23:43",
+      "content": "Taken star lends his voice to a film that questions the legitimacy of vaccines and includes interview with RFK JrLiam Neeson has lent his voice to a new documentary that questions the legitimacy of vaccines and praises Donald Trump’s health and human services secretary, Robert F Kennedy Jr.The film, called Plague of Corruption, is narrated by the Taken actor and based on a bestselling book co-authored by Judy Mikovits, a disgraced former scientist who gained notoriety during the Covid pandemic. She claimed Covid was caused by a bad strain of the flu vaccine and urged people not to get vaccinated. Continue reading...",
+      "content_length": 623,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Disney, OpenAI strike landmark deal to let fans create AI-generated videos",
+      "link": "https://www.france24.com/en/technology/20251212-disney-openai-deal-ai-generated-videos",
+      "published": "2025-12-12T00:02:38",
+      "content": "Walt Disney and OpenAI agreed a three-year licensing deal on Thursday allowing users to generate short videos featuring Disney characters with artificial intelligence. It is the first time a major studio has permitted such broad generative-AI use of its protected characters, from Mickey Mouse to Marvel heroes and Star Wars icons.",
+      "content_length": 331,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "MPs announce inquiry into work of Office for Budget Responsibility",
+      "link": "https://www.theguardian.com/business/2025/dec/12/mps-anounce-inquiry-office-for-budget-responsibility",
+      "published": "2025-12-12T00:01:27",
+      "content": "Treasury committee will examine agency’s forecasting record and discover where it ‘needs to do better’MPs have launched an inquiry into the role and performance of the Office for Budget Responsibility.The all-party Commons Treasury committee will spend until the end of next month investigating the independent agency’s forecasting performance and impartiality. The panel will consider whether reforms are needed 15 years after the OBR was set up by George Osborne when he was Tory chancellor. Continue reading...",
+      "content_length": 513,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
+      "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
+      "published": "2025-12-11T23:47:33",
+      "content": "AI company Runway has announced what it calls its first world model, GWM-1. It’s a significant step in a new direction for a company that has made its name primarily on video generation, and it’s part of a wider gold rush to build a new frontier of models as large language models and image and video generation move into a refinement phase, no longer an untapped frontier.\nGWM-1 is a blanket term for a trio of autoregression models, each built on top Runway’s Gen-4.5 text-to-video generation model and then post-trained with domain-specific data for different kinds of applications. Here’s what each does.\n\n    \n    \n      Runway’s world model announcement livestream video.\n\n          \n  \n\nGWM Worlds\nGWM Worlds offers an interface for digital environment exploration with real-time user input that affects the generation of coming frames, which Runway suggests can remain consistent and coherent “across long sequences of movement.”Read full article\nComments",
+      "content_length": 963,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Indiana Republicans block Trump redistricting map targeting two Democratic seats",
+      "link": "https://www.france24.com/en/americas/20251211-indiana-republicans-trump-redistricting-map-democratic-seats",
+      "published": "2025-12-11T23:24:20",
+      "content": "Indiana’s Republican-led Senate on Thursday overwhelmingly rejected a Trump-backed congressional map that would have eliminated two Democratic-held districts, denting GOP hopes for a nine-seat sweep in next year’s midterms.",
+      "content_length": 223,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Elon Musk teams with El Salvador to bring Grok chatbot to public schools",
+      "link": "https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok",
+      "published": "2025-12-11T23:11:59",
+      "content": "President Nayib Bukele entrusting chatbot known for calling itself ‘MechaHitler’ to create ‘AI-powered’ curriculaElon Musk is partnering with the government of El Salvador to bring his artificial intelligence company’s chatbot, Grok, to more than 1 million students across the country, according to a Thursday announcement by xAI. Over the next two years, the plan is to “deploy” the chatbot to more than 5,000 public schools in an “AI-powered education program”.xAI’s Grok is more known for referring to itself as “MechaHitler” and espousing far-right conspiracy theories than it is for public education. Over the past year, the chatbot has spewed various antisemitic content, decried “white genocide” and claimed Donald Trump won the 2020 election. Continue reading...",
+      "content_length": 770,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Vorjahressieger Nemo gibt ESC-Trophäe wegen Teilnahme Israels zurück",
+      "link": "https://www.tagesschau.de/kultur/nemo-esc-trophaee-rueckgabe-100.html",
+      "published": "2025-12-11T23:06:49",
+      "content": "   Aus Protest gegen die Teilnahme Israels am Eurovision Song Contest 2026 will Vorjahressieger Nemo seine Trophäe zurückgeben. Grund sei das Vorgehen Israels im Gazastreifen, schrieb der Musiker bei Instagram. [mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Viel mehr AD(H)S-Diagnosen bei Erwachsenen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/adhs-erwachsene-diagnosen-100.html",
+      "published": "2025-12-11T23:03:33",
+      "content": "   Probleme mit Konzentration, Unruhe und Impulsivität: ADHS und ADS werden bei Erwachsenen immer häufiger diagnostiziert. Eine \"Modeerscheinung\"? Nein, sagen Fachleute - und erklären, wann Therapien sinnvoll sind. Von Y. Appelhans.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disney wants to drag you into the slop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership",
+      "published": "2025-12-11T23:03:24",
+      "content": "\n\n\n\t\n\t\t\n\nDisney and OpenAI's new $1 billion partnership feels emblematic of the terrible times we're living through. In exchange for access to the generative AI firm's APIs and tools like ChatGPT, the studio plans to let users of OpenAI's Sora AI video generator create clips featuring hundreds of Disney-owned characters. Sora AI users will be able to generate as much uncanny Pixar / Marvel / Star Wars slop for themselves as they want, and Disney will share some of it in a special section on the Disney Plus platform. It's not hard to see where this is going to go.\nDisney CEO Bob Iger described the partnership as marking \"an important moment for our i …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
+      "link": "https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/",
+      "published": "2025-12-11T23:03:02",
+      "content": "Long-time World of Warcraft players have been waiting 21 years for the new in-game housing features that Blizzard officially announced last year and which launched in early access last week. Shortly after that launch, though, players quickly discovered a way to make their houses float high above the ground by exploiting an unintended, invisible UI glitch.\nNow, Blizzard says that the overwhelming response to that accidental house hovering has been so strong that it’s pivoting to integrate it as an official part of the game.\n“We were going to fix flying houses to bring them back to terra firma, but you all made such awesome stuff, so we made it possible with the base UI instead.” WoW principal designer Jesse Kurlancheek posted on social media Tuesday. Lead producer Kyle Hartline followed up on that announcement with some behind-the-scenes gossip: “Like no joke we had an ops channel about how to roll out the float fix but folks shared like 5 of the dopest houses and we all kinda immediately agreed this was way too cool to change,” he wrote.Read full article\nComments",
+      "content_length": 1079,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "The best earbuds we’ve tested for 2025",
+      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "published": "2025-12-11T23:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds, when we had to deal with mediocre sound quality and unreliable performance, all for the sake of ditching cables. Things are much different now. After several product generations, companies like Sony, Apple, Bose, and others are releasing their most impressive earbuds to date. \n\nYou can get phenomenal noise cancellation and sound quality in the premium tier of earbuds if you’re willing to spend big. But those aren’t always the most important criteria for everyone: maybe you’re looking for the perfect fitness earbuds or for a set that works just as well for Zoom calls as for playing your favorite playlists and podcasts.\n\nTech companies are increasingly making their earbuds work best with their own products through exclusive features and functionality, so that’s another thing to consider as you shop around. If you want a perk like head-tracking spatial audio, you’ll need to use AirPods with an iPhone, Samsung buds with a Samsung phone, and so on.\n\n\n\n\n\n\n\n\nThe best overall wireless earbudsThe best budget earbuds under $100The best noise-canceling earbudsThe best earbuds for sports and working outThe best earbuds for iPhone ownersThe best earbuds for Samsung Galaxy phone ownersThe best earbuds for Google Pixel phone ownersThe best earbuds if you own both Apple and Android devicesThe best earbuds for sound qualityThe best earbuds for voice calls on iPhoneThe best earbuds for voice calls on Android\n\n\n\n\nThe best overall wireless earbuds\nSony WF-1000XM5\nSony&#8217;s flagship wireless earbuds offer the company&#8217;s best noise cancellation, powerful and lively sound, and a comfortable fit. Read our review.\n\nScore: 8ProsConsSmaller, more comfortable designUpgrades to ANC and sound qualityMuch clearer voice call performanceGlossy texture can make them harder to remove from caseSony’s bonus features aren’t as seamless as those of its competitorsPotential battery longevity concerns\nWhere to Buy: $329.99 $248 at Amazon $329.99 $248 at Best Buy $329.99 $248 at Walmart\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: LDAC, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Foam (XS, S, M, L)\n\nJust like their predecessors, Sony’s WF-1000XM5 earbuds have again topped our recommendations for the overall best noise-canceling earbuds. Thanks to their larger drivers, the audio quality is more detailed and dynamic than before while still retaining the warmth and clarity that made the WF-1000XM4 so enjoyable. Sony has also further improved its ANC and is nearing the same territory as Bose’s QC Earbuds II. These earbuds do a terrific job of eliminating background noise. Battery life can stretch to eight hours of continuous listening with noise cancellation turned on.\n\nSome people found the XM4 to be bulky and uncomfortable, so this time around, Sony has managed to shrink the XM5 by 25 percent. Like before, the company includes foam-style tips that expand in your ears to create an excellent seal — and now there’s a fourth (extra small) set of tips in the box.\n\nOn Android phones, the 1000XM5 support Sony’s LDAC codec for higher-quality music playback. And they’re capable of dynamic head tracking spatial audio through supported video apps like Netflix. But even if you’re not using LDAC (or have an iPhone), these are up there with the very best audio-focused premium earbuds — including Sennheiser’s Momentum True Wireless 4, only with substantially better noise cancellation. They’re also capable of multipoint Bluetooth connectivity, so you can pair them with two devices at the same time.\n\nIt’s worth noting that there were many reports of battery issues with the 1000XM4 over time as those earbuds aged, but Sony claims to have rectified that problem with the new model by tweaking the charging algorithm.\n\nRead our&nbsp;full WF-1000XM5 review.\n\nThe best budget earbuds under $100\nNothing Ear (a)\nNothing’s Ear (a) earbuds have the same stylish, semi-transparent design as the company’s other earbuds — but these come in a snazzy yellow. They combine decent ANC, enjoyable sound, and other features like multipoint for under $100.\n\nProsConsStandout color and designVery compact carrying caseGreat performer for the priceLimited retail availabilityPlastic case can show scuffs\nWhere to Buy: $89 $59 at Nothing $109 $59 at Amazon\nNoise cancellation: Yes / Battery life: 5.5 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: LDAC, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nWhen looking at Nothing’s Ear (a) earbuds, it’s easy to focus all your attention on the catchy yellow color or their fun, super compact carrying case. But at their $99 price, the company’s entry-level earbuds provide a ton of features, including active noise cancellation, a low-latency mode for gaming, multipoint Bluetooth pairing, and a decent IP54 dust and water resistance rating.&nbsp;\n\nAnd the sound quality you get outperforms my usual expectations for this price point. They’re not quite on par with Nothing’s higher-end Ears, but you do get expressive, very enjoyable audio — and you can customize the EQ further in Nothing’s mobile app.\n\nRead my Nothing Ear (a) hands-on impressions.\n\nThe best noise-canceling earbuds\nBose QuietComfort Ultra Earbuds (2nd Gen)\nThe second generation of the Bose Ultra Earbuds carry over the chunky design from the previous gen, with improved ANC and call quality.\n\nScore: 8ProsConsExceptional ANCSecure fitWireless charging caseBulky designMerely average battery life\nWhere to Buy: $299 $249 at Amazon $299 $249 at Bose $299 $249 at Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC, aptX Adaptive&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nThe name Bose has been synonymous with noise cancellation for decades, and it’s again proven why with the QuietComfort Ultra Earbuds (Gen 2). They offer the best noise-canceling performance available in a set of earbuds, delivering the peace and isolation many of us crave throughout the day. The second-gen earbuds bring some much-needed improvements to call quality, too, and while they don’t match the performance of our best call quality picks, the AirPods 4 or Samsung Galaxy Buds, the Bose handle noisy environments far better and allow you to sound like you in conversations.\n\nAlthough Bose added wireless charging and there’s now a little screen in the ear tips to keep earwax out of the earbuds, there’s no visual upgrade to speak of. The second-gen earbuds maintain a chunky look that’s identical to the first-gen QC Ultra Earbuds, which were already extremely similar to 2022’s QC Earbuds II. They come with three ear tips and three stabilizer sizes, providing a variety of combinations and a secure fit for different ear shapes.\n\nAs with the design, the QC Ultra Earbuds (Gen 2) sound nearly identical to their first-gen counterpart. The bass and treble are boosted, providing more bass than competitors and a lively high-end — although it can get to be a bit much on some tracks. Bose continues to stick with its three-band EQ in the app, which doesn’t allow much meaningful adjustment, but most people will appreciate the stock sound. Bose also continues to offer Immersive Audio, first introduced with the Ultra Earbuds, which is similar to Apple’s spatial audio.\n\nRead our full QC Ultra Earbuds (Gen 2) review.\n\nThe best earbuds for sports and working out\nBeats Powerbeats Pro 2\n\nScore: 8ProsConsHuzzah! Wireless charging!Adds ANC, transparency modes, spatial audioSlimmer ear hook, smaller caseAdds heart rateGreat soundNo price hikeCase is still a chonkerHeart rate is not that useful for iOS users\nWhere to Buy: $250 $199.95 at Amazon $249 $199.95 at Walmart $249.99 $199.99 at Best Buy\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L, XL)\n\nAfter a long wait, Beats finally introduced the Powerbeats Pro 2 in early 2025. They carry forward the signature ear hook design of past Powerbeats earbuds, but improve upon the original Powerbeats Pro in several key ways. Beats added active noise cancellation and a natural-sounding transparency mode to the Pro 2; the first-gen pair lacked both. The earbuds themselves are lighter, too, and the charging case is noticeably smaller.\n\nThe Powerbeats Pro 2 also feature heart rate monitoring thanks to built-in sensors on each earbud. You might already have a fitness tracker, chest strap, or smartwatch for this purpose, but if not, you can use these with compatible apps like Nike Run Club, Runna, Ladder, Slopes, Open, Peloton, and YaoYao. The downside is that they can’t simultaneously play music and broadcast heart rate to gym equipment when paired to an iOS device, rendering the Pro 2 a better heart rate monitoring alternative for Android users than iPhone users.\n\nThe Powerbeats Pro 2 remain rated IPX4 for water resistance. While that’s not as robust as some other fitness-focused buds, it should be sufficient to survive sweat and outdoor runs in various conditions. The earbuds still offer easy-to-use physical buttons and a dedicated volume rocker, so it’s easy to control them in the middle of a workout.\n\nIf you’re an iPhone owner, the Powerbeats Pro 2 earbuds include Apple-only features like dynamic head tracking for spatial audio, auto device switching, Find My integration, and more. For Android users, Beats has an app that packs in a smaller subset of these functions.&nbsp;\n\nRead our full&nbsp;Powerbeats Pro 2 review.\n\nThe best earbuds for iPhone owners\nAirPods Pro 3\n\nScore: 9ProsConsImproved ANC and soundLonger batteryStandalone workout trackingLive translationSame priceIP57Better fitCamera remote control is handy!If you’re hoping for traditional foam ear tips, this isn’t that\nWhere to Buy: $249 $199 at Amazon $249 $219.99 at Best Buy $249 $199 at Walmart\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: iOS, macOS / Ear tips: Silicone (XXS, XS, S, M, L)\n\nApple continually adds to the features of the AirPods Pro line — either with a new product like the&nbsp;second-gen AirPods Pro,&nbsp;or with a software update, such as the one that introduced the hearing health features last year. The AirPods Pro 3 continue the trend, with (yet again) improved noise-canceling performance, heart rate sensing, newly designed ear tips with an extra XXS size, and more battery life. The splashiest update is Live Translation, which, unlike the other improvements, still needs some time to develop into a more streamlined experience.\n\nThe new foam-infused earbuds improve passive isolation and, when combined with better ANC performance, deliver the best overall noise cancellation in a pair of Apple earbuds yet. ANC performance is nearly identical to that of the Bose QC Ultra Earbuds (Gen 2), but the AirPods have a slight high-end hiss (though some people might not notice it). A redesign of the acoustic architecture gives the AirPods Pro 3 improved bass performance over the second-gen model, and its spatial audio delivers a wider, richer listening experience.\n\nBut what’s important for many Apple users is how well the AirPods Pro 3 fit into the Apple ecosystem. A new heart sensor, first seen with the Powerbeats Pro 2, enables heart rate tracking for 50 workout types from directly within the iOS Fitness app. And unlike the Powerbeats Pro 2, the AirPods can work in conjunction with the Apple Watch, providing a secondary heart rate stream to ensure you always have the most accurate data. \n\nRead our full AirPods Pro 3 review.\n\nThe best earbuds for Samsung Galaxy phone owners\nSamsung Galaxy Buds 3 Pro\nThe Galaxy Buds 3 Pro are Samsung’s best-sounding wireless earbuds yet. They have a stemmed design similar to the AirPods Pro, but even if their design is a little bland, the Buds 3 Pro make up for it with great call quality, useful voice commands, and more.\n\nScore: 8ProsConsTerrific sound qualityCrisp, natural transparency / passthrough modeVoice commands are simple and so usefulGood voice callsUninspired designMidtier noise cancellation performanceNo true multipoint\nWhere to Buy: $249.99 $169.98 at Amazon $249.99 $169.98 at Walmart $249.99 $169.99 at Target\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: Samsung seamless, AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nSamsung’s Galaxy Buds 3 Pro ditch the company’s more discreet designs of the past for a stemmed style that’s similar to AirPods and any number of other wireless earbuds. Boring? Maybe, but thanks to that change, we’ve found them to be more comfortable and provide better stability than the Buds 2 Pro. The sound quality is even better than before — and it was already excellent. These are right up there with Sennheiser and Technics from an audio fidelity standpoint.\n\nThe Buds 3 Pro are also a standout performer when it comes to call quality. And our favorite thing about these earbuds are the hands-free voice commands that don’t require you to say any specific wake phrase beforehand. You can just say “volume up” and / or “next song,” and it happens.\n\nBut they’re not perfect: the Buds 3 Pro lack multipoint connectivity, so they can’t connect to two devices at the same time. Just like Apple, Samsung prefers to automatically hop between products within its own walled garden ecosystem. Some people might consider this a dealbreaker, but we’ve still enjoyed the earbuds plenty without it.\n\nRead our full Galaxy Buds 3 Pro review.\n\nThe best earbuds for Google Pixel phone owners\nGoogle Pixel Buds Pro 2\n\nScore: 9ProsConsSmaller and lighter design is supremely comfortableMore powerful noise cancellationCrystal-clear transparency modeVery pleasant and detailed sound qualityANC can’t quite match BoseGoogle still refuses to add higher-quality Bluetooth codecs, limiting overall fidelityGemini Live feels more feeble than futuristic\nWhere to Buy: $229 $168.99 at Amazon $229 $179 at Best Buy $229 $179 at Google Store\nNoise cancellation: Yes / Battery life: 8 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nWith the Pixel Buds Pro 2, Google has addressed most of the downsides of the original pair. They’re far smaller and lighter than the chunky first-gen Pixel Buds Pro. And there’s a small nub on the buds to help keep them in place while performing various activities, including running and other forms of intensive exercise.\n\nGoogle’s active noise cancellation still isn’t on the same tier as Bose, but the transparency mode on the Buds Pro 2 is among the very best you’ll find. It offers a crisp, natural passthrough for the outside world when needed. Multipoint support is included, and Google’s latest pair of premium earbuds eke out impressive battery life that surpasses most competitors.\n\nGot a Pixel phone? With the Pixel Buds Pro 2, you can have lengthy conversations with Google’s Gemini AI while your phone stays in your pocket. Features like head-tracking spatial audio and Clear Calling are also exclusive to those within the Pixel ecosystem. If that’s you, the Pixel Buds Pro 2 are a big step up from the previous buds in a much smaller package.\n\nRead our full Pixel Buds Pro 2 review.\n\nThe best earbuds if you own both Apple and Android devices\nBeats Studio Buds Plus\n\nScore: 8ProsConsBetter sound, ANC, and battery life than Studio BudsStandout translucent case optionImproved voice call performanceANC and transparency fall short of second-gen AirPods ProDoesn’t offer all Apple ecosystem tricksNo wireless charging or in-ear detection\nWhere to Buy: $169.99 $149.95 at Amazon $169.99 $120.39 at Walmart $169.99 $149.99 at Best Buy\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IPX4 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nBeats’ Studio Buds Plus are an upgraded, better-performing revision of the Studio Buds released in 2021. This time, the company has made the noise cancellation more powerful while also improving the quality of the transparency mode and extending battery life. If you’re going for style points, it doesn’t get much cooler than the translucent color option. These earbuds are very tiny and rank up with the best in terms of overall comfort.\n\nWhat’s interesting about the Studio Buds Plus is that they use a proprietary chip that allows them to support native software features on both iOS and Android. Plenty of earbuds offer companion apps on each platform, but in the case of the Beats, they work with both Apple’s Find My and Google’s Find My Device. You also get simple one-tap pairing, no matter which operating system you’re using.\n\nThe drawback to this dual-ecosystem life is that Apple customers don’t get all the usual bells and whistles that come with AirPods or even the Beats Powerbeats Pro 2; you lose out on audio sharing, head tracking spatial audio, and other tricks. Wireless charging and an ear detection sensor (for auto-pause when a bud is removed) are also MIA, which stings a bit considering the price.\n\nRead our full Beats Studio Buds Plus review.\n\nThe best earbuds for sound quality\nSennheiser Momentum True Wireless 4\n\nScore: 8ProsConsFantastic sound qualityImproved day-to-day reliabilityAuracast-enabledToo pricey for someNoise cancellation does the job, but isn’t anything specialLong-term durability remains to be seen\nWhere to Buy: $299.95 $199.95 at Amazon $299.95 $179.99 at Best Buy $299.95 $199.95 at Sennheiser\nNoise cancellation: Yes / Battery life: 7.5 hours (ANC on) / Water resistance: IP54 / Bluetooth codecs: AptX Adaptive, AptX, AAC, SBC&nbsp;/ Multipoint: Yes / Works best with: Android, iOS, Windows, macOS / Ear tips: Silicone (XS, S, M, L)\n\nSennheiser’s Momentum True Wireless earbuds have always sounded fantastic; that’s never been the issue. But previous models in the series have been tainted a bit by bugs, unsteady performance, and battery reliability problems. The fourth-gen pair finally gets that part right while continuing to offer tremendous, detailed sound quality that stands above nearly all competitors. They’re a joy to listen to. The active noise cancellation can’t compete with the likes of Apple, Sony, and Bose, but if you care more about lush, intricate sound, the MTW4 won’t disappoint in the slightest.\n\nThese earbuds come with optional wing tips to help keep them securely locked in your ears. That could prove helpful for running or when hitting the gym. Sennheiser allows for plenty of EQ customization using its mobile app, and the Momentum True Wireless 4 support a range of Bluetooth codecs, including AAC, SBC, AptX, and AptX Adaptive. They’re even LE Audio and Auracast-ready for when those features become more widespread.\n\nRead our&nbsp;full Momentum True Wireless 4 review.\n\nThe best earbuds for voice calls on iPhone\nApple AirPods 4\n\nScore: 7ProsConsUpgraded sound qualityVoice isolation can noticeably improve call clarityDeep Apple ecosystem integrationNo wireless chargingNo built-in speaker on the caseNo proper multipoint\nWhere to Buy: $129 $84.99 at Amazon $129 $74 at Walmart $179 $99 at Walmart (with ANC)\nNoise cancellation: Optional / Battery life: 5 hours / Water resistance: IP54 / Bluetooth codecs: AAC, SBC&nbsp;/ Multipoint: No / Works best with: iOS, Windows, macOS / Ear tips: None\n\nApple’s AirPods 4 come in two different versions, with a higher-priced option that includes active noise cancellation and wireless charging. But sound quality is identical on both sets, and equally as important in this case is that the same can be said of voice call clarity.\n\nOn the AirPods 4, there’s a new “voice isolation” feature — enabled by default — that uses machine learning both on the earbuds and your iPhone to eliminate distracting background noise on your end so that you come through clearly to whoever you’re speaking with.\n\nOverall call quality is excellent with the AirPods 4. And beyond that, compared to the third-gen model, you can expect upgraded audio quality (with richer bass), new ways of interacting with Siri through head movements, and yes&#8230; there’s a USB-C connector on the included charging case, as opposed to a Lightning port.\n\nThe AirPods still have a one-size-fits-most hard plastic form factor, so we recommend trying them before committing to a purchase. However, Apple says it used more than 50 million data points to further refine the contours and overall stability of its latest earbuds. So, if previous models worked well for you, these seem like a safe bet. The only question is whether you feel like spending a little more to gain ANC, a transparency mode, wireless charging, and a built-in speaker for Find My location tracking.\n\nRead our full AirPods 4 review.\n\nThe best earbuds for voice calls on Android\nSamsung Galaxy Buds 3 Pro\n\nScore: 8ProsConsTerrific sound qualityCrisp, natural transparency / passthrough modeVoice commands are simple and so usefulGood voice callsUninspired designMidtier noise cancellation performanceNo true multipoint\nWhere to Buy: $249.99 $169.98 at Amazon $249.99 $169.98 at Walmart $249.99 $169.99 at Target\nNoise cancellation: Yes / Battery life: 6 hours (ANC on) / Water resistance: IP57 / Bluetooth codecs: Samsung seamless, AAC, SBC&nbsp;/ Multipoint: No / Works best with: Android, Windows, macOS / Ear tips: Silicone (S, M, L)\n\nSony’s unconventional LinkBuds were our longtime pick for the clearest voice calls on Android, but we haven’t had the chance to review their successors. For now, the aforementioned Galaxy Buds 3 Pro are an easy-to-recommend choice. The built-in “voice pickup unit” detects the movement of your mouth to help isolate your voice from background noise and keep conversations clear.\n\nThe Buds 3 Pro have proven dependable for us during video chats on Google Meet, and people have been able to hear us without issue, even when answering a quick call on the street.\n\nRead our&nbsp;full Galaxy Buds 3 Pro review.\n\nUpdate, December 11th: Updated to reflect current pricing / availability and several new links.",
+      "content_length": 22821,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tens of thousands evacuate as rains swell rivers in US and Canada",
+      "link": "https://www.france24.com/en/americas/20251211-floods-us-canada",
+      "published": "2025-12-11T22:58:52",
+      "content": "Tens of thousands of people were under evacuation orders on Thursday in western North America after days of heavy rain caused rivers to overflow. Storms have lashed Washington state and Canada’s British Columbia for several days, with authorities warning that water levels are still rising and flooding risks remain high.",
+      "content_length": 321,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Indiana Republicans reject effort to redraw voting maps in rebuke to Trump",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/indiana-republicans-redistricting",
+      "published": "2025-12-11T22:51:03",
+      "content": "Measure to redistrict, which would add two GOP-friendly seats, failed 19-31 after 21 Republicans joined 10 DemocratsTrump news at a glanceIndiana Republicans rejected an effort to redraw the state’s congressional map on Thursday, a stunning and blunt rebuke of Donald Trump and Republican efforts to reconfigure the state’s congressional districts to add two more Republican-friendly seats.The measure failed 19-31, with 21 Republicans joining 10 Democrats in rejecting the new maps. Continue reading...",
+      "content_length": 503,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kilmar Ábrego García released from ICE custody in fight over Trump immigration",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/kilmar-abrego-garcia-released",
+      "published": "2025-12-11T22:48:43",
+      "content": "Ábrego plans return to Maryland as DHS pledges to appeal judge’s decision, calling ruling ‘naked judicial activism’Kilmar Ábrego García has been freed from an immigration detention facility in Pennsylvania after a federal judge in Maryland ordered his release on Thursday.Ábrego was released shortly before 5pm ET, his attorney told the Associated Press. He plans to return to Maryland, where he has lived for many years with his US citizen wife and child after first entering the country illegally as a teenager. Continue reading...",
+      "content_length": 533,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Labour to create up to 60,000 spaces for children with Send in English schools",
+      "link": "https://www.theguardian.com/education/2025/dec/11/labour-funding-children-send-local-school-spaces",
+      "published": "2025-12-11T22:30:26",
+      "content": "Bridget Phillipson says £3bn scheme focussed on local state schools will ‘transform lives’, after rise in parent appealsThe government is to invest £3bn in creating bespoke places within local state schools for pupils with special educational needs and disabilities (Send), a crucial part of its efforts to grapple with England’s rising numbers of children facing social and mental health problems.The plan announced by Bridget Phillipson, the education secretary, to create up to 60,000 places within mainstream schools, will be partly funded by the suspension of a group of planned free schools, saving an estimated £600m in the coming years. The remaining £2.4bn will come from departmental spending outlined in November’s budget. Continue reading...",
+      "content_length": 753,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump plan to require social media handles from expedited travelers sparks pushback",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251211-trump-plan-to-require-social-media-handles-from-expedited-travelers-sparks-pushback",
+      "published": "2025-12-11T22:04:14",
+      "content": "A U.S. travel association, a top Democrat, and would-be travelers from Europe and Australia are bristling at President Donald Trump's new plan to require Europeans and other visitors using the visa waiver program to provide social media handles used over the past five years. FRANCE 24's Sharon Gaffney speaks with Nadine Strossen, Professor of Constitutional at the New York Law School, and former President of the American Civil Liberties Union.",
+      "content_length": 447,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "No, this video does not show immigrants destroying Christmas trees across France",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251211-no-this-video-does-not-show-immigrants-destroying-christmas-trees-across-france",
+      "published": "2025-12-11T21:58:38",
+      "content": "As the festive season gets into full swing in France, a video showing people seizing Christmas trees has gone viral on social media. Some, including the spokesperson for Eric Zemmour's far-right Reconquete party, are falsely claiming that the footage is proof that immigrants are destroying Christmas trees across the country. However, as Charlotte Hughes explains, his allegations are baseless - the video in fact shows a store being looted during 'yellow vests' protests in 2018.",
+      "content_length": 481,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Gas explosion in San Francisco Bay Area injures at least six people",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/gas-explosion-san-francisco-bay-area",
+      "published": "2025-12-11T21:55:04",
+      "content": "Explosion led to three-alarm blaze in Hayward, California, neighborhood after construction crew damaged a gas pipeA big explosion erupted in a San Francisco Bay Area neighborhood of Hayward, California, after a gas line rupture on Thursday, injuring at least six people, according to local news reports.The explosion broke out around 9.30am local time, several hours after a construction crew damaged a gas pipe. At least eight fire engines and two fire trucks responded to the three-alarm blaze. Continue reading...",
+      "content_length": 516,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "More than 400 civilians killed in fighting in eastern Congo",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251211-more-than-400-civilians-killed-in-fighting-in-eastern-congo",
+      "published": "2025-12-11T21:35:46",
+      "content": "In tonight's edition, Regional officials say over 400 civilians have been killed since December 1st in the area of Uvira in the Democratic Republic of Congo: we speak to the DRC Minister of Communication, Patrick Muyaya. Also, Kenya has pulled the brakes on a landmark health pact with the United States, over data privacy concerns. And in Ivory Coast the story of Sundiata Keita, the founder of the Mali Empire, meets the stage.",
+      "content_length": 429,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+      "published": "2025-12-11T21:27:18",
+      "content": "On Thursday, OpenAI released GPT-5.2, its newest family of AI models for ChatGPT, in three versions called Instant, Thinking, and Pro. The release follows CEO Sam Altman’s internal “code red” memo earlier this month, which directed company resources toward improving ChatGPT in response to competitive pressure from Google’s Gemini 3 AI model.\n“We designed 5.2 to unlock even more economic value for people,” Fidji Simo, OpenAI’s chief product officer, said during a press briefing with journalists on Thursday. “It’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long context, using tools and then linking complex, multi-step projects.”\nAs with previous versions of GPT-5, the three model tiers serve different purposes: Instant handles faster tasks like writing and translation; Thinking spits out simulated reasoning “thinking” text in an attempt to tackle more complex work like coding and math; and Pro spits out even more simulated reasoning text with the goal of delivering the highest-accuracy performance for difficult problems.Read full article\nComments",
+      "content_length": 1121,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Time magazine names 'Architects of AI' as its person of the year for 2025",
+      "link": "https://www.france24.com/en/video/20251211-time-magazine-names-architects-of-ai-as-its-person-of-the-year-for-2025",
+      "published": "2025-12-11T21:23:59",
+      "content": "The “Architects of AI” were named Time's person of the year Thursday, with the magazine citing 2025 as when the potential of artificial intelligence “roared into view” with no turning back. FRANCE 24's Simon Moritz reports.",
+      "content_length": 223,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Is the US interested in Venezuela's oil?",
+      "link": "https://www.france24.com/en/tv-shows/business/20251211-is-the-us-interested-in-venezuela-s-oil",
+      "published": "2025-12-11T21:07:56",
+      "content": "The US' motives are unclear after it seizes a sanctioned oil tanker off the coast of Venezuela. France's last major home appliance maker goes bust. Disney strikes a deal with OpenAI. And, Lidl gets creative with its advertising, with a competition to win its \"Eau de croissant\".",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky says US is still pushing territorial concessions from Ukraine as part of peace plan",
+      "link": "https://www.france24.com/en/europe/20251211-zelensky-says-us-still-pushing-territorial-concessions-from-ukraine-part-peace-plan",
+      "published": "2025-12-11T20:52:30",
+      "content": "The US is still trying to convince Kyiv to concede territories to Russia, Ukrainian President Volodymyr Zelensky said on Thursday. Washington wants for Ukraine – and not Russia – to withdraw its troops from parts of the Donetsk region, where a \"free economic zone\" would be installed, Zelensky told reporters.",
+      "content_length": 309,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "California colleges agree settlements over antisemitism complaints",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/california-campus-antisemitism-settlements",
+      "published": "2025-12-11T20:33:38",
+      "content": "UC Berkeley apologizes to Israeli sociologist and dance teacher and Pomona to create taskforce on Jewish lifeTwo California colleges have reached settlements with Jewish organizations and individuals who filed complaints alleging antisemitism arising from pro-Palestinian campus protests, including a $60,000 payment to an Israeli sociologist and dance researcher who says she was not rehired by the University of California, Berkeley despite the popularity of her class.The UC Berkeley chancellor, Rich Lyons, on Wednesday issued an apology to Yael Nativ, a visiting 2022 professor who was found in a campus investigation to have been the victim of discrimination, the Los Angeles Times reported. She is also invited to teach her class in a semester of her choosing. Continue reading...",
+      "content_length": 787,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Key whistleblower contradicts part of phone hacking case against Daily Mail",
+      "link": "https://www.theguardian.com/media/2025/dec/11/key-whistleblower-contradicts-part-of-phone-hacking-case-against-daily-mail",
+      "published": "2025-12-11T20:30:07",
+      "content": "Private investigator Jonathan Rees denies telling Doreen Lawrence he was involved in bugging herA key whistleblower supporting a legal claim headed by Prince Harry and Doreen Lawrence against the publisher of the Daily Mail appears to have dealt a last-minute blow to the case against the media group.Just weeks before a high court trial, Jonathan Rees, a private investigator who has supported claims of unlawful news gathering at Associated Newspapers, has contradicted a central allegation in the claimants’ case. Continue reading...",
+      "content_length": 536,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
+      "link": "https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/",
+      "published": "2025-12-11T20:25:08",
+      "content": "\nWarner Bros. has been hinting all week that it was coming and finally dropped the long-awaited first extended teaser trailer for Supergirl, directed by Craig Gillespie and starring Milly Alcock in the title role.\nPlans for a Supergirl movie date all the way back to 2018, but the merger that produced Warner Bros. Discovery scuttled the original concept. James Gunn and Peter Safran came in as co-CEOs of the new DC Studios and announced plans for a “soft reboot” of the DC universe, starting with this summer’s Superman. Sasha Calle played Supergirl for a brief appearance in 2023’s The Flash, but despite having signed a multi-year contract, Gunn and Safran decided to go in a different direction for their standalone film and cast Alcock (House of the Dragon) instead.\nGunn particularly wanted to distance this new version of Supergirl from earlier incarnations, especially how the character was portrayed by Melissa Benoist in the Arrowverse series that ran from 2015–2021. He wanted someone less earnest, more of a contrast to David Corenswet’s wholesome Superman. “This is a story-based medium; we want stories to be in theaters that are cool and different from each other,” Gunn said at a media briefing. “And this movie is not exactly just a female clone of Superman. It’s its own thing entirely. And with a character who’s equally worthy of this treatment.”Read full article\nComments",
+      "content_length": 1393,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "US wants Ukraine to withdraw from Donbas and create ‘free economic zone’, says Zelenskyy",
+      "link": "https://www.theguardian.com/world/2025/dec/11/us-wants-ukraine-to-withdraw-from-donbas-and-create-free-economic-zone-says-zelenskyy",
+      "published": "2025-12-11T20:20:59",
+      "content": "Ukrainian president says plan would not be fair without guarantees that Russia would not simply take over zoneThe US wants Ukraine to withdraw its troops from the Donbas region, and Washington would then create a “free economic zone” in the parts Kyiv currently controls, Volodymyr Zelenskyy has said.Previously, the US had suggested Kyiv should hand over the parts of Donbas it still controlled to Russia, but the Ukrainian president said on Thursday that Washington had now suggested a compromise version in which Ukrainian troops would withdraw, but Russian troops would not advance into the territory. Continue reading...",
+      "content_length": 625,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'A population that fits in a stadium owns three times more wealth than half of humanity combined'",
+      "link": "https://www.france24.com/en/video/20251211-a-population-that-fits-in-a-stadium-owns-three-times-more-wealth-than-half-of-humanity-combined",
+      "published": "2025-12-11T20:04:04",
+      "content": "A moderate 3% global tax on fewer than 100,000 of the world's richest would raise over 750 billion dollars annually and is one of the solutions to combatting global inequality according to authors of the World Inequality Report 2026. FRANCE 24's Jean-Emile Jammine speaks with Ricardo Gomez-Carrera, researcher at the World Inequality Lab and co-editor of the World Inequality Report 2026.",
+      "content_length": 389,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Frozen assets debate: 'this is no time for legal niceties', analyst says",
+      "link": "https://www.france24.com/en/video/20251211-frozen-assets-debate-this-is-no-time-for-legal-niceties-analyst-says",
+      "published": "2025-12-11T19:48:02",
+      "content": "Russian frozen assets will have to be used for Ukraine at some point, Belgium's deputy prime minister Vincent Van Peteghem said on Thursday, adding however Belgium \"would not take any reckless compromises\" before it agreed to any deal over this. Peter Zalmayev, Director of the Eurasia Democracy Initiative, says Belgium has been pushing a 'defeatist rhetoric', 'repeating Kremlin's lines about how Russia is pre-destined to win this war'.",
+      "content_length": 439,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Cambodia-Thailand border conflict: Why the escalation despite Trump-brokered deal?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251211-cambodia-thailand-border-conflict-why-the-escalation-despite-trump-brokered-deal",
+      "published": "2025-12-11T19:32:32",
+      "content": "Turns out that it's not enough to stage peace signings.Half-a-million displaced as fighting rages along the border between Thailand and Cambodia, a resurgence of July’s five-day conflict that Donald Trump counts as one of the eight wars in eight months he's ended. We’ll ask why the return to fighting and examine the root causes of a dispute that’s more than a century old and seems to require more than a stroke of the pen to settle. First, who to broker a cessation of hostilities.",
+      "content_length": 484,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Kommission will offenbar Verbrenner-Aus zurücknehmen",
+      "link": "https://www.tagesschau.de/ausland/eu-verbrenner-aus-100.html",
+      "published": "2025-12-11T19:29:43",
+      "content": "   Die EU-Kommission will offenbar das Verbrenner-Aus kippen. Nach Informationen des ARD-Studios Brüssel will die Behörde vorschlagen, dass auch nach 2035 noch Verbrenner-Fahrzeuge zugelassen werden können.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disney says Google AI infringes copyright “on a massive scale”",
+      "link": "https://arstechnica.com/google/2025/12/disney-says-google-ai-infringes-copyright-on-a-massive-scale/",
+      "published": "2025-12-11T19:29:29",
+      "content": "The Wild West of copyrighted characters in AI may be coming to an end. There has been legal wrangling over the role of copyright in the AI era, but the mother of all legal teams may now be gearing up for a fight. Disney has sent a cease and desist to Google, alleging the company’s AI tools are infringing Disney’s copyrights “on a massive scale.”\nAccording to the letter, Google is violating the entertainment conglomerate’s intellectual property in multiple ways. The legal notice says Google has copied a “large corpus” of Disney’s works to train its gen AI models, which is believable, as Google’s image and video models will happily produce popular Disney characters—they couldn’t do that without feeding the models lots of Disney data.\nThe C&amp;D also takes issue with Google for distributing “copies of its protected works” to consumers. So all those memes you’ve been making with Disney characters? Yeah, Disney doesn’t like that, either. The letter calls out a huge number of Disney-owned properties that can be prompted into existence in Google AI, including The Lion King, Deadpool, and Star Wars.Read full article\nComments",
+      "content_length": 1135,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "NATO's Rutte warns allies they are Russia's next target",
+      "link": "https://www.france24.com/en/video/20251211-nato-s-rutte-warns-allies-they-are-russia-s-next-target",
+      "published": "2025-12-11T19:29:16",
+      "content": "NATO chief Mark Rutte on Thursday urged allies to step up defence efforts to prevent a war waged by Russia that could be \"on the scale of war our grandparents and great-grandparents endured\". FRANCE 24's Dave Keating reports from Brussels.",
+      "content_length": 239,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The US proposal for \"free economic zone\" in Ukraine's east 'is a trap', analyst says",
+      "link": "https://www.france24.com/en/video/20251211-the-us-proposal-for-free-economic-zone-in-ukraine-s-east-is-a-trap-analyst-says",
+      "published": "2025-12-11T19:25:04",
+      "content": "The US is pushing for a demilitarised \"free economic zone\" between Russian and Ukrainian troops in the east of the country as part of a settlement to end the war, Ukrainian President Volodymyr Zelensky said Thursday. Speaking on FRANCE 24, Peter Zalmayev, Director of the Eurasia Democracy Initiative says that Russian President Vladimir Putin 'has gotten himself an ally such as the US President and is gangpressing Europeans into going along with a capitulatory peace agreement'.",
+      "content_length": 481,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Disney und Open AI arbeiten künftig zusammen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/disney-open-ai-100.html",
+      "published": "2025-12-11T18:41:19",
+      "content": "   Der Disney-Konzern arbeitet künftig mit dem ChatGPT-Entwickler Open AI zusammen. Künftig können User KI-Videos mit Disney-, Marvel- oder Pixar-Charakteren generieren.[mehr]",
+      "content_length": 175,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Eurovision winner Nemo to return trophy in protest at Israel taking part in 2026",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/dec/11/nemo-eurovision-winner-2024-hand-back-trophy-protest-israel-taking-part-2025",
+      "published": "2025-12-11T18:38:16",
+      "content": "‘Clear conflict’ between Eurovision ideals of ‘inclusion and dignity for all’ and decision to let Israel compete, says 2024 winnerNemo, the Swiss singer who won the 2024 Eurovision song contest, has said they are handing back their trophy in protest over Israel’s participation in next year’s event.The 26-year-old, the first non-binary winner of the contest, said on Thursday there was “a clear conflict” between the Eurovision ideals of “unity, inclusion and dignity for all” and the decision to allow Israel to compete. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Bright side: French Christmas ad starring vegetarian wolf goes viral",
+      "link": "https://www.france24.com/en/france/20251211-the-bright-side-cartoon-wolf-french-christmas-ad-goes-viral",
+      "published": "2025-12-11T18:37:43",
+      "content": "French supermarket Intermarché went viral after posting a charming Christmas cartoon ad about a vegetarian wolf. The clip has been watched tens of millions of times worldwide.",
+      "content_length": 175,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda",
+      "link": "https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/",
+      "published": "2025-12-11T18:33:45",
+      "content": "The Centers for Disease Control and Prevention is in critical condition. This year, the premier public health agency had its funding brutally cut and staff gutted, its mission sabotaged, and its headquarters riddled with literal bullets. The over 500 rounds fired were meant for its scientists and public health experts, who endured only to be sidelined, ignored, and overruled by Health Secretary Robert F. Kennedy Jr., an anti-vaccine activist hellbent on warping the agency to fit his anti-science agenda.\nThen, on August 27, Kennedy fired CDC Director Susan Monarez just weeks after she was confirmed by the Senate. She had refused to blindly approve vaccine recommendations from a panel of vaccine skeptics and contrarians that he had hand-selected. The agency descended into chaos, and Monarez wasn’t the only one to leave the agency that day.\nThree top leaders had reached their breaking point and coordinated their resignations upon the dramatic ouster: Drs. Demetre Daskalakis, Debra Houry, and Daniel Jernigan walked out of the agency as their colleagues rallied around them.Read full article\nComments",
+      "content_length": 1111,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gazelle’s Arroyo offers a belt drive, continuous variable transmission",
+      "link": "https://arstechnica.com/cars/2025/12/gazelles-new-arroyo-a-high-end-commute-bike/",
+      "published": "2025-12-11T18:26:17",
+      "content": "A little while back, we took a look at a large cargo bike from Urban Arrow that had some interesting features: a drive train that sported continuous variable gearing and a belt drive. But it was difficult to get a feel for what using that drivetrain was like when it was being used to shift a large and extremely heavy cargo bike. So, I jumped at the opportunity when Urban Arrow’s sister company, Gazelle, offered a chance to ride one of its new Arroyo models, which feature the same drivetrain, but this time coupled to a fairly standard commuter bike.\nGetting rid of all the weight and bulk really allowed the drive system to shine. And, as with its cargo-carrying cousin, the bike is filled with thoughtful touches and design decisions that make riding it a pleasure. But all that comes at a cost: This is a premium bike with little in the way of compromises, and it’s priced accordingly.\nHigh-end hardware\nThe Arroyo line is meant for commuters and urban/suburban riding. It has a step-through frame, a large rack, fenders, and its riding stance is very upright. In keeping with its Dutch heritage, it’s meant to be ridden as a bicycle, rather than a bike-like scooter. There’s no throttle to let you avoid pedaling, and even when it’s set to its maximum assist rating, you’ll end up putting in a reasonable amount of effort during the ride. If you’re looking for something that lets you handle a commute in hot weather without sweating, you’ll probably want to look elsewhere.Read full article\nComments",
+      "content_length": 1508,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fate of 11 Nigerian troops unclear after ‘unauthorised’ plane landing in Burkina Faso",
+      "link": "https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso",
+      "published": "2025-12-11T18:18:52",
+      "content": "Confusion over diplomatic standoff deepens after conflicting reports about the soldiers’ whereaboutsEleven Nigerian military personnel are reportedly still in Burkina Faso days after their plane made an “unauthorised” landing in the south-west city of Bobo Dioulasso, despite earlier suggestions they had been freed, deepening confusion about the diplomatic standoff.Burkinabé authorities told the BBC on Tuesday that the troops had been released and given permission to return to Nigeria, but officials in Abuja have said the matter is yet to be resolved. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Austrian parliament passes headscarf ban for schoolgirls under 14",
+      "link": "https://www.france24.com/en/europe/20251211-austrian-parliament-passes-headscarf-ban-schoolgirls-under-14",
+      "published": "2025-12-11T17:58:31",
+      "content": "Austria's lower house of parliament on Thursday passed a law banning headscarves in schools for girls under the age of 14. Rights groups consider the move as discriminatory in the context of growing anti-immigration sentiment in the country.",
+      "content_length": 241,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US pushing Ukraine to withdraw from Donbas and create ‘free economic zone’, says Zelenskyy – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/11/ukraine-war-meeting-coalition-donald-trump-europe-russia-latest-updates-news",
+      "published": "2025-12-11T17:45:52",
+      "content": "Ukrainian leader says Washington has suggested that Russian troops would stay in region, but not advance furtherNato’s Rutte largely sticks to usual pleasantries, but says the clear political signal from Germany and other European partners is that “Europe is ready to take on more responsibility,” and “a signal that burden sharing is not just a slogan.”In his opening remarks, Merz says that Nato plays “a key role in a time of great geopolitical upheaval,” as he recalls his numerous meetings with Rutte in recent months. Continue reading...",
+      "content_length": 543,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Arbeitsgruppe stellt Pläne zur Finanzierung von Pflege vor",
+      "link": "https://www.tagesschau.de/inland/pflegereform-arbeitsgruppe-vorschlaege-100.html",
+      "published": "2025-12-11T17:36:39",
+      "content": "   Wie soll künftig die Pflege finanziert werden? Eine Arbeitsgruppe von Bund, Ländern und Kommunen hat dazu Vorschläge erarbeitet. Sie setzt auf Prävention und Effizienz. Opposition und Verbänden sind die Pläne zu unkonkret.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gamer-Linux Pop!_OS 24.04 LTS mit neuer Cosmic-Desktop-Umgebung",
+      "link": "https://www.heise.de/news/Gamer-Linux-Pop-OS-24-04-LTS-mit-neuer-Cosmic-Desktop-Umgebung-11108147.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T17:35:00",
+      "content": "System76 hat das Gamer-Linux Pop!_OS 24.04 LTS freigegeben. Es kommt mit der neuen Cosmic-Desktop-Umgebung auf den Rechner.",
+      "content_length": 123,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+      "link": "https://arstechnica.com/cars/2025/12/fewer-evs-need-fewer-batteries-ford-and-sk-on-end-their-joint-venture/",
+      "published": "2025-12-11T17:33:52",
+      "content": "Cast your mind back to 2021. Electric vehicles were hot stuff, buoyed by Tesla’s increasingly stratospheric valuation and a general optimism fueled by what would turn out to be the most significant climate-focused spending package in US history. For some time, automakers had been promising an all-electric future, and they started laying the groundwork to make that happen, partnering with battery suppliers and the like.\nTake Ford—that year, it announced a joint venture with SK to build a pair of battery factories, one in Kentucky, the other in Tennessee. BlueOvalSK represented an $11.4 billion investment that would create 11,000 jobs, we were told, and an annual output of 60 GWh from both plants.\nFour years later, things look very different. EV subsidies are dead, as is any inclination by the current government to hold automakers accountable for selling too many gas guzzlers. EV-heavy product plans have been thrown out, and designs for new combustion-powered cars are being dusted off and spiffed up. Fewer EVs means a lower need for batteries, and today we saw that in evidence when it emerged that Ford and SK On are ending their battery factory joint venture.Read full article\nComments",
+      "content_length": 1201,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Time-Magazine kürt \"Architekten der KI\" zu Person des Jahres 2025",
+      "link": "https://www.tagesschau.de/kultur/time-person-of-the-year-ki-100.html",
+      "published": "2025-12-11T17:21:42",
+      "content": "   Seit 1927 kürt das US-amerikanische Time-Magazine die Person des Jahres. Dieses Jahr wurde gleich ein ganzes Kollektiv ausgewählt: Die \"Architekten\" der Künstlichen Intelligenz, die 2025 ihr volles Potenzial gezeigt habe.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Why is Trump attacking Venezuelan boats? – The Latest",
+      "link": "https://www.theguardian.com/news/audio/2025/dec/11/why-is-trump-attacking-venezuelan-boats-the-latest",
+      "published": "2025-12-11T17:19:44",
+      "content": "US forces have seized an oil tanker off the coast of Venezuela in a major escalation of Donald Trump’s campaign against the country’s president, Nicolás Maduro, whose government called the seizure an act of international piracy.The Trump administration is facing increasing scrutiny over a series of attacks on boats off the Venezuelan coast. At least 87 people have been killed in 22 known strikes since early September.Lucy Hough talks to the Guardian’s deputy head of international news, Devika Bhat – Watch on YouTube. Continue reading...",
+      "content_length": 542,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "No sterile neutrinos after all, say MicroBooNE physicists",
+      "link": "https://arstechnica.com/science/2025/12/microboone-results-rule-out-sterile-neutrinos/",
+      "published": "2025-12-11T17:02:48",
+      "content": "Since the 1990s, physicists have pondered the tantalizing possibility of an exotic fourth type of neutrino, dubbed the “sterile” neutrino, that doesn’t interact with regular matter at all, apart from its fellow neutrinos, perhaps. But definitive experimental evidence for sterile neutrinos has remained elusive. Now it looks like the latest results from Fermilab’s MiniBooNE experiment have ruled out the sterile neutrino entirely, according to a paper published in the journal Nature.\nHow did the possibility of sterile neutrinos even become a thing? It all dates back to the so-called “solar neutrino problem.” Physicists detected the first solar neutrinos from the Sun in 1966. The only problem was that there were far fewer solar neutrinos being detected than predicted by theory, a conundrum that became known as the solar neutrino problem. In 1962, physicists discovered a second type (“flavor”) of neutrino, the muon neutrino. This was followed by the discovery of a third flavor, the tau neutrino, in 2000.\nPhysicists already suspected that neutrinos might be able to switch from one flavor to another. In 2002, scientists at the Sudbury Neutrino Observatory (or SNO) announced that they had solved the solar neutrino problem. The missing solar (electron) neutrinos were just in disguise, having changed into a different flavor on the long journey between the Sun and the Earth. If neutrinos oscillate, then they must have a teensy bit of mass after all. That posed another knotty neutrino-related problem. There are three neutrino flavors, but none of them has a well-defined mass. Rather, different kinds of “mass states” mix together in various ways to produce electron, muon, and tau neutrinos. That’s quantum weirdness for you.Read full article\nComments",
+      "content_length": 1766,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Russisches Vermögen soll per Mehrheitsbeschluss freigegeben werden",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-eingefrorene-vermoegen-eu-100.html",
+      "published": "2025-12-11T16:59:15",
+      "content": "   Deutschland und mehrere EU-Staaten wollen künftig dafür sorgen, dass eingefrorenes russisches Staatsvermögen an die Ukraine fließen kann. Ein wichtiger Baustein ist jetzt beschlossene Sache.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Germany drops promise to resettle hundreds of Afghans",
+      "link": "https://www.theguardian.com/world/2025/dec/11/germany-afghanistan-u-turn-migration-pakistan",
+      "published": "2025-12-11T16:54:12",
+      "content": "Interior ministry will tell 640 people awaiting sanctuary ‘there is no longer any political interest in their being admitted’Europe live – latest updatesHundreds of Afghans previously promised sanctuary in Germany have been told they are no longer welcome, in a stark U-turn by the conservative chancellor, Friedrich Merz‪.The 640 people in Pakistan awaiting resettlement – many of whom worked for the German military during the US invasion and occupation of Afghanistan – will no longer be taken in, as Merz’s government axes two programmes introduced by its centre-left-led predecessor. Continue reading...",
+      "content_length": 608,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "OpenAI: Video-KI Sora darf Disney-, Marvel- und Star-Wars-Charaktere animieren",
+      "link": "https://www.heise.de/news/OpenAI-Video-KI-Sora-darf-Disney-Marvel-und-Star-Wars-Charaktere-animieren-11112540.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T16:49:00",
+      "content": "OpenAI und Disney haben vereinbart, dass die Video-KI Sora bald Charaktere aus den Zeichentrickfilmen, aber auch von Marvel und aus Star Wars animieren dürfen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Palla stellt Bahn-Strategie vor: Ein Neustart, aber kein \"Big Bang\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-strategie-102.html",
+      "published": "2025-12-11T16:47:20",
+      "content": "   Evelyn Palla hat einen der undankbarsten Top-Jobs des Landes übernommen. Die Bahnchefin soll die Staats-AG aus dem Chaos führen. Sie beginnt mit einem kleinen Kahlschlag - und leichten Verbesserungen. Von A. Kartschall.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+      "link": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
+      "published": "2025-12-11T16:43:30",
+      "content": "On Thursday, The Walt Disney Company announced a $1 billion investment in OpenAI and a three-year licensing agreement that will allow users of OpenAI’s Sora video generator to create short clips featuring more than 200 Disney, Marvel, Pixar, and Star Wars characters. It’s the first major content licensing partnership between a Hollywood studio related to the most recent version of OpenAI’s AI video platform, which drew criticism from some parts of the entertainment industry when it launched in late September.\n“Technological innovation has continually shaped the evolution of entertainment, bringing with it new ways to create and share great stories with the world,” said Disney CEO Robert A. Iger in the announcement. “The rapid advancement of artificial intelligence marks an important moment for our industry, and through this collaboration with OpenAI we will thoughtfully and responsibly extend the reach of our storytelling through generative AI, while respecting and protecting creators and their works.”\nThe deal creates interesting bedfellows between a company that basically defined modern US copyright policy through congressional lobbying back in the 1990s and one that has argued in a submission to the UK House of Lords that useful AI models cannot be created without copyrighted material.Read full article\nComments",
+      "content_length": 1335,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bulgarian government resigns after mass anti-corruption protests",
+      "link": "https://www.theguardian.com/world/2025/dec/11/bulgarian-government-resigns-mass-anti-corruption-protests",
+      "published": "2025-12-11T16:39:24",
+      "content": "Prime minister makes announcement before parliament vote on no-confidence motion filed by oppositionBulgaria’s prime minister has handed in his government’s resignation after less than a year in office after weeks of mass street protests over its economic policies and perceived failure to tackle corruption.Rosen Zhelyazkov announced his resignation on television shortly before parliament had been due to vote on a no-confidence motion submitted by the opposition and before the country is due to join the eurozone on 1 January. Continue reading...",
+      "content_length": 550,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Amsterdam’s Rijksmuseum announces southern outpost in Eindhoven",
+      "link": "https://www.theguardian.com/culture/2025/dec/11/amsterdams-rijksmuseum-announces-southern-outpost-in-eindhoven",
+      "published": "2025-12-11T16:28:48",
+      "content": "Museum, which includes rich collection of Vermeers and Rembrandts, currently shows only fraction of its 1m objectsAmsterdam’s Rijksmuseum, which holds the world’s largest trove of paintings from the Dutch Golden Age, has announced plans to open an outpost in Eindhoven.The museum, which showcases only a fraction of its more than 1m objects, said on Thursday it would construct the 3,500 sq metre centre over the next six to eight years. Continue reading...",
+      "content_length": 457,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie das Zusammenleben in einer Senioren-WG funktioniert",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wohnen-senioren-wg-100.html",
+      "published": "2025-12-11T16:27:26",
+      "content": "   Bereits 2035 wird ein Viertel der Menschen in Deutschland 67 Jahre und älter sein. Eine gesellschaftliche Herausforderung, denn schon jetzt fehlen Pflege- und Seniorenheimplätze. Wie wäre es dann mit einer WG? Von Sandra Biegger.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US lawmakers condemn seizure of Venezuelan oil tanker: ‘Trump is sleepwalking us into a war’",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/lawmakers-venezuela-oil-tanker",
+      "published": "2025-12-11T16:20:16",
+      "content": "Unease grows in Washington, including among some Republicans, over Trump administration’s escalating military posture in the CaribbeanSenior Democratic lawmakers and at least one Republican have condemned Wednesday’s seizure of a Venezuelan oil tanker off the nation’s coast, with one saying Donald Trump is “sleepwalking us into a war with Venezuela”.There is growing, at least somewhat bipartisan unease in Washington over the administration’s escalating military posture in the region. Trump has accused Venezuela of facilitating drug trafficking, and increased the US military presence in the Caribbean to a level not seen in decades. The administration has also conducted a campaign of bombings of alleged drug boats, killing more than 80 people so far. Continue reading...",
+      "content_length": 778,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
+      "link": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html",
+      "published": "2025-12-11T16:17:00",
+      "content": "Eberhard Wolff und Alistair Cockburn sprechen über Modelle, Modularisierung, Bounded Contexts und Architekturansätze wie Ports and Adapters.",
+      "content_length": 140,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
+      "link": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T16:06:00",
+      "content": "Im Dezember 2015 wurde am Wendelstein 7-X erstmals Plasma gezündet. Seither wurden an der Fusionsforschungsanlage in Greifswald diverse Rekorde erzielt.",
+      "content_length": 152,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bulgariens Regierungschef Scheljaskow reicht Rücktritt ein",
+      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-ruecktritt-ministerpraesident-100.html",
+      "published": "2025-12-11T15:53:41",
+      "content": "   Der Druck von der Straße war offenbar zu groß: Der bulgarische Ministerpräsident Scheljaskow und seine Regierung treten zurück. Seit Tagen gab es Demonstrationen im Land. Dabei kommt Bulgarien politisch seit Jahren nicht zur Ruhe.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Anklage gegen ehemalige rbb-Intendantin Schlesinger",
+      "link": "https://www.tagesschau.de/inland/rbb-schlesinger-anklage-100.html",
+      "published": "2025-12-11T15:43:24",
+      "content": "   Die Berliner Generalstaatsanwaltschaft hat Anklage gegen die frühere rbb-Intendantin Schlesinger erhoben. Sie wirft ihr unter anderem Untreue vor. Auch gegen drei weitere Personen gibt es eine Anklage.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deutschland-Tourismus bleibt stabil - aber Urlauber sparen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tourismus-160.html",
+      "published": "2025-12-11T15:35:06",
+      "content": "   Auch weiterhin verreisen die Deutschen gerne im eigenen Land - trotz Wirtschaftsflaute. Reiseexperten zufolge sparen Urlauber aber immer häufiger an entscheidenden Stellen. Von Melanie Böff.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die schwarz-rote Spitze betont das Gemeinsame",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-290.html",
+      "published": "2025-12-11T15:33:06",
+      "content": "   Nach dem Arbeitstreffen der Koalitionsspitzen geht man gnädig miteinander um. Doch dass CDU/CSU und SPD die Stabilität der Regierung so betonen müssen, hat gleich mehrere Gründe. Von Corinna Emundts.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Phänomen \"Cat Content\": Was fasziniert uns an Katzen?",
+      "link": "https://www.tagesschau.de/kultur/katzen-markk-hype-100.html",
+      "published": "2025-12-11T15:28:09",
+      "content": "   \"Cat Content\" mag ein belächeltes Internet-Phänomen sein - mit einer erstaunlichen Halbwertszeit. Der Faszination, die Katzen auf uns Menschen ausüben, hat das MARKK Museum in Hamburg nun eine große Ausstellung gewidmet. Von Severine Neave.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deutsches Kinderhilfswerk beklagt Flickenteppich bei Kinderrechten",
+      "link": "https://www.tagesschau.de/inland/kinderrechte-120.html",
+      "published": "2025-12-11T15:24:00",
+      "content": "   Es geht um Kita-Plätze, ärztliche Versorgung oder Mitbestimmung: Das Kinderhilfswerk hat sich angeschaut, wie die Kinderrechte in Deutschland umgesetzt werden. Das Ergebnis: Es gibt starke regionale Unterschiede.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Oracle shares slide on $15B increase in data center spending",
+      "link": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
+      "published": "2025-12-11T14:39:21",
+      "content": "Oracle stock dropped after it reported disappointing revenues on Wednesday alongside a $15 billion increase in its planned spending on data centers this year to serve artificial intelligence groups.\nShares in Larry Ellison’s database company fell 11 percent in pre-market trading on Thursday after it reported revenues of $16.1 billion in the last quarter, up 14 percent from the previous year, but below analysts’ estimates.\nOracle raised its forecast for capital expenditure this financial year by more than 40 percent to $50 billion. The outlay, largely directed to building data centers, climbed to $12 billion in the quarter, above expectations of $8.4 billion.Read full article\nComments",
+      "content_length": 692,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Warum bleibt die Bundesregierung auf X?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-x-musk-100.html",
+      "published": "2025-12-11T14:35:51",
+      "content": "   Der Eigentümer von X äußert sich immer wieder radikal - zuletzt wetterte Musk gegen die EU. Dennoch bleiben viele Bundesministerien und der Kanzler mit einem Account auf der Plattform. Warum? Von Philipp Eckstein.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundespolizei verstärkt Kontrollen einreisender Vietnamesen",
+      "link": "https://www.tagesschau.de/investigativ/rbb/visa-vietnamesen-menschenhandel-bundespolizei-100.html",
+      "published": "2025-12-11T14:29:40",
+      "content": "   Die Bundespolizei kontrolliert an den Grenzen nach rbb-Recherchen verstärkt einreisende Vietnamesen. Sie warnt vor vietnamesischen Staatsbürgern, die vermehrt mit erschlichenen Visa nach Deutschland kommen - und dort ausgebeutet werden.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Österreich: Kopftuchverbot für muslimische Schülerinnen unter 14",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-kopftuchverbot-schulen-100.html",
+      "published": "2025-12-11T14:04:51",
+      "content": "   Muslimische Mädchen in Österreich, die jünger als 14 Jahre alt sind, dürfen künftig kein Kopftuch mehr in der Schule tragen. Ein entsprechendes Gesetz hat die Regierung erlassen. Kritik kommt vom Islamverband.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "NATO-Generalsekretär Rutte: \"Wir sind Russlands nächstes Ziel\"",
+      "link": "https://www.tagesschau.de/inland/rutte-rede-100.html",
+      "published": "2025-12-11T13:59:19",
+      "content": "   Mit eindringlichen Worten hat NATO-Generalsekretär Rutte vor der Bedrohung durch Russland gewarnt. Einige Mitgliedsstaaten hätten die Dringlichkeit noch nicht begriffen, sagte er - man sei bereits in Gefahr.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach US-Ausladung: Südafrika nimmt sich eine \"G20-Auszeit\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-g20-pause-100.html",
+      "published": "2025-12-11T13:55:20",
+      "content": "   Die Spannungen zwischen Washington und Pretoria haben einen neuen Höhepunkt erreicht: Südafrika darf 2026 an keinen G20-Veranstaltungen teilnehmen. Deswegen verkündet das Land nun, sich eine \"G20-Pause\" zu nehmen. Von S. Ueberbach.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dritter Kühlturm des AKW Biblis abgerissen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/kuehlturm-atomkraftwerk-biblis-100.html",
+      "published": "2025-12-11T13:45:54",
+      "content": "   Im stillgelegten AKW in Biblis ist der dritte von ursprünglich vier Kühltürmen kontrolliert zum Einsturz gebracht worden. Der Abriss des letzten Turms soll im Januar folgen.[mehr]",
+      "content_length": 182,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU genehmigt Deutschland, Chip-Fabriken zu subventionieren",
+      "link": "https://www.tagesschau.de/wirtschaft/chipfabrik-106.html",
+      "published": "2025-12-11T13:34:19",
+      "content": "   Die EU-Kommission hat deutsche Subventionen für Halbleiterwerke in Erfurt und Dresden genehmigt. Es geht um Chips für Raumfahrt, Verteidigung und Künstliche Intelligenz. [mehr]",
+      "content_length": 179,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mutmaßliches früheres IS-Mitglied in Nordhausen verhaftet",
+      "link": "https://www.tagesschau.de/inland/regional/thueringen/is-festnahme-nordhausen-100.html",
+      "published": "2025-12-11T13:30:07",
+      "content": "   In Nordhausen ist ein mutmaßliches früheres Mitglied der IS-Terrormiliz festgenommen worden. Die Generalstaatsanwaltschaft Thüringen beschuldigt den 65‑jährigen Iraker, für die IS-Propaganda gearbeitet und als Kämpfer agiert zu haben.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rechnungshof-Kritik: 35 Millionen Euro für kaum genutzte Smartphones beim Zoll",
+      "link": "https://www.heise.de/news/Rechnungshof-Kritik-35-Millionen-Euro-fuer-kaum-genutzte-Smartphones-beim-Zoll-11111944.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T13:17:00",
+      "content": "Der Bundesrechnungshof hat erneut besseres Haushalten angemahnt. Die Negativbeispiele umfassen teure Smartphones für den Zoll, die nicht wirklich nutzbar waren.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bevölkerungsentwicklung: Lücke zwischen Erwerbstätigen und Rentnern wächst",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bevoelkerungsentwicklung-berechnung-deutschland-100.html",
+      "published": "2025-12-11T12:57:19",
+      "content": "   Deutschland altert - und verliert Einwohner. Wie, wann und warum, darum dreht sich eine Berechnung des Statistischen Bundesamts. Trotz mehrerer Varianten wird ein Befund deutlich: \"Der Druck auf die Sozialsysteme steigt.\"[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Child bride spared execution in Iran after blood money is paid",
+      "link": "https://www.theguardian.com/global-development/2025/dec/11/child-bride-spared-execution-iran-blood-money-goli-kouhkan",
+      "published": "2025-12-11T12:48:59",
+      "content": "Guardian story helped to draw attention to planned hanging of Goli Kouhkan over death of abusive husbandA child bride who was due to be executed this month in Iran over the death of her husband has had her life spared by his parents, who were paid the equivalent of £70,000 in exchange for their forgiveness.Goli Kouhkan, 25, has been on death row in Gorgan central prison in northern Iran for the past seven years. At the age of 18 she was arrested over allegedly participating in the killing of her abusive husband, Alireza Abil, in May 2018, and sentenced to qisas – retribution-in-kind. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Viele Tote bei Militärangriff auf Klinik in Myanmar",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-angriff-klinik-100.html",
+      "published": "2025-12-11T12:44:07",
+      "content": "   Bei einem Luftangriff der Militärjunta auf eine Klinik in Myanmar sind Berichten zufolge mehr als 30 Zivilisten getötet worden. Augenzeugen berichten von vielen Verletzten. Demnach wurden Bomben direkt auf die Klinik abgeworfen.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "E-Bike-Hersteller Cowboy: Crowdfunder sind wohl ihr Geld los",
+      "link": "https://www.heise.de/news/E-Bike-Hersteller-Cowboy-Crowdfunder-sind-wohl-ihr-Geld-los-11111903.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T12:26:00",
+      "content": "Die Rettung des E-Bike-Herstellers Cowboy ist noch nicht finalisiert. Nun heißt es: Bisherige Investoren sind wohl weitgehend ihr Geld los. ",
+      "content_length": 140,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Oracle-Zahlen: Warum die KI-Sorgen an der Börse zurück sind",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oracle-sap-ki-100.html",
+      "published": "2025-12-11T12:24:58",
+      "content": "   Überraschend schwache Zahlen des US-Softwarekonzern Oracle machen den Börsen zu schaffen. Denn sie schüren erneut die Sorge, dass das KI-Geschäft zu einem Verlustgeschäft werden könnte.[mehr]",
+      "content_length": 194,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Afghanistan war veteran arrested after ICE protest prepares for trial",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/afghanistan-war-veteran-ice-protest-charges",
+      "published": "2025-12-11T12:00:12",
+      "content": "Bajun Mavalwalla, who maintains his innocence, will take case to jury even as others strike plea agreementsAn Afghanistan war veteran arrested on felony “conspiracy” charges a month after he participated in a protest against US Immigration and Customs Enforcement (ICE) maintains his innocence and is preparing for a jury trial, even as others arrested the same day strike plea agreements to avoid long prison terms, his father said.Bajun Mavalwalla II – a former army sergeant who survived a roadside bomb blast on a special operations mission in Afghanistan – was charged in July with “conspiracy to impede or injure officers” after joining an anti-ICE protest in Spokane, Washington. Continue reading...",
+      "content_length": 706,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gmail-Störung: Wochenlange Probleme mit Exchange ActiveSync",
+      "link": "https://www.heise.de/news/Gmail-Stoerung-Wochenlange-Probleme-mit-Exchange-ActiveSync-11111711.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T11:19:00",
+      "content": "Seit mehreren Wochen legen Updates der Gmail-App die Mail-Verarbeitung mit Exchange ActiveSync lahm. Google hat einen Tipp.",
+      "content_length": 123,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "UNESCO: Schweizer Jodeln ist immaterielles Kulturerbe",
+      "link": "https://www.tagesschau.de/kultur/unesco-jodeln-100.html",
+      "published": "2025-12-11T11:14:40",
+      "content": "   Als \"schreckliche Jubelschreie der Hirten\" wurde es schon im 4. Jahrhundert erwähnt - nun hat die UNESCO das Schweizer Jodeln als immaterielles Kulturerbe anerkannt. Es sei eine Kulturpraxis, die \"Einheit stifte\", hieß es im Antrag.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mars-Orbiter: NASA-Sonde Maven hat sich seit Tagen nicht mehr gemeldet",
+      "link": "https://www.heise.de/news/Unerwartete-Funkstille-NASA-hat-seit-Tagen-keinen-Kontakt-zu-Marssonde-Maven-11111701.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T11:13:00",
+      "content": "Maven ist die jüngste NASA-Sonde im Orbit des Mars, dort aber auch schon seit 11 Jahren. Jetzt hat der Orbiter einfach aufgehört, sich zu melden.",
+      "content_length": 145,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Pläne für Medienreform treffen in Litauen auf Widerstand",
+      "link": "https://www.tagesschau.de/ausland/europa/litauen-medienfreiheit-proteste-100.html",
+      "published": "2025-12-11T11:07:55",
+      "content": "   Rund ein Jahr nach ihrem Eintritt in die Regierung wollen Litauens Rechtspopulisten den Zugriff auf den öffentlich-rechtlichen Rundfunk ausweiten. In der Bevölkerung stößt das Vorhaben auf Protest. Von Arne Bartram.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Verteidigungsplan der USA mit mehr Geld und mehr Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-verteidigung-100.html",
+      "published": "2025-12-11T10:59:05",
+      "content": "   Das US-Repräsentantenhaus hat einen Entwurf zur Verteidigungspolitik verabschiedet. Demnach bekommt die Armee mehr Geld. Doch die Abgeordneten schauen dem Pentagon genauer auf die Finger.[mehr]",
+      "content_length": 196,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Die Produktwerker: Was man selbst tun kann, um mehr Ownership zu erhalten",
+      "link": "https://www.heise.de/blog/Die-Produktwerker-Was-man-selbst-tun-kann-um-mehr-Ownership-zu-erhalten-11105880.html",
+      "published": "2025-12-11T10:42:00",
+      "content": "Die Produktwerker diskutieren in dieser Folge darüber, dass man einiges selbst tun kann, um mehr Product Ownership zu bekommen beziehungsweise zu übernehmen.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "RSL 1.0 statt robots.txt: Neuer Standard für Internet-Inhalte",
+      "link": "https://www.heise.de/news/RSL-1-0-Standard-soll-Verwendung-von-Inhalten-regeln-11111422.html",
+      "published": "2025-12-11T10:20:00",
+      "content": "Ein neuer Standard, um Inhalte im Internet zu schützen. RSL wird von Akteuren wie Verlagen und der Werbebranche unterstützt.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "WinRAR: Codeschmuggel-Lücke wird attackiert",
+      "link": "https://www.heise.de/news/WinRAR-Codeschmuggel-Luecke-wird-attackiert-11111474.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T09:57:00",
+      "content": "Im Sommer hat ein WinRAR-Update eine Sicherheitslücke geschlossen, die Codeschmuggel erlaubt. Nun wird sie angegriffen.",
+      "content_length": 119,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rahmedetalbrücke in Nordrhein-Westfalen wird früher als geplant geöffnet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-rahmedetalbruecke-wird-frueher-als-erwartet-am-22-dezember-freigegeben-100.html",
+      "published": "2025-12-11T09:53:00",
+      "content": "   Die neue Rahmedetalbrücke wird am 22. Dezember für den Verkehr freigegeben. Das hat das Bundesverkehrsministerium bekannt gegeben. Vor vier Jahren musste die Brücke der Autobahn 45 wegen Baufälligkeit gesprengt werden.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kommentar: Anthropic verschenkt MCP – mit fragwürdigen Hintertüren",
+      "link": "https://www.heise.de/meinung/Kommentar-Anthropic-verschenkt-MCP-mit-fragwuerdigen-Hintertueren-11111362.html",
+      "published": "2025-12-11T09:50:00",
+      "content": "Die Linux Foundation erhält MCP von Anthropic als großzügiges Geschenk. Ganz selbstlos ist die Spende jedoch nicht, denn sie enthält einen Pferdefuß.",
+      "content_length": 149,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "DLR testet unbemanntes hochfliegendes Solarflugzeug HAP-alpha am Boden",
+      "link": "https://www.heise.de/news/DLR-testet-unbemanntes-hochfliegendes-Solarflugzeug-HAP-alpha-am-Boden-11111505.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T09:43:00",
+      "content": "Das autonome Solarflugzeug HAP-alpha kann in großer Höhe operieren und Satelliten ersetzen. Nun wurde es erstmals auf dem Startwagen über ein Rollfeld gezogen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "KI-Training: Normalsprachlicher Nutzungsvorbehalt reicht OLG Hamburg nicht",
+      "link": "https://www.heise.de/news/KI-Training-Normalsprachlicher-Nutzungsvorbehalt-reicht-OLG-Hamburg-nicht-11111489.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T09:36:00",
+      "content": "Das OLG in Hamburg hat im Fall der Klage eines Fotografen gegen den KI-Modell-Trainingsverein Laion die Berufung zurückgewiesen, eine Revision aber zugelassen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "HBO Max gibt weitere Details zum deutschen Angebot bekannt",
+      "link": "https://www.heise.de/news/HBO-Max-gibt-weitere-Details-zum-deutschen-Angebot-bekannt-11111463.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-11T09:20:00",
+      "content": "HBO Max startet bald in Deutschland – nun klärt der Dienst wichtige Fragen zu Bild, Ton, Abos und Inhalten.\n",
+      "content_length": 108,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Schulungsangebot zu KI in 2026: tech:lounge 360°",
+      "link": "https://www.heise.de/blog/Schulungsangebot-zu-KI-in-2026-tech-lounge-360-11109353.html",
+      "published": "2025-12-11T09:00:00",
+      "content": "Im kommenden Jahr bietet die the native web GmbH eine umfassende Webinarreihe zum Thema KI an, von den mathematischen Grundlagen bis zu LLMs.",
+      "content_length": 141,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ubuntu 26.04 LTS integriert AMD ROCm nativ für KI- und HPC-Anwendungen",
+      "link": "https://www.heise.de/news/Ubuntu-26-04-LTS-integriert-AMD-ROCm-nativ-fuer-KI-und-HPC-Anwendungen-11111322.html",
+      "published": "2025-12-11T08:38:00",
+      "content": "Canonical bringt AMDs GPU-Plattform ROCm nativ in Ubuntu 26.04 LTS. Entwickler können künftig die Software für den KI- und HPC-Einsatz per apt installieren.",
+      "content_length": 156,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google integriert Model Context Protocol in Cloud-Dienste",
+      "link": "https://www.heise.de/news/Google-integriert-Model-Context-Protocol-in-Cloud-Dienste-11111254.html",
+      "published": "2025-12-11T08:20:00",
+      "content": "Google unterstützt jetzt das MCP und bietet verwaltete Server für Maps, BigQuery und weitere Dienste an. Entwickler können KI-Agenten damit einfacher anbinden.",
+      "content_length": 159,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merz, Macron und Starmer sprechen mit Trump über die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/telefonat-trump-merz-macron-100.html",
+      "published": "2025-12-11T08:18:19",
+      "content": "   US-Präsident Trump äußert sich derzeit wieder sehr kritisch zur Ukraine und Präsident Selenskyj. Durch intensive Telefondiplomatie versuchen Merz, Macron und Starmer, auf das Weiße Haus einzuwirken. Bislang wohl ohne Erfolg.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Tanker-Beschlagnahmung vor Venezuela: USA sprechen von Sanktionsverstoß",
+      "link": "https://www.tagesschau.de/ausland/amerika/tanker-festsetzung-sanktionierung-oel-100.html",
+      "published": "2025-12-11T08:14:56",
+      "content": "   Die USA haben vor der Küste Venezuelas einen Tanker gestürmt und beschlagnahmt. Das Schiff sei in ein \"illegales Netzwerk\" zum Transport von sanktioniertem Öl verwickelt, so die US-Regierung. Experten vermuten weitreichendere Motive.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "‘It’s a breach of trust’: fear and frustration over countries’ push to return Syrians home",
+      "link": "https://www.theguardian.com/world/2025/dec/10/countries-push-to-return-syrians-home-fall-of-assad",
+      "published": "2025-12-10T16:46:17",
+      "content": "Syrians who have rebuilt their lives abroad face uncertainty over their futures amid hardening of attitudesTears of joy streamed down Abdulhkeem Alshater’s face as he joined thousands of other Syrian nationals in central Vienna last year. The moment they were marking felt like a miracle: after more than five decades of brutality and repression, the Assad regime had fallen.A day later, however, the ripple effects of what had happened 2,000 miles away in Syria were laid bare. A dozen European states announced plans to suspend asylum applications from Syrians, in a show of how western states are increasingly treating refugees as transients. As the fall of Bashar al-Assad collided with politicians’ quest to be seen as taking a hard line on migration, the lives of Syrians around the globe were plunged into uncertainty. Continue reading...",
+      "content_length": 845,
+      "source": "The Guardian World",
+      "category": "International News"
+    }
+  ]
+}
