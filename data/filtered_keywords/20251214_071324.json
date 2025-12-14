@@ -1,0 +1,1341 @@
+{
+  "metadata": {
+    "timestamp": "20251214_071324",
+    "input_file": "data/deduplicated/20251214_071324.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 159,
+      "filtered_count": 146,
+      "blacklisted_count": 13,
+      "reduction_rate": "8.2%",
+      "top_blacklist_reasons": {
+        "fußball": 2,
+        "festnahme": 2,
+        "temperatur": 1,
+        "regen": 1,
+        "e-reader": 1,
+        "champions league": 1,
+        "könig charles": 1,
+        "oscar": 1,
+        "raspi": 1,
+        "finale": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Terrorverdacht - Bayern: Fünf Männer wegen Anschlagsplänen auf Weihnachtsmarkt in Haft",
+      "link": "https://www.deutschlandfunk.de/bayern-fuenf-maenner-wegen-anschlagsplaenen-auf-weihnachtsmarkt-in-haft-100.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Wegen mutmaßlicher Anschlagspläne auf einen Weihnachtsmarkt im Raum Dingolfing in Niederbayern sind fünf Männer festgenommen worden. Gegen vier von ihnen ergingen Haftbefehle, einer wurde in Präventivgewahrsam genommen, wie die Generalstaatsanwaltschaft München bestätigte.",
+      "content_length": 273,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Diplomatie - US-Gesandter Witkoff zu Gesprächen über Ukraine-Krieg in Berlin erwartet",
+      "link": "https://www.deutschlandfunk.de/us-gesandter-witkoff-zu-gespraechen-ueber-ukraine-krieg-in-berlin-erwartet-102.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Die USA wollen heute ihre diplomatischen Bemühungen um eine Beendigung des russischen Angriffskriegs gegen die Ukraine fortsetzen.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grenzkonflikt - Weiter Gefechte zwischen Thailand und Kambodscha",
+      "link": "https://www.deutschlandfunk.de/weiter-gefechte-zwischen-thailand-und-kambodscha-104.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Die Gefechte im Grenzkonflikt zwischen Thailand und Kambodscha dauern trotz internationaler Vermittlungsversuche an.",
+      "content_length": 116,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fernverkehr - Neuer Fahrplan in Kraft: Mehr Sprinter bei der Bahn",
+      "link": "https://www.deutschlandfunk.de/neuer-fahrplan-in-kraft-mehr-sprinter-bei-der-bahn-100.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Deutschlandweit sind die neuen Fahrpläne der Deutschen Bahn in Kraft.",
+      "content_length": 69,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ungarn - Missbrauchsfällen in staatlichen Kinder- und Jugendeinrichtungen: Demonstration gegen Orban",
+      "link": "https://www.deutschlandfunk.de/missbrauchsfaellen-in-staatlichen-kinder-und-jugendeinrichtungen-demonstration-gegen-orban-100.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "In Ungarn sind nach dem Bekanntwerden von Missbrauchsfällen in staatlichen Kinder- und Jugendeinrichtungen Zehntausende Menschen auf die Straße gegangen.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Polnische Ostgrenze - Bundeswehr-Soldaten helfen bei Bau von Schutzwall",
+      "link": "https://www.deutschlandfunk.de/bundeswehr-soldaten-helfen-bei-bau-von-schutzwall-104.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Die Bundeswehr wird sich daran beteiligen, die Ostgrenze Polens nach Belarus und Russland besser zu sichern und einen Schutzwall zu errichten.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Begnadigungen - Freigelassene Oppositionelle wollen sich weiter für Bürgerrechte in Belarus einsetzen",
+      "link": "https://www.deutschlandfunk.de/freigelassene-oppositionelle-wollen-sich-weiter-fuer-buergerrechte-in-belarus-einsetzen-102.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Nach ihrer Freilassung aus Gefängnissen in Belarus haben mehrere Oppositionelle angekündigt, sich auch in Zukunft für Bürgerrechte in ihrer Heimat einzusetzen. Der belarussische Friedensnobelpreisträger Beljazki sagte, der Kampf gehe weiter. Ähnlich äußerte sich nur wenige Stunden nach ihrer Entlassung aus der Haft auch die prominente belarussische Oppositionsführerin Kolesnikowa.",
+      "content_length": 383,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Bewaffneter tötet zwei Menschen an Universität in Rhode Island",
+      "link": "https://www.deutschlandfunk.de/bewaffneter-toetet-zwei-menschen-an-universitaet-in-rhode-island-108.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "An der Brown University im US-Bundesstaat Rhode Island hat ein Bewaffneter zwei Menschen erschossen.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Syrien - US-Soldaten und Dolmetscher in Palmyra getötet",
+      "link": "https://www.deutschlandfunk.de/us-soldaten-und-dolmetscher-in-palmyra-getoetet-102.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Bei einem Angriff in Syrien sind nach Angaben des Pentagon zwei US-Soldaten und ein Dolmetscher getötet worden.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grünen-Landesparteitag - Özdemir: CDU hat Bevölkerung rotzfrech ins Gesicht gelogen",
+      "link": "https://www.deutschlandfunk.de/oezdemir-cdu-hat-bevoelkerung-rotzfrech-ins-gesicht-gelogen-104.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Der Grünen-Spitzenkandidat in Baden-Württemberg, Özdemir, hat die CDU angegriffen und der Partei Wortbruch vorgeworfen.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Palästinensergebiete - Abbas stellt Wahlen erst nach Ende des Gaza-Kriegs in Aussicht",
+      "link": "https://www.deutschlandfunk.de/abbas-stellt-wahlen-erst-nach-ende-des-gaza-kriegs-in-aussicht-108.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Der palästinensische Präsident Abbas hat Hoffnungen auf seit Jahren überfällige Wahlen gedämpft.",
+      "content_length": 96,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Meinungsfreiheit - EU fordert von Iran Freilassung von Friedensnobelpreisträgerin Mohammadi",
+      "link": "https://www.deutschlandfunk.de/eu-fordert-von-iran-freilassung-von-friedensnobelpreistraegerin-mohammadi-102.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Die EU-Kommission hat den Iran zur Freilassung der Friedensnobelpreisträgerin Mohammadi und acht weiteren Aktivisten aufgefordert.",
+      "content_length": 130,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südamerika - Chiles Bevölkerung wählt ein neues Staatsoberhaupt",
+      "link": "https://www.deutschlandfunk.de/chiles-bevoelkerung-waehlt-ein-neues-staatsoberhaupt-100.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "In Chile findet heute die entscheidende zweite Runde der Präsidentschaftswahl statt.",
+      "content_length": 84,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Koalition - Kanzleramtschef zuversichtlich in Sachen Bürgergeld-Reform",
+      "link": "https://www.deutschlandfunk.de/kanzleramtschef-zuversichtlich-in-sachen-buergergeld-reform-102.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "Kanzleramtschef Frei hat bekräftigt, dass die geplante Reform des Bürgergeldes am kommenden Mittwoch vom Kabinett beschlossen werden soll.",
+      "content_length": 138,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interview der Woche - EU-Erweiterungskommissarin Kos für rasche Beitrittsverhandlungen mit der Ukraine",
+      "link": "https://www.deutschlandfunk.de/eu-erweiterungskommissarin-kos-fuer-rasche-beitrittsverhandlungen-mit-der-ukraine-110.html",
+      "published": "2025-12-14T07:10:06",
+      "content": "EU-Erweiterungskommissarin Kos hat sich für rasche Beitrittsverhandlungen mit der Ukraine ausgesprochen. Kos sagte im Interview der Woche des Deutschlandfunks, es sei ihre Aufgabe, die Ukraine in die EU zu bringen.",
+      "content_length": 214,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Chile votes in presidential race expected to steer country to the right",
+      "link": "https://www.france24.com/en/americas/20251214-chile-votes-in-presidential-race-expected-to-steer-country-to-the-right",
+      "published": "2025-12-14T06:57:22",
+      "content": "Chileans will vote in a runoff presidential election on Sunday that is likely mark the sharpest rightward shift of the South American country since the end of the military dictatorship in 1990. As almost 16 million citizens prepare to cast their ballots, even detractors of ultra-conservative former lawmaker José Antonio Kast say the candidate whose radical views lost him the past two elections is now almost certain to become Chile’s next leader.",
+      "content_length": 449,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Blauhelmsoldaten bei Angriff auf UN-Stützpunkt im Sudan getötet",
+      "link": "https://www.tagesschau.de/ausland/sudan-angriff-blauhelmsoldaten-100.html",
+      "published": "2025-12-14T06:39:13",
+      "content": "   Im Sudan sind bei einem Drohnenangriff auf einen UN-Stützpunkt sechs Blauhelmsoldaten aus Bangladesch getötet worden. UN-Generalsekretär Guterres sprach von einem möglichen Kriegsverbrechen.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Live: US envoy to meet Ukraine's Zelensky, Europe allies in Berlin",
+      "link": "https://www.france24.com/en/europe/20251214-live-us-envoy-to-meet-ukraine-s-zelensky-europe-allies-in-berlin",
+      "published": "2025-12-14T06:34:36",
+      "content": "US President Donald Trump's special envoy Steve Witkoff will meet with Ukrainian President Volodymyr Zelensky and other European leaders in Berlin this weekend, to discuss the status of peace negotiations. The Ukrainian leader confirmed in his evening address on Saturday that his team was \"currently preparing for meetings with the American side and our European friends in the coming days\". Follow FRANCE 24's liveblog for all the latest updates.",
+      "content_length": 448,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Two dead in Brown University shooting – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/13/brown-university-shooting-rhode-island-updates",
+      "published": "2025-12-14T06:32:54",
+      "content": "This live blog is now closed. You can read more on this story herePolice said no weapons were recovered from the scene and the last sighting of the suspect was him leaving the Hope Street side of the building on foot.Timothy O’Hara, a deputy police chief, told a press conference that the suspect is a “male dressed in black” who exited the complex at Brown University. Continue reading...",
+      "content_length": 389,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Steve Bannon, Tucker Carlson and ... Liz Truss? Inside the former PM’s audition for Maga",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/14/steve-bannon-tucker-carlson-and-liz-truss-former-pm-auditions-for-maga",
+      "published": "2025-12-14T06:00:55",
+      "content": "Her delivery might be stilted – but Truss’ new YouTube show has grand ambitions: a ‘Trump revolution’ in Britain with the help of an influential US conservative ecosystemLiz Truss, Britain’s shortest-serving prime minister, began the first edition of her YouTube show with a vow to unmask “the evil-doers” attempting to bring down Britain, the US and Europe. She would, she explained, reveal how an “international network of leftists work to subvert democracy and the will of the people”.Despite her bleak monologue, Truss pointed to hope from across the Atlantic. “We’re going to look at the Trump revolution and see how this can be achieved in Britain,” she said. “We’ll be talking to the leading lights of the Maga movement.” Continue reading...",
+      "content_length": 748,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Like a mini Louvre’: two generations of Rothschilds fight over treasure trove of artworks",
+      "link": "https://www.theguardian.com/world/2025/dec/14/like-a-mini-louvre-two-generations-of-rothschilds-fight-over-treasure-trove-of-artworks",
+      "published": "2025-12-14T06:00:54",
+      "content": "Baronesses Nadine and Ariane de Rothschild at odds over future of Swiss chateau’s priceless contentsAfter three generations of genteel discretion bordering on secrecy, the international banking family the Rothschilds has been riven by rival claims to a multibillion-euro fortune including a vast collection of art masterpieces.The battle now playing out in the courts and media has pitched the 93-year-old senior baroness, Nadine de Rothschild – widow of Edmond de Rothschild, the late scion of the French-Swiss branch of the family – against her daughter-in-law, Ariane de Rothschild, the current baroness. Continue reading...",
+      "content_length": 627,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zwei Tote nach Schüssen an US-Eliteuniversität",
+      "link": "https://www.tagesschau.de/ausland/schuesse-brown-universitaet-usa-100.html",
+      "published": "2025-12-14T05:29:14",
+      "content": "   Bei einem Schusswaffenangriff an der Brown University im US-Bundestaat Rhode Island sind zwei Studierende getötet und mehrere weitere verletzt worden. Der Täter ist auf der Flucht. Auf dem Campus gilt eine Ausgangssperre.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Michelle Rowland to repay part of family trip to WA after watchdog finds spending breached rules",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/14/michelle-rowland-to-repay-part-of-family-trip-to-wa-ipea-watchdog-finds-spending-breached-rules",
+      "published": "2025-12-14T05:27:42",
+      "content": "Attorney general’s move to pay back part of $22,000 travel cost makes her the first minister to reimburse taxpayers in growing expenses scandalFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe attorney general, Michelle Rowland, will repay part of the cost of taking her family on a holiday to Western Australia after the independent watchdog found her spending breached the rules for taxpayer-funded travel.Rowland confirmed on Sunday she would repay part of the almost $22,000 cost of the travel. The move makes her the first minister to repay taxpayer funds in the growing parliamentary expenses scandal. Continue reading...",
+      "content_length": 694,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Queensland driver charged with eight attempted murders after pedestrians struck – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/14/australia-news-live-michelle-rowland-family-travel-entitlements-labor-liberal-coles-woolworths-price-gouging-nsw-vic-wa-fire-weather-heatwave-warnings-albanese-sussan-ley-ntwnfb",
+      "published": "2025-12-14T04:33:06",
+      "content": "This blog is now closed.Get our breaking news email, free app or daily news podcastPressure mounts on Albanese government to control gas exportsA broad range of consumer, industry and climate and environment organisations have called upon the Federal government to put people before gas exporters as it considers a new gas policy expected to be released soon.Australia’s focus on gas exports has tripled domestic gas and electricity prices, driving up inflation and household bills. Multinational gas corporations are posting huge profits while people on low incomes are skipping meals, not cooling homes and going without medicines because they can’t afford their energy bills.The government must implement gas export market controls and avoid options that effectively subsidise gas companies or incentivise new polluting gas production. It’s time for this government to prioritise people over rich gas companies. Continue reading...",
+      "content_length": 934,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Police join search for Belgian tourist after phone found in Tasmanian wilderness two years since she went missing",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/14/police-join-search-for-belgian-tourist-after-phone-found-in-tasmanian-wilderness-two-years-since-she-went-missing",
+      "published": "2025-12-14T02:47:10",
+      "content": "Device belonging to missing hiker Celine Cremer found in an area that had ‘been extensively searched previously’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPolice will officially join private investigators and local volunteers in scouring the Tasmanian wilderness for a Belgian tourist, two-and-a-half years after she went missing and a day after her mobile phone was found.Celine Cremer’s Samsung phone was found by SES search and rescue volunteer Tony Hage on Saturday in the area around Philosopher Falls near Cradle Mountain in Tasmania’s north-west where the 31-year-old was last seen on 17 June 2023. Continue reading...",
+      "content_length": 695,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Beratungen in Berlin über Waffenstillstand in der Ukraine beginnen heute",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-102.html",
+      "published": "2025-12-14T00:23:26",
+      "content": "   Heute zunächst auf Beraterebene, morgen dann mit Spitzenpolitikern - in Berlin wird zwei Tage über den US-Plan für die Ukraine beraten. Im Vorfeld warnte Kanzler Merz: Kreml-Chef Putin werde nicht aufhören, wenn die Ukraine falle.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Bericht über Missbrauchsfälle: Zehntausende protestieren gegen Orban",
+      "link": "https://www.tagesschau.de/ausland/europa/protest-ungarn-missbrauch-100.html",
+      "published": "2025-12-14T00:22:22",
+      "content": "   In Ungarn sind Zehntausende einem Aufruf der Opposition gefolgt und haben gegen Ministerpräsident Orban demonstriert. Sie werfen seiner Regierung unter anderem vor, einen Bericht zu Missbrauchsfällen in staatlichen Kinderheimen vertuscht zu haben.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Two people dead and nine wounded in mass shooting at Brown University, as suspect remains at large",
+      "link": "https://www.theguardian.com/us-news/2025/dec/13/brown-university-shooting",
+      "published": "2025-12-13T23:47:09",
+      "content": "Mayor of Providence, Rhode Island, says ‘shooter’ still at large, as officials embark on widespread manhuntBrown University shooting: follow live updatesWhat we know so far about the Brown University shootingAt least two people were killed and nine more critically injured in a shooting on Saturday at Brown University in Providence, Rhode Island, with the suspect still at large hours after the first shelter in place orders were issued.Police scattered across the campus and into an affluent neighbourhood filled with historic and stately brick homes, searching academic buildings, back yards and porches for hours late into the night after the shooting was first reported in the afternoon. Continue reading...",
+      "content_length": 712,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Multiple victims reported in shooting at Brown University in US",
+      "link": "https://www.france24.com/en/americas/20251213-multiple-victims-reported-in-shooting-at-brown-university-in-us",
+      "published": "2025-12-13T23:34:20",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Police forces in England and Wales to get units that tackle violence against women",
+      "link": "https://www.theguardian.com/society/2025/dec/13/police-forces-in-england-and-wales-to-get-units-that-tackle-violence-against-women",
+      "published": "2025-12-13T22:30:44",
+      "content": "Specialist teams will deal with offences such as rape and stalking as part of VAWG strategy, home secretary saysAll police forces in England and Wales will have dedicated rape and sexual offences teams by 2029, the government has said.The plans are being unveiled as the home secretary, Shabana Mahmood, prepares to outline a delayed strategy on violence against women and girls (VAWG) next week. Continue reading...",
+      "content_length": 416,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Six UN peacekeepers killed in drone attack in Sudan’s South Kordofan",
+      "link": "https://www.france24.com/en/afrique/20251213-six-un-peacekeepers-killed-in-drone-attack-in-sudan-s-south-kordofan",
+      "published": "2025-12-13T22:18:38",
+      "content": "Six United Nations peacekeepers from Bangladesh were killed and several others wounded on Saturday when a drone struck their camp in Sudan’s South Kordofan region, the UN mission said. The attack was strongly condemned by the UN chief and Bangladeshi authorities, as Khartoum accused the paramilitary RSF of being behind the strike.",
+      "content_length": 332,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nobel laureate Machado feared for her life during secret escape from Venezuela",
+      "link": "https://www.france24.com/en/americas/20251213-nobel-laureate-machado-feared-for-her-life-during-secret-escape-from-venezuela",
+      "published": "2025-12-13T21:38:55",
+      "content": "Venezuelan opposition figure and 2025 Nobel Peace Prize winner Maria Corina Machado said she feared for her life during a clandestine journey out of Venezuela to reach Norway for the award ceremony, describing a high-risk sea escape carried out with US support. FRANCE 24 spoke to her daughter Ana Corina Sosa and to Bryan Stern, founder of Grey Bull Rescue, which carried out the exfiltration.",
+      "content_length": 394,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead",
+      "link": "https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead",
+      "published": "2025-12-13T21:35:30",
+      "content": "UN secretary general António Guterres says ‘unjustifiable’ attack on base in city of Kadugli ‘could be war crime’A drone strike has hit a United Nations peacekeeping logistics base in war-torn Sudan, killing six peacekeepers, the UN secretary general António Guterres has said.Eight other peacekeepers were wounded in the strike on Saturday in the city of Kadugli in the central region of Kordofan. All the victims are Bangladeshi nationals, serving in the UN interim security force for Abyei (Unisfa). Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Giuffre family ‘disappointed’ Met police not investigating claims against Andrew",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/13/met-will-not-investigate-claims-andrew-asked-bodyguard-to-investigate-virginia-giuffre",
+      "published": "2025-12-13T21:23:31",
+      "content": "Relatives of Virginia Giuffre say they are surprised Scotland Yard made decision just before release of Epstein filesThe family of Virginia Giuffre have expressed their “deep disappointment” that Andrew Mountbatten-Windsor will not face a criminal investigation in the UK over allegations against him.It was alleged that Mountbatten-Windsor had sex in London with a teenager who was trafficked, and then put pressure on his police protection officer to dig up dirt on her. Continue reading...",
+      "content_length": 492,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kansas Native American tribe in turmoil over deal to design ICE facilities",
+      "link": "https://www.theguardian.com/us-news/2025/dec/13/kansas-native-american-tribe-ice-facilities",
+      "published": "2025-12-13T21:12:53",
+      "content": "Prairie Band Potawatomi Nation signed deal in October, but president says tribe is now trying to exit contractA Native American tribe in Kansas is facing criticism from other tribal groups after its economic development subsidiary secured a $29.9m federal contract from the Department of Homeland Security (DHS) to design potential Immigration and Customs Enforcement (ICE) detention facilities.The development entity of the Prairie Band Potawatomi Nation signed the contract to design the detention facilities in October, leading to criticism that the tribal group, which was uprooted from the Great Lakes region to reservation lands north of Topeka, Kansas, in the 1830s, was itself benefiting from forced removals under the Trump administration. Continue reading...",
+      "content_length": 768,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tommy Robinson’s London ‘Christmas service’ draws about 1,000 people",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/13/tommy-robinsons-london-christmas-service-draws-around-1000-people",
+      "published": "2025-12-13T20:51:47",
+      "content": "Number is stark contrast with estimated 110,000 at far-right activist’s ‘unite the kingdom’ rally in SeptemberThe far-right activist Tommy Robinson led a carol concert to “put the Christ back into Christmas” on Saturday in an event that had a huge drop-off in attendance from his last rally in London.The Metropolitan police said about 1,000 people attended the event at its peak, in stark contrast to the estimated 110,000 who turned up to Robinson’s “unite the kingdom” rally in September. Continue reading...",
+      "content_length": 511,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "CSU-Parteitag: Ein Tritt vor Markus Söders Schienbein",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-soeder-merz-102.html",
+      "published": "2025-12-13T20:11:10",
+      "content": "   Zuerst wird CSU-Chef Söder mit seinem schlechtesten Ergebnis wiedergewählt. Dann stiehlt ihm der Bundeskanzler die Show. Auf dem Parteitag tritt die Unzufriedenheit der CSU-Basis mit ihrem Vorsitzenden zutage. Von K. Palzer.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Death on high-speed roller coaster in Florida deemed accidental",
+      "link": "https://www.theguardian.com/us-news/2025/dec/13/roller-coaster-death-florida",
+      "published": "2025-12-13T19:59:51",
+      "content": "Kevin Rodriguez Zavala died from blunt-impact trauma on ride at Universal’s Epic Universe theme park A Florida sheriff’s office has concluded that the death of a 32-year-old man while riding a high-speed roller coaster at Universal’s Epic Universe theme park was accidental.According to a report released Friday by the local medical examiner, Kevin Rodriguez Zavala suffered a deep cut on the left side of his forehead, a fracture to the bone ridge above his eye and bleeding above his skull. Additional injuries included bruises on his arms and abdomen, a broken nose and a fractured right thigh bone. Continue reading...",
+      "content_length": 622,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
+      "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+      "published": "2025-12-13T18:17:20",
+      "content": "\n\n\n\t\n\t\t\n\nIt's a small sample size, likely driven by Black Friday discounts and temporary virality, but the Nex Playground has gone from little-known console curiosity to best-seller. It's now on track to quadruple its sales from last year. According to research firm Circana, the Playground was the second best-selling console in the US for the week ending November 22nd, and third for the week ending November 28th. In October, it wasn't even mentioned by Circana's video game analyst, Mat Piscatella. \nThe colorful cube got a steep discount for Black Friday, from $249 to $199, which is likely part of what drove sales, especially since Microsoft didn't d …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Two US troops and an American civilian killed in Syria, Trump vows to 'retaliate'",
+      "link": "https://www.france24.com/en/middle-east/20251213-two-us-troops-and-interpreter-killed-in-syria-in-islamic-state-group-ambush",
+      "published": "2025-12-13T18:16:29",
+      "content": "Two US soldiers and an American civilian were killed in central Syria on Saturday after an alleged Islamic State gunman opened fire on a joint US-Syrian patrol in Palmyra, US Central Command said. Three other troops were wounded before the attacker was killed by partner forces. US President Donald Trump said that “there will be very serious retaliation”",
+      "content_length": 355,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "123 Oppositionelle in Belarus aus der Haft entlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/belarus-gefangene-freilassung-100.html",
+      "published": "2025-12-13T17:54:45",
+      "content": "   Die bekannten belarussischen Oppositionellen Beljazki und Kolesnikowa sind frei. Mit ihnen wurden 121 weitere politische Gefangene aus der Haft entlassen. Gleichzeitig hoben die USA Handelssperren gegen Belarus auf.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "ARD-Korrespondentin zu Belarus: \"Man sieht, dass Belarus unter den Sanktionen leidet\"",
+      "link": "https://www.tagesschau.de/ausland/europa/belarus-gefangene-freilassung-102.html",
+      "published": "2025-12-13T17:46:46",
+      "content": "   Die USA heben Sanktionen gegen Belarus auf - kurz darauf werden politische Gefangene freigelassen. Das lasse auf die Wirksamkeit der Sanktionen schließen, sagt ARD-Korrespondentin Ina Ruck. Offenbar gehe Belarus das Geld aus.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pulp Fiction actor Peter Greene found dead in New York apartment",
+      "link": "https://www.theguardian.com/film/2025/dec/13/pulp-fiction-actor-peter-greene-found-dead-in-new-york-apartment",
+      "published": "2025-12-13T17:37:47",
+      "content": "Greene, 60, praised for the various villains he played during his career but manager says he also had ‘heart as big as gold’Peter Greene, the actor known for his roles in Pulp Fiction and The Mask, has died at the age of 60.He was found dead at his New York City apartment on Friday, his manager said, and the cause of death has not been disclosed. Continue reading...",
+      "content_length": 368,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel says its military killed Hamas commander Raed Saed in Gaza City strike",
+      "link": "https://www.theguardian.com/world/2025/dec/13/israel-says-its-military-killed-hamas-commander-raed-saed-in-gaza-city-strike",
+      "published": "2025-12-13T17:27:16",
+      "content": "If Saed is dead he would be most senior militant to be killed since October ceasefire, in attack on car that reportedly left four deadThe senior Hamas commander Raed Saedhas been killed in a strike on a car in Gaza City, the Israeli military said on Saturday.The attack killed four people and wounded at least 25 others, according to Gaza health authorities. There was no immediate confirmation from Hamas or medics that Saed was among the dead. Continue reading...",
+      "content_length": 465,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel says it killed top Hamas weapon commander in Gaza strike",
+      "link": "https://www.france24.com/en/middle-east/20251213-israel-says-it-killed-top-hamas-weapon-commander-in-gaza-strike",
+      "published": "2025-12-13T17:05:09",
+      "content": "Israel said Saturday it had killed top Hamas commander Raed Saad in a strike in Gaza after an explosive device wounded two Israeli soldiers in the south of the territory as both sides accused each other of violating the ceasefire that took effect on October 10.",
+      "content_length": 261,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Slab is the first MIDI controller built exclusively for Serato Studio",
+      "link": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
+      "published": "2025-12-13T17:00:00",
+      "content": "\n\n\n\t\n\tMusic making is always better with hardware.\t\n\nNative Instruments and Ableton have had incredible success with their custom MIDI controllers that integrate with their DAWs (digital audio workstations), Maschine and Live, respectively. Native Instruments' Maschine (yes, it's the name of the hardware and the software) and Ableton's Push are pretty much the gold standard for integration between music-making software and hardware. Serato is hoping it can capture even a sliver of that magic with its pairing of Slab and Serato Studio.\nPlenty of others have tried their hand at building (or having others build for them) custom controllers for their DAWs - FL Studio, Studio One, and the MPC desk …\nRead the full story at The Verge.",
+      "content_length": 737,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "AfD-Politiker in den USA: Wer zahlt für Abgeordnetenreisen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnete-auslandsreisen-100.html",
+      "published": "2025-12-13T16:56:24",
+      "content": "   Mit ihrem Besuch in den USA haben AfD-Politiker eine Debatte ausgelöst. Unter welchen Umständen dürfen Abgeordnete auf Steuerzahlerkosten reisen? Und welche Regeln gelten? Ein Überblick. Von Uwe Jahn.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wer sind die Jungen Republikaner, die die AfD feiern?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-junge-republikaner-102.html",
+      "published": "2025-12-13T16:56:14",
+      "content": "   Eine Nachwuchsorganisation der Republikaner von Präsident Trump lädt heute in New York zu einer Gala und begrüßt als besondere Gäste Vertreter der AfD. Wer sind die New York Young Republicans? Von G. Ucar.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die AfD sucht Anschluss in den USA",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-usa-reise-100.html",
+      "published": "2025-12-13T16:56:11",
+      "content": "   20 AfD Politiker reisen in die USA, weil der außenpolitische Sprecher der AfD-Bundestagsfraktion Frohnmaier dort einen Preis verliehen bekommt. Wie stark sind die Verbindungen zum Trump-Lager? Von Kilian Pfeffer.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Belarus frees 123 prisoners in exchange for lifting of US sanctions",
+      "link": "https://www.france24.com/en/video/20251213-belarus-frees-123-prisoners-in-exchange-for-lifting-of-us-sanctions",
+      "published": "2025-12-13T16:48:29",
+      "content": "In exchange for the lifting of US sanctions on certain exports, Belarusian President Alexander Lukashenko freed 123 prisoners on Saturday including Nobel Peace Prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava after two days of talks with an envoy for President Donald Trump. FRANCE 24's Philip Turle brings you the details.",
+      "content_length": 351,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "First climate migrants from Tuvalu arrive in Australia",
+      "link": "https://www.france24.com/en/video/20251213-first-climate-migrants-from-tuvalu-arrive-in-australia",
+      "published": "2025-12-13T16:45:29",
+      "content": "The first group of climate migrants from the Pacific island nation of Tuvalu has arrived in Australia under a landmark visa scheme, as rising sea levels threaten to make parts of the low-lying country uninhabitable and force long-term relocation.",
+      "content_length": 246,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Massentierhaltung für den Profit",
+      "link": "https://www.tagesschau.de/wirtschaft/gefluegelzucht-masthaehnchen-tierquaelerei-qualzucht-100.html",
+      "published": "2025-12-13T16:39:29",
+      "content": "   Hähnchenbrustfilets gehören in Deutschland zu den beliebtesten und preiswertesten Fleischsorten. Doch das hat seinen Preis: In vielen deutschen Ställen herrscht Tierquälerei. Von Edgar Verheyen.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Belarus releases 123 prisoners including opposition leaders after US lifts sanctions",
+      "link": "https://www.theguardian.com/world/2025/dec/13/belarus-releases-123-prisoners-including-opposition-leaders-after-us-lifts-sanctions",
+      "published": "2025-12-13T16:03:48",
+      "content": "Nobel prize winner Ales Bialiatski and opposition figure Maria Kalesnikava among those freed after US talks with Alexander LukashenkoThe Belarusian president, Alexander Lukashenko, has freed 123 prisoners, including Nobel peace prize winner Ales Bialiatski and leading opposition figure Maria Kalesnikava, after the US lifted sanctions on Belarusian potash, a key export.The announcement came after two days of talks with an envoy of the US president, Donald Trump, the latest diplomatic push since the Trump administration started talks with the autocratic leader. Continue reading...",
+      "content_length": 585,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand denies Trump ceasefire claim as clashes with Cambodia continue at border",
+      "link": "https://www.theguardian.com/world/2025/dec/12/thailand-and-cambodia-agree-to-restart-ceasefire-brokered-by-us-says-trump",
+      "published": "2025-12-13T16:00:50",
+      "content": "Thai PM says military will keep fighting and Cambodia suspends border crossings as casualties riseThailand-Cambodia fighting explainedThailand’s caretaker prime minister has denied the existence of a ceasefire with Cambodia, despite Donald Trump announcing that both countries had agreed to halt fighting.As heavy clashes continued along the border between the two countries, Anutin Charnvirakul said on Saturday that Thailand had not agreed to a ceasefire with Cambodia and that its forces would continue fighting. Cambodia announced it had suspended all border crossings with Thailand. Continue reading...",
+      "content_length": 607,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "This $1,500 robot cooks dinner while I work",
+      "link": "https://www.theverge.com/tech/840599/posha-robot-chef-review",
+      "published": "2025-12-13T16:00:00",
+      "content": "\n\n\n\t\n\tThe Posha robot chef can autonomously cook a meal from scratch.\t\n\nAs I'm sitting in my office writing this review, delicious, cheesy, garlicky scents are wafting up the stairs. I can hear whizzing and whirring, and the occasional clunk, as a robot chef in my kitchen is making macaroni and cheese. Its app tells me there are three minutes left in the process, and based on the snapshot it's showing, the dish looks like a creamy pile of cheesy goodness. \nI'll be heading out the door shortly to pick up my daughter from the school bus, and when we're back, the robot-cooked mac and cheese will be waiting for her to dive into, staying fresh thanks to a \"copilot\" mode that keeps it warm and stirs it occasionally u …\nRead the full story at The Verge.",
+      "content_length": 756,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Zoe Ball to leave role as presenter of her BBC Radio 2 show",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/dec/13/zoe-ball-to-leave-role-as-presenter-of-her-bbc-radio-2-show",
+      "published": "2025-12-13T15:57:33",
+      "content": "Ball will be replaced by Emma Willis but will continue to host special programmes for the stationZoe Ball has announced she is leaving her role as presenter of her BBC Radio 2 show.Speaking on the show, the 55-year-old said she would be replaced by the broadcaster Emma Willis. Ball will present her last programme next Saturday and will continue to host special programmes on the station. Continue reading...",
+      "content_length": 409,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Comedy legend Dick Van Dyke turns 100 years old",
+      "link": "https://www.france24.com/en/video/20251213-comedy-legend-dick-van-dyke-turns-100-years-old",
+      "published": "2025-12-13T15:38:49",
+      "content": "Comedy icon Dick Van Dyke celebrated his 100th birthday on Saturday, hitting the century mark some six decades after he sang and danced with Julie Andrews in “Mary Poppins” and starred in his self-titled sitcom. Van Dyke became one of the biggest actors of his era with “The Dick Van Dyke Show,” which ran from 1961-66 on CBS; appeared with Andrews as a chimney sweep with a Cockney accent in the 1964 Disney classic “Mary Poppins” and, in his 70s, played a physician-sleuth on “Diagnosis: Murder.”",
+      "content_length": 498,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "80 Jahre nach Kriegsende: Sudetendeutscher Tag erstmals in Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-sudetendeutscher-tag-100.html",
+      "published": "2025-12-13T15:37:58",
+      "content": "   In diesem Jahr fand er in Bayern statt, 2026 kehrt der Sudetendeutsche Tag nach Tschechien zurück. Ein historischer Schritt der Versöhnung, sagen viele - doch er ist auch Anlass für Diskussionen und Proteste. Von Marianne Allweiss.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Civilians caught in crossfire as Thailand-Cambodia fighting continues",
+      "link": "https://www.france24.com/en/video/20251213-civilians-caught-in-crossfire-as-thailand-cambodia-fighting-continues",
+      "published": "2025-12-13T15:37:23",
+      "content": "Cambodia shut its border crossings with Thailand on Saturday, after Bangkok denied US President Donald Trump's claim that a truce had been agreed to end days of deadly fighting. Violence between the Southeast Asian neighbours, which stems from a long-running dispute over the colonial-era demarcation of their 800-kilometre (500-mile) border, has displaced around half a million people on both sides.",
+      "content_length": 400,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Nex Playground and Pixel Buds 2A top our list of the best deals this week",
+      "link": "https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale",
+      "published": "2025-12-13T15:16:08",
+      "content": "\n\n\n\t\n\tThe Nex Playground is a compact, cube-shaped console that’s currently on sale for $50 off. | Image: The Verge\t\n\nThe Nex Playground is apparently one of the hottest consoles this holiday season thanks to its kid-friendly games and fun, motion-controlled gameplay. And now through December 14th, the cube-shaped console is on sale for its Black Friday low of around $199 ($50 off) at Amazon. There are some other great deals still available you might have missed this week, too, including a sizable discount on the new Google Pixel Buds 2A and Genki’s Moonbase Charging Station, which looks straight out of Star Wars.\n\n\nNex Playground\n\nWhere to Buy: $250 $199 at Amazon\nThe Nex Playground easily connects to your TV and provides a clever interactive solution that encourages you and your family to move around. A built-in camera and AI software track your movements with precision, so you are the controller. The cube-shaped console comes with five games (Fruit Ninja, Starri, Party Fowl, Go Keeper, and Whack-a-Mole Deluxe), but there are a ton of others you can download; however, a three-month subscription ($49) or an annual Play Pass ($89) is required to enjoy the full catalog and seasonal drops.\nGenki Moonbase Charging Station\n\nWhere to Buy: $139.99 at Genki $139.99 $89.99 at Amazon\nGenki’s Moonbase features a sleek retro-futuristic design, and it’s currently down to an all-time low of $89.99 ($50 off) at Amazon. The power strip features three AC plugs (1,250W max power) and four USB-C ports that can deliver up to 240W of total power; a single USB-C port, meanwhile, can go up to 140W with the right cable, though one isn’t included with your purchase. The strip also features a non-removable, 1.5-meter braided cable, making it easy to reach the nearest outlet.\n\nEach AC plug is spaced far enough apart to accommodate larger power adapters, but the main selling point here is a touch-sensitive button that lets you cycle through colors and toggle the charging station’s lights on and off. All in all, the Moonbase is a powerful power strip that looks cool and lets you charge up to seven devices simultaneously.\nPixel Buds 2a\n\nWhere to Buy: $129 $99 at Amazon $129 $99 at Best Buy $129 $99 at Target\nGoogle recently launched a holiday sale that runs through December 24th, with many items matching the pricing we saw during Black Friday and Cyber Monday. One of the standout deals is the Pixel Buds 2A, which have returned to their all-time low of $99 ($30 off) at Amazon, Best Buy, and the Google Store.\n\nThe Pixel Buds 2A are Google’s latest, most affordable pair of wireless earbuds, but they don’t skimp on features. They offer active noise cancellation and a natural-sounding transparency mode, along with excellent sound for the price. They also provide hands-free Gemini support, allowing you to quickly get directions, brainstorm ideas, and summarize messages. The earbuds offer up to 10 hours of listening time with ANC disabled and carry an IP54 rating, too, which isn’t great but should provide at least some protection against rain and sweat.\n\n\n\nA few more deals to check out\n\n\nApple’s M4-powered MacBook Air 13 is on sale at Amazon and Best Buy starting at $749 ($250 off), which is just a few dollars shy of its Black Friday low. However, if you purchase it at Best Buy, you’ll also get a free $25 gift card. The slim laptop offers an impressive combination of performance and battery life, with double the base RAM of its predecessor (16GB versus 8GB) and two Thunderbolt 4 / USB-C ports. It’s still relatively limited with 256GB of base storage, but it remains one of the best laptops available, especially with the current discount. Read our review.\n\n\n\nHoto’s new PixelDrive electric screwdriver is on sale for the first time at Amazon, where you can snag it for $59.99 ($20 off). The cordless PixelDrive is great for small- to medium-sized projects, whether you’re assembling electronics or putting together furniture. It features up to 6Nm of torque, along with a single multi-function button that allows you to change the screwdriver’s direction, switch to an 80RPM precision mode for delicate tasks, or boost up to 200RPM with one finger. It also has a built-in pixelated display, so you can quickly check the battery life and see which of the six torque levels you’re using.\n\n\n\nThe Lego Super Mario Goombas’ Playground set is as adorable as it sounds, and it’s currently down to $8.99 ($6 off) at Amazon and Best Buy. The set comes in at a relatively light 171 pieces, which you can use to build three Goomba figurines, a tree trunk, and a seesaw. Each Goomba has its own evil (but cute) expression, and they can stack on top of each other to make a small Goomba tower. There’s even a lever on the back of the tree trunk that can make a Goomba pop out, so you can play a round of peekaboo before placing the set on a desk or bookshelf.\n",
+      "content_length": 4877,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merz setzt auf die Regierung - und sieht die Demokratie in Gefahr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-csu-parteitag-104.html",
+      "published": "2025-12-13T14:56:28",
+      "content": "   Kanzler Merz will das \"Haus Bundesrepublik Deutschland\" sanieren. Auf dem CSU-Parteitag warnte er zugleich vor innenpolitischen Streitigkeiten und rief zum Einsatz für Freiheit, Frieden und eine offene Gesellschaft auf.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Witkoff und Selenskyj kommen zu Ukraine-Gesprächen nach Berlin",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-100.html",
+      "published": "2025-12-13T14:16:57",
+      "content": "   Im Ringen um ein Ende des Kriegs gegen die Ukraine sind zentrale Streitpunkte weiter völlig offen. Nun gehen die Gespräche in die nächste Runde - mit einer Reihe hochrangiger Besucher in Berlin.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump's approval rating slides: US president 'significantly underwater', expert says",
+      "link": "https://www.france24.com/en/video/20251213-trump-s-approval-rating-slides-us-president-significantly-underwater-expert-says",
+      "published": "2025-12-13T14:03:23",
+      "content": "Only 31% of U.S. adults approve of how President Donald Trump is handling the economy, down from 40% in March, according to a new AP-NORC poll – the lowest economic rating he has recorded in either term. SUNY-Empire State University history professor Ian Reifowitz said Trump is now \"significantly underwater,\" with his party also struggling, as Democrats flipped 20% of Republican House seats in 2025, while Republicans failed to flip any Democratic seats. \"It's not going well for Trump's party,\" Reifowitz added.",
+      "content_length": 515,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sektori is psychedelic, tough as nails, and worth the pain",
+      "link": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
+      "published": "2025-12-13T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nSektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have to weave through them to get upgrades to help you survive. Often, my runs end after less than a couple minutes, like a retro arcade game. But creator Kimmo Lahtinen brilliantly weaves modern ideas from roguelikes with pulsing visuals and music that make Sektori a mesmerizing experience.\nA key part of what makes Sektori good is how it puts you into a flow state. \"Sektori is a place, a form of being, a method of transformation,\" reads the descrip …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Here are the shipping deadlines to get your holiday gifts on time",
+      "link": "https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines",
+      "published": "2025-12-13T14:00:00",
+      "content": "\n\n\n\t\n\tAmazon Prime members may be eligible for free same-day delivery. | Photo: Justin Sullivan / Getty Images\t\n\nLet’s face it, the same thing happens year after year. Things get busy with work, school, and life in general until you’re suddenly up against the clock as you race your gifts to your local post office, FedEx store, or UPS location. We’ve all been there, but we’d like to help as you plan your next move and begin sending out your holiday packages.\n\nIf you intend to send your gifts via traditional mail this year, we’ve compiled the domestic shipping deadlines for various carriers and major retailers, so you can plan ahead and ensure your packages arrive before the holidays. Hopefully, it will help you avoid some unwanted stress — well, assuming that’s even possible this time of year.\n\n\n\nFinal day to shipShips via this serviceDecember 19thUPS 3 Day SelectDecember 22ndUPS 2nd Day AirDecember 23rdUPS Next Day Air\n\nWith UPS, you have until Tuesday, December 23rd, to ship via Next Day Air and have your package arrive by Wednesday, December 24th. Packages shipped via Next Day Air after the 23rd won’t arrive until after Christmas. Monday, December 22nd, is the last day to ship via 2nd Day Air if you want your package to arrive by December 24th. You can opt for UPS’s 3 Day Select option until Friday, December 19th, to have it arrive by the 22nd. If you plan to ship your packages before then, you should be fine opting for the standard pickup and delivery service.\n\nSee more details regarding UPS shipping deadlines here.\n\nFinal day to shipShips via this serviceDecember 20thFedEx Express SaverDecember 22ndFedEx 2Day and 2Day AMDecember 24thFedEx SameDay\n\nFedEx says the cutoff for its SameDay delivery is Wednesday, December 24th, but it&#8217;s risky to ship packages that late, as even the slightest delay could result in them arriving after Christmas. However, if you ship it by Monday, December 22nd, you can choose either of the two-day shipping methods. And if you manage to get it to FedEx by Saturday, December 20th, you can go with the Express Saver option for a more reasonable shipping fee.\n\nSee more details regarding FedEx shipping deadlines here.\n\nFinal day to shipShips via this serviceDecember 17thFirst-Class MailDecember 17thUSPS Ground AdvantageDecember 18thPriority MailDecember 20thPriority Mail Express\n\nSaturday, December 20th, is the final day to send packages (to arrive by Christmas Eve) via USPS Priority Mail Express, while the cutoff date for&nbsp;packages to be&nbsp;delivered before Christmas via standard Priority Mail is Thursday, December 18th. First-Class Mail packages and those you intend to send via USPS Ground Advantage, meanwhile, must be sent by Wednesday, December 17th, if you want them to arrive in time for Christmas.\n\nSee more details regarding USPS shipping deadlines here.\n\nAmazon holiday shipping deadlines\n\n\nIf you subscribe to Amazon Prime and live in an&nbsp;eligible ZIP code in the US, you can get Same-Day Delivery on certain items through December 24th. You’ll need to meet the “minimum threshold” of eligible items in your cart; however, the exact threshold varies by location (see here for more details). Same-Day Delivery costs up to $2.99 per order for Prime members whose orders fall under the threshold, or up to $12.99 for non-Prime customers.\n\n\n\nPrime members can get One-Day Delivery for eligible products through December 23rd with no minimum purchase amount or Two-Day Delivery through December 22nd.\n\n\n\nIf you’re a Prime member in select US cities, you can take advantage of two-hour grocery delivery through December 24th.\n\n\nShipping times and prices may vary depending on the product type, size, and whether it’s shipping directly from Amazon or a third-party seller, so make sure to check the expected arrival date at checkout, then choose accordingly.\n\nBest Buy holiday shipping deadlines\n\n\nIf you’re a My Best Buy Plus or Total subscriber, you can get free two-day shipping with no minimum order size. However, those without a premium subscription must meet the $35 order threshold (before taxes but after coupons), and only certain items are available for next-day and standard shipping.\n\n\n\nFree next-day delivery is available on select items through December 23rd if you order by 10:30AM local time.\n\n\n\nYou can get free same-day delivery if you order your package on December 24th, as long as you place your order by 12PM local time.\n\n\n\nIf you order online by 5PM local time on Christmas Eve, you’ll also be eligible for in-store pickup until 7PM.\n\n\nKeep in mind that Best Buy’s shipment and arrival dates vary depending on the type of item you’re purchasing. Major appliances, for instance, may take longer to be delivered than smaller, more conventional electronics.\n\nWalmart holiday shipping deadlines\n\n\nWalmart offers free standard shipping on orders of $35 sold directly from Walmart. You must place orders by 12:30PM local time on December 23rd to receive the package in time for Christmas, however. Next-day shipping is also available in some areas.\n\n\n\nWalmart also offers free next-day and two-day shipping to Walmart Plus subscribers with no order minimum. However, the arrival date of your package may vary depending on whether Walmart or a third-party seller is shipping your item.\n\n\n\nThe retailer offers same-day pickup and delivery on orders placed by 12PM local time on December 24th.\n\n\n\nYou can also have the package delivered to you in as little as one hour on Christmas Eve if you order by 5PM local time and pay a $10 Express Delivery fee.\n\n\nTarget holiday shipping deadlines\n\n\nTarget stores will be open until midnight through December 23rd and 8PM local time on Christmas Eve, though it’s wise to get pickup orders and same-day shipping orders in by December 23rd to be on the safe side.\n\n\n\nOrders placed by 6PM local time on Christmas Eve are eligible for in-store pickup until 8PM.\n\n\n\nThose with a Target Circle card can receive free two-day shipping on many items from the retailer’s website, and same-day delivery on orders placed by 3PM local time on Christmas Eve. Next-day delivery is available in 35 cities, too, but the order cutoff time varies by location.\n\n\n\nMany (but not all) orders over $35 are eligible for free shipping, even if you don’t have a Target Circle card or Circle 360 membership. It’s determined by the item’s location and your ZIP code.\n\n\nAs with Walmart and Amazon, be aware that items shipped or sold by third-party retailers at Target may result in longer lead times. Product listings usually spell out your options for pickup, same-day delivery, and standard shipping — complete with estimated availability times — before you add them to your cart.\n\nUpdate, December 13th: Updated shipping deadlines and other related information pertaining to the 2025 holiday season.",
+      "content_length": 6821,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Belarus frees opposition figure Kolesnikova, Nobel laureate Bialiatski in US-brokered deal",
+      "link": "https://www.france24.com/en/live-news/20251213-belarusian-leader-pardons-123-prisoners-including-prominent-opposition-figures",
+      "published": "2025-12-13T13:49:45",
+      "content": "Belarus on Saturday released 123 political prisoners, including protest leader Maria Kolesnikova and Nobel Peace Prize laureate Ales Bialiatski, in a US-brokered deal involving a partial lifting of Western sanctions, according to rights groups and state media.",
+      "content_length": 260,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French farmers protest as veterinarians cull diseased cows",
+      "link": "https://www.france24.com/en/video/20251213-french-farmers-protest-as-veterinarians-cull-diseased-cows",
+      "published": "2025-12-13T13:38:13",
+      "content": "French farmers are protesting against the culling of cows infected with nodular dermatitis – widely known as lumpy skin disease – after veterinarians slaughtered a herd under police protection on Friday. Several unions, including the left-wing Peasant Confederation, have condemned the mass culls as \"more scary than the illness itself,\" calling instead for an end to the slaughter and broader vaccination efforts.",
+      "content_length": 414,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Großauftrag der Bahn: MAN und BYD sollen Tausende Busse liefern",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-busse-man-byd-100.html",
+      "published": "2025-12-13T13:36:05",
+      "content": "   Die Deutsche Bahn betreibt nicht nur Züge, sondern auch Tausende Busse. In den kommenden Jahren will der Konzern zahlreiche neue Fahrzeuge bei MAN kaufen - und auch bei einem chinesischen Hersteller.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Dior, Chanel and … Veja? The ethical Paris trainer worn by A-listers and royalty",
+      "link": "https://www.theguardian.com/fashion/2025/dec/13/veja-ethical-paris-trainer-worn-a-listers-and-royalty",
+      "published": "2025-12-13T13:00:33",
+      "content": "Veja doesn’t do surveys or freebies, hates greenwashing and Black Friday, and as demand for trainers wanes, it continues to go its own wayIn the grand hierarchy of Paris fashion, it’s tricky for a brand to stand out. Especially one whose coup de maître is a goes-with-everything white sneaker. Yet 20 years after Veja first began selling sustainable footwear, it has become the ultimate affordable It brand for scooter-wielding mums, sustainably minded millennials and A-list bigwigs who want to wear their values on their ethical leather-clad feet.Veja’s co-founder Sébastien Kopp says he doesn’t know if people buy his trainers because of how they are made or because of how they look. The company is fastidious about social and fairtrade practices, “but because we don’t do surveys, we don’t do marketing, we simply don’t know this information”, he says, speaking from Veja’s Paris headquarters. Continue reading...",
+      "content_length": 918,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Indien erkennt Messwerte der WHO zu Smog in Delhi nicht an",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-smog-delhi-100.html",
+      "published": "2025-12-13T12:51:13",
+      "content": "   Die rund 35 Millionen Einwohner der indischen Hauptstadt sind starken Smog gewöhnt, vor allem jetzt im Winter. Doch nun hat Indiens Regierung beschlossen, internationale Messwerte zur Luftverschmutzung nicht mehr anzuerkennen. Von Stefanie Markert.[mehr]",
+      "content_length": 257,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Thailand vows to keep fighting Cambodia despite Trump's ceasefire claim",
+      "link": "https://www.france24.com/en/video/20251213-thailand-vows-to-keep-fighting-cambodia-despite-trump-s-ceasefire-claim",
+      "published": "2025-12-13T12:25:38",
+      "content": "Thailand’s leader vowed on Saturday to continue fighting along the disputed border with Cambodia, as fighter jets struck targets just hours after US President Donald Trump said he had brokered a new ceasefire. The escalation follows Thai Prime Minister Anutin Charnvirakul’s decision to dissolve parliament on Thursday in an attempt to break a political deadlock among parties.",
+      "content_length": 377,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The Bright Side: Paris region unveils first urban cable car linking isolated suburbs",
+      "link": "https://www.france24.com/en/live-news/20251213-first-urban-cable-car-unveiled-outside-paris",
+      "published": "2025-12-13T12:21:14",
+      "content": "Gondolas floated above the southeastern suburbs of Paris on Saturday as officials inaugurated the first urban cable car in the French capital’s region, a project aimed at cutting travel times and improving links between isolated neighbourhoods and the metro network.",
+      "content_length": 266,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sharks and rays gain landmark protections as nations move to curb international trade",
+      "link": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/",
+      "published": "2025-12-13T12:00:06",
+      "content": "For the first time, global governments have agreed to widespread international trade bans and restrictions for sharks and rays being driven to extinction.\nLast week, more than 70 shark and ray species, including oceanic whitetip sharks, whale sharks, and manta rays, received new safeguards under the Convention on International Trade in Endangered Species of Wild Fauna and Flora. The convention, known as CITES, is a United Nations treaty that requires countries to regulate or prohibit international trade in species whose survival is threatened.\nSharks and rays are closely related species that play similar roles as apex predators in the ocean, helping to maintain healthy marine ecosystems. They have been caught and traded for decades, contributing to a global market worth nearly $1 billion annually, according to Luke Warwick, director of shark and ray conservation at Wildlife Conservation Society (WCS), an international nonprofit dedicated to preserving animals and their habitats.Read full article\nComments",
+      "content_length": 1019,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thailand und Kambodscha kämpfen trotz Trumps Vermittlung weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-kaempfe-trump-100.html",
+      "published": "2025-12-13T11:48:55",
+      "content": "   US-Präsident Trump hatte schon einmal einen Frieden im Grenzkonflikt zwischen Thailand und Kambodscha verkündet. Nun gab er erneut eine Waffenruhe bekannt - doch die Kämpfe zwischen den beiden Staaten gehen weiter.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Russische Raketenangriffe verursachen Stromausfall in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-112.html",
+      "published": "2025-12-13T11:46:53",
+      "content": "   Die Ukraine meldet abermals Stromausfälle infolge massiver russischer Raketenangriffe. Auch das AKW Saporischschja war zeitweise ohne Strom. In der russischen Stadt Saratow starben laut russischer Seite zwei Menschen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zelensky visits troops as Ukraine claims gained ground near key city",
+      "link": "https://www.france24.com/en/video/20251213-zelensky-visits-troops-as-ukraine-claims-gained-ground-near-key-city",
+      "published": "2025-12-13T10:38:16",
+      "content": "Ukrainian President Volodymyr Zelensky said Friday he had visited troops fending off Russian advances near the embattled city of Kupiansk that Moscow claimed to have captured last month, which Kyiv denies. Ukraine said earlier its army had retaken two settlements in the northern Kharkiv region and pushed Russian troops back in Kupiansk – a strategically important city and a key railway hub.",
+      "content_length": 393,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "France to vaccinate cattle against lumpy skin disease as farmers protest mass culling policy",
+      "link": "https://www.france24.com/en/france/20251213-france-to-vaccinate-cattle-against-lumpy-skin-disease-as-farmers-protest-mass-culling-policy",
+      "published": "2025-12-13T10:32:03",
+      "content": "France’s agriculture ministry said on Saturday that one million head of cattle would be vaccinated against lumpy skin disease in the coming weeks, as farmers blocked roads to protest mass culling measures ordered after multiple outbreaks of the virus.",
+      "content_length": 251,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Längste Stadtseilbahn Europas in Paris eröffnet",
+      "link": "https://www.tagesschau.de/ausland/europa/seilbahn-paris-102.html",
+      "published": "2025-12-13T10:27:58",
+      "content": "   Sie ist die erste Stadt-Schwebebahn von Paris und verbindet künftig die Vororte im Südosten der französischen Hauptstadt mit der Metro: In Paris ist - nach Angaben der Betreiber - die längste Seilbahn Europas eröffnet worden. [mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kassenärzte-Chef Gassen für höhere Steuern auf Tabak und Alkohol",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gassen-steuern-alkohol-tabak-100.html",
+      "published": "2025-12-13T10:26:15",
+      "content": "   Zucker, Alkohol, Tabak: Ärztevertreter Gassen drängt auf höhere und neue Steuern auf die Konsumgüter. Damit könnten Krankheiten verhindert - und die Budgets des Gesundheitssystems gestärkt werden.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Gespräche: Witkoff kommt für Treffen mit Selenskyj nach Berlin",
+      "link": "https://www.tagesschau.de/ausland/europa/witkoff-selenskyj-treffen-100.html",
+      "published": "2025-12-13T10:24:58",
+      "content": "   Berlin könnte bei den Gesprächen über ein Ende des Krieges gegen die Ukraine ein entscheidender Ort werden. Der ukrainische Präsident Selenskyj reist an, und die USA schicken ihren Sondergesandten Witkoff.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rising crime boosts far-right presidential hopeful in Chile",
+      "link": "https://www.france24.com/en/video/20251213-rising-crime-boosts-far-right-presidential-hopeful-in-chile",
+      "published": "2025-12-13T10:11:26",
+      "content": "Anxiety over immigration and violent crime has carried Jose Antonio Kast to the steps of Chile's presidential palace. On Sunday, he is tipped to be elected the country's first hard-right leader since dictator Augusto Pinochet three decades ago.",
+      "content_length": 244,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "California sues Trump administration over $100,000 H-1B visa fee",
+      "link": "https://www.france24.com/en/video/20251213-california-sues-trump-administration-over-100-000-h-1b-visa-fee",
+      "published": "2025-12-13T10:07:32",
+      "content": "California and 19 other US states filed a lawsuit on Friday seeking to block President Donald Trump's $100,000 fee on new H-1B visas for highly skilled foreign workers. The H-1B program allows US employers to hire foreign workers in specialty fields. The tech industry, with many companies headquartered in California, is particularly reliant on workers who receive the visas. FRANCE 24's Wassim Cornet reports.",
+      "content_length": 411,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU agrees to indefinitely freeze Russian central bank assets",
+      "link": "https://www.france24.com/en/video/20251213-eu-agrees-to-indefinitely-freeze-russian-central-bank-assets",
+      "published": "2025-12-13T10:04:28",
+      "content": "The European Union agreed on Friday to indefinitely freeze Russian central bank assets held in Europe, removing a big obstacle to using the cash to help Ukraine defend itself against Russia. A first big step is to immobilise 210 billion euros ($246 billion) worth of Russian sovereign assets for as long as needed instead of voting every six months on extending the asset freeze.",
+      "content_length": 379,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russische Zentralbank verklagt belgische Finanzfirma Euroclear",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-vermoegen-eu-100.html",
+      "published": "2025-12-13T09:21:20",
+      "content": "   Die EU will die Ukraine mithilfe von eingefrorenem russischen Vermögen unterstützen. Doch Moskau wehrt sich dagegen - und verklagt die belgische Firma Euroclear, die das Vermögen verwaltet.[mehr]",
+      "content_length": 198,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Lionel Messi's GOAT tour in India descends into chaos as fans vandalise stadium",
+      "link": "https://www.france24.com/en/live-news/20251213-fans-vandalise-india-stadium-after-messi-s-abrupt-exit",
+      "published": "2025-12-13T09:15:24",
+      "content": "Angry fans on Saturday stormed a stadium in eastern India after football star Lionel Messi left early during a packed event in Kolkata, sparking chaos, vandalism and arrests.",
+      "content_length": 174,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Steht das Verbrenner-Aus vor dem Aus? Fragen und Antworten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-faq-100.html",
+      "published": "2025-12-13T09:08:14",
+      "content": "   Die EU-Kommission erwägt Lockerungen beim Verbrenner-Aus und will am Dienstag dazu Vorschläge vorlegen. Wie ist der aktuelle Stand? Und wie steht die Bundesregierung dazu? Ein Überblick.[mehr]",
+      "content_length": 195,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lionel Messi’s India tour starts in chaos as angry fans throw seats in stadium",
+      "link": "https://www.theguardian.com/football/2025/dec/13/lionel-messi-india-tour-chaos-angry-fans-seats-pitch-kolkata",
+      "published": "2025-12-13T09:00:54",
+      "content": "Argentinian makes 20-minute appearance in KolkataSupporters climb fence and hurl objects from standsLionel Messi’s tour of India kicked off on a chaotic note on Saturday as fans ripped up seats and threw them towards the pitch after the Argentina and Inter Miami forward’s brief visit to the Salt Lake Stadium in Kolkata, the ANI news agency reported.Messi is in India as part of a tour during which he is scheduled to attend concerts, youth football clinics and a padel tournament, and launch charitable initiatives at events in Kolkata, Hyderabad, Mumbai and Delhi. Continue reading...",
+      "content_length": 587,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "20 US-Bundesstaaten verklagen Trump-Regierung wegen Visagebühren",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-visa-gebuehr-klage-100.html",
+      "published": "2025-12-13T08:37:35",
+      "content": "   Die USA sind auf qualifizierte Kräfte aus dem Ausland angewiesen. Doch die Visagebühr für sie kletterte von ein paar Tausend auf 100.000 Dollar. Das wollen Kalifornien und andere Staaten nicht akzeptieren.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rechnungshof bemängelt Aufarbeitung von Maskenkäufen wegen Corona",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrechnungshof-aufarbeitung-maskenkauf-100.html",
+      "published": "2025-12-13T08:29:57",
+      "content": "   Die Corona-Kommission des Bundestags befasst sich am Montag mit den umstrittenen Methoden zum Kauf von Masken. Nun kritisiert der Rechnungshof mangelnde Aufklärungsbereitschaft im Gesundheitsministerium - und fordert Konsequenzen für die Zukunft.[mehr]",
+      "content_length": 255,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Linting-Stack für Node-Projekte: Code-Qualität, Formatierung und Prosa-Linting",
+      "link": "https://www.heise.de/hintergrund/Linting-Stack-fuer-Node-Projekte-Code-Qualitaet-Formatierung-und-Prosa-Linting-11110378.html",
+      "published": "2025-12-13T07:34:00",
+      "content": "Ein dreistufiger Linting-Ansatz mit ESLint, Prettier und Vale verbessert Qualität von Code und Dokumentation in Astro-Projekten durch automatisiertes Prüfen.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "New Israeli barrier will slice through precious West Bank farmland",
+      "link": "https://www.theguardian.com/world/2025/dec/13/new-israeli-barrier-slice-through-precious-west-bank-farmland",
+      "published": "2025-12-13T07:00:26",
+      "content": "Palestinians who have worked the ‘breadbasket’ area for generations face being replaced by Israeli settlersThe death knell for the Palestinian village of Atouf, on the western slopes of the Jordan valley, arrived in the form of a trail of paper, a series of eviction notices taped to homes, greenhouses and wells, marking a straight line across the open fields.The notices, which appeared overnight, informed the local farmers that their land would be confiscated and that they had seven days from the date of their delivery, 4 December, to vacate their properties. A military road and accompanying barrier was to be built by Israel right through the area. Continue reading...",
+      "content_length": 676,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Who’s it going to be next time?’: ECHR rethink is ‘moral retreat’, say rights experts",
+      "link": "https://www.theguardian.com/law/2025/dec/13/europe-echr-rethink-moral-retreat-say-human-rights-experts",
+      "published": "2025-12-13T06:00:27",
+      "content": "As 27 European countries urge changes to laws forged after second world war, human rights chief says politicians are playing into hands of populistsThe battle had been brewing for months. But this week it came to a head in a flurry of meetings, calls and one heady statement. Twenty-seven European countries urged a rethink of the human rights laws forged after the second world war, describing them as an impediment when it came to addressing migration.Amnesty International has called it “a moral retreat”. Europe’s most senior human rights official said the approach risked creating a “hierarchy of people” where some are seen as more deserving of protection than others. Continue reading...",
+      "content_length": 694,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Kim Jong-un admits North Korean troops clearing landmines for Russia",
+      "link": "https://www.theguardian.com/world/2025/dec/13/north-korea-troops-cleared-landmines-russia-kim-jong-un",
+      "published": "2025-12-13T05:17:11",
+      "content": "Leader praises his soldiers for turning ‘danger zone into a safe one’ during ceremony in Pyongyang welcoming them back from Ukraine warNorth Korea sent troops to clear mines in Russia’s Kursk region earlier this year, leader Kim Jong-un said in a speech carried on Saturday by state media, a rare acknowledgement by Pyongyang of the deadly tasks assigned to its deployed soldiers.According to South Korean and western intelligence agencies, North Korea has sent thousands of troops to support Russia’s nearly four-year invasion of Ukraine. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Will other countries follow Australia’s social media ban for under-16s?",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/13/will-other-countries-follow-australia-social-media-ban-under-16s",
+      "published": "2025-12-13T05:00:23",
+      "content": "Several European nations are already planning similar moves while Britain has said ‘nothing is off the table’Australia is taking on powerful tech companies with its under-16 social media ban, but will the rest of the world follow? The country’s enactment of the policy is being watched closely by politicians, safety campaigners and parents. A number of other countries are not far behind, with Europe in particular hoping to replicate Australia, while the UK is keeping more of a watchful interest. Continue reading...",
+      "content_length": 519,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zunehmende Entfremdung zwischen Israel und Ägypten",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-aegypten-beziehungen-100.html",
+      "published": "2025-12-13T04:56:57",
+      "content": "   Israels Plan, einen Grenzübergang vom Gazastreifen zu Ägypten zu öffnen, alarmiert die Regierung in Kairo. Sie fürchtet hohe Flüchtlingszahlen. Die Spannungen rufen auch die USA auf den Plan. Von J. Segador.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Machtkampf zwischen Rom und EZB: Wem gehört Italiens Goldschatz?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/italien-gold-reserven-ezb-100.html",
+      "published": "2025-12-13T04:44:06",
+      "content": "   Ein umstrittener Plan der Meloni-Regierung zu den italienischen Goldreserven alarmiert die Europäische Zentralbank. Kritiker fürchten einen Präzedenzfall, der das gesamte Euro-System ins Wanken bringen könnte. Von A. Göpfert.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Venezuela oil exports reportedly fall sharply after US seizure of tanker",
+      "link": "https://www.theguardian.com/world/2025/dec/13/venezuela-oil-exports-reportedly-fall-sharply-after-us-seizure-of-tanker-skipper",
+      "published": "2025-12-13T03:35:45",
+      "content": "The seizure of the Skipper on Wednesday marked the first US capture of Venezuelan oil cargo since sanctions were imposed in 2019Venezuelan oil exports have reportedly fallen sharply since the US seized a tanker this week and imposed fresh sanctions on shipping companies and vessels doing business with Caracas, according to shipping data, documents and maritime sources.The US seizure of the Skipper tanker off Venezuela’s coast on Wednesday was the first US capture of Venezuelan oil cargo since sanctions were imposed in 2019 and marked a sharp escalation in rising tensions between the Trump administration and the government of Nicolás Maduro. Continue reading...",
+      "content_length": 668,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US scolds Rwanda for breaking peace deal as M23 rebels seize key Congo city",
+      "link": "https://www.theguardian.com/world/2025/dec/13/us-accuses-rwanda-of-violating-peace-deal",
+      "published": "2025-12-13T02:58:32",
+      "content": "Mike Waltz warns ‘spoilers’ will be held to account as rebel fighters escalate offensive in South Kivu provinceThe US has accused Rwanda of violating a US-brokered peace agreement by backing a deadly new rebel offensive in the mineral-rich eastern Congo, and warned action will be taken against “spoilers”.The remarks by the US ambassador to the UN, Mike Waltz, came as more than 400 civilians have been killed since the Rwanda-backed M23 rebels escalated their offensive in eastern Congo’s South Kivu province, according to officials who also say Rwandan special forces were in the strategic city of Uvira. Continue reading...",
+      "content_length": 627,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sydney man charged with threatening to kill communications minister Anika Wells and her family",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/13/sydney-man-charged-with-threatening-to-kill-anika-wells-and-her-family-ntwnfb",
+      "published": "2025-12-13T01:51:30",
+      "content": "Bankstown man, 31, allegedly sent two emails to the communication minister’s office in late November making direct threatsGet our breaking news email, free app or daily news podcastA Sydney man has been charged with threatening to kill government minister Anika Wells and her family.A 31-year-old Bankstown man allegedly sent two emails to Wells’ office in late November making direct threats to kill her and members of her family. Continue reading...",
+      "content_length": 451,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Demokraten veröffentlichen weitere Fotos aus den Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-fotos-demokraten-100.html",
+      "published": "2025-12-13T01:34:46",
+      "content": "   In der Affäre um den US-Sexualstraftäter Epstein haben Kongressabgeordnete der Demokraten weitere Fotos aus dessen Nachlass veröffentlicht. Neben Präsident Trump sind darauf weitere bekannte Persönlichkeiten zu sehen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bethlehem begeht wieder feierliche Vorweihnachtszeit",
+      "link": "https://www.tagesschau.de/ausland/asien/bethlehem-weihnachtszeit-100.html",
+      "published": "2025-12-13T01:23:34",
+      "content": "   Zum ersten Mal seit drei Jahren erstrahlt wieder der Weihnachtsbaum auf dem Krippenplatz in Bethlehem. Für viele Menschen ein emotionaler Moment. Sie sehnen sich nach einer friedlichen Vorweihnachtszeit. Von J. Segador.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Wie ein gesunder Lebensstil das Herz schützt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/praediabetes-blutzucker-herz-100.html",
+      "published": "2025-12-12T23:38:17",
+      "content": "   Nicht nur Cholesterin und Blutdruck sind wichtig: Eine neue Studie zeigt, dass auch die Behandlung von Diabetes-Vorstufen wichtig für die Herzgesundheit ist. Aber gesundes Essen und Bewegung helfen nicht bei allen gleich gut. Von Ulrike Till.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The best instant cameras you can buy right now",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2025-12-12T23:31:40",
+      "content": "\n\n\n\t\n\t\t\n\nEven with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured by an instant camera aren’t as pristine or perfect as those produced by modern digital cameras, but their soft images and imperfections are often a big part of the allure.\n\nYet not all instant cameras are the same, and some of them are better suited for different needs and budgets. That’s why we tested some of the most popular instant cameras on the market from brands like Fujifilm, Polaroid, Leica, Canon, Kodak, and others.\n\nAll the models featured in our instant camera buying guide are enjoyable to use, but each offers a distinct set of features at a different price point. As a result, some are more appropriate for a child or budding photographer, while others are more advanced and provide added creative control (for a price). When it comes down to it, though, we consider print quality, ease of use, and affordability to be the hallmarks of a quality shooter. That’s why we picked Fujifilm’s Instax Mini 12 as the best instant camera for most people, as it ticks all three boxes wonderfully.\n\n\n\nIf you’re looking for more creative control or features like filters, however, the Instax Mini Evo is our choice, one that boasts great image quality and allows you to choose which photos you’d like to print. Other instant cameras, like Kodak’s Mini Retro 3, also offer a variety of advanced creative modes for those who desire more.\n\nTake a look at this list of our instant camera recommendations to find the best fit for you.\n\nThe best instant camera for most people\nFujifilm Instax Mini 12\n\nScore: 8ProsConsProduces relatively true-to-life photosTerrific ease of useVery affordableInstax film can get priceyMinimal creative controlFlash can be overpowering\nWhere to Buy: $93.95 $87.75 at Amazon $93 $92 at Walmart $93.99 at Best Buy\nFilm type: Fujifilm Instax Mini film (sold separately) / Film size: 2 x 3-inches / Weight: 306 grams / Charging method: AA batteries / Companion app: None / Other features: Built-in selfie mirror, film counter\n\nIf all you’re looking to do is just click a button and get a decent print for a reasonable price, we recommend Fujifilm’s Instax Mini 12. It’s a basic instant camera that’s similar to our former pick, the Instax Mini 11, but with some minor updates. It still takes less than five minutes to start shooting, but the setup process is easier since all you need to do is twist the lens to either “on” or “off.” Such ease of use, combined with the camera’s thinner build, makes it particularly well suited for those new to photography and kids.\n\nFor an instant camera, image quality is also better than most of the other cameras I tested, producing relatively true-to-life photos. Most of the cameras I tested struggled to capture low-light conditions well, and this one is no exception, but the built-in flash does help. Fujifilm claims the Mini 12 optimizes image quality in both dark and bright environments better than its predecessor, but I didn’t notice much of a difference. The flash — which you can’t disable — is also still overpowering in some instances, resulting in a few overexposed images. If anything, the photos actually seemed a little darker and less vivid than before.\n\nHowever, at least the Instax Mini 12 captured my features and skin color more accurately when I used the included selfie feature — which is really just a small mirror mounted on the front of the camera.\n\nYou can also now zoom in a little easier thanks to a new lens structure, which you can twist to enter the Close-Up Mode in lieu of pressing a button. When in this mode, you can take advantage of the camera’s new&nbsp;“Parallax Correction” feature, which is supposed to result in a more aligned photo. The lens was fun to play with and reminded me of a traditional point-and-shoot, but actually using it to take quality photos takes some time to figure out. As with the Mini 11, it’s still somewhat tricky to center your subject in the frame using this mode, even with the updated lens. Thankfully, it became easier to properly align photos after a couple of attempts (as well as some composition guidance from the manual).\n\nThe Mini 12 also offers a number of other niceties. I appreciated the larger-than-average viewfinder and the fact that the camera comes with a small counter that displays the remaining number of shots, which is a feature many of the other instant cameras I tested lacked. It’s easy to lose track of how many photos you’ve taken, especially when out for drinks or while sightseeing on vacation. Yet given each print costs about $1, it’s important to be mindful of how many shots you’ve got left.\n\nAll in all, the Instax Mini 12 is a basic camera that caters to all ages and experience levels and gets the job done — and done relatively well. It doesn’t feature Bluetooth or pair with a companion app that allows you to edit photos (only scan them), and it also doesn’t offer advanced features like filters, lens options, or portrait modes. But if you’re looking for an instant camera that offers a great traditional analog experience, this is it.\n\nBest premium instant camera\nFujifilm Instax Mini Evo\n\nScore: 8ProsConsGreat use of dials and buttonsLots of printing flexibilityGood battery lifeInternal storage is limitedMicro USB port is annoyingNo viewfinder\nWhere to Buy: $234 at Amazon $234 at B&amp;H Photo $234.99 at Best Buy\nFilm type: Fujifilm Instax Mini film (sold separately) / Film size: 2 x 3-inches / Weight: 285 grams / Charging method: USB-C (on newer models) / Companion app: Yes / Other features: LCD screen, smartphone printing\n\nOne of Fujifilm’s newest instant cameras, the Instax Mini Evo, was a favorite of my former colleague Becca Farcase — and it’s mine as well. A hybrid camera that bears a resemblance to Fujifilm’s more expensive Fujifilm X100 line of cameras, it looks good and boasts vintage dials and buttons so stylish that they even caught the attention of passersby as I walked around Los Angeles taking photos. I tested the black camera, but Fujifilm also sells a brown version and limited edition models in silver and gold.\n\nIt’s easy to balk at its $216.95 price tag, but this camera offers a level of flexibility that could save you money in the long run if you use it a lot. That’s because the Instax Mini Evo includes a full-color three-inch LCD screen that lets you preview and select which images you want to print, which can help you avoid wasting film on unwanted shots. The added flexibility gave me more room for creative experimentation, too, as I wasn’t worried about running out of film. I also loved using the Instax Mini Evo app to print photos from my smartphone. Plus, unlike the Instax Mini 12, the Evo now uses a USB-C port (though older black models still use the Micro USB port) for charging, so you don’t need to keep buying new batteries.\n\nUnlike Fujifilm’s Instax Mini 12, the Mini Evo comes with a few extra features that can help you capture better photos. For example, you can actually turn off the flash on the Mini Evo and use the three-inch LCD screen as a viewfinder. You can also use the menu to adjust how bright you want the film to look when it’s printed out, which was helpful given neither the Evo nor the Mini 12 are particularly great at capturing dark environments.\n\nAdditionally, there are dials you can use to apply various lens options and filters, ranging from retro to monochrome shades, as well as a mirror lens, vignette, soft focus, and more. You can take app-based remote shots, too, which adds an extra element of photographic control that can help you take better selfie shots than the selfie mirror in the front.\n\nOf course, it’s not a perfect device, and there are some downsides to consider outside the price. For instance, although you can add some filters and make a few edits using Fujifilm’s companion app, it just isn’t as feature-rich as some of the apps available for the other digital and hybrid instant cameras I tested. The Evo’s extensive menu system isn’t particularly easy to navigate, either, and it took me some time to figure out how to turn the flash on and off. Plus, if you rely on internal storage solely, you can only take 45 images before the device is full. Still, all of these are minor issues, and I was very happy overall with how portable the stylish camera is, as well as how easy it is to take good photos quickly.\n\nRead our Fujifilm Instax Mini Evo review.\n\nThe best instant camera for social occasions\nKodak Mini Shot 3 Retro\n\nScore: 6ProsConsLets you print photos from your phoneEntertaining companion appComes with filmSo-so image quality Unable to store imagesNot as stylish as the Instax Mini Evo\nWhere to Buy: $169.99 $131.74 at Walmart (with eight sheets) $169.99 $154.99 at Amazon (with eight sheets) $169.99 $154.99 at Kodak (with eight sheets)\nFilm type: Kodak Instant Print 3 x 3-inch cartridge (included) / Film size: 3 x 3-inch square prints / Weight: 467 grams / Charging method: Micro USB / Companion app: Yes / Other features: LCD screen, smartphone printing\n\nWhereas the Instax Mini Evo’s companion app is more functional, Kodak’s hybrid Mini Shot 3 Retro is all about fun. The camera’s accompanying mobile app allows you to apply frames, stickers, filters, and a plethora of customization options to photos, making the camera great for scrapbooking. There’s even a beauty feature within the app to conceal blemishes, as well as a set of Snapchat-like filters you can use to add, say, dog ears, making this a fun instant camera to use as a mini photo booth of sorts at parties.\n\nLike the Instax Mini Evo, Kodak’s Mini Shot 3 Retro comes with an LCD screen (albeit a much smaller one) you can use to decide whether or not you want to print a shot. It also supports Bluetooth, and you can use the Kodak Photo Printer app to upload photos to social media or print decent, relatively crisp photos from your smartphone. Unlike the Mini Evo, however, Kodak’s Mini Shot 3 Retro retails for around $170 and includes a pack of a film (it’s also often on sale for a lot less). It also uses cheaper film; you can currently pick up a 60-sheet cartridge for about $17.99, which equates to roughly $0.33 a shot. The fact that the film is cheaper arguably encourages play and creative experimentation, even if the large 3 x 3-inch square prints feel lower in quality and more flimsy than both Fujifilm’s and Polaroid’s.\n\nHowever, there are notable drawbacks to the Kodak Mini Shot 3. My biggest issue is that the resulting prints of photos taken with the camera aren’t nearly as crisp or clear as those taken with a smartphone. Photo quality wasn’t consistently as good as the Mini Evo’s or Mini 12’s nor, for the most part, as clear and sharp. The photos also sometimes had an excessive pink tint that can interfere with quality. It doesn’t store images the way the Mini Evo does, either, which means you can’t decide whether you’d like to print them later. It’s also noticeably heavier than the Mini Evo and, frankly, nowhere near as stylish.\n\nNonetheless, if you don’t mind compromising on photo quality and want a relatively affordable hybrid camera with fun app features, the Kodak Mini Shot 3 Retro is a good choice.\n\nThe best instant camera for retro fans\nPolaroid Flip\nThe Polaroid Flip is a great instant camera for retro fans that prints vintage-style photos and offers modern conveniences like USB-C. It also features a variety of creative modes via the companion app, making it a solid choice for artistic photography as well. \n\nScore: 7ProsConsAttractive, retro designPrints dreamy, vintage-style photos that are relatively sharp for a Polaroid photoSeveral creative modesUSB-CStruggles in low lightFilm takes up to 15 minutes to developBulky and relatively heavy\nWhere to Buy: $219.99 $199.99 at Amazon $219.99 $184.99 at Polaroid $219.99 $186.99 at Best Buy\nFilm type:&nbsp;Polaroid i-Type Color Film (sold separately) /&nbsp;Film size:&nbsp;4.2 x 3.5-inch prints /&nbsp;Weight:&nbsp;648 grams /&nbsp;Charging method:&nbsp;USB-C /&nbsp;Companion app:&nbsp;Yes /&nbsp;Other features:&nbsp;Flip-up lid, scene analysis feature\n\nIf you’re looking for an instant camera that offers the most old-fashioned, instant-film experience, the Polaroid Flip is the camera for you. It resembles vintage instant cameras like the Polaroid 600 more than any other camera on our list, thanks to its classic, retro-inspired design and flip-up lid. Its square I-Type film prints and iconic white frame give photos an authentically vintage look, while modern touches like Bluetooth, USB-C charging, and a beginner-friendly companion app add greater convenience and creative control.\n\nCompared to the third-gen Polaroid Now Plus, my former retro pick, the Flip delivers clearer shots with fewer wasted photos, making the extra $50 worthwhile given that eight I-Type sheets are a spendy $16.99. The increased clarity can be attributed to several factors, including the Flip’s sonar autofocus and a four-lens hyperfocal system — which result in sharper, more focused images — along with its excellent flash. It’s the most powerful of any Polaroid camera, and while it can sometimes overexpose images, you can adjust exposure directly from the camera or app. The Scene Analysis feature also helps by warning if a shot is likely to be over- or underexposed, or if you’re too close to your subject. In my experience, the warnings didn’t always prevent overexposure, but they did leave me with shots that looked less blown than those from the Now Plus.\n\nIf there’s one thing the Polaroid Flip isn’t known for, it’s portability. Given it’s relatively heavy and awkwardly sized, it’s not the kind of instant camera you can easily slip into your purse or carry around. Additionally, it takes up to 15 minutes for prints to develop, and you must ensure they’re not exposed to light during this process. That’s quite an inconvenience if you’re out with friends, say, at the beach on a sunny day.&nbsp;\n\nLow-light performance is another weak spot. Although it does a better job than the Now Plus, I still struggled to capture crisp indoor shots. Even in daylight, both contrast and color saturation levels are lower in comparison to Instax film. Admittedly, this gave my pictures a more dreamy, vintage look that felt artistic, and you can use the Polaroid Lab to slightly adjust the saturation and exposure settings. However, doing so is time-consuming.&nbsp;\n\nTruth be told, however, you could argue that many of these shortcomings are typical of a retro Polaroid-inspired instant camera and, thus, part of the experience. If that’s what you’re looking for, the Polaroid Flip is the perfect camera for you.\n\n\n\nThe best instant camera for portability\nPolaroid Go (second-gen)\n\nScore: 7ProsConsTiny and lightweightPrints vintage-like photos just like the Polaroid FlipUSB-C chargingStruggles in low lightFilm takes up to 15 minutes to developNo Bluetooth support or companion app\nWhere to Buy: $89.99 $75.99 at Amazon $89.99 $79.99 at Best Buy  $89.99 $79.99 at Polaroid\nFilm type: Polaroid i-Type Color Film (sold separately) / Film size: 2.6 x 2.1-inch prints / Weight: 239 grams / Charging method: USB-C / Companion app: No / Other features: Self-timer, selfie mirror, film counter\n\nWhereas the Polaroid Flip is huge, the second-gen Polaroid Go is tiny. It easily fits into the palm of my hand — which is saying a lot, given I’m petite and a little over five feet tall — making it easily the most portable instant camera on our list. It also produces the smallest prints of all the instant cameras I tested, which could be nice if you’re trying to save some space and want something more compact than Instax Mini prints.\n\nWeighing just over a pound, the latest Polaroid Go is also the lightest instant camera I’ve ever held, and you can easily use it with one hand. That’s actually pretty convenient, given I sometimes struggled to take pictures with the heavier Polaroid Flip and, to a lesser extent, some of the other instant cameras I tested. In fact, if the images produced looked more true-to-life and didn’t require you to hide them from light for about 15 minutes while developing, I’d be tempted to call this the best instant camera for travel or small children.\n\nAt $89.99, the latest Polaroid Go is the most affordable Polaroid camera on the market, even with its recent $10 price increase. Its film also costs just a little more than Fujifilm’s Instax Mini shots (or about $19.99 for a 16-sheet pack). The camera also sports a small number of upgrades over the last-gen model despite retailing for less. The most significant is USB-C support, which allows for faster charging and prevents you from having to spend money on AA batteries.\n\nPolaroid also claims the camera produces clearer stills than its predecessor, but truthfully, I didn’t see a significant difference from one generation to the next. The photos are a little brighter, but if anything, the original Polaroid Go produced warmer pictures that I thought were truer to life. Still, the photos are charming in the way only a Polaroid photo can be. Contrast and color saturation levels are still low but in a way that exudes the vintage, almost dreamy look of the photos taken with the Flip.\n\nUnlike the Flip, however, the Go lacks creative modes and more advanced features, although it does offer a helpful self-timer and a larger selfie mirror. There’s also no Bluetooth support and, thus, no fancy app that will allow you to add extra effects. Instead, it’s just a simple point-and-shoot camera, just like the Instax Mini 12, which makes it a little easier to use. In addition, as mentioned, the prints are smaller than those of the Instax Mini, which could be a drawback for those who prefer larger, more traditional Polaroid photos. While it produces similar vintage-style shots, design-wise, it doesn’t look anything like old-school Polaroid cameras, which could also take away from the retro experience some desire.\n\nThat said, none of the older Polaroid cameras came with an app, either. All in all, the Go’s simplicity makes it a suitable candidate for those seeking an easy-to-use camera that provides a more traditional instant film experience — one they can take advantage of just about anywhere for less than half the price of the Polaroid Flip.\n\nOther instant cameras to consider\n\nInstax Mini 41\n\nIn April, Fujifilm announced the $116.95 Instax Mini 41, the long-awaited follow-up to the Mini 40. The updated model retains the retro design found on the prior model but introduces parallax correction, a feature borrowed from the Instax Mini 12 to help users avoid off-center shots when taking close-ups.\n\nIt didn’t take long testing the Mini 41 for me to realize it’s simply the Mini 12 for adults. With its black-and-silver body and flatter, squarer edges, the Mini 41 looks sleeker and more stylish. The two cameras are nearly identical, aside from the design, with the same solid photo quality and feature set. Both battery-powered options turn on with a simple twist of the lens, and each comes equipped with a selfie mirror, a close-up mode, and a flash (which cannot be disabled).\n\nThere are a few subtle upgrades to the Mini 41, however. A textured grip in the front makes it easier to hold, and its shape makes shooting in landscape mode more comfortable. But those are small differences, and at their core, the cameras offer the same experience. Since the Instax Mini 12 retails for less, I ultimately believe it’s the better value; however, if a fashionable, mature look appeals to you, the Mini 41 is a great alternative, especially if you can find it on sale.\n\nInstax Mini 99\n\nIf you’re looking for an advanced analog instant camera, Fujifilm’s Instax Mini 99 is one to consider. At $234.95, Fujifilm’s latest instant camera is not as affordable as the Instax Mini 12 or the Mini 41, but it’s certainly a step up from the one-button point-and-click cameras given it has multiple brightness settings, focus zones, color effects, and even two shutter buttons for greater creative control. The camera even comes with a tripod socket and an aluminum extension column, as well as a Sports Mode designed to further reduce blur while capturing fast-moving subjects.\n\nThanks to the added level of customization, I was able to capture higher-quality photos that looked truer to life than those from the Instax Mini 12, Mini 41, and Mini Evo. Granted, the Mini 99 is an analog camera and not a hybrid like the Evo, meaning you shouldn’t buy it if you also want to print smartphone photos. The newer model is also less user-friendly than the Mini 12 and Mini 41, so I wouldn’t recommend it for young children. Still, for an advanced analog instant camera, it’s relatively easy to set up and use, rendering it as much fun for budding photographers as more experienced shooters.&nbsp;\n\nKodak Smile Plus\n\nThe Kodak Smile Plus is another hybrid instant camera that allows you to print smartphone photos. It’s smaller and less expensive than Kodak’s Mini Shot 3 Retro 3 at $129.99, and it’s available in a variety of vibrant colors that should appeal to children. It also comes with a physical filter-changing lens and prints on Zinc paper, allowing you to use your photos as stickers. \n\nHowever, it lacks a built-in display, so you can’t choose which images you want to print directly on the camera itself. This often results in more wasted shots, especially since image quality is so-so at best, even when compared to those of the Retro 3. Photos are nowhere near as clear as the Instax Mini 12’s, either, especially in areas that are either too bright or too dark. \n\nThat being said, the Smile Plus does offer a microSD card slot, so you can store and view photos elsewhere. It pairs with an app that’s similar to the Retro 3’s as well, and although the software is not as snappy or feature-rich, it still allows you to add a variety of filters and frames. Ultimately, I’d recommend the Retro 3 since it can often be found for less than $120, but the Smile Plus is a good, budget-friendly alternative.\n\nLeica Sofort 2\n\nFrom photo quality to the lever you pull to print photos, Leica’s Sofort 2 is a terrific camera that’s remarkably similar to the Instax Mini Evo. In all of my tests, the photos I took with both looked identical. The two hybrid cameras also print smartphone photos via Instax Mini film and offer 10 film and lens effects, along with a macro mode for those who want more creative control. The Sofort 2’s minimalistic look is stylish, too, even if it’s not as charming as the retro-inspired Evo.\n\nThe drawback to the Sofort 2 is that it’s twice the price of the Evo. It’s challenging to recommend at $399, as most people would likely consider the differences between the two cameras relatively minor. The user interface is easier to navigate on the Leica, though, and I appreciate the included lens cap and extended two-year warranty. I also appreciate that it allows you to print photos taken with other Leica cameras via the companion app — a nice perk for Leica fans. Nonetheless, I don’t think those perks are enough to justify spending nearly $200 more.\n\nInstax Square SQ1\n\nWhile it didn’t make the cut, the Instax Square SQ1 is also worth a brief mention. Like the Mini 12, the Square SQ1 produces good-quality shots, is easy to set up and use, and features a built-in selfie mirror. The reason we didn’t include it above, however, is that it costs nearly twice as much as the Mini 12 at $159.95, though we do sometimes see it on sale for $100.\n\nThat said, it might be worth a look if you prefer large 2.4 x 2.4-inch square prints and relatively true-to-life photos over vintage-looking stills. After all, the SQ1 is still cheaper than the Polaroid Flip and produces higher-quality images than the Kodak Mini Shot 3 Square Retro, which also prints similarly sized square shots.\n\nFujifilm also sells the newer Instax Square SQ40. It’s similar to the Instax Square SQ1 but with a vintage look that’s more visually striking, yet it’s also more expensive at $199.95. Given it produces similarly good-quality photos, I’d recommend the Instax Square SQ1 or the more capable Instax Mini Evo for $50 more.\n\nInstax Wide Evo Hybrid\n\nFujifilm’s Instax Wide Evo Hybrid is nearly identical to the Instax Mini Evo. You can use it to print photos directly from your smartphone, though the $409.95 camera also comes with a 15.67mm lens — the widest used on any Instax camera — for taking wide-format pictures. \n\nUltimately, I preferred the smaller, more travel-friendly Mini Evo, but if you’re into wide prints (and don’t mind spending twice as much), the Wide Evo Hybrid is rather fun. The photo quality is solid and on par with both the Instax Mini Evo and Instax Mini 12. The main difference is that the Wide Evo’s lens captures a broader field of view. It also offers a few additional lenses and film effects, giving users a bit more creative control. I especially liked the Degree Control feature, which lets you fine-tune the intensity of each lens effect applied to your image.\n\nPlus, unlike the Wide 400, the Wide Evo Hybrid is a hybrid camera equipped with an LCD screen — a helpful feature that can reduce wasted shots. However, at $409.95, it costs significantly more than both the Mini Evo and the Wide 400. My other main complaint is that there’s a slight delay between pressing the shutter and the photo being taken — something I didn’t notice with the Mini Evo. It’s not a dealbreaker, but it can be frustrating when trying to capture fast-moving subjects, such as a dog or hyperactive toddler.\n\nInstax Wide 400\n\nIf you’re into wide-format instant cameras but don’t want to spend $409.95 — or prefer a more traditional analog experience — the $175.95 Instax Wide 400 is a solid pick. The basic point-and-shoot produces similar photos to the Wide Evo, and in some ways, it’s easier to use, thanks to its stripped-down feature set. That simplicity, however, comes at the cost of customization, making it harder to capture the perfect shot. It also swaps an LCD display for a large viewfinder and is noticeably heavier than the Instax Mini Evo. Nonetheless, if you’re after wide prints at a more affordable price, it’s a worthwhile option.\n\nWhat’s coming next\n\nI’m currently having a lot of fun testing Fujifilm’s new Instax Mini LiPlay Plus. Like most of Fujifilm’s instant cameras, it’s extremely easy to use and produces relatively true-to-life photos. The $234.99 hybrid camera also features a 3-inch LCD screen on the back, along with a second, rear-facing wide-angle lens designed specifically for selfies. This dedicated selfie camera, combined with the LCD screen, results in some of the best — and most precise — selfies I’ve captured with an instant camera to date.\n\nIt has a few other standout features as well. The new layered photo mode lets you combine images from both cameras into a single shot. I’m still testing it, but so far it feels a bit gimmicky, essentially placing a selfie in front of a background image with no way to reposition or resize it, which limits its appeal. The camera can also record short audio clips, with a dedicated button near the screen that makes it easy to use. I haven’t yet had a chance to use that feature meaningfully, but I’ll share more thoughts once I’ve spent some more time with it.\n\nUpdate, December 12th: Updated to reflect current pricing / availability and mentioned my thoughts regarding the new Instax Mini LiPlus.",
+      "content_length": 27658,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
+      "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+      "published": "2025-12-12T22:16:42",
+      "content": "With the popularity of AI coding tools rising among some software developers, their adoption has begun to touch every aspect of the process, including the improvement of AI coding tools themselves.\nIn interviews with Ars Technica this week, OpenAI employees revealed the extent to which the company now relies on its own AI coding agent, Codex, to build and improve the development tool. “I think the vast majority of Codex is built by Codex, so it’s almost entirely just being used to improve itself,” said Alexander Embiricos, product lead for Codex at OpenAI, in a conversation on Tuesday.\nCodex, which OpenAI launched in its modern incarnation as a research preview in May 2025, operates as a cloud-based software engineering agent that can handle tasks like writing features, fixing bugs, and proposing pull requests. The tool runs in sandboxed environments linked to a user’s code repository and can execute multiple tasks in parallel. OpenAI offers Codex through ChatGPT’s web interface, a command-line interface (CLI), and IDE extensions for VS Code, Cursor, and Windsurf.Read full article\nComments",
+      "content_length": 1106,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Parents call for New York governor to sign landmark AI safety bill",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+      "published": "2025-12-12T22:16:09",
+      "content": "\n\n\n\t\n\t\t\n\nA group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a buzzy bill that would require developers of large AI models - like Meta, OpenAI, Deepseek, and Google - to create safety plans and follow transparency rules about reporting safety incidents.\nThe bill passed in both the New York State Senate and the Assembly in June. But this week, Hochul reportedly proposed a near-total rewrite of the RAISE Act that would make it more favorable to tech companies, akin to some of the changes made to California's  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/",
+      "published": "2025-12-12T21:35:44",
+      "content": "If you’ve been too busy floating in your new WoW house to take part in this year’s Ars Technica Charity Drive sweepstakes, don’t worry. You still have time to donate to a good cause and get a chance to win your share of over $4,000 worth of swag (no purchase necessary to win).\nIn the first two days or so of the drive, over 200 readers have contributed over $11,000 to either the Electronic Frontier Foundation or Child’s Play as part of the charity drive (Child’s Play has a roughly 60/40 donation lead at the moment). That’s still a long way off from 2020’s record haul of over $58,000, but there’s still plenty of time until the Charity Drive wraps up on Friday, January 2, 2026.\nThat doesn’t mean you should put your donation off, though. Do yourself and the charities involved a favor and give now while you’re thinking about it.Read full article\nComments",
+      "content_length": 861,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Söder über schwaches Wahlergebnis: \"Man hat immer gern ein bisschen mehr\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-interview-100.html",
+      "published": "2025-12-12T20:53:50",
+      "content": "   Das schwache Ergebnis bei seiner Wiederwahl hat CSU-Chef Söder in den tagesthemen mit einer allgemeinen Verunsicherung erklärt. Auch die Rentenentscheidung wirke nach. Inhaltlich verspüre er aber großen Rückhalt.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google Translate expands live translation to all earbuds on Android",
+      "link": "https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/",
+      "published": "2025-12-12T20:44:35",
+      "content": "Google has increasingly moved toward keeping features locked to its hardware products, but the Translate app is bucking that trend. The live translate feature is breaking out of the Google bubble with support for any earbuds you happen to have connected to your Android phone. The app is also getting improved translation quality across dozens of languages and some Duolingo-like learning features.\nThe latest version of Google’s live translation is built on Gemini and initially rolled out earlier this year. It supports smooth back-and-forth translations as both on-screen text and audio. Beginning a live translate session in Google Translate used to require Pixel Buds, but that won’t be the case going forward.\nGoogle says a beta test of expanded headphone support is launching today in the US, Mexico, and India. The audio translation attempts to preserve the tone and cadence of the original speaker, but it’s not as capable as the full AI-reproduced voice translations you can do on the latest Pixel phones. Google says this feature should work on any earbuds or headphones, but it’s only for Android right now. The feature will expand to iOS in the coming months. Apple does have a similar live translation feature on the iPhone, but it requires AirPods.Read full article\nComments",
+      "content_length": 1289,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU to freeze €210bn in Russian assets indefinitely",
+      "link": "https://www.theguardian.com/world/2025/dec/12/eu-to-freeze-210bn-in-russian-assets-indefinitely",
+      "published": "2025-12-12T20:18:20",
+      "content": "The decision is a significant step towards using the cash to aid Ukraine’s defence – but Moscow is threatening to retaliateThe EU has agreed to indefinitely freeze Russia’s sovereign assets in the bloc, as Moscow stepped up its threats to retaliate against Euroclear, the keeper of most of the Kremlin’s immobilised money.The decision by the EU to use emergency powers to immobilise €210bn (£185bn) of Russia’s central bank’s assets marks a significant step towards using the cash to aid Ukraine’s defence. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US treasury lifts sanctions on Brazilian judge who presided over Bolsonaro case",
+      "link": "https://www.theguardian.com/world/2025/dec/12/brazilian-judge-sanction-lifted-bolsonaro",
+      "published": "2025-12-12T20:07:27",
+      "content": "Justice Alexandre de Moraes and his wife had been under Global Magnitsky sanctions after conviction of ex-presidentThe US Department of the Treasury has lifted sanctions imposed on the Brazilian supreme court justice who oversaw the conviction of the former president Jair Bolsonaro.Justice Alexandre de Moraes had been under Global Magnitsky sanctions, which target individuals accused of human rights abuses, since July. His wife Viviane Barci de Moraes – who was added the sanctions list in September – was also removed from the register on Friday. Continue reading...",
+      "content_length": 571,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainians sue US chip firms for powering Russian drones, missiles",
+      "link": "https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/",
+      "published": "2025-12-12T19:49:27",
+      "content": "Dozens of Ukrainian civilians filed a series of lawsuits in Texas this week, accusing some of the biggest US chip firms of negligently failing to track chips that evaded export curbs. Those chips were ultimately used to power Russian and Iranian weapon systems, causing wrongful deaths last year.\nTheir complaints alleged that for years, Texas Instruments (TI), AMD, and Intel have ignored public reporting, government warnings, and shareholder pressure to do more to track final destinations of chips and shut down shady distribution channels diverting chips to sanctioned actors in Russia and Iran.\nPutting profits over human lives, tech firms continued using “high-risk” channels, Ukrainian civilians’ legal team alleged in a press statement, without ever strengthening controls.Read full article\nComments",
+      "content_length": 808,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "ARD-Korrespondentin zu Söder-Wahl: \"Es ist ein Raunen durch die Reihen gegangen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-soeder-eichmann-100.html",
+      "published": "2025-12-12T19:44:55",
+      "content": "   Das relativ schwache Ergebnis bei der Wiederwahl zum CSU-Chef sei von Markus Söder enttäuscht aufgenommen worden, berichtet ARD-Korrespondentin Eva Eichmann. Auch die Parteitagsdelegierten seien überrascht gewesen.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Colombian rebels warn civilians of military drills amid ‘imperialist’ Trump threats",
+      "link": "https://www.theguardian.com/world/2025/dec/12/colombia-eln-guerrilla-rebels-trump",
+      "published": "2025-12-12T19:34:31",
+      "content": "Citizens told to stay at home while ELN guerrillas carry out exercises in response to US president’s cocaine warningColombia’s ELN guerrilla group has ordered civilians in areas under its control to stay home for three days starting on Sunday, while it carries out military exercises in response to “intervention” threats from Donald Trump.The US president said earlier this month that any country that produces cocaine and sells it to the United States was “subject to attack”. Continue reading...",
+      "content_length": 498,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Söder als CSU-Parteichef wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-parteichef-wahl-100.html",
+      "published": "2025-12-12T19:02:18",
+      "content": "   CSU-Parteichef Söder ist mit 83,6 Prozent Zustimmung im Amt bestätigt worden. Damit holte er beim Parteitag in München sein bislang schlechtestes Ergebnis. Es gab keine Gegenkandidaten.[mehr]",
+      "content_length": 194,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "A study in contrasts: The cinematography of Wake Up Dead Man",
+      "link": "https://arstechnica.com/culture/2025/12/a-study-in-contrasts-the-cinematography-of-wake-up-dead-man/",
+      "published": "2025-12-12T18:58:12",
+      "content": "Rian Johnson has another Benoit Blanc hit on his hands with Wake Up Dead Man, in which Blanc tackles the strange death of a fire-and-brimstone parish priest, Monseigneur Jefferson Wicks (Josh Brolin). It’s a classic locked-room mystery in a spookily Gothic small-town setting, and Johnson turned to cinematographer Steve Yedlin (Looper, The Last Jedi) to help realize his artistic vision.\n(Minor spoilers below but no major reveals.)\nYedlin worked on the previous two Knives Out installments. He’s known Johnson since the two were in their teens, and that longstanding friendship ensures that they are on the same page, aesthetically, from the start when they work on projects.Read full article\nComments",
+      "content_length": 703,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump tries to block state AI laws himself after Congress decided not to",
+      "link": "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/",
+      "published": "2025-12-12T18:29:50",
+      "content": "President Trump issued an executive order yesterday attempting to thwart state AI laws, saying that federal agencies must fight state laws because Congress hasn’t yet implemented a national AI standard. Trump’s executive order tells the Justice Department, Commerce Department, Federal Communications Commission, Federal Trade Commission, and other federal agencies to take a variety of actions.\n“My Administration must act with the Congress to ensure that there is a minimally burdensome national standard—not 50 discordant State ones. The resulting framework must forbid State laws that conflict with the policy set forth in this order… Until such a national standard exists, however, it is imperative that my Administration takes action to check the most onerous and excessive laws emerging from the States that threaten to stymie innovation,” Trump’s order said. The order claims that state laws, such as one passed in Colorado, “are increasingly responsible for requiring entities to embed ideological bias within models.”\nCongressional Republicans recently decided not to include a Trump-backed plan to block state AI laws in the National Defense Authorization Act (NDAA), although it could be included in other legislation. Sen. Ted Cruz (R-Texas) has also failed to get congressional backing for legislation that would punish states with AI laws.Read full article\nComments",
+      "content_length": 1380,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "US ends temporary legal status for Ethiopians amid Trump crackdown",
+      "link": "https://www.theguardian.com/us-news/2025/dec/12/trump-ends-temporary-legal-status-ethiopia",
+      "published": "2025-12-12T17:51:33",
+      "content": "Kristi Noem says Ethiopia ‘no longer meets conditions’ for US to provide work authorization and legal protectionThe US is ending temporary legal status for citizens of Ethiopia in the United States, according to a government notice on Friday, as the Trump administration continues its crackdown on legal and illegal immigration.“After reviewing country conditions and consulting with appropriate US government agencies, the secretary determined that Ethiopia no longer continues to meet the conditions for the designation for Temporary Protected Status,” homeland security secretary Kristi Noem said in a notice posted in the Federal Register. Continue reading...",
+      "content_length": 663,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Organisierte Kriminalität: Das Geschäft mit dem illegalen Glücksspiel",
+      "link": "https://www.tagesschau.de/investigativ/rbb/gluecksspiel-organisierte-kriminalitaet-spielautomaten-100.html",
+      "published": "2025-12-12T17:42:19",
+      "content": "   Geldspielautomaten unterliegen in Deutschland strengen Regeln. Dennoch hat sich die organisierte Kriminalität in diesem Geschäftsfeld eingenistet und bundesweit Zehntausende illegale Spielautomaten aufgestellt - Tendenz steigend. Von K. Breinig.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nobel peace prize laureate Narges Mohammadi arrested in Iran",
+      "link": "https://www.theguardian.com/world/2025/dec/12/nobel-peace-prize-laureate-narges-mohammadi-arrested-iran",
+      "published": "2025-12-12T17:33:38",
+      "content": "Mohammadi ‘violently’ detained along with other activists at memorial event in Mashhad, her foundation saysThere are fears for the wellbeing of the 2023 Nobel peace prize winner, Narges Mohammadi, after she was detained by Iranian security forces at a memorial ceremony for a human rights lawyer in the eastern city of Mashhad.Mohammadi, 53, who was granted temporary leave from prison on medical grounds in December 2024, was newly detained along with several other activists at the memorial for Khosro Alikordi, who was found dead in his office last week. Continue reading...",
+      "content_length": 577,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Man shocks doctors with extreme blood pressure, stroke from energy drinks",
+      "link": "https://arstechnica.com/health/2025/12/man-shocks-doctors-with-extreme-blood-pressure-stroke-from-energy-drinks/",
+      "published": "2025-12-12T17:33:22",
+      "content": "Sometimes, downing an energy drink can feel like refueling your battery. But with too much, that jolt can turn into a catastrophic surge that fries the wiring and blows a fuse. That was the unfortunate and alarming case for a man in the UK several years ago, according to a case report this week in BMJ Case Reports.\nThe man, who was in his 50s and otherwise healthy, showed up at a hospital after the entire left side of his body abruptly went numb and he was left with clumsy, uncoordinated muscle movements (ataxia). His blood pressure was astonishingly high, at 254/150 mm Hg. For context, a normal reading is under 120/80, while anything over 180/120 is considered a hypertensive crisis, which is a medical emergency.\nThe man had suffered a mild stroke, and his extremely high blood pressure was an obvious factor. But why his blood pressure had reached stratospheric heights was far less obvious to his doctors, according to the retrospective case report written by Martha Coyle and Sunil Munshi of Nottingham University Hospital.Read full article\nComments",
+      "content_length": 1062,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Canada’s Liberals edge closer to majority after Conservative lawmaker crosses floor",
+      "link": "https://www.theguardian.com/world/2025/dec/12/canada-liberals-government-majority-conservative-michael-ma",
+      "published": "2025-12-12T17:28:55",
+      "content": "Rookie Michael Ma leaves Conservative party for ‘steady, practical approach’ of Mark Carney’s governmentCanada’s ruling Liberals have edged closer to a majority government after a Conservative lawmaker crossed the floor, in yet another blow to the struggling Tories.Rookie lawmaker Michael Ma said late on Thursday that he had decided to leave the Conservative party, for “the steady, practical approach” of prime minister Mark Carney’s government, which he said would “deliver on the priorities I hear every day, including affordability and the economy”. Continue reading...",
+      "content_length": 575,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie es mit der Ukraine-Diplomatie weitergeht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-diplomatie-118.html",
+      "published": "2025-12-12T17:22:21",
+      "content": "   Die Gespräche über ein Ende des Ukraine-Krieges laufen auf Hochtouren. Am Wochenende könnten europäische Politiker mit den USA verhandeln, am Montag wird Selenskyj in Berlin erwartet. Was über Inhalte und Zeitplan bekannt ist.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Flooding remains threat in Pacific north-west as Washington declares emergency",
+      "link": "https://www.theguardian.com/us-news/2025/dec/12/flood-water-rain-pacific-northwest-washington",
+      "published": "2025-12-12T17:01:22",
+      "content": "Torrential rain has caused mudslides, washed out roads and submerged vehicles with more deluges expected on SundayThe Pacific north-west is reeling from catastrophic flooding that inundated communities across the region this week, forcing tens of thousands of people to evacuate and prompting a federal emergency declaration.Torrential rain rapidly filled rivers and triggered flooding on Thursday from Oregon north through Washington state and into British Columbia, causing mudslides and tearing homes from their foundations. Authorities have closed dozens of roads in response to the emergency and issued evacuation warnings for 100,000 people. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj: Über Gebietsabtretungen sollen Ukrainer entscheiden",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-us-plan-100.html",
+      "published": "2025-12-12T16:40:19",
+      "content": "   Territorialfragen sind der Knackpunkt bei den Gesprächen über ein Kriegsende in der Ukraine. Aus Sicht von Selenskyj soll darüber allein das Volk entscheiden. Die USA bringen dem Präsidenten zufolge nun eine Freihandelszone ins Gespräch.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Niederlage für Trump: Republikaner in Indiana lehnen neue Wahlkreise ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-indiana-100.html",
+      "published": "2025-12-12T16:23:26",
+      "content": "   Es ist der ausdrückliche Wunsch des US-Präsidenten: In mehreren Bundesstaaten sollen Trumps Parteifreunde die Wahlkreise ändern, um Mehrheiten zu sichern. Doch in Indiana haben sich die Republikaner dem jetzt widersetzt.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Apple loses its appeal of a scathing contempt ruling in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "published": "2025-12-12T16:00:23",
+      "content": "Back in April, District Court Judge Yvonne Gonzalez Rogers delivered a scathing judgment finding that Apple was in “willful violation” of her 2021 injunction intended to open up iOS App Store payments. That contempt of court finding has now been almost entirely upheld by the Ninth Circuit Court of Appeals, a development that Epic Games’ Tim Sweeney tells Ars he hopes will “do a lot of good for developers and start to really change the App Store situation worldwide, I think.”\nThe ruling, signed by a panel of three appellate court judges, affirmed that Apple’s initial attempts to charge a 27 percent fee to iOS developers using outside payment options “had a prohibitive effect, in violation of the injunction.” Similarly, Apple’s restrictions on how those outside links had to be designed were overly broad; the appeals court suggests that Apple can only ensure that internal and external payment options are presented in a similar fashion.\nThe appeals court also agreed that Apple acted in “bad faith” by refusing to comply with the injunction, rejecting viable, compliant alternatives in internal discussions. And the appeals court was also not convinced by Apple’s process-focused arguments, saying the district court properly evaluated materials Apple argued were protected by attorney-client privilege.Read full article\nComments",
+      "content_length": 1339,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Senator endorses discredited doctor’s book that claims chemical treats autism, cancer",
+      "link": "https://arstechnica.com/health/2025/12/senator-endorses-discredited-doctors-book-that-claims-chemical-treats-autism-cancer/",
+      "published": "2025-12-12T15:33:32",
+      "content": "For years, Sen. Ron Johnson has been spreading conspiracy theories and misinformation about COVID-19 and the safety of vaccines.\nHe’s promoted disproven treatments for COVID-19 and claimed, without evidence, that athletes are “dropping dead on the field” after getting the COVID-19 vaccination. Now the Wisconsin politician is endorsing a book by a discredited doctor promoting an unproven and dangerous treatment for autism and a host of ailments: chlorine dioxide, a chemical used for disinfecting and bleaching.\nThe book is “The War on Chlorine Dioxide: The Medicine that Could End Medicine” by Dr. Pierre Kory, a critical care specialist who practiced in Wisconsin hospitals before losing his medical certification for statements advocating using an antiparasite medication to treat COVID-19. The action, he’s said, makes him unemployable, even though he still has a license.Read full article\nComments",
+      "content_length": 905,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Investors commit quarter-billion dollars to startup designing “Giga” satellites",
+      "link": "https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/",
+      "published": "2025-12-12T15:23:57",
+      "content": "A startup established three years ago to churn out a new class of high-power satellites has raised $250 million to ramp up production at its Southern California factory.\nThe company, named K2, announced the cash infusion on Thursday. K2’s Series C fundraising round was led by Redpoint Ventures, with additional funding from investment firms in the United States, the United Kingdom, and Germany. K2 has now raised more than $400 million since its founding in 2022 and is on track to launch its first major demonstration mission next year, officials said.\nK2 aims to take advantage of a coming abundance of heavy- and super-heavy-lift launch capacity, with SpaceX’s Starship expected to begin deploying satellites as soon as next year. Blue Origin’s New Glenn rocket launched twice this year and will fly more in 2026 while engineers develop an even larger New Glenn with additional engines and more lift capability.Read full article\nComments",
+      "content_length": 942,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Iranische Nobelpreisträgerin Mohammadi erneut festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/friedensnobelpreis-mohammadi-iran-100.html",
+      "published": "2025-12-12T15:07:08",
+      "content": "   Die iranische Friedensnobelpreisträgerin Mohammadi ist nach Angaben von Unterstützern erneut in Gewahrsam. Sie wurde demnach bei einer Gedenkfeier für einen Menschenrechtsanwalt abgeführt.[mehr]",
+      "content_length": 197,
+      "source": "Tagesschau Ausland",
+      "category": "German News"
+    },
+    {
+      "title": "Entwicklungsumgebung Eclipse IDE 2025-12: Java 25, JUnit 6, Multi-Release-JAR",
+      "link": "https://www.heise.de/news/Entwicklungsumgebung-Eclipse-IDE-2025-12-Java-25-JUnit-6-Multi-Release-JAR-11113811.html",
+      "published": "2025-12-12T14:33:00",
+      "content": "Das neue Quartals-Release der Open-Source-IDE unterstützt Programmieren mit den neuesten Sprachversionen: Java 25 inklusive JUnit 6, TypeScript 5.9 und PHP 8.5.",
+      "content_length": 160,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Indonesia floods were ‘extinction level’ disturbance for world’s rarest ape",
+      "link": "https://www.theguardian.com/world/2025/dec/12/indonesia-floods-extinction-level-rare-orangutan-tapanuli",
+      "published": "2025-12-12T13:42:26",
+      "content": "Conservationists fear up to 11% of Tapanuli orangutan population perished in disaster that also killed 1,000 peopleThe skull of a Tapanuli orangutan, caked in debris, stares out from a tomb of mud in North Sumatra, killed in catastrophic flooding that swept through Indonesia.The late November floods have been an “extinction-level disturbance” for the world’s rarest great ape, scientists have said, causing catastrophic damage to its habitat and survival prospects. Continue reading...",
+      "content_length": 487,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Das Paradox der Softwarearchitektur",
+      "link": "https://www.heise.de/blog/Das-Paradox-der-Softwarearchitektur-11056593.html",
+      "published": "2025-12-12T13:19:00",
+      "content": "Die Frage ob Softwarearchitektur eine Kunst, Wissenschaft, Ingenieurwesen oder etwas völlig Neues bezeichnet, treibt die Community schon lange um.",
+      "content_length": 146,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK imposes sanctions on four RSF officers for ‘heinous’ mass killings in Sudan",
+      "link": "https://www.theguardian.com/world/2025/dec/12/uk-sanctions-four-rsf-commanders-heinous-violence-against-sudan-civilians",
+      "published": "2025-12-12T13:09:57",
+      "content": "Senior commanders accused of atrocities against civilians face asset freezes – but no action against key backer UAE  The UK has placed sanctions on four senior commanders of Sudan’s paramilitary Rapid Support Forces suspected of involvement in “heinous” violence against civilians in the city of El Fasher, but decided not to take any action against their key military and diplomatic backer, the United Arab Emirates, or their chief commander.British officials suggested they preferred to use their leverage with the UAE and the RSF commander, Mohamed Hamdan Dagalo, known as Hemedti, privately, but admitted there was little sign of a ceasefire in Sudan’s near three-year civil war. Continue reading...",
+      "content_length": 703,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US agents increasingly arresting Afghan asylum seekers, lawyers say: ‘A huge chilling effect’",
+      "link": "https://www.theguardian.com/us-news/2025/dec/12/afghan-asylum-seekers-immigration",
+      "published": "2025-12-12T13:00:06",
+      "content": "Lawyers say people ‘don’t feel safe to leave their home’ as officials target recent arrivals and those awaiting hearingsImmigration agents appear to be increasingly arresting and detaining Afghan asylum seekers, especially men, who have arrived in the US recently and are awaiting court hearings to decide their cases.Amir – an asylum seeker who came to the US via Mexico in 2024 – was driving home from his English class in Bloomington, Indiana just after noon on Monday, when he was pulled over by an unmarked police vehicle. Minutes later, the asylum seeker from Afghanistan was cuffed and driven to a detention center. Continue reading...",
+      "content_length": 642,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "How to break free from smart TV ads and tracking",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "published": "2025-12-12T12:30:22",
+      "content": "Smart TVs can feel like a dumb choice if you’re looking for privacy, reliability, and simplicity.\nToday’s TVs and streaming sticks are usually loaded up with advertisements and user tracking, making offline TVs seem very attractive. But ever since smart TV operating systems began making money, “dumb” TVs have been hard to find.\nIn response, we created this non-smart TV guide that includes much more than dumb TVs. Since non-smart TVs are so rare, this guide also breaks down additional ways to watch TV and movies online and locally without dealing with smart TVs’ evolution toward software-centric features and snooping. We’ll discuss a range of options suitable for various budgets, different experience levels, and different rooms in your home.Read full article\nComments",
+      "content_length": 776,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
+      "link": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/",
+      "published": "2025-12-12T12:15:02",
+      "content": "Protecting children from the dangers of the online world was always difficult, but that challenge has intensified with the advent of AI chatbots. A new report offers a glimpse into the problems associated with the new market, including the misuse of AI companies’ large language models (LLMs).\nIn a blog post today, the US Public Interest Group Education Fund (PIRG) reported its findings after testing AI toys (PDF). It described AI toys as online devices with integrated microphones that let users talk to the toy, which uses a chatbot to respond.\nAI toys are currently a niche market, but they could be set to grow. More consumer companies have been eager to shoehorn AI technology into their products so they can do more, cost more, and potentially give companies user tracking and advertising data. A partnership between OpenAI and Mattel announced this year could also create a wave of AI-based toys from the maker of Barbie and Hot Wheels, as well as its competitors.Read full article\nComments",
+      "content_length": 1000,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rocket Report: Neutron’s Hungry Hippo is deemed ready, whither Orbex?",
+      "link": "https://arstechnica.com/space/2025/12/rocket-report-neutrons-hungry-hippo-is-deemed-ready-whither-orbex/",
+      "published": "2025-12-12T12:00:49",
+      "content": "Welcome to Edition 8.22 of the Rocket Report! The big news this week concerns the decision by SpaceX founder Elon Musk to take the company public, via IPO, sometime within the next 12 to 18 months. Musk confirmed this after Ars published a story on Wednesday evening. This understandably raises questions about whether a future SpaceX will be committed more to AI data centers in space or Mars settlement. However, one of the company’s founding employees, Tom Mueller, said this could benefit the company’s Mars plans. Clearly this is something we’ll be following closely.\nAs always, we welcome reader submissions, and if you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.\n\n    \n                        \n                  \n      \n\nAvio will build solid rocket motors in Virginia. The governor of Virginia, Glenn Youngkin, announced Wednesday that Avio USA has selected his state to produce solid rocket motors for defense and commercial space propulsion purposes. Avio USA’s investment, which will be up to $500 million, is supported by its Italian parent Avio. The company’s factory will encompass 860,000 sq. feet.Read full article\nComments",
+      "content_length": 1379,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Großer Cyberangriff: Bundesregierung bestellt Russlands Botschafter ein",
+      "link": "https://www.heise.de/news/Grosser-Cyberangriff-Bundesregierung-bestellt-Russlands-Botschafter-ein-11113565.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T11:29:00",
+      "content": "Nachdem Russland ein großer Cyberangriff und eine Desinformationskampagne zugeschrieben wurde, hat die Bundesregierung am Freitag den Botschafter einbestellt.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mehr als 10.000 Docker-Hub-Images enthalten geheime Zugangsdaten",
+      "link": "https://www.heise.de/news/Mehr-als-10-000-Docker-Hub-Images-enthalten-geheime-Zugangsdaten-11113346.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T11:27:00",
+      "content": "Auf Docker Hub liegen abertausende Container-Images – und mehr als 10.000 davon enthalten eigentlich geheime Zugangsdaten.",
+      "content_length": 122,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mehr als 10.000 Docker-Hub-Images enthalten geheime Zugangsdaten",
+      "link": "https://www.heise.de/news/Mehr-als-10-000-Docker-Hub-Images-enthalten-geheime-Zugangsdaten-11113346.html",
+      "published": "2025-12-12T11:27:00",
+      "content": "Auf Docker Hub liegen abertausende Container-Images – und mehr als 10.000 davon enthalten eigentlich geheime Zugangsdaten.",
+      "content_length": 122,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "South Korea exam chief quits after complaints English test was too hard",
+      "link": "https://www.theguardian.com/world/2025/dec/12/south-korea-exam-chief-quits-after-complaints-english-test-was-too-hard",
+      "published": "2025-12-12T11:08:23",
+      "content": "Notoriously difficult entrance exam is regarded as gateway to economic security and even a good marriageThe chief organiser of South Korea’s notoriously gruelling university entrance exams has resigned – after complaints that an English test he designed was too difficult.Passing the exam, known locally as the Suneung, is essential for admission to prestigious universities and regarded as a gateway to upward social mobility, economic security and even a good marriage. Continue reading...",
+      "content_length": 491,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Android: Schutz vor Schnüffelei mit einem Flag für App-Entwickler",
+      "link": "https://www.heise.de/news/Android-Entwickler-Option-gegen-Spionage-mit-Barrierefreiheitsoptionen-11112962.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T10:06:00",
+      "content": "Google hat Android 16 ein Flag verpasst, mit dem App-Entwickler Malware aussperren können, die über Barrierefreiheitsfunktionen spioniert. \n",
+      "content_length": 140,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Android: Schutz vor Schnüffelei mit einem Flag für App-Entwickler",
+      "link": "https://www.heise.de/news/Android-Entwickler-Option-gegen-Spionage-mit-Barrierefreiheitsoptionen-11112962.html",
+      "published": "2025-12-12T10:06:00",
+      "content": "Google hat Android 16 ein Flag verpasst, mit dem App-Entwickler Malware aussperren können, die über Barrierefreiheitsfunktionen spioniert.",
+      "content_length": 138,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Astronomie: Überraschende Hinweise auf Atmosphäre bei zu heißem Gesteinsplaneten",
+      "link": "https://www.heise.de/news/Astronomie-Ueberraschende-Hinweise-auf-Atmosphaere-bei-zu-heissem-Gesteinsplaneten-11113039.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-12T09:15:00",
+      "content": "Der bislang überzeugendste Hinweis auf eine dichte Atmosphäre um einen Gesteinsplaneten außerhalb des Sonnensystems wurde an einem unerwarteten Ort gefunden.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Crypto mogul Do Kwon sentenced to 15 years in prison for fraud",
+      "link": "https://www.theguardian.com/technology/2025/dec/12/do-kwon-cryptocurrency-terraform-labs-co-founder-prison-fraud",
+      "published": "2025-12-12T09:09:32",
+      "content": "Co-founder of Singapore-based Terraform Labs given more jail time by US judge than prosecutors soughtDo Kwon, the entrepreneur behind two cryptocurrencies that lost $40bn (£29.8bn) three years ago and caused the sector to crash, has been sentenced to 15 years in prison for fraud.The South Korean, 34, had pleaded guilty to two counts of US charges of conspiracy to defraud and wire fraud. Continue reading...",
+      "content_length": 409,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Neu in .NET 10.0 [1]: Start der neuen Blogserie",
+      "link": "https://www.heise.de/blog/Neu-in-NET-10-0-1-Start-der-neuen-Blogserie-11108921.html",
+      "published": "2025-12-12T09:00:00",
+      "content": "Auch für das aktuelle .NET-Release wird der Dotnet-Doktor-Blog die Neuerungen in einer Artikelserie detailliert beschreiben.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    }
+  ]
+}
