@@ -1,0 +1,1002 @@
+{
+  "metadata": {
+    "timestamp": "20251215_071913",
+    "input_file": "data/deduplicated/20251215_071913.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 114,
+      "filtered_count": 109,
+      "blacklisted_count": 5,
+      "reduction_rate": "4.4%",
+      "top_blacklist_reasons": {
+        "festnahme": 2,
+        "landrat": 1,
+        "weltmeister": 1,
+        "regen": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Jose Antonio Kast: Who is Chile's new ultra-conservative president?",
+      "link": "https://www.france24.com/en/americas/20251215-jose-antonio-kast-who-is-chile-s-new-ultra-conservative-president",
+      "published": "2025-12-15T07:18:14",
+      "content": "The ultra-conservative former congressman Jose Antonio Kast has clinched a victory in Chile's presidential election as fears over crime and immigration propel one of Latin America's wealthiest countries to the right. An admirer of Pinochet, Kast has built his campaign on severe law and order, while pledging to deport thousands of undocumented migrants.",
+      "content_length": 354,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "\"Symboldebatte\" - Führende Ökonomen üben scharfe Kritik an absehbarer Abkehr vom Verbrenner-Aus in der EU",
+      "link": "https://www.deutschlandfunk.de/fuehrende-oekonomen-ueben-scharfe-kritik-an-absehbarer-abkehr-vom-verbrenner-aus-in-der-eu-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Führende Ökonomen kritisieren die absehbare Abkehr vom Verbrenner-Aus in der EU.",
+      "content_length": 80,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wehrdienst-Debatte - Branchenverband wirbt für Zivildienst auch in Handwerksbetrieben",
+      "link": "https://www.deutschlandfunk.de/branchenverband-wirbt-fuer-zivildienst-auch-in-handwerksbetrieben-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Der Zentralverband des Deutschen Handwerks wirbt dafür, dass ein möglicher Zivildienst künftig auch in Betrieben seiner Branche geleistet werden kann.",
+      "content_length": 150,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Anschlag am Bondi Beach - Zahl der Todesopfer in Sydney auf 15 gestiegen - Täter identifiziert",
+      "link": "https://www.deutschlandfunk.de/zahl-der-todesopfer-in-sydney-auf-15-gestiegen-taeter-identifiziert-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Zahl der Todesopfer des antisemitischen Terroranschlags in Sydney ist auf 15 gestiegen. Sie sind zwischen 10 und 87 Jahre alt. Etwa 40 Verletzte würden im Krankenhaus behandelt, teilte die australische Polizei mit. Die australische Regierung erwägt als Reaktion auf den Anschlag strengere Waffengesetze.",
+      "content_length": 307,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Australien - Führende Politiker würdigen \"Held vom Bondi-Beach\" - Obsthändler entwaffnete Attentäter des Chanukka-Massakers",
+      "link": "https://www.deutschlandfunk.de/fuehrende-politiker-wuerdigen-held-vom-bondi-beach-obsthaendler-entwaffnete-attentaeter-des-chanukka-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Führende Politiker Australiens haben den Einsatz eines Zivilisten gewürdigt, der einen der Angreifer des antisemitischen Chanukka-Attentats von Sydney entwaffnet hat.",
+      "content_length": 166,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Chile - Rechtsgerichteter Kandidat Kast gewinnt Stichwahl für Präsidentenamt",
+      "link": "https://www.deutschlandfunk.de/rechtsgerichteter-kandidat-kast-gewinnt-stichwahl-fuer-praesidentenamt-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "In Chile hat der rechtsgerichtete Kandidat Kast die Stichwahl für das Präsidentenamt gewonnen.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "China - Hongkonger Verleger Jimmy Lai erneut schuldig gesprochen",
+      "link": "https://www.deutschlandfunk.de/hongkonger-verleger-jimmy-lai-erneut-schuldig-gesprochen-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Der Hongkonger Verleger Jimmy Lai ist in einem Justizprozess wegen Verstößen gegen die nationale Sicherheit schuldiggesprochen worden.",
+      "content_length": 134,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Corona-Pandemie - Kommission befragt Spahn zu Masken-Beschaffung",
+      "link": "https://www.deutschlandfunk.de/kommission-befragt-spahn-zu-masken-beschaffung-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Enquete-Kommission des Bundestags zur Aufarbeitung der Corona-Pandemie befragt heute Unionsfraktionschef Spahn zur Beschaffung von Schutzmasken.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rahmede - Ex-Bundesverkehrsminister Scheuer und Wissing vor \"Brückendesaster\"-Untersuchungsausschuss des NRW-Landtags",
+      "link": "https://www.deutschlandfunk.de/ex-bundesverkehrsminister-scheuer-und-wissing-vor-brueckendesaster-untersuchungsausschuss-des-nrw-la-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Ex-Bundesverkehrsminister Scheuer und Wissing sollen heute vor dem Untersuchungsausschuss des NRW Landtags zur maroden Infrastruktur aussagen.",
+      "content_length": 146,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Religion - Juden begehen achttägiges Chanukka-Fest",
+      "link": "https://www.deutschlandfunk.de/juden-begehen-achttaegiges-chanukka-fest-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Mit dem gestrigen Sonnenuntergang hat im Judentum das achttägige Chanukka-Fest begonnen.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Papenburg - Meyer Werft vor milliardenschwerem Auftrag",
+      "link": "https://www.deutschlandfunk.de/meyer-werft-vor-milliardenschwerem-auftrag-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Meyer Werft in Papenburg steht wohl vor einem neuen milliardenschweren Auftrag.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Gespräche über US-Friedensplan - Selenskyj rückt von NATO-Beitrittsplänen ab",
+      "link": "https://www.deutschlandfunk.de/gespraeche-ueber-us-friedensplan-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-102.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "In Berlin haben weitere Gespräche über den US-Friedensplan für die Ukraine stattgefunden. Am späten Abend verließ der ukrainische Präsident Selenskyj das Kanzleramt. Dort hatte er sich mit den amerikanischen Gesandten Witkoff und Kushner sowie weiteren Vertretern beider Seiten getroffen.",
+      "content_length": 288,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Verhandlungen - Transatlantikkoordinator Hakverdi fordert schnelle Entscheidung über russisches Vermögen",
+      "link": "https://www.deutschlandfunk.de/transatlantikkoordinator-hakverdi-fordert-schnelle-entscheidung-ueber-russisches-vermoegen-106.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Der Transatlaktikkoordinator der Bundesregierung, Hakverdi, hat die EU-Staaten dazu aufgerufen, schnell eine Entscheidung über das eingefrorene russische Vermögen zu treffen.",
+      "content_length": 174,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Studie - Erdbebengefahr für Istanbul steigt",
+      "link": "https://www.deutschlandfunk.de/erdbebengefahr-fuer-istanbul-steigt-104.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "In der türkischen Metropole Istanbul wird ein starkes Erdbeben wahrscheinlicher. Grund sind geologische Spannungen südlich der Stadt. Dort, unter dem Marmarameer, driften zwei tektonische Platten aneinander vorbei.",
+      "content_length": 214,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Unabhängigkeit - UNO begeht erstmals Internationalen Tag gegen Kolonialismus",
+      "link": "https://www.deutschlandfunk.de/uno-begeht-erstmals-internationalen-tag-gegen-kolonialismus-102.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Vereinten Nationen haben erstmals einen Internationalen Tag gegen Kolonialismus begangen.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Freilassung - Dobrindt (CSU) kündigt Aufnahme von belarussischen Oppositionellen an",
+      "link": "https://www.deutschlandfunk.de/dobrindt-csu-kuendigt-aufnahme-von-belarussischen-oppositionellen-an-108.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Deutschland nimmt zwei prominente Oppositionelle aus Belarus auf, die zuletzt aus der Haft in ihrem Heimatland freigelassen wurden. Bundesinnenminister Dobrindt sagte im ARD-Fernsehen, es handele sich um die Aktivistin Maria Kolesnikowa und um den früheren Präsidentschaftskandidaten Babariko.",
+      "content_length": 293,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Fahrplan in Kraft - Mehr Sprinter bei der Bahn",
+      "link": "https://www.deutschlandfunk.de/mehr-sprinter-bei-der-bahn-118.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Gestern sind die neuen Fahrpläne der Deutschen Bahn in Kraft getreten.",
+      "content_length": 70,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Syrien - Vier Sicherheitskräfte getötet - Antiterroreinsatz gegen IS-Mitglieder",
+      "link": "https://www.deutschlandfunk.de/vier-sicherheitskraefte-getoetet-antiterroreinsatz-gegen-is-mitglieder-104.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "In Syrien sind nach Angaben örtlicher Behörden vier Sicherheitskräfte von Bewaffneten getötet worden.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Polizei nimmt Verdächtigen nach Schießerei an Universität fest",
+      "link": "https://www.deutschlandfunk.de/polizei-nimmt-verdaechtigen-nach-schiesserei-an-universitaet-fest-106.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Im US-Bundesstaat Rhode Island ist nach den tödlichen Schüssen an einer Elite-Universität ein Verdächtiger gefasst worden.",
+      "content_length": 122,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auslandssender - Deutsche Welle in Russland zur \"unerwünschten Organisation\" erklärt",
+      "link": "https://www.deutschlandfunk.de/deutsche-welle-in-russland-zur-unerwuenschten-organisation-erklaert-114.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Die Deutsche Welle ist in Russland zur \"unerwünschten Organisation\" erklärt worden.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienberichte - US-Regisseur Rob Reiner und seine Frau tot aufgefunden",
+      "link": "https://www.deutschlandfunk.de/us-regisseur-rob-reiner-und-seine-frau-tot-aufgefunden-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "US-Regisseur Rob Reiner und seine Frau sind nach US-Medienberichten tot in ihrem Haus in Los Angeles aufgefunden worden.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Teils heiter, teils wolkig bei 1 bis 12 Grad",
+      "link": "https://www.deutschlandfunk.de/teils-heiter-teils-wolkig-bei-1-bis-12-grad-100.html",
+      "published": "2025-12-15T07:16:33",
+      "content": "Das Wetter: Im Norden teils heiter. Sonst meist bedeckt oder neblig-trüb. 1 bis 12 Grad.",
+      "content_length": 88,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Immobilienkauf: Experte sieht Bauzinsen 2026 bei bis zu 4,5 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilien-kauf-100.html",
+      "published": "2025-12-15T07:03:06",
+      "content": "   Die Bauzinsen sind so hoch wie seit zwei Jahren nicht - und sie dürften weiter steigen. Im neuen Jahr könnte es bis auf 4,5 Prozent hochgehen. Was ein Finanzierungsexperte Immobilienkäufern jetzt rät. Von Angela Göpfert.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Call for system that frees rape suspects as alternative to bail to be scrapped in England and Wales",
+      "link": "https://www.theguardian.com/society/2025/dec/15/call-for-system-that-frees-suspects-as-alternative-to-bail-to-be-scrapped-in-england-and-wales",
+      "published": "2025-12-15T07:00:25",
+      "content": "‘Released under investigation’ leads to uncertainty and distress for both victim and accused, say campaignersHundreds of suspected rapists in England and Wales are spending years released under investigation, under a system that the government has been urged to scrap as it “doesn’t serve anyone’s interests apart from the police”.Introduced under the Policing &amp; Crime Act 2017, released under investigation (RUI) allows police an alternative to bail, without the set timeframes or conditions attached to police bail. Continue reading...",
+      "content_length": 541,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bondi beach shooting live updates: national cabinet vows ‘strong, decisive and focused’ action on gun laws; health authorities provide update on injured victims",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/14/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah",
+      "published": "2025-12-15T06:58:03",
+      "content": "Follow liveFull reportVictims named so farWhat we know about the terrorist attackAmid the horror of the shooting, one video has emerged showing incredible bravery – a bystander rushing one of the gunmen from behind to wrestle the firearm off him.Praised a hero, he is being identified by some media as a 43-year-old fruit shop owner from the Sutherland Shire. Continue reading...",
+      "content_length": 379,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Jimmy Lai: conviction of Hong Kong pro-democracy figure decried as attack on press freedom",
+      "link": "https://www.theguardian.com/world/2025/dec/15/jimmy-lai-verdict-hong-kong-judges-national-security-charges",
+      "published": "2025-12-15T06:57:59",
+      "content": "Rights groups dismiss ‘sham conviction’ of media tycoon on national security offences in city’s most closely watched rulings in decadesThe rise and fall of Jimmy Lai, whose trajectory mirrored that of Hong Kong itselfJimmy Lai, the Hong Kong pro-democracy media tycoon, is facing life in prison after being found guilty of national security and sedition offences, in one of the most closely watched rulings since the city’s return to Chinese rule in 1997.Soon after the ruling was delivered, rights and press groups decried the verdict as a “sham conviction” and an attack on press freedom. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Mother of jailed French journalist appeals to Algerian president for pardon",
+      "link": "https://www.france24.com/en/africa/20251215-mother-of-jailed-french-journalist-appeals-to-algerian-president-for-pardon",
+      "published": "2025-12-15T06:53:02",
+      "content": "The mother of jailed French journalist Christophe Gleizes has appealed to Algeria’s president for a pardon, calling his seven-year sentence “incomprehensible\". Arrested in May 2024 while reporting in Kabylia, Gleizes maintains he is innocent, and his case comes at a time of mounting tension between France and Algeria.",
+      "content_length": 319,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Monday briefing: The latest on the deadly attack on Bondi beach’s Jewish community",
+      "link": "https://www.theguardian.com/world/2025/dec/15/first-edition-bondi-beach-attack",
+      "published": "2025-12-15T06:51:24",
+      "content": "In today’s newsletter: On Sunday evening local time, two gunmen opened fire on a gathering at Sydney’s famous beach – here’s what we know so farGood morning. As you receive this email it is Monday evening in Sydney, where the Jewish community, the city and the country are grappling with grief after the deadliest terrorist attack in Australia in modern times.On Sunday evening, at least 15 people, including one child, were killed after two men, said by police to be a father and son armed with guns, opened fire on a Hanukah celebration at Bondi beach in Sydney. Dozens more were injured in what police have declared a targeted antisemitic terrorist attack. The older of the two men was shot by police and is dead.UK news | British police forces are stepping up security in Jewish communities after the antisemitic terror attack at Bondi beach in Australia.Jimmy Lai | The Hong Kong pro-democracy media tycoon is facing life in prison after being found guilty of national security and sedition offences, in one of the most closely watched rulings since the city’s return to Chinese rule in 1997.Immigration | Human rights and refugee campaigners are calling on the Home Office to be transparent about the numbers of asylum seekers who die in its care by publishing quarterly data as other government departments do.Security | Assassination plots, sabotage, cyber-attacks and the manipulation of information by Russia and other hostile states mean that “the frontline is everywhere”, the new head of MI6 will warn on Monday.US news | A JetBlue flight from the small Caribbean nation of Curaçao halted its ascent to avoid colliding with a US air force refuelling tanker on Friday, and the pilot blamed the military plane for crossing his path. Continue reading...",
+      "content_length": 1763,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hessen: Verfassungsschutz darf Staatstrojaner für Online-Durchsuchung einsetzen",
+      "link": "https://www.heise.de/news/Hessen-Verfassungsschutz-darf-Staatstrojaner-fuer-Online-Durchsuchung-einsetzen-11114779.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T06:32:00",
+      "content": "Karlsruhe kippte das hessische Verfassungsschutzgesetz teils. Der Landtag hat eine Reform beschlossen, die dem Geheimdienst neue, weitgehende Befugnisse gibt.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Marktbericht: DAX vor freundlichem Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-ki-100.html",
+      "published": "2025-12-15T06:29:23",
+      "content": "   In der letzten vollen Handelswoche vor Weihnachten hoffen manche Anleger auf eine Jahresendrally. Zumindest heute zum Wochenstart sieht es danach aus, als würde der DAX mit soliden Gewinnen starten.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hollywood reacts in shock to death of Rob Reiner: ‘One of the greatest filmmakers to ever live’",
+      "link": "https://www.theguardian.com/film/2025/dec/15/hollywood-reacts-shock-death-rob-reiner-filmmaker",
+      "published": "2025-12-15T06:16:34",
+      "content": "Actors, directors and politicians voice their sadness after bodies of Reiner and wife Michele Singer Reiner were found by authoritiesNews: Rob Reiner and Michele Singer Reiner found dead at home in apparent homicideGallery: Rob Reiner – a life in picturesHollywood is in shock after the sudden death of director and actor Rob Reiner, who has been found dead in an apparent homicide at his Los Angeles home with his wife, Michele Singer Reiner.Reiner’s peers paid tribute after reports began to emerge on Sunday afternoon that the bodies of a 78-year-old man and a 68-year-old woman had been found by authorities inside a home owned by Reiner in Brentwood, Los Angeles. Continue reading...",
+      "content_length": 688,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "iRobot files for bankruptcy",
+      "link": "https://www.theverge.com/news/844460/irobot-files-for-bankruptcy",
+      "published": "2025-12-15T06:11:18",
+      "content": "\n\n\n\t\n\t\t\n\nAfter 35 years, the maker of the Roomba robot vacuum filed for bankruptcy protection late Sunday night. Following warnings issued earlier this year that it was fast running out of options, iRobot says it is entering Chapter 11 protection and will be acquired by its contract manufacturer, the Chinese-based Picea Robotics.\nThe company says it will continue to operate \"with no anticipated disruption to its app functionality, customer programs, global partners, supply chain relationships, or ongoing product support.\" This should mean that, at least for now, your Roomba will continue cleaning your floors just as it did before.\nThe Massachusetts …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ligue 1: Lens defeat Nice and claim back top spot in standings",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251215-ligue-1-lens-defeat-nice-and-claim-back-top-spot-in-standings",
+      "published": "2025-12-15T06:04:01",
+      "content": "RC Lens beat Nice 2-0 and will spend the winter as league leaders. OGC Nice suffered their sixth consecutive defeat.",
+      "content_length": 116,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Young people bearing brunt of UK jobs downturn, thinktank warns",
+      "link": "https://www.theguardian.com/business/2025/dec/15/young-people-bearing-brunt-of-uk-jobs-downturn-thinktank-warns",
+      "published": "2025-12-15T06:00:24",
+      "content": "Resolution Foundation report comes in week when data is expected to show October unemployment riseYoung people are bearing the brunt of Britain’s jobs downturn, according to a report, before official figures this week that are expected to show the UK unemployment rate rising to 5.1%.The Resolution Foundation thinktank said a “jobs deficit” was pushing a growing number of graduates and non-graduates into unemployment as employers reduced hiring. Continue reading...",
+      "content_length": 468,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tabletop tomatoes and drought-resistant roses tipped as 2026’s top garden trends",
+      "link": "https://www.theguardian.com/environment/2025/dec/15/tabletop-tomatoes-drought-resistant-garden-trends-2026-rhs-climate",
+      "published": "2025-12-15T06:00:22",
+      "content": "RHS predicts big shift in gardening habits as green-fingered Britons adapt to climate breakdownBouquets of cut flowers will be swapped for tabletop vegetable plants next year, the Royal Horticultural Society has said, as the UK charity announces its top plant trend predictions for 2026.Mini-planters of aubergines, chillies, peppers and tomatoes will be displayed in homes instead of flowers, as breeders develop dwarf varieties that are decorative and capable of supplementing the weekly shop, the RHS says. Continue reading...",
+      "content_length": 529,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Talks between Ukrainian and US officials set to resume Monday",
+      "link": "https://www.france24.com/en/europe/20251215-live-talks-between-ukrainian-and-us-officials-set-to-resume-monday",
+      "published": "2025-12-15T05:50:23",
+      "content": "Talks between Ukrainian and US officials in Berlin are set to resume Monday. After hours of negotiations on Sunday, Ukrainian President Volodymyr Zelensky said that he is open to abandoning Ukraine’s bid for NATO membership in return for Western security guarantees, but firmly dismissed US suggestions that Kyiv give up territory to Russia. Follow our liveblog for all the latest.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bondi beach terror attack: father and son duo alleged to be behind shooting using licensed firearms",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/15/bondi-beach-terror-attack-father-son-duo-alleged-behind-shooting-licensed-firearms-ntwnfb",
+      "published": "2025-12-15T05:36:59",
+      "content": "Naveed Akram previously known to security agencies, prime minister says. His gun-owning father, Sajid, was shot dead by police at the sceneFollow the latest live updates on the Bondi beach shootingVictims named so farWhat we know so far about the Bondi terror attackThe alleged gunmen behind the Bondi beach attack are a father-son duo suspected of using legally obtained firearms to commit the massacre, according to police.Naveed Akram, 24, was arrested at the scene and taken to a Sydney hospital with critical injuries. His 50-year-old father, who the Sydney Morning Herald first reported to be Sajid Akram, was shot dead by police. Police would not confirm their names. Continue reading...",
+      "content_length": 694,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brown University shooting: authorities releasing sole person of interest",
+      "link": "https://www.theguardian.com/us-news/2025/dec/14/brown-university-shooting-latest",
+      "published": "2025-12-15T05:31:20",
+      "content": "At least two people were killed and nine others injured in Saturday attack that occurred in engineering building on Providence, Rhode Island campusA person of interest detained after a mass shooting at Brown University that killed two students and injured nine is being released after the investigation took law enforcement authorities in a “different direction,” officials said Sunday night. \n The disclosure, made at a hastily convened late night news conference, represents a stunning turn of events in an investigation into killings that rattled the Ivy League campus, and came more than 12 hours after officials had announced that they had taken a person into custody.The Rhode Island attorney general, Peter Neronha, said of the man who was detained earlier, there is “no basis to consider him a person of interest.” Continue reading...",
+      "content_length": 842,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hong Kong media tycoon convicted – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/15/jimmy-lai-verdict-hong-kong-court-national-security-charges-live",
+      "published": "2025-12-15T05:29:17",
+      "content": "This blog is now closedJimmy Lai verdict: Hong Kong pro-democracy figure convicted of national security offencesThe rise and fall of Jimmy Lai, whose trajectory mirrored that of Hong Kong itselfThe three high court judges have entered the courtroom and taken their seats.The hearing is due to begin and Lai has entered the court, news reports are saying, adding that he waved to his family. Continue reading...",
+      "content_length": 410,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Forschungsschiff \"Polarstern\" startet Expedition zur Antarktis",
+      "link": "https://www.tagesschau.de/wissen/forschung/forschungsreise-polarstern-100.html",
+      "published": "2025-12-15T05:26:32",
+      "content": "   Welche Folgen hat der Klimawandel auf das Ökosystem in der Antarktis? Das will ein internationales Forschungsteam unter deutscher Leitung herausfinden. Die Ergebnisse sollen helfen, ein Meeresschutzgebiet zu etablieren. Von Jan Kerckhoff.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Privatmann meldet Patent an: Plötzlich Staatsgeheimnis",
+      "link": "https://www.tagesschau.de/investigativ/wdr/patent-staatsgeheimnis-nukleare-abschreckung-nato-100.html",
+      "published": "2025-12-15T05:00:31",
+      "content": "   Ein Privatmann reicht eine Erfindung beim Patentamt ein. Doch plötzlich wird diese zum Staatsgeheimnis. Wie konnte es dazu kommen - und welche Rolle spielt das \"Büro 99\"? Von Florian Flade und Ellen Waldeyer.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Louvre museum in Paris faces closure this week as unions call strike",
+      "link": "https://www.theguardian.com/world/2025/dec/15/louvre-museum-in-paris-faces-closure-as-unions-call-strike",
+      "published": "2025-12-15T05:00:25",
+      "content": "Weeks after jewel heist, world’s most visited museum in dispute over staffing, renovations and ticket price risesTrade unions at the crisis-hit Louvre museum in Paris will begin a strike on Monday to demand urgent renovations and staffing increases, and to protest against a rise in ticket prices for most non-EU visitors, including British and American tourists.The world’s most-visited museum – which has had a difficult few months after a jewel heist, a damaging water leak and safety fears over a gallery ceiling – could face days of partial or total closure at one of its busiest times of the year if many of its 2,100-strong workforce vote to continue striking. Continue reading...",
+      "content_length": 687,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Assad family live in Russian luxury as Bashar ‘brushes up on ophthalmology’",
+      "link": "https://www.theguardian.com/world/2025/dec/15/assad-family-live-in-russian-luxury-as-bashar-brushes-up-on-ophthalmology",
+      "published": "2025-12-15T05:00:24",
+      "content": "Family friend, sources in Russia and Syria, and leaked data help give rare insight into life of dictator’s reclusive householdIn 2011, a group of teenage boys spray-painted a warning on to a wall in their school playground: “It’s your turn, Doctor.” The graffiti was a thinly veiled threat that Syria’s president, Bashar al-Assad, a London-trained ophthalmologist, would be next in the line of Arab dictators toppled by the then raging Arab spring.It took 14 years, during which 620,000 were killed and nearly 14 million displaced, but eventually the doctor’s turn came and Assad was deposed, fleeing to Moscow in the middle of the night. Continue reading...",
+      "content_length": 658,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "People pulling own teeth due to lack of urgent NHS dental care in England, watchdog finds",
+      "link": "https://www.theguardian.com/society/2025/dec/15/people-pulling-own-teeth-due-to-lack-of-urgent-nhs-dental-care-in-england-watchdog-finds",
+      "published": "2025-12-15T05:00:24",
+      "content": "Emergency help should be available, but some being forced to travel 100 miles or go private, says Healthwatch EnglandPeople needing emergency dental care in England are being denied help from the NHS despite guidance saying that it should be available, in some cases resorting to risky self-treatment such as pulling out their own teeth, the patient watchdog has found.Patients who experience a sudden dental crisis such as a broken tooth, abscess or severe tooth pain are meant to be able to get help from their dentist or by calling NHS 111. Continue reading...",
+      "content_length": 563,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Director and actor Rob Reiner found dead at home with wife Michele Singer Reiner",
+      "link": "https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner",
+      "published": "2025-12-15T04:48:18",
+      "content": "Authorities investigating ‘apparent homicide’ after 78-year-old director of Stand By Me and The Princess Bride was discovered dead at LA home with wifeHollywood in shock: ‘One of the greatest filmmakers to ever live’Gallery: Rob Reiner – a life in picturesInterview: Rob Reiner on Trump, family – and his brilliant, beloved movieRob Reiner, the director of beloved films including When Harry Met Sally, Misery, Stand By Me, The Princess Bride and This is Spinal Tap, has died aged 78 in an apparent homicide, along with his 68-year-old wife Michele Singer Reiner.Reports first began to emerge on Sunday afternoon that the bodies of a 78-year-old man and a 68-year-old woman had been found by authorities inside a home owned by Reiner in Brentwood, Los Angeles, after a medical aid request was made to the Los Angeles Fire Department. Continue reading...",
+      "content_length": 853,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hongkong: Verleger Jimmy Lai schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/hongkong-verleger-lai-verurteilt-100.html",
+      "published": "2025-12-15T04:31:44",
+      "content": "   Der prodemokratische Verleger Lai ist von einem Gericht in Hongkong verurteilt worden. Ihm wird vorgeworfen, gegen das sogenannte Sicherheitsgesetz verstoßen zu haben. Das Strafmaß wird erst später verkündet. [mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Horror and heroism at Bondi’: what the papers say about the Sydney terrorist attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/15/bondi-terror-attack-shooting-coverage-papers",
+      "published": "2025-12-15T04:28:15",
+      "content": "Shooting at world-famous beach in which 15 people, plus one alleged gunman, were killed reverberated around the world, with many headlines noting the actions of a hero bystanderBondi beach shooting – live updatesFull reportVictims named so farWhat we know about the Bondi terror attackThe deadly terrorist attack at Sydney’s Bondi beach, and the heroic acts of bystanders in response to it, were the focus on newspaper front pages across the world on Monday morning, as Australia came to terms with what the prime minister, Anthony Albanese, described as “an act of evil antisemitism”.The Guardian led with “At least 16 dead in terror attack on Jewish festival” accompanied by a picture of ambulance crews assisting a shooting victim. In the top left corner, there is a reference to the bystander who wrestled a firearm off one of the alleged gunmen. Continue reading...",
+      "content_length": 870,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "As shots hit Bondi beach, Jessica desperately searched for her toddler before diving to protect another child",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/15/bondi-beach-shooting-terror-attack-survivor-mum-searched-toddler-protected-another-child-ntwnfb",
+      "published": "2025-12-15T04:09:17",
+      "content": "One moment, Rozen was ‘eating donuts and celebrating light’ with her family. Then peace turned to terror as the attack beganBondi beach shooting live updatesBondi terror attack: full reportWhat we know so far about the shooting in AustraliaJessica Rozen ran, searching desperately for her three-year-old son as the shots rang out at Bondi beach on Sunday.Rozen had attended the Chanukah by the Sea event with her family when the terrorist attack began that evening, bringing a terrifying end to the day’s Jewish celebration of light. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rechtskonservativer Kast gewinnt Präsidentenwahl in Chile",
+      "link": "https://www.tagesschau.de/ausland/amerika/praesidentenwahl-chile-100.html",
+      "published": "2025-12-15T03:53:07",
+      "content": "   Ein deutschstämmiger Rechtskonservativer hat die Präsidentenwahl in Chile für sich entschieden: José Antonio Kast setzte sich gegen die kommunistische Kandidatin durch. Er will beim Thema Migration hart durchgreifen.[mehr]",
+      "content_length": 225,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Attentat in Australien: Vater und Sohn als Angreifer identifiziert",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/attentat-australien-ermittlungen-100.html",
+      "published": "2025-12-15T03:11:23",
+      "content": "   Australien trauert um die Opfer des Angriffs auf ein jüdisches Fest in Sydney. Ersten Ermittlungen zufolge sind die beiden Attentäter Vater und Sohn. Sie erschossen 15 Menschen, mindestens 40 wurden verletzt.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Gespräche in Berlin: US-Delegation zieht positives Zwischenfazit",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-berlin-102.html",
+      "published": "2025-12-15T01:48:58",
+      "content": "   Mehr als fünf Stunden saßen die Delegationen der Ukraine und der USA in Berlin zusammen. Was konkret besprochen wurde, ist unklar. Trumps Gesandter Witkoff sieht aber \"große Fortschritte\". Heute sollen die Beratungen weitergehen.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Former Prince Andrew is butt of the year’s best Christmas cracker joke",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/15/former-prince-andrew-is-butt-of-the-years-best-christmas-cracker-joke",
+      "published": "2025-12-15T00:01:16",
+      "content": "Two Andrew Mountbatten-Windsor gags make top 10 of public vote, along with jokes about Oasis and Nigel FarageIt’s safe to say it’s been a very bad year for the former Prince Andrew. Already stripped of his title and privileges, he is rounding off the year by becoming the punchline of the year’s most popular Christmas cracker joke.The annual competition is commissioned by the comedy channel U&amp;Gold (formerly Comedy Gold) and decided by the British public. It usually produces a topical winner that sends up one of the biggest stories of the year. Continue reading...",
+      "content_length": 572,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘The frontline is everywhere’: new MI6 head to warn of growing Russian threat",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/15/new-mi6-head-blaise-metreweli-speech-russia-threat",
+      "published": "2025-12-15T00:01:15",
+      "content": "Blaise Metreweli expected to say UK faces new ‘age of uncertainty’ in speech identifying Kremlin as key threatAssassination plots, sabotage, cyber-attacks and the manipulation of information by Russia and other hostile states mean that “the frontline is everywhere”, the new head of MI6 will warn on Monday.Blaise Metreweli, giving her first speech in the job, is expected to say the UK faces a new “age of uncertainty” where the rules of conflict are being rewritten, particularly in light of wider Kremlin aggression after the invasion of Ukraine. Continue reading...",
+      "content_length": 569,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "You need to listen to Sudan Archives&#8217; violin opus for the club",
+      "link": "https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm",
+      "published": "2025-12-14T23:45:00",
+      "content": "\n\n\n\t\n\t\t\n\nMy introduction to Sudan Archives was the song \"Nont for Sale\" from her first EP Sink in 2018. I've been a die-hard fan ever since. With each album, she finds new ways to sculpt the sound of her violin, contorting it in defiance of expectations. \nAthena found her in conversation with it, leaving its timbre largely recognizable and organic, veering from experimental pop to more ambient passages. Natural Brown Prom Queen embraced the aesthetics of sound collage, samples, and modern R&amp;B, blending her violin with more expressly electronic elements. The BPM has identifiable violin passages, but it fully embraces the more technological elements o …\nRead the full story at The Verge.",
+      "content_length": 697,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ultra-conservative José Antonio Kast elected Chile’s next president",
+      "link": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+      "published": "2025-12-14T23:40:25",
+      "content": "The son of a Nazi party member and an admirer of Pinochet, Kast built his campaign on a promise to expel tens of thousands of undocumented migrantsThe ultra-conservative former congressman José Antonio Kast has been elected as Chile’s next president.With more than 99% of polling stations counted, Kast took 58.16% of the vote, against 41.84% for the leftist Jeannette Jara, a former labour minister under the current president, Gabriel Boric. Continue reading...",
+      "content_length": 463,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Deadly flash floods in Moroccan coastal town of Safi after heavy rainfall",
+      "link": "https://www.france24.com/en/africa/20251214-deadly-flash-floods-in-moroccan-coastal-town-of-safi-after-heavy-rainfall",
+      "published": "2025-12-14T23:28:14",
+      "content": "Flash-flooding caused by sudden rain storms killed at least 21 people in the Moroccan coastal town of Safi on Sunday, local authorities said, doubling an earlier toll. The downpour in Safi province, around 300 kilometres (186 miles) south of the capital Rabat, caused fierce flooding that damaged around 70 houses and shops in the town, said officials.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hard-right candidate Jose Antonio Kast wins Chile presidential election",
+      "link": "https://www.france24.com/en/live-news/20251214-hard-right-candidate-jose-antonio-kast-wins-chile-presidential-election",
+      "published": "2025-12-14T22:59:24",
+      "content": "Chilean voters elected the most right-wing president in 35 years of democracy on Sunday, as official results showed Jose Antonio Kast with a thumping 58 percent of votes and his rival conceding defeat. With more than ten million votes counted – almost 70 percent of the total – Kast had an unassailable lead over Jeannette Jara, a Communist Party member heading a broad leftist coalition.",
+      "content_length": 388,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump says building DC triumphal arch is domestic policy chief’s ‘primary thing’",
+      "link": "https://www.theguardian.com/us-news/2025/dec/14/trump-arch-washington-dc-policy-chief",
+      "published": "2025-12-14T22:46:32",
+      "content": "Trump praises Vince Haley, his ex-speechwriter tasked with creating Arc de Triomphe knockoff amid affordability crisisAmid concerns that he has failed to address a worsening affordability crisis, with health insurance premiums about to spike dramatically for over 20 million Americans, Donald Trump revealed on Sunday that his domestic policy chief’s main priority is building a triumphal arch for Washington DC.Speaking at a White House holiday party, the president praised Vince Haley, his former speechwriter and a longtime aide to Newt Gingrich who now leads the White House Domestic Policy Council. Continue reading...",
+      "content_length": 623,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US immigration crackdown forces teens to caretake after parents are detained",
+      "link": "https://www.theguardian.com/us-news/2025/dec/14/ice-immigration-crackdown-louisiana-teens-family-detained",
+      "published": "2025-12-14T22:21:01",
+      "content": "As federal agents target families, teens are left to care for siblings – from accessing bank accounts to medical recordsVilma Cruz, a mother of two, had just arrived at her newly leased Louisiana home when federal agents surrounded her vehicle in the driveway. She had just enough time to call her oldest son before they smashed the passenger window and detained her.The 38-year-old Honduran house painter was swept up in an immigration crackdown that has largely targeted Kenner, a New Orleans suburb with a large Hispanic population, where some parents at risk of deportation had rushed to arrange emergency custody plans for their children in case they were arrested. Continue reading...",
+      "content_length": 690,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Entsetzen nach tödlichem Angriff auf jüdische Feier in Sydney",
+      "link": "https://www.tagesschau.de/ausland/bondi-beach-schusswaffenangriff-100.html",
+      "published": "2025-12-14T21:54:43",
+      "content": "   Nach dem mutmaßlich antisemitisch motivierten Anschlag in Sydney mit mindestens 15 Todesopfern ist die Bestürzung groß. Berichten zufolge wurde auch ein Holocaust-Überlebender getötet. Die Angreifer wurden als Vater und Sohn identifiziert.[mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong court finds media tycoon Jimmy Lai guilty in national security trial",
+      "link": "https://www.france24.com/en/live-news/20251214-hong-kong-court-to-deliver-verdicts-on-media-mogul-jimmy-lai",
+      "published": "2025-12-14T21:45:12",
+      "content": "Hong Kong’s High Court on Monday convicted jailed media tycoon and pro-democracy campaigner Jimmy Lai of national security offences that could see him sentenced to life in prison, a verdict that has intensified global scrutiny of the city’s judicial independence amid a sweeping crackdown on dissent.",
+      "content_length": 300,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine willing to drop ambitions to join Nato, Zelenskyy says",
+      "link": "https://www.theguardian.com/world/2025/dec/14/ukraine-willing-to-drop-ambitions-to-join-nato-zelenskyy-says",
+      "published": "2025-12-14T21:36:50",
+      "content": "Move marks big shift for Ukraine, which has fought to join Nato as safeguard against Russian attacksVolodymyr Zelenskyy has offered to drop Ukraine’s aspirations to join the Nato military alliance, as he held five hours of talks with US envoys in Berlin on Sunday to end the war with Russia.Donald Trump’s special envoy Steve Witkoff said “a lot of progress was made” as he and the US president’s son-in-law, Jared Kushner, met Zelenskyy in the latest push to end Europe’s bloodiest conflict since the second world war – though full details were not divulged. Continue reading...",
+      "content_length": 579,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Grok is spreading misinformation about the Bondi Beach shooting",
+      "link": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+      "published": "2025-12-14T21:24:24",
+      "content": "\n\n\n\t\n\t\t\n\nGrok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shooters, and claimed the verified video of his deed was something else entirely - including that it was an old viral video of a man climbing a tree.\nIn the aftermath of the attack, Ahmed has been widely praised for his heroism, but some have tried to dismiss or even deny his actions. Someone even quickly whipped up a fake news site that appears to be …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Maria Kolesnikowa: \"Im Inneren war ich immer frei\"",
+      "link": "https://www.tagesschau.de/ausland/kolesnikowa-interview-100.html",
+      "published": "2025-12-14T21:10:15",
+      "content": "   Mehr als fünf Jahre war Maria Kolesnikowa in Haft - immer wieder gab es monatelang kein Lebenszeichen von ihr. Nach ihrer Freilassung hat die belarusische Oppositionelle nun mit den tagesthemen über ihre Zeit im Gefängnis gesprochen.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Selenskyj plädiert für Einfrieren des Frontverlaufs",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-berlin-100.html",
+      "published": "2025-12-14T20:38:46",
+      "content": "   Auf einem NATO-Beitritt der Ukraine besteht Präsident Selenskyj nicht mehr - und plädiert für einen Waffenstillstand entlang der Front. Doch der Kreml bewegt sich nicht und erwartet \"kaum Gutes\" von dem Berlin-Treffen.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AfD-Politiker bei den Young Republicans: \"America First\" trifft \"Germany First\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-afd-100.html",
+      "published": "2025-12-14T20:35:45",
+      "content": "   Seit Jahren gibt es Kontakte zwischen der AfD und den Young Republicans. Deren diesjährige Gala stand unter besonderer Beobachtung. Denn seit Januar ist Trump US-Präsident - und für ihn sind die Young Republicans wichtig. Von Anne Schneider.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pilot narrowly avoids ‘midair collision’ with US air force plane near Venezuela",
+      "link": "https://www.theguardian.com/us-news/2025/dec/14/jetblue-pilot-avoids-midair-collision-air-force-venezuela",
+      "published": "2025-12-14T20:28:03",
+      "content": "JetBlue pilot calls incident ‘outrageous’ and says US military refueling tanker didn’t have transponder turned onA JetBlue flight from the small Caribbean nation of Curaçao halted its ascent to avoid colliding with a US air force refueling tanker on Friday, and the pilot blamed the military plane for crossing his path.“We almost had a midair collision up here,” the JetBlue pilot said, according to a recording of his conversation with air traffic control. “They passed directly in our flight path ... They don’t have their transponder turned on, it’s outrageous.” Continue reading...",
+      "content_length": 586,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Death toll rises to 16 in Sydney beach shooting, one French national killed. Follow live",
+      "link": "https://www.france24.com/en/asia-pacific/20251214-live-australia-shooting-jewish-event-sydney-bondi-beach-terrorist-attack",
+      "published": "2025-12-14T19:59:17",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Absynth is back and weirder than ever after 16 years",
+      "link": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+      "published": "2025-12-14T19:00:00",
+      "content": "\n\n\n\t\n\tAbynth 6’s very pretty, but questionably useful preset explorer.\t\n\nAbsynth is something of a cult classic in the soft synth world. It was originally released in 2000, and quickly found an audience among the growing cadre of people making music on computers. But its last major update, Absynth 5, was released in 2009, and Native Instruments officially discontinued the instrument in 2022, citing a lack of resources to continue supporting software in desperate need of modernization. But now the Absynth is making a grand return with version six, created in collaboration with the original designer Brian Clevinger, and featuring presets from Brian Eno and Kaitlyn Aurelia Smith.\nThe core of what made it so beloved …\nRead the full story at The Verge.",
+      "content_length": 757,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Deutschland nimmt belarusische Oppositionelle Babariko und Kolesnikowa auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-belarus-russland-100.html",
+      "published": "2025-12-14T18:28:02",
+      "content": "   Der belarusische Machthaber hatte 123 politische Gefangene freigelassen. Zwei prominente von ihnen werden in Deutschland aufgenommen, sagte Innenminister Dobrindt. Im Bericht aus Berlin äußerte er sich auch zu russischen Cyberangriffen.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'Pressure works': Belarus opposition leader Tikhanovskaya reacts to release of political prisoners",
+      "link": "https://www.france24.com/en/video/20251214-pressure-works-belarus-opposition-leader-tikhanovskaya-reacts-to-release-of-political-prisoners",
+      "published": "2025-12-14T17:51:34",
+      "content": "Svetlana Tikhanovskaya, the exiled Belarus opposition leader, spoke to FRANCE 24 about the release from jail of fellow protest leader Maria Kolesnikova and Nobel Prize winner Ales Bialiatski along with 121 other political prisoners. \"Let's not forget that at least 1,200 political prisoners are still behind bars, people are still being arrested every day, families are still being terrorised and repression hasn't stopped. So, there is still a lot of work ahead of us,\" said the former presidential candidate who stood against Belarus strongman Alexander Lukashenko. Asked about US moves to lift sanctions on Minsk in return for the prisoners’ release, Tikhanovskaya thanked the Trump administration for its role in brokering the deal, while calling for further pressure on the Belarus government. She added: \"Lukashenko released these people not because he became humane, but because he feels the pressure and he wants sanctions lifted.\"",
+      "content_length": 939,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "link": "https://www.tagesschau.de/inland/livestream-ts24-104.html",
+      "published": "2025-12-14T17:30:43",
+      "content": "   Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier live.[mehr]",
+      "content_length": 142,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel's antisemitism criticism of Australia plays to 'domestic audience', expert says",
+      "link": "https://www.france24.com/en/video/20251214-israel-s-antisemitism-criticism-of-australia-plays-to-domestic-audience-expert-says",
+      "published": "2025-12-14T16:48:26",
+      "content": "Sunday's shooting at Sydney's Bondi Beach where a Jewish celebration was taking place was unsurprising given the long history of persecution faced by Jews, said Joseph Downing, a senior lecturer in politics and international relations at Aston University. He added that Israeli leaders’ criticism of Australia for not doing enough to combat antisemitism is largely aimed at a domestic audience, arguing that such claims carry limited weight because antisemitism spreads widely on social media and is not confined to any single country or region.",
+      "content_length": 545,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Netanyahu blames Australia after Sydney shooting targeting Jewish celebration",
+      "link": "https://www.france24.com/en/video/20251214-netanyahu-blames-australia-after-sydney-shooting-targeting-jewish-celebration",
+      "published": "2025-12-14T16:42:17",
+      "content": "Israeli leaders condemned a shooting in Sydney that targeted a Hanukkah celebration and killed 11 people on Sunday, with Prime Minister Benjamin Netanyahu accusing Canberra of fuelling antisemitism in the lead-up to the attack. Brendan Berne, a former Australian ambassador to France and to APEC, called the accusations “unfair,” saying Israeli politicians were seeking to “defame” Australia. While noting a rise in antisemitism, Berne said the Australian government has stepped up efforts in recent years to combat hatred against Jews at home and abroad.",
+      "content_length": 555,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russland erklärt Deutsche Welle zur \"unerwünschten Organisation\"",
+      "link": "https://www.tagesschau.de/inland/deutsche-welle-russland-100.html",
+      "published": "2025-12-14T16:34:39",
+      "content": "   Die russische Justiz verschärft ihr Vorgehen gegen die Deutsche Welle und hat den deutschen Auslandssender zur \"unerwünschten Organisation\" erklärt. Die Intendantin des Senders kritisierte die Entscheidung mit deutlichen Worten.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ghanaian students at UK universities face deportation amid funding crisis",
+      "link": "https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis",
+      "published": "2025-12-14T16:00:06",
+      "content": "Group asks Keir Starmer for help to persuade Ghanaian government to pay backlog of tuition fees and living allowancesStudents from Ghana at UK universities say they are in danger of being deported after being stranded by their own government without promised scholarships or tuition fee payments.The group representing more than 100 doctoral students has petitioned Downing Street and Keir Starmer asking for help to persuade the Ghanaian government to pay the backlog of tuition fees and living allowances running into millions of pounds. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "'Genuine hero':  Bystander tackles alleged gunman during Bondi Beach mass shooting",
+      "link": "https://www.france24.com/en/asia-pacific/20251214-genuine-hero-bystander-tackles-alleged-gunman-during-bondi-beach-mass-shooting",
+      "published": "2025-12-14T15:57:12",
+      "content": "Footage captured by an eyewitness shows a man grappling with an alleged gunman during the Bondi Beach mass shooting in which at least 12 people were killed, before wrestling the weapon off him.",
+      "content_length": 193,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French PM urged to intervene as farmers keep up road blocks over cow 'mass slaughter'",
+      "link": "https://www.france24.com/en/live-news/20251214-french-pm-urged-to-intervene-over-cow-slaughter-protests",
+      "published": "2025-12-14T15:53:15",
+      "content": "Farmers sprayed manure on government offices and kept up roadblocks in southern France on Sunday in protest against a mass cull of cows ordered to contain the spread of a skin disease. Local officials have urged Prime Minister Sebastien Lecornu to urgently intervene.",
+      "content_length": 267,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "++ Liveblog zu Angriff am Bondi Beach: Behörden sprechen von Terrorismus\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-bondi-beach-australien-anschlag-100.html",
+      "published": "2025-12-14T15:39:14",
+      "content": "   Die australischen Behörden ordnen den tödlichen Angriff am Bondi Beach als \"antisemitischen Anschlag\" und \"terroristischen Vorfall\" ein. Unter den Toten ist laut Polizei ein mutmaßlicher Angreifer.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Syrian who killed Americans was part of security forces, interior ministry says",
+      "link": "https://www.france24.com/en/video/20251214-syrian-who-killed-americans-was-part-of-security-forces-interior-ministry-says-1",
+      "published": "2025-12-14T15:30:19",
+      "content": "Syria's interior ministry said Sunday the gunman who killed three Americans in the central Palmyra region the previous day was a member of the security forces who was to have been fired for extremism. Two US troops and a civilian interpreter died in what the Syrian government described as a \"terrorist attack\" on Saturday, while Washington said it had been carried out by an Islamic State group (IS) militant who was then killed.",
+      "content_length": 430,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Inside the high drama of the iPhone 4",
+      "link": "https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4",
+      "published": "2025-12-14T15:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nBy 2010, the iPhone era was in full swing. Smartphones were still a new and unfinished idea - the iPhone had only just gotten copy and paste! - but it was clear that these big slabs of glass were going to change the way we did pretty much everything.\nApple was also already on an annual launch strategy, so we all knew there was another iPhone coming. Then an Apple employee left a prototype in a bar. Gizmodo bought it, took it apart, published all the sordid details, and pretty much broke the internet. And thus, the story of the iPhone 4 began well before the launch of the iPhone 4.\n\nAnd that's just the beginning of the drama! For this epis …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The week in pictures: Machado's Nobel, Benin's botched coup, AI people named Time's Person of Year",
+      "link": "https://www.france24.com/en/culture/20251214-week-in-pictures-machado-nobel-ai-person-year-benin-protests-bulgaria-protests",
+      "published": "2025-12-14T15:11:05",
+      "content": "Venezuelan opposition leader Maria Corina Machado receives her Nobel Peace Prize, AI is named Person of the Year 2025 by Time magazine, and another massive protest in Bulgaria leads to the fall of the government. FRANCE 24 looks back at the week's most striking images.",
+      "content_length": 269,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thousands march in Budapest to protest Orban's government over child abuse scandal",
+      "link": "https://www.france24.com/en/video/20251214-thousands-march-in-budapest-to-protest-orban-s-government-over-child-abuse-scandal",
+      "published": "2025-12-14T14:58:18",
+      "content": "Thousands of Hungarians marched to Prime Minister Viktor Orban's offices on Saturday, led by opposition leader Peter Magyar, who urged the veteran nationalist to resign over an abuse scandal at a juvenile detention centre. The prosecutor's office said on Wednesday that seven people had been detained at the state-run Budapest juvenile centre so far.",
+      "content_length": 350,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Far right eyes comeback as Chile holds presidential election",
+      "link": "https://www.france24.com/en/video/20251214-far-right-eyes-comeback-as-chile-holds-presidential-election",
+      "published": "2025-12-14T14:34:58",
+      "content": "Chileans began voting for a new president Sunday, making a stark choice between the most right-wing candidate in 35 years of democracy and the head of a leftist coalition. Polls show far-right candidate Jose Antonio Kast as the strong front-runner in the runoff vote against his rival Jeannette Jara, a longstanding member of the Communist Party.",
+      "content_length": 346,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "UNHCR-Chef Grandi: \"Hilfsgelder zu kürzen, ist die falsche Strategie\"",
+      "link": "https://www.tagesschau.de/ausland/europa/unhcr-grandi-104.html",
+      "published": "2025-12-14T14:32:57",
+      "content": "   Nach neun Jahren an der Spitze des UN-Flüchtlingshilfswerks scheidet Filippo Grandi aus dem Amt. Im ARD-Interview warnt er vor weiteren Kürzungen - und erläutert, warum das auch im Interesse von Europa ist.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bondi Beach shooting an 'escalation' in attacks against Australia's Jewish community",
+      "link": "https://www.france24.com/en/video/20251214-bondi-beach-shooting-an-escalation-in-attacks-against-australia-s-jewish-community",
+      "published": "2025-12-14T14:30:37",
+      "content": "Two gunmen attacked a Hanukkah celebration at Sydney’s Bondi Beach, killing 11 and drawing international condemnation. It is Australia’s deadliest shooting in nearly three decades. Citing two other attacks on the country’s Jewish community in 2024, FRANCE 24’s Kethevane Gorjestani described the Bondi Beach shooting as an “escalation” in a series of attacks.",
+      "content_length": 359,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The end of OpenAI, and other 2026 predictions",
+      "link": "https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple",
+      "published": "2025-12-14T14:29:18",
+      "content": "\n\n\n\t\n\t\t\n\nHere's a thought: what if the next-generation Siri is awesome? Not just awesome for setting timers and dictating text messages (though that would be nice), but so awesome and fun to talk to that people actually start falling in love with their iPhones. We may not be prepared for what happens next.\nOn this episode of The Vergecast, Sexy Siri is just one of the topics at hand. Nilay and David are joined by Joanna Stern, senior tech columnist at The Wall Street Journal, to talk through their most mild, medium, and spicy predictions for the year to come. \n\nSubscribe: Spotify | Apple Podcasts | Overcast | Pocket Casts | More\nThere are some re …\nRead the full story at The Verge.",
+      "content_length": 690,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gunmen kill several at Jewish gathering in Sydney's Bondi Beach",
+      "link": "https://www.france24.com/en/video/20251214-gunmen-kill-several-at-jewish-gathering-in-sydney-s-bondi-beach",
+      "published": "2025-12-14T14:18:50",
+      "content": "Two gunmen attacked a Hannukah celebration on a Sydney beach Sunday, killing at least 11 people in what Australian Prime Minister Anthony Albanese called an act of antisemitism and terrorism. The massacre at one of Australia’s most popular and iconic beaches followed a wave of antisemitic attacks that have roiled the country over the past year, although the authorities didn’t suggest those episodes and Sunday’s shooting were connected.",
+      "content_length": 439,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Chile’s right pushes immigration as 'politicised' issue in presidential vote, expert says",
+      "link": "https://www.france24.com/en/video/20251214-chile-s-right-pushes-immigration-as-politicised-issue-in-presidential-vote-expert-says",
+      "published": "2025-12-14T14:16:39",
+      "content": "The right in Chile is pushing “immigration” onto the agenda ahead of an election that could see an ultra-conservative candidate win, Rossana Castiglioni, Dean of Social Sciences and History at Diego Portales University, told FRANCE 24. Noting that Chile now has the highest immigration rate in Latin America, Castiglioni added, “this topic has been politicised”.",
+      "content_length": 362,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US police detain 'person of interest' in deadly shooting at Brown University",
+      "link": "https://www.france24.com/en/americas/20251214-us-police-detain-person-of-interest-in-deadly-shooting-at-brown-university",
+      "published": "2025-12-14T14:10:42",
+      "content": "Police in Providence said early Sunday that they had a person of interest in custody after a shooting that rocked the Brown University campus during final exams, leaving two people dead and nine others wounded at the Rhode Island Ivy League school.",
+      "content_length": 248,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Little Foot hominin fossil may be new species of human ancestor",
+      "link": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
+      "published": "2025-12-14T14:00:06",
+      "content": "Australian researchers think the skeleton found in South Africa is not the same species as two found in the same South Africa cave system Little Foot, one of the world’s most complete hominin fossils, may be a new species of human ancestor, according to research that raises questions about our evolutionary past.Publicly unveiled in 2017, Little Foot is the most complete Australopithecus skeleton ever found. The foot bones that lend the fossil its name were first discovered in South Africa 1994, leading to a painstaking excavation over 20 years in the Sterkfontein cave system. Continue reading...",
+      "content_length": 602,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox",
+      "link": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+      "published": "2025-12-14T14:00:00",
+      "content": "\n\n\n\t\n\tAn Xbox Ally in front of an Xbox Ally X.\t\n\nI still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't quite sold on the $1,000 black one, one of my most-hated Windows issues is getting better.\nI didn't stop testing these handhelds after my October review; I've been playing Hollow Knight: Silksong and Blue Prince on them ever since. I installed FSE on an MSI Claw 8 AI Plus, too. And after too many updates to count, I'm finally beginning to trust two of these handhelds to save my game (an …\nRead the full story at The Verge.",
+      "content_length": 733,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bondi Beach shooting: Rabbi killed at Jewish holiday gathering",
+      "link": "https://www.france24.com/en/video/20251214-bondi-beach-shooting-rabbi-killed-at-jewish-holiday-gathering",
+      "published": "2025-12-14T13:59:54",
+      "content": "Hundreds had gathered Sunday to celebrate a Jewish holiday at Bondi Beach where a mass shooting was carried out earlier. The event was to mark the start of the eight-day Hanukkah festival. One of the victims of the shooting was identified as Rabbi Eli Schlanger, assistant rabbi at Chabad of Bondi and a key organizer of the event, by the Orthodox Jewish movement Chabad.",
+      "content_length": 371,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bondi Beach shooting: Explosive device found in vehicle linked to shooters",
+      "link": "https://www.france24.com/en/video/20251214-bondi-beach-shooting-explosive-device-found-in-vehicle-linked-to-shooters",
+      "published": "2025-12-14T13:57:13",
+      "content": "Two gunmen shot dead at least 11 people on Sunday during a Jewish holiday celebration at Sydney’s Bondi Beach, Australian authorities said, declaring it a terrorist attack. One gunman was fatally shot by police and the second arrested. Reporting from Sydney, FRANCE 24's Richelle Harrison said police authorities claimed to have found an explosive device in a vehicle linked to one of the shooters. Harrison added that one of the suspects have been identified as Naveed Akram, who hails from southwest Sydney.",
+      "content_length": 509,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky and US envoys to push on with Ukraine talks in Berlin on Monday",
+      "link": "https://www.france24.com/en/live-news/20251214-zelensky-in-berlin-for-high-stakes-talks-with-us-envoys-europeans",
+      "published": "2025-12-14T13:39:20",
+      "content": "Ukrainian President Volodymyr Zelensky on Sunday voiced readiness to drop his country’s bid to join NATO in exchange for Western security guarantees as he held talks in Berlin with US envoys that were set to continue on Monday. The Ukrainian leader rejected the US push for ceding territory to Russia, saying he hoped Washington would back the idea of freezing the front line where it is.",
+      "content_length": 388,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "AI image generators are getting better by getting worse",
+      "link": "https://www.theverge.com/column/843883/ai-image-generators-better-worse",
+      "published": "2025-12-14T13:00:00",
+      "content": "\n\n\n\t\n\tReal ones will know that Mount Rainier looks too big in this image, but the re-creation of a Washington State ferry in this AI image is uncanny.﻿\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and digital imagery - real or otherwise - follow Allison Johnson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nRemember the early days of AI image generation? Oh how we laughed when our prompts resulted in people with too many fingers, rubbery limbs, and other details easily pointing to fakes. But if you haven't been keeping up, I regret to inform you that the joke is over. AI image generators are getting way better at creating realistic fakes, partly thanks to  …\nRead the full story at The Verge.",
+      "content_length": 837,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "A new old idea about video stores",
+      "link": "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
+      "published": "2025-12-14T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nHi, friends! Welcome to Installer No. 109, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're staying warm, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Google Maps and shopaganda and life as a pop star, finally getting to watch F1 now that it's streaming, rewatching the first two Avatars ahead of the next one's release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the tour, buying a bunch of Ikea smart buttons now that they're on sale in the US, playing with the excellent new Obsidian up …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie sicher sind Finanzratschläge auf TikTok & Co.?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finfluencer-social-media-finanzbilung-100.html",
+      "published": "2025-12-14T12:44:10",
+      "content": "   Sie erklären komplexe Geldthemen in wenigen Sekunden und versprechen finanzielle Freiheit: Finanz-Influencer, auch genannt Finfluencer. Aber wie verlässlich sind Finanztipps, die auf Social Media viral gehen? Von Lena Leun.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Tote und Verletzte durch Schüsse am Bondi Beach in Sydney",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/schuesse-strand-australien-100.html",
+      "published": "2025-12-14T12:23:42",
+      "content": "   Am Bondi Beach im australischen Sydney sind mehrere Menschen durch Schüsse getötet und verletzt worden. Nach bisherigen Erkenntnissen haben zwei Angreifer eine jüdische Chanukka-Feier angegriffen. Die Behörden sprachen von einem antisemitischen Anschlag.[mehr]",
+      "content_length": 263,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gespräche über Frieden: Bringt Berlin die Ukraine weiter?",
+      "link": "https://www.tagesschau.de/inland/berlin-ukraine-treffen-100.html",
+      "published": "2025-12-14T12:19:42",
+      "content": "   Die US-Unterhändler sind schon da, die ukrainische Delegation ebenfalls - Berlin werde \"zur Hauptstadt der Diplomatie\", schrieb Botschafter Makeiev. Die Erwartungen an die Gespräche gehen allerdings auseinander.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Hong Kong’s last major opposition party disbands amid Chinese pressure",
+      "link": "https://www.theguardian.com/world/2025/dec/14/hong-kong-opposition-democratic-party-disbands-chinese-pressure",
+      "published": "2025-12-14T11:19:04",
+      "content": "Senior DP members previously allege being told to disband or face severe consequences including possible arrestHong Kong’s last major opposition party has disbanded after a vote by its members, the culmination of Chinese pressure on the city’s remaining liberal voices in a years-long security crackdown.The Democratic party (DP) has been Hong Kong’s main opposition since its founding three years before the financial hub’s return to Chinese rule in 1997. The party used to sweep city-wide legislative elections and push China on democratic reforms and upholding freedoms. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie die Brombeerkoalition in Thüringen seit einem Jahr regiert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/brombeer-koalition-thueringen-ein-jahr-100.html",
+      "published": "2025-12-14T10:40:25",
+      "content": "   Seit einem Jahr wird Thüringen von einer neuen Landesregierung geführt - unter schwierigen Bedingungen. Die Brombeerkoalition aus CDU, BSW und SPD hat keine eigene Mehrheit im Landtag. Wie funktioniert das? Von Ulrich Sondermann-Becker.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesregierung erleichtert über Gefangenen-Freilassung in Belarus",
+      "link": "https://www.tagesschau.de/ausland/asien/bundesregierung-begruesst-freilassung-belarus-100.html",
+      "published": "2025-12-14T10:02:12",
+      "content": "   Bundeskanzler Merz und Außenminister Wadephul haben erleichtert auf die Freilassung von 123 politischen Gefangenen in Belarus reagiert. Merz sprach von einem Erfolg für die Zivilgesellschaft, die für Freiheit und Bürgerrechte kämpfe.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Far-right José Antonio Kast favored to win as Chile votes in presidential runoff",
+      "link": "https://www.theguardian.com/world/2025/dec/14/chile-presidential-election",
+      "published": "2025-12-14T10:00:03",
+      "content": "Trump-inspired former congressman expected to succeed Gabriel Boric but compulsory voting could create volatilityChileans will head to the polls on Sunday for a presidential runoff in which the favourite is a Donald Trump-inspired candidate who has pledged to build a wall along the country’s borders to keep migrants out.José Antonio Kast, 59, an ultra-conservative former congressman who has built his campaign on a promise to expel tens of thousands of undocumented migrants, faces Jeannette Jara, 51, a former labour minister under the current centre-left president, Gabriel Boric, 39. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Stichwahl in Chile: Rechter Favorit, enttäuschte Linke",
+      "link": "https://www.tagesschau.de/ausland/amerika/stichwahl-chile-100.html",
+      "published": "2025-12-14T09:52:40",
+      "content": "   Bis zuletzt hat die linke Kandidatin versucht, enttäuschte Wähler zurückzugewinnen - doch ihr Konkurrent bleibt weiter der Favorit. Heute wählt Chile in einer Stichwahl eine neue Präsidentin oder einen neuen Präsidenten. Von Daniel Stender.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Angriff auf US-Soldaten in Syrien: Trump kündigt Vergeltung an",
+      "link": "https://www.tagesschau.de/ausland/syrien-trump-usa-is-100.html",
+      "published": "2025-12-14T09:50:58",
+      "content": "   In Syrien sind drei US-Amerikaner bei einem Angriff in der Stadt Palmyra getötet worden, drei weitere Personen wurden verletzt. US-Präsident Trump macht die IS-Terrormiliz dafür verantwortlich - und kündigte Vergeltung an.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "USA schalten altes AKW wieder an - für künstliche Intelligenz",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ki-energiebedarf-atomkraft-100.html",
+      "published": "2025-12-14T08:44:53",
+      "content": "   Das Kraftwerk Three Mile Island steht für den schlimmsten Reaktorunfall in der US-Geschichte. Doch bald soll ein Teil des stillgelegten AKWs wieder hochgefahren werden. Der Grund: der Energiebedarf von künstlicher Intelligenz. Von Sarah Schmidt.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Fahrplan der Deutschen Bahn soll Fernverkehr stärken",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fahrplanwechsel-bahn-104.html",
+      "published": "2025-12-14T08:33:53",
+      "content": "   Bei der Deutschen Bahn gilt ein neuer Fahrplan. Und der verspricht vor allem im Fernverkehr viel: kürzere Taktung auf mehr Strecken und mehr ICE-Sprinter. Ein Versprechen gibt die Bahn auch bei den Preisen. Von Markus Reher.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Weihnachtsplätzchen: Was passiert chemisch beim Backen?",
+      "link": "https://www.tagesschau.de/wissen/forschung/plaetzchen-backen-chemie-100.html",
+      "published": "2025-12-14T08:16:14",
+      "content": "   Mehl, Butter, Zucker - Weihnachtsplätzchen backen ist für viele Tradition. Doch wie genau wird aus den Zutaten das fertige Gebäck? Die Wissenschaft hinter dem Backen. Von Frank Wittig und Jana Mack.[mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
