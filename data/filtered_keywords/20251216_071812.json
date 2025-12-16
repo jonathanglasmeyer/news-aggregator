@@ -1,0 +1,1341 @@
+{
+  "metadata": {
+    "timestamp": "20251216_071812",
+    "input_file": "data/deduplicated/20251216_071812.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 158,
+      "filtered_count": 146,
+      "blacklisted_count": 12,
+      "reduction_rate": "7.6%",
+      "top_blacklist_reasons": {
+        "regen": 3,
+        "fahndung": 1,
+        "sperrung": 1,
+        "landrat": 1,
+        "bürgermeister": 1,
+        "temperatur": 1,
+        "brand in": 1,
+        "stau": 1,
+        "diebstahl": 1,
+        "sicherheitsupdate": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Technisches Problem - Internet-Ausfall im Bundestag war kein Hackerangriff",
+      "link": "https://www.deutschlandfunk.de/internet-ausfall-im-bundestag-war-kein-hackerangriff-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Der gestrige Ausfall des Computernetzwerks im Bundestag geht auf ein technisches Problem zurück - und nicht auf einen Hackerangriff.",
+      "content_length": 132,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Australien - Premier Albanese: IS-Ideologie hat zu Anschlag geführt",
+      "link": "https://www.deutschlandfunk.de/premier-albanese-is-ideologie-hat-zu-anschlag-gefuehrt-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Die beiden Attentäter vom Bondi Beach in Sydney waren nach Darstellung des australischen Premierministers Albanese von der Terrororganisation IS beeinflusst.",
+      "content_length": 157,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Gespräche - Laschet (CDU): \"So weit war man noch nie\"",
+      "link": "https://www.deutschlandfunk.de/laschet-cdu-so-weit-war-man-noch-nie-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Der Vorsitzende des Auswärtigen Ausschusses im Bundestag, Laschet, hat die Berliner Verhandlungen über einen Friedensplan für die Ukraine gelobt.",
+      "content_length": 145,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Beratungen in Berlin - Europäer schlagen multinationale Truppe für die Ukraine vor",
+      "link": "https://www.deutschlandfunk.de/europaeer-schlagen-multinationale-truppe-fuer-die-ukraine-vor-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Europäische Staats- und Regierungschefs haben der Ukraine eine von Europa geführte multinationale Truppe zugesagt. In einer gemeinsamen Erklärung wird zunächst die große Übereinstimmung zwischen den Europäern, der Ukraine und den USA betont. Dann folgen konkrete Vorschläge für einen Waffenstillstand.",
+      "content_length": 301,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Gespräche in Berlin - Merz sieht Chancen für Friedensprozess - territoriale Fragen weiter offen",
+      "link": "https://www.deutschlandfunk.de/merz-sieht-chancen-fuer-friedensprozess-territoriale-fragen-weiter-offen-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Nach den Ukraine-Gesprächen in Berlin hat sich Bundeskanzler Merz vorsichtig optimistisch geäußert: \"Wir haben in den vergangenen Tagen eine große diplomatische Dynamik, vielleicht die größte seit dem Beginn des Krieges erlebt\", sagte der CDU-Vorsitzende nach Beratungen im Kanzleramt mit Vertretern aus Kiew und Washington. Man habe jetzt die Chance auf einen echten Friedensprozess.",
+      "content_length": 384,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vorstoß europäischer Staaten - Vorschlag für die Absicherung eines Friedens in der Ukraine im Detail",
+      "link": "https://www.deutschlandfunk.de/vorschlag-fuer-die-absicherung-eines-friedens-in-der-ukraine-im-detail-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Zehn europäische Staaten und die EU haben Vorschläge unterbreitet, wie sie sich nach einem möglichen Waffenstillstand zwischen der Ukraine und Russland vor Ort engagieren könnten. In dem Dokument geht es ausdrücklich auch um militärische Aspekte.",
+      "content_length": 246,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Warum der Donbass ein zentraler Knackpunkt in den Ukraine-Verhandlungen ist",
+      "link": "https://www.deutschlandfunk.de/warum-der-donbass-ein-zentraler-knackpunkt-in-den-ukraine-verhandlungen-ist-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Bei den Verhandlungen über ein Ende des russischen Angriffskriegs gegen die Ukraine geht es immer wieder auch um die strategisch wichtige Region Donbass. Auch europäische Politiker verweisen mit Nachdruck auf die immense Bedeutung der umkämpften Ostukraine - derzeit wieder anlässlich der Verhandlungen in Berlin.",
+      "content_length": 313,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - Abkehr vom \"Verbrenner-Aus?\" - EU-Kommission präsentiert Vorschläge für Neuwagen-Regeln ab 2035",
+      "link": "https://www.deutschlandfunk.de/abkehr-vom-verbrenner-aus-eu-kommission-praesentiert-vorschlaege-fuer-neuwagen-regeln-ab-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Die EU-Kommission stellt heute ihre Pläne für Änderungen an den Abgasvorgaben für Autos ab 2035 vor.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Östlicher Pazifik - US-Militär: acht Tote bei weiteren Angriffen auf mutmaßliche Drogenboote",
+      "link": "https://www.deutschlandfunk.de/us-militaer-acht-tote-bei-weiteren-angriffen-auf-mutmassliche-drogenboote-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Das US-Militär hat im östlichen Pazifik nach eigenen Angaben erneut drei Boote mutmaßlicher Drogenschmuggler angegriffen und dabei acht Menschen getötet.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Karibik - Trinidad und Tobago gewährt US-Militär Zugang zu Flughäfen",
+      "link": "https://www.deutschlandfunk.de/trinidad-und-tobago-gewaehrt-us-militaer-zugang-zu-flughaefen-112.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Der Karibikstaat Trinidad und Tobago gewährt dem US-Militär Zugang zu seinen Flughäfen.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Großbritannien - US-Präsident Trump reicht Milliardenklage gegen BBC ein",
+      "link": "https://www.deutschlandfunk.de/us-praesident-trump-reicht-milliardenklage-gegen-bbc-ein-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "US-Präsident Trump hat wie angekündigt eine Milliardenklage gegen den britischen Sender BBC eingereicht.",
+      "content_length": 104,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach gestrigem Urteil - Trump bittet Xi um Freilassung von verurteiltem Hongkonger Verleger Lai",
+      "link": "https://www.deutschlandfunk.de/trump-bittet-xi-um-freilassung-von-verurteiltem-hongkonger-verleger-lai-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "US-Präsident Trump hat sich für die Freilassung des Hongkonger Verlegers und Demokratie-Aktivisten Jimmy Lai eingesetzt.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - Ford streicht E-Auto-Angebot zusammen",
+      "link": "https://www.deutschlandfunk.de/ford-streicht-e-auto-angebot-zusammen-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Der US-Autokonzern Ford vollzieht eine Kehrtwende bei seiner E-Auto-Strategie, schreibt 19,5 Milliarden Dollar ab und stellt mehrere Elektro-Modelle ein.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Deutschland und Ukraine wollen wirtschaftliche Zusammenarbeit ausweiten",
+      "link": "https://www.deutschlandfunk.de/deutschland-und-ukraine-wollen-wirtschaftliche-zusammenarbeit-ausweiten-104.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Deutschland und die Ukraine wollen ihre wirtschaftliche Zusammenarbeit ausweiten.",
+      "content_length": 81,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Ukrainische Armee trifft nach eigenen Angaben russisches U-Boot schwer",
+      "link": "https://www.deutschlandfunk.de/ukrainische-armee-trifft-nach-eigenen-angaben-russisches-u-boot-schwer-104.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Die ukrainische Armee hat in ihrem Abwehrkampf gegen Russland wieder Ziele jenseits der Grenze aus der Luft angegriffen.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Paris - Französischer Senat verabschiedet Haushalt - Vermittlungsausschuss übernimmt",
+      "link": "https://www.deutschlandfunk.de/franzoesischer-senat-verabschiedet-haushalt-vermittlungsausschuss-uebernimmt-110.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "In Frankreich ist die Regierung der Verabschiedung eines Haushalts für das kommende Jahr einen Schritt näher gekommen.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Iran - Landeswährung Rial fällt auf Rekordtief",
+      "link": "https://www.deutschlandfunk.de/landeswaehrung-rial-faellt-auf-rekordtief-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Die iranische Währung Rial hat erneut deutlich an Wert verloren und ist auf einen neuen Tiefstand gefallen.",
+      "content_length": 107,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Corona-Pandemie - Spahn verteidigt sein Vorgehen bei der Masken-Beschaffung",
+      "link": "https://www.deutschlandfunk.de/spahn-verteidigt-sein-vorgehen-bei-der-masken-beschaffung-112.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Unionsfraktionschef Spahn hat erneut seine Entscheidungen zur Maskenbeschaffung während der Corona-Pandemie verteidigt.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schuldenkrise - Griechenland zahlt Milliardenkredit an Euro-Partner vorzeitig zurück",
+      "link": "https://www.deutschlandfunk.de/griechenland-zahlt-milliardenkredit-an-euro-partner-vorzeitig-zurueck-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Griechenland hat Kredite des ersten Rettungspakets seiner Euro-Partner aus dem Jahr 2010 vorzeitig zurückgezahlt.",
+      "content_length": 113,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala zu 30 Jahren Haft verurteilt",
+      "link": "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-zu-30-jahren-haft-verurteilt-104.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Der ehemalige kongolesische Rebellenführer Lumbala ist in Frankreich zu 30 Jahren Gefängnis verurteilt worden.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Mexiko - Kleinflugzeug verunglückt: Mindestens sieben Tote",
+      "link": "https://www.deutschlandfunk.de/kleinflugzeug-verunglueckt-mindestens-sieben-tote-100.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Beim Absturz eines Kleinflugzeugs in Mexiko sind mindestens sieben Menschen ums Leben gekommen.",
+      "content_length": 95,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - CDU und SPD geben Personal für Rentenkommission bekannt",
+      "link": "https://www.deutschlandfunk.de/cdu-und-spd-geben-personal-fuer-rentenkommission-bekannt-112.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "CDU und SPD haben ihre Personalvorschläge für die geplante Rentenkommission bekannt gegeben.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Australien - Führende Politiker würdigen \"Held vom Bondi-Beach\" - Obsthändler entwaffnete Attentäter des Chanukka-Massakers",
+      "link": "https://www.deutschlandfunk.de/fuehrende-politiker-wuerdigen-held-vom-bondi-beach-obsthaendler-entwaffnete-attentaeter-des-chanukka-102.html",
+      "published": "2025-12-16T07:14:33",
+      "content": "Führende Politiker Australiens haben den Einsatz eines Zivilisten gewürdigt, der einen der Angreifer des antisemitischen Chanukka-Attentats von Sydney entwaffnet hat.",
+      "content_length": 166,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bondi beach shooting live: alleged gunman Naveed Akram out of coma; father entered Philippines as Indian national weeks before attack, Manila authorities say",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/16/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-hanukah-al-ahmed-hero-gun-control-ntwnfb",
+      "published": "2025-12-16T07:00:17",
+      "content": "Police investigating claims father and son duo received ‘training’ overseas before attack. Follow today’s news liveGet our breaking news email, free app or daily news podcastDreyfus says Australians rising to support community in wake of terror attacksThe former attorney general and special envoy for international human rights, Mark Dreyfus, just been on Radio National. He said this type of hatred will not divide Australia.People are going to unite to reject this hatred. It’s much worse than anyone’s worst nightmares.It’s the event that we in the Jewish community feared, the murder of 15 of our community members celebrating Hanukah ... Continue reading...",
+      "content_length": 663,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "What is ‘home’ now? A woman’s two-year search for safety in the ruins of Gaza",
+      "link": "https://www.theguardian.com/world/ng-interactive/2025/dec/16/what-is-home-now-a-womans-two-year-search-for-safety-in-the-ruins-of-gaza",
+      "published": "2025-12-16T07:00:15",
+      "content": "Nour AbuShammala has returned to her partly destroyed apartment in Gaza City. This is her story of multiple displacements, injury and devastation over the last two yearsWhen 26-year-old Nour AbuShammala stepped back into her family’s apartment in Gaza City in October the rooms were gutted, the walls were damaged by bombing, and there was no water or electricity, but it was still home.Since the outbreak of war in October 2023 she has been forced to flee six times. This is her story of relentless displacement, survival and loss, told using photography and videos provided by AbuShammala and satellite imagery of a ruined Gaza. Continue reading...",
+      "content_length": 650,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Starmer’s communications chief to address cabinet on media strategy overhaul",
+      "link": "https://www.theguardian.com/politics/2025/dec/16/starmer-communications-chief-address-cabinet-media-strategy-overhaul",
+      "published": "2025-12-16T07:00:15",
+      "content": "Exclusive: David Dinsmore to advise ministers as they step up efforts to combat far-right rhetoric onlineKeir Starmer’s Whitehall communications chief will address the cabinet on overhauling the government’s media strategy on Tuesday as ministers increasingly try to combat far-right rhetoric online.David Dinsmore, a former editor of the Sun who was appointed permanent secretary for government communications in November, will speak to ministers about modernising the way they reach voters. Continue reading...",
+      "content_length": 512,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: DAX-Anleger ziehen sich zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-us-jobdaten-100.html",
+      "published": "2025-12-16T06:51:47",
+      "content": "   Der DAX dürfte seine leichten Vortagsgewinne abgeben. Die Anleger gehen in die Defensive vor den Arbeitsmarktdaten aus den USA, die am Nachmittag mehr Klarheit verschaffen werden über die Lage am Jobmarkt.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘They were shot in the front’: premier and top cop defend police response to Bondi terror attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/16/bondi-shooting-police-response-to-terror-attack-ntwnfb",
+      "published": "2025-12-16T06:50:50",
+      "content": "Chris Minns and Mal Lanyon questioned about police resources at Hanukah event and response time after Naveed Akram and father Sajid allegedly started shootingFull report: Bondi terror attack Victims of Bondi beach shootingWhat we know so far about the Bondi terror attack Follow the latest live updatesThe New South Wales premier, Chris Minns, and the commissioner, Mal Lanyon, have defended the police response to the Bondi beach terrorist attack, saying officers with handguns took out the two gunmen who were armed with high-powered weapons.“I am incredibly proud of our police officers,” Lanyon said on Tuesday. “They were confronted by two men armed with long arms. Our police at the scene were armed with pistols.” Continue reading...",
+      "content_length": 740,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anthony Albanese ‘ready for the fight’ to tighten firearms laws as National party and gun groups push back",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/16/anthony-albanese-ready-for-the-fight-to-tighten-firearms-laws-as-national-party-and-gun-groups-push-back-ntwnfb",
+      "published": "2025-12-16T06:23:43",
+      "content": "The Nationals leader, David Littleproud, claimed ‘this isn’t a gun problem, it’s an ideology problem’Full report: Bondi terror attack Victims of Bondi beach shootingWhat we know so far about the Bondi terror attack Follow the latest live updatesAnthony Albanese says he is “ready for the fight” to tighten Australia’s firearms laws after the Bondi beach terror attack, as the gun lobby and the National party push back against changes they claim are attempts to divert attention from radicalisation.Former Liberal prime minister John Howard, who introduced sweeping gun control measures after the 1996 Port Arthur massacre, said he’d support tightening firearms laws and there were too many guns in Australia, but claimed Albanese was focusing on the wrong issue. Continue reading...",
+      "content_length": 783,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bericht: Meta konnte betrügerische Werbung zurückdrängen, hat aber aufgehört",
+      "link": "https://www.heise.de/news/Bericht-Meta-konnte-betruegerische-Werbung-zurueckdraengen-hat-aber-aufgehoert-11115986.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T06:17:00",
+      "content": "Menschen in China dürfen nicht auf Facebook & Co., Firmen von dort dürfen da aber werben. Das wird auch für Betrug genutzt, Maßnahmen dagegen hat Meta gestoppt.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Premier League: Spectacular draw between Manchester United and Bournemouth",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251216-premier-league-spectacular-draw-between-manchester-united-and-bournemouth",
+      "published": "2025-12-16T06:12:32",
+      "content": "Manchester United failed to beat Bournemouth (4-4). The Red Devils remain sixth in the table.",
+      "content_length": 93,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Europe to launch international commission for Ukraine war damages",
+      "link": "https://www.france24.com/en/europe/20251216-live-europe-to-launch-international-commission-for-ukraine-war-damages",
+      "published": "2025-12-16T06:03:11",
+      "content": "Ukraine's President Volodymyr Zelensky will meet European leaders in The Hague on Tuesday to launch an International Claims Commission to compensate Kyiv for hundreds of billions of dollars in damage from Russian attacks and alleged war crimes. The conference comes as Zelensky said talks with European and US leaders on Monday were a \"productive\" step towards agreeing a ceasefire deal. Follow our liveblog for all the latest.",
+      "content_length": 427,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ministers to back regulation of England’s funeral industry after scandals",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/16/ministers-back-regulation-england-funeral-industry-scandals-inquirys",
+      "published": "2025-12-16T06:00:14",
+      "content": "Demands for oversight grow after inquiry calls sector an ‘unregulated free for all’ and families seek stronger safeguardsMinisters are expected to back calls to regulate England’s funeral industry for the first time, after a series of scandals over the handling of remains.Bereaved families have called for a new investigatory body and rules governing professional qualifications after an official inquiry declared the sector an “unregulated free for all”. Continue reading...",
+      "content_length": 476,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bondi terror attack: alleged gunmen travelled to the Philippines before ‘Isis-inspired’ shooting",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/16/bondi-beach-terror-attack-shooters-alleged-father-son-isis-philippines-training-ntwnfb",
+      "published": "2025-12-16T05:59:17",
+      "content": "Police investigating claims Sajid and Naveed Akram received ‘training’ overseas before Sunday’s attackFull report: Bondi terror attackVictims of Bondi beach shootingWhat we know so far about the Bondi terror attackFollow the latest live updatesThe father and son duo allegedly behind the Bondi attack appear to have been inspired by Islamic State, the Australian prime minister says, as police confirmed they were investigating why the pair travelled to the Philippines last month.The New South Wales police commissioner, Mal Lanyon, on Tuesday alleged Naveed Akram, 24, and his 50-year-old father, Sajid, had recently travelled to the Philippines, which was confirmed by authorities in Manila. Continue reading...",
+      "content_length": 714,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australian prime minister praises Bondi hero Ahmed al-Ahmed as ‘best of our country’",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/16/australian-prime-minister-albanese-visits-ahmed-al-ahmed-hospital-bondi-hero-ntwnfb",
+      "published": "2025-12-16T05:44:44",
+      "content": "Anthony Albanese calls man who tackled Bondi beach shooter ‘humble man’ who was ‘trying to get a cup of coffee, simple as that’Full report: Bondi terror attack Victims of Bondi beach shootingWhat we know so far about the Bondi terror attack Follow the latest live updatesThe man who tackled one of the Bondi shooters has spoken from hospital as he recovers from his injuries and been visited by Anthony Albanese, who praised him as “the best of our country”.Ahmed al-Ahmed, 44, risked his life to disarm one of the alleged Bondi attackers and save multiple lives in Sydney on Sunday evening. Continue reading...",
+      "content_length": 611,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Falsche Gesundheitsversprechen mit Vitamin D",
+      "link": "https://www.tagesschau.de/faktenfinder/vitamin-d-144.html",
+      "published": "2025-12-16T05:43:44",
+      "content": "   Vitamin D wird von einigen Influencern als Allheilmittel angepriesen. Auch wenn eine Supplementierung für Risikogruppen von Ärzten empfohlen wird: Die Gesundheitsversprechen in den sozialen Netzwerken sind teilweise stark übertrieben. Von P. Siggelkow.[mehr]",
+      "content_length": 261,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "11KM-Podcast: Putins System der Unterdrückung",
+      "link": "https://www.tagesschau.de/podcast-11km-russland-strafkolonien-100.html",
+      "published": "2025-12-16T05:41:53",
+      "content": "   Mit 14 Jahren postet Arsenij Turbin Putin-kritische Videos, dann steht der Geheimdienst vor seiner Tür. 11KM über den jüngsten politischen Gefangenen Russlands und warum ausgerechnet Jugendliche für Putin eine Bedrohung sind.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US names national guard members killed in Syria as Trump vows to hit Islamic State ‘hard’",
+      "link": "https://www.theguardian.com/world/2025/dec/16/iowa-national-guard-killed-syria-edgar-torres-tovar-william-nathaniel-howard",
+      "published": "2025-12-16T05:40:27",
+      "content": "Sgt Edgar Brian Torres-Tovar, 25, and 29-year-old Sgt William Nathaniel Howard were remembered as dedicated soldiersThe two Iowa national guard members killed in a weekend attack in Syria that the US military blamed on the Islamic State (IS) group were identified on Monday and remembered as dedicated soldiers.The US army named them as Sgt Edgar Brian Torres-Tovar, 25, of Des Moines, and Sgt William Nathaniel Howard, 29, of Marshalltown. Continue reading...",
+      "content_length": 460,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australiens Premier: Attentäter von Sydney wohl von IS-Ideologie beeinflusst",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-anschlag-104.html",
+      "published": "2025-12-16T05:37:58",
+      "content": "   Nach dem Anschlag in Sydney geht die Polizei inzwischen davon aus, dass die Täter wohl von der Ideologie der Terrormiliz IS beeinflusst waren. Die Ermittler verfolgen eine Spur, die auf die Philippinen führt.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verhandlung am BGH: Rassistischer Täter, aber keine rassistische Tat?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bgh-rassismus-mord-100.html",
+      "published": "2025-12-16T05:26:24",
+      "content": "   Ein Landgericht hatte einen Mann wegen der Tötung eines Geflüchteten zu einer geringen Haftstrafe verurteilt. War es Totschlag oder doch Mord aus rassistischen Motiven? Diese Frage muss nun der Bundesgerichtshof klären. Von A. Lagmöller und M. Bauer.[mehr]",
+      "content_length": 259,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Libya looks to its past to build a new future as national museum reopens",
+      "link": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens",
+      "published": "2025-12-16T05:00:14",
+      "content": "It is hoped the institution can help foster new bonds in a fractured nation, but such optimism will be a stretch for someIt was a night at the museum like no other. As the staccato sound of firecrackers and explosions rang out across Martyr’s Square in the heart of Tripoli, for once it was not Libya’s militias battling it out for a larger stake in the country’s oil economy, but a huge firework display celebrating the reopening of one of the finest museums in the Mediterranean.The National Museum of Libya – housing Africa’s greatest collection of classical antiquities in Tripoli’s historic Red Castle complex – had been closed for nearly 14 years due to the civil war that followed the former dictator Muammar Gaddafi’s downfall. Its ceremonial reopening came at the climax of a lavish show compressing Libya’s rich history and attended by diplomats and Arab celebrities, with a full-size Italian orchestra, acrobats, dancers, arches of fire and lights projected on to the fort. It did not lack for circus drama or cost, peaking with a billowing Ottoman sailing ship arriving high above the port on wires to be greeted by an angelic-appearing Libyan woman. Continue reading...",
+      "content_length": 1182,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "New antibiotics hailed as ‘turning point’ in treating drug-resistant gonorrhoea",
+      "link": "https://www.theguardian.com/global-development/2025/dec/16/health-antibiotic-resistance-drugs-superbugs-sexually-transmitted-gonorrhoea",
+      "published": "2025-12-16T05:00:13",
+      "content": "First new treatments for sexually transmitted disease in decades approved by US Food and Drug Administration as number of cases worldwide surge to 82mThe first new treatments for gonorrhoea in decades could be a “huge turning point” in efforts to combat the rise of superbug strains of the bacteria, researchers have said.Gonorrhoea is on the rise around the world, with more than 82m infections globally each year and particularly high rates in Africa and countries in the World Health Organization’s Western Pacific region, which reaches from Mongolia and China to New Zealand. Cases in England are at a record high, and rates in Europe were three times higher in 2023 than in 2014. Continue reading...",
+      "content_length": 704,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "One in nine teenagers in England and Wales asked to handle drugs, weapons or money",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/16/teenagers-approached-criminals-drugs-weapons-gangs",
+      "published": "2025-12-16T05:00:12",
+      "content": "Youth Endowment Fund survey finds a quarter of 13- to 17-year-olds are enticed or scared into committing crimesOne in nine teenagers have been approached by criminals to sell, move or store drugs, weapons or money, research reveals.More than a quarter of those approached accepted the offer, representing about 120,000 teenagers across England and Wales, according to the results of a survey by the Youth Endowment Fund (YEF), an anti-youth violence charity. Continue reading...",
+      "content_length": 478,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump zu Ukraine-Gesprächen: Lösung \"näher als je zuvor\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-reax-ukraine-gespraeche-100.html",
+      "published": "2025-12-16T04:16:53",
+      "content": "   US-Präsident Trump hat sich zufrieden mit dem Verlauf der Verhandlungen in Berlin gezeigt. Er habe \"sehr gute Gespräche\" mit den Europäern und Selenskyj geführt. Größter Streitpunkt sind weiterhin territoriale Zugeständnisse der Ukraine.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Berichte: Trump reicht Milliardenklage gegen BBC ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-verklagt-bbc-100.html",
+      "published": "2025-12-16T03:57:39",
+      "content": "   Er hatte es bereits angedroht - nun ist es offiziell: US-Präsident Trump hat Milliardenklage gegen die BBC eingereicht. Grund ist eine Sendung, für die Teile seiner Rede vom Tag des Sturms auf das Kapitol zusammengeschnitten wurden.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US military kills eight in strikes on alleged narco-trafficking vessels in eastern Pacific",
+      "link": "https://www.france24.com/en/americas/20251216-us-strikes-three-vessels-eastern-pacific-kill-eight-us-military",
+      "published": "2025-12-16T03:39:58",
+      "content": "US military strikes on three suspected narco-trafficking vessels in the eastern Pacific killed eight people on Monday, US Southern Command said, part of an ongoing campaign that has left more than 90 dead. The command said intelligence showed the vessels were operating along known trafficking routes.",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US military says deadly strikes carried out on three vessels in eastern Pacific",
+      "link": "https://www.theguardian.com/us-news/2025/dec/15/us-military-strikes-vessels-pacific",
+      "published": "2025-12-16T03:18:59",
+      "content": "US Southern Command says eight men killed in attacks on boats it said it were ‘engaged in narco-trafficking’ The US military has launched a fresh round of deadly strikes on foreign vessels suspected of trafficking narcotics.The US Southern Command posted footage of the strikes on social media on Monday, announcing it had hit three vessels in international waters, killing a total of eight men. Continue reading...",
+      "content_length": 415,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump files up to $10bn lawsuit against BBC over edit of Capitol speech – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2025/dec/15/ilhan-omar-trump-immigration-politics-latest-updates",
+      "published": "2025-12-16T03:05:36",
+      "content": "This live blog is now closed. You can find more of our US politics coverage hereDonald Trump sues BBC for up to $10bn over edit of January 6 speechCNBC reported last week that Trump could sign an executive order “as soon as Monday” that would allow for reclassification of marijuana, citing a person familiar with the matter.Trump first floated the idea that he was “looking at reclassification” in August, and the Washington Post (paywall) was first to report last week that he’s planning to direct agencies to reclassify marijuana from a Schedule I to a Schedule III drug, similar to some common prescription painkillers. Continue reading...",
+      "content_length": 643,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Donald Trump sues BBC for up to $10bn over edit of January 6 speech",
+      "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-bbc-lawsuit",
+      "published": "2025-12-16T02:49:30",
+      "content": "President accuses corporation of ‘intentionally, maliciously and deceptively’ editing speech in Panorama broadcastDonald Trump has filed a lawsuit against the BBC over its editing of a speech he made to supporters in Washington before they stormed the US Capitol in 2021, requesting up to $10bn in damages.The US president alleged the broadcaster “intentionally, maliciously, and deceptively” edited his 6 January speech before the insurrection, in an episode of Panorama just over a year ago. Continue reading...",
+      "content_length": 513,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tschechiens neue Regierung: Gegenwind für Pläne der EU",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-plaene-100.html",
+      "published": "2025-12-16T02:18:10",
+      "content": "   Tschechiens neue Regierung unter dem Populisten Babis ist erst einen Tag im Amt - doch sie hat schon Widerstand gegen Schlüsselprojekte der EU angekündigt. Auch die Pläne zu eingefrorenem russischen Vermögen lehnt sie ab. Von M. Allweiss.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Debatte über Verbrenner-Aus: EU-Kommission stellt Vorschläge vor",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-eu-102.html",
+      "published": "2025-12-16T02:03:25",
+      "content": "   Die EU-Kommission will heute Vorschläge für Änderungen am Verbrenner-Aus vorstellen. Noch ist unklar, was das konkret heißt - doch während von den Grünen Kritik kommt, feiert die EVP bereits das Ende der Vorgabe. Von T. Spickhofen.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump urges Xi Jinping to free HK pro-democracy media tycoon Jimmy Lai",
+      "link": "https://www.theguardian.com/world/2025/dec/16/trump-urges-xi-jinping-to-free-hk-pro-democracy-media-tycoon-jimmy-lai",
+      "published": "2025-12-16T01:40:28",
+      "content": "US president says he feels ‘so badly’ about Lai’s conviction and has spoken to the Chinese leader about itDonald Trump has said he wants Chinese leader Xi Jinping to release Jimmy Lai as he voiced sadness over the Hong Kong media mogul’s conviction on national security charges.“I feel so badly. I spoke to President Xi about it, and I asked to consider his release,” Trump told reporters on Monday, without specifying when he asked Xi. Continue reading...",
+      "content_length": 456,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump files $10 billion defamation lawsuit against BBC over edited Capitol speech",
+      "link": "https://www.france24.com/en/europe/20251216-trump-sues-bbc-edited-us-capitol-speech",
+      "published": "2025-12-16T01:26:48",
+      "content": "President Donald Trump on Monday sued the BBC for defamation, accusing the British public broadcaster of misleadingly editing clips of his January 6, 2021 speech to suggest he urged supporters to storm the US Capitol, while omitting remarks calling for peaceful protest.",
+      "content_length": 270,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation",
+      "link": "https://www.theguardian.com/us-news/2025/dec/15/trump-fentanyl-weapon-of-mass-destruction-drug-war",
+      "published": "2025-12-16T01:19:05",
+      "content": "Order classifies opioid as potential chemical weapon amid administration’s attempts to combat drug smugglingDonald Trump signed an executive order on Monday designating fentanyl as a “weapon of mass destruction” – classifying the synthetic opioid not only a lethal drug, but as a potential chemical weapon.The order also directs the Pentagon and justice department to take additional steps to combat production and distribution of the drug. The designation comes amid the administration’s use of escalating and increasingly militaristic tactics to combat drug smuggling. Continue reading...",
+      "content_length": 590,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "India’s electoral roll revision threatens democracy and Muslims, say critics",
+      "link": "https://www.theguardian.com/world/2025/dec/16/india-electoral-roll-special-intensive-revision-threatens-democracy-muslims",
+      "published": "2025-12-16T01:00:07",
+      "content": "Opposition claims SIR process being used to disenfranchise minority groups to benefit Narendra Modi’s governmentIndia’s political opposition has warned that democracy is under threat amid a controversial exercise to revise the voter register across the country, which critics say will disenfranchise minority voters and entrench the power of the ruling Narendra Modi government.An debate erupted in India’s parliament last week over the special intensive revision (SIR) process, which is taking place in nine states and three union territories, in one of the biggest revisions of the country’s electoral roll in decades. Continue reading...",
+      "content_length": 640,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australia PM says Bondi beach attack driven by 'Islamic State ideology'",
+      "link": "https://www.france24.com/en/asia-pacific/20251216-australia-pm-bondi-beach-attack-islamic-state-ideology",
+      "published": "2025-12-16T00:35:02",
+      "content": "Australian Prime Minister Anthony Albanese said on Tuesday that a father and son who opened fire at a Jewish festival on Sydney’s Bondi Beach appeared to be driven by Islamic State group ideology. Sajid Akram and his son Naveed killed 15 people at a Hanukkah celebration, in what authorities called an antisemitic terrorist attack.",
+      "content_length": 331,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nissan begins production of new electric car in Sunderland",
+      "link": "https://www.theguardian.com/business/2025/dec/16/nissan-begins-production-of-new-electric-car-in-sunderland",
+      "published": "2025-12-16T00:01:06",
+      "content": "Launch of third generation of Leaf follows investment of more than £450m into model, including £300m direct to UKNissan has started the production of its latest electric car in Sunderland, a crucial step in the UK automotive industry’s transition away from petrol and diesel.The Japanese manufacturer will launch the third generation of the Leaf on Tuesday, which was the first mass-market battery electric car to be built in the UK. Nissan has made 282,704 Leaf models at the north-east England plant so far. Continue reading...",
+      "content_length": 529,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The best AirPods to buy",
+      "link": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "published": "2025-12-15T23:47:05",
+      "content": "\n\n\n\t\n\t\t\n\nWhether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with the company’s own devices. These convenient tricks include audio sharing, automatic switching between Apple’s various devices, live translation, Apple TV integration, and more.\n\nThere are currently four AirPods models to choose from, each with its own distinct appeal and upside. You likely already know whether you’re more interested in earbuds or over-ear headphones, so that’s the first divide. In the case of over-ear headphones, your only choice is the AirPods Max. But in the earbuds category, Apple offers three options: the AirPods Pro 3, the AirPods 4 with Active Noise Cancellation, and the plain old AirPods 4.\n\n\nHow we test AirPods\n\n\n\nWe spend dozens of hours using AirPods products for our initial reviews, and that testing extends for weeks and months afterward. That’s where we assess sound quality, mic performance, and overall reliability. Where applicable, we test the active noise cancellation across a wide range of environments and have put the hearing protection of the AirPods Pro through the paces at concerts. We also closely examine ecosystem benefits and how the AirPods and Apple’s other products work together.\n\n\nThe best AirPods overall\nAirPods Pro 3\n\nScore: 9ProsConsImproved ANC and soundLonger batteryStandalone workout trackingLive translationSame priceIP57Better fitCamera remote control is handy!If you’re hoping for traditional foam ear tips, this isn’t that\nWhere to Buy: $249 $219.99 at Amazon $249 $209.99 at Best Buy $249 $219.99 at Target\nNoise cancellation:&nbsp;Yes /&nbsp;Battery life:&nbsp;8 hours (ANC on) / Water resistance:&nbsp;IP57 /&nbsp;Bluetooth codecs:&nbsp;AAC, SBC / Multipoint: No / Works best with:&nbsp;iOS, Windows, macOS / Ear tips:&nbsp;Foam and silicone (XXS, XS, S, M, L)\n\nThe third-gen AirPods Pro are better than their predecessor in numerous ways, starting with the fit. Apple’s latest flagship earbuds feature a more angular design and a wider range of ear tip sizes — including an XXS option. Their “foam-infused” tips combine foam and silicone, so they expand slightly for better comfort and a tighter seal. If you’ve ever cursed at AirPods for falling out of your ears, the Pro 3’s improved fit alone might sell you.\n\nThey also deliver upgrades to noise cancellation, which allow them to rival even the AirPods Max. They’re noticeably better at dampening high-frequency sounds, like voices, than prior generations of AirPods Pro, and they can eliminate the low hum of an airplane engine. Sound quality has also been improved in ways that were surprisingly easy to pick out: bass is punchier, vocals are clearer, and you’ll notice new layers in your favorite tracks. Meanwhile, battery life will last you a full work day with ANC enabled before the buds need to go back into the charging case for a refill.\n\nIn addition to giving users the flexibility to use these earbuds as clinical-grade hearing aids — a feature introduced last year — Apple has added a heart rate sensor to this model, allowing you to track workouts right from your ears. Add in IP57 water and dust resistance, stronger Find My capabilities, and a live translation feature, and it’s clear the AirPods Pro are Apple’s best wireless earbuds by a wide margin.\n\nRead our full AirPods Pro 3 review.\n\nThe best AirPods for those who find ear tips uncomfortable\nApple AirPods 4\n\nScore: 7ProsConsUpgraded sound qualityVoice isolation can noticeably improve call clarityDeep Apple ecosystem integrationNo wireless chargingNo built-in speaker on the caseNo proper multipoint\nWhere to Buy: $129 $74 at Walmart $179 $139.99 at Best Buy (with ANC) $129 $79.99 at Target\nNoise cancellation:&nbsp;No /&nbsp;Battery life:&nbsp;5 hours / Water resistance:&nbsp;IP54 /&nbsp;Bluetooth codecs:&nbsp;AAC, SBC / Multipoint: No / Works best with:&nbsp;iOS, Windows, macOS\n\nNot everyone likes the way ear tips feel. Even with venting and the other measures Apple has taken to improve comfort and reduce that clogged-up sensation in the AirPods Pro 3, some people just prefer the regular, one-size-fits-most AirPods. Their open design means you’re never totally cut off from the outside world. The AirPods Pro have an impressive transparency mode, but the AirPods 4 don’t need it.\n\nApple currently sells two versions of the AirPods 4. No matter which you choose, you’ll get the same good sound quality, microphone performance on voice calls, and IP54 water resistance. The more expensive pair has features that you might want, including active noise cancellation and a more advanced charging case (it supports Find My and wireless charging). You might be surprised by how well the noise cancellation works even with an unsealed design; it reduces office ambience and annoying hums, but louder sounds and voices still cut through the ANC, since these don’t use a sealed ear tip.\n\nIf you’re truly interested in noise-canceling earbuds, consider upgrading to the AirPods Pro 3. They offer much better audio quality, stronger ANC, and a better experience overall. I’d only steer you to the noise-canceling AirPods 4 if you’re really opposed to ear tips.\n\nRead our full AirPods 4 review.\n\nThe best for those who prefer headphones\nAirPods Max (USB-C)\n\nScore: 8.5ProsConsHigh-luxury designTerrific, balanced sound qualityVery effective noise cancellationDependable and foolproof controlsSpatial audio for immersive entertainmentHeavier than many competitorsNo 3.5mm jackWired listening requires $35 cableCase is an abominationLacks latest AirPods Pro features\nWhere to Buy: $549 $449.99 at Amazon $548.99 $449.99 at Best Buy $549 $499 at B&amp;H Photo\nNoise cancellation:&nbsp;Yes /&nbsp;Battery life:&nbsp;20 hours (ANC on) / Water resistance:&nbsp;No /&nbsp;Bluetooth codecs:&nbsp;AAC, SBC / Multipoint: No / Works best with:&nbsp;iOS, Windows, macOS\n\nWe’ve gone back and forth recommending Apple’s $549 AirPods Max over the last few years. They have a standout design, but the good looks and premium feel come at a high cost. Not just that, these headphones are considerably heavier than most competitors and can get fatiguing over extended use. But the fabric ear cups on the AirPods Max are much more pleasant in warm weather than the pleather you’ll find on Bose and Sony products, and probably won’t leave you with sweaty ears.&nbsp;\n\nThe AirPods Max provide impressive noise cancellation, and the transparency mode is clearer and more natural-sounding than any other set of headphones on the market. As for sound, Apple’s headphones have a pleasant sound signature that works well across a wide range of genres. They’re easy to listen to with an impressive soundstage for closed-back headphones.\n\nYou lose some features found in the AirPods Pro 3 and AirPods 4 with ANC — including conversation awareness and adaptive audio — because the AirPods Max use Apple’s older H1 chip. However, the company added lossless audio over USB-C in April, meaning these headphones offer the richest audio fidelity in Apple’s entire lineup.&nbsp;\n\nRead our full AirPods Max (Lightning) review.\n\nWhat’s coming next\n\nWith Apple’s fall hardware event in the rearview mirror, we’re at a point where the company’s lineup seems settled (for now). Apple doesn’t upgrade its entry-level AirPods line on an annual basis like some of its other products, and the Pro 3 just recently hit the market. Meanwhile, the AirPods Max have gone relatively unchanged since their release in 2020, with Apple adding a USB-C model and new color options last year. It’s possible that we’ll see a camera-equipped pair of AirPods with support for Apple Intelligence in the future — a report from last year indicated as much — but it’s not likely to be anytime soon.\n\nUpdate, December 15th: Adjusted to reflect current pricing / availability, as well as several related links.",
+      "content_length": 8058,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "France's first lady Brigitte Macron apologises after slur sparks feminist backlash",
+      "link": "https://www.france24.com/en/france/20251215-french-first-lady-slur-feminist-macron",
+      "published": "2025-12-15T23:33:06",
+      "content": "France’s first lady Brigitte Macron apologised on Monday for using a slur against activists that triggered a feminist backlash and a social media trend against her. Speaking to Brut, Macron, 72, said she was sorry if she hurt women, but defended the remarks as private comments.",
+      "content_length": 278,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "21 states and DC join the FTC’s lawsuit against Uber",
+      "link": "https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint",
+      "published": "2025-12-15T23:17:29",
+      "content": "\n\n\n\t\n\t\t\n\nOn Monday, nearly two dozen states, plus the District of Columbia, filed an amended complaint in the FTC's lawsuit against Uber. According to the lawsuit, Uber charged consumers for the Uber One subscription without their consent, billed them before the end of a free trial, and shared misleading claims about how much consumers can save with the subscription. Uber One subscribers were allegedly forced to go through a lengthy and difficult process to cancel the subscription, which could mean tapping through up to 23 screens and taking 32 actions.\nThe states joining the lawsuit today are Alabama, Arizona, California, Connecticut, Illinois, Mar …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How Roomba invented the home robot — and lost the future",
+      "link": "https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics",
+      "published": "2025-12-15T22:46:09",
+      "content": "\n\n\n\t\n\tRoomba is way past code red.\t\n\nFor many, iRobot's Roomba robot vacuum was their first experience with a home robot. When I got my Roomba in 2005, I felt like I was a step closer to my dream of living in a Jetsons-style home where a robot did my chores for me. It was expensive, around $300 for a small black disc on wheels that sucked up dirt, but its promise to do one of my most-hated chores while I was at work was compelling. The reality back then was that I spent more time babysitting it than it did actually cleaning my floors, but it was an exciting glimpse into the future of today's excellent robot vacuums.\nI wasn't alone in my excitement. Robot vacuums quickly became …\nRead the full story at The Verge.",
+      "content_length": 721,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
+      "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+      "published": "2025-12-15T22:41:43",
+      "content": "Like most tools, generative AI models can be misused. And when the misuse gets bad enough that a major dictionary notices, you know it’s become a cultural phenomenon.\nOn Sunday, Merriam-Webster announced that “slop” is its 2025 Word of the Year, reflecting how the term has become shorthand for the flood of low-quality AI-generated content that has spread across social media, search results, and the web at large. The dictionary defines slop as “digital content of low quality that is produced usually in quantity by means of artificial intelligence.”\n“It’s such an illustrative word,” Merriam-Webster president Greg Barlow told the Associated Press. “It’s part of a transformative technology, AI, and it’s something that people have found fascinating, annoying, and a little bit ridiculous.”Read full article\nComments",
+      "content_length": 820,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Europäer wollen multinationale Truppe für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-europaer-100.html",
+      "published": "2025-12-15T22:31:55",
+      "content": "   Bei den Ukraine-Gesprächen in Berlin haben mehrere europäische Staats- und Regierungschefs eine gemeinsame Erklärung verabschiedet. Darin geht es um die Absicherung eines möglichen Waffenstillstands.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "UK and South Korea sign new trade deal aimed at cars, salmon and Guinness",
+      "link": "https://www.theguardian.com/business/2025/dec/15/uk-south-korea-sign-new-trade-deal-cars-food-drink-pharmaceutical-exports",
+      "published": "2025-12-15T22:30:04",
+      "content": "Government says arrangement will bring in extra £400m on top of more than £15bn of existing annual trade with KoreaThe UK has signed a new trade deal with South Korea designed to increase exports of cars, Scottish salmon and Guinness canned in Britain.Keir Starmer described the deal, which replaces an existing agreement, as “a huge win for British business and working people”. It follows UK deals with India and the US, and the free trade agreement with the EU clinched this year. Continue reading...",
+      "content_length": 503,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trinidad and Tobago to open airports to US military as Venezuela tensions rise",
+      "link": "https://www.france24.com/en/americas/20251215-trinidad-tobago-caribbean-airports-us-military",
+      "published": "2025-12-15T22:28:01",
+      "content": "The government of Trinidad and Tobago said on Monday it would allow the US military access to its airports in the coming weeks, as tensions rise between Washington and Venezuela. Authorities said a newly installed US radar in Tobago is for fighting crime and denied the country would be used to launch attacks.",
+      "content_length": 310,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Stranger Things S5 trailer teases Vol. 2",
+      "link": "https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/",
+      "published": "2025-12-15T22:14:28",
+      "content": "\nWe’re 10 days away from the next installment of the fifth and final season of Stranger Things, and Netflix has released a new trailer for what it’s calling Volume 2. This will cover episodes five through seven, with the final episode comprising Vol. 3.\n(Spoilers for Season 5, Vol. 1 below.)\nSeason 4 ended with Vecna—the Big Bad behind it all—opening the gate that allowed the Upside Down to leak into Hawkins. We got a time jump for S5, Vol. 1, but in a way, we came full circle, since those events coincided with the third anniversary of Will’s original disappearance in S1.Read full article\nComments",
+      "content_length": 604,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Apple TV adds Google Cast streaming, but only on Android",
+      "link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android",
+      "published": "2025-12-15T22:11:46",
+      "content": "\n\n\n\t\n\t\t\n\nNow it will be easier for Android users to watch Apple TV content on their TV with the addition of Google Cast support. However, even after this update, Google Cast is only an option on the Android version of Apple TV, not the iOS version. Likewise, the Android version still doesn't support AirPlay. \nThe addition of Google Cast adds a core feature that's been missing from the Android version of Apple's streaming app since it launched earlier this year. It also arrives just a couple of weeks after Netflix dropped casting support from phones to most smart TVs, forcing people to stream through the display's built-in apps.\n\nIf you're not seeing …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "China sees first annual investment decline in 30 years",
+      "link": "https://www.france24.com/en/tv-shows/business/20251215-china-sees-first-annual-investment-decline-in-30-years",
+      "published": "2025-12-15T22:01:27",
+      "content": "Despite logging record a trade surplus, economic data for November showed China's domestic woes are deepening.  Retail sales grew at their slowest pace in three years and investment slowed sharply, signalling Chinese people and businesses are becoming increasingly cautious. Plus, Roomba maker iRobot has filed for bankruptcy after struggling with competition, debt, tariffs and Amazon's buyout offer later being called off. It's now being taken private by its main Chinese supplier.",
+      "content_length": 483,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ahmed or Edward? Disinformation clouds identity of Bondi shooting hero",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251215-ahmed-or-edward-disinformation-clouds-identity-of-bondi-shooting-hero",
+      "published": "2025-12-15T21:50:39",
+      "content": "In the aftermath of the anti-Semitic Bondi Beach attack, footage emerged showing a mysterious bystander disarming one of the gunmen. Scores of users praised this courageous man, who was quickly identified by journalists. But other accounts claimed that the true hero was not Ahmed Al Ahmed, but Edward Crabtree. In this edition of Truth or Fake, we confirm that the genuine hero was indeed Ahmed Al Ahmed, a 43-year-old Syrian refugee living in Australia.",
+      "content_length": 455,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US dangles security guarantees for Ukraine but no deal on 'painful' territorial concessions",
+      "link": "https://www.france24.com/en/video/20251215-us-dangles-security-guarantees-for-ukraine-but-no-deal-on-painful-territorial-concessions",
+      "published": "2025-12-15T21:37:23",
+      "content": "The European leaders in a joint statement at the Berlin talks proposed a force as part of US-backed \"robust security guarantees\" aimed at guaranteeing that Russia would not violate an agreement to end the war, which started with Moscow's 2022 full-scale invasion. Zelensky said earlier that talks with Trump's envoys were \"not easy\" but brought \"progress\" on the question of security guarantees. FRANCE 24's Fraser Jackson reports from Washington.",
+      "content_length": 447,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "European leaders propose ‘multinational force’ and hail ‘significant progress’ on Ukraine talks – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/15/ukraine-us-russia-berlin-nato-eu-russian-funds-steve-witkoff-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
+      "published": "2025-12-15T21:29:30",
+      "content": "This live blog is now closed. For more on Ukraine, read our full report:Europe ready to lead ‘multinational force’ in UkraineSeparately, the commission’s deputy chief spokesperson Olof Gill has just confirmed that commission president Ursula von der Leyen will attend the Berlin talks this evening.Not a surprise at all, but good to have it formally confirmed. Continue reading...",
+      "content_length": 380,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "European leaders agree Ukraine security guarantees must include ‘multinational force’",
+      "link": "https://www.france24.com/en/europe/20251215-european-leaders-agree-ukraine-security-guarantees-must-include-multinational-force",
+      "published": "2025-12-15T21:24:59",
+      "content": "European leaders meeting in Berlin on Monday agreed that Ukraine required robust security guarantees, including a European-led \"multinational force\" with US support, before making any decisions on potential territorial concessions to Russia. A statement issued by 10 European leaders said security guarantees should also include a US-led ceasefire monitoring mechanism.",
+      "content_length": 369,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "200,000 displaced in DRC as the M23 rebels eye the mineral-rich south",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251215-200-000-displaced-in-drc-as-the-m23-rebels-eye-the-mineral-rich-south",
+      "published": "2025-12-15T21:24:21",
+      "content": "In tonight's edition, 200,000 displaced in the DRC as the M23 rebels eye the mineral-rich southern Congo. Also, ex-Congolese rebel leader Roger Lumbala was sentenced in France to 30 years in prison over atrocities committed two decades ago during the Second Congo War. And the West African Bloc ECOWAS rejects the transition plan put forth by Guinea-Bissau's new military authorities.",
+      "content_length": 384,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
+      "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
+      "published": "2025-12-15T21:15:55",
+      "content": "Microsoft is killing off an obsolete and vulnerable encryption cipher that Windows has supported by default for 26 years following more than a decade of devastating hacks that exploited it and recently faced blistering criticism from a prominent US senator.\nWhen the software maker rolled out Active Directory in 2000, it made RC4 a sole means of securing the Windows component, which administrators use to configure and provision fellow administrator and user accounts inside large organizations. RC4, short for Rivist Cipher 4, is a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987. Within days of the trade-secret-protected algorithm being leaked in 1994, a researcher demonstrated a cryptographic attack that significantly weakened the security it had been believed to provide. Despite the known susceptibility, RC4 remained a staple in encryption protocols, including SSL and its successor TLS, until about a decade ago.\nOut with the old\nOne of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a key role in last year’s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) in September called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the continued default support for RC4.Read full article\nComments",
+      "content_length": 1853,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine-Gespräche in Berlin: Diplomatischer Kraftakt für Merz",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-116.html",
+      "published": "2025-12-15T21:08:36",
+      "content": "   Mit den Ukraine-Gesprächen kehrt Berlin auf die diplomatische Weltbühne zurück. Damit geht Kanzler Merz aber auch ins Risiko, an den Ansprüchen der selbstgewählten Führungsrolle zu scheitern. Von Stephan Stuchlik.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ford ends F-150 Lightning production, starts battery storage business",
+      "link": "https://arstechnica.com/cars/2025/12/ford-ends-f-150-lightning-production-starts-battery-storage-business/",
+      "published": "2025-12-15T21:05:18",
+      "content": "Ford’s F-150 Lightning production line has fallen silent, and its employees are now building more gas and hybrid trucks. The automaker continues to retreat from the big bet it made on Americans embracing full-size battery electric pickup trucks, and will focus instead on cheaper vehicles, hybrids, and range-extended electric vehicles—or EREVs—instead, it announced today.\nOne of those EREVs will be the Lighting’s replacement. With a gasoline generator that just charges the battery—series hybrid fans rejoice—the next Lightning comes with the towing ability that Ford says its customers consider “non-negotiable,” and up to 700 miles (1,126 km) of range.\n“Our next-generation F-150 Lightning EREV will be every bit as revolutionary. It delivers everything Lightning customers love – near instantaneous torque and pure electric driving. But with a high-power generator enabling an estimated range of 700+ miles, it tows like a locomotive. Heavy-duty towing and cross-country travel will be as effortless as the daily commute,” said Doug Field, Ford’s chief EV, digital and design officer.Read full article\nComments",
+      "content_length": 1116,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ford’s big bet on EVs didn’t pan out — now it’s pivoting to hybrids and energy storage",
+      "link": "https://www.theverge.com/news/844813/ford-hybrid-erev-f150-energy-storage-jobs",
+      "published": "2025-12-15T21:05:00",
+      "content": "\n\n\n\t\n\t\t\n\nFord announced a series of changes to its gas- and electric-powered vehicle business aimed at dramatically increasing hybrid vehicle production in the face of slowing EV sales. The automaker also will introduce some new products as part of this plan, including an extended-range EV version of its F-series truck and battery storage systems to meet growing demand from AI data center construction.\nThe news comes after Ford has weathered years of compounding losses from its struggling EV business. The 122-year-old company once had aspirations to surpass Tesla in battery-electric vehicle sales, but higher material costs and waning demand have sin …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "France says cattle disease under control as farm protests continue",
+      "link": "https://www.france24.com/en/video/20251215-france-says-cattle-disease-under-control-as-farm-protests-continue",
+      "published": "2025-12-15T20:41:43",
+      "content": "France said on Monday the lumpy skin disease affecting cattle is under control in the country even as farmers continue a second week of protests against the government's handling of the virus by blocking highways with tractors and dumping manure. Lumpy skin disease is a virus spread by insects that affects cattle and buffalo, causing blisters and reducing milk production. While not harmful to humans, it often results in trade restrictions and severe economic losses.",
+      "content_length": 470,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time",
+      "link": "https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025",
+      "published": "2025-12-15T20:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nSony’s annual PlayStation sale has been going on for nearly a month now, offering discounts on everything from the PlayStation 5 Digital Edition and PlayStation Portal to Sony’s standard DualSense controller. However, the end of the sale is quickly approaching, with Sony’s website showing that some deals are set to expire as soon as Friday, December 19th, while others have a little more runway through December 28th. That means you don’t have much longer to sneak in a last-minute gift for yourself or someone you love.\n\n\nPlayStation 5 Digital Edition (slim)\n\nWhere to Buy: $499 $399 at Amazon  $499 $399 at Walmart $499 $399 at PlayStation Direct\nNow through December 25th, the PS5 Digital Edition is on sale for $399 ($100 off) — its lowest price of the year — at Amazon, Walmart, and Sony’s PlayStation Direct storefront. While this version is the least expensive console in Sony’s lineup, it lacks a disc drive, so games have to be downloaded. With modern titles often topping 50GB, a fast, consistent internet connection is a must. That said, you can pick up an external disc drive designed to work with the system for $79.99 if you later decide you’d rather go the physical media route.\nPlayStation 5 (slim)\n\nWhere to Buy: $549.99 $449 at Amazon $549.99 $449 at Walmart $549.99 $449.99 at Best Buy\nThe standard PlayStation 5 slim is also on sale at Amazon, Walmart, and Best Buy through December 25th, matching its lowest price of the year at $449 ($100 off). It’s similar to the Digital Edition and supports all of the same games, but it features a built-in disc drive, allowing you to play your stack of older PlayStation titles, the latest PS5 games, and Blu-rays right out of the box. If you prefer physical media, the PS5 is the way to go, as it’s ultimately more affordable than the combined price of a PS5 Digital Edition and Sony’s external drive.\n\nRead our full PS5 Slim impressions.\nPlayStation 5 Pro\n\nWhere to Buy: $749 $648.99 at Amazon $749 $649 at Walmart $749 $649 at PlayStation Direct\nIf you want a little more oomph, you can also save on the more powerful PlayStation 5 Pro through December 25th, which is currently matching its all-time low of around $649 ($101 off) at Amazon, Walmart, and PlayStation Direct. The PS5 Pro features a bigger GPU, faster memory, improved ray tracing, Wi-Fi 7 support, and AI-based upscaling. The upgraded internals let you play “PS5 Pro Enhanced” titles at higher resolutions or frame rates than on a standard PS5; however, there are no PS5 Pro-exclusive games. While we did notice some slight graphical improvements when playing games on the more powerful console, the differences were only apparent when sitting closer than 10 feet away from the TV.\n\nRead our full PS5 Pro review.\nPlayStation Portal\n\nWhere to Buy: $199.99 $178.99 at Amazon $199.99 $179 at Walmart $199.99 $179.99 at Best Buy\nThe PlayStation Portal is currently down to its all-time low of $178.99 ($21 off) at Amazon, Walmart, and Best Buy through December 25th. When the handheld remote player originally launched in 2023, its sole function was to remotely stream games from the PS5 via Wi-Fi. The Portal has improved since then, with Sony introducing a new cloud streaming feature that allows PlayStation Plus Premium subscribers to stream select PS5 games, including Astro Bot and Resident Evil 4, directly from the cloud instead of from their console over Wi-Fi. Portal users can also stream select titles from their own library without needing to connect to their PS5 console at all, making the 8-inch device a little more versatile than it was at launch.\n\nRead our full PlayStation Portal review.\nSony DualSense Wireless Controller\n\nWhere to Buy: $74.99 $54 at Amazon $74.99 $54.99 at Best Buy $74.99 $54.99 at Target\nNow through December 19th, you can snag Sony’s DualSense Wireless Controller in select colors starting at $54 (about $21 off) at Amazon, Walmart, and Best Buy. The PS5 gamepad helps enhance the gaming experience with haptic vibrations and rear triggers with variable tension. The wireless controller also features a built-in speaker, gyroscope, accelerometer, and a touchpad, and it’s compatible with both macOS and Windows if you like to game on other platforms. Whereas the PS5 and Portal may not arrive in time for Christmas, Amazon says the DualSense will be ready to unwrap on the big day.\n\nRead our full DualSense Wireless Controller review.\nPulse Explore Wireless Earbuds\n\nWhere to Buy: $199.99 $169 at Amazon $199.99 $169.99 at Best Buy $199.99 $169 at Walmart\nFinally, the Pulse Explore wireless earbuds have returned to around $169 ($31 off), their best price to date, at Amazon, Walmart, and Best Buy. The wireless earbuds are tailor-made for Sony’s consoles, allowing you to take advantage of lossless, ultra-low-latency audio when using the PlayStation Link protocol. In our testing, the planar magnetic drivers delivered an audio experience that offered great clarity and separation, making it easy to distinguish small details and individual sound effects. When you’re done gaming with them, you can even pair the Pulse Explore to your phone and other Bluetooth devices, making it easy to use them as plain ol’ earbuds.\n\nRead our Pulse Explore hands-on impressions.",
+      "content_length": 5243,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Prevention, data monitoring 'more useful' in fight against terrorism, expert says",
+      "link": "https://www.france24.com/en/video/20251215-prevention-data-monitoring-more-useful-in-fight-against-terrorism-expert-says",
+      "published": "2025-12-15T20:24:11",
+      "content": "Speaking with FRANCE 24's Peter O'Brien, Yann Saint Pierre, CEO and counter-terrorism consultant at the Modern Security Consulting Group, says that the Australian government's push for stricter gun laws \"will only be superficial and not go at the heart of the problem\", adding that \"being able to work pre-emptively and monitoring of data and behaviours\" is a lot more effective in combating terrorism.",
+      "content_length": 402,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2",
+      "link": "https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/",
+      "published": "2025-12-15T20:20:05",
+      "content": "Last month saw the release of Project Misriah, an ambitious modding project that tried to re-create the feel of Halo 3 inside Valve’s Counter-Strike 2. That project has now been taken down from the Steam Workshop, though, after drawing a Digital Millennium Copyright Act complaint from Microsoft.\nModder Froddoyo introduced Project Misriah on November 16 as “a workshop collection of Halo ported maps and assets that aims to bring a Halo 3 multiplayer-like experience to Counter-Strike 2.” Far from just being inspired by Halo 3, the mod directly copied multiple sound effects, character models, maps, and even movement mechanics from Bungie and Microsoft’s popular series.\nIn the weeks since, Project Misriah has drawn a lot of praise from both Halo fans and those impressed by what modders could pull off with the Source 2 engine. But last Wednesday, modder Froddoyo shared a DMCA request from Microsoft citing the “unauthorized use of Halo game content in a [Steam] workshop not associated with Halo games.”Read full article\nComments",
+      "content_length": 1036,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Liveticker: ++ Merz und Selenskyj bei Wirtschaftsforum ++",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/ukraine-selenskyj-besuch-berlin-100.html",
+      "published": "2025-12-15T20:13:20",
+      "content": "   Der ukrainische Präsident Selenskyj hat in Berlin Kanzler Merz getroffen. Am Abend kommen Spitzen von EU und NATO dazu. Es wird mit erheblichen Verkehrseinschränkungen gerechnet. Der Überblick im Liveticker.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
+      "link": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
+      "published": "2025-12-15T20:10:25",
+      "content": "OpenAI is facing increasing scrutiny over how it handles ChatGPT data after users die, only selectively sharing data in lawsuits over ChatGPT-linked suicides.\nLast week, OpenAI was accused of hiding key ChatGPT logs from the days before a 56-year-old bodybuilder, Stein-Erik Soelberg, took his own life after “savagely” murdering his mother, 83-year-old Suzanne Adams.\nAccording to the lawsuit—which was filed by Adams’ estate on behalf of surviving family members—Soelberg struggled with mental health problems after a divorce led him to move back into Adams’ home in 2018. But allegedly Soelberg did not turn violent until ChatGPT became his sole confidant, validating a wide range of wild conspiracies, including a dangerous delusion that his mother was part of a network of conspirators spying on him, tracking him, and making attempts on his life.Read full article\nComments",
+      "content_length": 878,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Venezuela accuses Trinidad and Tobago of taking part in US seizure of oil tanker",
+      "link": "https://www.theguardian.com/world/2025/dec/15/trinidad-tobago-us-access-airports-venezuela-tensions-grow",
+      "published": "2025-12-15T20:06:53",
+      "content": "Maduro regime accuses Caribbean nation of participating in ‘theft of Venezuelan oil’ as tensions mount in regionVenezuela has accused the government of Trinidad and Tobago of taking part in the US seizure of an oil tanker off Venezuela’s coast last week, as Donald Trump’s four-month pressure campaign against Nicolás Maduro continues to reverberate across the region.In a statement on Monday, the Maduro regime accused Trinidad and Tobago of participating in “the theft of Venezuelan oil, committed by the US administration on 10 December with the assault on a vessel transporting this strategic Venezuelan product”. Continue reading...",
+      "content_length": 637,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Son arrested for murder of movie director Rob Reiner and wife",
+      "link": "https://www.france24.com/en/video/20251215-son-arrested-for-murder-of-movie-director-rob-reiner-and-wife",
+      "published": "2025-12-15T20:01:33",
+      "content": "Rob Reiner’s younger son, Nick Reiner, was in custody Monday after being booked for what investigators believe was the fatal stabbing of the director-actor and his wife at their Los Angeles home a day earlier, authorities said. FRANCE 24's Emerald Maxwell reports.",
+      "content_length": 264,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US offers 'NATO-like' security to Ukraine, expects Russia to accept",
+      "link": "https://www.france24.com/en/video/20251215-us-offers-nato-like-security-to-ukraine-expects-russia-to-accept",
+      "published": "2025-12-15T19:55:49",
+      "content": "The U.S. has agreed to provide unspecified security guarantees to Ukraine as part of a peace deal to end Russia's nearly four-year war, and more talks are likely this weekend, U.S. officials said Monday following the latest discussions with President Volodymyr Zelenskyy in Berlin. FRANCE 24's Gulliver Cragg reports from Kyiv.",
+      "content_length": 327,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Filmmaker Rob Reiner, wife, killed in horrific home attack",
+      "link": "https://arstechnica.com/culture/2025/12/r-i-p-rob-reiner-beloved-filmmaker-dead-at-78/",
+      "published": "2025-12-15T19:53:04",
+      "content": "We woke up this morning to the horrifying news that beloved actor and director Rob Reiner and his wife Michele were killed in their Brentwood home in Los Angeles last night. Both had been stabbed multiple times. Details are scarce, but the couple’s 32-year-old son, Nick—who has long struggled with addiction and recently moved back in with his parents—has been arrested in connection with the killings, with bail set at $4 million.  [UPDATE: Nick Reiner’s bail has been revoked and he faces possible life in prison.]\n“As a result of the initial investigation, it was determined that the Reiners were the victims of homicide,” the LAPD said. “The investigation further revealed that Nick Reiner, the 32-year-old son of Robert and Michele Reiner, was responsible for their deaths. Nick Reiner was located and arrested at approximately 9:15 p.m. He was booked for murder and remains in custody with no bail. On Tuesday, December 16, 2025, the case will be presented to the Los Angeles County District Attorney’s Office for filing consideration.”\n“It is with profound sorrow that we announce the tragic passing of Michele and Rob Reiner,” the family said in a statement confirming the deaths. “We are heartbroken by this sudden loss, and we ask for privacy during this unbelievably difficult time.”Read full article\nComments",
+      "content_length": 1321,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK to “encourage” Apple and Google to put nudity-blocking systems on phones",
+      "link": "https://arstechnica.com/tech-policy/2025/12/uk-to-encourage-apple-and-google-to-put-nudity-blocking-systems-on-phones/",
+      "published": "2025-12-15T19:38:32",
+      "content": "The UK government reportedly will “encourage” Apple and Google to prevent phones from displaying nude images except when users verify that they are adults.\nThe forthcoming push for nudity-blocking systems was reported by the Financial Times today. The report said the UK won’t institute a legal requirement “for now.” But asking companies to block nude images could be the first step toward making it mandatory if the government doesn’t get what it wants.\n“The UK government wants technology companies to block explicit images on phones and computers by default to protect children, with adults having to verify their age to create and access such content,” the FT report said. “Ministers want the likes of Apple and Google to incorporate nudity-detection algorithms into their device operating systems to prevent users taking photos or sharing images of genitalia unless they are verified as adults.”Read full article\nComments",
+      "content_length": 927,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Man who documented Uyghur camps in China may face removal from US after ICE arrest",
+      "link": "https://www.theguardian.com/world/2025/dec/15/china-uyghur-human-rights-ice",
+      "published": "2025-12-15T19:33:07",
+      "content": "Guan Heng, who filmed at sites in China of alleged rights violations against Muslim group, detained by ICE in AugustA Chinese man who left his country after filming at sites of alleged human rights violations against Uyghurs now faces the risk of removal from the United States, according to his lawyer and mother.Guan Heng, 38, underwent an immigration hearing in New York on Monday after being detained by US Immigration and Customs Enforcement (ICE) in August, his mother said in an interview. Continue reading...",
+      "content_length": 516,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump is recruiting Big Tech workers for the government",
+      "link": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft",
+      "published": "2025-12-15T19:18:48",
+      "content": "\n\n\n\t\n\t\t\n\nPresident Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new program, Trump plans to hire around 1,000 technology specialists to work across federal agencies for an up to two-year period. Workers can then pursue employment with the companies partnering with Tech Force, or apply to continue working for the government. \nThe Tech Force will work to \"accelerate the use of AI\" to make the government \"more responsible and efficient,\" as well as develop app …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Demian von Osten: \"Kleine Schritte auf einem langen Marsch\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-114.html",
+      "published": "2025-12-15T19:17:55",
+      "content": "   Die Ukraine-Gespräche seien ein wichtiger Schritt, Europa, die USA und die Ukraine auf eine Linie zu bringen. Bei Sicherheitsgarantien habe es Fortschritte gegeben, sagt ARD-Korrespondent Demian von Osten. Es sei aber noch ein langer Weg.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Terror at Bondi beach: What response to Australia's worst antisemitic attack?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251215-terror-at-bondi-beach-what-response-to-australia-s-worst-antisemitic-attack",
+      "published": "2025-12-15T19:14:38",
+      "content": "It was the worst of humanity. And the best of humanity: What kind of a father-son duo decides to go shooting at a gathering that’s come together to celebrate the Jewish festival of light? Well ask about the motives and circumstances of the Bondi Beach terror attack...",
+      "content_length": 268,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Governments and rights groups condemn conviction of Hong Kong activist Jimmy Lai",
+      "link": "https://www.theguardian.com/world/2025/dec/15/uk-condemns-hong-kongs-politically-motivated-targeting-of-jimmy-lai-after-conviction",
+      "published": "2025-12-15T18:59:46",
+      "content": "UK, EU and Australia say guilty verdict against 78-year-old is further blow to democracy and press freedom in territoryGovernments, institutions and rights groups across the world have condemned the conviction of the former pro-democracy media tycoon and British citizen Jimmy Lai in Hong Kong on national security charges.The 78-year-old was found guilty in West Kowloon district court on Monday of one count of conspiracy to publish seditious publications and two counts of conspiracy to foreign collusion. The charges were brought under the city’s punitive national security law , introduced in 2020, and a British colonial-era sedition law that has been used in recent years by authorities. Continue reading...",
+      "content_length": 714,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The best Fitbits for your fitness and health",
+      "link": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
+      "published": "2025-12-15T18:59:38",
+      "content": "\n\n\n\t\n\t\t\n\nIn 2025, you might wonder if Fitbit is still relevant. Despite being acquired by Google, Fitbit remains one of the most recognizable names in the industry. Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels.\n\nThat said, we’re still in the transitional period from the Fitbit of old to whatever Fitbit will be in the future. We’re further away from 2023, which was a particularly messy year. There were multiple Fitbit server outages, and I wasn’t impressed with the decision to sunset legacy community features — including challenges — or the fact that all Fitbit accounts will require you to log in via Google beginning in February 2026. \n\nSpeaking of which, the Fitbit-to-Google account migration started in 2023 and is required if you buy the Fitbit Charge 6 or the Google Pixel Watch 4. The Fitbit app also got a more Google-like makeover, which didn’t go over well with many users. (Google has since made adjustments based on feedback.) And last year, much of Fitbit’s leadership, including co-founders James Park and Eric Friedman, left the company as roughly a thousand Google employees were laid off. Now, in 2025, most of Google’s focus seems to be on its own smartwatches. \n\n\n\nThe Googlefication of Fitbit will continue, but there are reasons to stick with its trackers in the meantime. Fitbit trackers are relatively affordable, especially since they often go on sale.&nbsp;All the devices also come with a free trial to Fitbit Premium, the company’s subscription service that provides guided workouts, meditations, and access to more in-depth metrics. The service costs $9.99 per month, or $79.88 per year. And with the launch of the Pixel Watch 4 in October, it&#8217;s clear that Google is taking its wearables seriously as well. The smartwatch features longer-lasting battery life, a more repairable design, and compatibility with Fitbit’s AI-powered fitness coach. You just have to go in with eyes wide open.\n\nBest Fitbit smartwatch\nGoogle Pixel Watch 4\n\nScore: 8ProsConsAll-around better battery and fast-chargingMaterial 3 Expressive design refresh is smartBetter auto activity trackingRaise-to-Talk is quite naturalDomed display looks quite niceRepairability!Satellite SOSThird proprietary charger in four yearsGemini is still hit or missGPS maps are better, but still a bit wonky\nWhere to Buy: $349.99 $299.99 at Google (41mm, Bluetooth) $349.99 $299.99 at Amazon (41mm, Bluetooth) $349.99 $299.99 at Best Buy (41mm, Bluetooth)\nThe Pixel Watch 4 doesn’t have “Fitbit” in its title, but it falls under the same umbrella because of Google’s acquisition of Fitbit. The fourth-gen watch is a significant update over its predecessors, with a handsome domed display and thinner bezels that increase screen real estate. The watch’s updated design allows you to swap out the display or battery, if necessary, and we were able to eke out between 36 and 42 hours of battery life in our testing, up from 32 hours on the Pixel Watch 3. We also saw a notable uptick in charging speed, allowing us to take the watch from 14 to 97 percent in just 44 minutes using Google’s new proprietary charger.\n\nThe hardware upgrades work in tandem with Wear OS 6, which introduces a complete redesign with Material 3 Expressive and brings Gemini to Google’s latest wearable. A raise-to-talk feature lets you access the smart assistant without saying “Hey Google” or pushing a button, while AI features such as Notification Cooldown and Smart Replies — which let you compose personalized replies to incoming messages if you have a newer Pixel phone — put even more functionality on your wrist. Gemini in Wear OS 6 is somewhat hit or miss, to be sure, but the redesign complements the Pixel Watch 4’s size and shape really well.\n\nThe Pixel Watch 4 can automatically track a limited number of exercises, allowing you to accurately record your walks, runs, and cycling sessions. Its dual-band GPS was better at tracking runs than the Pixel Watch 3 in our initial tests, but it couldn’t quite keep up with Apple’s pricier Watch Ultra 3. That said, both LTE models share the ability to send an emergency SOS via satellite when you’re in a remote area with no signal. The Pixel Watch 4’s mix of hardware, features, and price make it the best Fitbit, and one of the top Android watches overall.\n\nIf all you want is a fitness tracker that&nbsp;looks&nbsp;like a smartwatch, you can consider the $199.95&nbsp;Versa 4&nbsp;since it’s the more budget-friendly option. But there’s no real point in the&nbsp;Sense 2&nbsp;since the Pixel Watch 4 can do all the same things — and more.\n\nRead my full Pixel Watch 4 review.\n\nBest budget Fitbit\nFitbit Inspire 3\nThe Fitbit Inspire 3 is a minimalist fitness band that delivers notifications and tracks your activity on a bright OLED screen.\n\nScore: 7ProsConsGood entry-level fitness &amp; sleep trackerBright OLED displayLightweightHuge bezelsLimited features compared to cheaper Amazfit Band 7\nWhere to Buy: $99.95 $69.95 at Amazon $99.95 $69.95 at Best Buy $99.95 $69.95 at Google\nThe Inspire line hasn’t always felt, well,&nbsp;inspired. But the $99.95 Inspire 3 is different. With a color OLED display, it’s reminiscent of the&nbsp;Fitbit Luxe&nbsp;of 2021, only with a matte black plastic case instead of a metal one. It’s a great throwback to classic Fitbits for people who only want the basics.\n\nThe Inspire 3 doesn’t overcomplicate things. It’s a fitness band. You won’t get built-in GPS, contactless payments, or digital assistants. Still, what it lacks in smarts it makes up for with Fitbit’s advanced sleep tracking, stress management features, and irregular heart rate notifications. The OLED display is also a step up from the Inspire 2’s monochrome screen, and you still get 10 days of battery life. (Though it’s more like two to three if you enable the always-on display.)&nbsp;\n\nThe Inspire 3 has a variety of accessories, including a clip attachment if you want to track steps discreetly. There’s even a gold or silver mesh strap if you want to dress it up a bit.&nbsp;\n\nRead our coverage of the Fitbit Inspire 3 here.\n\nBest Fitbit fitness tracker\nFitbit Charge 6\nThe Fitbit Charge 6 features a haptic side button, an improved heart rate algorithm, turn-by-turn navigation with Google Maps, and the ability to broadcast your heart rate on certain Bluetooth gym equipment.\n\nScore: 7ProsConsSolid fitness and health tracking feature setIt’s $20 cheaper!Adds more appsCan broadcast HR to fitness equipmentThe haptic button is better than the grooveYouTube Music is the only option and that’s $11 monthlyThe Fitbit-Google transition is a lil bumpyIt’s not a physical side button\nWhere to Buy: $159.95 $99.95 at Amazon $159.95 $99.95 at Best Buy $159.95 $99.95 at Google\nThe Charge series has always been popular, and the $159.95 Charge 6 is no exception. It’s Fitbit’s higher-end fitness band but easily competes with the more expensive Versa 4 on features. It features a color OLED screen plus an EKG and EDA sensor. You also get built-in GPS, NFC payments, and SpO2 sensors — the only thing you’re really missing is a digital assistant.\n\nThe only qualm we have with the Charge 6 is the always-on display. While it’s beautiful, it’s a major battery drain. The Charge 6 has an estimated seven days of battery life, but that dwindles down to about two if you have the always-on display enabled. This is the same issue that we had with the Charge 5, but it’s fairly typical for Fitbit trackers these days.\n\nAltogether, though, you’re getting a hell of a lot for the price. It’s the only FDA-cleared EKG wearable you can find for under $200, and the only other Fitbits capable of EKG and EDA readings are the Sense, Sense 2, Pixel Watch 3, and Pixel Watch 4. So, unless you’re dead set on the smartwatch form factor, the Charge 6 is the better overall deal.&nbsp;\n\nCompared to its predecessor, the Charge 6 also adds an improved heart rate algorithm, Bluetooth compatibility with some gym equipment, and a few apps — namely Google Maps, Google Wallet, and YouTube Music. While YouTube Music works well, I’m not stoked that it requires an additional $10.99 monthly subscription. That said, it’s better than nothing, as Fitbit discontinued onboard music a while back.\n\nIn terms of hardware, the Charge 6 also features a haptic button instead of an inductive groove. It’s not a physical button, which is a little disappointing, but it’s more reliable thus far than the inductive groove, so I would count this as a net positive.\n\nRead our Fitbit Charge 6 review.\n\nBest Fitbit for kids\nFitbit Ace LTE\nThe Ace LTE sports some of the same hardware found on the Google Pixel Watch 2 and a variety of step-activated games, which can help motivate your child to keep moving. It also offers calling, messaging, and location sharing when you sign up for a monthly or annual data plan.\n\nScore: 8ProsConsGreat build quality for a kids’ watchCross platformFun games that require physical activity to unlockVoice calls and text messaging with preselected contactsFamily group chatYou’ll have to charge it every nightOnly two color options (but multiple band options)\nWhere to Buy: $179.99 $99.95 at Amazon $179.99 $99.99 at Best Buy $179.99 $99.99 at Google\nThe $179.99 Fitbit Ace LTE isn’t really a traditional fitness tracker, though it does track active minutes. Instead, it’s a smartwatch with a mix of kid-friendly games and activities and thoughtful, family-oriented communication features. It’s a walled garden, but an adorable one.\n\nInstead of rigorously tracking health stats, the Ace LTE tracks “active minutes,” which fill a cute progress meter called a Noodle that runs around the face of the watch. Active minutes earn time with the Ace LTE’s built-in games that, combined with activities, unlock customizations for your kid’s avatar (called an Eejie) that lives in the watch, as well as its little house. You can also unlock different games and virtual items by connecting different watch straps.\n\nWith a $10/month subscription, you get real-time location tracking and both voice and text messaging to preselected contacts through the Fitbit Ace app (rather than the standard messaging and phone apps). As of November 2024, that includes other family members with Ace LTE watches, as well as a family group chat between parents and kids.\n\nI like that the Ace LTE is built more like a cross-platform smartwatch for adults than other kid watches we’ve used, like the plasticky Garmin Bounce. It uses the same charger as the Pixel Watch 3, and gets about a day’s worth of battery on a charge. My kids enjoy it but aren’t obsessed with it — though they have been known to run laps up and down the hallway to earn more game time.&nbsp;\n\nGoogle says the Ace LTE is best suited for kids aged 7 to 11, and that sounds right. My oldest is 10 now, and she’s been using an Ace LTE for about a year. Once she hits middle school, I think she’ll be frustrated that she can’t use it to talk to her friends. But for now, it’s great. We recently got one for our 8-year-old, and it’s wild that they can text each other from their watches. It also means my 8-year-old can spam the group chat with emoji, but that’s fine too.&nbsp;\n\n— Nathan Edwards, senior reviews editor\n\nRead our hands-on with the Fitbit Ace LTE.\n\nShould you even buy a Fitbit right now?\n\nFitbit officially became part of Google in 2021. Nothing changed overnight, but technically, it’s Fitbit by Google now. The&nbsp;Fitbit-to-Google migration&nbsp;started in the summer of 2023, and account migration will be mandatory — not merely optional — for all users in early 2026. Google angered longtime Fitbit users by shuttering social features like challenges and removing streaks, though the latter returned a few months later. In early 2024 Google laid off roughly a thousand employees from its hardware departments, including people on the Pixel, Fitbit, and Nest teams.\n\nIn early 2025, Google released a mandatory software update for Fitbit Versa 3 and Sense users to “reduce the risk of battery overheating,” which had the unfortunate side effect of reducing battery life from as many as six days to as few as one for some users. However, the fact that we’re getting a significantly redesigned Fitbit app and an AI-powered health coach does show that Google is still investing resources in projects under the Fitbit name. The hardware improvements introduced with the Pixel Watch 4 are also a positive sign that Google remains committed to developing compelling wearable hardware. \n\nWhat’s coming next\n\nAt the end of October, Fitbit’s head of product Andy Abramson said that “new Fitbit hardware” would roll out in 2026 alongside the full launch of the company’s new AI health coach, which is now available in beta for Android users who subscribe to Fitbit Premium ($9.99 a month). That said, there are currently no details on what the hardware might be, nor when it will be formally announced. \n\nUpdate, December 15th: Updated to reflect current pricing / availability and mention Fitbit’s intention to release new hardware in 2026. Brandt Ranj also contributed to this post.",
+      "content_length": 13240,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Spain to launch €60 monthly nationwide public transport pass",
+      "link": "https://www.theguardian.com/world/2025/dec/15/spain-to-launch-60-monthly-nationwide-public-transport-pass",
+      "published": "2025-12-15T18:32:32",
+      "content": "Bus and train initiative comes as government struggles to survive corruption and sexual harassment allegationsSpain’s socialist-led government is to launch a national public transport pass that will allow people to travel anywhere in the country by bus or train for a flat monthly fee of €60 (£52.70).The prime minister, Pedro Sánchez, unveiled the initiative on Monday, saying it would come into effect in the second half of January and was intended “to change the way Spaniards understand and use public transport for ever”. Continue reading...",
+      "content_length": 546,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sohn von Hollywood-Regisseur Rob Reiner unter Mordverdacht",
+      "link": "https://www.tagesschau.de/ausland/amerika/rob-reiner-festnahme-100.html",
+      "published": "2025-12-15T18:14:18",
+      "content": "   Der bekannte Hollywood-Regisseur Rob Reiner und dessen Frau sind tot. Jetzt steht der gemeinsame Sohn Nick unter Mordverdacht. Er wurde festgenommen und sitzt in Haft. Jahrelang hatte er mit Drogenproblemen zu kämpfen.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google will end dark web reports that alerted users to leaked data",
+      "link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
+      "published": "2025-12-15T18:13:24",
+      "content": "Google began offering “dark web reports” a while back, but the company has just announced the feature will be going away very soon. In an email to users of the service, Google says it will stop telling you about dark web data leaks in February. This probably won’t negatively impact your security or privacy because, as Google points out in its latest email, there’s really nothing you can do about the dark web.\nThe dark web reports launched in March 2023 as a perk for Google One subscribers. The reports were expanded to general access in 2024. Now, barely a year later, Google has decided it doesn’t see the value in this type of alert for users. Dark web reports provide a list of partially redacted user data retrieved from shadowy forums and sites where such information is bought and sold. However, that’s all it is—a list.\nThe dark web consists of so-called hidden services hosted inside the Tor network. You need a special browser or connection tools in order to access Tor hidden services, and its largely anonymous nature has made it a favorite hangout for online criminals. If a company with your personal data has been hacked, that data probably lives somewhere on the dark web.Read full article\nComments",
+      "content_length": 1218,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tsarist warriors revival: Putin sends Cossacks to Ukraine’s front lines",
+      "link": "https://www.france24.com/en/europe/20251215-putin-sends-cossak-warriors-to-the-front-line-ukraine",
+      "published": "2025-12-15T18:12:49",
+      "content": "Once prized fighters under the Tsars, Russia’s Cossack population was ostracised by authorities during the Soviet era. Under President Vladimir Putin, they have reintegrated into Russian society, acting as a supplementary police force and restoring their military status on the front lines in Ukraine.",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Strafbefehle nach Habeck-Blockade am Fähranleger",
+      "link": "https://www.tagesschau.de/inland/strafbefehle-proteste-habeck-100.html",
+      "published": "2025-12-15T18:08:10",
+      "content": "   Fast zwei Jahre lang wurde ermittelt, jetzt gibt es eine Entscheidung: Wegen der Blockade einer Inselfähre mit Robert Habeck an Bord hat ein Gericht gegen sechs Personen Strafbefehle erlassen.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Vodafone Stiftung: Wirksame Altersverifikation für Social Media gefordert",
+      "link": "https://www.heise.de/news/Vodafone-Stiftung-Wirksame-Altersverifikation-fuer-Social-Media-gefordert-11115740.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T18:08:00",
+      "content": "Auf die hauseigene Jugendstudie folgt eine Empfehlung für Politik, Bildungsinstitutionen und Plattformbetreiber. Mehr Kontrollen und Hilfen sind gefordert.",
+      "content_length": 155,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Any Russia-Ukraine deal is doomed without security guarantees, says Starmer",
+      "link": "https://www.theguardian.com/world/2025/dec/15/russia-ukraine-deal-security-guarantees-starmer",
+      "published": "2025-12-15T17:58:59",
+      "content": "Prime minister reiterates support for Kyiv as it comes under mounting US pressure to sign up to Trump-backed planA peace deal between Russia and Ukraine will fail unless it is backed up by “robust” security guarantees from western powers, the UK prime minister has said.Keir Starmer, speaking ahead of talks with European leaders in Berlin, told MPs on Monday he was opposed to any agreement that did not include sufficient military guarantees for Ukraine, as Kyiv comes under mounting US pressure to sign up to a Trump-backed plan. Continue reading...",
+      "content_length": 552,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Warum die Dresdner Bahn in Berlin Jahrzehnte brauchte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dresdner-bahn-berlin-konflikte-100.html",
+      "published": "2025-12-15T17:43:17",
+      "content": "   Acht Jahre Bauzeit, aber mehr als zwei Jahrzehnte Streit: Die Dresdner Bahn im Berliner Süden ist ans Netz gegangen. Zuvor blockierten Anwohner, politische Konflikte und Tunnelpläne das Projekt. Von Tobias Deckert.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "French court sentences DR Congo ex-rebel chief Lumbala to 30 years over atrocities",
+      "link": "https://www.france24.com/en/africa/20251215-french-court-sentences-dr-congo-ex-rebel-chief-lumbala-30-years-in-prison",
+      "published": "2025-12-15T17:35:22",
+      "content": "A French court on Monday sentenced ex-rebel leader Roger Lumbala to 30 years in jail after finding him guilty of complicity in crimes against humanity in the Democratic Republic of Congo in 2002-2003.",
+      "content_length": 200,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj bezeichnet Berlin-Gesprächen als \"nicht einfach, aber produktiv\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-112.html",
+      "published": "2025-12-15T17:25:15",
+      "content": "   Es scheint Fortschritte zu geben bei den Berliner Ukraine-Gesprächen. Präsident Selenskyj nannte sie \"produktiv\". Kanzler Merz sagte, es sei \"beachtlich\", was die USA bei den Sicherheitsgarantien auf den Tisch gelegt hätten.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Spahn bleibt in Corona-Enquetekommission bei seiner Linie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-enquetekommission-masken-100.html",
+      "published": "2025-12-15T17:12:39",
+      "content": "   Ex-Gesundheitsminister Spahn hat in einer Anhörung sein Krisenmanagement in der Corona-Pandemie verteidigt: Oberstes Ziel sei die Vermeidung einer Überlastung des Gesundheitswesens gewesen. Der Opposition reicht das nicht.[mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Britain caught in ‘space between peace and war’, says new head of MI6",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/15/britain-caught-in-space-between-peace-and-war-new-head-of-mi6-warns",
+      "published": "2025-12-15T17:08:50",
+      "content": "Blaise Metreweli says world ‘more dangerous and contested now than for decades’ as AI and new technologies emergeBritain is caught in “a space between peace and war” complicated by the rise of artificial intelligence and other technologies dominated by powerful individuals and corporations, according to the new head of MI6.Blaise Metreweli, giving her first speech in the job, accused Russia of being insincere about Ukraine peace negotiations but made minimal reference to China as the prime minister, Keir Starmer, seeks to arrange a visit to Beijing. Continue reading...",
+      "content_length": 575,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "\"Meilenstein\": Erste europäische Batteriezelle aus Forschungsfabrik in Münster",
+      "link": "https://www.heise.de/news/Meilenstein-in-Muenster-Erste-europaeische-Batteriezelle-aus-Forschungsfabrik-11115770.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T17:04:00",
+      "content": "Eine „PreFab“ hat die erste funktionsfähige Lithium-Ionen-Batteriezelle mit rein europäischer Prozesskette hergestellt. Es geht um technologische Souveränität.\n",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "FAQ zu Berliner Ukraine-Gesprächen: Wer trifft wann wen?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-108.html",
+      "published": "2025-12-15T16:52:00",
+      "content": "   Es ist ein wahrer Marathon an Terminen, die bei den Ukraine-Gesprächen in Berlin anstehen. Der wichtigste dürfte am Abend das Treffen zahlreicher Staats- und Regierungschefs bei Kanzler Merz sein. Das hat auch Auswirkungen auf den Berliner Alltag.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Oh look, yet another Starship clone has popped up in China",
+      "link": "https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/",
+      "published": "2025-12-15T16:44:01",
+      "content": "Every other week, it seems, a new Chinese launch company pops up with a rocket design and a plan to reach orbit within a few years. For a long time, the majority of these companies revealed designs that looked a lot like SpaceX’s Falcon 9 rocket.\nThe first of these copy cats, the medium-lift Zhuque-3 rocket built by LandSpace, launched earlier this month. Its primary mission was nominal, but the Zhuque-3 rocket failed its landing attempt, which is understandable for a first flight. Doubtless there will be more Chinese Falcon 9-like rockets making their debut in the near future.\nHowever, over the last year, there has been a distinct change in announcements from China when it comes to new launch technology. Just as SpaceX is seeking to transition from its workhorse Falcon 9 rocket—which has now been flying for a decade and a half—to the fully reusable Starship design, so too are Chinese companies modifying their visions.Read full article\nComments",
+      "content_length": 958,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Jugendämter registrieren Anstieg von Kindeswohlgefährdung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kindeswohlgefaehrdung-106.html",
+      "published": "2025-12-15T16:33:24",
+      "content": "   Binnen fünf Jahren ist die Zahl der Fälle von Kindeswohlgefährdung um fast ein Drittel gestiegen. Von Vernachlässigung, psychischer, körperlicher oder sexueller Gewalt waren 2024 rund 72.800 Kinder und Jugendliche betroffen.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "In the wake of the Bondi Beach shooting, what is Australia's legislation on gun ownership?",
+      "link": "https://www.france24.com/en/video/20251215-in-the-wake-of-the-bondi-beach-shooting-what-is-australia-s-legislation-on-gun-ownership",
+      "published": "2025-12-15T16:18:18",
+      "content": "Australia's leaders have agreed to strengthen gun laws across the country in the wake of the mass shooting at Bondi Beach. After a meeting with the heads of states and territories, Prime Minister Anthony Albanese said they had agreed to look into ways to improve background checks for gun owners and bar non-nationals from obtaining weapons. Mass shootings are rare in Australia, where gun ownership is tightly controlled - but some say the laws are slipping.",
+      "content_length": 459,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Radical right grows in South America as Chile elects its most right-wing leader since Pinochet",
+      "link": "https://www.france24.com/en/video/20251215-radical-right-grows-in-south-america-as-chile-elects-its-most-right-wing-leader-since-pinochet",
+      "published": "2025-12-15T16:12:45",
+      "content": "José Antonio Kast was elected Chilean president on December 14, the first far-right leader in the country since the fall of Augusto Pinochet in 1990. An ultraconservative, the 59-year-old won 58% of the popular vote, with the moderate communist Jeannette Jara, supported by a broad leftist coalition, bringing in just 42%. But who is José Antonio Kast?",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Morocco: Deadly torrential rains and flash floods",
+      "link": "https://www.france24.com/en/video/20251215-morocco-deadly-torrential-rains-and-flash-floods",
+      "published": "2025-12-15T16:07:22",
+      "content": "A flash flood in a Moroccan coastal town killed at least 37. Drought-hit Morocco often faces severe weather, but Sunday's flooding in Safi is already the deadliest such disaster in at least a decade.",
+      "content_length": 199,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "5G-Versorgung: Mobilfunkausbau nimmt Fahrt auf – Funklöcher bleiben",
+      "link": "https://www.heise.de/news/95-Prozent-5G-Versorgung-Mobilfunkausbau-nimmt-Fahrt-auf-Funkloecher-bleiben-11115684.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T15:57:00",
+      "content": "Laut aktuellem Mobilfunk-Monitoring der Bundesnetzagentur schreitet der 5G-Ausbau zügig voran. Dennoch bedeuten regionale weiße Flecken für viele ein Ärgernis.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Music show: Gaspard Royant's cool Christmas and The Spitfires' renaissance",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20251215-music-show-gaspard-royant-s-cool-christmas-and-the-spitfires-renaissance",
+      "published": "2025-12-15T15:55:11",
+      "content": "In this edition of our arts24 music show, Jennifer Ben Brahim chats with the frontman of British band The Spitfires, as well as French musician Gaspard Royant. The Spitfires are back after having split up three years ago. The indie rock, nu-mod band are celebrating their musical renaissance with their sixth album \"MKII\". Meanwhile, Gaspard Royant has re-released his wildly successful festive record “All the Best for Christmas”: a soundtrack for a cool, classy Christmas.",
+      "content_length": 474,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Rob Reiner's son taken into custody after deaths of Hollywood director and his wife",
+      "link": "https://www.france24.com/en/live-news/20251215-us-police-probe-deaths-of-director-rob-reiner-wife-as-apparent-homicide",
+      "published": "2025-12-15T15:54:40",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Langzeit-Datenarchivierung in Quarzglasplättchen",
+      "link": "https://www.heise.de/news/Langzeit-Datenarchivierung-in-Quarzglasplaettchen-11115580.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T15:30:00",
+      "content": "Daten in 5D Optical Memory sollen Jahrtausende überdauern. Das US-Unternehmen SPhotonix tritt damit gegen Konkurrenten wie Cerabyte und Microsoft an.",
+      "content_length": 149,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Machado suffered vertebra fracture on secret trip from Venezuela to Norway",
+      "link": "https://www.theguardian.com/world/2025/dec/15/maria-corina-machado-venezuela-norway",
+      "published": "2025-12-15T15:25:21",
+      "content": "Opposition leader and Nobel peace prize laureate’s injury was reportedly sustained during high-risk sea crossingVenezuelan opposition leader and Nobel peace prize laureate María Corina Machado suffered a vertebra fracture during her secret journey from Venezuela to Norway last week, her spokesperson has confirmed.Machado previously said she feared for her life during the perilous voyage to receive her award in Oslo. Continue reading...",
+      "content_length": 439,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Roomba maker iRobot swept into bankruptcy",
+      "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
+      "published": "2025-12-15T15:24:41",
+      "content": "Roomba maker iRobot has filed for bankruptcy and will be taken over by its Chinese supplier after the company that popularized the robot vacuum cleaner fell under the weight of competition from cheaper rivals.\nThe US-listed group on Sunday said it had filed for Chapter 11 bankruptcy in Delaware as part of a restructuring agreement with Shenzhen-based Picea Robotics, its lender and primary supplier, which will acquire all of iRobot’s shares.\nThe deal comes nearly two years after a proposed $1.5 billion acquisition by Amazon fell through over competition concerns from EU regulators.Read full article\nComments",
+      "content_length": 613,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rust Coreutils 0.5.0 erreicht 88 Prozent GNU-Kompatibilität",
+      "link": "https://www.heise.de/news/Rust-Coreutils-0-5-0-erreicht-88-Prozent-GNU-Kompatibilitaet-11115125.html",
+      "published": "2025-12-15T14:31:00",
+      "content": "Die Rust-Neuimplementierung klassischer Unix-Tools macht Fortschritte: Version 0.5.0 besteht nun 87,75 Prozent der GNU-Test-Suite.",
+      "content_length": 130,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Australische Regierung plant Verschärfung der Waffengesetze",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/attentat-australien-waffenrecht-100.html",
+      "published": "2025-12-15T14:13:50",
+      "content": "   Mehrere Waffen durfte der Angreifer von Sydney legal besitzen - mit denen schossen er und sein Sohn auf Teilnehmer einer Chanukka-Feier. Der australische Premier Albanese kündigte nun an, die Waffengesetze weiter zu verschärfen.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Marktbericht: dm steigt in den Gesundheitsmarkt ein",
+      "link": "https://www.tagesschau.de/wirtschaft/marktbericht-mittag-dm-drogerie-100.html",
+      "published": "2025-12-15T14:07:28",
+      "content": "   In den Markt für rezeptfreie Medikamente kommt mächtig Bewegung. Die Drogerie dm, immerhin Marktführer in Deutschland, startet mit dem Versandhandel - und setzt damit die Konkurrenz unter Druck. [mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Falschmeldungen über Weihnachtsmärkte schüren Ängste vor Muslimen",
+      "link": "https://www.tagesschau.de/faktenfinder/weihnachtsmaerkte-desinformation-100.html",
+      "published": "2025-12-15T14:01:02",
+      "content": "   Seit Oktober kursieren im Netz immer wieder Videos mit falschen Behauptungen über Weihnachtsmärkte - teilweise mit Millionen Aufrufen. Mit den Fakes scheint gezielt Stimmung gegen Muslime gemacht zu werden.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Russland erklärt Punkband Pussy Riot zu \"extremistischer Organisation\"",
+      "link": "https://www.tagesschau.de/ausland/asien/pussy-riot-russland-100.html",
+      "published": "2025-12-15T13:47:56",
+      "content": "   Ein russisches Gericht hat die feministische Punkband Pussy Riot für extremistisch erklärt. Ein Auftritt gegen Putin und Patriarch Kyrill in einer Moskauer Kirche hatte das Kollektiv weltweit bekannt gemacht.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Anschlag von Sydney: Australiens Premier weist Vorwürfe Israels zurück",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/sydney-anschlag-netanjahu-albanese-100.html",
+      "published": "2025-12-15T13:16:29",
+      "content": "   Nach dem Anschlag von Sydney hat Regierungschef Albanese die Anschuldigung zurückgewiesen, dass er mit der Anerkennung Palästinas \"Öl ins antisemitische Feuer\" gegossen habe. Israel warnte seine Bürger zur Vorsicht bei Auslandsreisen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Passant entwaffnet Sydney-Attentäter und wird als Held gefeiert",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/sydney-attentat-held-100.html",
+      "published": "2025-12-15T12:55:59",
+      "content": "   Nach dem Anschlag auf das jüdische Lichterfest in Sydney gerät ein Mann in den Mittelpunkt, der einen der Angreifer entwaffnet hat. Dadurch konnte er wohl noch Schlimmeres verhindern. Über seine Identität ist nun mehr bekannt.[mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ökonomen üben scharfe Kritik an der Abkehr vom Verbrenner-Aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/oekonomen-kritik-verbrenner-aus-100.html",
+      "published": "2025-12-15T12:50:03",
+      "content": "   Die absehbare Lockerung der CO2-Vorgaben für Neuwagen in der EU sorgt für heftige Kritik unter Ökonomen. Sie sprechen von einer \"Symboldebatte\" - Jobs in Deutschland würden dadurch nicht gesichert. [mehr]",
+      "content_length": 207,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "„Gefährlich nahe“: Starlink-Satellit angeblich knapp einer Kollision entgangen",
+      "link": "https://www.heise.de/news/Gefaehrlich-nahe-Starlink-Satellit-angeblich-knapp-einer-Kollision-entgangen-11115249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T12:46:00",
+      "content": "Vor wenigen Tagen ist ein neu gestarteter Satellit vergleichsweise knapp an einem Starlink-Satelliten vorbeigerast. SpaceX übt deshalb grundsätzliche Kritik.",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "BSI checkt E-Mail-Programme",
+      "link": "https://www.heise.de/news/BSI-checkt-E-Mail-Programme-11115384.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T12:41:00",
+      "content": "Das Bundesamt für Sicherheit in der Informationstechnik hat getestet, wie sicher E-Mail-Programme sind. Die sind offenbar ok.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Verizon refused to unlock man’s iPhone, so he sued the carrier and won",
+      "link": "https://arstechnica.com/tech-policy/2025/12/verizon-refused-to-unlock-mans-iphone-so-he-sued-the-carrier-and-won/",
+      "published": "2025-12-15T12:30:44",
+      "content": "When Verizon refused to unlock an iPhone purchased by Kansas resident Patrick Roach, he had no intention of giving up without a fight. Roach sued the wireless carrier in small claims court and won.\nRoach bought a discounted iPhone 16e from Verizon’s Straight Talk brand on February 28, 2025, as a gift for his wife’s birthday. He intended to pay for one month of service, cancel, and then switch the phone to the US Mobile service plan that the couple uses. Under federal rules that apply to Verizon and a Verizon unlocking policy that was in place when Roach bought the phone, this strategy should have worked.\n“The best deals tend to be buying it from one of these MVNOs [Mobile Virtual Network Operators] and then activating it until it unlocks and then switching it to whatever you are planning to use it with. It usually saves you about half the value of the phone,” Roach said in a phone interview.Read full article\nComments",
+      "content_length": 930,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Mutmaßlicher \"Hitlergruß\": Anklage gegen AfD-Abgeordneten Moosdorf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-abgeordneter-hitlergruss-bundestag-100.html",
+      "published": "2025-12-15T11:29:00",
+      "content": "   Mit Hackenschlag und \"Hitlergruß\" - so soll der AfD-Abgeordnete Moosdorf einen Parteifreund im Bundestag gegrüßt haben. Dafür wird er angeklagt. Moosdorf bestreitet die Vorwürfe. Er hatte zuletzt schon weiteren Ärger.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Pentest-Linux Kali 2025.4 mit neuen Desktops, Wayland und Halloween-Modus",
+      "link": "https://www.heise.de/news/Pentest-Linux-Kali-2025-4-mit-neuen-Desktops-Wayland-und-Halloween-Modus-11115229.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T11:24:00",
+      "content": "Die Entwickler des aus Backtrack hervorgegangenen Kali-Linux für Pentester haben Version 2025.4 freigegeben. Es aktualisiert die Desktops.",
+      "content_length": 138,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Demokratieaktivist Jimmy Lai von Hongkonger Gericht verurteilt",
+      "link": "https://www.tagesschau.de/ausland/asien/honkong-jimmy-lai-demokratieaktivist-prozess-urteil-100.html",
+      "published": "2025-12-15T11:18:23",
+      "content": "   Ein Hongkonger Gericht hat den Demokratieaktivisten und Medienunternehmer Jimmy Lai nach zwei Jahren Prozess in allen Anklagepunkten schuldig gesprochen. Viele ausländische Regierungen sehen den Fall als politisch motiviert. Von Eva Lamby-Schmitt.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum die Finnen glücklicher sind als die Deutschen",
+      "link": "https://www.tagesschau.de/wissen/forschung/geheimnis-der-gluecklichen-finnen-100.html",
+      "published": "2025-12-15T10:24:06",
+      "content": "   Im Weltglücksbericht 2025 belegt Finnland den ersten Platz, zum achten Mal in Folge. Deutschland dagegen kam auf Rang 22. Glücksforscher können erklären, warum die Finnen glücklicher sind als die Deutschen. Von Andreas Kegel.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deutsche Autoindustrie in der Krise - niedrigster Gewinn seit 2009",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autokonzerne-gewinneinbruch-stellenabbau-100.html",
+      "published": "2025-12-15T10:05:19",
+      "content": "   Die deutschen Autobauer verdienen so wenig wie seit der Finanzkrise nicht mehr. Experten sprechen von einem \"perfekten Sturm\" für die deutsche Autoindustrie. Entspannung ist auch 2026 nicht in Sicht.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Gartner-Prognosen: KI macht denkfaul und schafft neue Abhängigkeiten",
+      "link": "https://www.heise.de/news/Gartner-Prognosen-KI-macht-denkfaul-und-schafft-neue-Abhaengigkeiten-11114957.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T09:48:00",
+      "content": "Gartner prognostiziert gravierende Umbrüche durch KI: von KI als Zauberer über neue Abhängigkeiten bis zu Milliardenkosten durch Regulierung.",
+      "content_length": 141,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kast wird Chiles Präsident: Triumph des Pinochet-Fans",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-rechtsruck-praesident-100.html",
+      "published": "2025-12-15T09:32:49",
+      "content": "   Klares Votum für einen harten Kurs: Der rechtskonservative Politiker Kast hat die Präsidentschaftswahl in Chile gewonnen - und das noch deutlicher als vorausgesagt. Worauf basiert sein Erfolg? Von Daniel Stender.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Google integriert KI in Translate und erweitert Lerntool",
+      "link": "https://www.heise.de/news/Google-integriert-KI-in-Translate-und-erweitert-Lerntool-11114965.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T09:29:00",
+      "content": "Google will Übersetzungen mit Gemini in Translate verbessern. Ferner bringt Google Live-Übersetzungen für alle Kopfhörer und das Lerntool nach Deutschland. \n",
+      "content_length": 157,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Stimmung in Russland: Kriegsmüde - aber nicht kompromissbereit",
+      "link": "https://www.tagesschau.de/ausland/europa/russen-haltung-ukraine-krieg-100.html",
+      "published": "2025-12-15T09:01:51",
+      "content": "   Den Krieg bekommen auch die Moskauer mehr und mehr zu spüren. Regelmäßig fliegen ukrainische Drohnen in Richtung russischer Hauptstadt. Kriegsmüdigkeit scheint sich breit zu machen - aber keine Kompromissbereitschaft. Von Ina Ruck.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verbindungsabbrüche bei heise online durch Cookies – eine Spurensuche",
+      "link": "https://www.heise.de/blog/Verbindungsabbrueche-bei-heise-online-durch-Cookies-eine-Spurensuche-11114731.html",
+      "published": "2025-12-15T08:59:00",
+      "content": "Die Webentwicklung von heise online berichtet von einer interessanten Suche nach einem Bug, dessen Ursache am Ende ganz simpel war.",
+      "content_length": 131,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Roblox-Sperre in Russland: Immer mehr Kritik und erste Proteste auf der Straße",
+      "link": "https://www.heise.de/news/Roblox-Sperre-in-Russland-Immer-mehr-Kritik-und-erste-Proteste-auf-der-Strasse-11114877.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T08:54:00",
+      "content": "Für öffentliche Kritik an staatlichem Handeln gibt es in Russland so gut wie keinen Raum mehr. Trotzdem wird die Kritik an der Blockade von Roblox immer lauter.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Developer-Häppchen – Kleinere News der vergangenen Woche (ehemals Snapshots)",
+      "link": "https://www.heise.de/news/Developer-Haeppchen-Kleinere-News-der-vergangenen-Woche-ehemals-Snapshots-11113386.html",
+      "published": "2025-12-15T08:27:00",
+      "content": "Snapshots sind jetzt Häppchen: kleine, aber interessante Meldungshäppchen zu Eclipse, SedonaDB, boost, Rust, Azul, Payara, Spring, AWS JS SDK  und Jenkins.",
+      "content_length": 155,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Welche Schuld trifft Spahn bei der Corona-Masken-Affäre?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/corona-untersuchungsausschuss-spahn-sudhof-masken-100.html",
+      "published": "2025-12-15T08:24:22",
+      "content": "   Die Bundesregierung hat in der Corona-Krise für viel Geld Schutzmasken besorgt. Hat Ex-Minister Spahn einen Schaden in Milliardenhöhe verursacht? Heute muss er vor einer Enquetekommission Stellung nehmen. Von B. Sönnichsen.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "React2Shell-Patch unzureichend, Angriffe weiten sich aus",
+      "link": "https://www.heise.de/news/React2Shell-Patch-unzureichend-Angriffe-weiten-sich-aus-11114849.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-15T08:17:00",
+      "content": "Updates zum Schließen einer kritischen Lücke in React-Servern sind unvollständig. Immer mehr Angreifer missbrauchen das Leck.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "React2Shell-Patch unzureichend, Angriffe weiten sich aus",
+      "link": "https://www.heise.de/news/React2Shell-Patch-unzureichend-Angriffe-weiten-sich-aus-11114849.html",
+      "published": "2025-12-15T08:17:00",
+      "content": "Updates zum Schließen einer kritischen Lücke in React-Servern sind unvollständig. Immer mehr Angreifer missbrauchen das Leck.",
+      "content_length": 125,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "In Villa aufgefunden: \"Harry und Sally\"-Regisseur Rob Reiner tot",
+      "link": "https://www.tagesschau.de/kultur/rob-reiner-tot-100.html",
+      "published": "2025-12-15T07:52:56",
+      "content": "   Er wurde durch Filme wie \"Stand By Me\" und \"Harry und Sally\" bekannt. Nun ist Hollywood-Regisseur Rob Reiner tot in seiner Villa in Los Angeles aufgefunden worden. Auch die Leiche seiner Frau wurde gefunden. [mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
