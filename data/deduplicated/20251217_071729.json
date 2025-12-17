@@ -1,0 +1,1391 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-17T07:17:29.104370",
+    "deduplicated_at": "2025-12-17 07:17:29",
+    "lookback_days": 7,
+    "total_input": 1057,
+    "duplicates_removed": 904,
+    "new_articles": 153,
+    "deduplication_rate": "85.5%",
+    "historical_files_checked": 5
+  },
+  "articles": [
+    {
+      "title": "Australien - Attentäter von Sydney wird in 59 Punkten angeklagt, darunter Terrorismus",
+      "link": "https://www.deutschlandfunk.de/attentaeter-von-sydney-wird-in-59-punkten-angeklagt-darunter-terrorismus-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der überlebende Attentäter vom Bondi Beach in Sydney wird in insgesamt 59 Punkten angeklagt, unter anderem wegen Terrorismus und Mord. Das teilte die Polizei mit. Der 24-Jährige soll heute erstmals verhört werden. Er war von Sicherheitskräften angeschossen worden und erwachte gestern aus dem Koma.",
+      "content_length": 298,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Südamerika - Trump kündigt Blockade sanktionierter Öltanker nach Venezuela an",
+      "link": "https://www.deutschlandfunk.de/trump-kuendigt-blockade-sanktionierter-oeltanker-nach-venezuela-an-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die USA verschärfen den Konflikt mit Venezuela. Präsident Trump kündigte die Blockade aller mit Sanktionen belegten Öltanker an, die das Land anlaufen oder verlassen. Zudem forderte er von Venezuela Öl und weitere Vermögenswerte, die das südamerikanische Land nach seinen Angaben gestohlen hat.",
+      "content_length": 294,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Parlament - Abstimmung über Asylverfahren in Nicht-EU-Ländern",
+      "link": "https://www.deutschlandfunk.de/abstimmung-ueber-asylverfahren-in-nicht-eu-laendern-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Europäische Parlament stimmt heute voraussichtlich darüber ab, ob es möglich sein soll, Asylbewerber auch in Nicht-EU-Länder abzuschieben.",
+      "content_length": 142,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Kanzler Merz gibt Regierungserklärung zu EU-Gipfel ab - Debatte über russisches Staatsvermögen im Mittelpunkt",
+      "link": "https://www.deutschlandfunk.de/kanzler-merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-debatte-ueber-russisches-staatsvermoegen-im-m-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Bundeskanzler Merz gibt heute im Bundestag eine Regierungserklärung zum anstehenden EU-Gipfel ab. Im Fokus steht die Debatte über die Nutzung des in Europa eingefrorenen russischen Vermögens zugunsten der Ukraine. Merz sprach vorab von einer Schlüsselfrage für die Handlungsfähigkeit der EU.",
+      "content_length": 291,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Abzocke am Handy - Telekom startet Warnsystem gegen Betrugsanrufe",
+      "link": "https://www.deutschlandfunk.de/telekom-startet-warnsystem-gegen-betrugsanrufe-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die Deutsche Telekom hat ein System gestartet, das Handykunden vor Abzocke am Telefon warnt.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gasförderung in der Nordsee - Meyer (Grüne): Abkommen mit Niederlanden widerspricht Klimazielen",
+      "link": "https://www.deutschlandfunk.de/meyer-gruene-abkommen-mit-niederlanden-widerspricht-klimazielen-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das geplante deutsch-niederländische Abkommen zur Erdgasförderung in der Nordsee widerspricht nach Ansicht von Niedersachsens Umweltminister Meyer Klimazielen.",
+      "content_length": 159,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Bundeskabinett berät über mehrere Gesetzentwürfe - Bürgergeld-Reform soll beschlossen werden",
+      "link": "https://www.deutschlandfunk.de/bundeskabinett-beraet-ueber-mehrere-gesetzentwuerfe-buergergeld-reform-soll-beschlossen-werden-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Bundeskabinett kommt heute zur letzten Sitzung des Jahres zusammen.",
+      "content_length": 71,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Vermittlungsausschuss - Krankenkassen dringen auf Einigung für Ausgabenbremse",
+      "link": "https://www.deutschlandfunk.de/krankenkassen-dringen-auf-einigung-fuer-ausgabenbremse-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der Spitzenverband gesetzlicher Krankenkassen mahnt Bund und Länder im Streit um Einsparungen bei der Gesundheitsversorgung zu einer Verständigung.",
+      "content_length": 147,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Verteidigung - Rüstungsprojekte in Höhe von 50 Milliarden Euro im Haushaltsausschuss",
+      "link": "https://www.deutschlandfunk.de/ruestungsprojekte-in-hoehe-von-50-milliarden-euro-im-haushaltsausschuss-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der Haushaltsausschuss des Bundestages wird heute über Rüstungsprojekte im Wert von mehr als 50 Milliarden Euro entscheiden.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brüssel - Gemischte Reaktionen auf Abkehr vom \"Verbrenner-Aus\"",
+      "link": "https://www.deutschlandfunk.de/gemischte-reaktionen-auf-abkehr-vom-verbrenner-aus-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die EU-Kommission hat wie erwartet eine Abkehr vom sogenannten Verbrenner-Aus vorgeschlagen. Auch nach 2035 sollen Hersteller bestimmte Verbrenner- und Hybrid-Fahrzeuge auf den Markt bringen dürfen. Der deutsche Autoverband VDA ist dennoch unzufrieden.",
+      "content_length": 252,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schutz von Informanten - Tausende Slowaken protestieren gegen Ende der Whistleblower-Behörde",
+      "link": "https://www.deutschlandfunk.de/tausende-slowaken-protestieren-gegen-ende-der-whistleblower-behoerde-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "In der Slowakei sind Tausende Menschen gegen die geplante Abschaffung der Behörde zum Schutz von Whistleblowern auf die Straße gegangen.",
+      "content_length": 136,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Klingbeil bleibt vorsichtig bei Frage nach deutscher Beteiligung an Friedenstruppe",
+      "link": "https://www.deutschlandfunk.de/klingbeil-bleibt-vorsichtig-bei-frage-nach-deutscher-beteiligung-an-friedenstruppe-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der SPD-Vorsitzende Klingbeil hat sich zurückhaltend zur Frage einer Beteiligung deutscher Soldaten an einer Friedenssicherung für die Ukraine geäußert.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bürokratieabbau - EU-Kommission will Glyphosat und andere Pestizide unbegrenzt zulassen",
+      "link": "https://www.deutschlandfunk.de/eu-kommission-will-glyphosat-und-andere-pestizide-unbegrenzt-zulassen-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die EU-Kommission hat vorgeschlagen, viele Pflanzenschutzmittel und Unkrautvernichter künftig unbefristet zuzulassen.",
+      "content_length": 117,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington - USA führen generelle Einreiseverbote für weitere sieben Länder ein",
+      "link": "https://www.deutschlandfunk.de/usa-fuehren-generelle-einreiseverbote-fuer-weitere-sieben-laender-ein-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die USA haben Einreiseverbote für Menschen aus sieben weiteren Ländern angekündigt.",
+      "content_length": 83,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Strukturwandel - Sachsen und Brandenburg weisen Lausitz als Modellregion für umweltfreundliche Technologien aus",
+      "link": "https://www.deutschlandfunk.de/sachsen-und-brandenburg-weisen-lausitz-als-modellregion-fuer-umweltfreundliche-technologien-aus-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die Lausitz in Brandenburg und Sachsen ist als erstes \"Net Zero Valley\" Europas ausgewiesen worden - als Modellregion für umweltfreundliche Technologien.",
+      "content_length": 153,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brandenburg - US-Autobauer Tesla will Werk bei Berlin erweitern",
+      "link": "https://www.deutschlandfunk.de/us-autobauer-tesla-will-werk-bei-berlin-erweitern-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der US-Autobauer Tesla bereitet die Erweiterung des Werks in Grünheide bei Berlin vor.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach neun Jahren Bauzeit - Bonner Beethovenhalle wiedereröffnet - Steinmeier: \"Ort der Demokratiegeschichte\"",
+      "link": "https://www.deutschlandfunk.de/bonner-beethovenhalle-wiedereroeffnet-steinmeier-ort-der-demokratiegeschichte-110.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Nach neun Jahren Bauzeit ist in Bonn die Beethovenhalle wiedereröffnet worden. Bei einem Festakt am Abend würdigte Bundespräsident Steinmeier die Beethovenhalle als Wahrzeichen für die Stadt Bonn, die zum kulturellen Erbe Deutschlands gehört.",
+      "content_length": 242,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Paläontologie - Hunderte Meter Dinosaurier-Spuren in den italienischen Alpen entdeckt",
+      "link": "https://www.deutschlandfunk.de/hunderte-meter-dinosaurier-spuren-in-den-italienischen-alpen-entdeckt-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Italienische Forscher haben im Nationalpark Stilfserjoch in Norditalien Tausende Dinosaurier-Spuren entdeckt. Die Abdrücke wurden auf einer nahezu senkrechten Felswand in mehr als 2.000 Metern Höhe gefunden. Den Forschern zufolge ist es der größte Fundort in den Alpen und einer der umfangreichsten der Welt.",
+      "content_length": 308,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "DDR-Historie - Haus der Geschichte muss Verkäufer von Schabowski-Zettel nennen",
+      "link": "https://www.deutschlandfunk.de/haus-der-geschichte-muss-verkaeufer-von-schabowski-zettel-nennen-112.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Haus der Geschichte in Bonn muss einem Journalisten Auskunft darüber geben, von wem es den historischen Sprechzettel von SED-Politbüromitglied Schabowski erworben hat.",
+      "content_length": 171,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - Arbeitslosenquote in den USA erreicht im November Vier-Jahres-Hoch",
+      "link": "https://www.deutschlandfunk.de/arbeitslosenquote-in-den-usa-erreicht-im-november-vier-jahres-hoch-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die Arbeitslosenquote in den USA ist im November auf ein Vier-Jahres-Hoch gestiegen. Sie liegt nun bei 4,6 Prozent, wie das Arbeitsministerium am in Washington mitteilte.",
+      "content_length": 170,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Migration - Nach Bootsunglück südlich von Kreta - Zahl der Todesopfer steigt auf 32",
+      "link": "https://www.deutschlandfunk.de/nach-bootsunglueck-suedlich-von-kreta-zahl-der-todesopfer-steigt-auf-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Nach dem Bootsunglück südlich von Kreta vor anderthalb Wochen ist die Zahl der Todesopfer höher als bislang bekannt.",
+      "content_length": 116,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Aufnahmezusage - Charterflug bringt 160 Afghanen nach Berlin",
+      "link": "https://www.deutschlandfunk.de/charterflug-bringt-160-afghanen-nach-berlin-106.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Mit einem von der Bundesregierung organisierten Charterflug sind 160 weitere Afghaninnen und Afghanen nach Berlin gekommen.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Regierungskreise - Bundesregierung einigt sich offenbar bei Bürgergeld-Reform",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-einigt-sich-offenbar-bei-buergergeld-reform-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Bundeskabinett hat sich offenbar über die Reform des Bürgergelds verständigt.",
+      "content_length": 81,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Straßburg - EU-Parlament beschließt Abschwächung des Lieferkettengesetzes",
+      "link": "https://www.deutschlandfunk.de/eu-parlament-beschliesst-abschwaechung-des-lieferkettengesetzes-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Europaparlament hat wie erwartet eine Abschwächung des Lieferkettengesetzes beschlossen. Nur sehr große Firmen müssen noch bestimmte Sorgfaltspflichten erfüllen. Menschenrechtsorganisationen üben deutliche Kritik.",
+      "content_length": 217,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Gemeinsame Erklärung - Europäische Regierungschefs fordern besseren Schutz der EU-Ostflanke vor Russland",
+      "link": "https://www.deutschlandfunk.de/europaeische-regierungschefs-fordern-besseren-schutz-der-eu-ostflanke-vor-russland-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Bei einem Gipfeltreffen in Helsinki haben mehrere europäische Staaten einen besseren Schutz der sogenannten EU-Ostflanke gefordert.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wegen Ukraine - Ungarn blockiert Erklärung zu EU-Erweiterung",
+      "link": "https://www.deutschlandfunk.de/ungarn-blockiert-erklaerung-zu-eu-erweiterung-106.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Ungarn blockiert wegen seiner Ablehnung von EU-Beitrittsgesprächen mit der Ukraine die jährliche Positionierung der Europäischen Union zum Erweiterungsprozess.",
+      "content_length": 159,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Ukraine-Gesprächen in Berlin - Russland lehnt territoriale Zugeständnisse und Truppenstationierung ab",
+      "link": "https://www.deutschlandfunk.de/russland-lehnt-territoriale-zugestaendnisse-und-truppenstationierung-ab-104.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Russland hat die Ukraine-Beratungen in Berlin Anfang der Woche teils ablehnend kommentiert. Die Vereinigten Staaten lobten dagegen die Bemühungen der Europäer. In Deutschland gibt es vorsichtigen Optimismus. Wir fassen die Reaktionen zusammen.",
+      "content_length": 243,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Straßburg - Europäischer Gerichtshof für Menschenrechte verurteilt Russland wegen Unterdrückung von Nawalny-Organisationen",
+      "link": "https://www.deutschlandfunk.de/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-russland-wegen-unterdrueckung-von-nawalny-o-102.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der Europäische Gerichtshof für Menschenrechte hat Russland wegen der Unterdrückung von Organisationen im Umfeld des früheren Oppositionsführers Nawalny verurteilt.",
+      "content_length": 164,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "US-Justiz - Tatverdächtiger Sohn von Rob und Michele Reiner wird wegen zweifachen Mordes angeklagt",
+      "link": "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michele-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Die Staatsanwaltschaft will nach dem gewaltsamen Tod von Hollywood-Regisseur Rob Reiner und seiner Frau deren Sohn wegen zweifachen Mordes anklagen.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Fifa - Dembélé und Bonmati sind Weltfußballer des Jahres",
+      "link": "https://www.deutschlandfunk.de/demb-l-und-bonmati-sind-weltfussballer-des-jahres-110.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der Franzose Ousmane Dembélé und die Spanierin Aitana Bonmatí sind bei einer Gala des Weltverbandes FIFA in Doha als Weltfußballer des Jahres ausgezeichnet worden. An der Wahl beteiligt waren Nationaltrainer, Auswahlkapitäne, Journalisten und Fans.",
+      "content_length": 248,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bayreuth-Bariton - Opernsänger Thomas J. Mayer im Alter von 56 Jahren gestorben",
+      "link": "https://www.deutschlandfunk.de/opernsaenger-thomas-j-mayer-im-alter-von-56-jahren-gestorben-108.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Der Bariton Thomas J. Mayer ist im Alter von 56 Jahren gestorben. Er war jahrelang auf der Bühne der Bayreuther Festspiele präsent, aber auch in vielen anderen Opern- und Konzerthäusern weltweit.",
+      "content_length": 195,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Vielfach sonnig, im Norden und Westen leichter Regen, -1 bis 12 Grad",
+      "link": "https://www.deutschlandfunk.de/vielfach-sonnig-im-norden-und-westen-leichter-regen-1-bis-12-grad-100.html",
+      "published": "2025-12-17T07:11:43",
+      "content": "Das Wetter: Vielfach sonnige Abschnitte. Im Nordwesten und Südosten dichte Wolkenfelder mit vereinzelten Niederschlägen. Temperaturen von minus 1 bis plus 12 Grad. Morgen im Süden und Osten nach Nebelauflösung sonnig. Im Nordwesten wolkig und etwas Regen. 4 bis 14 Grad.",
+      "content_length": 270,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Markenrechte aufgegeben? X nimmt Kampf um „Twitter“ und „Tweet“ an",
+      "link": "https://www.heise.de/news/Markenrechte-aufgegeben-X-nimmt-Kampf-um-Twitter-und-Tweet-an-11117498.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-17T07:10:00",
+      "content": "Ein Start-up hat das US-Patentamt aufgefordert, X die Markenrechte an „Twitter“ und „Tweet“ zu nehmen. Das will der Kurznachrichtendienst verhindern und klagt.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "UK inflation falls by more than expected to 3.2%, adding to case for interest rate cut",
+      "link": "https://www.theguardian.com/business/2025/dec/17/uk-inflation-falls-interest-rate-cut-bank-of-england",
+      "published": "2025-12-17T07:01:03",
+      "content": "Slowing pace of price rises in November makes Bank of England cut to cost of borrowing on Thursday more likelyUK inflation significantly cooled in November to 3.2%, official figures show, strengthening the case for the Bank of England to cut interest rates on Thursday.In a crunch week for the economy, the Office for National Statistics said the annual inflation rate as measured by the consumer prices index eased last month from a reading of 3.6% in October, overshooting City forecasts of a modest drop to 3.5%. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Resident doctors in England begin five days of strike action",
+      "link": "https://www.theguardian.com/society/2025/dec/17/resident-doctors-in-england-begin-five-days-of-strike-action",
+      "published": "2025-12-17T07:00:29",
+      "content": "NHS leaders warn ‘more patients are likely to feel the impact of this round of strikes than the previous two’Resident doctors in England have begun five days of strike action after rejecting the government’s latest offer to resolve the long-running dispute over pay and jobs.The British Medical Association (BMA), and the health secretary, Wes Streeting, met on Tuesday in a final attempt to reach an agreement, but failed to do so. Continue reading...",
+      "content_length": 452,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "MIT grieves shooting death of renowned director of plasma science center",
+      "link": "https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro",
+      "published": "2025-12-17T07:00:29",
+      "content": "Nuno FG Loureiro, 47, was shot multiple times at his home, and no details about a suspect or motive have been releasedThe Massachusetts Institute of Technology (MIT) community is grieving after the “shocking” shooting death of the director of its plasma science and fusion center, according to officials.Nuno FG Loureiro, 47, had been shot multiple times at his home in Brookline on Monday night when police said they received a call to investigate. Emergency responders brought Loureiro to a hospital, and the award-winning scientist was pronounced dead there Tuesday morning, the Norfolk county district attorney’s office said in a statement. Continue reading...",
+      "content_length": 664,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The Guardian’s Hope appeal raises more than £350,000 for charities",
+      "link": "https://www.theguardian.com/society/2025/dec/17/the-guardians-hope-appeal-raises-more-than-350000-for-charities",
+      "published": "2025-12-17T07:00:26",
+      "content": "The 2025 appeal is helping charities that bring divided communities together  and promote toleranceThe Guardian’s Hope appeal has raised more than £350,000 for inspirational grassroots charities that bring divided communities together, promote tolerance and positive change, and tackle racism and hatred.The figure, raised in less than two weeks, includes more than £30,000 donated during the annual telethon last Saturday, when more than 40 journalists including John Crace, Polly Toynbee and Simon Hattenstone were on hand to take readers’ calls. Continue reading...",
+      "content_length": 568,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bondi shooting updates: alleged gunman Naveed Akram charged with 59 offences as police say ‘early indications’ suggest terror attack ‘inspired by Isis’",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/17/bondi-beach-shooting-live-updates-victims-terror-attack-jewish-festival-al-ahmed-sajid-naveed-akram-shooters-india-radicalisation-gun-control-ntwnfb",
+      "published": "2025-12-17T06:57:43",
+      "content": "Follow today’s news liveFull report: Naveed Akram charged with 59 offences after 15 people killed at Hanukah celebrationGet our breaking news email, free app or daily news podcastTreasurer Jim Chalmers has just been on RN, where he has said the government is “focused” on combating antisemitism and gun control issues.He said:We’re focused on both of those things simultaneously, countering these horrifying and evil acts of antisemitism at the same time as we tighten our gun laws.And frankly, in relation to Mr Howard, I don’t know why in the wake of a mass shooting, some politicians, some current and some former, are trying to diminish our efforts to tighten our gun laws. John Howard, of all people, should understand how important this is.We’ve seen elements of it rear its head, albeit in isolated circumstances. It just invites a sincere and genuine redoubling of efforts from government, including putting money where our mouth is, investing in all things around education, what antisemitism looks like, young people have an appreciation that this is a real threat.When the bar is raised, South Australia is not going to be left behind. We’re committed to making sure that people are protected. In South Australia, we don’t have perpetual gun licences. Depending on the class of firearms licence you have, you have it every year, or every three years or five years, depending on what your firearms are. Continue reading...",
+      "content_length": 1432,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nigel Farage told to apologise by 26 of his school contemporaries",
+      "link": "https://www.theguardian.com/politics/2025/dec/17/nigel-farage-told-to-apologise-by-26-of-his-school-contemporaries",
+      "published": "2025-12-17T06:55:26",
+      "content": "Open letter to Reform UK leader expresses ‘dismay and anger’ at his response to racism and antisemitism allegationsNigel Farage has been told to apologise for his alleged teenage racism by 26 school contemporaries who have written an open letter telling of their “dismay and anger” at his response in recent weeks.In a united challenge to the Reform UK leader, the alleged victims and witnesses condemn him for what they describe as his refusal to acknowledge his behaviour at Dulwich college. Continue reading...",
+      "content_length": 513,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wednesday briefing: What’s at stake for the BBC as it faces further funding questions",
+      "link": "https://www.theguardian.com/world/2025/dec/17/wednesday-briefing-whats-at-stake-for-the-bbc-as-it-faces-further-funding-questions",
+      "published": "2025-12-17T06:52:43",
+      "content": "In today’s newsletter: The BBC is bracing for a high-stakes legal fight after the US president sues over an edited Panorama clip, and questions mount about the broadcaster’s future funding and political vulnerabilityGood morning. On Tuesday, the UK woke to the news Donald Trump had filed his threatened $10bn lawsuit against the BBC, alleging that the corporation “intentionally, maliciously and deceptively” defamed him. Later that day, the government launched a review of how the beleaguered corporation will be funded into the 2030s – they will ask the public for their views on options, including a subscription service or adverts, amid a drop in licence holders.While there remains a lack of consensus over the latter issue – in itself enough to worry BBC executives over its future – few would argue that licence fee payers should be funding a multimillion pound compensation claim to the increasingly litigious US president.Australia | The alleged Bondi attacker who survived a shootout with police has been charged with 59 offences, including 15 counts of murder, after waking from his coma on Tuesday.European Union | An agreement to rejoin Erasmus – the EU’s student exchange programme – is expected to be announced on Wednesday as part of the UK government’s drive towards closer relations with Brussels.Venezuela | Donald Trump has ordered “a total and complete” blockade of all sanctioned oil tankers entering and leaving Venezuela, ramping up pressure on the country’s authoritarian leader Nicolás Maduro.UK news | A former Royal Marine is starting a 21-year jail term for mowing down dozens of Liverpool football fans in a “truly shocking” act that “defies ordinary understanding”.US news | Nick Reiner has been charged with two counts of first-degree murder in the killing of his parents, the acclaimed actor and director Rob Reiner and the photographer Michele Singer Reiner, authorities announced on Tuesday. Continue reading...",
+      "content_length": 1947,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Kommission will Pestizide unbefristet zulassen",
+      "link": "https://www.tagesschau.de/wirtschaft/glyphosat-eu-kommission-102.html",
+      "published": "2025-12-17T06:49:49",
+      "content": "   Die EU-Kommission will bestimmte Pflanzenschutzmittel wie beispielsweise Glyphosat künftig zeitlich unbegrenzt zulassen. Die bislang erforderlichen regelmäßigen Neuzulassungen sollen laut einem Gesetzesvorschlag aus Brüssel abgeschafft werden.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Holocaust survivor, London-born rabbi and 10-year-old girl among those killed in Bondi attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/15/what-we-know-about-the-victims-of-the-bondi-beach-terror-attack",
+      "published": "2025-12-17T06:48:18",
+      "content": "At least 16 people including one of the alleged gunmen died at the shooting in Sydney on Sunday, aged between 10 and 87This article is no longer being updated. The latest information is here. Holocaust survivors, dedicated volunteers, faith leaders, and heroes who tried to stop the shooting have been named among the 15 victims of the Bondi beach terror attack in Sydney, Australia, on Sunday.Most were attending a celebration for the first day of Hanukah when the shooting began, in an alleged antisemitic attack. It is the worst mass shooting in Australia since the 1996 Port Arthur massacre. Continue reading...",
+      "content_length": 615,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frydenberg claims Albanese should accept ‘personal responsibility’ for Bondi attacks in escalation of rhetoric",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/17/frydenberg-claims-albanese-should-accept-personal-responsibility-for-bondi-attacks-in-escalation-of-rhetoric-ntwnfb",
+      "published": "2025-12-17T06:44:23",
+      "content": "PM condemns ‘perversion of Islam’ that police allege may be behind the attackFull report: Bondi terror attackVictims of Bondi beach shootingWhat we know so far about the Bondi terror attackFollow the latest live updatesFormer Liberal treasurer Josh Frydenberg has claimed Anthony Albanese is personally responsible for the 15 deaths in the Bondi terror attack, as the prime minister lays the blame on “perverse ideology, a terrorist ideology”.The comments were part of an extraordinary escalation of political rhetoric on Wednesday as the New South Wales premier, Chris Minns, said his government would consider new restrictions on protests that he said “would rip apart our community”. Continue reading...",
+      "content_length": 706,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Farmer helping battle WA bushfire dies after tree falls on car, amid heatwave warnings in multiple states",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/17/farmer-helping-battle-wa-bushfire-dies-after-tree-falls-on-car-amid-heatwave-warnings-in-multiple-states",
+      "published": "2025-12-17T06:41:38",
+      "content": "Police say man, 34, had been assisting firefighters earlier on Tuesday before the incident that nightFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA 34-year-old farmer has died after a tree fell on his car after he helped fire crews battling a bushfire in Western Australia’s south.WA police said the man was driving along the Old Ongerup Road in Mindarabin, more than 300km south-east of Perth, at about 8.10pm on Tuesday when a tree fell on his vehicle, crushing the cab. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Kremlin says European participation in Ukraine peace talks 'does not bode well'",
+      "link": "https://www.france24.com/en/europe/20251217-live-moscow-casts-doubt-on-european-role-in-ukraine-peace-talks-berlin-russia",
+      "published": "2025-12-17T06:32:10",
+      "content": "The Kremlin said Tuesday it opposed European participation in US-led talks to end the war in Ukraine, saying it first needed details of recent discussions. Meanwhile, European leaders met in Berlin to launch an International Claims Commission to compensate Kyiv for hundreds of billions of dollars in damage from Russian attacks and alleged war crimes. Follow our liveblog for the latest updates.",
+      "content_length": 396,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: US-Jobdaten verunsichern Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-386.html",
+      "published": "2025-12-17T06:22:30",
+      "content": "   Die Vorgaben aus den USA sprechen für einen verhaltenen DAX-Start, die Wall Street hat gestern uneinheitlich geschlossen. Daten zur US-Wirtschaft hatten zuvor ein gemischtes Bild gezeichnet.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mögliche Anschlagspläne: Verdächtiger in Magdeburg soll abgeschoben werden",
+      "link": "https://www.tagesschau.de/inland/magdeburg-anschlag-festnahme-100.html",
+      "published": "2025-12-17T06:20:42",
+      "content": "   In Magdeburg ist ein 21-Jähriger festgenommen worden. Der Mann aus Zentralasien soll Anschlagspläne geäußert haben. Das Innenministerium von Sachsen-Anhalt bereitet nach eigenen Angaben eine Anordnung zur Abschiebung vor.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Alleged Bondi Beach gunman charged with 59 offences, including terror",
+      "link": "https://www.france24.com/en/asia-pacific/20251217-australia-police-charge-bondi-beach-suspect-with-59-offences-including-terror",
+      "published": "2025-12-17T06:11:52",
+      "content": "Australian police charged Naveed Akram with 59 offences, including terrorism, after he allegedly opened fire at a Jewish event on Sydney’s Bondi Beach. This comes as the funerals of the Jewish victims of the attack began on Wednesday.",
+      "content_length": 234,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "USA vs EU-Digitalgesetze: Namentliche Drohung gegen Spotify, DHL, SAP & Siemens",
+      "link": "https://www.heise.de/news/EU-Digitalgesetze-US-Regierung-droht-Spotify-DHL-SAP-Siemens-EU-Konzernen-11117482.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-17T06:06:00",
+      "content": "Die weitreichenden Digitalgesetze der EU sind den USA schon länger ein Dorn im Auge. Weil Brüssel geforderte Änderungen ablehnt, droht die US-Regierung jetzt.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump ordnet Blockade sanktionierter Öltanker in Venezuela an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-venezuela-108.html",
+      "published": "2025-12-17T06:05:19",
+      "content": "   Der US-Präsident eskaliert den Konflikt mit Venezuela: Er ordnete eine Blockade aller sanktionierter Öltanker an, forderte die Rückgabe von \"Öl und Land\" und bezeichnete die Regierung als Terrororganisation.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Erneuerungsbewegungen - \"Toxische Spiritualität\"",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/erneuerungsbewegung-100.html",
+      "published": "2025-12-17T06:00:45",
+      "content": "   Sie werden von Bischöfen hofiert, schulen Heranwachsende in Jüngerschaftsschulen: Charismatische Erneuerungsbewegungen sind bundesweit auf dem Vormarsch. Aussteiger und Insider üben Kritik. Von Andreas Herz und Ralph Gladitz.[mehr]",
+      "content_length": 234,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Our world has changed’: Sydney Jewish bakery closes after Bondi beach terror attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/17/our-world-has-changed-sydney-jewish-bakery-closes-after-bondi-beach-terror-attack",
+      "published": "2025-12-17T05:56:39",
+      "content": "Avner’s Bakery told customers that ‘it is no longer possible to make outwardly, publicly, proudly Jewish places and events safe in Australia’Full report: Bondi terror attack Victims of Bondi beach shootingWhat we know so far about the Bondi terror attack Follow the latest live updatesA Jewish bakery in Sydney run by a celebrity chef has closed – apparently for good – after the Bondi beach terror attack, with a message posted on the shop’s window saying it can no longer ensure the safety of its staff and customers.Avner’s Bakery, a prominent Jewish bakery in Surry Hills run by celebrity chef Ed Halmagyi, closed after Sunday’s massacre at a gathering to celebrate the Jewish festival of Hanukah.In Australia, support is available at Beyond Blue on 1300 22 4636, Lifeline on 13 11 14, and Griefline on 1300 845 745. In the UK, the charity Mind is available on 0300 123 3393. Other international helplines can be found at befrienders.org Continue reading...",
+      "content_length": 961,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Myanmar junta seeks to prosecute hundreds for 'disruption' ahead of elections",
+      "link": "https://www.france24.com/en/live-news/20251217-myanmar-junta-seeks-to-prosecute-hundreds-for-election-disruption",
+      "published": "2025-12-17T05:45:18",
+      "content": "Myanmar's junta on Wednesday said it was pursuing charges against more than 200 people for alleged disruption of upcoming elections under new laws banning criticism of upcoming elections, which rights groups and the UN have dismissed as a sham to entrench military rule.",
+      "content_length": 270,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mordanklage gegen Rob Reiners Sohn eingereicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/reiner-sohn-mordanklage-100.html",
+      "published": "2025-12-17T05:38:34",
+      "content": "   Nach dem Tod von Hollywoodregisseur Rob Reiner gibt es eine Mordanklage gegen seinen Sohn Nick. Der 32-Jährige blieb dem Gerichtstermin allerdings fern - laut seinem Anwalt aus gesundheitlichen Gründen.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Krankenkassenbeiträge: Nun geht es ans Vermitteln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kassenbeitraege-vermittlungsausschuss-100.html",
+      "published": "2025-12-17T05:26:16",
+      "content": "   Das vom Bundestag beschlossene Sparpaket zur Entlastung der Krankenkassen hatte der Bundesrat nicht gebilligt. Hintergrund ist ein Streit ums Geld - besonders das für Krankenhäuser. Nun muss der Vermittlungsausschuss ran. Von B. Sönnichsen. [mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Entwurf im Kabinett: Was sich durch die Bürgergeldreform ändern soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/grundsicherung-faq-100.html",
+      "published": "2025-12-17T05:20:14",
+      "content": "   Keine Karenzzeit, härtere Sanktionen und ein neuer Name: Die Regierung hat sich bei der Bürgergeldreform auf letzte Details geeinigt. Heute soll der Entwurf zur Grundsicherung durch das Bundeskabinett. Was soll sich ändern? Von Corinna Emundts.[mehr]",
+      "content_length": 253,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Verbotenes Neonazi-Netzwerk - Deutsche \"Hammerskins\" im Ausland aktiv?",
+      "link": "https://www.tagesschau.de/investigativ/ndr/hammerskins-neonazi-netzwerk-verbot-100.html",
+      "published": "2025-12-17T05:00:39",
+      "content": "   In Deutschland ist die Neonazi-Gruppe \"Hammerskins\" verboten. Anhänger sind nach Recherchen des NDR aber weiter europaweit mit Gleichgesinnten vernetzt. Ob das Verbot Bestand hat, wird aktuell vor dem Bundesverwaltungsgericht verhandelt.[mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Magical’ galaxy frogs disappear after reports of photographers destroying their habitats",
+      "link": "https://www.theguardian.com/environment/2025/dec/17/galaxy-frogs-disappear-photographers-habitat-kerala",
+      "published": "2025-12-17T05:00:27",
+      "content": "Researcher in Kerala rainforest sounds alarm after being told frogs had died after being handled by humansA group of endangered “galaxy frogs” are missing, presumed dead, after trespassing photographers reportedly destroyed their microhabitats for photos.Melanobatrachus indicus, each the size of a fingertip, is the only species in its family, and lives under logs in the lush rainforest in Kerala, India. Their miraculous spots do not indicate poison, as people sometimes assume, but are thought to be used as a mode of communication, according to Rajkumar K P, a Zoological Society of London fellow and researcher. Continue reading...",
+      "content_length": 637,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Junge Deutsche in der Ukraine: Von der Schulbank in den Krieg",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ukraine-krieg-freiwillige-100.html",
+      "published": "2025-12-17T03:56:19",
+      "content": "   Manche wollen Europa schützen, andere suchen das Abenteuer: Es gibt Jugendliche und junge Männer aus Deutschland, die freiwillig in der Ukraine an der Front kämpfen wollen. Doch nicht alle werden vom ukrainischen Militär aufgenommen. Von Susanne Mayer.[mehr]",
+      "content_length": 261,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rob Reiner’s friends Billy Crystal and Larry David remember director together: ‘He was always at the top of his game’",
+      "link": "https://www.theguardian.com/film/2025/dec/17/rob-reiners-friends-billy-crystal-and-larry-david-remember-director-together-he-was-always-at-the-top-of-his-game",
+      "published": "2025-12-17T03:43:51",
+      "content": "In a joint statement with other close friends, including Albert Brooks and Martin Short, the comedians pay tribute to the Reiners after their deathsUS comedy luminaries Billy Crystal, Larry David, Martin Short and Albert Brooks have come together to remember their friend and peer Rob Reiner, hours after the director’s son was charged with the murder of his parents.Nick Reiner, 32, has been in custody since Sunday evening, hours after his sister, Romy, reportedly discovered the bodies of Rob and Michele Reiner in their Los Angeles home. Police said the couple had suffered fatal stab wounds. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump orders blockade of sanctioned oil tankers entering and leaving Venezuela",
+      "link": "https://www.theguardian.com/us-news/2025/dec/16/trump-orders-blockade-oil-tankers-venezuela",
+      "published": "2025-12-17T02:39:43",
+      "content": "Move comes amid escalating campaign against Maduro as Venezuelan government condemns ‘grotesque threat’Donald Trump has ordered “a total and complete” blockade of all sanctioned oil tankers entering and leaving Venezuela, ramping up pressure on the country’s authoritarian leader Nicolás Maduro.The move comes amid an escalating campaign by the Trump administration against Maduro that has included a ramped-up military presence in the region and more than two dozen military strikes on vessels in the Pacific Ocean and Caribbean Sea near Venezuela, which have killed dozens of people. Continue reading...",
+      "content_length": 605,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rob Reiner’s son Nick charged with murder of parents",
+      "link": "https://www.theguardian.com/film/2025/dec/16/rob-reiner-son-nick-reiner-charged",
+      "published": "2025-12-17T02:36:15",
+      "content": "Nick Reiner, 32, charged after Rob Reiner and wife Michele Singer Reiner found dead at Los Angeles home on SundayNick Reiner has been charged with two counts of first-degree murder in the killing of his parents, the acclaimed actor and director Rob Reiner and the photographer Michele Singer Reiner, authorities announced on Tuesday.The 32-year-old, who is being held without bail, has been in custody since Sunday evening, hours after his sister reportedly discovered the couple’s bodies in their Los Angeles home. Police said on Sunday the couple had suffered fatal stab wounds. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump weitet US-Einreiseverbot aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-einreiseverbote-ausweitung-100.html",
+      "published": "2025-12-17T02:30:36",
+      "content": "   Das US-Einreiseverbot trifft weitere Ausländer: US-Präsident Trump weitete die Liste der Staaten, deren Bürger nicht einreisen dürfen, aus. Betroffen sind nun auch Syrer sowie Palästinenser mit Reisedokumenten der Autonomiebehörde.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "CDC ends recommendation for all US newborns to receive hepatitis B vaccine",
+      "link": "https://www.theguardian.com/us-news/2025/dec/16/hepatitis-b-vaccine-cdc",
+      "published": "2025-12-17T02:29:37",
+      "content": "Change marks an abrupt end to 30 years of established medical guidance and follows vote earlier this monthThe US Centers for Disease Control and Prevention (CDC) on Tuesday ended a long-standing recommendation that all US newborns receive the hepatitis B vaccine.The agency’s move follows a vote from health secretary Robert F Kennedy Jr.’s vaccine advisory panel that a birth dose should only be given to newborns whose mothers test positive for hepatitis B or whose status is unknown. Continue reading...",
+      "content_length": 506,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Virginia Roberts Giuffre: Epstein accuser’s memoir sells 1m copies in two months",
+      "link": "https://www.theguardian.com/books/2025/dec/17/virginia-roberts-giuffre-epstein-accusers-memoir-sells-1-million-copies-in-two-months",
+      "published": "2025-12-17T02:14:47",
+      "content": "Giuffre’s family calls the success of her posthumous memoir, Nobody's Girl, ‘bittersweet’ after her death in AprilA posthumous memoir by one of Jeffrey Epstein’s best-known accusers, Virginia Roberts Giuffre, has sold 1m copies worldwide in just the two months after its release.Publisher Alfred A Knopf announced on Tuesday that more than half the sales for Nobody’s Girl came out of North America; in the US, the book is now in its 10th printing after an initial run of 70,000 copies. Giuffre’s book, co-written by author-journalist Amy Wallace, was published in early October. Continue reading...",
+      "content_length": 599,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "AfD-Fraktion beschließt Ordnungsverfahren gegen Rüdiger Lucassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ordnungsverfahren-lucassen-afd-100.html",
+      "published": "2025-12-17T01:42:53",
+      "content": "   Der AfD-Fraktionsvorstand hat ein Ordnungsverfahren gegen Rüdiger Lucassen beschlossen, den Leiter des Arbeitskreises Verteidigung. Der Grund: Er hat in einer Bundestagsrede Björn Höcke scharf kritisiert. Von K. Pfeffer und J. Kurz.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Merz lässt deutsche Beteiligung an Friedenstruppe in der Ukraine offen",
+      "link": "https://www.tagesschau.de/ausland/europa/deutsche-soldaten-ukraine-100.html",
+      "published": "2025-12-17T01:41:53",
+      "content": "   Nach den Plänen der \"Koalition der Willigen\" könnte eine multinationale Truppe einen Frieden in der Ukraine sichern. Ob deutsche Soldaten Teil davon sein sollen, lassen Spitzenpolitiker offen - allen voran Kanzler Merz.[mehr]",
+      "content_length": 228,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump orders blockade of 'sanctioned oil tankers' bound for Venezuela",
+      "link": "https://www.france24.com/en/americas/20251217-trump-orders-blockade-oil-tankers-venezuela",
+      "published": "2025-12-17T01:23:07",
+      "content": "President Donald Trump announced Tuesday that the US will impose a blockade on all “sanctioned oil tankers” entering or leaving Venezuela, dramatically escalating his administration’s campaign against President Nicolás Maduro. The move follows the recent seizure of an oil tanker off Venezuela’s coast and a growing US military buildup in the region.",
+      "content_length": 350,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
+      "link": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
+      "published": "2025-12-17T01:23:03",
+      "content": "\n\n\n\t\n\t\t\n\nElon Musk, a billionaire who decimated the United States federal workforce using the Department of Government Efficiency, is not remembered fondly by the most powerful woman in Washington: Susie Wiles, White House Chief of Staff and the gatekeeper to President Donald Trump. \nIn several on-the-record interviews with Vanity Fair's Chris Whipple conducted over the past year, Wiles, who had corralled the notoriously backstabby Trump political operation into coherence and discipline, described Musk as a \"complete solo actor\" who had plunged the Trump administration into several unnecessary crises - including the shuttering of USAID, the United S …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Arcade1Up isn&#8217;t dead, maybe",
+      "link": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
+      "published": "2025-12-17T01:05:39",
+      "content": "\n\n\n\t\n\t\t\n\nDays after a rumor circulated that home arcade machine maker Arcade1Up would be shutting down, the company has finally shared a statement about its future. \"Select assets\" from Arcade1Up have been acquired by toy company Basic Fun, and although Arcade1Up isn't dead, what's next for the brand is still a little murky.\nLast week, a screenshot of an email appearing to be sent from an Arcade1Up staffer painted a grim picture. As stated in the email, which you can see on Reddit:\n\nArcade1Up is closing operations. For the majority of us, our last day is this coming Friday.\nI cannot speak to the future of the brand, it is not my place to share w …\nRead the full story at The Verge.",
+      "content_length": 689,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How Silicon Valley turned Trump into a fellow broligarch",
+      "link": "https://www.theverge.com/column/845955/donald-trump-big-tech-2025",
+      "published": "2025-12-17T00:32:50",
+      "content": "\n\n\n\t\n\tU.S. President Donald Trump speaks as (L-4th L) White House “AI and Crypto Czar” David Sacks, Meta CEO Mark Zuckerberg, and first lady Melania Trump listen during a dinner at the State Dining Room of the White House on September 4, 2025 in Washington, DC.  (Photo by Alex Wong/Getty Images)\t\n\nHello and welcome to 2025's last issue of Regulator. If you're not a Verge subscriber, get off the 2026 naughty list by signing up here. And if you're a Verge subscriber - well, dang, that's really nice of you. \nLast week, I appeared on The Brian Lehrer Show on WNYC to talk about my reporting on President Donald Trump's attempt to ban states from making their own AI laws. I don't often get to appear on radio, but I love doing it for one unique reason. On cable news, you have 90 seconds to make your point and that's all you get. On podcasts, you fall into a rhythm in a room of peers for an hour and even though it can be fun, it runs the risk …\nRead the full story at The Verge.",
+      "content_length": 983,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "US warns of fees or curbs on European services amid dispute over EU tech rules",
+      "link": "https://www.france24.com/en/technology/20251216-us-warns-fees-european-services-dispute-over-eu-tech-rules",
+      "published": "2025-12-16T23:33:07",
+      "content": "US President Donald Trump's administration has warned that it could impose fees or restrictions on European service providers, escalating a transatlantic dispute over what Washington describes as discriminatory EU actions targeting US companies.",
+      "content_length": 245,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Alexa Plus’ website is live for some users",
+      "link": "https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live",
+      "published": "2025-12-16T23:10:44",
+      "content": "\n\n\n\t\n\t\t\n\nThe Alexa.com website appears to be live for some users. The browser-based home for Alexa Plus, the company's revamped digital voice assistant, was first announced at the Alexa Plus launch event in February. But until recently, Alexa.com redirected to an information page. Now, some users, myself included, are seeing a new Alexa Plus web interface. \nToday, when I typed Alexa.com into my web browser, it took me to a page that resembled the Alexa Plus chatbot in the Alexa app. (I was already logged in to my Amazon.com account.)\n\n\t\n\t\t\n\n\n\t\n\nI went through a few setup steps, then arrived at a large blue-and-white screen with a big \"Hello Jen,  …\nRead the full story at The Verge.",
+      "content_length": 690,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room",
+      "link": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
+      "published": "2025-12-16T23:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nFollowing the release of the 115-inch Micro RGB TV back in August, Samsung has revealed today that its Micro RGB technology will extend into smaller sizes ranging from that 115-inch behemoth all the way down to 55 inches. While we all enjoy dreaming big, it's far more reasonable for most of us to consider putting a 55-, 65-, or 75-inch TV in a living room.\nThe new Micro RGB TVs will be available in 55, 65, 75, 85, 98, and 100 inches, joining the 115-inch MR95F. We expect further details about pricing and release dates at CES in January.\nCurrently, these Samsung TVs are the smallest Micro RGB TVs we've seen from any company. LG announced it …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘Twitter never left:’ X sues Operation Bluebird for trademark infringement",
+      "link": "https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement",
+      "published": "2025-12-16T22:33:26",
+      "content": "\n\n\n\t\n\t\t\n\nX Corp. is suing Operation Bluebird, a recently-announced startup that aims to reclaim the Twitter brand for a new social network. In a lawsuit filed on Tuesday, the Elon Musk-owned company alleges Operation Bluebird is \"brazenly attempting to steal\" Twitter's trademarks, claiming \"Twitter never left and continues to be exclusively owned by X Corp.\"\nLast week, Operation Bluebird filed a petition asking the US Patent and Trademark Office (USPTO) to cancel X Corp.'s ownership of the \"Twitter\" and \"Tweet\" trademarks. It alleged X Corp. \"legally abandoned its rights\" to Twitter's brand with \"no intention to resume use.\" At the same time, Operat …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump admin threatens retaliation against Spotify and others over EU tech regulation",
+      "link": "https://www.theverge.com/news/845869/ustr-eu-trade-threat-spotify-mistral",
+      "published": "2025-12-16T22:28:36",
+      "content": "\n\n\n\t\n\tFlag illustration representing the European Union\t\n\nThe Office of the US Trade Representative posted on X Tuesday, claiming that US service providers have been hit by \"a continuing course of discriminatory and harassing lawsuits, taxes, fines, and directives\" from the EU. Earlier this month, X was fined $140 million under the EU's Digital Services Act (DSA), in addition to new laws, fines, and investigations that have affected US tech giants like Google, Apple, Amazon, Microsoft, and Meta over the past few years.\nThe unsigned post specifically named several European tech companies: Accenture, Amadeus, Capgemini, DHL, Mistral, Publicis, SAP, Siemens, and Spotify. It claimed that if the \"discr …\nRead the full story at The Verge.",
+      "content_length": 742,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Rob Reiner’s son to face two murder charges over parents’ killings",
+      "link": "https://www.france24.com/en/americas/20251216-rob-reiner-son-murder-charges",
+      "published": "2025-12-16T22:21:58",
+      "content": "Los Angeles prosecutors say Nick Reiner, the son of famed actor-director Rob Reiner, will be charged with two counts of first-degree murder following the deaths of his parents. The case has shocked Hollywood and Democratic political circles, where the couple were widely admired.",
+      "content_length": 279,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best Android phones",
+      "link": "https://www.theverge.com/23674658/best-android-phone",
+      "published": "2025-12-16T22:18:06",
+      "content": "\n\n\n\t\n\t\t\n\nThe Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine.\n\nOn the flip side, all that choice can make for some hard decisions. Here’s where I’d like to help; I’ve tested a whole boatload of recent Android phones, and I think there are some real winners in the current batch. It’s all a matter of what you’re looking for, what you’re comfortable spending, and what your definition of a “reasonably sized phone” is. (I have my own, personally.)\n\nAs you sift through the options, you’ll almost certainly come across tech’s favorite buzzphrase of the moment: AI. Generally speaking, AI has yet to really impress me on a phone. The Pixel 10 series has some useful features, including Magic Cue, which proactively aims to surface relevant information when you need it, and Galaxy devices can translate a phone call for you in real time. These things are nothing to sneeze at! But none of it feels like the platform shift that the big tech companies keep promising. Best not to put too much stock in any company’s AI claims just yet.\n\n\n\n\n\n\nThe best Android phone overallThe best budget Android phoneThe best maximalist phoneThe best Android phone that isn’t hugeThe best lightweight big phoneThe best phone if you hate waiting for your phone to chargeThe best foldable phoneOther Android phones worth consideringWhat’s coming next\n\n\n\n\nIf you live in the US, I have some bad news about the Android market, though. For complicated reasons having to do with “capitalism” and “geopolitics,” we don’t get nearly as many of the options as you’ll find in Asia and Europe — brands like Huawei, Xiaomi, Honor, and Oppo just aren’t available here. I’ve limited this guide to the devices I’ve personally tested in depth; thus, it is a fairly US-centric set of recommendations.&nbsp;\n\nWith that in mind, it’s also worth acknowledging that most people in the US get their phones “for free” from their wireless carrier. If you can manage it, buying a phone unlocked will give you the most flexibility and freedom if you end up wanting to change carriers in the near future. Phone manufacturers also offer financing and trade-in deals to make payment more manageable. But if you’re happy with your carrier and the free phone on offer is the one you really want, by all means, take the free phone. Just make sure you understand the terms, especially if you need to change plans to cash in on the deal.&nbsp;\n\nHowever you go about it, you have some fantastic options for your next Android phone.\n\nThe best Android phone overall\nGoogle Pixel 10\nGoogle&#8217;s Pixel 10 has a 6.3-inch OLED display, Google Tensor G5 processor, 12GB of RAM, support for Pixelsnap wireless charging, and a triple-lens camera system that includes a new 5x telephoto.\n\nScore: 8ProsConsQi2 wireless charging with magnets is greatAI is actually kind of useful, finallyTelephoto camera is a nice additionMain and ultrawide cameras aren’t quite as good as the ProBattery life is just okay\nWhere to Buy: $799 $599 at Amazon (128GB) $799 $599 at Best Buy (128GB) $799 $599 at Google (128GB)\nScreen: 6.3-inch, 1080p 120Hz OLED / Processor: Tensor G5 / Cameras: 48-megapixel f/1.7 main with OIS; 13-megapixel f/2.2 ultrawide; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel selfie / Battery: 4,970mAh / Charging: 30W wired, 15W wireless (Qi2) / Weather-resistance rating: IP68\n\nThe Pixel 10 is Google’s latest take on the “just right” Android phone that introduces a few notable upgrades. For $799, you get a sharp 6.3-inch OLED screen, the same Tensor G5 chip found in the pricier Pro version, and Qi2 wireless charging with built-in magnets, no case required. The device is built to handle the day-to-day without a fuss, and the whole thing feels straightforward instead of flashy.\n\nThis year, the Pixel 10 also adds a dedicated telephoto lens, a first for the non-Pro. Unfortunately, the main and ultrawide cameras are a step down from last year’s model. If you’re not scrutinizing every pixel or chasing low-light portraits, you’ll probably never notice. For regular photos, the Pixel 10 is great; it produces clean shots, solid performance, and enough versatility for the average user.\n\nWhat really sets the Pixel 10 apart, though, is how easy it is to use. AI features like Magic Cue are useful, proactively providing info without getting in the way. For example, it can surface a restaurant’s address or reservation details from your search history or confirmation email as you finalize plans over text. The phone runs cooler than previous versions and handles heavier workloads well, and it shrugs off dust and water. If you want an Android smartphone that doesn’t overcomplicate things, the Pixel 10 is an easy recommendation.\n\nRead our full Pixel 10 review.\n\nThe best budget Android phone\nGoogle Pixel 9A\n\nScore: 8ProsConsRobust IP68 ratingSeven years of software updatesBrighter, bigger screenMissing a couple of AI featuresAI is occasionally handy, usually weird\nWhere to Buy: $499 $399 at Amazon (128GB) $499 $399 at Best Buy (128GB) $499 $399 at Google (128GB)\nScreen:&nbsp;6.3-inch, 1080p OLED, 120Hz /&nbsp;Processor:&nbsp;Tensor G4 /&nbsp;Cameras:&nbsp;48-megapixel f/1.7 with OIS, 13-megapixel ultrawide, 13-megapixel selfie /&nbsp;Battery:&nbsp;5,100mAh /&nbsp;Charging:&nbsp;23W wired, 7.5W wireless /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe budget-friendly Pixel 9A nails the essentials, offering a bright 6.3-inch OLED display with a 120Hz refresh rate, IP68 water and dust resistance, wireless charging, and Google’s fourth-gen Tensor G4 chipset. It’s dependable and polished, with steady performance and a battery that lasts all day, even with the always-on display enabled. Overall, it delivers fantastic value for $499 — especially given it’s set to receive seven years of OS updates — and stands head and shoulders above the other inexpensive options&nbsp;we’ve recently tested.\n\nGoogle’s entry-level handset does make some compromises to hit its lower price point, though. The 48-megapixel main and 13-megapixel ultrawide cameras are decent for everyday shots, but low-light performance and portrait mode lag behind the latest Pixel 10 phones (and even older Pixel 9 devices). Meanwhile, it runs a more pared-down version of Google’s on-device AI, so you miss out on some features, including the Screenshots app and Call Notes. The core experience is fantastic, though, and the long support window is among the best you’ll find in this price range. If you want a relatively inexpensive phone that feels just a step below today’s flagships, the 9A is an easy pick.\n\nRead our full Pixel 9A review.\n\nThe best maximalist phone\nSamsung Galaxy S25 Ultra\n\nScore: 8ProsConsExcellent screenImproved ultrawide cameraRounded corners are comfierExpensiveBulkyAI is (still) hit or miss\nWhere to Buy: $1419.99 $849.99 at Samsung (512GB) $1659.99 $969.99 at Samsung (1TB)\nScreen:&nbsp;6.9-inch 1440p 120Hz OLED /&nbsp;Processor:&nbsp;Qualcomm Snapdragon 8 Elite /&nbsp;Cameras:&nbsp;200-megapixel main with OIS, 50-megapixel 5x telephoto with OIS, 10-megapixel 3x telephoto with OIS, 50-megapixel ultrawide, 12-megapixel selfie /&nbsp;Battery:&nbsp;5,000mAh /&nbsp;Charging:&nbsp;45W wired, 15W wireless (Qi2 Ready) /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThere’s still no phone quite like the Ultra. The Galaxy S25 Ultra is Samsung’s latest answer to the question, “What if your phone had all of the features?” It’s equipped with two telephoto cameras, a built-in stylus, and a big, bright screen. Good luck finding that combination in another phone. Related: this is one of the most expensive slab-style phones you can buy.\n\nThe newest edition of the Ultra comes with rounded corners and flat edges, making it more comfortable in your hand. But if you’re looking for significant year-over-year improvements to the Ultra formula outside of that, well, you won’t find much. Samsung’s focus has been on software features, which is to say AI features. But AI on Galaxy phones remains a mixed bag — it’s certainly not the paradigm shift Samsung wants us to think the S25 series represents.\n\nAll of that puts the Ultra in a place of slightly less distinction than previous versions. The biggest updates are software features available to the rest of the S25 series. The Ultra looks and feels more like other Galaxy phones this time around, too. More than ever, it’s hard to understand what Samsung means when it calls this phone “Ultra.” Still, it’s your best choice for a feature-packed Android phone — even if it’s not quite as ultra as it once was.\n\nRead our full Galaxy S25 Ultra review.\n\nThe best Android phone that isn’t huge\nSamsung Galaxy S25\n\nScore: 8ProsConsThe last reasonably sized Android phoneSeven years of OS upgradesVery good cameraSamsung software is as cluttered as usualAI is still a mixed bag\nWhere to Buy: $799.99 $650.12 at Amazon (128GB) $799.99 $699.99 at Best Buy (128GB) $799.99 $699.99 at Samsung (128GB)\nScreen: 6.2-inch 1080p 120Hz OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 50-megapixel main with OIS, 12-megapixel ultrawide, 10-megapixel 3x telephoto with OIS, 12-megapixel selfie / Battery: 4,000mAh / Charging: 25W wired, 15W wireless (Qi2 Ready) / Weather-resistance rating: IP68\n\nMost people like a big phone, and I get that. I do. If you want a big Android phone, you have plenty of options in front of you. But some of us like a smaller phone — something that (kind of) fits in your pocket, or feels more comfortable in your hand. For us, there is but one option on Android: the Samsung Galaxy S25.\n\nThat’s the regular S25, not the Plus, which is a fine big phone. But the standard S25 is basically the last of its kind: a full-featured phone with a 6.2-inch screen. It’s not small, but it’s not huge, and we’ll have to take what we can get. And it’s a darn good phone that keeps up with the bigger devices in all the important ways: the battery goes all day, it comes with plenty of RAM, and it even has a real telephoto lens — not something you get on a basic, 6.1-inch phone on, say, iOS.\n\nThe Galaxy S25 isn’t just a good, small-ish phone by default. It’s reliable, durable, and comes with the promise of seven years of OS updates. It’s not my pick for the overall best Android phone because Samsung software can be a bit much, but if you’re comfortable in the Samsung ecosystem and you just want a phone that fits in your dang pocket, then this is the one to go with.\n\nRead our full Galaxy S25 review.\n\nThe best lightweight big phone\nSamsung Galaxy S25 Edge\n\nScore: 8ProsConsLike a regular phone, but slimSurprisingly lightweightBattery life isn’t as bad as I fearedNo telephoto cameraBattery life not as strong as a standard phone\nWhere to Buy: $1099.99 $799.99 at Best Buy (256GB) $1099.99 at Samsung (256GB) $1099.99 $799.99 at Amazon (256GB)\nScreen: 6.7-inch 1440p 120Hz LTPO OLED / Processor: Qualcomm Snapdragon 8 Elite / Cameras: 200-megapixel f/1.7 main camera with OIS, 12-megapixel f/2.2 ultrawide, 12-megapixel f/2.2 selfie / Battery: 3,900mAh / Charging: 25W wired, 15W wireless (Qi2 Ready)&nbsp;/ Weather-resistance rating: IP68\n\nBig phones have a tendency to, well, look and feel big. The Samsung Galaxy S25 Edge, on the other hand, is different. Thanks to its slim, lightweight design, the device provides a welcome reprieve from the countless chunky, heavy alternatives. It’s thinner and lighter than the Galaxy S25 Plus, making it the big phone you can actually slide into your pocket or evening bag without it protruding out.\n\nSo, what’s the catch? The S25 Edge’s battery life is fine. Not great, not terrible, but somewhere straight down the middle. To be fair, it held up admirably during a particularly strenuous workday, one complete with hours of screen time, mobile hotspotting, and live blogging, making it to bedtime with battery to spare. It also lacks a dedicated telephoto lens, though it does feature the same 200-megapixel main camera found in the S25 Ultra.\n\nEven with those compromises, the S25 Edge is a very capable phone that offers similar performance and durability to other devices in the S25 lineup. You’ll just have to be a little more aware of battery life as the day goes on; however, unless you’re frequently streaming video or playing graphics-intensive games throughout the day, the noticeably thinner, lighter design offers a nice change of pace.\n\nRead our full Galaxy S25 Edge review. \n\nThe best phone if you hate waiting for your phone to charge\nOnePlus 15\nThe OnePlus 15 offers some of the best battery performance you&#8217;ll find from any flagship phone stateside. There&#8217;s a top-shelf processor too, a combination that more than makes up for a lackluster software experience. \n\nScore: 8ProsConsEasily a two-day battery for almost any kind of userBig, sharp screenOxygenOS is looking a little cluttered these daysSilicon-carbon battery may limit device longevityProprietary super-fast wireless charging feels increasingly irrelevant\nWhere to Buy: $899.99 at OnePlus $899.99 at Amazon\nScreen:&nbsp;6.78-inch 1272p 165Hz LTPO OLED /&nbsp;Processor:&nbsp;Snapdragon 8 Elite Gen 5 /&nbsp;Cameras:&nbsp;50-megapixel f/1.8 main with OIS, 50-megapixel f/2.8 3.5x telephoto with OIS, 50-megapixel f/2.0 ultrawide, 32-megapixel selfie /&nbsp;Battery:&nbsp;7,300mAh /&nbsp;Charging:&nbsp;80W wired, 50W wireless /&nbsp;Weather-resistance rating:&nbsp;IP68 and IP69K\n\nThe OnePlus 15 takes the “never worry about charging” ethos of its predecessor and cranks it up a notch. Its massive 7,300mAh silicon-carbon battery comfortably delivers two days of real-world use — and that’s with every power-draining feature enabled, including the always-on display. You don’t have to baby it to get the best possible battery life, either. If you do need a quick top-off, the included 80W wired charger and patented USB-C cable can provide you with a full day of battery life in just 20-ish minutes of charging. It’s not available in the US yet, but it is available for preorder, with shipments expected to begin in January 2026.\n\nAs for other specs, the 15 features a sharp 1.5K, 165Hz display and Qualcomm’s Snapdragon Elite Gen 5 chip, meaning there’s more to the handset than just battery life. That said, there are some tradeoffs given the newer technology. The chemistry of silicon-carbon batteries may degrade faster than that of lithium-ion batteries, though OnePlus claims the battery will retain over 80 percent of its overall health for the first four years. The 15 also lacks built-in Qi2 magnets, unlike the Pixel 10, so you may have to fiddle with the alignment on your wireless charger to get it just right. If absurd battery headroom is what you’re after, though, the 15 offers it in spades.\n\nRead our full OnePlus 15 review.\n\nThe best foldable phone\nGoogle Pixel Pro 10 Fold\n\nScore: 8ProsConsFull dust resistance! On a foldable!Qi2 support with built-in magnetsHeavy and chunkyCameras aren’t as good as the other 10 Pro phones’Pricier than a regular phone\nWhere to Buy: $1799 $1499 at Amazon (256GB) $1799 $1499 at Best Buy (256GB) $1799 $1499 at Google (256GB)\nScreen:&nbsp;8-inch, 2076p, 120Hz OLED inner screen; 6.4-inch, 1080p, 120Hz OLED cover screen /&nbsp;Processor:&nbsp;Google Tensor G5 /&nbsp;Cameras:&nbsp;48-megapixel f/1.7 main with OIS; 10.8-megapixel 5x telephoto with OIS; 10.5-megapixel ultrawide; 10-megapixel selfie (cover screen); 10-megapixel inner selfie camera /&nbsp;Battery:&nbsp;5,015mAh /&nbsp;Charging:&nbsp;30W wired, 15W wireless (Qi2) /&nbsp;Weather-resistance rating:&nbsp;IP68\n\nThe Pixel 10 Pro Fold’s brings better durability to a category that’s historically fragile. With an IP68 rating, the it’s the first foldable to offer full dust and water resistance. In real-world use, that means the device can take a tumble at the beach and remain relatively unscathed. Plus, you get the convenience of Qi2 support with built-in magnets for snap-on charging and accessories, including Google’s excellent magnetic ring stand. Performance is smooth, too, and the slightly wider outer display feels more like a standard slab-style phone.\n\nBattery life is also solid for a folding phone, lasting a full day with minimal use of the inner screen; however, spending more time multitasking on the larger display means the battery may be in the red by bedtime. While the 10 Pro Fold’s cameras are good, they lag behind Google’s other 10 Pro models. The foldable is also over 40g heavier than Samsung’s lightweight Galaxy Z Fold 7. If you’ve been avoiding foldables because of durability concerns, the 10 Pro Fold’s improved hinge design means exposure to dust and grains of sand doesn’t equal certain doom.\n\nRead our full Pixel 10 Pro Fold review.\n\n\n\nOther Android phones worth considering\n\nThere are many more great Android devices that weren’t covered here, and a few are worth calling out that didn’t quite make the cut for a recommendation.\n\n\nThe Nothing Phone 3 is billed by the brand as its “first true flagship phone,” with a $799 starting price that competes directly with the iPhone 17, Galaxy S25, and Pixel 10. It boasts a 6.67-inch OLED display, a generous 5,150mAh capacity battery, and a Snapdragon 8S Gen 4 chipset, which is on the lower end of the flagship spectrum. It also looks different from previous Nothing devices. Instead of the iconic light strips on the back that glow and flash, the Nothing 3 features a small dot-matrix LED display that can show pictures and icons. Read our review.\n\n\n\nThe Galaxy Z Flip 7 is Samsung’s other new foldable device. Unlike previous Flip series devices, the company’s latest flip phone ditches the file folder-shaped look for a 4.1-inch, edge-to-edge display that wraps around the cameras. The larger screen is a joy to use, making it much easier to quickly respond to texts and manage full apps. While the design is a big upgrade, the device still offers no protection against fine particles like dust or sand, raising concerns about how the device will hold up over time. Read our review.\n\n\n\nThe Pixel 10 Pro is Google’s most refined flagship yet, and a great showcase for the Android ecosystem. It features a premium design and big hardware upgrades over its predecessor, like a Tensor G5 chip and Qi2 wireless charging with built-in magnets. It also offers genuinely useful AI features, and the camera’s portrait mode is much improved over its predecessor. However, while the 10 Pro’s battery capacity is a bit larger this time around (4,870mAh versus 4,700mAh), the battery life is just okay. We’re also feeling uneasy about generative AI being inside the camera app. Read our review.\n\n\n\nThe Galaxy Z Fold 7 is a thin, lightweight foldable that feels like a regular phone when folded shut. It has a spacious inner display that’s great for multitasking and gaming, and its battery can last all day with moderate use. That said, the device has a starting price of $2,000 — $200 more than the Pixel 10 Pro Fold — though we’ve seen it drop as low as $1,599. It also has an IP48 rating, meaning it’s fully water-resistant but not completely immune to tiny specks of dust. Read our review.\n\n\nWhat’s coming next\n\n\nSamsung&nbsp;recently announced&nbsp;the Z TriFold after teasing it earlier this summer. As of now, the device has a tentative launch planned for the first quarter of 2026 here in the US. The foldable features not one, but two hinges, which open to reveal an inner screen that measures 10 inches diagonally, with a resolution of 2160 x 1584 and a 120Hz adaptive refresh rate that can drop all the way to 1GHz. The 1080p outer display, meanwhile, measures 6.5 inches and features a 21:9 aspect ratio, while the device itself is 12.9mm thick when folded shut. It also has a ceramic-glass, fiber-reinforced polymer back panel that’s designed to resist cracking, along with an IP48 rating, meaning it’s fully water-resistant but not dust-tight.\n\n\n\nIn addition to the OnePlus 15, the brand is gearing up to&nbsp;reveal more info&nbsp;regarding the OnePlus 15R on December 17th. Details are scarce, but we know the device will&nbsp;feature a massive 7,400mAh battery. We’re also expecting it to offer a pared-down experience compared to the 15, including a less powerful processor. Depending on how much it costs — the OnePlus 13R launched at $599.99 — the 15R could give the Pixel 9A some serious competition, especially for those who value battery life above all else.\n\n\n\nWhile an official launch is likely still months away, we’re already&nbsp;starting to hear murmurs&nbsp;about Google’s Pixel 10A.&nbsp;The device is expected to look similar to the Pixel 9A, according to leaked CAD renders, and carry over some features from the Pixel 10. That means we could see the entry-level 10A launch with Google’s powerful Tensor G5 processor, offering the same great performance as the brand’s best device.\n\n\nUpdate, December 16th: Updated pricing / availability, added the OnePlus 15 and Pixel 9A as new picks, and added bullets to the “What’s coming next” section. Brandon Russell also contributed to this post.",
+      "content_length": 21153,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "M23 militia says to pull out of key DR Congo city at US's request",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251216-m23-militia-says-to-pull-out-of-key-dr-congo-city-at-us-s-request",
+      "published": "2025-12-16T22:09:05",
+      "content": "In tonight's edition, Rwandan-backed M23 rebels say they've agreed to conditionally withdraw from the strategic Congolese town of Uvira. Also, the Uvira offensive in eastern DRC triggered tens of thousands of people to flee into neighbouring Burundi. And a new report by the World Meteorological Organization found temperatures in North Africa were their hottest on record in 2024.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU rolls back 2035 internal combustion engine ban",
+      "link": "https://www.france24.com/en/tv-shows/business/20251216-eu-rolls-back-2035-internal-combustion-engine-ban",
+      "published": "2025-12-16T22:08:29",
+      "content": "The European Union has proposed changes to a 2023 law that effectively banned the sale of new internal combustion engine cars from 2035.  Instead of cutting CO2 emissions by 100% from 2021 levels, carmakers would be required to reduce them by 90%, meaning a small-scale production of petrol or hybrid cars could continue. The auto industry and some member states have been lobbying hard to get the rules relaxed in the face of slow market growth for EVs.",
+      "content_length": 454,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best e-reader to buy right now",
+      "link": "https://www.theverge.com/23769068/best-ebook-readers",
+      "published": "2025-12-16T22:07:50",
+      "content": "\n\n\n\t\n\t\t\n\nAny ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. Some really are pocketable. Others are waterproof or offer physical page-turning buttons, while a few even let you take notes.\n\nI’ve been using ebook readers for nearly a decade, and I’ve gone hands-on with dozens, from the Kindle Paperwhite to lesser-known rivals like the PocketBook Era. Whether you want something your kid can throw against the wall or a waterproof, warm-glow Kindle that won’t ruin your spa ambiance, these are the best ebook readers for everyone.&nbsp;\n\n\n\n\n\n\n\n\nThe best KindleThe best non-Amazon ebook readerThe best cheap ebook readerThe best ebook reader for taking notesOther ebook readers we testedWhat’s coming next\n\n\n\n\nThe best Kindle\nKindle Paperwhite (2024)\n\nScore: 8ProsConsThe best-looking screen on any e-readerSlightly larger screen without a noticeably larger deviceFaster page turns, loading, and a more responsive UIA splash of color (without a color screen)Upgrades aren’t as significant as the last PaperwhiteLacks stylus support and page turn buttonsSignature Edition wireless charging is frustrating without magnetsSignature Edition back panel feels less grippy\nWhere to Buy: $159.99 $134.99 at Amazon (ad-supported) $159.99 $134.99 at Best Buy (ad-supported) $159.99 $134.99 at Target (ad-supported)\nDimensions: 7 x 5 x .3 inches / Weight: 211 grams / Screen area and resolution: 7-inch screen, 300ppi resolution / Storage: 16GB / Other features: IPX8 waterproofing, Bluetooth audio support&nbsp;\n\nIf you mostly buy ebooks from Amazon, you’ll want a Kindle, and the 12th-gen Kindle Paperwhite is the best choice for most people. Starting at $159.99, it’s cheaper than the Kobo Libra Colour — my top non-Amazon ebook reader, which I’ll dive into later — while offering many of the same features. Those include a spacious 7-inch 300pi display with rich contrast levels and an adjustable warm white frontlight, which make for a clear and enjoyable reading experience. The latter also conveniently improves sleep by cutting down on blue light that interrupts melatonin production.&nbsp;\n\nThat warm white frontlighting is an advantage over the cool white of the $109.99 base-model Kindle, and unlike the base Kindle, the Paperwhite has IPX8 water resistance. The $199.99&nbsp;Signature Edition Paperwhite also has an auto-adjusting frontlight and no lockscreen ads. It has wireless charging, which is a rare feature to find in an e-reader.\n\nAmazon dominates the US ebook market, so Kindle owners have access to advantages owners of other ebook readers don’t. Much of Amazon’s hardware strategy depends on offering cut-rate discounts to pull you into its content ecosystem. If you have Prime and buy a lot of Kindle ebooks, the Paperwhite is the best choice because its ebooks and audiobooks are often on sale at Amazon, and Prime members get more free content through Prime Reading. Rivals like Kobo offer sales, too, but it’s hard for them to offer discounts as steep as Amazon.\n\nThere are downsides, though. The Paperwhite has lockscreen ads unless you pay $20 extra to get rid of them. It’s also too big to hold comfortably with one hand. Perhaps the Kindle Paperwhite’s biggest flaw, though — which it shares with all Kindles aside from Fire tablets — is that it’s not easy to read books purchased outside of Amazon’s store. Kindle ebook formats are proprietary and only work on Kindle.&nbsp;Unlike Kobo and other ebook readers, Kindles don’t support EPUB files, an open file format used by pretty much everyone except Amazon. So, for example, if you often shop from Kobo’s bookstore (or Barnes &amp; Noble or Google Play Books or many other ebook stores), you can’t easily read those books on a Kindle without using a workaround. There are ways to convert and transfer file formats so you can read on the Kindle and vice versa, but it’ll take a couple of extra steps.\n\nHowever, if you don’t buy your books elsewhere or you don’t mind shopping from Amazon, you’ll be more than happy with the Kindle Paperwhite.\n\nRead our Kindle Paperwhite review.\n\nThe best non-Amazon ebook reader\nKobo Libra Colour (32GB, ad-free)\n\nProsConsNice color screen with sharp, 300ppi black-and-white resolutionPhysical page-turning buttonsBuilt-in stylus supportCompatible with Overdrive Getting books from other stores onto the device can be toughMore expensive than the Kindle PaperwhiteLacks the vibrancy of other color e-readersNo wireless charging\nWhere to Buy: $229.99 $199.99 at Amazon $229.99 $199.99 at Rakuten Kobo $229.99 $199.98 at Target\nDimensions: 5.69 x 6.34 x 0.33 inches / Weight: 199.5 grams / Screen area and resolution: 7-inch screen, 300ppi  (black-and-white), 150ppi (color) / Storage: 32GB / Other features: Physical page-turning buttons, waterproofing, Kobo Stylus 2 support, Bluetooth audio support&nbsp;\n\nThe Kobo Libra Colour is an excellent alternative to Amazon’s ebook readers, especially for readers outside the US or anyone who doesn’t want to tap into Amazon’s ecosystem. Kobo’s latest slate offers many of the standout features found on the 12th-gen Kindle Paperwhite — including waterproofing, USB-C support, and a 300ppi display — along with a few perks that make it more helpful and enjoyable to use.\n\nThe color display is the most obvious. The Libra Colour uses E Ink’s latest Kaledio color screen technology, which provides soothing, pastel-like hues that still pop in direct sunlight. It’s not as sharp as reading in monochrome — the resolution drops to 150ppi when viewing content in color — but it’s a nice touch that makes viewing a wider range of content more pleasant. Book covers and comics, while still muted, have an added layer of depth, even if the colors are nowhere near as vivid as that of a traditional LED tablet or as vibrant as the Kindle Colorsoft Signature Edition.\n\nHowever, unlike the Kindle Colorsoft Signature Edition, the Libra Colour works with a digital pen — the Kobo Stylus 2 (sold separately) — which lets you highlight text in various colors or take notes using Kobo’s integrated notebooks. You can also take advantage of some of the more advanced capabilities found in the Kobo Elipsa 2E, allowing you to solve math equations, convert handwriting into typed text, and insert diagrams. This lets the Libra Colour function as a mini notebook of sorts, though I wouldn’t use it as a primary note-taking device since the seven-inch display can feel cramped to write on.\n\nThe color display is only part of the appeal, though. The Libra Colour doesn’t have the lockscreen ads on the base Paperwhite — and packs physical page-turning buttons, which feel more intuitive to use than tapping either side of the display as you have to do on Amazon’s modern e-readers. The speedy e-reader also supports more file formats, including EPUB files, and makes it much easier to borrow books from the Overdrive library system. Until recently, Kobo offered support for the bookmarking app Pocket, which was another big selling point as it let you read saved articles offline. While the app is no longer available, Kobo recently replaced Pocket with Instapaper, which you can download in a free update.\n\nHowever, at $229.99, the Libra Colour costs $70 more than the entry-level Paperwhite — and that’s without Kobo’s $69.99 stylus, which is required for performing certain tasks. That gap widens further when the Paperwhite is on sale, which happens more often than the Libra Colour. The Kobo can’t easily tap into Amazon’s vast library of ebooks, which can be frustrating if you’ve amassed a collection of Kindle titles over the years. It can be done, but you have to convert file formats using third-party apps, which is tricky and can take time.\n\nBut if those things don’t matter or apply to you, the Kobo Libra Colour will give you the best digital reading experience of all the e-readers on our list. It’s my personal favorite.\n\nRead our Kobo Libra Colour review.\n\nThe best cheap ebook reader\nKindle (2024)\n\nProsConsExcellent, high-resolution displayEasy to hold with one handFaster than its predecessor with improved battery lifeFun color optionsNo waterproofingLacks adjustable color temperatureSlightly more expensive than its predecessor\nWhere to Buy: $109.99 $89.99 at Amazon (with ads) $109.99 $89.99 at Best Buy (with ads) $129.99 $89.99 at Amazon (without ads)\nDimensions: 6.2 x 4.3 x 0.32 inches / Weight: 158 grams / Screen area and resolution: 6-inch screen, 300ppi resolution / Storage: 16GB / Other features: USB-C support, Bluetooth audio support&nbsp;\n\nThe base-model Kindle ($109.99 with ads) is the best cheap ebook reader. Its 300ppi resolution makes text clearer and easier to read than the lower-resolution screens on other ebook readers in its price range. Plus, it has USB-C for relatively fast charging.&nbsp;\n\nReading on its six-inch screen feels a little more cramped than it does on the larger displays of the Kindle Paperwhite and Kobo Libra Colour. However, the flip side is that its small size makes it pocketable, light, and easy for small hands to hold. Combined with its relatively affordable price, the Kindle is also the best ebook reader for kids&nbsp;— especially the Amazon Kindle Kids Edition which costs $20 more. The kid-friendly version shares the same specs but is ad-free with parental controls, a two-year extended replacement guarantee, and a case. It also comes with six months of Amazon Kids Plus, which grants kids access to thousands of children’s books and audiobooks for free. After that, though, you’ll have to $79 per year (or $48 with Amazon Prime).\n\nThe base Kindle doesn’t have extra conveniences like the waterproofing you’ll find in the entry-level Kobo Clara BW and Paperwhite. You also don’t get the physical page-turning buttons found on Barnes &amp; Noble’s entry-level e-reader, the Nook GlowLight 4e (though the Kindle is a lot snappier than the Nook). And because it’s an Amazon ebook reader, you’re also locked into the Amazon ecosystem and have to pay extra to remove ads. But if you can do without that, the Kindle delivers the essentials for under $110.\n\nThe best ebook reader for taking notes\nKobo Elipsa 2E\n\nProsConsIntuitive note-taking featuresGreat e-readerAdjustable warm lightUseful note-taking capabilities, including handwriting-to-text conversionLacks native support for Kindle books227ppi display isn’t as sharp as the competitionNo note-summarization features\nWhere to Buy: $399.99 $349.99 at Walmart $399.99 $349.99 at Target $399.99 $349.99 at Amazon\nDimensions: 7.6 x 8.94 x 0.30 inches / Weight: 390 grams / Screen area and resolution: 10.3-inches, 227ppi resolution / Storage: 32GB / Other features: Handwriting to text conversion, magnetic stylus, Bluetooth audio support&nbsp;\n\nOf all the large ebook readers I tested, the Kobo Elipsa 2E stood out the most because it’s a good e-reader with solid note-taking abilities. You can write directly on pages just as on a physical book. The Kindle Scribe lets you annotate book pages as well, but it’s complicated involving resizable text boxes that mess up the page formatting and prevent you from doing basic things like circling words. In contrast, taking notes on the Elipsa 2E feels far more intuitive and natural.\n\nThe Elipsa 2E offers other helpful note-taking tools and capabilities. Like the Kobo Libra Colour, it’s capable, for example, of solving math equations for you. You can also insert diagrams and drawings, and it’ll automatically snap them into something that looks cleaner and nicer. You can also sync your notes with Dropbox or view them online and convert handwriting to typed text. The Kindle Scribe offers the latter capability, too, but again, Kobo does it faster and better within the original notebook document as opposed to on a separate page. The only thing missing from the Elipsa 2E is the Scribe’s note-summarization feature, but that’s a trade-off I am okay with given how much easier it is to take notes.\n\nFinally, the Kobo Elipsa 2E comes with twice the storage (32GB) for the same price as the base Kindle Scribe. You can step up to the 32GB Kindle Scribe for $20 more or upgrade to 64GB for $40 extra. Yet given the Scribe’s limitations, I still recommend saving the money and buying the Kobo Elipsa 2E instead.\n\nNote-taking capabilities aside, the Kobo Elipsa 2E is also a good e-reader with the same strengths and weaknesses as other Kobo devices. There’s support for a wide range of file formats, but you can’t easily read Kindle books without converting them first. Its 227ppi display is also slightly less sharp than the 300ppi screen found on the Kindle Scribe and the Kobo Libra Colour. However, the 10.3-inch screen balances things out a bit and makes text easier to read, so it’s not a noticeable drawback. Plus, the Elipsa 2E comes with an adjustable warm light for nighttime reading.  That’s a feature rival e-readers with more advanced note-taking capabilities — including the $409.99&nbsp;Onyx Boox Go 10.3, which lets you insert links to notes — lacks.\n\nOther ebook readers we tested\n\nThere are some other ebook readers my colleagues and I have tested that I didn’t feature above, but are still worth highlighting. Here are the most notable:\n\nKindle Colorsoft Signature Edition\n\nThe Kindle Colorsoft Signature Edition is the first&nbsp;Kindle&nbsp;to feature E Ink’s color screen technology and it stands out from other color e-paper devices with customizations. It offers improved contrast, more vibrant colors, and faster screen refreshes. With a $279.99 price tag, it’s the most expensive&nbsp;Kindle&nbsp;model currently available that doesn’t support a stylus for note-taking, and it includes premium features like wireless charging that are convenient but not really necessary for a device with months of battery life. If you want a color screen and want to stick with Amazon, the Colorsoft Signature is your best option. &#8211; Andrew Liszewski, Senior Reporter&nbsp;\n\nKindle Colorsoft\n\nAmazon recently  introduced a more affordable alternative to the $279.99 Kindle Colorsoft Signature Edition above called the Kindle Colorsoft. It’s $30 cheaper and delivers a nearly identical reading experience. As expected, Amazon excluded some features to hit the lower price point. Let’s run through them. There’s no wireless charging, which I can live without. Storage is halved to 16GB, which is enough for me as I primarily read ebooks. But if you’re buying a color e-reader, chances are high that you’ll want excess storage space for graphic novels, and 16GB may not cut it. \n\nThe biggest drawback for me, as a bedtime bookworm, is the lack of an auto-adjusting front light that can make nighttime reading much easier (however, its brightness and color temperature can be manually adjusted). At this price, I expect it, especially since Kobo’s $159.99 Clara Color includes one. And, given that the Colorsoft Signature Edition costs just $30 more, complete with a front light that adjusts when the room gets dim, 32GB of storage, and wireless charging, I’d opt for that instead if you’re in Amazon’s ecosystem. Unless the standard Colorsoft goes on sale for less, it’s not a great value at its regular price.\n\nKobo Clara Colour\n\nIf you’re looking for a non-Amazon alternative that’s more affordable than the Kobo Libra Colour, the Kobo Clara Colour — the successor to the Kobo Clara 2E — is worth a look. At $159.99, the ad-free e-reader costs more than the Kobo Clara 2E, but I think it’s worth the extra $10. It continues to offer the same six-inch display and IPX8 waterproof design, but the e-reader now offers color. It’s also noticeably faster — something I was happy to see, considering the occasional lag on the Clara 2E sometimes got on my nerves. You don’t get the Clara Colour’s physical buttons or stylus support, but that’s a fair tradeoff at this price point. The company recently announced a white version with a slightly larger 1,900mAh battery compared to the black model’s 1,500mAh (notably, without a price increase), which Kobo says can last over a month on a single charge.\n\nNook Glowlight 4 Plus\n\nIn 2023, Barnes and Noble released the Nook Glowlight 4 Plus. If you own a lot of digital books from Barnes and Noble, this could be a good Kindle alternative. Otherwise, I’d still recommend the Kobo Libra Colour to everybody else. The $199.99 Nook Glowlight 4 Plus is a good e-reader with a lot to offer, including a lovely 300ppi screen, waterproofing, physical page-turning buttons, and even a headphone jack. However, it’s just not as snappy, which makes setting it up, buying books from the device itself, and navigating the interface a slow ordeal. It didn’t help that the screen sometimes froze, too, which meant I had to restart the device while in the middle of a book.\n\nBoox&nbsp;Palma 2\n\nDespite all the advantages of E Ink display technology, your smartphone is probably still a more convenient device for reading given how pocket-friendly it is. The&nbsp;Boox&nbsp;Palma 2 is a smartphone-sized E Ink device that’s just as easy to slip into a pocket, but with more capabilities than an&nbsp;e-reader. Its 6.3-inch E Ink display is great for reading books, but the $315.98 Palma 2 also runs Android 13 so you can install productivity apps like email and messaging — assuming you’ve got access to Wi-Fi, of course, because the compact&nbsp;e-reader&nbsp;lacks cellular connectivity. If you already have the original Palma, the sequel isn’t worth the upgrade. But if you’re looking for a smaller alternative to Kindles and Kobos, the Palma 2 could be worth the splurge. &#8211; Andrew Liszewski, Senior Reporter&nbsp;\n\nBoox Go 10.3\n\nThe $409.99 Onyx Boox Go 10.3 is another ad-free ebook reader you can use to take notes. It’s excellent as a note-taking device, and it offers an impressively wide range of writing tools and more prebuilt notebook templates than Kobo’s Elipsa 2E. Jotting down notes using the built-in notebook felt more akin to writing on paper as well, and its slim design makes the device feel more like a traditional notebook. Like all Boox devices, it also provides quick access to the Google Play Store, so you can download multiple reading apps — including both Kindle and Kobo apps. The slate’s crisp 300ppi display is sharper than that of the Kobo Elipsa 2E, too, which is a plus.\n\nHowever, in comparison to the easy-to-use Elipsa 2E, the Go 10.3 lacks a front light and comes with a steeper learning curve. Notes you take on a Kindle or Kobo device won’t transfer over (and vice versa), and you can’t annotate books in either app using the Boox. I also felt like access to Google Play can be a double-edged sword as it grants easy access to distracting apps, including games, streaming services, and TikTok. It’s too slow to use the latter, but it’s fast and comfortable enough that I found myself playing around with the Word Search app far too often. For me personally, I need my e-reader to be devoid of such distractions — it’s one of the biggest things that distinguishes it from a tablet, after all. But if you’ve got more self-control than I do, the Go 10.3 could be worth a look.\n\nBoox Go Color 7 Gen II\n\nIn April, Boox introduced the Go Color 7 Gen II, which retails for $249.99. This water-resistant e-reader offers a 300ppi display that drops to 150ppi when displaying color content, much like its Kobo and Kindle rivals. However, similar to the Kobo Libra Colour, this ad-free model offers physical-page turning buttons and supports note-taking. A stylus isn’t included, so you’ll need to spend an extra $45.99 for Boox’s pressure-sensitive InkSense pen if you want to take notes. And, like other Boox devices, it runs on Android, giving you access to a wide range of apps and online bookstores through the Google Play Store.\n\nWhile I appreciated not having to sideload my Kindle and Kobo library, along with greater flexibility to fine-tune color settings, I ultimately prefer the Kobo Libra Colour. In my testing, the Go Color 7 Gen II felt frustratingly sluggish by comparison to the Libra Colour, which is disappointing given the Boox costs $50 more. Responsiveness is a core part of the reading experience for me, so I’d only recommend Boox’s model to readers who value having Android app flexibility over performance.\n\nKindle Scribe Colorsoft\n\nThe $629.99 Kindle Scribe Colorsoft is Amazon’s first color e-reader that’s also designed for note-taking. I’ve yet to test it, but in Victoria Song’s review, she praised its thin, lightweight design, long battery life, and minimal ghosting effect. However, she thought the 11-inch display feels too large for reading or note-taking, and that the muted E Ink colors limit the appeal for artists who want to draw things beyond basic doodles. It’s also a shame that many of its best annotation features — including in-line writing and the AI-powered summarization and search tools — don’t extend to other document types, such as PDFs.\n\nWhat’s coming next\n\n\nAmazon recently announced new versions of its Kindle Scribe that’s great for taking notes on. The $499.99 monochrome model with a front light is out now, but the cheaper entry-level version without a front light that will sell for $429.99 isn’t available yet. Both offer a thinner design and a larger 11-inch display, along with a new AI-powered search tool that makes it easy to quickly summarize documents. Amazon has also updated the homescreen with a Quick Notes section and redesigned the stylus, making it bigger and rounder, which should lend itself to a more intuitive writing experience. Read our hands-on impressions.\n\n\nUpdate, December 16th: Adjusted pricing / availability, added new details regarding the Kindle Scribe Colorsoft, and removed the Boox Palma 2 Pro. Andrew Liszewski also contributed to this post.",
+      "content_length": 21960,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump slaps full travel ban on seven more countries, including Syria",
+      "link": "https://www.france24.com/en/americas/20251216-trump-slaps-full-travel-ban-on-seven-more-countries-including-syria",
+      "published": "2025-12-16T21:58:27",
+      "content": "US President Donald Trump on Tuesday added Burkina Faso, Laos, Mali, Niger, Sierra Leone, South Sudan, and Syria as well as Palestinian Authority passport holders to a full travel ban. The decision to include Syria, a country Trump has moved to rehabilitate internationally, came days after three US nationals were killed in an attack in the central town of Palmyra.",
+      "content_length": 366,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Texas sues biggest TV makers, alleging smart TVs spy on users without consent",
+      "link": "https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/",
+      "published": "2025-12-16T21:57:55",
+      "content": "Texas Attorney General Ken Paxton sued five large TV manufacturers yesterday, alleging that their smart TVs spy on viewers without consent. Paxton sued Samsung, the longtime TV market share leader, along with LG, Sony, Hisense, and TCL.\n“These companies have been unlawfully collecting personal data through Automated Content Recognition (‘ACR’) technology,” Paxton’s office alleged in a press release that contains links to all five lawsuits. “ACR in its simplest terms is an uninvited, invisible digital invader. This software can capture screenshots of a user’s television display every 500 milliseconds, monitor viewing activity in real time, and transmit that information back to the company without the user’s knowledge or consent. The companies then sell that consumer information to target ads across platforms for a profit. This technology puts users’ privacy and sensitive information, such as passwords, bank information, and other personal information at risk.”\nThe lawsuits allege violations of the Texas Deceptive Trade Practices Act, seeking damages of up to $10,000 for each violation and up to $250,000 for each violation affecting people 65 years or older. Texas also wants restraining orders prohibiting the collection, sharing, and selling of ACR data while the lawsuits are pending.Read full article\nComments",
+      "content_length": 1329,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Lumpy skin disease: Storm-1516 spreads disinformation about French farmers’ protests",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251216-lumpy-skin-disease-storm-1516-spreads-disinformation-about-french-farmers-protests",
+      "published": "2025-12-16T21:53:55",
+      "content": "As France battles an outbreak of lumpy skin disease among livestock, some farmers are protesting government measures such as the culling of entire herds. Online, videos claiming to support them have gone viral… but some are AI-generated. In this edition of Truth or Fake, we take a closer look at how a Russian-linked influence network, known as Storm-1516, is amplifying misleading narratives around real-life protests.",
+      "content_length": 420,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A vague study on Nazi bots created chaos in the Taylor Swift fan universe",
+      "link": "https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots",
+      "published": "2025-12-16T21:30:14",
+      "content": "\n\n\n\t\n\t\t\n\nOn December 9th, Rolling Stone published a story that some saw as a bombshell: a network of coordinated, \"inauthentic\" social media accounts had a hand in the weekslong discourse that trailed the release of Taylor Swift's recent album, The Life of a Showgirl.\nIt was a big deal for those in the Swiftie/anti-Swiftie universe. Immediately following the record's release in October, discussion of Showgirl was fan- and critic-driven - passionate but fairly calm. Listeners debated the meaning of songs, analyzed the flood of material for hidden meanings, and questioned whether the music was even good. Some fans took issue with specific lyrics, espe …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "The $4.3 billion space telescope Trump tried to cancel is now complete",
+      "link": "https://arstechnica.com/space/2025/12/the-4-3-billion-space-telescope-trump-tried-to-cancel-is-now-complete/",
+      "published": "2025-12-16T21:25:05",
+      "content": "A few weeks ago, technicians inside a cavernous clean room in Maryland made the final connection to complete assembly of NASA’s Nancy Grace Roman Space Telescope.\nParts of this new observatory, named for NASA’s first chief astronomer, recently completed a spate of tests to ensure it can survive the shaking and intense sound of a rocket launch. Engineers placed the core of the telescope inside a thermal vacuum chamber, where it withstood the airless conditions and extreme temperature swings it will see in space.\nThen, on November 25, teams at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, joined the inner and outer portions of the Roman Space Telescope. With this milestone, NASA declared the observatory complete and on track for launch as soon as fall 2026.Read full article\nComments",
+      "content_length": 804,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Sarkozy faces possible indictment over witness tampering in Libya funding case",
+      "link": "https://www.france24.com/en/france/20251216-sarkozy-faces-possible-indictment-over-witness-tampering-libya-funding-case",
+      "published": "2025-12-16T20:46:28",
+      "content": "Former French president Nicolas Sarkozy's legal woes looked set to continue as prosecutors on Tuesday said they would seek indictments against him, his wife Carla Bruni-Sarkozy and nine others for alleged witness tampering in the Libya campaign funding case.",
+      "content_length": 258,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Autorin Jane Austen - auch am 250. Geburtstag noch relevant",
+      "link": "https://www.tagesschau.de/kultur/jane-austen-geburtstag-100.html",
+      "published": "2025-12-16T20:45:20",
+      "content": "   Zu Lebzeiten erlangte die Schriftstellerin Jane Austen kaum Berühmtheit - heute wird sie als literarische Ikone gefeiert. Sie brach schon damals mit Normen - und träumte von einer freieren Zukunft für Frauen. Von F. Hoppen.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Santa Claus prepares for global gift-giving trip in Lapland",
+      "link": "https://www.france24.com/en/video/20251216-santa-claus-prepares-for-global-gift-giving-trip-in-lapland",
+      "published": "2025-12-16T20:30:05",
+      "content": "Santa Claus is preparing for his global gift-giving trip in snow-covered Lapland, on the edge of the Arctic Circle. Elves say this Christmas, children are asking for Lego, electronics and Labubus, while Santa is sharing a message of peace. FRANCE 24's Monte Francis reports.",
+      "content_length": 274,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Senators count the shady ways data centers pass energy costs on to Americans",
+      "link": "https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/",
+      "published": "2025-12-16T20:25:57",
+      "content": "Senators launched a probe Tuesday demanding that tech companies explain exactly how they plan to prevent data center projects from increasing electricity bills in communities where prices are already skyrocketing.\nIn letters to seven AI firms, Senators Elizabeth Warren (D-Mass.), Chris Van Hollen (D-Md.), and Richard Blumenthal (D-Conn.) cited a study estimating that “electricity prices have increased by as much as 267 percent in the past five years” in “areas located near significant data center activity.”\nPrices increase, senators noted, when utility companies build out extra infrastructure to meet data centers’ energy demands—which can amount to one customer suddenly consuming as much power as an entire city. They also increase when demand for local power outweighs supply. In some cases, residents are blindsided by higher bills, not even realizing a data center project was approved, because tech companies seem intent on dodging backlash and frequently do not allow terms of deals to be publicly disclosed.Read full article\nComments",
+      "content_length": 1048,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘Low-cost’ terror: Bondi Beach investigators examine IS group link, Philippines trip",
+      "link": "https://www.france24.com/en/asia-pacific/20251216-low-cost-terror-bondi-beach-investigators-examine-is-group-link-philippines-trip",
+      "published": "2025-12-16T20:19:25",
+      "content": "The father-and-son duo alleged to have carried out Sunday's Bondi Beach massacre had flags of the Islamic State (IS) group in their car and had recently travelled to a Philippines province with a history of Islamist militancy, according to Australian police. The two lines of inquiry, if linked, echo a broader shift towards \"low-cost\" terror attacks planned and financed by local perpetrators themselves, FRANCE 24's jihadism expert Wassim Nasr says.",
+      "content_length": 451,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pentagon won’t release full video of Caribbean strike that killed two people, Hegseth says",
+      "link": "https://www.theguardian.com/world/2025/dec/16/pentagon-wont-release-full-video-caribbean-attack",
+      "published": "2025-12-16T20:16:47",
+      "content": "Legal experts have raised concerns US forces may have committed a war crime by killing survivors of initial strikeThe Pentagon will not make public the full video of a September attack in the Caribbean that killed two individuals as they were clinging to the wreckage of a burning boat, Pete Hegseth said on Tuesday.The strike has been the most controversial development in Donald Trump’s campaign against Venezuela, which has seen US forces blow up vessels alleged to be transporting narcotics from the South American country to the United States, seize an oil tanker and threaten further military action against the president, Nicolás Maduro. Continue reading...",
+      "content_length": 664,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reparations for Ukraine: new European body set up",
+      "link": "https://www.france24.com/en/video/20251216-reparations-for-ukraine-new-european-body-set-up",
+      "published": "2025-12-16T19:53:36",
+      "content": "Top European officials including President Volodymyr Zelensky agreed Tuesday to set up an international body to decide on tens of billions of euros of eventual reparations to compensate Ukraine over Russia's invasion. The International Claims Commission for Ukraine, signed by 35 countries, will assess and decide on claims for reparations, including any amount to be paid out. FRANCE 24's Eliza Herbert reports.",
+      "content_length": 412,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Defence of Europe's eastern flank an 'immediate' priority: eight EU leaders",
+      "link": "https://www.france24.com/en/video/20251216-defence-of-europe-s-eastern-flank-an-immediate-priority-eight-eu-leaders",
+      "published": "2025-12-16T19:48:29",
+      "content": "Defending Europe's eastern flank should be an \"immediate\" priority for the European Union in the face of the threat posed by Russia, eight EU leaders meeting in Helsinki said Tuesday. \"Russia remains a threat today, tomorrow and in the foreseeable future for the whole of Europe,\" Finnish Prime Minister Petteri Orpo told reporters. FRANCE 24's International Affairs Commentator Douglas Herbert explains.",
+      "content_length": 404,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Australian police say Bondi Beach mass shooting was inspired by Islamic State group",
+      "link": "https://www.france24.com/en/video/20251216-australian-police-say-bondi-beach-mass-shooting-was-inspired-by-islamic-state-group",
+      "published": "2025-12-16T19:34:40",
+      "content": "In Australia mourners continue to gather at Bondi Beach to honor the victims of what authorities are calling an antisemitic terror attack. Meanwhile video is circulating of an elderly couple who tried to stop and disarm on of the gunmen, before being shot themselves. Boris and Sofia Gurman, both in their sixties, did not survive.",
+      "content_length": 331,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Kommission will Verbrenner-Aus zurücknehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-eu-106.html",
+      "published": "2025-12-16T19:29:02",
+      "content": "   Um die kriselnde Autoindustrie zu unterstützen, schlägt die EU-Kommission vor, die beschlossenen Abgasvorgaben aufzuweichen. Die Branche soll über andere Wege zur Einsparung von Kohlendioxid gebracht werden.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag soll milliardenschwere Rüstungsvorhaben beschließen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-ruestungsvorhaben-100.html",
+      "published": "2025-12-16T19:23:04",
+      "content": "   Kurz vor dem Jahresende will Verteidigungsminister Pistorius noch 30 Großprojekte durch den Haushaltsausschuss bekommen. Die Opposition kritisiert, dass sie ihrer Kontrollfunktion so nicht nachkommen kann. Von Mario Kubina.[mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Aufnahmeprogramme: 160 Menschen aus Afghanistan in Berlin gelandet",
+      "link": "https://www.tagesschau.de/inland/afghanistan-aufnahmeprogramm-104.html",
+      "published": "2025-12-16T19:12:08",
+      "content": "   Ein Charterflug hat Afghaninnen und Afghanen aus Aufnahmeprogrammen nach Berlin gebracht. Hunderte warteten hingegen in Pakistan vergeblich auf eine Ausreise nach Deutschland - sie erhielten jüngst eine Absage des Bundes.  [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The battle for Marseille: how to win back streets as drug trade soars?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251216-the-battle-for-marseille-how-to-win-back-streets-as-drug-trade-soars",
+      "published": "2025-12-16T19:11:32",
+      "content": "One month after the stunning assassination of the brother of an anti-gangland activist, French president Emmanuel Macron returning to the Mediterranean port for an update on the government’s xx-euro plan to win back the streets and offer hope to fed-up citizens of France’s second largest city. The whole reason Ahmed Kessaci became an activist was the earlier murder of his older brother… who got mixed up with the wrong crowd.",
+      "content_length": 428,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Serbian president threatens reprisals after plans for Belgrade Trump Tower thwarted",
+      "link": "https://www.theguardian.com/world/2025/dec/16/serbian-president-threatens-reprisals-belgrade-trump-tower",
+      "published": "2025-12-16T19:07:25",
+      "content": "Development abandoned after Serbian minister indicted over $500m project, in setback for Trump family empireSerbia’s authoritarian ruler has threatened reprisals after protesters and a prosecutor thwarted plans for a Trump Tower in Belgrade.In a rare setback for the Trump family’s global moneymaking campaign, the $500m development was abandoned after Monday’s indictment of a Serbian minister on suspicion of abusing his office to support the project. Continue reading...",
+      "content_length": 473,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Software leaks point to the first Apple Silicon “iMac Pro,” among other devices",
+      "link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
+      "published": "2025-12-16T18:52:43",
+      "content": "Apple doesn’t like to talk about its upcoming products before it’s ready, but sometimes the company’s software does the talking for it. So far this week we’ve had a couple of software-related leaks that have outed products Apple is currently testing—one a pre-release build of iOS 26, and the other some leaked files from a kernel debug kit (both via MacRumors).\nMost of the new devices referenced in these leaks are straightforward updates to products that already exist: a new Apple TV, a HomePod mini 2, new AirTags and AirPods, an M4 iPad Air, a 12th-generation iPad to replace the current A16 version, next-generation iPhones (including the 17e, 18, and the rumored foldable model), a new Studio Display model, some new smart home products we’ve already heard about elsewhere, and M5 updates for the MacBook Air, Mac mini, Mac Studio, and the other MacBook Pros. There’s also yet another reference to the lower-cost MacBook that Apple is apparently planning to replace the M1 MacBook Air it still sells via Walmart for $599.\nFor power users, though, the most interesting revelation might be that Apple is working on a higher-end Apple Silicon iMac powered by an M5 Max chip. The kernel debug kit references an iMac with the internal identifier J833c, based on a platform identified as H17C—and H17C is apparently based on the M5 Max, rather than a lower-end M5 chip. (For those who don’t have Apple’s branding memorized, “Max” is associated with Apple’s second-fastest chips; the M5 Max would be faster than the M5 or M5 Pro, but slower than the rumored M5 Ultra.)Read full article\nComments",
+      "content_length": 1595,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Sicherheitszusagen für Kiew: \"Einzige Möglichkeit, einen Nachfolgekrieg zu verhindern\"",
+      "link": "https://www.tagesschau.de/ausland/europa/europaeer-ukraine-garantien-100.html",
+      "published": "2025-12-16T18:51:30",
+      "content": "   Europäische Staaten haben der Ukraine Sicherheitszusagen gemacht. Der Militärexperte Gressel sagt: Zu westlichen Truppen in der Ukraine gebe es dabei keine Alternative. Das nun erarbeitete Papier richte sich aber vor allem an die USA. [mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU to regulate short-term rentals in plan to tackle affordable homes shortage",
+      "link": "https://www.theguardian.com/world/2025/dec/16/eu-to-regulate-short-term-rentals-in-plan-to-tackle-affordable-homes-shortage",
+      "published": "2025-12-16T18:46:15",
+      "content": "Soaring rents and housing costs in many European cities have priced out young people, key workers and families The European Commission has announced it will regulate short-term rentals and seek to curb speculation in the housing market, under the EU’s first-ever plan to tackle a shortage of affordable homes.Housing is largely a matter for local and national authorities, but the issue has climbed up the EU agenda, as soaring rents and housing costs have priced out young people, key workers and families from many European cities. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US designates Colombia’s biggest drug cartel Gulf Clan as terrorist organization",
+      "link": "https://www.theguardian.com/world/2025/dec/16/gulf-clan-colombia-us-terrorist-organization",
+      "published": "2025-12-16T18:35:54",
+      "content": "Marco Rubio calls drug-trafficking militia, present in at least 20 of Colombia’s departments, ‘violent and powerful’The US has designated the Gulf Clan, Colombia’s largest and most powerful illegal armed criminal group, as a foreign terrorist organisation.The notorious drug-trafficking militia with its roots in far-right paramilitary forces, is present in at least 20 of Colombia’s departments, and dominates people- and drug-smuggling routes through the Darién Gap. It has also battled unsuccessfully against leftwing rebels for control of criminal networks along the Venezuelan border. Continue reading...",
+      "content_length": 609,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "France's Dembélé named FIFA player of 2025, Spain's Bonmati scoops women's award",
+      "link": "https://www.france24.com/en/sport/20251216-france-demb%C3%A9l%C3%A9-named-fifa-player-of-2025-spain-bonmati-scoops-women-s-award",
+      "published": "2025-12-16T18:30:36",
+      "content": "France and Paris Saint-Germain attacker Ousmane Dembélé won the men's FIFA Best award at a ceremony in Qatar on Tuesday, while Barcelona midfield maestro Aitana Bonmati collected the women's prize for the third year in a row.",
+      "content_length": 225,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French lawmakers adopt social security budget, suspend pension reform",
+      "link": "https://www.france24.com/en/video/20251216-french-lawmakers-adopt-social-security-budget-suspend-pension-reform",
+      "published": "2025-12-16T18:16:19",
+      "content": "French lawmakers on Tuesday adopted a social security budget, which includes the suspension of an unpopular pension reform, as Prime Minister Sébastien Lecornu races to finalise a 2026 spending plan by year-end. FRANCE 24's Antonia Kerrigan reports from the French National Assembly.",
+      "content_length": 283,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Peace plans ready to be presented to Russia in days, says Zelenskyy",
+      "link": "https://www.theguardian.com/world/2025/dec/16/ukraine-russia-peace-plans-zelenskyy-berlin-talks-putin",
+      "published": "2025-12-16T18:13:53",
+      "content": "US says talks with Ukraine in Berlin have resolved 90% of difficult issues – but no sign Putin willing to compromiseVolodymyr Zelenskyy has said proposals negotiated with US officials on a peace deal to end Russia’s war in Ukraine could be soon finalised, after which American envoys will present them to the Kremlin.After two days of talks in Berlin, US officials said on Monday they had resolved “90%” of the problematic issues between Russia and Ukraine, but despite the positive spin it is not clear that an end to the war is any closer, particularly as the Russian side is absent from the current talks. Continue reading...",
+      "content_length": 628,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Relief and reward for passengers as Rome’s ‘museum stations’ finally open",
+      "link": "https://www.theguardian.com/world/2025/dec/16/passengers-rome-museum-stations-open-metro-archeological-treasures",
+      "published": "2025-12-16T18:02:21",
+      "content": "Archaeological treasures revealed during construction at two metro stops led to years of delaysMetro passengers in Rome can now peruse ancient history while in transit after the opening of two long-awaited stations showcasing a vast trove of treasures unearthed during their construction – including the remnants of a military barracks built during the reign of the emperor Trajan and 28 wells, along with the votives offered up in thanks.The Colosseo-Fori Imperiali, a sprawling station beside the Colosseum descending across four levels, and Porta Metronia, in the area of San Giovanni, form part of the driverless Metro C, an underground line that connects the suburbs of Rome to the centre. Continue reading...",
+      "content_length": 714,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Victims of Iran’s 2022 crackdown file criminal complaint against 40 officials",
+      "link": "https://www.theguardian.com/world/2025/dec/16/victims-iran-crackdown-criminal-complaint-officials",
+      "published": "2025-12-16T18:00:10",
+      "content": "Claim filed in Argentina alleges crimes against humanity were carried out on Women, Life, Freedom protestersA group of victims of the Iranian government crackdown during the Women, Life, Freedom protests in 2022 have filed the first criminal complaint against 40 named Iranian officials alleging crimes against humanity, including targeted blinding and murder.The request for a criminal investigation to be launched has been filed in Argentina by a group of Iranians with the help of the non-profit Iran Human Rights Documentation Center. The Argentinian legal system is especially open to accommodating universal jurisdiction claims. Continue reading...",
+      "content_length": 654,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "French lawmakers adopt 2026 social security budget, suspend Macron's flagship pension reform",
+      "link": "https://www.france24.com/en/live-news/20251216-french-lawmakers-adopt-social-security-budget-suspend-macron-s-flagship-pension-reform",
+      "published": "2025-12-16T17:33:51",
+      "content": "French lawmakers on Tuesday adopted the 2026 social security budget, which includes the suspension of President Emmanuel Macron's unpopular pension reform, as Prime Minister Sébastien Lecornu races to finalise a 2026 spending plan by year's end.",
+      "content_length": 245,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "BBC will sich gegen Trumps Klage wehren",
+      "link": "https://www.tagesschau.de/ausland/europa/bbc-trump-102.html",
+      "published": "2025-12-16T17:31:35",
+      "content": "   US-Präsident Trump hat eine Milliardenklage gegen die BBC eingereicht - Hintergrund ist der Streit über eine TV-Doku. Die BBC kündigte an, sich wehren zu wollen. Geht es Trump um einen Vergleich? Von Gabi Biesinger.[mehr]",
+      "content_length": 224,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mercosur-Abkommen: EU-Parlament stimmt für Schutzklauseln für Bauern",
+      "link": "https://www.tagesschau.de/wirtschaft/mercosur-eu-parlament-100.html",
+      "published": "2025-12-16T17:30:59",
+      "content": "   Kurz vor der geplanten Unterzeichnung des Handelsabkommens mit den Mercosur-Staaten hat das EU-Parlament für weitere Absicherungen der europäischen Landwirte gestimmt. Noch immer ist offen, ob die EU-Staaten zustimmen.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Reporter suggests Half-Life 3 will be a Steam Machine launch title",
+      "link": "https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/",
+      "published": "2025-12-16T17:28:32",
+      "content": "If you can take your mind way back to the beginning of 2025, you might remember a fresh wave of rumors suggesting that Half-Life 3 was finally reaching the final stages of production, and could be announced and/or released at any moment. Now, though, 2025 seems set to come to a close without any official news of a game fans have been waiting literal decades for.\nThat doesn’t necessarily mean a Half-Life 3 announcement and/or release isn’t imminent, though. On the contrary, veteran journalist Mike Straw insisted on a recent Insider Gaming podcast that “everybody I’ve talked to are still adamant [Half-Life 3] is a game that will be a launch title with the Steam Machine.”\nStraw—who has a long history of reporting gaming rumors from anonymous sources—said this Half-Life 3 information is “not [from] these run-of-the-mill sources that haven’t gotten me information before. … These aren’t like random, one-off people.” And those sources are “still adamant that the game is coming in the spring,” Straw added, noting that he was “specifically told [that] spring 2026 [is the window] for the Steam Machine, for the Frame, for the Controller, [and] for Half-Life 3.”Read full article\nComments",
+      "content_length": 1194,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU plans to water down ban on new petrol and diesel cars",
+      "link": "https://www.theguardian.com/business/2025/dec/16/eu-water-down-landmark-ban-new-petrol-diesel-cars",
+      "published": "2025-12-16T17:24:29",
+      "content": "Commission proposes cutting obligation for 100% zero emission vehicles beyond 2035 to 90% after pressure from industry and some EU statesThe EU has confirmed it wants to water down its 2035 ban on the sale of new petrol or diesel cars, yielding to heavy pressure from the car industry and leaders from several EU member states including Germany and Italy.Wopke Hoekstra, a European climate commissioner, described the proposals as a “win-win” situation for consumers and industry, keeping Europe on the electrification course with a series of carrot and stick measures. Continue reading...",
+      "content_length": 589,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "At least three authors withdraw from Hay festival in protest at Machado invite",
+      "link": "https://www.theguardian.com/world/2025/dec/16/hay-festival-maria-corina-machado",
+      "published": "2025-12-16T17:17:21",
+      "content": "Writers cited Machado’s support for Trump’s pressure campaign against Venezuela’s Nicolás MaduroAt least three writers have withdrawn from next month’s Hay festival in Cartagena, Colombia, in protest at an invitation extended to the Venezuelan opposition leader and Nobel laureate María Corina Machado.The main reason cited by them is Machado’s support for Donald Trump’s four-month pressure campaign against Venezuela’s dictator Nicolás Maduro and her comments in favour of a potential US military intervention in the Caribbean country. Continue reading...",
+      "content_length": 557,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Court backs ruling that UK unlawfully detained Tamils on Diego Garcia",
+      "link": "https://www.theguardian.com/world/2025/dec/16/diego-garcia-tamil-asylum-seekers-detainment-appeal-court-judgment",
+      "published": "2025-12-16T17:13:50",
+      "content": "British Indian Ocean Territory commissioner’s appeal against decision last year rejected by judges in LondonAppeal court judges have backed a decision that dozens of asylum seekers were unlawfully detained on one of the world’s most remote islands, rejecting an appeal on Tuesday by the commissioner for the territory.Exactly a year ago, on 16 December 2024, a judge ruled that Tamils who arrived on the island of Diego Garcia, a UK and US military base, after a shipwreck while they were trying to reach Canada to seek asylum, were unlawfully detained there for three years in conditions described as “hell on Earth”. Continue reading...",
+      "content_length": 638,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Utah leaders hinder efforts to develop solar energy supply",
+      "link": "https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/",
+      "published": "2025-12-16T17:00:57",
+      "content": "Utah Gov. Spencer Cox believes his state needs more power—a lot more. By some estimates, Utah will require as much electricity in the next five years as it generated all last century to meet the demands of a growing population as well as chase data centers and AI developers to fuel its economy.\nTo that end, Cox announced Operation Gigawatt last year, declaring the state would double energy production in the next decade. Although the announcement was short on details, Cox, a Republican, promised his administration would take an “any of the above” approach, which aims to expand all sources of energy production.\nDespite that goal, the Utah Legislature’s Republican supermajority, with Cox’s acquiescence, has taken a hard turn against solar power—which has been coming online faster than any other source in Utah and accounts for two-thirds of the new projects waiting to connect to the state’s power grid.Read full article\nComments",
+      "content_length": 937,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Nach Sabotage-Aktionen bei DHL führen auch Spuren nach Deutschland",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dhl-sabotage-russland-100.html",
+      "published": "2025-12-16T17:00:36",
+      "content": "   Ermittler in Polen und Litauen haben offenbar ein aus Russland gesteuertes Netzwerk identifiziert, das hinter mehreren Brandanschlägen in Europa stecken soll. Nach Informationen von WDR, NDR und SZ gab es auch in Deutschland eine Durchsuchung.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mark Carney criticised for using British spellings in Canadian documents",
+      "link": "https://www.theguardian.com/world/2025/dec/16/mark-carney-british-spellings-canada",
+      "published": "2025-12-16T16:56:06",
+      "content": "Linguists say the prime minister’s use of ‘s’ instead of ‘z’ breaks national English conventionsMark Carney says that amid a fundamental shift to the nature of globalisation, his government will catalyse the growth in both the public and private sector.But Canadian linguists say that’s a problem. Continue reading...",
+      "content_length": 317,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "In Vietnam, the dark side of artisanal recycling",
+      "link": "https://www.france24.com/en/video/20251216-in-vietnam-the-dark-side-of-artisanal-recycling",
+      "published": "2025-12-16T16:46:36",
+      "content": "In the outskirts of Hanoi, Vietnam, some villages are covered in waste, sorted by hand by residents who have no other option for work. Although no clear link has been established between cancer rates and the handling of plastic waste, the UN is warning about these dangerous practices.",
+      "content_length": 285,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mbappé wins legal battle against PSG",
+      "link": "https://www.france24.com/en/video/20251216-mbapp%C3%A9-wins-legal-battle-against-psg",
+      "published": "2025-12-16T16:42:01",
+      "content": "After months of legal wrangling, the Paris labour court found on December 16 that the Paris St Germain football club failed to pay Kylian Mbappe for three months, ordering 60 million euros in unpaid salary and bonuses. The French striker took PSG to court over earnings he said were withheld for April, May and June 2024, shortly before he left to join Real Madrid on a free transfer.",
+      "content_length": 384,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Emmanuel Macron seeks international cooperation to tackle drug trafficking",
+      "link": "https://www.france24.com/en/video/20251216-emmanuel-macron-seeks-international-cooperation-to-tackle-drug-trafficking",
+      "published": "2025-12-16T16:26:08",
+      "content": "Emmanuel Macron is in Marseille a month after the assassination of the brother of a young anti-drugs activist, a suspected intimidation tactic. In 2021, the French president had pledged significant resources to help France's second largest city modernise and curb the drug crime afflicting it. Now, he wants to strengthen cooperation with countries from which drug-trafficking networks operate in France.",
+      "content_length": 404,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Mercosur free trade deal is likely to be delayed amid French agricultural protests",
+      "link": "https://www.france24.com/en/video/20251216-mercosur-free-trade-deal-is-likely-to-be-delayed-amid-french-agricultural-protests",
+      "published": "2025-12-16T16:25:15",
+      "content": "French farmers are driving opposition to the massive transatlantic Mercosur trade deal. EU lawmakers voted on December 16 to advance the deal by adding new safeguards to, but delay is still expected due to protests. FRANCE 24's Armen Georgian tells us more.",
+      "content_length": 257,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘Source of pride for Syria’: man who disarmed Bondi shooter lauded in home town",
+      "link": "https://www.theguardian.com/world/2025/dec/16/syria-ahmed-al-ahmed-who-disarmed-bondi-shooter-lauded-in-home-town",
+      "published": "2025-12-16T16:10:09",
+      "content": "News of Ahmed al-Ahmed’s selfless act quickly reached al-Nayrab, where locals praised heroism of ‘the son of our village’A man who risked his life to wrestle a gun from a shooter in the Bondi beach terror attack on Sunday has become a hero in his home town in Syria.Video of Ahmed al-Ahmed’s selfless act quickly reached his birthplace of al-Nayrab, a small town in the countryside of Idlib, north-west Syria. Ahmed, a 44-year-old father of two children, left the village to emigrate to Australia in 2007, where he worked as a shopkeeper. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Empörung über Trump-Äußerungen nach Rob Reiners Tod",
+      "link": "https://www.tagesschau.de/ausland/rob-reiner-trump-100.html",
+      "published": "2025-12-16T15:50:49",
+      "content": "   Hollywood-Regisseur Rob Reiner und seine Frau wurden Opfer eines Gewaltverbrechens. Nach seinem Tod wetterte US-Präsident Trump gegen den liberalen Aktivisten, nannte ihn \"geistesgestört.\" Die Entrüstung folgte prompt.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "2026 Mercedes CLA first drive: Entry level doesn’t mean basic",
+      "link": "https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/",
+      "published": "2025-12-16T15:38:57",
+      "content": "Mercedes-Benz provided flights from Washington to San Francisco and accommodation so Ars could drive the CLA. Ars does not accept paid editorial content.\nSAN FRANCISCO—Automakers are starting to follow somewhat familiar paths as they continue their journeys to electrification. Electric vehicles are, at first, strange new tech, and usually look like it. Mercedes-Benz’s EQS and EQE are good examples—with bodies that look like bars of soap worn down in the shower, they stood out. For early adopters and trailblazers that might be fine, but you need to sell cars to normal people if you want to survive, and that means making EVs more normal. Which is what Mercedes did with its newest one, the all-electric CLA.\nThe normal looks belie the amount of new technology that Mercedes has packed into the CLA, though. The car sticks to the four-door coupe look that the company pioneered a couple of decades ago, but there’s a thoroughly modern electric powertrain connected to the wheels, run by four powerful networked computers. And yes, there’s AI. (For the pedants, “coupe” means cut down, not two-door, so the name is accurate.)\nThe CLA is the first of a new series of Mercedes that will use the same modular architecture, and interestingly, it’s powertrain agnostic—a hybrid CLA is coming in time, too. But first the battery EV, which makes good use of some technology Mercedes developed for the EQXX concept car.Read full article\nComments",
+      "content_length": 1441,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kreml bremst nach Ukraine-Gesprächen Hoffnungen auf Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-gegen-waffenruhe-100.html",
+      "published": "2025-12-16T15:37:31",
+      "content": "   Zwei Tage lang wurde in Berlin über eine Friedenslösung für die Ukraine gesprochen - allerdings ohne Russland, das den Krieg begonnen hatte. Nun hat sich Kreml-Sprecher Peskow geäußert. Russland lehnt eine Waffenruhe weiter ab.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sprit 2025 erneut billiger - doch steigende Preise werden erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sprit-preis-tanken-adac-100.html",
+      "published": "2025-12-16T14:04:32",
+      "content": "   Die Spritpreise sind 2025 das dritte Jahr in Folge gesunken. Doch schon zum Jahreswechsel dürfte Tanken wieder etwas teurer werden. Der ADAC rät bei Benzinern zu Super-Kraftstoff der Sorte E10.[mehr]",
+      "content_length": 202,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Parlament beschließt abgeschwächtes Lieferkettengesetz",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-beschliesst-lieferkettengesetz-100.html",
+      "published": "2025-12-16T13:46:21",
+      "content": "   Die Änderungen am Lieferkettengesetz haben die nächste Hürde genommen: Das EU-Parlament in Straßburg gab grünes Licht. Die Vorgaben sollen künftig nur noch für wenige große Unternehmen gelten und kommen später als geplant. [mehr]",
+      "content_length": 232,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Handel fast rund um die Uhr: Nasdaq will Zeiten ausweiten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nasdaq-handelszeiten-100.html",
+      "published": "2025-12-16T13:22:25",
+      "content": "   Wer Aktien kaufen oder verkaufen will, muss auf die Handelszeiten der Börsen achten. Die US-Technologiebörse Nasdaq will den Handel künftig fast rund um die Uhr ermöglichen. Anleger könnten profitieren.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Meilenstein am Large Hadron Collider: Mehr als ein Exabyte an Forschungsdaten",
+      "link": "https://www.heise.de/news/Meilenstein-am-Large-Hadron-Collider-Mehr-als-ein-Exabyte-an-Forschungsdaten-11116829.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T13:19:00",
+      "content": "Der übergroße Teil der Daten, die am Teilchenbeschleuniger LHC gesammelt werden, wird automatisch aussortiert. Trotzdem wurde jetzt über ein Exabyte archiviert.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Five key moments in the assault on the rights of women and girls in 2025",
+      "link": "https://www.theguardian.com/world/2025/dec/16/five-key-moments-in-the-assault-on-the-rights-of-women-and-girls-in-2025",
+      "published": "2025-12-16T12:00:51",
+      "content": "Since Trump’s second term began in January, global healthcare, especially for sexual and reproductive health, has been under constant attackThis time last year, women’s rights organisations were bracing themselves for a second Trump term. Few were prepared for the chaos that would be unleashed in January. The volume and speed of executive orders coming out of the White House were seen as a deliberate tactic to overwhelm and create panic. In many ways it worked – there was confusion, anger and exhaustion as organisations scrambled to fill the gap left by the USAID freeze. But that was just the beginning.The US administration has been the key driver, supported by intense advocacy work by ultra-conservative groups using the moment to strengthen global ties with political allies. Continue reading...",
+      "content_length": 806,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wie Bürgerinitiativen leerstehende Gebäude vor dem Abriss retten",
+      "link": "https://www.tagesschau.de/kultur/haus-der-statistik-kulturort-umnutzung-100.html",
+      "published": "2025-12-16T11:50:58",
+      "content": "   Laut Statistischem Bundesamt werden in Deutschland pro Jahr Tausende Gebäude abgerissen. Nachhaltig ist das nicht. Ein Projekt von Kulturschaffenden in Berlin zeigt, wie es anders gehen kann. Von Andrea Heinze.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Neue Kämpfe im Ostkongo: Zwischen Todesangst und Flucht",
+      "link": "https://www.tagesschau.de/ausland/ostkongo-gewalt-100.html",
+      "published": "2025-12-16T11:33:12",
+      "content": "   Wegen einer neuen Offensive der M23-Miliz im Ostkongo sind Tausende Menschen in das benachbarte Burundi geflohen. Einige haben auf der Flucht Schreckliches gesehen. Von Linda Staude.[mehr]",
+      "content_length": 191,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Smartphone-Sicherheitstipps vom CERT-FR und CISA – wenig praktikabel",
+      "link": "https://www.heise.de/news/Smartphone-Sicherheitstipps-vom-CERT-FR-und-CISA-wenig-praktikabel-11116432.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T11:28:00",
+      "content": "Die IT-Sicherheitsorganisationen CERT-FR und CISA haben Tipps für die Absicherung von Smartphones gesammelt. Die gehen etwas weit.",
+      "content_length": 130,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Model-Schau 1: Schlanke KI-Spezialmodelle im Trend",
+      "link": "https://www.heise.de/hintergrund/Model-Schau-1-Schlanke-KI-Spezialmodelle-im-Trend-11116052.html",
+      "published": "2025-12-16T11:19:00",
+      "content": "Die neue Kolumne widmet sich den wichtigsten Neuerungen bei offenen und proprietären Large Language Models.",
+      "content_length": 107,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Menge an Haushaltsabfällen 2024 bundesweit wieder gestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-haushalte-abfall-100.html",
+      "published": "2025-12-16T11:13:20",
+      "content": "   Im vergangenen Jahr ist in privaten Haushalten in Deutschland wieder mehr Abfall angefallen. Bundesweit nahm der Müll um etwa eine Million Tonnen zu. Vor allem in den Biotonnen landete mehr.[mehr]",
+      "content_length": 199,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Neben normalem Datenverkehr: Unterseekabel für Vermessung von Erdbeben benutzt",
+      "link": "https://www.heise.de/news/4400-km-lang-Aktives-Unterseekabel-fuer-Vermessung-von-Erdbeben-benutzt-11116406.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T11:06:00",
+      "content": "Eine Forschungsgruppe hat ein aktives Unterseekabel benutzt, um seismische Erschütterungen am Grund des Pazifiks zu messen. Nun drohen politische Hindernisse.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Was kam bei den Ukraine-Gesprächen heraus und wie geht es weiter?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-berlin-faq-100.html",
+      "published": "2025-12-16T11:04:22",
+      "content": "   Zwei Tage liefen die Verhandlungen über eine mögliche Friedenslösung für die Ukraine in Berlin. Welche Ergebnisse brachten die Gespräche? Und was steht als nächstes an? Die wichtigsten Fragen im Überblick.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Lob für Engagement Europas bei Ukraine-Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-berlin-104.html",
+      "published": "2025-12-16T11:04:08",
+      "content": "   Nach den Ukraine-Beratungen in Berlin haben sich zahlreiche Politiker optimistisch über einen Fortgang der Verhandlungen geäußert. Vor allem der Einsatz europäischer Staaten wird gelobt. Moskau wiederholt derweil bekannte Forderungen.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Deichkind-Mitgründer Malte Pittner stirbt im Alter von 48 Jahren",
+      "link": "https://www.tagesschau.de/kultur/deichkind-malte-pittner-100.html",
+      "published": "2025-12-16T10:35:59",
+      "content": "   Er war Mitgründer der Elektropunk- und Hip-Hop-Band Deichkind, später spielte er als Gitarrist bei der Country-Band Texas Lightning. Nun ist der Musiker Malte Pittner im Alter von 48 Jahren gestorben.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ostflanken-Staaten der EU: Russlands Nachbarn fordern mehr Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-ostflanke-treffen-100.html",
+      "published": "2025-12-16T10:10:32",
+      "content": "   Die Vorfälle entlang der EU-Grenze mit Russland häufen sich. In Finnland beraten deshalb Vertreter betroffener Staaten, wie sich die Außengrenze der Europäischen Union besser schützen lässt. Von Christian Blenker.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "BOB-Konferenz 2026: Vorträge zur funktionalen Programmierung und mehr",
+      "link": "https://www.heise.de/news/BOB-Konferenz-2026-Vortraege-zur-funktionalen-Programmierung-und-mehr-11115696.html",
+      "published": "2025-12-16T09:38:00",
+      "content": "Die Konferenz bringt Vorträge und Tutorials zu Themen jenseits des Mainstreams und KI, von denen sich viele mit funktionaler Programmierung beschäftigen.",
+      "content_length": 153,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Monopolisierung: Wenn Supermarktkonzerne an der Preisschraube drehen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/supermaerkte-monopol-preise-bauern-100.html",
+      "published": "2025-12-16T09:14:52",
+      "content": "   In den vergangenen Jahren sind die Lebensmittelpreise in Deutschland so stark gestiegen wie in kaum einem anderen Land Europas. Die Landwirte verdienen gleichzeitig immer weniger. Wie kann das sein? Von Peter Kreysler.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Software Testing: Autismus und Softwaretests",
+      "link": "https://www.heise.de/blog/Software-Testing-Autismus-und-Softwaretests-11116026.html",
+      "published": "2025-12-16T09:11:00",
+      "content": "In dieser Episode sprechen Richard Seidl und Robert über die Stärken von Autismus beim Software Testing: starker Fokus, Mustererkennung und ehrliches Feedback",
+      "content_length": 158,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "USA melden Zerstörung von drei Booten im Ostpazifik - acht Tote",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-tote-boote-ostpazifik-100.html",
+      "published": "2025-12-16T09:09:17",
+      "content": "   Erneut haben die USA drei Boote angegriffen, die nach Angaben des Militärs in den Drogenschmuggel verwickelt sein sollen. Acht Männer sollen dabei in internationalen Gewässern im Ostpazifik getötet worden sein.  [mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "South Africa in talks with Russia over men ‘tricked’ into fighting in Ukraine",
+      "link": "https://www.theguardian.com/world/2025/dec/16/south-africa-russia-men-tricked-fighting-ukraine",
+      "published": "2025-12-16T09:08:39",
+      "content": "Government says it received distress calls, as daughter of ex-president Jacob Zuma accused of luring men to frontlineSouth Africa’s government is in talks with Russia to bring home 17 South African men fighting for Russia in Ukraine, after the men were allegedly tricked on to the frontlines of the war by a daughter of former South African president Jacob Zuma.Duduzile Zuma-Sambudla has been accused in multiple lawsuits of luring the 17 South African and two Botswanan men to Russia in July, by telling them they would be training as bodyguards for her father’s uMkhonto weSizwe political party or attending a personal development course. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lieber Verbrenner und Hybride: Ford schwenkt bei Elektroautos um",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ford-e-autos-verbrenner-hybride-100.html",
+      "published": "2025-12-16T09:02:20",
+      "content": "   Der US-Autobauer Ford streicht sein E-Auto-Angebot zusammen und schreibt knapp 20 Milliarden Dollar ab. Der Traditionskonzern will sich künftig verstärkt auf Modelle mit Verbrenner- und Hybridantrieb konzentrieren.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "3I/ATLAS: Interstellarer Komet vor größter Annäherung an die Erde",
+      "link": "https://www.heise.de/news/3I-ATLAS-Interstellarer-Komet-vor-groesster-Annaeherung-an-die-Erde-11116097.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T08:49:00",
+      "content": "Am Freitag ist der 3I/ATLAS der Erde näher als je zuvor und danach – die Distanz beträgt aber dennoch 270 Millionen Kilometer. Trotzdem ist die Spannung groß.",
+      "content_length": 158,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie groß sind die Fortschritte bei den Ukraine-Verhandlungen?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-gespraeche-einschaetzung-100.html",
+      "published": "2025-12-16T08:11:47",
+      "content": "   Die Ukraine-Beratungen in Berlin sind beendet. Wie nah nun eine Friedenslösung ist - dazu kommen zwei Expertinnen zu unterschiedlichen Bewertungen. Entscheidend sei aber weiter, wie der Kreml reagiert.[mehr]",
+      "content_length": 210,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine meldet Angriff auf russisches U-Boot",
+      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-russisches-u-boot-100.html",
+      "published": "2025-12-16T08:06:16",
+      "content": "   Die Ukraine hat eigenen Angaben zufolge erstmals ein russisches U-Boot mithilfe einer Drohne gesprengt. Der Angriff sei im russischen Heimathafen der Schwarzmeerflotte erfolgt. Moskau dementiert.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "VS Code deaktiviert IntelliCode zugunsten des kostenpflichtigen Copilot",
+      "link": "https://www.heise.de/news/VS-Code-deaktiviert-IntelliCode-zugunsten-des-kostenpflichtigen-Copilot-11115668.html",
+      "published": "2025-12-16T07:56:00",
+      "content": "Microsoft hat die IntelliCode-Erweiterungen für VS Code deaktiviert und verweist auf den Copilot, der nur ein geringes Freivolumen enthält.",
+      "content_length": 139,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Updaten: Warnung vor Angriffen auf Apple-Lücken und Gladinet",
+      "link": "https://www.heise.de/news/Updaten-Warnung-vor-Angriffen-auf-Apple-Luecken-und-Gladinet-11116020.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-16T07:43:00",
+      "content": "Die CISA warnt vor laufenden Angriffen auf Schwachstellen in Apples iOS und macOS sowie auf Gladinet CentreStack und Triofox.",
+      "content_length": 125,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
