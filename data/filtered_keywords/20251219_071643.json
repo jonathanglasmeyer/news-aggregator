@@ -1,0 +1,1384 @@
+{
+  "metadata": {
+    "timestamp": "20251219_071643",
+    "input_file": "data/deduplicated/20251219_071643.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 159,
+      "filtered_count": 151,
+      "blacklisted_count": 8,
+      "reduction_rate": "5.0%",
+      "top_blacklist_reasons": {
+        "fußball": 1,
+        "wetterbericht": 1,
+        "temperatur": 1,
+        "sicherheitsupdate": 1,
+        "oscar": 1,
+        "security update": 1,
+        "stau": 1,
+        "sicherheitslücke": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Strasbourg finish top of Conference League group stage win over Breidablik",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251219-strasbourg-finish-top-of-conference-league-group-stage-win-over-breidablik",
+      "published": "2025-12-19T07:15:42",
+      "content": "Strasbourg wrapped up the Conference League group stage with a 3-1 win over Iceland’s Breidablik, finishing unbeaten and top of their group. Liam Rosenior’s men were held for much of the match but found the breakthrough in the final ten minutes. The result guarantees Strasbourg direct qualification for the round of 16, avoiding the play-offs.",
+      "content_length": 344,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Gipfel - Ukraine erhält zinslosen Kredit - eingefrorene Russland-Gelder bleiben zunächst außen vor",
+      "link": "https://www.deutschlandfunk.de/ukraine-erhaelt-zinslosen-kredit-eingefrorene-russland-gelder-bleiben-zunaechst-aussen-vor-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Beim EU-Gipfeltreffen in Brüssel ist in der Nacht eine Einigung über weitere Finanzhilfen für die Ukraine erzielt worden. Kiew erhält demnach von der Europäischen Union in den kommenden beiden Jahren zinslose Kredite in Höhe von 90 Milliarden Euro.",
+      "content_length": 248,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Krieg gegen die Ukraine - Todesopfer bei russischem Angriff auf Odessa",
+      "link": "https://www.deutschlandfunk.de/todesopfer-bei-russischem-angriff-auf-odessa-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Aus der ukrainischen Region Odessa sind erneute russische Luftangriffe gemeldet worden.",
+      "content_length": 87,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Panne beim Bundeszentralamt für Steuern - Manche Beamte erhalten im Januar etwas weniger Geld",
+      "link": "https://www.deutschlandfunk.de/manche-beamte-erhalten-im-januar-etwas-weniger-geld-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Wegen einer technischen Panne beim Bundeszentralamt für Steuern kann es im Janaur dazu kommen, dass manche Beamte ein zu geringes Netto-Gehalt bekommen.",
+      "content_length": 152,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Australien - Regierung will massenhaft Schusswaffen einziehen",
+      "link": "https://www.deutschlandfunk.de/regierung-will-massenhaft-schusswaffen-einziehen-102.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Nach dem antisemitischen Anschlag in Sydney will Australiens Regierung die Anzahl der Schusswaffen im Land drastisch reduzieren.",
+      "content_length": 128,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Washington D.C. - Kulturzentrum Kennedy Center soll zusätzlich den Namen von US-Präsident Trump tragen",
+      "link": "https://www.deutschlandfunk.de/kulturzentrum-kennedy-center-soll-zusaetzlich-den-namen-von-us-praesident-trump-tragen-102.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Das Kulturzentrum John F. Kennedy Center in Washington D.C. soll künftig zusätzlich den Namen des gegenwärtigen US-Präsidenten Trump tragen.",
+      "content_length": 140,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Europäischer Rat - Unterzeichnung des EU-Mercosur-Abkommens wird verschoben",
+      "link": "https://www.deutschlandfunk.de/unterzeichnung-des-eu-mercosur-abkommens-wird-verschoben-102.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die geplante Unterzeichnung des EU-Mercosur-Handelsabkommens findet diese Woche nicht mehr statt. Kommissionspräsidentin von der Leyen teilte den Staats- und Regierungschefs der EU mit, dass sich die Unterzeichnung des Abkommens bis zum nächsten Monat verzögern werde.",
+      "content_length": 268,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Gipfel - Warum auch nach 25 Jahren weiter über das Mercosur-Abkommen gestritten wird",
+      "link": "https://www.deutschlandfunk.de/warum-auch-nach-25-jahren-weiter-ueber-das-mercosur-abkommen-gestritten-wird-102.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die EU-Staaten beraten auf dem Gipfel in Brüssel über das Mercosur-Abkommen. Es geht um Freihandel mit den südamerikanischen Ländern Brasilien, Argentinien, Uruguay und Paraguay. Die Verhandlungen laufen seit über 25 Jahren, eigentlich sollte in dieser Woche der Abschluss erfolgen. Doch das Abkommen steht auf der Kippe. Die Hintergründe.",
+      "content_length": 339,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Auslandsnachrichtendienst - Medienbericht: Kanzleramt will BND härteres Vorgehen erlauben",
+      "link": "https://www.deutschlandfunk.de/medienbericht-kanzleramt-will-bnd-haerteres-vorgehen-erlauben-106.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der Bundesnachrichtendienst soll nach Plänen aus dem Kanzleramt mehr Handlungsmöglichkeiten für besonders bedrohliche Lagen erhalten.",
+      "content_length": 133,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Klimaneutrale Transformation - DIHK-Chef Adrian: \"Für deutsche Industrie nicht bezahlbar\"",
+      "link": "https://www.deutschlandfunk.de/dihk-chef-adrian-fuer-deutsche-industrie-nicht-bezahlbar-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Deutsche Industrie- und Handelskammer hält die klimaneutrale Transformation für die hiesige Industrie nach derzeitigem Stand für nicht bezahlbar.",
+      "content_length": 149,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Aufnahme von Afghanen - Grünen-Chef Banaszak hält Dobrindt-Ankündigung für unzureichend",
+      "link": "https://www.deutschlandfunk.de/gruenen-chef-banaszak-haelt-dobrindt-ankuendigung-fuer-unzureichend-102.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Grünen-Parteichef Banaszak kritisiert die Ankündigung von Bundesinnenminister Dobrindt als unzureichend, wonach bis Jahresende über 500 weitere Menschen aus Afghanistan mit Aufnahmezusage nach Deutschland geholt werden sollen.",
+      "content_length": 226,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Soziale Medien - Bytedance verkauft Großteil des US-Geschäfts von TikTok an US-Investoren",
+      "link": "https://www.deutschlandfunk.de/bytedance-verkauft-grossteil-des-us-geschaefts-von-tiktok-an-us-investoren-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der chinesische Tiktok-Eigner Bytedance verkauft 80 Prozent seines US-Geschäfts an amerikanische und internationale Investoren. Die Vereinbarung beendet die jahrelange Unsicherheit über die Zukunft der ‌Kurzvideo-App in den USA.",
+      "content_length": 228,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schüsse an US-Uni - Tatverdächtiger tot aufgefunden",
+      "link": "https://www.deutschlandfunk.de/tatverdaechtiger-tot-aufgefunden-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Fast eine Woche nach den tödlichen Schüssen an der Universität Brown im US-Bundesstaat Rhode Island hat die Polizei den mutmaßlichen Täter tot aufgefunden.",
+      "content_length": 155,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Atomenergie - Trump-Medienfirma will mit Partner Fusionskraftwerk bauen",
+      "link": "https://www.deutschlandfunk.de/trump-medienfirma-will-mit-partner-fusionskraftwerk-bauen-108.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der von US-Präsident Trump gegründete Medienkonzern TMTG will in das Atomenergie-Geschäft einsteigen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berlin - Bundestag beschließt: Keine Neuauszählung der Bundestagswahl",
+      "link": "https://www.deutschlandfunk.de/bundestag-beschliesst-keine-neuauszaehlung-der-bundestagswahl-108.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Bundestagswahl wird vorerst nicht neu ausgezählt.",
+      "content_length": 53,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Mehr Produktsicherheit beim Online-Handel",
+      "link": "https://www.deutschlandfunk.de/mehr-produktsicherheit-beim-online-handel-104.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der Bundestag hat eine Reform des Produktsicherheitsgesetzes beschlossen.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Abstimmungen zu Start-up-Förderung und Einsparungen im Gesundheitssystem",
+      "link": "https://www.deutschlandfunk.de/abstimmungen-zu-start-up-foerderung-und-einsparungen-im-gesundheitssystem-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der Bundestag befasst sich heute mit dem Standortfördergesetz.",
+      "content_length": 62,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sitzungen in Berlin - Bundesrat stimmt über Wehrdienstgesetz, Rentengesetze und Entlastungspaket ab",
+      "link": "https://www.deutschlandfunk.de/bundesrat-stimmt-ueber-wehrdienstgesetz-rentengesetze-und-entlastungspaket-ab-100.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Der Bundesrat stimmt heute in seiner letzten Sitzung des Jahres über mehrere Gesetzesvorhaben ab.",
+      "content_length": 97,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Völkerstrafrecht - US-Regierung verhängt Sanktionen gegen zwei weitere Richter des Internationalen Strafgerichtshofs",
+      "link": "https://www.deutschlandfunk.de/us-regierung-verhaengt-sanktionen-gegen-zwei-weitere-richter-des-internationalen-strafgerichtshofs-108.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Im Zusammenhang mit Ermittlungen des Internationalen Strafgerichtshofs gegen israelische Staatsangehörige hat die US-Regierung erneut Sanktionen gegen zwei Richter verhängt.",
+      "content_length": 173,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brasilien - Oberster Gerichtshof stärkt Rechte indigener Gemeinschaften",
+      "link": "https://www.deutschlandfunk.de/oberster-gerichtshof-staerkt-rechte-indigener-gemeinschaften-110.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "In Brasilien hat der Oberste Gerichtshof die Rechte indigener Gemeinschaften gestärkt.",
+      "content_length": 86,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Renaissance der Atomkraft - Frankreichs neue Atomreaktoren werden 40 Prozent teurer als geplant",
+      "link": "https://www.deutschlandfunk.de/frankreichs-neue-atomreaktoren-werden-40-prozent-teurer-als-geplant-106.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Frankreichs neue Atomkraftwerke werden voraussichtlich 40 Prozent teurer als ursprünglich vorgesehen.",
+      "content_length": 101,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert",
+      "link": "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-114.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Europäische Zentralbank lässt die Leitzinsen im Euroraum zum vierten Mal in Folge unverändert.",
+      "content_length": 98,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bildung - Bund und Länder einigen sich auf Neuauflage des Digitalpakts",
+      "link": "https://www.deutschlandfunk.de/bund-und-laender-einigen-sich-auf-neuauflage-des-digitalpakts-110.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Bund und Länder haben sich auf eine Neuauflage des Digitalpakts geeinigt.",
+      "content_length": 73,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Investitionen - Bundesregierung gibt 30 Milliarden Euro für \"Deutschlandfonds\"",
+      "link": "https://www.deutschlandfunk.de/bundesregierung-gibt-30-milliarden-euro-fuer-deutschlandfonds-104.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Bundesregierung setzt einen Fonds mit einem Volumen von rund 30 Milliarden Euro auf und will damit private Investitionen anlocken.",
+      "content_length": 134,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesanwaltschaft - Anklagen wegen Mitgliedschaft in einer rechten Terrorzelle",
+      "link": "https://www.deutschlandfunk.de/anklagen-wegen-mitgliedschaft-in-einer-rechten-terrorzelle-114.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Bundesanwaltschaft hat nach eigenen Angaben Anklage gegen sieben mutmaßliche Mitglieder und einen Unterstützer einer rechtsextremistischen Terrorgruppe erhoben.",
+      "content_length": 164,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nordsee - Schleswig-Holstein will im Bundesrat gegen Erdgas-Abkommen mit den Niederlanden stimmen",
+      "link": "https://www.deutschlandfunk.de/schleswig-holstein-will-im-bundesrat-gegen-erdgas-abkommen-mit-den-niederlanden-stimmen-106.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Bundesregierung will mit den Niederlanden ein Abkommen zur Erdgasförderung in der Nordsee vor der Insel Borkum schließen. Schleswig-Holstein kündigt Widerstand im Bundesrat an.",
+      "content_length": 180,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundestag - Straße in Berlins Parlamentsviertel soll nach Yad Vashem benannt werden",
+      "link": "https://www.deutschlandfunk.de/strasse-in-berlins-parlamentsviertel-soll-nach-yad-vashem-benannt-werden-108.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Ein Straßenabschnitt in Berlin-Mitte soll nach der Jerusalemer Holocaust-Gedenkstätte Yad Vashem benannt werden.",
+      "content_length": 112,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schweiz - Forschungsorganisation CERN erhält von privaten Geldgebern millonenschwere Zusage für geplanten Bau eines neuen Teilchenbeschleunigers",
+      "link": "https://www.deutschlandfunk.de/forschungsorganisation-cern-erhaelt-von-privaten-geldgebern-millonenschwere-zusage-fuer-geplanten-ba-106.html",
+      "published": "2025-12-19T07:12:45",
+      "content": "Die Europäische Organisation für Kernforschung, CERN, hat nach eigenen Angaben erstmals finanzielle Unterstützung von privaten Geldgebern in Aussicht. Für den Bau eines neuen Teilchenbeschleunigers sollen 860 Millionen Euro bereitgestellt werden, hieß es von der Einrichtung mit Sitz in der Schweiz.",
+      "content_length": 299,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine war live: Zelenskyy says EU agreement to loan €90bn to Kyiv ‘truly strengthens our resilience’",
+      "link": "https://www.theguardian.com/world/live/2025/dec/19/ukraine-war-live-zelenskyy-european-union-agreement-90bn-loan-deal-kyiv",
+      "published": "2025-12-19T07:08:59",
+      "content": "Ukrainian president expresses gratitude to European leaders for loan plan despite their failure to take up proposal to use frozen Russian funds EU leaders agree €90bn loan for Ukraine but without use of frozen Russian assetsThe EU agreement to provide Kyiv with an €90bn interest-free loan will cover most of Ukraine’s urgent financial needs but be secured against EU borrowing rather than frozen Russian assets.As Jennifer Rankin reports from Brussels, after the summit talks ended in the early hours of Friday, the European Council president, António Costa, told reporters: “We committed and we delivered.”The leading option at the EU summit had been to tap about €200bn of Russian central bank assets frozen in the EU to generate a loan for Kyiv but that fell through after Belgium – where the bulk of the assets are held – demanded guarantees on sharing liability that proved too much for other countries. Belgian prime minister Bart De Wever said as the summit wrapped up that he believed “rationality has prevailed”.German chancellor Friedrich Merz had pushed hard for using Russia’s frozen assets but still said the final decision on the EU-backed loan “sends a clear signal” to Vladimir Putin. European Commission president Ursula von der Leyen said Ukraine would need to repay the loan only once Moscow paid for the damages it has caused.Hungary’s prime minister, Viktor Orbán, agreed not to block the loan to Ukraine to meet its military and economic needs for the next two years as long as his country, Slovakia and the Czech Republic were excluded from the guarantees for the debt. The deal would not affect the financial obligations of the three countries, which did not want to contribute to the financing of Ukraine, a text said on the agreement said.Zelenskyy had urged EU leaders at the start of the summit  to use the frozen Russian assets, saying: “It’s moral, it’s fair, it’s legal.” The EU estimates Ukraine needs an extra €135bn to stay afloat over the next two years.In Washington, Donald Trump urged Ukraine to move swiftly on a peace deal ahead of fresh talks expected in Miami. The US president told reporters in the Oval Office: “Well, they’re getting close to something, but I hope Ukraine moves quickly. I hope Ukraine moves quickly because Russia is there. And you know, every time they take too much time, then Russia changes their mind.” Trump envoys Steve Witkoff and Jared Kushner plan to meet Russian officials in Florida this weekend, a White House official said, after the envoys held talks with a Ukrainian delegation in Berlin last Sunday and Monday.With agencies Continue reading...",
+      "content_length": 2622,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NSW to effectively ban protests for up to three months as premier links Gaza rallies to Bondi terror attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/19/anti-protest-laws-extraordinary-powers-nsw-premier-linking-gaza-rallies-bondi-terror-attack-ntwnfb",
+      "published": "2025-12-19T07:05:21",
+      "content": "Chris Minns says state ‘can’t risk another mass demonstration on that scale in NSW [because] the implications can be seen, in my view, on Sunday’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe New South Wales premier wants parliament to grant his government “extraordinary powers” to effectively ban protests for three months, with Chris Minns claiming the “implications” of pro-Palestine rallies could be seen in the weekend’s Bondi terror attack that killed 15 people.The premier on Friday said when a terrorism designation was in place, the police, with the agreement of the minister, “will be able to declare a specific area where the public assemblies are restricted for a period of time”. Continue reading...",
+      "content_length": 783,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "NSW police warn ‘unauthorised gatherings’ this weekend will be met with a ‘significant’ policing response – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/19/australia-news-live-bondi-terror-attack-latest-updates-antisemitism-liverpool-suspects-victims-funeral-hate-speech-preachers-ntwnfb",
+      "published": "2025-12-19T07:01:14",
+      "content": "This blog is now closedAustralia launches biggest gun buyback in 30 years after Bondi beach terror attackAnti-protest laws contain ‘extraordinary powers’, NSW premier says when linking Gaza rallies to Bondi terror attackPaul Scarr says parliament should be recalled to implement antisemitism lawsThe shadow minister for immigration, citizenship and multicultural affairs, Paul Scarr, is speaking on RN now, where he said parliament should be recalled to implement new antisemitism laws:Given what happened last Sunday, given the urgency of this matter, given the calls from the Australian community, in particular from the Jewish community, I think a strong message needs to be sent that parliament is being recalled and we’re tackling these issues as an urgency.And we do whatever we can. We do whatever we can in the immediate term and then we continue the work into the new year.These actions that we are taking will ensure that we have the strongest laws the country has ever had to combat antisemitism and the preaching of hate speech in our community. So there’ll be no excuses in the future.And we’re providing our police, our security and intelligence organisations with the tools to prosecute people if they undertake these activities. Continue reading...",
+      "content_length": 1264,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reform candidate who told Lammy to ‘go home’ questioned other MPs’ loyalty to UK",
+      "link": "https://www.theguardian.com/politics/2025/dec/19/reform-candidate-lammy-go-home-questioned-mps-loyalty-uk-chris-parry",
+      "published": "2025-12-19T07:00:54",
+      "content": "Exclusive: Labour says Nigel Farage’s party should swiftly condemn Chris Parry after further comments emerge A Reform UK mayoral candidate who said David Lammy should “go home to the Caribbean” has suggested that at least eight other politicians from minority ethnic backgrounds do not have a primary loyalty towards the UK.Nigel Farage’s party has so far refused to condemn Chris Parry, a retired naval rear admiral who has been picked to contest the now-postponed Hampshire and the Solent mayoral election for the party, over his comment about Lammy, the deputy prime minister. Continue reading...",
+      "content_length": 599,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Marktbericht: Blick auf die Konjunktur",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-100.html",
+      "published": "2025-12-19T06:52:25",
+      "content": "   Wirtschaftsdaten dürften das Aktiengeschäft vor dem Wochenende bestimmen. Konsumklima und das aktuelle Konjunkturbarometer des DIW geben dabei den Ton an. [mehr]",
+      "content_length": 164,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bondi paddle-out sends waves of ‘love and peace’ to honour shooting victims",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/19/bondi-paddle-out-surfers-paddle-boarders-and-swimmers-pay-tribute-to-victims-of-mass-shooting",
+      "published": "2025-12-19T06:47:32",
+      "content": "Drone footage shows huge circle of swimmers and surfers in the ocean in latest outpouring of grief Victims of Bondi beach shootingTen minutes of terror: how the Bondi mass shooting unfolded in real time – videoFollow the latest live updatesAs the sun rose over Bondi beach on Friday, splashes and cheers echoed as thousands formed a circle in the ocean to honour the victims of Sunday’s terrorist attack and support the Jewish community.Surfers, runners, pregnant women and children from the nippers program paddled or swam 200 metres offshore as the community continues to mourn the 15 people killed in the attack on a Hanukah celebration. Life-savers – among the first responders to the mass shooting – and a local rabbi addressed the crowd. Continue reading...",
+      "content_length": 763,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gigantischer LHC-Nachfolger: Privatleute sagen Geld für Teilchenbeschleuniger zu",
+      "link": "https://www.heise.de/news/Gigantischer-LHC-Nachfolger-Privatleute-sagen-Geld-fuer-Teilchenbeschleuniger-zu-11120582.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-19T06:16:00",
+      "content": "Beim CERN steht bald die Entscheidung über den Bau eines gigantischen Nachfolgers für den LHC an. Nun haben mehrere Milliardäre dafür Geld zugesagt.",
+      "content_length": 148,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Proposal to allow use of Australian copyrighted material to train AI abandoned after backlash",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/19/proposal-australian-copyrighted-material-train-ai-abandoned-after-backlash",
+      "published": "2025-12-19T06:14:29",
+      "content": "Productivity Commission recommends waiting three years to establish review into technology after furious response from creative industriesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Productivity Commission has abandoned a proposal to allow tech companies to mine copyrighted material to train artificial intelligence models, after a fierce backlash from the creative industries.Instead, the government’s top economic advisory body recommended the government wait three years before deciding whether to establish an independent review of Australian copyright settings and the impact of the disruptive new technology. Continue reading...",
+      "content_length": 708,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU erzielt Kompromiss: Kredit über 90 Milliarden Euro für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-finanzierung-einigung-100.html",
+      "published": "2025-12-19T06:13:38",
+      "content": "   Im Ringen um die künftige Finanzierung der Ukraine steht nun ein Kompromiss: Das angegriffene Land erhält von der EU einen zinslosen Kredit über 90 Milliarden Euro. Russische Vermögenswerte bleiben laut Kanzler Merz vorerst eingefroren.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Young people will suffer most from UK’s ageing population, Lords say",
+      "link": "https://www.theguardian.com/society/2025/dec/19/young-people-will-suffer-most-from-uks-ageing-population-lords-say",
+      "published": "2025-12-19T06:00:57",
+      "content": "House of Lords report says tools such as raising pension age and increasing immigration will not be adequateYoung people will suffer most from the government’s failure to take seriously the unsustainable pressure on public finances and living standards created by the UK’s ageing population, according to the findings of a House of Lords inquiry.The report, Preparing for an Ageing Society, by the economic affairs committee, also found successive governments’ inaction on adult social care “remains a scandal”. Continue reading...",
+      "content_length": 531,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Why did Donald Trump Jr turn up in a tiny British enclave looking for money?",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/why-did-donald-trump-jr-turn-up-in-a-tiny-british-enclave-looking-for-money",
+      "published": "2025-12-19T06:00:57",
+      "content": "Meetings in Gibraltar are the latest twist in worldwide campaign that is enriching the US president’s family One Friday in November, armed police blocked off the road that runs beside Gibraltar’s medieval city walls to clear the way for a convoy of blacked-out BMWs. The vehicles pulled up at the offices of Hassans, a law firm.The British enclave in the Mediterranean is a hub for the international ultra-rich, and Hassans counts many of them as clients. But few as highly placed as that day’s visitor: Donald Trump Jr, the man running the family business while his father is in the White House. Continue reading...",
+      "content_length": 616,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Lib Dems call for inquiry into hostile foreign state interference to include US",
+      "link": "https://www.theguardian.com/politics/2025/dec/19/lib-dems-call-for-inquiry-into-hostile-foreign-state-interference-to-include-us",
+      "published": "2025-12-19T06:00:56",
+      "content": "Party says US government’s explicit support for far-right nationalist parties in Europe amounts to outside interferenceAn inquiry into interference by hostile foreign states in the UK should be extended to cover the actions of Donald Trump’s US, the Liberal Democrats have said.In a letter to the communities secretary, Steve Reed, whose department is leading on the independent review, the Lib Dems said the US government’s explicit support for far-right nationalist parties in Europe amounted to outside interference. Continue reading...",
+      "content_length": 539,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Colombian mercenaries in Sudan ‘recruited by UK-registered firms’",
+      "link": "https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation",
+      "published": "2025-12-19T06:00:55",
+      "content": "Exclusive Guardian investigation finds companies set up by people sanctioned by US hired Colombian fighters for Rapid Support Forces, widely suspected of war crimes in SudanClose to Tottenham Hotspur’s shiny football stadium in London is a squat, nondescript block of flats. It holds a grim secret beyond the unremarkable beige brickwork – a cramped, second-floor apartment in the British capital, linked to murderous atrocities unfolding 3,000 miles south.The one-bedroom flat off north London’s Creighton Road is, according to UK government records, tied to a transnational network of companies involved in the mass recruitment of mercenaries to fight in Sudan alongside paramilitaries accused of myriad war crimes and genocide. Continue reading...",
+      "content_length": 750,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK’s roads and airports brace for busiest Christmas getaway on record",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/19/uk-roads-airports-christmas-getaway-travel",
+      "published": "2025-12-19T06:00:53",
+      "content": "Transport groups warn of unprecedented congestion as commuters, shoppers and holidaymakers travel at onceBritain’s roads and runways will take a festive pounding on Friday as traffic peaks before Christmas and record numbers head to the skies.Motoring organisations are forecasting exceptionally busy roads, with getaways expected to peak on Saturday and Christmas Eve. However, they say the mix of commuter travel, shopping trips and early departures will make Friday the most congested day. Continue reading...",
+      "content_length": 512,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK’s largest proposed datacentre ‘understating planned water use’",
+      "link": "https://www.theguardian.com/environment/2025/dec/19/uk-largest-proposed-data-centre-planned-water-use-northumberland",
+      "published": "2025-12-19T06:00:52",
+      "content": "Analysis suggests consumption at Northumberland site could be 50 times higher than US operator QTS estimatesThe UK’s largest proposed datacentre is understating the scale of its planned water use, according to an analysis.The first phase of construction for the hyperscale campus in Cambois in Northumberland has been given the go-ahead by the local council. The US operator QTS, which is developing the site, has promoted its “water-free” cooling system as proof of its sustainability. Continue reading...",
+      "content_length": 506,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Skandale und Betrügereien - was 2025 an der Börse schieflief",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/skandale-boerse-anlagebetrug-whatsapp-tiktok-100.html",
+      "published": "2025-12-19T05:45:40",
+      "content": "   Das Schwarzbuch Börse ist da - und wieder randvoll mit spektakulären Fehltritten der Konzerne. Die Anlegerschützer geben zudem Tipps, wie sich Kleinanleger vor Anlagebetrug schützen können. Von Angela Göpfert.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Matter of survival’: South Korean president urges public health cover for hair loss",
+      "link": "https://www.theguardian.com/world/2025/dec/19/south-korean-president-urges-public-health-cover-hair-loss",
+      "published": "2025-12-19T05:38:39",
+      "content": "Medical professionals and some in conservative circles feel argument of Lee Jae Myung may be a bit thinSouth Korean president Lee Jae Myung has instructed his government to consider extending public health insurance to cover hair-loss treatments, arguing that baldness has become a “matter of survival” rather than a cosmetic concern for young people.The proposal, which has since faced a backlash from medical professionals and conservative figures, was announced during a policy briefing on Tuesday and would expand coverage beyond the limited medical treatments currently available for certain types of hair loss. Continue reading...",
+      "content_length": 636,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine deal: EU leaders agree €90bn loan, but without use of frozen Russian assets",
+      "link": "https://www.theguardian.com/world/2025/dec/19/ukraine-deal-latest-europe-leaders-loan-zelenskyy",
+      "published": "2025-12-19T05:11:54",
+      "content": "Two-year deal will cover most of Ukraine’s needs, but will be secured against EU borrowing rather than Russian assetsEU leaders have pledged a €90bn loan for Ukraine to meet urgent financial needs, but failed to agree on the preferred option for many of securing that loan against Russia’s frozen assets in the bloc.After talks ended in the early hours of Friday, the president of the European Council, António Costa, told reporters: “We committed and we delivered.” He said EU leaders had approved a decision to make a €90bn loan to Ukraine for the next two years backed by the EU budget, which Kyiv would repay only once Russia pays reparations. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Thrillers should be on UK school curriculum to boost reading, says Lee Child",
+      "link": "https://www.theguardian.com/education/2025/dec/19/lee-child-thrillers-uk-school-curriculum-literacy",
+      "published": "2025-12-19T05:00:52",
+      "content": "Bestselling author says focus on ‘masterpieces’ puts children off as he promotes prison literacy schemeToo much of the literature taught in UK schools is putting children off reading and thrillers should become part of the curriculum, one of the world’s biggest selling authors has argued.Lee Child, the British writer of Jack Reacher novels, which have sold more than 100m copies worldwide, said: “I can totally understand why, if you’re an English teacher and you’ve read all your life and you love this stuff and you’ve been to university, then you want to introduce the big, major masterpieces. But that’s too much for kids.” Continue reading...",
+      "content_length": 649,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Vorsicht, Kunde! – Glasfaseranschluss verzögert sich",
+      "link": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaseranschluss-verzoegert-sich-11120446.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-19T05:00:00",
+      "content": "Was tun, wenn der versprochene Glasfaseranschluss auf sich warten lässt? Wer im Vorfeld handelt und passende Fristen setzt, kann sein Recht besser durchsetzen.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bundesrat absolviert vor den Feiertagen ein Mammutprogramm",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-themen-100.html",
+      "published": "2025-12-19T04:16:14",
+      "content": "   Fast 100 Tagesordnungspunkte liegen dem Bundesrat zur letzten Sitzung in diesem Jahr vor. Darunter auch die zuvor umstrittenen Projekte zu Rente, Krankenkassenfinanzen und Wehrdienst. Ein Blick auf die wichtigsten Themen.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "ByteDance verkauft Großteil des US-Geschäfts von TikTok",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bytedance-tiktok-usa-100.html",
+      "published": "2025-12-19T04:00:11",
+      "content": "   Schon lange hatten die USA diesen Schritt von ByteDance verlangt - andernfalls werde die App in den Vereinigten Staaten verboten. Der chinesische Mutterkonzern von TikTok gibt Medien zufolge den Großteil seines US-Geschäfts ab. [mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Live: Zelensky says EU's €90 billion loan 'truly strengthens' Ukraine resilience",
+      "link": "https://www.france24.com/en/europe/20251219-live-macron-calls-for-europe-to-re-engage-with-putin-in-coming-weeks",
+      "published": "2025-12-19T03:50:49",
+      "content": "EU leaders agreed on Friday to provide a massive interest-free loan to Ukraine to meet its military and economic needs for the next two years, but they failed to bridge differences with Belgium that would have allowed them to use frozen Russian assets to raise the funds. Follow our liveblog for the latest updates.",
+      "content_length": 315,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Brown University shooting suspect found dead, police say",
+      "link": "https://www.france24.com/en/americas/20251219-brown-university-shooting-suspect-found-dead-police",
+      "published": "2025-12-19T03:29:49",
+      "content": "The man suspected of carrying out a mass shooting at Brown University that killed two people and wounded several others has been found dead, officials said on Thursday. Authorities believe the 48-year-old Portuguese national, a Brown student, was also responsible for the fatal shooting of a physicist at the Massachusetts Institute of Technology.",
+      "content_length": 347,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "These are the flying discs the government wants you to know about",
+      "link": "https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/",
+      "published": "2025-12-19T03:18:51",
+      "content": "Four small satellites rode a Rocket Lab Electron launch vehicle into orbit from Virginia early Thursday, beginning a government-funded technology demonstration mission to test the performance of a new spacecraft design.\nThe satellites were nestled inside a cylindrical dispenser on top of the 59-foot-tall (18-meter) Electron rocket when it lifted off from NASA’s Wallops Flight Facility at 12:03 am EST (05:03 UTC). A little more than an hour later, the rocket’s upper stage released the satellites one at a time at an altitude of about 340 miles (550 kilometers).\nThe launch was the starting gun for a “proof of concept” mission to test the viability of a new kind of satellite called DiskSats. These satellites were designed by the Aerospace Corporation, a nonprofit federally funded research and development center. The project is jointly financed by NASA and the US Space Force, which paid for DiskSat’s development and launch, respectively.Read full article\nComments",
+      "content_length": 972,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Australia announces gun buyback scheme, reflection day after Bondi Beach attack",
+      "link": "https://www.france24.com/en/asia-pacific/20251219-australia-unveils-gun-buyback-and-national-reflection-day-after-bondi-beach-attack",
+      "published": "2025-12-19T03:16:22",
+      "content": "Australia will mark one week since the Bondi Beach mass shooting with a national day of “reflection”, Prime Minister Anthony Albanese said on Friday, as he outlined plans for a sweeping gun buyback scheme. He urged Australians to light candles at 6:47pm on December 21, exactly one week after the attack.",
+      "content_length": 304,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Noise machines installed by LA Home Depot ‘torture’ for day laborers, advocates say",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/home-depot-la-noise-machines-day-laborers",
+      "published": "2025-12-19T02:23:27",
+      "content": "Advocates call for removal of machines and demand that company speak out against ICE raids in parking lotsA Home Depot in Los Angeles installed three high-pitch noise-emitting machines outside to deter day laborers from seeking work there, causing them to suffer headaches and nausea, advocates alleged at a press conference on Wednesday.The Instituto de Educacion Popular del Sur de California (Idepsca), an advocacy organization that helps day laborers, called for the removal of these machines from Home Depot’s Cypress Park location, according to the Los Angeles Times. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "May Britt, Swedish actor and former wife of Sammy Davis Jr, dies aged 91",
+      "link": "https://www.theguardian.com/culture/2025/dec/19/may-britt-swedish-actor-dies-aged-91",
+      "published": "2025-12-19T01:53:52",
+      "content": "Britt, whose marriage to Davis in 1960 provoked threats due to racism and anti-miscegenation laws in the US, has died of natural causes in Los AngelesMay Britt, the Swedish actor whose marriage to Sammy Davis Jr in 1960 was the subject of controversy due to US attitudes towards interracial marriage, has died at 91.Her son Mark Davis confirmed the news to the Hollywood Reporter, saying his mother died on 11 December of natural causes at Providence Cedars-Sinai Tarzana medical center in Los Angeles. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "TikTok signs joint venture deal to avert US ban over ownership",
+      "link": "https://www.france24.com/en/technology/20251219-tiktok-joint-venture-deal-us-ban-ownership",
+      "published": "2025-12-19T01:40:52",
+      "content": "TikTok said on Thursday it had agreed to a joint venture with investors to keep operating in the United States, averting a potential ban tied to its Chinese ownership, US media reported. CEO Shou Chew said ByteDance approved the deal, with Oracle, Silver Lake and Abu Dhabi-based MGX as major investors.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "TikTok ban: all the news on the app’s shutdown and return in the US",
+      "link": "https://www.theverge.com/23651507/tiktok-ban-us-news",
+      "published": "2025-12-19T01:30:30",
+      "content": "\n\n\n\t\n\t\t\n\nAfter briefly going dark in the US to comply with the divest-or-ban law targeting ByteDance that went into effect on January 19th, TikTok quickly came back online. It eventually reappeared in the App Store and Google Play as negotiations between the US and China continued, and Donald Trump continued to sign extensions directing officials not to apply the law’s penalties.\n\nFinally, in mid-December, TikTok CEO Shou Zi Chew told employees that the agreements to create TikTok USDS Joint Venture LLC, which includes Oracle, Silver Lake, and MGX as part owners, have been signed, and the deal is expected to close on January 22nd, 2026. His letter said that for users in the US, the new joint venture will oversee data protection, the security of a newly-retrained algorithm, content moderation, and the deployment of the US app and platform.\n\nRead on for all the latest news on the TikTok ban law in the US.\n\n\n\n\t\t\t\t\t\n\t\t\t\tThe TikTok US sale is finally happening\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tEven the lawmakers behind the TikTok ban have no idea what&#8217;s going on\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tLarry Ellison’s quest to run the world\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok deal raises more questions than answers\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump signs &#8216;Saving TikTok&#8217; order to start resolving its big ban problem\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSome details of the TikTok deal have been worked out.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump claims the US is about to get a tremendous fee for taking TikTok out of China\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSo… is there a TikTok deal or not?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump extends the TikTok ban enforcement deadline again.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe China-US deal for TikTok could take another month to work out\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe US and China might finally have a TikTok deal\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe White House just joined TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tPalestine was the problem with TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSenator proposes calling off the TikTok ban — legally.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s ‘ban’ problem could end soon with a new app and a sale\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHere are the letters that convinced Google and Apple to keep TikTok online\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok ban is banned, again.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump gives TikTok another ban extension\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump says he&#8217;d delay the TikTok ban again.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump apparently wants to &#8220;just delay&#8221; a TikTok deal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe US told Apple to keep TikTok in the App Store.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump’s tariffs killed his TikTok deal\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump delays TikTok ban again\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t‘TikTok America,’ Amazon, and other rumors about who might buy TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump’s plans to save TikTok may fail to keep it online, Democrats warn\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tPerplexity wants to buy TikTok and open-source its algorithm\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tOracle is reportedly in the lead to save TikTok from US ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tAkamai on TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok isn’t out of the woods yet\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is back in the App Store\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHow to get TikTok back on your phone if you deleted it after the ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tJD Vance, America&#8217;s TikTok dealmaker.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok disappeared from TV app stores, too.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok now offers its Android app for download outside of Google Play\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump orders a &#8216;sovereign wealth fund&#8217; for the US.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok traffic is recovering, but it’s still not back in app stores\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarvel Snap&#8217;s developer will bring most publishing duties in-house.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarvel Snap is back in the App Store.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump denies working with Oracle and others on a TikTok deal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tOracle and Microsoft are reportedly in talks to take over TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarvel Snap is coming back to app stores soon, says developer\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok still isn’t in the App Store\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tI can’t believe I have to say this.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe Supreme Court’s TikTok ruling is an ominous turn for online speech\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSubstack is spending $20 million to court TikTokers\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump is absolutely going to make ByteDance sell TikTok or shut down again.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump says he’s open to Musk or Ellison buying TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTwo lawmakers introduce a bill to repeal the TikTok ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCapCut is back online in the US\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok isn’t back in the App Store yet\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tInstagram is reportedly trying to attract TikTok creators with large bonuses\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarvel Snap is back in the US\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tAll those kissy-faces at Trump didn’t get TikTok anything.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump signs order refusing to enforce TikTok ban for 75 days\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s CEO sat next to Trump’s national intelligence director pick at the inauguration.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThanos will soon un-snap Marvel Snap.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump touts his plan to save TikTok during his victory rally\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok lock-out effect.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is back, but where are Marvel Snap, CapCut, and Lemon8?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s service providers still risk billions in penalties for bringing it back online\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tInstagram announces a blatant CapCut clone\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSen. Tom Cotton warns TikTok’s service providers of “ruinous liability” for hosting the app.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok makes more kissy-faces at Trump.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tOne possible reason mobile app stores took TikTok down.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHow to bulk download and save your TikTok videos\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s president warns advertisers to expect ‘temporary service instability.’\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok hasn’t returned to the App Store or Google Play just yet.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is partially back online in the US, but it’s not back in the App Store yet\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDid TikTok forget to lock Vision Pro owners out of the app?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is loading on the web.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s new error message doesn’t mention Trump.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok shutdown is locking out non-US users, too\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump says he’ll delay TikTok ban, but the platform must be sold\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tApple says it’s following the law by removing TikTok from the App Store\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarvel Snap is banned, just like TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok ban and shutdown recap.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok shuts down in the US\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok warns US users it will be ‘temporarily unavailable’\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tBiden White House says TikTok’s threat to go dark is a ‘stunt’\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok says it will go offline on Sunday if Biden doesn’t intervene\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHow TikTok backed itself into a corner\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok tells advertisers it’s ‘optimistic about finding the best path forward.’\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe Supreme Court ruled on TikTok — and nobody knows what comes next\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO flatters Trump ahead of US ban deadline\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSupreme Court upholds TikTok ban law\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump says he talked to China’s President Xi about TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t6 TikTok creators on where they’ll go if the app is banned\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tBiden punts the TikTok ban to Trump\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWill RedNote get banned in the US?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tAs Americans flock to RedNote, privacy advocates warn about surveillance\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDonald Trump is reportedly considering an executive order to delay the TikTok ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCan Elon Musk really save TikTok?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tRedNote: what it’s like using the Chinese app TikTokers are flocking to\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is ‘planning for various scenarios’ ahead of possible US ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok could get a 270-day extension to make a deal\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok ban, and what comes next\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tElon Musk may be in the mix to buy TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t‘Goodbye to my Chinese spy’ might be the last great TikTok trend\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tChinese social media app RedNote tops App Store chart ahead of TikTok ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t&#8216;Nice shot, Mr. President! Can I buy TikTok?&#8217;\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok still seems headed for a ban after its Supreme Court arguments\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok has written to creators about tomorrow’s Supreme Court hearing.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhat it will take for TikTok to survive in the US\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe trend machine’s swan song.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump spoke with TikTok’s CEO after asking the Supreme Court to delay the ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTrump asks the Supreme Court to let him rescue TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tJust thinking about TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok finally scores a win: the Supreme Court will hear its case\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCivil society groups to SCOTUS: stop the TikTok ban to preserve free speech.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO meets with Trump as the platform tries to avoid a ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTick tock, TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tFederal appeals court won’t stop the TikTok ban from taking effect on January 19th.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe long-shot plan to save TikTok from a US ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tApple and Google must prepare to stop distributing TikTok by January 19th, lawmakers warn.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok failed to save itself with the First Amendment\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok may actually get banned.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok on verge of ban after losing in court\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tRemember the TikTok ban?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s Canadian arm has been ordered to shut down by the government.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tA potential US ban doesn’t seem to be slowing TikTok down.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok faces a skeptical panel of judges in its existential fight against the US government\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNetChoice’s shadow is looming over the TikTok hearing.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe government is up in TikTok’s defense hearing.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Do you have a First Amendment interest in who owns TikTok?”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s lawyer hints at the government’s secret evidence for wanting to ban the app.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok ban hearing is streaming on YouTube.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is about to get its day in court\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDOJ is trying to convince a court to let it file classified evidence that TikTok’s lawyers can’t see.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe DOJ enters its defense of the TikTok ban-or-divest law.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDonald Trump likes TikTok, not Zuckerberg.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok makes its First Amendment case\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is aware of a ‘potential’ exploit being used to take over brand accounts.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is reportedly splitting its source code to create a US-only algorithm\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok will have its day in court this fall.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is suing the US government — can it beat the ban?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tEight TikTok creators file their own suit against the divest-or-ban law\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok sues the US government over ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCBP is interrogating TikTok employees\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe legal challenges that lie ahead for TikTok — in both the US and China\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhat happens to TikTok?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tPatreon weighs in on the potential TikTok ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok doesn’t seem very high on the US / China priority list.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tByteDance would rather shut TikTok down than sell it, according to Reuters.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhy the TikTok ban won’t solve the US’s online privacy problems.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tAnyone want to buy TikTok?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tBiden signs TikTok ‘ban’ bill into law, starting the clock for ByteDance to divest it\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSenate passes TikTok ban bill, sending it to President Biden’s desk\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe great conundrum of campaigning on TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tApple ordered to remove WhatsApp, Threads, Signal, and Telegram from the App Store in China.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s infamous algorithm and its link to a failed real estate app.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok divest-or-ban legislation could suddenly be fast-tracked in the Senate\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe president could delay a TikTok ban an extra six months under a reported House proposal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok Notes starts rolling out as a new rival to Instagram\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe claims of a “former TikTok employee turned whistleblower.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIs TikTok still TikTok without the algorithm?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhat about other Chinese-owned apps?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tKamala Harris insists “we do not intend to ban TikTok.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSenators push to declassify TikTok briefings\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSenators will get a closed door security briefing on TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s (formerly) favorite congressman is really, really sorry.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHow the House quietly revived the TikTok ban before most of us noticed\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tZoomers are turning on the TikTok famous congressman who voted to ban the app\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSteven Mnuchin is working to create a buyer for TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO tells users to “make their voices heard” against a bill that could ban the app in the US.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIf Congress wants to ban TikTok it should probably show us the evidence of Chinese interference.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNancy Pelosi is playing TikTok-toe.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s fate now lies with the Senate\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tI’ll have what she’s having!\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHouse passes bill that could ban TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tDonald Trump has even more to say about the TikTok ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tFormer Activision CEO Bobby Kotick is apparently eyeing TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tPresident Biden says he’ll sign a TikTok ban, if passed.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tRepublicans ignore Trump criticism, and plan to vote next week on a bill that could ban TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTurns out Congress might still want to ban TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTokers are revolting.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is urging users to call Congress about a looming ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tLawmakers introduce bill that would punish app stores for hosting TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSenators find tech CEOs’ responses hollow after four-hour hearing\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s CEO can’t catch a break from xenophobia in Congress\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tRep. Ro Khanna on what it will take for Congress to regulate AI, privacy, and social media\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIowa sues TikTok for setting its App Store age rating too low\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tJudge upholds Texas TikTok ban on state employee devices.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s biggest hits are videos you’ve probably never seen\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIndiana’s lawsuit against TikTok has been dismissed.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tA US judge has blocked Montana’s TikTok ban.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is committing €12 billion to data security in Europe.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is ‘aggressively removing’ videos promoting an Osama bin Laden manifesto\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNearly one-third of young adults are regularly getting news from TikTok.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tSocial media giants must face child safety lawsuits, judge rules\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe EU is looking into Meta and TikTok’s handling of the Israel-Hamas war\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tJudge questions Montana’s ban on TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tVPNs, Verizon, and Instagram Reels: how students are getting around the TikTok ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIn a bid to please regulators, TikTok opens its first EU data center\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s algorithm will be optional in Europe\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok sues Montana over controversial state ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMontana TikTok users file lawsuit challenging ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCan you even watch this video in Montana?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMontana bans Telegram, WeChat, and Temu from government devices\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is now banned in Montana\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s head of US trust and safety is leaving\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tRepublicans demand a ban on lawmakers using TikTok\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMontana state legislature votes to ban TikTok from app stores in the state.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok ban is a betrayal of the open internet\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe Vergecast watched the TikTok hearing so you don’t have to.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHELP.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCongress seems more determined to ban TikTok than ever\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThere are a lot of legitimate criticisms of TikTok, but this hearing is deeply embarrassing.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t#drugs.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“I don’t think ownership is the issue here.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Any TikTok or ByteDance data that is viewed, stored, or passes through China is subject to the laws of China.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWe’ve reached a break.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“It’s our understanding that they’re looking at the eyes.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Unfortunately, we only have four and a half hours with you.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCitizenLab to TikTok: stop citing us to claim you’re secure!\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWe’re an hour into TikTok CEO Shou Zi Chew’s hearing before Congress.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok hearing’s first printed-out screenshot!\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“They could get devastatingly incorrect information.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Do you believe TikTok deserves this liability protection under Section 230?”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Why would the Chinese government sidestep their own law?”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWould China even let ByteDance sell TikTok?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“Is it accurate to say that you are in regular communication with the CEO of ByteDance?”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t“I could talk all day about how TikTok enriches people’s lives.”\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe TikTok hearings start with broadsides on Big Tech.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWe’re on the ground at the TikTok ban hearing.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok comes to Capitol Hill.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHow to watch this morning’s TikTok ban hearing\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO appears on TikTok to warn users about the TikTok ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok now has 150 million monthly active users in the US.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tGet ready, Washington.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe UK government doesn’t find TikTok to be Tip-Top.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tBiden administration reportedly demanding that TikTok sell or face a ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tCongress rolls out new bill allowing nationwide TikTok ban\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tA GOP plan to ban TikTok nationwide advances out of committee\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tNow the European Commission is banning TikTok from staffers’ phones, too.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHere’s a video of TikTok’s new transparency center.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s transparency theater\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tApple and Google face mounting pressure to remove TikTok from app stores\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO to testify before Congress in March\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tWhy TikTok’s future has never been so cloudy\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok is now banned on mobile devices issued by US House of Representatives\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s parent company accessed the data of US journalists\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tMarco Rubio pushes TikTok ban in Congress\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok CEO Shou Zi Chew explains how US data will be kept out of China\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tIs TikTok’s time running out?\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok to provide researchers with more transparency as damaging reports mount\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok’s security chief steps down as company moves US data to Oracle servers\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tTikTok assures Republicans it’s working to protect US data security\n\t\t\t\n\t\t\t",
+      "content_length": 18713,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump signs $1tn annual US defense bill without fanfare",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/trump-ndaa-military-spending",
+      "published": "2025-12-19T00:31:31",
+      "content": "National Defense Authorization Act authorizes record $901bn in spending, $8bn more than Trump requestedDonald Trump on Thursday signed into law a nearly $1tn annual defense policy bill, despite provisions inserted by Congress providing new aid to Ukraine and reining in his ability to dial down US involvement in the defense of Europe.The fiscal 2026 National Defense Authorization Act, or NDAA, authorizes a record $901bn in annual military spending, $8bn more than Trump requested. Continue reading...",
+      "content_length": 503,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU verschiebt Unterzeichnung des Mercosur-Abkommens auf Januar",
+      "link": "https://www.tagesschau.de/ausland/mercosur-abkommen-eu-100.html",
+      "published": "2025-12-19T00:17:57",
+      "content": "   Seit 25 Jahren wird darüber verhandelt - und nun kommt noch gut ein Monat obendrauf: Die Unterzeichnung des Mercosur-Abkommens wurde von diesen Samstag auf Januar verschoben. Dabei geht es vor allem um Sorgen der Landwirte. Von T. Spickhofen.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Parasites plagued Roman soldiers at Hadrian’s Wall",
+      "link": "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/",
+      "published": "2025-12-19T00:00:36",
+      "content": "It probably sucked to be a Roman soldier guarding Hadrian’s Wall circa the third century CE. W.H. Auden imagined the likely harsh conditions in his poem “Roman Wall Blues,” in which a soldier laments enduring wet wind and rain with “lice in my tunic and a cold in my nose.” We can now add chronic nausea and bouts of diarrhea to his list of likely woes, thanks to parasitic infections, according to a new paper published in the journal Parasitology.\nAs previously reported, archaeologists can learn a great deal by studying the remains of intestinal parasites in ancient feces. For instance, in 2022, we reported on an analysis of soil samples collected from a stone toilet found within the ruins of a swanky 7th-century BCE villa just outside Jerusalem. That analysis revealed the presence of parasitic eggs from four different species: whipworm, beef/pork tapeworm, roundworm, and pinworm. (It’s the earliest record of roundworm and pinworm in ancient Israel.)\nLater that same year, researchers from the University of Cambridge and the University of British Columbia analyzed the residue on an ancient Roman ceramic pot excavated at the site of a 5th-century CE Roman villa at Gerace, a rural district in Sicily. They identified the eggs of intestinal parasitic worms commonly found in feces—strong evidence that the 1,500-year-old pot in question was most likely used as a chamber pot.Read full article\nComments",
+      "content_length": 1414,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "UN elects former Iraqi president Barham Salih to lead UNHCR",
+      "link": "https://www.france24.com/en/americas/20251218-un-iraqi-president-barham-salih-unhcr",
+      "published": "2025-12-18T23:41:59",
+      "content": "The United Nations General Assembly on Thursday approved former Iraqi president Barham Salih as the next head of the UN Refugee Agency, the first from the Middle East since the late 1970s. The 193-member body elected the 65-year-old by consensus.",
+      "content_length": 246,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The TikTok US sale is finally happening",
+      "link": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
+      "published": "2025-12-18T23:18:34",
+      "content": "\n\n\n\t\n\t\t\n\nTikTok has finalized a deal to sell enough of its US business satisfy the divest-or-ban law, as initially reported by Axios, The Hollywood Reporter, and CNBC. According to a memo sent from CEO Shou Zi Chew to employees (included in full below) on Thursday, they are targeting a closing date of January 22nd, 2026. Once the deal is done, he writes that ownership stakes in TikTok USDS Joint Venture LLC will break down as follows:\n\nSpecifically, the U.S. joint venture will be 50% held by a consortium of new investors, including Oracle, Silver Lake and MGX with 15% each; 30.1% held by affiliates of certain existing investors of ByteDance; and 19. …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Repatriated Frenchwoman sentenced to 10 years for terrorist conspiracy",
+      "link": "https://www.france24.com/en/france/20251218-repatriated-second-frenchwoman-syrian-camps-is",
+      "published": "2025-12-18T23:16:25",
+      "content": "A French court on Thursday sentenced a woman repatriated from Syrian camps holding Islamic State group members to 10 years in prison for terrorist conspiracy. Carole Sun, 30, left France for Syria in 2014 and was arrested by Kurdish forces in 2017 as the Islamic State group collapsed.",
+      "content_length": 285,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump commits to Moon landing by 2028, followed by a lunar outpost two years later",
+      "link": "https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/",
+      "published": "2025-12-18T23:05:42",
+      "content": "A couple of hours after a judge formally swore in private astronaut Jared Isaacman as the next administrator of NASA on Thursday, President Donald Trump signed an executive order outlining his space policy objectives for the next three years.\nThe executive order, titled “Ensuring American Space Superiority,” states that the country must “pursue a space policy that will extend the reach of human discovery, secure the nation’s vital economic and security interests, unleash commercial development, and lay the foundation for a new space age.”\nWhite House sets priorities\nThere is nothing Earth-shattering in the new executive order, as much of it builds on previously announced policies that span multiple administrations. There are some notable points in the document that clearly reflect the White House’s priorities, though, and Isaacman’s leadership of NASA.Read full article\nComments",
+      "content_length": 890,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Tren de Aragua mastermind charged in US federal court with racketeering, drug charges",
+      "link": "https://www.france24.com/en/americas/20251218-tren-de-aragua-mastermind-charged-us-federal-court",
+      "published": "2025-12-18T22:54:49",
+      "content": "An alleged leader of Venezuela’s Tren de Aragua gang was charged in New York with racketeering and drug and firearms offences, US officials said on Thursday. Hector Rusthenford Guerrero Flores, 42, whose whereabouts are unknown, faces a $5 million US reward for information leading to his arrest or conviction.",
+      "content_length": 310,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "YouTube bans two popular channels that created fake AI movie trailers",
+      "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
+      "published": "2025-12-18T22:39:54",
+      "content": "Google is generally happy to see people using generative AI tools to create content, and it’s doubly happy when they publish it on its platforms. But there are limits to everything. Two YouTube channels that attracted millions of subscribers with AI-generated movie trailers have been shuttered.\nScreen Culture and KH Studio flooded the site with fake but often believable trailers. The channels, which had a combined audience of more than 2 million subscribers, became a thorn in Google’s side in early 2025 when other YouTubers began griping about their sudden popularity in the age of AI. The channels produced videos with titles like “GTA: San Andreas (2025) Teaser Trailer” and “Malcom In The Middle Reboot (2025) First Trailer.” Of course, neither of those projects exist, but that didn’t stop them from appearing in user feeds.\nGoogle demonetized the channels in early 2025, forcing them to adopt language that made it clear they were not official trailers. The channels were able to monetize again, but the disclaimers were not consistently used. Indeed, many of the most popular videos from those channels in recent months included no “parody” or “concept trailer” disclosures. Now, visiting either channel’s page on YouTube produces an error reading, “This page isn’t available. Sorry about that. Try searching for something else.”Read full article\nComments",
+      "content_length": 1367,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Threads wants to be the app you can’t wait to open in the morning",
+      "link": "https://www.theverge.com/column/847806/head-of-threads-interview",
+      "published": "2025-12-18T22:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week.\nBy all measures, Meta's Threads app had a very good year. The app was Apple's second-most-downloaded iOS app of the year, trailing only ChatGPT. Threads now has 400 million monthly and 150 million daily active users.\n\"There are consumers who are ravenous to consume the content.\"\nThat growth is still coming mainly from Meta's other platforms. \"We do a lot of work in Instagram and Facebook to show off what's going on in Threads,\" Connor Hayes, the head of Threads, told me this week. The playbook: s …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Oh snap, I have a new favorite phone grip",
+      "link": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
+      "published": "2025-12-18T22:29:23",
+      "content": "\n\n\n\t\n\tThe OhSnap Snap Grip 5 next to a Syncwire magnetic ring. | Photo by Sean Hollister / The Verge\t\n\nIn 2022, we called a simple magnetic ring from Anker the best MagSafe phone grip, but things have evolved dramatically since then! You can buy two or even three magnetic rings joined at the hip these days to wield your iPhone, recent Pixel, or really any phone if you stick a magnetic case or included mounting ring on the back. \nBut the best I've yet tried are the double-sided $15-$25 Syncwire Magnetic Phone Ring Holder - and, more recently, the $40 OhSnap Snap Grip 5. \n\n  @verge Just when I thought I'd found the perfect PopSocket alternative for my phone, the fifth-gen OhSnap Snap Grip came along. The magnets are so good now! It's so thin! …\nRead the full story at The Verge.",
+      "content_length": 786,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Peacock showing ads upon launch opens the door for more disruptive streaming ads",
+      "link": "https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/",
+      "published": "2025-12-18T22:18:21",
+      "content": "Peacock subscribers will see ads immediately upon opening the streaming app or website next year. It’s a bold new strategy for attracting advertisers—something that’s been increasingly important to subscription-based streaming services—but it also risks alienating viewers\nAs reported by Variety, the new type of ads will display on the profile selection page that shows when a subscriber launches Peacock. Starting next year, instead of the profile page just showing your different Peacock profiles, most of the page will be dominated by an advertorial image. The circles of NBCUniversal-owned characters selected for user profiles will be relegated to a vertical column on the screen’s left side, as you can see here.\nTo avoid seeing what NBCUniversal is calling “Arrival Ads” every time you open Peacock, you need to subscribe to Peacock’s most expensive plan, which is ad-free and starts at $17 per month (Peacock’s ad-based plans start at $8/month.)Read full article\nComments",
+      "content_length": 980,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Steam’s annual winter sale is here — these are the best games to get",
+      "link": "https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals",
+      "published": "2025-12-18T22:15:00",
+      "content": "\n\n\n\t\n\t\t\n\nIf you’re lucky enough to have a bit of time off around the holidays, we have great news: Steam’s annual winter sale kicked off today, and will run through Monday, January 5th at 1PM ET. Now’s a great time to stock up on some of the best games of 2025 at a solid discount, or add some classics to your backlog if you’ve got a hole in your library. Thousands of games are on sale, but we’ve picked out some highlights to help you get started.&nbsp;\n\nWe were surprised to see Hollow Knight: Silksong for $15.99 ($4 off) given its modest price and how recently it came out. You can also pick up Clair Obscur: Expedition 33 for $39.99 ($10 off), Silent Hill F for $41.99 ($28 off), and Assassin’s Creed Shadows for $34.99 ($35 off). These games are all on sale just a few months after their release. \n\nSome of the most notable remakes and remasters of 2025 have also been discounted. You can snag Final Fantasy Tactics &#8211; The Ivalice Chronicles for $39.99 ($10 off), Trails in the Sky 1st Chapter for $44.99 ($15 off), Tony Hawk’s Pro Skater 3 + 4 for $29.99 ($20 off), Dragon Quest III HD-2D Remake for $35.99 ($24 off), and Metal Gear Solid Delta: Snake Eater for $41.99 ($28 off). These titles are worth trying even if you’re familiar with the originals. \n\nSteam’s sales are an opportune opportunity to pick up older titles that have stood the test of time, some of which you can get for under a couple of bucks. Too many great games fall into that category, but we’d be remiss if we didn’t call your chance to grab Stardew Valley for $8.99 ($6 off), The Elder Scrolls V: Skyrim Special Edition for $9.99 ($30 off), Slay the Spire for $2.49 ($22.50 off), Resident Evil 4 for $15.99 ($24 off), Castle Crashers for $1.49 ($13.50 off), Bastion for $2.99 ($12 off), and To the Moon for $1.99 ($8 off). \n\nYou can go even further back in the history of gaming and pick up collections of 8- and 16-bit games, including the chance to pick up Mega Man X Legacy Collection for $7.99 ($12 off), Castlevania Anniversary Collection for $7.99 ($12 off), and Contra Anniversary Collection for $7.99 ($12 off). There’s a little something for everybody in the sale, and we encourage you to mix and match contemporary and classic games to avoid getting bored.\nHollow Knight: Silksong\n\nWhere to Buy: $19.99 $15.99 at Steam\nHollow Knight: Silksong is a tough-as-nails Metroidvania whose boss battles and platforming sequences reward your tenacity as you slowly get better. As Hornet, you’ll cautiously ascend to the top of the world, using weapons and traps to take down over 200 enemies and more than 40 bosses. Be mindful that letting your guard down can be lethal. If you haven’t gotten around to playing the original Hollow Knight, you can pick it up for $7.49 ($7.49 off) during the sale. Read our hands-on impressions.&nbsp;\nSilent Hill F\n\nWhere to Buy: $69.99 $41.99 at Steam\nSilent Hill F is an exceptional survival horror game set in 1960s Japan. Protagonist Hinako Shimizu is a high school student who has to defeat actual monsters with whatever weapons she can find while also wrestling with inner turmoil caused by familial trauma. Her personal growth, a great script, and terrific score may compel you to replay the game to see all five of its possible endings. Read our review.\nResident Evil 4\n\nWhere to Buy: $39.99 $15.99 at Steam\nIf you prefer a healthy dose of action in your horror games, the 2023 remake of Resident Evil 4 is an excellent choice. Federal agent Leon Kennedy is sent to retrieve the president’s daughter from a remote Spanish village, and ends up uncovering a murderous cult and plenty of gnarly monsters. The original game’s story has been fleshed out, and its script has been reworked without losing all of its campiness. Read our review.\nClair Obscur: Expedition 33\n\nWhere to Buy: $49.99 $39.99 at Steam\nClair Obscur: Expedition 33 is a turn-based RPG with an engaging battle system that rewards you for mastering its dodge and parry system. Pulling off the right parry, which takes time to learn, and you can turn the tide of a battle. The game has an atmospheric soundtrack along with a story our reviewer found heart-wrenching, stirring, and humorous. It won Game of the Year at the 2025 Game Awards, too. Read our review. \nAssassin’s Creed Shadows\n\nWhere to Buy: $69.99 $34.99 at Steam\nAssassin&#8217;s Creed Shadows has two big strengths: Its setting (medieval Japan) and its two lead characters, Naoe and Yasuke. Each character has a unique gameplay style, which gives you a couple of ways to approach each situation stealthily or by using brute force. Shadows’ open world is huge, and the little activities we found on our way to the big quests, and codex entries offering exhaustive details about the game’s setting made it fun to traverse. Read our review.",
+      "content_length": 4795,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Viral videos question Morocco's AFCON stadiums after deadly floods",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20251218-viral-videos-question-morocco-s-afcon-stadiums-after-deadly-floods",
+      "published": "2025-12-18T22:08:47",
+      "content": "In Morocco, at least 37 people have been killed after flash floods swept through the city of Safi. Officials say it’s the country’s deadliest flooding disaster in more than a decade. Online, viral videos have since claimed that torrential rain also severely damaged two major stadiums in Rabat - days before AFCON 2025 is set to kick off. In this edition of Truth or Fake, we trace the origin of these AI-generated videos, and confirm that Morocco is indeed ready to host the competition.",
+      "content_length": 488,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US announces $11 billion arms package for Taiwan, largest ever",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20251218-us-announces-11-billion-arms-package-for-taiwan-largest-ever",
+      "published": "2025-12-18T21:58:28",
+      "content": "President Donald Trump's administration has announced a massive package of arms sales to Taiwan valued at more than $10 billion that includes medium-range missiles, howitzers and drones, drawing an angry response from China. FRANCE 24's Monte Francis speaks with Rex Li, Professor of International Relations at King's College London.",
+      "content_length": 333,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "OpenAI and Anthropic will start predicting when users are underage",
+      "link": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude",
+      "published": "2025-12-18T21:55:59",
+      "content": "\n\n\n\t\n\t\t\n\nOpenAI and Anthropic are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how ChatGPT should interact with users between the ages of 13 and 17, Anthropic is working on a new way to identify and boot users who are under 18.\nOn Thursday, OpenAI announced that ChatGPT's Model Spec - the guidelines for how its chatbot should behave - will include four new principles for users under 18. Now, it aims to have ChatGPT \"put teen safety first, even when it may conflict with other goals.\" That means guiding teens toward safer options when other user interests, like \"maximum intellectual freedom,\" conflict with saf …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Von der Leyen kündigt offenbar Verschiebung der Mercosur-Unterzeichnung an",
+      "link": "https://www.tagesschau.de/ausland/europa/mercosur-verschiebung-100.html",
+      "published": "2025-12-18T21:54:29",
+      "content": "   Eigentlich sollte das Mercosur-Handelsabkommen am Samstag unterzeichnet werden - doch einige Länder stellten sich quer. Nach übereinstimmenden Berichten verschiebt EU-Kommissionspräsidentin von der Leyen dies nun auf das kommende Jahr.[mehr]",
+      "content_length": 244,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/",
+      "published": "2025-12-18T21:35:58",
+      "content": "If you’ve been too busy planning for Half-Life 3 to take part in this year’s Ars Technica Charity Drive sweepstakes, don’t worry. You still have time to donate to a good cause and get a chance to win your share of over $4,000 worth of swag (no purchase necessary to win).\nIn the first week or so of the drive, over 300 readers have contributed nearly $18,000 to either the Electronic Frontier Foundation or Child’s Play as part of the charity drive (Child’s Play has a roughly 55/45 donation lead at the moment). That’s still a long way from 2020’s record haul of over $58,000, but there’s plenty of time until the Charity Drive wraps up on Friday, January 2, 2026.\nThat doesn’t mean you should put your donation off, though. Do yourself and the charities involved a favor and give now while you’re thinking about it.Read full article\nComments",
+      "content_length": 843,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EU targets 41 additional vessels in Russia's shadow fleet",
+      "link": "https://www.france24.com/en/video/20251218-eu-targets-41-additional-vessels-in-russia-s-shadow-fleet",
+      "published": "2025-12-18T21:33:23",
+      "content": "The European Union on Thursday imposed sanctions on 41 more ships in Russia's shadow fleet, taking the total of designated vessels to almost 600. The EU has imposed 19 packages of sanctions against Russia so far, but Moscow has managed to adapt to most measures and is still selling millions of barrels of oil to India and China, albeit at discounts to global prices.",
+      "content_length": 367,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "RAM and SSD prices are still climbing—here’s our best advice for PC builders",
+      "link": "https://arstechnica.com/gadgets/2025/12/for-just-a-couple-of-months-in-the-middle-of-2025-it-was-an-ok-time-to-build-a-pc/",
+      "published": "2025-12-18T21:31:03",
+      "content": "The first few months of 2025 were full of graphics card reviews where we generally came away impressed with performance and completely at a loss on availability and pricing. The testing in these reviews is useful regardless, but when it came to extra buying advice, the best we could do was to compare Nvidia’s imaginary pricing to AMD’s imaginary pricing and wait for availability to improve.\nNow, as the year winds down, we’re facing price spikes for memory and storage that are unlike anything I’ve seen in two decades of pricing out PC parts. Pricing for most RAM kits has increased dramatically since this summer, driven by overwhelming demand for these parts in AI data centers. Depending on what you’re building, it’s now very possible that the memory could be the single most expensive component you buy; things are even worse now than they were the last time we compared prices a few weeks ago.\n\n\n\nComponent\nAug. 2025 price\nNov. 2025 price\nDec. 2025 price\n\n\nPatriot Viper Venom 16GB (2 x 8GB) DDR-6000\n$49\n$110\n$189\n\n\nWestern Digital WD Blue SN5000 500GB\n$45\n$69\n$102*\n\n\nSilicon Power 16GB (2 x 8GB) DDR4-3200\n$34\n$89\n$104\n\n\nWestern Digital WD Blue SN5000 1TB\n$64\n$111\n$135*\n\n\nTeam T-Force Vulcan 32GB DDR5-6000\n$82\n$310\n$341\n\n\nWestern Digital WD Blue SN5000 2TB\n$115\n$154\n$190*\n\n\nWestern Digital WD Black SN7100 2TB\n$130\n$175\n$210\n\n\nTeam Delta RGB 64GB (2 x 32GB) DDR5-6400\n$190\n$700\n$800\n\n\n\nSome SSDs are getting to the point where they’re twice as expensive as they were this summer (for this comparison, I’ve swapped the newer WD Blue SN5100 pricing in for the SN5000, since the drive is both newer and slightly cheaper as of this writing). Some RAM kits, meanwhile, are around four times as expensive as they were in August. Yeesh.Read full article\nComments",
+      "content_length": 1771,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Trump administration imposes sanctions on two more ICC judges for investigating Israel",
+      "link": "https://www.france24.com/en/americas/20251218-trump-administration-imposes-sanctions-on-two-more-icc-judges-for-investigating-israel",
+      "published": "2025-12-18T21:16:52",
+      "content": "The International Criminal Court slammed a \"flagrant attack\" on its independence on Thursday after the United States imposed sanctions on two more judges over their role in investigating Israeli officials for possible war crimes in Gaza. Israel's Prime Minister Benjamin Netanyahu, who faces an ICC arrest warrant, praised Washington for its \"strong action\" against the court.",
+      "content_length": 376,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Instagram wants to limit hashtag spam",
+      "link": "https://www.theverge.com/news/847739/instagram-hashtag-spam-limit",
+      "published": "2025-12-18T21:16:33",
+      "content": "\n\n\n\t\n\t\t\n\nIf you're tired of seeing Instagram posts with a seemingly endless list of hashtags, Instagram is making a change to stop that. In a post today, Instagram chief Adam Mosseri said that the platform will now cap hashtags to five per post.\n\"While I know it can be tempting to use more, a few specific tags actually perform better than a long list of generic ones,\" Mosseri says on his \"Instagram advice\" channel. \"Quality over quantity is key.\" Mosseri notes that hashtags do help with search, but \"don't increase your reach\" - instead, you should \"focus on working out what kind of content resonates with your audience.\"\nInstagram has also worked to …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "M23 says started withdrawing troops from key DR Congo city",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251218-m23-says-started-withdrawing-troops-from-key-dr-congo-city",
+      "published": "2025-12-18T21:14:28",
+      "content": "In tonight's edition, Rwandan-backed M23 rebels say they have begun pulling out from the strategic town of Uvira in eastern DRC. Also, 11 detained Nigerian Air Force personnel have been released in Burkina Faso. And Sudanese football finds an unexpected new home in Rwanda.",
+      "content_length": 273,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Langwierige Gespräche auf dem EU-Gipfel zu russischen Vermögen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-russische-vermoegen-100.html",
+      "published": "2025-12-18T21:07:41",
+      "content": "   Für die Ukraine sind es entscheidende Stunden - aber eine Einigung der EU-Staaten scheint noch nicht in Sicht. In Brüssel laufen die Gespräche über die Nutzung russischer Vermögen. Können die Zögerer überzeugt werden?[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "School security AI flagged clarinet as a gun. Exec says it wasn’t an error.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/florida-schools-plan-to-vastly-expand-use-of-ai-that-mistook-clarinet-for-gun/",
+      "published": "2025-12-18T21:04:35",
+      "content": "A Florida middle school was locked down last week after an AI security system called ZeroEyes mistook a clarinet for a gun, reviving criticism that AI may not be worth the high price schools pay for peace of mind.\nHuman review of the AI-generated false flag did not stop police from rushing to Lawton Chiles Middle School. Cops expected to find “a man in the building, dressed in camouflage with a ‘suspected weapon pointed down the hallway, being held in the position of a shouldered rifle,'” a Washington Post review of the police report said.\nInstead, after finding no evidence of a shooter, cops double-checked with dispatchers who confirmed that a closer look at the images indicated that “the suspected rifle might have been a band instrument.” Among panicked students hiding in the band room, police eventually found the suspect, a student “dressed as a military character from the Christmas movie Red One for the school’s Christmas-themed dress-up day,” the Post reported.Read full article\nComments",
+      "content_length": 1006,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Donald Trump mocks former US presidents in White House plaques",
+      "link": "https://www.france24.com/en/video/20251218-donald-trump-mocks-former-us-presidents-in-white-house-plaques",
+      "published": "2025-12-18T20:59:39",
+      "content": "President Donald Trump has affixed partisan plaques to the portraits of all U.S. commanders in chief, himself included, on his Presidential Walk of Fame at the White House, describing Joe Biden as “sleepy,” Barack Obama as “divisive” and Ronald Reagan as a fan of a young Trump. FRANCE 24's Mark Owen speaks with Ian Reifowitz, Professor of History at SUNY-Empire State University.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "LLMs’ impact on science: Booming publications, stagnating quality",
+      "link": "https://arstechnica.com/science/2025/12/llms-impact-on-science-booming-publications-stagnating-quality/",
+      "published": "2025-12-18T20:54:36",
+      "content": "There have been a number of high-profile cases where scientific papers have had to be retracted because they were filled with AI-generated slop—the most recent coming just two weeks ago. These instances raise serious questions about the quality of peer review in some journals—how could anyone let a figure with terms like “runctitional,” “fexcectorn,” and “frymblal” through, especially given the ‘m’ in frymblal has an extra hump? But it has not been clear whether these high-profile examples are representative. How significantly has AI use been influencing the scientific literature?\nA collaboration of researchers at Berkeley and Cornell have decided to take a look. They’ve scanned three of the largest archives of pre-publication papers and identified ones that are likely to have been produced using Large Language Models. And they found that, while researchers produce far more papers after starting to use AI and the quality of the language used went up, the publication rate of these papers has dropped.\nSearching the archives\nThe researchers began by obtaining the abstracts of everything placed in three major pre-publication archives between 2018 and mid-2024. At the arXiv, this netted them 1.2 million documents; another 675,000 were found in the Social Science Research Network; and bioRxiv provided another 220,000. So, this was both a lot of material to work with and covered a lot of different fields of research. It also included documents that were submitted before Large Language Models were likely to be able to produce output that would be deemed acceptable.Read full article\nComments",
+      "content_length": 1609,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Bundestag lehnt BSW-Antrag zur Neuauszählung der Bundestagswahl ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-einspruch-bundestagswahl-neuauszaehlung-100.html",
+      "published": "2025-12-18T20:43:04",
+      "content": "   Das BSW ist bei der vergangenen Bundestagswahl nur mit wenigen tausend Stimmen an der Fünf-Prozent-Hürde gescheitert. Der Bundestag hat eine Neuauszählung der Wahl nun endgültig abgelehnt. [mehr]",
+      "content_length": 198,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "LG forced a Copilot web app onto its TVs but will let you delete it",
+      "link": "https://www.theverge.com/news/847685/lg-copilot-web-app-delete",
+      "published": "2025-12-18T20:31:51",
+      "content": "\n\n\n\t\n\t\t\n\nLG says it will let users delete the Microsoft Copilot shortcut it installed on newer TVs after several reports highlighted the unremovable icon. In a statement to The Verge, LG spokesperson Chris De Maria says the company \"respects consumer choice and will take steps to allow users to delete the shortcut icon if they wish.\"\nLast week, a user on the r/mildlyinfuriating subreddit posted an image of the Microsoft Copilot icon in their lineup of apps on an LG TV, with no option to delete it. \"My LG TV's new software update installed Microsoft Copilot, which cannot be deleted,\" the post says. The post garnered more than 36,000 upvotes as people …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI",
+      "link": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
+      "published": "2025-12-18T20:31:22",
+      "content": "\n\n\n\t\n\t\t\n\nGoogle expanded Gemini's AI verification feature to videos made or edited with the company's own AI models. Users can now ask Gemini to determine if an uploaded video is AI-generated by asking, \"Was this generated using Google AI?\" \nGemini will scan the video's visuals and audio for Google's proprietary watermark called SynthID. The response will be more than a yes or no, Google says. Gemini will point out specific times when the watermark appears in the video or audio. The company rolled out this capability for images in November, also limited to images made or edited with Google AI. \nSome watermarks can be easily scrubbed, as OpenAI lear …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "'This night may show us whether Europe is capable of being a real leader'",
+      "link": "https://www.france24.com/en/video/20251218-this-night-may-show-us-whether-europe-is-capable-of-being-a-real-leader",
+      "published": "2025-12-18T20:30:51",
+      "content": "As discussions on the use of frozen Russian assets for Ukraine continue at the EU summit in Brussels, Ukrainian MP Lisa Yasko tells FRANCE 24 that 'this evening, this night may show us whether Europe is capable of being a real leader or fear of Russia will win' adding that 'this is a decision not only about giving frozen assets for Ukraine, this is a decision about international order'.",
+      "content_length": 389,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Diplomats say EU-Mercosur treaty signing postponed to January",
+      "link": "https://www.france24.com/en/video/20251218-diplomats-say-eu-mercosur-treaty-signing-postponed-to-january",
+      "published": "2025-12-18T20:23:28",
+      "content": "EU chief Ursula von der Leyen told EU leaders at a summit in Brussels that the signing of a free trade deal with South American bloc Mercosur would be postponed to January, according to officials. The European Commission wanted to have the pact to create the world's biggest free-trade area sealed this week, but the plan was thrown into disarray after Italy joined fellow heavyweight France in demanding a delay seeking further protection for the farming sector. FRANCE 24's Armen Georgian reports.",
+      "content_length": 499,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Signing of EU-Mercosur trade pact postponed, Von der Leyen tells EU leaders",
+      "link": "https://www.france24.com/en/europe/20251218-brazil-lula-opens-to-delaying-eu-mercosur-deal-europeans-wrangle-over-trade-pact",
+      "published": "2025-12-18T20:01:03",
+      "content": "",
+      "content_length": 0,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Neural DSP models John Mayer’s entire amp and effects rig—and it sounds great",
+      "link": "https://arstechnica.com/culture/2025/12/neuraldsp-models-john-mayers-entire-amp-and-effects-rig-and-it-sounds-great/",
+      "published": "2025-12-18T19:27:24",
+      "content": "Guitarists today are spoiled for choice, and that goes doubly true for players who use computer-based amp modeling software. I’m one such player, and I don’t miss the size, weight, deafening volume, or cost of owning an amp and cabinet collection, to say nothing of all those pedals and cables. For clean to mid-gain tones alone, I already have more terrific options than I need, including Neural DSP’s Tone King and Cory Wong and Mateus Asato, Polychrome DSP’s Lumos, and Universal Audio’s new Paradise Guitar Studio. All work slightly differently, but they can each output record-ready tones that are really, really close to the (often incredibly expensive) hardware that they model, and they each give you plenty of great-sounding presets to start from.\nSo do we really need one amp sim package?\nNeural DSP thinks we do, because the Finnish company just dropped a major new release yesterday called Archetype: John Mayer X. It doesn’t model Mayer’s type of gear but his actual hardware units, along with all the actual settings he uses in the studio and on stage. It even has some presets that he designed. Which is great if you want to sound like John Mayer—but what does the software offer for those of us not trying to cover Continuum?Read full article\nComments",
+      "content_length": 1267,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Decision time in Brussels: Will EU ignore threats and seize frozen Russian assets?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251218-decision-time-in-brussels-will-eu-ignore-threats-and-seize-frozen-russian-assets",
+      "published": "2025-12-18T19:21:46",
+      "content": "Some brand it 'the most crucial EU summit' since the financial crisis of 2008. A last chance to stave off bankruptcy for a Ukraine government that might run out of money by the end of spring.",
+      "content_length": 191,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Denmark says Russia was behind two ‘destructive and disruptive’ cyber-attacks",
+      "link": "https://www.theguardian.com/world/2025/dec/18/denmark-says-russia-was-behind-two-destructive-and-disruptive-cyber-attacks",
+      "published": "2025-12-18T19:19:08",
+      "content": "Intelligence service says attacks were work of groups connected to Russian state in ‘clear evidence’ of hybrid warThe Danish government has accused Russia of being behind two “destructive and disruptive” cyber-attacks in what it describes as “very clear evidence” of a hybrid war.The Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November. Continue reading...",
+      "content_length": 596,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Späterer Start macht eher Weltklasse",
+      "link": "https://www.tagesschau.de/wissen/forschung/wunderkinder-psychologie-karriere-druck-100.html",
+      "published": "2025-12-18T19:03:25",
+      "content": "   Wunderkind Mozart und Golfer Woods sind Ausnahmen: Eine Studie zeigt, dass die meisten erwachsenen Spitzenperformer gar keine Wunderkinder waren. Vielfältige Interessen und langsame Entwicklung seien viel erfolgversprechender. Von Julia Nestlen.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nach Amokfahrt in Mannheim - Täter wird zu lebenslanger Haft verurteilt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-mannheim-amokfahrt-100.html",
+      "published": "2025-12-18T18:58:38",
+      "content": "   Neun Monate nach der Amokfahrt in Mannheim ist der Täter zu lebenslanger Haft verurteilt worden - auch wenn das Gericht eine verminderte Schuldfähigkeit feststellte. Er wird nun in einer psychiatrischen Klinik untergebracht. Von C. Kehlbach.[mehr]",
+      "content_length": 250,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "So steht es um die Aufnahmeprogramme für Afghanen",
+      "link": "https://www.tagesschau.de/afghanistan-aufnahmeprogramme-faq-100.html",
+      "published": "2025-12-18T18:29:27",
+      "content": "   Der Umgang mit Afghaninnen und Afghanen, die in Pakistan auf eine Ausreise nach Deutschland warten, sorgt spätestens seit dem Bundestagswahlkampf für Diskussionen. Wie ist der Stand bei den Aufnahmeprogrammen? Von P. Eckstein und C. Kornmeier.[mehr]",
+      "content_length": 252,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Weimer trifft Musiker: \"Wenige verdienen viel und viele fast gar nichts\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/streaming-musiker-kanzleramt-100.html",
+      "published": "2025-12-18T18:18:55",
+      "content": "   Musiker verdienen im digitalen Zeitalter nicht mehr so viel wie früher. Beim Streamen erhält der Künstler nur wenig von der Gebühr. Deshalb hat Kulturstaatsminister Weimer Popstars ins Kanzleramt geladen. Von Nicole Markwald. [mehr]",
+      "content_length": 235,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Nigerians call for government action against worsening insecurity",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20251218-nigerians-call-for-government-action-against-worsening-insecurity",
+      "published": "2025-12-18T18:18:55",
+      "content": "Hundreds of members of Nigeria's main labour union take to the streets, demanding urgent government action against worsening insecurity, including kidnappings and killings that they say affects their safety and livelihoods. Also, Sierra Leone declares its Mpox epidemic over, signalling the end of a health emergency that saw over 5,000 cases and 60 fatalities in the country. Survivors, though, say they remain discriminated against. Plus the final preparations are underway in Morocco, which is gearing up to host the Africa Cup of Nations from this Sunday.",
+      "content_length": 559,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "NASA will soon find out if the Perseverance rover can really persevere on Mars",
+      "link": "https://arstechnica.com/space/2025/12/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars/",
+      "published": "2025-12-18T18:12:18",
+      "content": "When the Perseverance rover arrived on Mars nearly five years ago, NASA officials thought the next American lander to take aim on the red planet would be taking shape by now.\nAt the time, the leaders of the space agency expected this next lander could be ready for launch as soon as 2026—or more likely in 2028. Its mission would have been to retrieve Martian rock specimens collected by the Perseverance rover, then billed as the first leg of a multilaunch, multibillion-dollar Mars Sample Return campaign.\nHere we are on the verge of 2026, and there’s no sample retrieval mission nearing the launch pad. In fact, no one is building such a lander at all. NASA’s strategy for a Mars Sample Return, or MSR, mission remains undecided after the projected cost of the original plan ballooned to $11 billion. If MSR happens at all, it’s now unlikely to launch until the 2030s.Read full article\nComments",
+      "content_length": 897,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "EuGH-Urteil: Ein entscheidender Moment für Polens Justiz",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-urteil-polen-reaktionen-100.html",
+      "published": "2025-12-18T18:11:10",
+      "content": "   Mit dem EuGH-Schiedsspruch gegen Polen sei der Staat zum Handeln gezwungen, sagt Justizminister Zurek. Die für die strittige Justizreform verantwortliche Ex-Regierungspartei PiS bleibt auf ihrem Standpunkt. Von Lukasz Tomaszewski.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Landwirte protestieren in Brüssel gegen das Mercosur-Handelsabkommen",
+      "link": "https://www.tagesschau.de/ausland/europa/mercosur-landwirte-bruessel-protest-100.html",
+      "published": "2025-12-18T18:03:31",
+      "content": "   In Brüssel steht das Freihandelsabkommen kurz vor der Abstimmung. Wegen Ängsten vor Billigimporten aus Südamerika protestieren nun Landwirte mit ihren Traktoren in Brüssel gegen das Mercosur-Abkommen.[mehr]",
+      "content_length": 209,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Internet Governance: Das IGF bekommt ein dauerhaftes UN-Mandat",
+      "link": "https://www.heise.de/news/Internet-Governance-Das-IGF-bekommt-ein-dauerhaftes-UN-Mandat-11120416.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T18:02:00",
+      "content": "Die Vereinten Nationen haben sich am Mittwoch in New York darauf verständigt, das Internet Governance Forum (IGF) als ständige UN-Institution einzurichten. ",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukraine may need to cut drone production if no deal reached on frozen Russian assets, says Zelenskyy – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/dec/18/eu-frozen-russian-assets-ukraine-war-europe-latest-news-updates",
+      "published": "2025-12-18T17:59:16",
+      "content": "Ukrainian president says case for transfer of assets to fund war effort is ‘morally clear and just’ Germany’s chancellor Friedrich Merz confirms his support for the EU’s reparations loan, saying he sees “no better option.”He diplomatically acknowledges Belgium’s concerns, and says he hopes “we can address them together” to “send a signal of strength and resolve … towards Russia.” Continue reading...",
+      "content_length": 402,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "For the lazy techie: These are Ars staff’s last-minute holiday gift picks",
+      "link": "https://arstechnica.com/shopping/2025/12/for-the-lazy-techie-these-are-ars-staffs-last-minute-holiday-gift-picks/",
+      "published": "2025-12-18T17:55:22",
+      "content": "The holidays have snuck up on us. How is it already that time?\nIf you’re on top of things and have already bought all your Christmas gifts, I commend you. Not all of us are so conscientious. In fact, one of us is so behind on holiday prep that he is not only running late on buying gifts; he’s also behind on publishing the Ars staff gift guide he said he’d write. (Whoever could we be talking about?)\nSo for my fellow last-minute scramblers, I polled Ars writers and editors for gift ideas they know will be solid because they’ve actually used them. As such, you’ll find gift options below that Ars staffers have used enough to feel good about recommending. Further, I made sure all of these are available for delivery before Christmas as of today, at least where I live.Read full article\nComments",
+      "content_length": 798,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "A decade on, Greek island of Lesbos remains symbol of Europe's migration crisis",
+      "link": "https://www.france24.com/en/tv-shows/focus/20251218-a-decade-on-greek-island-of-lesbos-remains-symbol-of-europe-s-migration-crisis",
+      "published": "2025-12-18T17:50:53",
+      "content": "For more than a decade, the Greek island of Lesbos has been a symbol of Europe's migration crisis. Located close to Turkey, the island was a major entry point to the European Union back in 2015. But since then, arrivals have sharply decreased as Europe has tightened its border controls and outsourced part of its migration policy. Mortaza Behboudi reports from Lesbos, where refugees have often suffered a traumatic journey.",
+      "content_length": 425,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Einigung auf Digitalpakt 2.0: Bis 2030 fünf Milliarden Euro für Schulen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitalpakt-120.html",
+      "published": "2025-12-18T17:41:03",
+      "content": "   Kurz vor der Weihnachtspause haben sich Bund und Länder nach langer Beratungsphase auf den Digitalpakt 2.0 geeinigt. Damit sollen fünf Milliarden Euro bis 2030 in digitale Bildung an Schulen fließen.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Zu Schadenersatz verpflichtet: Teilerfolg für Hoteliers gegen Booking.com",
+      "link": "https://www.heise.de/news/Streit-ueber-Bestpreis-Teilerfolg-fuer-ueber-tausend-Hoteliers-gegen-Booking-com-11120357.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T17:08:00",
+      "content": "Das Landgericht Berlin hat geurteilt: Booking.com haftet prinzipiell für Schäden, die durch unzulässige Preisvorgaben entstanden sind. 1099 Kläger profitieren.",
+      "content_length": 159,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Christmas ornaments: Did the French invent them?",
+      "link": "https://www.france24.com/en/video/20251218-christmas-ornaments-did-the-french-invent-them",
+      "published": "2025-12-18T17:03:43",
+      "content": "🎄 Once upon a time, people would use apples and other fruits to decorate their #Christmas trees. So how did we end up with glass balls? Turns out a French glassblower might have had something to do with it…",
+      "content_length": 206,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Fake French coup videos go viral, traced to Burkinabé student",
+      "link": "https://www.france24.com/en/video/20251218-fake-french-coup-videos-go-viral-traced-to-burkinab%C3%A9-student",
+      "published": "2025-12-18T17:01:57",
+      "content": "Earlier this week, several AI-generated videos claiming a coup d’état in France were posted on Facebook. The fake clips quickly went viral, prompting outrage from the Élysée Palace. An investigation by Le Monde revealed that a young Burkinabé student, eager to make a name for himself, was behind the videos. The incident highlights how platforms like Meta still lack robust safeguards against the spread of fake content, as FRANCE 24's Emerald Maxwell explains.",
+      "content_length": 462,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Digitalpakt 2.0 – erneut 5 Milliarden, die nun hälftig geteilt werden",
+      "link": "https://www.heise.de/news/Digitalpakt-2-0-erneut-5-Milliarden-die-nun-haelftig-geteilt-werden-11120161.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T16:45:00",
+      "content": "Wie der versprochene Digitalpakt 2.0 genau aussehen wird, blieb lange unsicher. Nun gibt es eine letzte politische Einigung. Eine Dauerlösung ist sie nicht.",
+      "content_length": 156,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Truth Social plus Fusionsenergie: Trump-Firma fusioniert mit TAE Technologies",
+      "link": "https://www.heise.de/news/Truth-Social-plus-Fusionsenergie-Trump-Firma-fusioniert-mit-TAE-Technologies-11120245.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T16:44:00",
+      "content": "Die Medienfirma der Familie Trump, die bislang primär für Truth Social bekannt ist, macht nun auch Fusionsenergie. Dafür sorgt eine Fusion mit TAE Technologies.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Windows: Microsoft will SSD-Performance massiv verbessern",
+      "link": "https://www.heise.de/news/Windows-Microsoft-will-SSD-Performance-massiv-verbessern-11120249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T16:23:00",
+      "content": "Microsoft erneuert seinen Software-Stack für Datenträger. Zuerst ist Windows Server 2025 dran. Windows 11 folgt hoffentlich.",
+      "content_length": 124,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Brazilian president vows to veto bill cutting Jair Bolsonaro’s prison term",
+      "link": "https://www.theguardian.com/world/2025/dec/18/brazilian-congress-passes-bill-cut-jair-bolsonaro-prison-term",
+      "published": "2025-12-18T16:12:44",
+      "content": "Lula acknowledges his decision to uphold 27-year sentence could be overridden by conservative lawmakers Brazil’s president, Luiz Inácio Lula da Silva, has promised to veto a bill passed by congress to reduce the prison term of Jair Bolsonaro, the former president who was sentenced to more than 27 years in prison for masterminding an attempted coup to overturn the 2022 elections.Lawmakers passed the bill late on Wednesday after it was approved last week by the lower house. On Thursday, Brazil’s leftist president – who, investigations showed, was the target of an assassination plan as part of the coup plot – acknowledged his veto could be overridden by the largely conservative congress. Continue reading...",
+      "content_length": 713,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bekommt der BND durch ein neues Gesetz viel mehr Befugnisse?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-gesetz-befugnisse-100.html",
+      "published": "2025-12-18T16:09:46",
+      "content": "   Der Bundesnachrichtendienst soll ein neues Gesetz bekommen. Der Entwurf, der WDR, NDR und SZ vorliegt, zeigt: Es geht künftig um mehr als nur Spionage. Der Geheimdienst soll auch Sabotage verüben dürfen.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EuGH stärkt Rechte Geflüchteter-Frontex haftet bei illegalen Pushbacks",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-frontex-100.html",
+      "published": "2025-12-18T16:08:18",
+      "content": "   Frontex muss die Grundrechte von Asylbewerbern schützen und kann bei rechtswidrigen Abschiebungen in die Pflicht genommen werden - das hat der EuGH entschieden. Das heißt, auch Frontex haftet bei illegalen Pushbacks. Von Max Bauer.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Urteil des EuGH: Polnisches Verfassungsgericht verstieß gegen EU-Prinzipien",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-polen-urteil-100.html",
+      "published": "2025-12-18T15:50:45",
+      "content": "   EU-Recht hat üblicherweise Vorrang vor nationalem Recht. Doch Polens Verfassungsgericht hat sich in der Vergangenheit gleich zweimal geweigert, das anzuerkennen. Der EuGH hat Polen dafür nun scharf gerügt. Von K. Hempel.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "USA und Russland planen laut US-Medien Ukraine-Beratungen in Miami",
+      "link": "https://www.tagesschau.de/ausland/ukraine-krieg-beratungen-usa-russland-100.html",
+      "published": "2025-12-18T15:15:47",
+      "content": "   Im Ringen um einen Waffenstillstand in der Ukraine will Russland als Nächstes erneut mit den USA beraten. Medienberichten zufolge könnte das bereits am Wochenende in Miami geschehen. Offiziell ist das Treffen aber nicht bestätigt.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Studie untersucht Fluchtentscheidungen im Frühjahr 2022",
+      "link": "https://www.tagesschau.de/wissen/flucht-gruende-ukraine-studie-100.html",
+      "published": "2025-12-18T15:05:37",
+      "content": "   Etwa vier Millionen Menschen flohen bei Kriegsbeginn aus der Ukraine. Wen sie in der Heimat zurücklassen mussten, in welche EU-Staaten sie gegangen sind und warum - Fluchtentscheidungen wie diese hat eine Studie untersucht. Von Anette Kolb.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EU-Gipfel zur Ukraine: Debatte um russische Vermögen geht weiter",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-130.html",
+      "published": "2025-12-18T15:04:14",
+      "content": "   Darüber, ob zur Unterstützung der Ukraine russisches Vermögen genutzt werden darf, herrscht in der EU keine Einigkeit. Beim Gipfel heute in Brüssel mahnte Präsident Selenskyj zur Eile. Kanzler Merz machte bereits Zugeständnisse.[mehr]",
+      "content_length": 237,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US announces more than $10bn of arms sales to Taiwan",
+      "link": "https://www.theguardian.com/world/2025/dec/18/us-announces-more-than-10bn-of-arms-sales-to-taiwan",
+      "published": "2025-12-18T15:01:11",
+      "content": "Package includes medium-range missiles, howitzers and drones, and has drawn an angry response from ChinaThe maps that show how China’s military is squeezing TaiwanThe Trump administration has announced a massive package of arms sales to Taiwan valued at more than $10bn that includes medium-range missiles, howitzers and drones, drawing an angry response from China.The state department announced the sales late on Wednesday during a nationally televised address by president Donald Trump, who made scant mention of foreign policy issues and did not speak about China or Taiwan at all. US-Chinese tensions have ebbed and flowed during Trump’s second term, largely over trade and tariffs but also over China’s increasing aggressiveness toward Taiwan, which Beijing has said must unify with the People’s Republic of China. Continue reading...",
+      "content_length": 840,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Diskriminierung bei der Wohnungssuche: BGH prüft Makler-Haftung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bgh-diskriminierung-wohnungssuche-100.html",
+      "published": "2025-12-18T14:53:06",
+      "content": "   Unter ihrem pakistanischen Nachnamen war die Wohnungssuche erfolglos - mit deutsch klingendem Nachnamen bekam Frau Waseem Besichtigungstermine. Sie verklagte daraufhin den Makler. Nun liegt der Fall beim Bundesgerichtshof. Von P. Raillon.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Does swearing make you stronger? Science says yes.",
+      "link": "https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/",
+      "published": "2025-12-18T14:46:33",
+      "content": "If you’re human, you’ve probably hollered a curse word or two (or three) when barking your shin on a table edge or hitting your thumb with a hammer. Perhaps you’ve noticed that this seems to lessen your pain. There’s a growing body of scientific evidence that this is indeed the case. The technical term is the “hypoalgesic effect of swearing.” Cursing can also improve physical strength and endurance, according to a new paper published in the journal American Psychologist.\nAs previously reported, co-author Richard Stephens, a psychologist at Keele, became interested in studying the potential benefits of profanity after noting his wife’s “unsavory language” while giving birth and wondered if profanity really could help alleviate pain. “Swearing is such a common response to pain. There has to be an underlying reason why we do it,” Stephens told Scientific American after publishing a 2009 study that was awarded the 2010 Ig Nobel Peace Prize.\nFor that study, Stephens and his colleagues asked 67 study participants (college students) to immerse their hands in a bucket of ice water. They were then instructed to either swear repeatedly using the profanity of their choice or chant a neutral word. Lo and behold, the participants said they experienced less pain when they swore and were also able to leave their hands in the bucket about 40 seconds longer than when they weren’t swearing. It has been suggested that this is a primitive reflex that serves as a form of catharsis.Read full article\nComments",
+      "content_length": 1511,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Was ist los bei Outfittery? Phishingversuch per Kunden-Mailing",
+      "link": "https://www.heise.de/news/Phishingversuch-bei-Outfittery-Datenleck-beim-Kleiderversand-11119889.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T14:38:00",
+      "content": "Der Berliner Kleidungsversand bat Kunden um eine Aktualisierung ihrer Zahlungsdaten. Der Link in der E-Mail führte jedoch auf eine Phishing-Seite.",
+      "content_length": 146,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "‘You learn tricks to reduce it’: the smart bins measuring food waste in South Korea",
+      "link": "https://www.theguardian.com/environment/2025/dec/18/smart-bins-measuring-food-waste-south-korea",
+      "published": "2025-12-18T14:29:09",
+      "content": "Digital facilities that track wastage down to the gram have brought about behavioural change among users Min Geum-nan walks towards a metal bin beneath her apartment block in Gangdong district, eastern Seoul carrying a small bag of vegetable peelings. She taps her resident card on the reader, the lid swings open, she empties the contents and scans again and a digital screen flashes: 0.5kg.“You have no choice but to pay attention because you can see exactly what you’re wasting,” says Min, who has lived in the complex for 15 years and watched the system arrive in 2020. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Reporter Peter Arnett mit 91 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/peter-arnett-tot-100.html",
+      "published": "2025-12-18T14:04:23",
+      "content": "   Für seine Berichterstattung aus dem Vietnamkrieg bekam er 1966 den Pulitzer-Preis. Jetzt ist der Reporter Peter Arnett nach Angaben von US-Medien im Alter von 91 Jahren in Kalifornien gestorben.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "EZB hält Einlagenzins erneut stabil und rechnet mit mehr Wachstum",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ezb-leitzins-notenbank-100.html",
+      "published": "2025-12-18T13:59:43",
+      "content": "   Die Europäische Zentralbank hat die Leitzinsen zum vierten Mal in Folge unverändert gelassen. Mit Blick auf das Wirtschaftswachstum in der Eurozone werden die Notenbanker optimistischer. [mehr]",
+      "content_length": 196,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Formula 1 is deploying new jargon for 2026",
+      "link": "https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/",
+      "published": "2025-12-18T13:52:45",
+      "content": "While not quite a separate dialect, Formula 1-speak can be heavy on the jargon at times. They say “box” instead of pit, “power unit” to describe the engine and hybrid system, and that’s before we get into all the aerodynamics-related expressions like “outwash” and “dirty air.” Next year is a big technical shakeup for the sport, and it seems we’re getting some new terminology to go with it. So forget your DRS and get ready to talk about Boost mode instead.\nThe F1 car of 2026 will be slightly narrower and slightly lighter than the machines that raced for the last time earlier this month. But not by a huge amount: minimum weight is decreased by 30 kg to 724 kg, the wheelbase is 200 mm shorter at 3,400 mm, and the car’s underfloor is 150 mm narrower than before.\nThe front wing is 100 mm narrower and has just two elements to it, although for the first time in F1 history, this is now an active wing, which works in conjunction with the three-element active rear wing. Active rear wings have been a thing in F1 since the introduction of DRS—the drag reduction system—in 2011, but now there’s a philosophical change to how they’ll work.Read full article\nComments",
+      "content_length": 1167,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie der Deutschlandfonds funktionieren soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschlandfonds-klingbeil-reiche-102.html",
+      "published": "2025-12-18T13:50:30",
+      "content": "   Bei Investitionen steht die Privatwirtschaft in Deutschland ziemlich auf der Bremse. Die Bundesregierung will das ändern, vor allem mit Garantien, Bürgschaften und günstigen Krediten. Von Hans-Joachim Vieweger.[mehr]",
+      "content_length": 219,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Kubernetes 1.35 bringt in-place Pod-Updates und beendet Support für cgroup-v1",
+      "link": "https://www.heise.de/news/Kubernetes-1-35-bringt-in-place-Pod-Updates-und-beendet-Support-fuer-cgroup-v1-11119859.html",
+      "published": "2025-12-18T13:45:00",
+      "content": "Mit Version 1.35 &quot;Timbernetes&quot; lassen sich CPU- und Speicherressourcen von Pods nun ohne Neustart anpassen. Der Support für cgroup v1 und containerd 1.x endet.",
+      "content_length": 169,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Schufa-Speicherfristen laut BGH grundsätzlich rechtens",
+      "link": "https://www.tagesschau.de/wirtschaft/bgh-schufa-speicherfristen-100.html",
+      "published": "2025-12-18T13:37:42",
+      "content": "   Der Bundesgerichtshof in Karlsruhe billigt Speicherfristen der Schufa für zu spät gezahlte Rechnungen grundsätzlich. In Härtefällen müssen Einträge jedoch früher gelöscht werden. Von Alena Lagmöller.[mehr]",
+      "content_length": 208,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ausblick enttäuscht: Konsumflaute belastet Douglas",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/douglas-parfuemerie-einzelhandel-konsumflaute-100.html",
+      "published": "2025-12-18T13:31:43",
+      "content": "   Die anhaltende Konsumflaute in Deutschland belastet den Einzelhandel. Das bekommt auch die Parfümeriekette Douglas zu spüren. Der Ausblick des Konzerns sorgte unter Anlegern für Enttäuschung.[mehr]",
+      "content_length": 200,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Canada’s population drop reflects souring of attitudes to immigration",
+      "link": "https://www.theguardian.com/world/2025/dec/18/canada-immigration-population-analysis",
+      "published": "2025-12-18T13:09:55",
+      "content": "A country known for welcoming newcomers has reversed policy as immigration becomes increasingly a partisan issueCanada sees large drop in population amid international students crackdownStanding in Canada’s House of Commons in 2023, the then-prime minister, Justin Trudeau, gave an impassioned speech on the value of welcoming newcomers.“Canadians know that immigration is one of our greatest assets. It helps us compete,” he said. “If we want to boost our economic success significantly, we need to boost immigration.” Continue reading...",
+      "content_length": 539,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Rainfall creates crimson spectacle at beach on Iran’s Hormuz Island",
+      "link": "https://www.theguardian.com/world/2025/dec/18/rainfall-iran-hormuz-island-red-beach",
+      "published": "2025-12-18T12:56:54",
+      "content": "Streams of soil turn sand and surrounding water red, creating sharp contrast with blue waters of Persian GulfRainfall on Iran’s Hormuz Island briefly transformed the coastline of its Red Beach into a striking natural scene this week, as red soil flowed into the sea and turned the water shades of deep red.The beach is known for its vivid red sand and cliffs, created by high concentrations of iron oxide. Continue reading...",
+      "content_length": 425,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russische Vermögen: Was plant die EU und welche Hürden gibt es?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-freigabe-russische-vermoegen-100.html",
+      "published": "2025-12-18T12:39:51",
+      "content": "   Die EU will eingefrorene russische Vermögen für Ukraine-Darlehen nutzen. Um wie viel Geld geht es dabei? Wer leistet Widerstand gegen den Plan und warum? Ein Überblick.[mehr]",
+      "content_length": 177,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Urteil gegen Polen: Laut EuGH Rechtsverstoß an Verfassungsgericht",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-polen-verfassungsgericht-100.html",
+      "published": "2025-12-18T12:31:40",
+      "content": "   Zu Zeiten der PiS-Regierung hatte Polens Verfassungsgericht sich geweigert, Entscheidungen des Europäische Gerichtshofs anzuerkennen. Die EU-Kommission klagte - und bekam nun Recht. Das höchste europäische Gericht sieht einen Prinzipienbruch.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Konzertreihe \"Unreleased\": Überraschend viral",
+      "link": "https://www.tagesschau.de/kultur/unreleased-konzerte-100.html",
+      "published": "2025-12-18T12:23:36",
+      "content": "   Die Hip-Hop-Shows der Veranstaltungsreihe \"Unreleased\" sind oft innerhalb von wenigen Minuten ausverkauft. Und das, ohne auch nur einen Künstlernamen aus dem Line-up zu verraten. Das liegt vor allem an einem Marketing, das Social Media neu denkt. Von J. Hercka.[mehr]",
+      "content_length": 270,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Linke und Grüne fordern für 2026 Ersatz-Feiertage in der Woche",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/feiertage-ersatz-gruene-linke-100.html",
+      "published": "2025-12-18T12:03:13",
+      "content": "   Aus Sicht der Arbeitnehmer liegen einige Feiertage im kommenden Jahr ungünstig - nämlich an den Wochenenden. Politiker der Linken und Grünen fordern daher: Die Feiertage müssten nachgeholt werden. Aus der Union gibt es Widerspruch.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The inside story of SpaceX’s historic rocket landing that changed launch forever",
+      "link": "https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/",
+      "published": "2025-12-18T12:00:22",
+      "content": "On Dec. 21, 2015, SpaceX launched the Orbcomm-2 mission on an upgraded version of its Falcon 9 rocket. That night, just days before Christmas, the company successfully landed the first stage for the first time. The story behind this remarkable achievement is nowhere more fully told than in the book Reentry, authored by Ars Technica Senior Space Editor Eric Berger and published in 2024. To mark the tenth anniversary, Ars is reprinting a slightly condensed chapter from the book that tells the inside story of this landing. The chapter begins in June 2015 with a tragedy, the disintegration of a Falcon 9 rocket carrying the CRS-7 cargo supply mission for NASA. It was the first time a Falcon 9 had been lost in flight.\nSeconds after the Dragon-bearing Falcon 9 rocket broke apart over the Atlantic Ocean, David Giger shouted into his headset, “Dragon is alive!”\nIn the decade since he joined the company straight out of graduate school, Giger had taken on management of the entire Dragon program, reporting directly to Elon Musk. He watched the CRS-7 launch from mission control in Hawthorne not with a particular role, but rather providing a leadership presence. Giger could sense the Dragon mission team, mostly younger engineers, freeze up as video showed debris from the rocket showering back to Earth. A lot of the people involved in the hairy early flights of Dragon, including the C2 mission in 2012, had moved on to other positions at SpaceX or departed.Read full article\nComments",
+      "content_length": 1491,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "BioNTech kauft Rivalen CureVac",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/biontech-curevac-uebernahme-102.html",
+      "published": "2025-12-18T11:51:01",
+      "content": "   Die mRNA-Technologie gilt als die Zukunftsdisziplin der Pharmabranche schlechthin. Mit der nun abgeschlossenen Übernahme des Rivalen CureVac will der Impfstoffhersteller BioNTech diesen Bereich stärken.[mehr]",
+      "content_length": 211,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Amokfahrt in Mannheim: Täter zu lebenslanger Freiheitsstrafe verurteilt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/amokfahrt-mannheim-urteil-100.html",
+      "published": "2025-12-18T11:32:21",
+      "content": "   Am Rosenmontag tötete ein Mann bei einer Amokfahrt in Mannheim zwei Menschen. Nun hat ihn ein Gericht zu einer lebenslangen Freiheitsstrafe verurteilt. Der Fahrer wird in einer Psychiatrie untergebracht.[mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Saudi-backed forces gather on Yemen border as separatists face pressure to pull back",
+      "link": "https://www.theguardian.com/world/2025/dec/18/saudi-backed-forces-yemen-border-separatists-stc",
+      "published": "2025-12-18T11:05:30",
+      "content": "Southern Transitional Council, backed by UAE, told it could face airstrikes after its recent huge territorial gainsAs many as 20,000 Saudi-backed forces are gathering on the border of Yemen as the separatist Southern Transitional Council comes under pressure to withdraw from the huge territorial gains it has made in the last month in the vast, oil-rich governorate on Hadramaut in eastern Yemen.The STC is using its advance to raise its demand for Yemen to revert to two states, north and south, as it had been until 1990. Continue reading...",
+      "content_length": 544,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "EU-Gipfel in Brüssel: \"Entweder heute Geld oder morgen Blut\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-bruessel-ukraine-russische-vermoegen-100.html",
+      "published": "2025-12-18T10:47:13",
+      "content": "   Sollen eingefrorene russische Gelder für Ukraine-Hilfen genutzt werden? Daran scheiden sich in der EU die Geister. Polen plädiert stark dafür, Belgien ist noch skeptisch - Tschechien und vor allem Ungarn lehnen weitere Hilfen gänzlich ab. [mehr]",
+      "content_length": 248,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Umstrittener FBI-Vize Bongino kündigt Rücktritt an",
+      "link": "https://www.tagesschau.de/ausland/usa-fbi-ruecktritt-bongino-100.html",
+      "published": "2025-12-18T10:02:31",
+      "content": "   Der stellvertretende Chef des FBI, Dan Bongino, will zu Jahresbeginn seinen Posten aufgeben. Warum bleibt unklar. In der Vergangenheit war er dafür bekannt, über einen eigenen Podcast Verschwörungstheorien zu verbreiten.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mehr Schutz und Transparenz für Kleinanleger in der EU",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kleinanleger-eu-boerse-100.html",
+      "published": "2025-12-18T09:23:34",
+      "content": "   Verbraucher in der EU sollen künftig leichter verständliche Informationen für Geldanlage-Produkte bekommen. Das von Verbraucherschützern geforderte Provisionsverbot kommt allerdings nicht.[mehr]",
+      "content_length": 197,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Softwareentwicklung ist kein Selbstzweck: Ein Rückblick auf 2025",
+      "link": "https://www.heise.de/blog/Softwareentwicklung-ist-kein-Selbstzweck-Ein-Rueckblick-auf-2025-11110221.html",
+      "published": "2025-12-18T09:23:00",
+      "content": "Von Künstlicher Intelligenz bis Event Sourcing: Diesen Themen habe ich mich dieses Jahr im Blog besonders intensiv gewidmet.",
+      "content_length": 124,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "EZB-Ratssitzung: Kommt heute die Zinswende?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheid-104.html",
+      "published": "2025-12-18T09:19:38",
+      "content": "   Auf dem wohl wichtigsten Treffen der Notenbanker in diesem Jahr könnten die Weichen für eine Zinswende gestellt werden. Weil die Inflation tendenziell wieder anzieht, sind weitere Zinssenkungen unwahrscheinlich. Von Klaus-Rainer Jackisch.[mehr]",
+      "content_length": 247,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Drupal 11.3.0 steigert Performance um bis zu 33 Prozent",
+      "link": "https://www.heise.de/news/Drupal-11-3-0-steigert-Performance-um-bis-zu-33-Prozent-11119161.html",
+      "published": "2025-12-18T08:22:00",
+      "content": "Das Open-Source-CMS Drupal 11.3.0 bringt massive Performance-Verbesserungen durch HTMX-Integration und Cache-Optimierungen.",
+      "content_length": 123,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Australiens Premier räumt Versäumnisse im Kampf gegen Antisemitismus ein",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/albanese-anschlag-australien-100.html",
+      "published": "2025-12-18T08:14:41",
+      "content": "   Nach dem tödlichen Anschlag auf ein jüdisches Fest hat Australiens Premierminister Albanese Versäumnisse im Kampf gegen Antisemitismus eingeräumt. Man wolle zukünftig stärker gegen alle vorgehen, die \"Hass und Spaltung\" verbreiten.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Beipackzettel künftig digital, Zukunft des Papierzettels unklar",
+      "link": "https://www.heise.de/news/Barmer-und-AOK-bieten-Beipackzettel-digital-in-App-fuer-E-Patientenakte-an-11116077.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T08:11:00",
+      "content": "Den Beipackzettel von Medikamenten muss es bald digital geben. Erste Krankenkassen beteiligen sich daran. Bis 2028 soll eine Datenbank aufgebaut sein.",
+      "content_length": 150,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "Frisches Geld für OpenAI: Amazon soll 10 Milliarden investieren",
+      "link": "https://www.heise.de/news/Frisches-Geld-fuer-OpenAI-Amazon-soll-10-Milliarden-investieren-11119089.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-18T08:02:00",
+      "content": "OpenAI bekommt Amazon-Gelder, die sollen dann unter anderem in Trainium-Chips investiert werden. Amazons Angriff auf Nvidia.",
+      "content_length": 124,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
