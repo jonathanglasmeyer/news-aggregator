@@ -1,0 +1,960 @@
+{
+  "metadata": {
+    "timestamp": "20251222_071855",
+    "input_file": "data/deduplicated/20251222_071855.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 113,
+      "filtered_count": 104,
+      "blacklisted_count": 9,
+      "reduction_rate": "8.0%",
+      "top_blacklist_reasons": {
+        "fußball": 3,
+        "tennis": 1,
+        "weltmeister": 1,
+        "wetterbericht": 1,
+        "bürgermeister": 1,
+        "temperatur": 1,
+        "stau": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Marktbericht: Ruhiges Vorweihnachtsgeschäft erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-mdax-100.html",
+      "published": "2025-12-22T07:15:21",
+      "content": "   An den zwei verbliebenen Handelstagen sind kaum große Sprünge zu erwarten. Die Börsenprofis richten sich auf ein ruhiges Geschäft ein. Alte Rekorde bleiben jedoch in Schlagdistanz. [mehr]",
+      "content_length": 190,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Grünen-Europaabgeordnete Reintke: Noch keine Bereitschaft in Moskau zu Waffenruhe erkennbar",
+      "link": "https://www.deutschlandfunk.de/gruenen-europaabgeordnete-reintke-noch-keine-bereitschaft-in-moskau-zu-waffenruhe-erkennbar-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die Grünen-Europaabgeordnete Reintke sieht beim russischen Staatschef Putin derzeit noch keine Bereitschaft zu einer Waffenruhe in der Ukraine. Der Krieg könnte sehr schnell vorbei sein, wenn es in Moskau wirklich eine Offenheit dafür gäbe, sagte sie im Deutschlandfunk.",
+      "content_length": 270,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Höhere Zusatzbeiträge - Warken (CDU) weist Kritik der Krankenkassen zurück: \"Sie machen es sich zu einfach\"",
+      "link": "https://www.deutschlandfunk.de/warken-cdu-weist-kritik-der-krankenkassen-zurueck-sie-machen-es-sich-zu-einfach-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Bundesgesundheitsministerin Warken hat die Kritik gesetzlicher Krankenkassen zurückgewiesen, sie habe nicht genug gegen Beitragserhöhungen getan. Wenn die Kassen erklärten, nur andere seien schuld, machten sie es sich zu einfach, sagte die CDU-Politikerin.",
+      "content_length": 256,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sydney - Australiens Premier Albanese bittet jüdische Gemeinschaft wegen Anschlag am Bondi Beach um Verzeihung",
+      "link": "https://www.deutschlandfunk.de/australiens-premier-albanese-bittet-juedische-gemeinschaft-wegen-anschlag-am-bondi-beach-um-verzeihu-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Eine Woche nach dem antisemitischen Anschlag am Bondi Beach in Sydney hat Australiens Premierminister Albanese die jüdische Gemeinschaft um Verzeihung gebeten.",
+      "content_length": 159,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Kranken- und Pflegekassen - Medizinischer Dienst fordert digitales Register zur Dokumentation von Behandlungsfehlern",
+      "link": "https://www.deutschlandfunk.de/medizinischer-dienst-fordert-digitales-register-zur-dokumentation-von-behandlungsfehlern-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die gesetzlichen Kranken- und Pflegekassen fordern neue Abläufe im Gesundheitswesen, um die Zahl der Behandlungsfehler zu verringern.",
+      "content_length": 133,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bericht - 2025 mehr 1.000 \"verdächtige Drohnenflüge\" in Deutschland festgestellt",
+      "link": "https://www.deutschlandfunk.de/2025-mehr-1-000-verdaechtige-drohnenfluege-in-deutschland-festgestellt-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Das Bundeskriminalamt hat in diesem Jahr mehr als 1.000 verdächtige Drohnenflüge registriert.",
+      "content_length": 93,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schweiz - Gericht lässt Klima-Klage von vier indonesischen Fischen gegen Zementkonzern zu",
+      "link": "https://www.deutschlandfunk.de/gericht-laesst-klima-klage-von-vier-indonesischen-fischen-gegen-zementkonzern-zu-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Ein Gericht in der Schweiz wird sich mit einer Klage gegen die Zementgruppe Holcim befassen, in der dem Konzern eine Mitverantwortung für den Klimawandel gegeben wird.",
+      "content_length": 167,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "A45 - Rahmede-Talbrücke soll heute für den Verkehr freigegeben werden",
+      "link": "https://www.deutschlandfunk.de/rahmede-talbruecke-soll-heute-fuer-den-verkehr-freigegeben-werden-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "In Nordrhein-Westfalen wird heute nach rund vier Jahren die neue Rahmede-Talbrücke auf der A45 für den Verkehr freigegeben.",
+      "content_length": 123,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Missbrauchsskandal - Epstein-Akten: Entferntes Foto von Trump steht wieder online",
+      "link": "https://www.deutschlandfunk.de/epstein-akten-entferntes-foto-von-trump-steht-wieder-online-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Ein vorübergehend offline gestelltes Foto von US-Präsident Trump ist auf der Internetseite mit den veröffentlichten Akten zum verurteilten Sexualstraftraftäter Epstein wieder verfügbar. Das Justizministerium teilte mit, es sei ohne Änderung oder Schwärzung wieder einsehbar.",
+      "content_length": 274,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Schleswig-Holstein - Ministerpräsident Günther (CDU) will Zuckersteuer: Bundesratsinitiative angekündigt",
+      "link": "https://www.deutschlandfunk.de/ministerpraesident-guenther-cdu-will-zuckersteuer-bundesratsinitiative-angekuendigt-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Für gesündere Ernährung und die Vermeidung von Übergewicht will Schleswig-Holsteins Ministerpräsident Günther eine Zuckersteuer auf Bundesebene voranbringen.",
+      "content_length": 157,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - Nettogehalt vieler Gut- und Topverdiener wird 2026 geringer ausfallen",
+      "link": "https://www.deutschlandfunk.de/nettogehalt-vieler-gut-und-topverdiener-wird-2026-geringer-ausfallen-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Viele Gut- und Topverdiener werden einem Medienbericht zufolge im neuen Jahr weniger netto an Lohn und Gehalt herausbekommen.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Verhandlungen in Miami - Selenskyj und Witkoff sprechen von konstruktiven Gesprächen",
+      "link": "https://www.deutschlandfunk.de/selenskyj-und-witkoff-sprechen-von-konstruktiven-gespraechen-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "In Miami sind die Ukraine-Gespräche nach Angaben des US-Sondergesandten Witkoff und des ukrainischen Präsidenten Selenskyj konstruktiv verlaufen. Positiv äußerte sich auch Russlands Unterhändler Dmitrijew. Konkrete Ergebnisse sind aber nicht bekannt.",
+      "content_length": 250,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Religion - Für Juden endet heute das Chanukka-Fest",
+      "link": "https://www.deutschlandfunk.de/fuer-juden-endet-heute-das-chanukka-fest-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Für viele jüdische Familien gehen mit dem achten und letzten Abend die Chanukka-Feierlichkeiten zu Ende.",
+      "content_length": 104,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Rüstung - Frankreich kündigt größtes Kriegsschiff Europas an: 310 Meter langer, atomgetriebener Flugzeugträger soll gebaut werden",
+      "link": "https://www.deutschlandfunk.de/frankreich-kuendigt-groesstes-kriegsschiff-europas-an-310-meter-langer-atomgetriebener-flugzeugtraeg-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Frankreich will das größte Kriegsschiff Europas bauen.",
+      "content_length": 54,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Trump ernennt Sondergesandten für Grönland",
+      "link": "https://www.deutschlandfunk.de/trump-ernennt-sondergesandten-fuer-groenland-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "US-Präsident Trump hat nach eigenen Angaben den Gouverneur von Louisiana, Landry, zum ‌Sondergesandten für Grönland ernannt.",
+      "content_length": 124,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Spanien - Herbe Niederlage für Sánchez' Sozialisten bei Regionalwahl in der Extremadura - rechtsextreme Vox legt deutlich zu",
+      "link": "https://www.deutschlandfunk.de/herbe-niederlage-fuer-s-nchez-sozialisten-bei-regionalwahl-in-der-extremadura-rechtsextreme-vox-legt-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Bei der Regionalwahl im spanischen Extremadura haben die Sozialisten von Regierungschef Sanchez eine deutliche Niederlage erlitten.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brauchtum - Weltweit Wintersonnenwende gefeiert - Tausende in Stonehenge und Newgrange",
+      "link": "https://www.deutschlandfunk.de/weltweit-wintersonnenwende-gefeiert-tausende-in-stonehenge-und-newgrange-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "In England haben rund 8.000 Menschen am Stonehenge-Monument nahe Salisbury traditionell die Wintersonnenwende gefeiert.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Religion - Mindestens 46 katholische Kirchen wurden 2025 dauerhaft aufgegeben",
+      "link": "https://www.deutschlandfunk.de/mindestens-46-katholische-kirchen-wurden-2025-dauerhaft-aufgegeben-100.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "In diesem Jahr sind mindestens 46 römisch-katholische Kirchen oder Kapellen in Deutschland dauerhaft aufgegeben worden.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"The Wire\" - US-Schauspieler James Ransone ist tot",
+      "link": "https://www.deutschlandfunk.de/us-schauspieler-james-ransone-ist-tot-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Der US-Schauspieler James Ransone ist tot.",
+      "content_length": 42,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Flüchtlinge - UNHCR-Deutschland-Chefin: Eine so harte Situation wie im Sudan habe ich in über 20 Jahren noch nicht erlebt",
+      "link": "https://www.deutschlandfunk.de/unhcr-deutschland-chefin-eine-so-harte-situation-wie-im-sudan-habe-ich-in-ueber-20-jahren-noch-nicht-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die Deutschlandchefin des UNO-Flüchtlingshilfswerks UNHCR, Thote, hat nach eigenen Worten in mehr als 20 Jahren eine so harte Situation wie beim Sudan-Konflikt noch nicht erlebt.",
+      "content_length": 178,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sondertreffen - Asean-Staaten befassen sich mit Thailand-Kambodscha-Konflikt",
+      "link": "https://www.deutschlandfunk.de/asean-staaten-befassen-sich-mit-thailand-kambodscha-konflikt-110.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Angesichts des Grenzkonflikts zwischen Thailand und Kambodscha will die südostasiatische Staatengemeinschaft Asean die Konfliktparteien an einen Tisch bringen.",
+      "content_length": 159,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Neuer Anlauf für Vorratsdatenspeicherung - Kritik an Hubigs Plänen",
+      "link": "https://www.deutschlandfunk.de/kritik-an-hubigs-plaenen-102.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die Bundesregierung arbeitet an einem neuen Gesetzentwurf zur sogenannten Vorratsdatenspeicherung, der mehreren Medien vorliegt. Justizministerin Hubig plant demnach, dass Internetanbieter künftig drei Monate lang die Verbindungsdaten ihrer Kunden speichern sollen.",
+      "content_length": 265,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Medienbericht - Knapp über 100.000 Visa für Familiennachzug",
+      "link": "https://www.deutschlandfunk.de/knapp-ueber-100-000-visa-fuer-familiennachzug-114.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "In diesem Jahr sind einem Medienbericht zufolge knapp über 100.000 Menschen im Rahmen des Familiennachzugs nach Deutschland gekommen.",
+      "content_length": 133,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Krieg in der Ukraine - Armee bekämpft russische Truppen in der Grenzregion Sumy",
+      "link": "https://www.deutschlandfunk.de/armee-bekaempft-russische-truppen-in-der-grenzregion-sumy-108.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die ukrainische Armee bekämpft eigenen Angaben zufolge russische Truppen in der nordöstlichen Grenzregion Sumy.",
+      "content_length": 111,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Venezuela - USA wollen weiteren Öltanker beschlagnahmen",
+      "link": "https://www.deutschlandfunk.de/usa-wollen-weiteren-oeltanker-beschlagnahmen-108.html",
+      "published": "2025-12-22T07:09:27",
+      "content": "Die USA versuchen erneut, einen sanktionierten Öltanker vor der Küste von Venezuela zu beschlagnahmen.",
+      "content_length": 102,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Resident doctors say they will resume talks to avoid further strikes with ‘can-do spirit’",
+      "link": "https://www.theguardian.com/society/2025/dec/22/resident-doctors-strikes-talks-bma-wes-streeting",
+      "published": "2025-12-22T07:00:24",
+      "content": "BMA calls on Wes Streeting to be equally positive and says 11th-hour talks before five-day stoppage came too late but were encouragingResident doctors have said they will approach talks with Wes Streeting with a “can-do spirit” to avoid further strikes in the new year, as their five-day action ended on Monday morning.The British Medical Association called on the health secretary to come to the table with the same “constructive” attitude, saying the tone of 11th-hour talks before their stoppage had been encouraging but too late to avoid the strike in England. Continue reading...",
+      "content_length": 584,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US-Justizministerium: Gelöschtes Trump-Foto wieder in Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-akten-foto-trump-100.html",
+      "published": "2025-12-22T06:57:51",
+      "content": "   Kurz nach der Löschung mehrerer Daten aus den Epstein-Akten taucht unter anderem ein Foto des US-Präsidenten wieder auf. Die Löschung habe nichts mit Trump zu tun gehabt, betont das US-Justizministerium. [mehr]",
+      "content_length": 213,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
+      "link": "https://www.theguardian.com/world/2025/dec/22/jeju-air-crash-independent-inquiry-south-korea",
+      "published": "2025-12-22T06:33:23",
+      "content": "MPs vote to investigate crash amid accusations from victims’ relatives of cover-ups and delaysSouth Korea’s parliament has launched an independent inquiry into the deadliest air disaster on its soil amid accusations of investigation delays and cover-ups of last year’s Jeju Air crash.On 29 December 2024 all but two of the 181 people onboard a Jeju Air Boeing 737-800 died when it crashed at Muan international airport, 288km south of Seoul, after reporting a bird strike during landing. Continue reading...",
+      "content_length": 507,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "AFCON 2025: Ayoub El Kaabi scores wondergoal as Morocco dominate Comoros",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251222-afcon-2025-ayoub-el-kaabi-scores-wondergoal-as-morocco-dominate-comoros",
+      "published": "2025-12-22T06:28:28",
+      "content": "Morocco defeated Comoros (2-0) in the opening match of AFCON 2025. Ayoub El Kaabi scored a superb overhead kick.",
+      "content_length": 112,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Warken gibt Krankenkassen Mitschuld bei Beitragserhöhungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beitragerhoehung-krankenkasse-opposition-100.html",
+      "published": "2025-12-22T06:19:58",
+      "content": "   Die Grünen fordern umfassende Reformen: Gesundheitsministerin Warken wehrt sich gegen Vorwürfe, sie habe zu wenig gegen die Beitragserhöhungen der Krankenkassen unternommen - die machten es sich zu einfach.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Rahmedetalbrücke bei Lüdenscheid wird eröffnet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rahmedetalbruecke-luedenscheid-wird-eroeffnet-100.html",
+      "published": "2025-12-22T06:11:48",
+      "content": "   Das Verkehrschaos rund um Lüdenscheid in Nordrhein-Westfalen ist vorerst beendet: Heute wird ein Teil der Rahmedetalbrücke auf der A45 eröffnet. Auch Bundeskanzler Merz wird erwartet.[mehr]",
+      "content_length": 192,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Coalition attacks Penny Wong for not shedding ‘a single tear’ after Bondi shooting, says ‘multicultural nirvana’ has failed",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/22/coalition-attacks-penny-wong-bondi-beach-shooting-terror-attack-sussan-ley-press-conference-ntwnfb",
+      "published": "2025-12-22T06:07:04",
+      "content": "Coalition MPs also, without evidence, link government’s decision to recognise Palestinian state to Bondi terror attack at extraordinary press conferenceFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSussan Ley and other senior Coalition politicians have linked the Labor government’s recognition of Palestine to the antisemitic Bondi terror attack and attacked Penny Wong for not shedding tears in public at an extraordinary press conference on Monday.The spray from Coalition MPs came amid growing demands for prime minister Anthony Albanese to call a royal commission into the Bondi attack, with criticism from the Coalition, Jewish groups and even some Labor MPs that the government’s review of the intelligence community is too narrow. Continue reading...",
+      "content_length": 825,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "2025 is ‘year of the octopus’ as record numbers spotted off England’s south coast",
+      "link": "https://www.theguardian.com/environment/2025/dec/22/2025-is-year-of-the-octopus-as-record-numbers-spotted-off-englands-south-coast",
+      "published": "2025-12-22T06:01:19",
+      "content": "Milder weather led to a bloom in the invertebrates in south Cornwall and Devon, wildlife charity saysRecord numbers of sightings of one of the world’s most intelligent invertebrates over the summer have led the Wildlife Trusts to declare 2025 “the year of the octopus” in its annual review of Britain’s seas.A mild winter followed by an exceptionally warm spring prompted unprecedented numbers of Mediterranean octopuses to take up residence along England’s south coast, from Penzance in Cornwall to south Devon. Continue reading...",
+      "content_length": 532,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "First asylum seekers expected to arrive in East Sussex barracks in new year",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/22/first-asylum-seekers-east-sussex-barracks-new-year-crowborough",
+      "published": "2025-12-22T06:00:22",
+      "content": "Government has vowed to end use of asylum hotels and plans to send first men to Crowborough site within weeksThe Home Office plans to send the first group of asylum seekers to a military site in East Sussex in the new year, the Guardian understands.Discussions in Whitehall are under way to use Crowborough army training camp within weeks as part of efforts to end the use of hotels for asylum accommodation. Continue reading...",
+      "content_length": 428,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Regulator ‘asleep at the wheel’ over University of Greater Manchester investigation, MP says",
+      "link": "https://www.theguardian.com/education/2025/dec/22/office-for-students-university-of-greater-manchester-investigation-phil-brickell-mp",
+      "published": "2025-12-22T06:00:20",
+      "content": "Office for Students accused of ‘glacial’ response to allegations of fraud, bullying and mismanagementEngland’s universities regulator has been attacked for being “asleep at the wheel” over its delays in investigating suspected fraud, bullying and mismanagement at the University of Greater Manchester.Phil Brickell, the MP for Bolton West whose constituency includes the campus, has accused the Office for Students (OfS) of failing to act on whistleblowers’ reports and media investigations for almost a year. Continue reading...",
+      "content_length": 529,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hen cages and pig farrowing crates to be outlawed in England",
+      "link": "https://www.theguardian.com/world/2025/dec/22/government-outlaw-hen-cages-pig-farrowing-crates-england",
+      "published": "2025-12-22T06:00:19",
+      "content": "Humane slaughter requirements for farmed fish and end to puppy farming also in new package of animal welfare lawsCaged hens will be a thing of the past in England, the government has announced, as it launches a package of new animal welfare laws.Pig farrowing crates, which campaigners have said are cruel, will also be banned under the welfare changes. These cramped crates are used to stop pigs from rolling over and crushing their young, but once in them sows cannot turn over or move around at all. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: US, Ukraine hail 'productive' Miami talks but no breakthrough",
+      "link": "https://www.france24.com/en/europe/20251222-live-us-ukraine-hail-productive-miami-talks-but-no-breakthrough",
+      "published": "2025-12-22T05:57:03",
+      "content": "US and Ukrainian envoys issued a joint statement on Sunday that hailed \"productive and constructive\" talks in Miami but did not announce any apparent breakthrough in efforts to end the war with Russia. Follow our liveblog for all the latest.",
+      "content_length": 241,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Victoria to follow NSW in giving police new powers to stop protests in wake of Bondi terror attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/22/victoria-police-boxing-day-test-protest-laws-bondi-terror-attack",
+      "published": "2025-12-22T05:54:06",
+      "content": "Police with semi-automatic rifles will be deployed at Boxing Day Test but commissioner says this move is not based on a ‘specific new threat’Get our breaking news email, free app or daily news podcastVictoria’s police chief will be given sweeping powers to shut down or move on protests in the aftermath of terrorist events, while officers carrying rifles will be deployed to the Boxing Day Test following the Bondi terror attack.Jacinta Allan on Monday announced Victoria will follow New South Wales by introducing legislation to parliament next year granting the police commissioner the power to “stop or move on a public protest within a certain time following a designated terrorist event”. Continue reading...",
+      "content_length": 714,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Inselbewohner dürfen gegen Schweizer Zementkonzern Holcim klagen",
+      "link": "https://www.tagesschau.de/wissen/klima/indonesien-klage-zementkonzern-100.html",
+      "published": "2025-12-22T05:27:47",
+      "content": "   Überraschende Entscheidung eines Schweizer Gerichts: Bewohner einer von Überschwemmungen betroffenen indonesischen Insel dürfen den Zementkonzern Holcim verklagen. Sie machen ihn mitverantwortlich für den Klimawandel. Von S. Wurzel.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "CBS News delays 60 Minutes segment featuring investigation into El Salvador’s Cecot megaprison",
+      "link": "https://www.theguardian.com/media/2025/dec/22/cbs-news-delays-60-minutes-segment-featuring-investigation-into-cecot-megaprison",
+      "published": "2025-12-22T05:10:57",
+      "content": "Backlash after broadcaster announces the program, which was due to air on Sunday night, ‘needs additional reporting’CBS News is facing a backlash from one of its own correspondents, and others, after it cancelled an upcoming 60 Minutes investigation into El Salvador’s brutal Cecot megaprison to which the Trump administration deported hundreds of migrants.The episode of its flagship program was due to air on Sunday night. However, in an “editors note” posted on X, the broadcaster’s official account announced that “the lineup for tonight’s edition of 60 Minutes has been updated. Our report ‘Inside Cecot’ will air in a future broadcast.” Continue reading...",
+      "content_length": 662,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Man jailed for 1,335 years as El Salvador sentences almost 250 MS-13 gang members",
+      "link": "https://www.theguardian.com/world/2025/dec/22/man-jailed-1335-years-el-salvador-sentences-ms-13-gang-members",
+      "published": "2025-12-22T04:29:04",
+      "content": "Attorney general’s office also says 10 people received prison terms from 463 to 958 years amid crackdown on gangs under state of emergencyEl Salvador has announced prison sentences for hundreds of gang members, with some of the convicted receiving terms of hundreds of years.The attorney general’s office posted on X that 248 members of the notorious Mara Salvatrucha (MS-13) street gang had received “exemplary sentences” for 43 homicides and 42 disappearances, among other crimes. Continue reading...",
+      "content_length": 502,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gold prices hit record high on US interest rate-cut bets",
+      "link": "https://www.france24.com/en/americas/20251222-gold-prices-hit-record-high-on-fed-rate-cut-bets-usa-economy",
+      "published": "2025-12-22T04:15:34",
+      "content": "Gold hit a new record high on Monday, driven by expectations of US interest rate cuts and strong demand for safe-haven assets, while silver also reached an all-time peak. The gains mark a remarkable year for precious metals, supported by a weaker dollar, geopolitical tensions, and strong investment inflows.",
+      "content_length": 308,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Medizinischer Dienst fordert Pflicht zur Offenlegung von Behandlungsfehlern",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/behandlungsfehler-transparenz-medizinischer-dienst-100.html",
+      "published": "2025-12-22T04:05:46",
+      "content": "   Durch Behandlungsfehler entstehen dem Gesundheitswesen offenbar jedes Jahr massive Kosten. Der Medizinische Dienst geht von rund 50 Milliarden Euro aus - und fordert eine Pflicht zur Offenlegung.[mehr]",
+      "content_length": 204,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Historic’ gas reservation policy to force major producers to set aside up to a quarter for Australian use",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/22/gas-reservation-policy-lower-energy-prices-east-coast-chris-bowen",
+      "published": "2025-12-22T04:00:39",
+      "content": "Chris Bowen announces long-awaited policy aimed at lowering energy prices on Australia’s east coastFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe country’s three major LNG companies will be forced to set aside as much as a quarter of their gas for domestic use, as part of the government’s long-awaited gas reservation policy aimed at lowering prices on Australia’s east coast.Chris Bowen, the climate change and energy minister, in Canberra said the “historic” export permit scheme would only apply from 2027, but would need to be reflected in any new contracts made by the gas companies between now and then. Continue reading...",
+      "content_length": 700,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Honey: all the news about PayPal’s alleged scam coupon app",
+      "link": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
+      "published": "2025-12-22T03:46:20",
+      "content": "\n\n\n\t\n\t\t\n\nPayPal’s Honey browser extension has been lauded for years as an easy way to find coupons online. But some are calling it a “scam” after a deep dive from YouTuber MegaLag, who accused Honey of “stealing money from influencers,” and returned one year later with a second video that says Honey targeted minors, collected data on people who never signed up for its service, and exploited small businesses.\n\nThe first video shines a light mostly on Honey’s use of last-click attribution, swapping its tracking cookie in for others’ when you interact with it. The second video tracks a series of emails between Honey and small businesses that lost revenue from its use of private coupon codes and how it attempted to squeeze them to sign up as partners, as well as its approach of sponsoring YouTubers with large audiences of younger viewers, like Mr Beast.\n\nPayPal issued statements after the first video in 2024 saying that it follows “industry rules and practices” like last-click attribution. But creators who may have missed out on money because of it aren’t happy. Some YouTube channels, like Legal Eagle and GamersNexus, are now suing.\n\nBelow, you’ll find all our coverage of the controversy.\n\n\t\t\t\t\t\n\t\t\t\tSteve Ballmer&#8217;s Kawhi Leonhard controversy intersects with another scandal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tThe Honey exposé fallout continues.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tGoogle changes Chrome extension policies following the Honey link scandal\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tGamersNexus is leading a new class action lawsuit against PayPal.\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tYouTuber Legal Eagle is suing over PayPal’s Honey extension\n\t\t\t\n\t\t\t\t\t\n\t\t\t\tHoney’s deal-hunting browser extension is accused of ripping off customers and YouTubers\n\t\t\t\n\t\t\t",
+      "content_length": 1699,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Gun crackdown and controversial protest laws to be passed in NSW despite Coalition split over firearms",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/22/gun-crackdown-reform-protest-laws-to-be-passed-nsw",
+      "published": "2025-12-22T02:54:12",
+      "content": "NSW Nationals to oppose gun law reforms introduced in wake of Bondi attack as Greens say protest laws are ‘draconian’ and may be unconstitutionalFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastGun laws will be significantly tightened and protests restricted for up to three months in New South Wales at the behest of the police commissioner, under an emergency set of laws introduced to the state parliament in the wake of the Bondi shooting.The bill is being debated in the lower house on Monday and is expected to pass with the support of the NSW Liberal party, and pass the upper house on Tuesday. Continue reading...",
+      "content_length": 685,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+      "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+      "published": "2025-12-22T02:45:10",
+      "content": "\n\n\n\t\n\tWaymo driverless car is not able to detect traffic lights after a major power outage in San Francisco, California, | Photo by Tayfun Coskun/Anadolu via Getty Images\t\n\nA power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams.\nSome people posted videos of Teslas using their FSD feature to navigate the same streets, and Elon Musk tweeted that \"Tesla Robotaxis were unaffected by the SF power outage.\" On Sunday evening, Waymo spokesperson Suzanne Philion said, \"We are resuming ride-hailing service in the San Francisco Bay Area.\"\n\n\nPower out in S …\nRead the full story at The Verge.",
+      "content_length": 857,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "BKA zählt mehr als tausend verdächtige Drohnenflüge in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/drohnen-bka-deutschland-100.html",
+      "published": "2025-12-22T02:36:18",
+      "content": "   Im Jahr 2025 hat das Bundeskriminalamt in 2025 über Deutschland mehr als 1.000 verdächtige Drohnenflüge registriert. Das erstmals erstellte Lagebild zeigt laut Präsident Münch auch: Die Akteure dahinter sind schwierig zu ermitteln. [mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘Slightly haunted but manageable’: new signs cause confusion – and delight – in Christchurch",
+      "link": "https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs",
+      "published": "2025-12-22T02:28:46",
+      "content": "Six absurdist signs resembling official city council information boards have popped up across New Zealand’s second-largest cityOutside an abandoned building in New Zealand’s second-biggest city, a sign reads “slightly haunted but manageable”. In the middle of a busy shopping strip, pedestrians are warned to keep to a 2.83km/h walking speed. In another part of Christchurch, one piece of signage declares simply “don’t”.The baffling boards are not an overzealous new council initiative, but a piece of art designed to “play with the way we take authority and signage so seriously”. Continue reading...",
+      "content_length": 602,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nigeria says 130 abducted schoolchildren freed after mass kidnapping",
+      "link": "https://www.france24.com/en/africa/20251222-nigeria-says-130-abducted-schoolchildren-freed-after-mass-kidnapping",
+      "published": "2025-12-22T02:10:55",
+      "content": "Nigerian authorities said Sunday they have secured the release of 130 schoolchildren abducted from a Catholic boarding school in Niger state, bringing the total freed to more than 200 after a mass kidnapping in November. The announcement follows weeks of uncertainty over the fate of students taken by gunmen, amid renewed concern over Nigeria’s worsening kidnap-for-ransom crisis.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine-Gespräche: Witkoff und Selenskyj sprechen von Fortschritten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-116.html",
+      "published": "2025-12-22T01:53:03",
+      "content": "   Die Ukraine-Gespräche in Miami sind laut US-Sondergesandtem Witkoff und ukrainischem Präsidenten Selenskyj konstruktiv verlaufen. Positiv äußerte sich auch Russlands Unterhändler Dmitrijew. Über Ergebnisse ist aber nichts bekannt.[mehr]",
+      "content_length": 239,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trumps Pharmaabkommen kann teure Folgen für Europa haben",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-pharma-folgen-eu-100.html",
+      "published": "2025-12-22T01:27:43",
+      "content": "   Internationale Pharmakonzerne haben sich gegenüber US-Präsident Trump verpflichtet, ihre Medikamente in den USA künftig billiger anzubieten. Gut für die Menschen in Amerika - aber in Europa könnte das Gegenteil eintreten. Von S. Wurzel. [mehr]",
+      "content_length": 246,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump administration recalls nearly 30 career diplomats around world",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/trump-administration-recalls-diplomats",
+      "published": "2025-12-22T00:39:31",
+      "content": "Tenures end for mission chiefs in at least 29 countries, including 13 in Africa, as US reshapes its diplomatic postureThe Trump administration is recalling nearly 30 career diplomats from ambassadorial and other senior embassy posts as it moves to reshape the US diplomatic posture abroad with personnel deemed fully supportive of Donald Trump’s “America first” priorities.The chiefs of mission in at least 29 countries were informed last week that their tenures would end in January, according to two state department officials, who spoke on condition of anonymity to discuss internal personnel moves. Continue reading...",
+      "content_length": 622,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Spain's ruling Socialists suffer historic defeat in regional election",
+      "link": "https://www.france24.com/en/europe/20251222-spain-ruling-socialists-suffer-historic-defeat-in-regional-elections-far-right",
+      "published": "2025-12-22T00:29:12",
+      "content": "Spanish Prime Minister Pedro Sánchez’s embattled Socialists suffered a heavy defeat in Sunday’s regional election in Extremadura, slumping to their worst-ever result as the far-right Vox made strong gains, dealing another blow to the party amid mounting corruption and misconduct allegations.",
+      "content_length": 292,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Medienberichte: USA verfolgen offenbar dritten Öltanker vor Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/oeltanker-venezuela-usa-100.html",
+      "published": "2025-12-21T23:42:56",
+      "content": "   Die US-Küstenwache verfolgt Medienberichten zufolge erneut einen Öltanker in internationalen Gewässern vor Venezuela. Es ist bereits der dritte Vorfall - zwei weitere Schiffe hat die US-Regierung schon unter ihre Kontrolle gebracht. [mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "AFCON 2025: Day 1 roundup",
+      "link": "https://www.france24.com/en/tv-shows/africa-cup-of-nations/20251221-afcon-2025-day-1-roundup",
+      "published": "2025-12-21T23:24:22",
+      "content": "Welcome to France 24's AFCON roundup, where we dive into all the action from the opening match of the 2025 African Cup of Nations in Morocco. We're here to break it all down with football experts Thando Sibiya and Andreas Evagora. We are also joined by our reporter on the ground, Selina Sykes.",
+      "content_length": 294,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Louisiana nursing student speaks out during her six-month ICE detention",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/louisiana-nursing-student-ice-detention",
+      "published": "2025-12-21T22:36:44",
+      "content": "Vilma Palacios, 22, tells local outlet ‘I want my freedom back’ as she may be forced to return to HondurasA recent graduate of the LSU Health New Orleans School of Nursing has been held in an ICE processing center in Basile, Louisiana, for the past six months following her arrest by immigration agents over the summer.Vilma Palacios had just recently accepted a position at Touro Infirmary when ICE agents arrested her and transferred her to the processing center in Basile. Her detention comes amid a broader immigration crackdown under the Trump administration, including cases involving individuals with no criminal records who are seeking legal residency. Continue reading...",
+      "content_length": 680,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US justice department restores photo featuring Trump from Epstein files",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/epstein-files-photos-removed",
+      "published": "2025-12-21T21:56:53",
+      "content": "Department says image was flagged by prosecutors before determining it posed no risk to survivors of late sex offenderThe US justice department said on Sunday it had restored an image it had removed a day earlier from the public release of investigative files related to Jeffrey Epstein after concluding that the photograph, which included within it a photo of Donald Trump, posed no risk of public exposure to victims of the late convicted sex offender.The justice department said the image had been flagged by federal prosecutors in New York for potentially exposing victims of Epstein. Its unexplained removal on Saturday triggered a chorus of accusations from Democrats about evident political interference in favor of the president, a former friend of Epstein. Continue reading...",
+      "content_length": 785,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "James Ransone, US actor known for The Wire, dies aged 46",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/james-ransone-the-wire-actor-dead",
+      "published": "2025-12-21T21:37:48",
+      "content": "LA medical examiner reports Ransone, who played Chester ‘Ziggy’ Sobotka in the HBO crime drama, died by suicideJames Ransone, the American actor best known for his work in 12 episodes of The Wire, has died in Los Angeles.Information from the Los Angeles medical examiner indicated Ransone, 46, died on Friday from suicide. Continue reading...",
+      "content_length": 342,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Morocco gets off to winning start at Africa Cup of Nations",
+      "link": "https://www.france24.com/en/sport/20251221-morocco-gets-off-to-winning-start-at-africa-cup-of-nations",
+      "published": "2025-12-21T21:30:15",
+      "content": "Brahim Diaz and Ayoub El Kaabi scored second-half goals as Morocco beat Comoros 2-0 in the Africa Cup of Nations opener in Rabat. Diaz broke the deadlock 10 minutes after the break, and substitute El Kaabi sealed the win with a stunning overhead kick.",
+      "content_length": 251,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US envoy Witkoff calls Ukraine talks in Miami 'productive'",
+      "link": "https://www.france24.com/en/americas/20251221-us-envoy-witkoff-calls-ukraine-talks-in-miami-productive",
+      "published": "2025-12-21T21:21:57",
+      "content": "US special envoy Steve Witkoff called weekend talks in Florida “productive and constructive” as officials from the US, Europe, and Ukraine worked to align positions. President Donald Trump pushes for a quick end to the nearly four-year conflict, but Russia wants to keep seized Ukrainian land.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Frankreich will Europas größtes Kriegsschiff bauen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-kriegsschiff-100.html",
+      "published": "2025-12-21T20:35:36",
+      "content": "   Mehr als 300 Meter lang mit Platz für 2.000 Soldaten und 30 Kampfjets: Frankreich will mit ‍dem Bau eines riesigen Flugzeugträgers seine Stellung als Militärmacht stärken. Kritik gibt es an den Milliardenkosten.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Another 130 kidnapped schoolchildren released in Nigeria",
+      "link": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria",
+      "published": "2025-12-21T20:05:09",
+      "content": "Presidential spokesperson says all those abducted from a Catholic school in Niger state last month are now freeNigerian authorities say they have secured the release of a further 130 schoolchildren kidnapped from a Catholic school in November, after 100 were freed earlier this month.“Another 130 abducted Niger state pupils released, none left in captivity,” presidential spokesperson Sunday Dare said on X, in a post accompanied by a photo of smiling children. Continue reading...",
+      "content_length": 482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "REPLAY: Africa Cup of Nations build-up special",
+      "link": "https://www.france24.com/en/sport/20251221-replay-africa-cup-of-nations-build-up-special",
+      "published": "2025-12-21T19:30:05",
+      "content": "The African Cup of Nations opens in Rabat tonight with a match between the host country, Morocco and the Comoros. Ahead of kick-off, FRANCE 24's Emily Boyle was in the studio with special guests to talk all things AFCON.",
+      "content_length": 220,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israel billigt neue Siedlungen im Westjordanland",
+      "link": "https://www.tagesschau.de/wirtschaft/israel-sitzungen-westjordanland-100.html",
+      "published": "2025-12-21T17:32:50",
+      "content": "   Das israelische Sicherheitskabinett hat den Bau von 19 neuen Siedlungen im besetzten Westjordanland genehmigt. Die Maßnahme soll laut Finanzminister Smotrich die Gründung eines Palästinenserstaates blockieren.  [mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Israel approves 19 new West Bank settlements",
+      "link": "https://www.france24.com/en/middle-east/20251221-israel-approves-19-new-west-bank-settlements",
+      "published": "2025-12-21T17:16:39",
+      "content": "Israel has approved 19 new settlements in the occupied West Bank, bringing the three-year total to 69. The move comes despite the UN Secretary-General Antonio Guterres' recent condemnation of what he called the \"relentless\" expansion of settlements in the occupied territory.",
+      "content_length": 275,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "You need to listen to these Christmas deep cuts",
+      "link": "https://www.theverge.com/column/848710/christmas-song-deep-cuts",
+      "published": "2025-12-21T17:00:00",
+      "content": "\n\n\n\t\n\tSanta knows how to boogie. | Image: AFP via Getty Images\t\n\nIt's the holiday season, and Christmas music is utterly inescapable. Look, I love Mariah Carey and Wham! As much as the next guy. But at some point, you get really tired of hearing the same handful of Christmas songs over and over again. So here are 10 suggestions to add to your holiday playlist that are hopefully a little less obvious. \nTom Waits - Christmas Card from a Hooker in Minneapolis\nView Link\nThere's a long history of downer Christmas songs, from Dolly Parton's \"Hard Candy Christmas\" to The Pogues' \"Fairytale of New York.\" But there is no holiday song more guaranteed to bring the party down than \"Christmas Card from a Hooker in Mi …\nRead the full story at The Verge.",
+      "content_length": 749,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Kremlin renews criticism of Europe’s efforts to amend US plan to end Ukraine war",
+      "link": "https://www.theguardian.com/world/2025/dec/21/kremlin-russia-ukraine-war-end-changes-europe-miami-talks",
+      "published": "2025-12-21T16:52:56",
+      "content": "Putin’s top foreign policy aid says proposals could prolong conflict as talks with US negotiators are held in MiamiRussia has renewed its criticism of efforts by Europe and Ukraine to amend US proposals to end the war in Ukraine, saying they did not improve prospects for peace.Vladimir Putin’s top foreign policy aide, Yuri Ushakov, told reporters on Sunday that the proposed tweaks to Washington’s plan could prolong the conflict. Continue reading...",
+      "content_length": 452,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Israel approves 19 new Jewish settlements in occupied West Bank",
+      "link": "https://www.theguardian.com/world/2025/dec/21/israel-approves-new-jewish-settlements-occupied-west-bank",
+      "published": "2025-12-21T16:45:08",
+      "content": "Decision takes the total number of new settlements to 69 in past few years as construction binge continuesIsrael has approved a proposal for 19 new Jewish settlements in the occupied West Bank as the government pushes ahead with a construction binge in the territory that poses a further threat to the possibility of a Palestinian state.It brings the total number of new settlements over the past few years to 69, a new record, according to the far-right finance minister, Bezalel Smotrich, who has pushed a settlement expansion agenda in the West Bank. The latest include two that were previously evacuated during a 2005 disengagement plan. Continue reading...",
+      "content_length": 661,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Africa Cup of Nations kicks off in Morocco",
+      "link": "https://www.france24.com/en/video/20251221-africa-cup-of-nations-kicks-off-in-morocco",
+      "published": "2025-12-21T16:32:52",
+      "content": "The African Cup of nations opens in Rabat tonight with a match between the host country Morocco and the Comoros. It's a crucial event for the country, which is hoping to cement its status as a football superpower. The tournament will allow Morocco to show off infrastructure investments it is making ahead of the 2030 World Cup. \n\nThe competition is hotly anticipated by Morocco fans - with the host team widely regarded as the favorite to win the African title. France24 Sport journalist Selina Sykes reports the latest from Rabat.",
+      "content_length": 532,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "South Africa: At least 9 killed, 10 wounded in shooting",
+      "link": "https://www.france24.com/en/video/20251221-south-africa-at-least-9-killed-10-wounded-in-shooting",
+      "published": "2025-12-21T16:28:52",
+      "content": "In South Africa, at least 9 people have died and 10 others injured after a group of gunmen carried out a shooting at a pub in the early hours on Sunday, according to authorities. The shooting comes after at least 11 people, including a child were shot dead at a hostel near Pretoria earlier this month. The country has one of the highest murder rates in the world, with firearms the leading cause of death in homicides. Rachael Griffiths has more.",
+      "content_length": 447,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US pursuing third vessel near Venezuela, officials say",
+      "link": "https://www.france24.com/en/americas/20251221-us-pursuing-third-vessel-near-venezuela-officials-say",
+      "published": "2025-12-21T15:56:21",
+      "content": "The US Coast Guard is pursuing an oil ⁠tanker in international waters near Venezuela in what would be the third in less than a week, officials said Sunday, as US President Donald Trump increases pressure on the South American nation. The move comes a week after Trump announced a \"blockade\" of all oil tankers under sanctions entering and leaving Venezuela.",
+      "content_length": 357,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Oil tanker seized off Venezuela, the second in two weeks",
+      "link": "https://www.france24.com/en/video/20251221-oil-tanker-seized-off-venezuela-the-second-in-two-weeks",
+      "published": "2025-12-21T15:36:59",
+      "content": "The US seized an oil tanker off Venezuela's coast on Saturday. It's the second time in two weeks that US forces have carried out such an action. This comes after President Donald Trump announced a block of \"sanctioned oil vessels\" entering and exiting Venezuela. Catherine Viette has more details.",
+      "content_length": 297,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Zentralratspräsident Schuster fordert neuen \"Aufstand der Anständigen\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismus-238.html",
+      "published": "2025-12-21T15:31:26",
+      "content": "   Der Präsident des Zentralrats der Juden, Schuster, hat zu mehr Engagement gegen Antisemitismus aufgerufen. In Anlehnung an eine Äußerung seines Vorgängers Spiegel forderte er einen neuen \"Aufstand der Anständigen\".[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The 35 best gifts that your teen will actually use",
+      "link": "https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025",
+      "published": "2025-12-21T15:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nBetween keeping up with TikTok trends and whatever new gadget just dropped, it's tough to know exactly what teens are into these days. Luckily, we can help. We may be older than teenagers, but many of us here at The Verge are kids at heart. Plus, we've also got a few staffers with older kids. To make your life a little easier this holiday season, we rounded up what we think are the best gifts for teens, based on our tech expertise as well as what our staff's teens are into right now.\nBelow, you'll find gift ideas for many types of teens. Some are more obvious choices, like the latest iPhone and Nintendo Switch 2, but we sought to include a  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "France to build new aircraft carrier to boost its capacities as a maritime power",
+      "link": "https://www.france24.com/en/video/20251221-france-to-build-new-aircraft-carrier-to-boost-its-capacities-as-a-maritime-power",
+      "published": "2025-12-21T15:27:47",
+      "content": "France ​will ⁠build a new aircraft carrier to boost ​its ‍capacities ​as a maritime ​power, President Emmanuel Macron told French troops gathered at a military ‍base in ​Abu Dhabi. Macron arrived in the United Arab Emirates on Sunday to celebrate Christmas with troops and to discuss bilateral ties with the Gulf state. France24 International Affairs Editor Shirli Sitbon explains.",
+      "content_length": 381,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Replay: French President Macron addresses troops deployed in the United Arab Emirates",
+      "link": "https://www.france24.com/en/video/20251221-replay-french-president-macron-adresses-troops-deployed-in-united-arab-emirates",
+      "published": "2025-12-21T15:25:13",
+      "content": "France ​will ⁠build a new aircraft carrier to boost ​its ‍capacities ​as a maritime ​power, President Emmanuel Macron told French troops gathered at a military ‍base in ​Abu Dhabi. Macron arrived in the United Arab Emirates on Sunday to celebrate Christmas with troops and to discuss bilateral ties with the Gulf state.",
+      "content_length": 319,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Was die Regierung bei der Speicherung von IP-Adressen plant",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ip-adressen-speicherung-102.html",
+      "published": "2025-12-21T15:18:29",
+      "content": "   Mit der vorsorglichen Speicherung von IP-Adressen soll es Ermittlern erleichtert werden, Kriminalität im Internet aufzuklären. Was genau plant Bundesjustizministerin Hubig? Und welche Kritik gibt es? Ein Überblick.[mehr]",
+      "content_length": 223,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Manchester Museum seeks help to uncover hidden histories of African collection",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub",
+      "published": "2025-12-21T15:00:01",
+      "content": "New Africa Hub confronts colonial-era silences by asking visitors to share insights on 40,000 objectsIt’s a rare thing for a museum to talk about what it doesn’t know. But unanswered questions and archival silences are at the heart of the new Africa Hub at Manchester Museum, north-west England, which is inviting people around the world to help fill the gaps.The museum holds more than 40,000 items from across Africa, many of which were traded, collected, looted or preserved during the era of the British empire. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Élysée Palace staff member accused of stealing tableware worth up to €40,000",
+      "link": "https://www.theguardian.com/world/2025/dec/21/elysee-palace-staff-member-accused-stealing-tableware",
+      "published": "2025-12-21T14:37:07",
+      "content": "Silver steward is one of three people arrested in connection with alleged theft from presidential residenceA silver steward employed at the Élysée Palace in Paris has been arrested for stealing silverware and porcelain, amid a wave of thefts from high-profile French institutions.Investigators arrested the man and two alleged accomplices last week. They are accused of taking the objects from the official Paris residence of the French president and trying to sell them on online auction websites such as Vinted. Continue reading...",
+      "content_length": 533,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Tricked into war: A father speaks out as police probe alleged Zuma family links to Russian recruitment",
+      "link": "https://www.france24.com/en/africa/20251221-tricked-into-war-father-speaks-out-police-probe-alleged-zuma-family-links-wagner-group-troops-south-africa",
+      "published": "2025-12-21T14:35:22",
+      "content": "South African authorities are investigating the whereabouts of around 20 African men who were allegedly misled into fighting for Russia in Ukraine. FRANCE 24 has reviewed a letter from former president Jacob Zuma, testimony from a father in Botswana and analysis from a defence expert to understand what happened to the men and who may be involved.",
+      "content_length": 348,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Job killer",
+      "link": "https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview",
+      "published": "2025-12-21T14:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nPark Chan-wook's 12th feature-length movie, No Other Choice, begins with Man-su (Lee Byung-hun) as a proud patriarch at the barbecue, a vision of the platonic ideal domestic life he will spend most of the movie defending. In the long middle where life is lived, the movie offers its audience mirth and pathos and deep social critique. Also: murders. After being laid off from a paper company, Man-su realizes that his best chance at getting hired for his next job is to knock off the three other qualified candidates.\nAdapted from Donald Westlake's novel The Ax, No Other Choice captures - most delightfully and cathartically - the perpetual and un …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Streeting urges closer trading ties with Europe to grow UK economy",
+      "link": "https://www.theguardian.com/politics/2025/dec/21/recovery-period-after-doctors-strikes-is-concern-for-nhs-says-streeting",
+      "published": "2025-12-21T14:19:32",
+      "content": "Health secretary’s comments push further than government’s position on EU in wide-ranging interviewA deeper trading relationship with the EU would be the best way of growing Britain’s economy, which has an “uncomfortable” level of tax, Wes Streeting has said.The health secretary said it would not be possible for any partnership with the EU to “return to freedom of movement”, but his comments appeared to leave the door open to the idea of a customs union. Continue reading...",
+      "content_length": 478,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Nach Wahl Kasts: Verändert sich Chiles Gedenken an die Diktatur?",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-pinochet-gedenken-kast-100.html",
+      "published": "2025-12-21T14:17:51",
+      "content": "   Vergangene Woche wurde in Chile ein Präsident gewählt, der keinen Hehl aus seiner Bewunderung für Ex-Diktator Pinochet macht. Opferverbände sind verunsichert. Wie wird sich das Gedenken an die Verbrechen verändern? Von Daniel Stender.[mehr]",
+      "content_length": 243,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending",
+      "link": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
+      "published": "2025-12-21T14:00:05",
+      "content": "Echoing the dismantling of USAID, other countries are changing funding priorities and health and hunger programmes in Africa will lose out The notion of humanitarian aid being used to combat poverty and hunger is being replaced in Europe with geopolitical “games” as states redirect aid to Ukraine and to defence spending, analysts warn after recent announcements by Sweden and Germany.Earlier this year, humanitarian groups called for European donors to fill the gap as President Donald Trump dismantled the USAID programme, but instead other nations are further pulling back from their commitments around the world. Continue reading...",
+      "content_length": 637,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "The best thing I bought this year: The Nintendo Switch 2",
+      "link": "https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite",
+      "published": "2025-12-21T14:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nI waited for the Nintendo Switch 2 for a long time. Rumors of an allegedly-real-but-never-released Switch Pro swirled around for years as I watched fewer and fewer AAA third-party games make their way to Nintendo’s little console that could. There were always enough first-party titles and indie games to tide me over, but I watched with some envy as games like Elden Ring took the world by storm, knowing I’d have to wait until Nintendo’s next generation hardware arrived to add them to my Switch library. Now, finally, it’s here.\n\nThe Switch 2’s core strength for me boils down to it being a better version of the original Switch. Its 7.9-inch 120Hz 1080P screen looks sharp — yes, an OLED display would have been nicer, but I’m not complaining —&nbsp;and its ability to output at up to 4K, or up to 120Hz at lower resolutions, is a welcome improvement. It can play most original Nintendo Switch games, some of which have been updated through free or paid patches to run at a higher frame rate or resolution.\n\nThe only native Switch 2 game I’ve played so far is Mario Kart World, which I picked up as part of a bundle with the system. My most-played game is the original Switch title The Legend of Zelda: Tears of the Kingdom, which runs at 4K and 60 frames per second if you get the Switch 2 edition for $10 (it’s a free download if you have an active Nintendo Switch Online subscription). That subscription also allows me to play a growing number of GameCube games available as Nintendo Classics, including titles I didn’t get to play when I was a kid. \n\nI specifically put off playing games from my backlog, including titles going back several years, until I could play them on a larger display in handheld mode, and I don’t regret my decision. Putting dozens of hours into Octopath Traveler while chilling on the couch with the big-screen handheld was a heck of a lot of fun. Nintendo and third-party developers have also been pretty generous with releasing free demos of Nintendo Switch 2 titles, including Donkey Kong Bananza and Final Fantasy VII Remake Intergrade, so it’s possible to sample bigger titles before deciding to pick them up.&nbsp;\n\nMy only real complaint with the Nintendo Switch 2 is its 256GB of internal storage, which isn’t enough for folks like me who’ve built up a large digital library of Switch games. Adding more requires you to pop in a microSD Express card, which can be twice the price of than the regular microSD cards used by the original Switch. My hope is that if a hardware revision comes down the line it’ll include an OLED display and at least 512GB of storage. By that time microSD Express cards will have hopefully become more affordable.\n\nThe console’s $449.99 starting price came as a shock to many, but it seems fair given its tech specs, and an escalating tariff situation that delayed the Switch 2’s preorder timing in North America and compelled Nintendo to raise the price of the original Nintendo Switch. Nintendo recently announced that it “will shift our primary development focus to Nintendo Switch 2 and expand our business around this new platform.” I’ll continue to look forward to exclusive titles making their way to my new console of choice, along with ports of third-party games that I haven’t gotten around to yet.&nbsp;\nNintendo Switch 2\n\nWhere to Buy: $449.99 at Best Buy $449 at Amazon $449.99 at Target",
+      "content_length": 3379,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "How AIM taught the internet to chat",
+      "link": "https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history",
+      "published": "2025-12-21T13:58:36",
+      "content": "\n\n\n\t\n\t\t\n\nIf you were an internet user around the turn of the century, there's a good chance I could play a one-second long sound of a door opening and memories would immediately come flooding back. Memories of running home from school and logging onto AOL Instant Messenger to chat with your friends or your crush. Maybe memories of how AIM changed the way your company did business. Certainly memories of your old screen name, and the angsty song lyrics you put into your away message.\nAIM was, for a time, the most important chat app on the internet. It also barely managed to continue to exist. The app was created by a semi-rogue team inside of AOL, and …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wofür die Deutschen ihr Geld am liebsten ausgeben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sommerurlaub-statt-weihnachtsgeschenke-100.html",
+      "published": "2025-12-21T13:53:15",
+      "content": "   Während das Weihnachtsgeschäft noch sehr schleppend läuft, knallen in der Tourismusbranche die Korken: Die Deutschen buchen früh und zahlen viel. Von Anke Heinhaus.[mehr]",
+      "content_length": 173,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Macron announces decision to build new aircraft carrier on visit to UAE",
+      "link": "https://www.france24.com/en/france/20251221-live-macron-addresses-french-troops-on-visit-to-the-united-arab-emirates",
+      "published": "2025-12-21T13:42:47",
+      "content": "France ​will ⁠build a new aircraft carrier to boost ​its ‍capacities ​as a maritime ​power, President Emmanuel Macron told French troops gathered at a military ‍base in ​Abu Dhabi. Macron arrived in the United Arab Emirates on Sunday to celebrate Christmas with troops and to discuss bilateral ties with the Gulf state.",
+      "content_length": 319,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The week in pictures: Terror and heroism in Sydney, disappearing Epstein files and EU farmer protests",
+      "link": "https://www.france24.com/en/culture/20251221-the-week-in-pictures-terror-and-heroism-in-sydney-disappearing-epstein-files-and-eu-farmer-protests",
+      "published": "2025-12-21T13:38:03",
+      "content": "A hero bystander wrests a gun from one of two assailants at a mass shooting on Sydney’s Bondi Beach, at least 16 Jeffrey Epstein-related files disappear from the Justice Department’s public website within a day of their release and deadly Thailand-Cambodia border clashes displace hundreds of thousands. FRANCE 24 looks back at the week's most striking images.",
+      "content_length": 360,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Australier gedenken der Anschlagsopfer am Bondi Beach",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-gedenkfeier-anschlag-chanukka-100.html",
+      "published": "2025-12-21T13:35:05",
+      "content": "   Unter strengen Sicherheitsvorkehrungen haben Tausende Australier der Opfer des Anschlags auf das Chanukka-Fest am Bondi Beach in Sydney gedacht. Premier Albanese will die Geheimdienste im Land überprüfen lassen.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "2025: a year in art on The Verge",
+      "link": "https://www.theverge.com/tech/841568/art-2025-best",
+      "published": "2025-12-21T13:30:00",
+      "content": "\n\n\n\t\n\t\t\n\n\nThe Verge art team's favorite projects this year spanned the circus surrounding DOGE, the myths of the Vietnam War, the privacy crisis for trans people online, the vast surveillance network aimed at tracking down Iranian military dissidents, and much more. We built a kaleidoscope to showcase some standout products from The Verge's gift guides, sent an illustrator to the crowded halls of the courthouse to draw Luigi Mangione fans and spectators live, and dug deep into the confusing world of News Daddy to create collages about how college students get their news. Here's a look back at some of what we made this year.\n\nWikipedia is resilient b …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Morocco faces high expectations as AFCON kicks off at home",
+      "link": "https://www.france24.com/en/video/20251221-morocco-faces-high-expectations-as-afcon-kicks-off-at-home",
+      "published": "2025-12-21T13:27:25",
+      "content": "The Africa Cup of Nations begins this Sunday in Morocco, with the opening match in Rabat tonight featuring the hosts against Comoros. Morocco’s Atlas Lions are among the tournament favorites, but they will face tough competition from strong teams such as Senegal. RFI Sports Editor and correspondent from Morocco, Paul Myers, brings us with the latest.",
+      "content_length": 352,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "United Arab Emirates hosts Macron for security talks",
+      "link": "https://www.france24.com/en/video/20251221-united-arab-emirates-hosts-macron-for-security-talks",
+      "published": "2025-12-21T13:26:12",
+      "content": "French President Emmanuel Macron is spending two days in the United Arab Emirates to celebrate the Christmas holiday with nearly 900 French troops stationed at three bases near Abu Dhabi, highlighting France’s military presence in a region facing multiple overlapping crises. Nicholas Rushworth reports.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A minute of silence for Bondi Beach shooting victims",
+      "link": "https://www.france24.com/en/video/20251221-a-minute-of-silence-for-bondi-beach-shooting-victims",
+      "published": "2025-12-21T13:24:29",
+      "content": "Australia is observing a national Day of Reflection one week after the deadly shooting at a Jewish festival on Bondi Beach, with crowds gathering at a waterfront memorial and people across the country lighting candles and holding a minute of silence at exactly 6:47 p.m. local time, the moment the first shots were fired; the attack left 15 people dead and dozens injured, including 13 who remain hospitalized, and was carried out by a father and son, the latter previously flagged for possible radicalization, prompting the prime minister on Sunday to order a review of Australia’s security and intelligence services. Caroline Baum reports.",
+      "content_length": 641,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Humanoid robots are coming. Eventually?",
+      "link": "https://www.theverge.com/column/843418/humanoid-robot-hype",
+      "published": "2025-12-21T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. \nWe're taking a winter break! The Stepback will be back on January 11th, 2026. Meanwhile, you catch up on past issues here.\nHow it started\nI have a soft spot for robot fail videos. I watch them on a loop, chuckling to myself, as a kind of therapy. Maybe I'm a sadist, maybe I need to get out more - you can judge me later - but they get me every time. So naturally, I've been glued to a clip of Tesla's Optimus …\nRead the full story at The Verge.",
+      "content_length": 691,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Wie die stille Nacht nicht einsam wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/einsamkeit-weihnachten-100.html",
+      "published": "2025-12-21T12:30:46",
+      "content": "   Weihnachten feierlich mit der Familie, Silvester ausgelassen mit Freunden feiern - soweit das Klischee. Die Realität sieht jedoch für Millionen Menschen anders aus. Sie sind allein. Doch noch ist Zeit, das zu ändern. Von Sandra Biegger.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Top economists call for halt to Sri Lanka debt repayments after Cyclone Ditwah",
+      "link": "https://www.theguardian.com/business/2025/dec/21/top-economists-sri-lanka-debt-repayments-restructuring-cyclone-ditwah",
+      "published": "2025-12-21T12:10:53",
+      "content": "Group of 120 experts including Joseph Stiglitz urge fresh debt restructuring plan given scale of destructionA group of the world’s top economists – including the Nobel prize winner Joseph Stiglitz – have called for Sri Lanka’s debt payments to be suspended as it tackles the devastation caused by Cyclone Ditwah.More than 600 people were killed and hundreds of thousands of homes destroyed across the island, in what Sri Lanka’s president, Anura Kumara Dissanayake, called the “largest and most challenging natural disaster in our history”. Continue reading...",
+      "content_length": 560,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Justizministerium plant Gesetz zur Speicherung von IP-Adressen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-speicherung-ip-adressen-100.html",
+      "published": "2025-12-21T12:10:07",
+      "content": "   Das Bundesjustizministerium will ein Gesetz auf den Weg bringen, mit dem Internetanbieter IP-Adressen künftig drei Monate lang speichern müssen. Ziel sei eine bessere Bekämpfung von Sexualstraftätern und anderen Kriminellen.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Alarm over ‘exploding’ rise in use of sanctions-busting shadow fleet",
+      "link": "https://www.theguardian.com/world/2025/dec/21/alarm-over-exploding-rise-in-use-of-sanctions-busting-shadow-fleet",
+      "published": "2025-12-21T11:33:26",
+      "content": "Fear that confrontation is on the cards as policing of ships becomes more aggressive and Russia challenges EuropeThe “shadow fleet” used by Russia, Iran and Venezuela to avoid western sanctions and ship cargo to customers including China and India is “exploding” in its scale and scope, and there are concerns that efforts to counter it are drawing closer to dangerous military confrontations.Complicating the issue is that Russia has begun putting its own flag on some former shadow fleet tankers, in an open challenge to Europe. Continue reading...",
+      "content_length": 550,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK supermarkets turn to European turkeys as avian flu hits supply",
+      "link": "https://www.theguardian.com/business/2025/dec/21/uk-supermarkets-european-turkeys-avian-flu-hits-supply-christmas",
+      "published": "2025-12-21T11:00:02",
+      "content": "Asda, Lidl and Morrisons understood to be stocking imported branded turkeys to meet Christmas demandSeveral of the UK’s big supermarkets have been forced to source turkeys from elsewhere in Europe to keep shelves stocked this Christmas, after avian flu curtailed UK production.Asda, Lidl and Morrisons are understood to be stocking branded turkey imported from mainland Europe – a move industry sources described as “unprecedented” – to “protect availability” and ensure sufficient supply for festive meals. Continue reading...",
+      "content_length": 527,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Gespräche in Miami laut Putin-Vertrautem \"konstruktiv\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-114.html",
+      "published": "2025-12-21T09:54:58",
+      "content": "   Neue Gesprächsrunde in Miami zum Ukraine-Krieg: Der russische Unterhändler Dmitrijew bezeichnete die bisherigen Verhandlungen als \"konstruktiv\". Präsident Putin soll bereit sein, mit Frankreichs Präsident Macron zu sprechen.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mindestens neun Tote bei Schusswaffenangriff auf Bar in Südafrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-tote-100.html",
+      "published": "2025-12-21T09:37:41",
+      "content": "   In der Nähe der südafrikanischen Stadt Johannesburg sind mindestens neun Menschen bei einem Schusswaffenangriff auf eine Bar getötet worden. Das Motiv ist bislang unklar. Nach den Tätern wird gefahndet. [mehr]",
+      "content_length": 212,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Samsung liefert One UI 8 für ältere Galaxy-Watches",
+      "link": "https://www.heise.de/news/Samsung-liefert-One-UI-8-fuer-aeltere-Galaxy-Watches-11122233.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-21T09:17:00",
+      "content": "Samsung verteilt das One-UI-8-Update auf ältere Galaxy-Watches. Nicht nur für die 5er-Modelle, sondern auch für die 4er-Reihe.",
+      "content_length": 126,
+      "source": "Heise Top",
+      "category": "Tech News"
+    }
+  ]
+}
