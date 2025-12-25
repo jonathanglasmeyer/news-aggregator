@@ -1,0 +1,887 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-25T07:16:41.671079",
+    "deduplicated_at": "2025-12-25 07:16:41",
+    "lookback_days": 7,
+    "total_input": 937,
+    "duplicates_removed": 840,
+    "new_articles": 97,
+    "deduplication_rate": "89.6%",
+    "historical_files_checked": 5
+  },
+  "articles": [
+    {
+      "title": "Grüne fordern Pflicht-App für Preisvergleich bei Lebensmitteln",
+      "link": "https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html",
+      "published": "2025-12-25T07:12:45",
+      "content": "   Welcher Supermarkt bietet die günstigsten Preise für Lebensmittel? Die Grünen schlagen verpflichtende Apps für große Einzelhandelsketten vor. Dort sollen alle Preise in Echtzeit abrufbar sein.[mehr]",
+      "content_length": 201,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Christmette in Rom - Papst Leo ruft zu Wahrung der Menschenwürde auf und kritisiert \"verkehrte Wirtschaft\"",
+      "link": "https://www.deutschlandfunk.de/papst-leo-ruft-zu-wahrung-der-menschenwuerde-auf-und-kritisiert-verkehrte-wirtschaft-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Papst Leo XIV. hat im Petersdom seine erste Christmette im Amt gefeiert. Das Oberhaupt der römisch-katholischen Kirche beschwor in seiner Predigt die Macht der Liebe, die alle mit einbeziehe. Zugleich kritisierte er etwa die Wirtschaft, die den Menschen als reine Ware betrachte.",
+      "content_length": 279,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weihnachtsbotschaften - Kirchen in Deutschland rufen zu Solidarität auf",
+      "link": "https://www.deutschlandfunk.de/kirchen-in-deutschland-rufen-zu-solidaritaet-auf-104.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Die Kirchen in Deutschland rufen in ihren Weihnachtsbotschaften zu mehr Mitmenschlichkeit auf.",
+      "content_length": 94,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Soziales - Städte- und Gemeindebund fordert mehr Geld für Einsatz gegen Einsamkeit",
+      "link": "https://www.deutschlandfunk.de/staedte-und-gemeindebund-fordert-mehr-geld-fuer-einsatz-gegen-einsamkeit-116.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Der Städte- und Gemeindebund schlägt die Einrichtung eines Fonds über 500 Millionen Euro gegen Einsamkeit vor.",
+      "content_length": 110,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Jahreswechsel - Hersteller rechnen mit höheren Absatzmengen von Feuerwerk",
+      "link": "https://www.deutschlandfunk.de/hersteller-rechnen-mit-hoeheren-absatzmengen-von-feuerwerk-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Beim Silvesterfeuerwerk in diesem Jahr wird mit einem weiteren Anstieg der Verkaufsmengen gerechnet.",
+      "content_length": 100,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Höchste drei Ligen - Pyrotechnik und Gewalt im Stadion - DFB verhängt 12 Millionen Euro an Strafen gegen Vereine",
+      "link": "https://www.deutschlandfunk.de/pyrotechnik-und-gewalt-im-stadion-dfb-verhaengt-12-millionen-euro-an-strafen-gegen-vereine-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Der Deutsche Fußball-Bund hat in der vergangenen Saison Geldstrafen gegen die Vereine aus den drei höchsten Ligen von rund 12 Millionen Euro verhängt. Geahndet wurde etwa das Abbrennen von Pyrotechnik durch Fans im Stadion.",
+      "content_length": 223,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Hass im Internet - \"Hate Aid\" wehrt sich gegen US-Vorwürfe: Man werde sich von Washington nicht einschüchtern lassen",
+      "link": "https://www.deutschlandfunk.de/hate-aid-wehrt-sich-gegen-us-vorwuerfe-man-werde-sich-von-washington-nicht-einschuechtern-lassen-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Die deutsche Beratungsstelle \"Hate Aid\", die sich gegen Hass im Internet einsetzt, wehrt sich gegen die Vorwürfe aus den USA.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sudan - Bundesentwicklungsministerin Alabali Radovan: Konflikt darf nicht in Vergessenheit geraten",
+      "link": "https://www.deutschlandfunk.de/bundesentwicklungsministerin-alabali-radovan-konflikt-darf-nicht-in-vergessenheit-geraten-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Bundesentwicklungsministerin Alabali Radovan mahnt mehr Einsatz der internationalen Gemeinschaft für ein Ende des Konflikts im Sudan an.",
+      "content_length": 136,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Israel weist Kritik an neuen Siedlungen im Westjordanland zurück",
+      "link": "https://www.deutschlandfunk.de/israel-weist-kritik-an-neuen-siedlungen-im-westjordanland-zurueck-110.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "‍Israel hat Kritik an seinen Siedlungsplänen für das besetzte Westjordanland zurückgewiesen.",
+      "content_length": 92,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Israel - Milliarden sollen in eigene Rüstungsindustrie fließen",
+      "link": "https://www.deutschlandfunk.de/milliarden-sollen-in-eigene-ruestungsindustrie-fliessen-104.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Der israelische Regierungschef Netanjahu hat umfassende Investitionen in die landeseigene Rüstungsindustrie angekündigt.",
+      "content_length": 120,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Asien - Thailand und Kamboscha wollen weiter über Waffenruhe verhandeln",
+      "link": "https://www.deutschlandfunk.de/thailand-und-kamboscha-wollen-weiter-ueber-waffenruhe-verhandeln-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Thailand und Kambodscha wollen heute weitere Gespräche über eine Waffenruhe in ihrem Grenzkonflikt führen.",
+      "content_length": 106,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "USA - Justizministerium: Über eine Million mutmaßliche neue Epstein-Akten",
+      "link": "https://www.deutschlandfunk.de/justizministerium-ueber-eine-million-mutmassliche-neue-epstein-akten-104.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "In den USA sind mehr als eine Million weitere Dokumente aufgetaucht, die im Zusammenhang mit ⁠dem verurteilten Sexualstraftäter Jeffrey Epstein ‌stehen könnten.",
+      "content_length": 160,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Saarland - Starke Böen an Heiligabend verursachen vereinzelte Stromausfälle",
+      "link": "https://www.deutschlandfunk.de/starke-boeen-an-heiligabend-verursachen-vereinzelte-stromausfaelle-100.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Starker Wind hat in Teilen Deutschlands zu Beeinträchtigungen geführt.",
+      "content_length": 70,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Brandenburg - Ministerpräsident Woidke ruft BSW zur Ordnung: Streit schadet Ansehen",
+      "link": "https://www.deutschlandfunk.de/ministerpraesident-woidke-ruft-bsw-zur-ordnung-streit-schadet-ansehen-106.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Brandenburgs Ministerpräsident Woidke hat seinen Koalitionspartner BSW wegen der partei-internen Auseinandersetzungen zur Ordnung gerufen.",
+      "content_length": 138,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weihnachtsansprache - Bundespräsident Steinmeier würdigt Wert der Gemeinschaft und ruft zu Solidarität mit der Ukraine auf",
+      "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wuerdigt-wert-der-gemeinschaft-und-ruft-zu-solidaritaet-mit-der-ukraine--122.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Bundespräsident Steinmeier ruft die Menschen in Deutschland in seiner Weihnachtsansprache zu Zuversicht und Mut auf. Im Ukraine-Krieg sieht er auch \"Zeichen von Hoffnung\".",
+      "content_length": 171,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Krieg in der Ukraine - Selenskyj präsentiert Entwurf für 20-Punkte-Friedensplan",
+      "link": "https://www.deutschlandfunk.de/selenskyj-praesentiert-entwurf-fuer-20-punkte-friedensplan-102.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Der ukrainische Präsident Selenskyj hat den Plan zur Beendigung des russischen Angriffskrieges erstmals öffentlich dargelegt. Die maßgeblich auf US-Plänen basierende Vereinbarung umfasst 20 Punkte. Laut Selenskyj sind darin etwa Sicherheitsgarantien für die Ukraine nach dem Vorbild von Artikel 5 der NATO und eine 800.000 Mann starke Armee vorgesehen. ",
+      "content_length": 353,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Berichte von Staatsmedien - Drei Tote bei Kämpfen im Westen Syriens",
+      "link": "https://www.deutschlandfunk.de/drei-tote-bei-kaempfen-im-westen-syriens-106.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Bei Kämpfen in der syrischen Provinz Latakia im Westen des Landes sind syrischen Staatsmedien zufolge drei Menschen getötet worden.",
+      "content_length": 131,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Algerien - Parlament fordert Reparationen von Frankreich",
+      "link": "https://www.deutschlandfunk.de/parlament-fordert-reparationen-von-frankreich-110.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Das algerische Parlament hat ein Gesetz verabschiedet, das die französische Kolonialherrschaft als Verbrechen einstuft und von Frankreich Reparationen sowie eine Entschuldigung fordert. Im Plenarsaal standen die Abgeordneten mit Schärpen in den Farben der algerischen Flagge und applaudierten nach der einstimmigen Verabschiedung des Textes.",
+      "content_length": 341,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Frankreich - Prorussische Hacker reklamieren Angriff auf Post für sich",
+      "link": "https://www.deutschlandfunk.de/prorussische-hacker-reklamieren-angriff-auf-post-fuer-sich-104.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Prorussische Hacker haben einen Cyberangriff für sich reklamiert, der kurz vor Weihnachten den Ablauf bei der französischen Post gestört hat.",
+      "content_length": 141,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grenzkonflikt - Thailand und Kambodscha beginnen viertägige Gespräche",
+      "link": "https://www.deutschlandfunk.de/thailand-und-kambodscha-beginnen-viertaegige-gespraeche-112.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Delegationen aus Thailand und Kambodscha sind an einem Grenzkontrollpunkt zwischen den beiden Nachbarländern zu Friedensgesprächen zusammengekommen.",
+      "content_length": 148,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Biathlon - Erste Details zum Tod des Norwegers Bakken bekannt - Appell an Medien",
+      "link": "https://www.deutschlandfunk.de/erste-details-zum-tod-des-norwegers-bakken-bekannt-appell-an-medien-104.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Nach dem Tod des norwegischen Biathleten Sivert Guttorm Bakken ist ein erstes Detail bekannt geworden. Wie der norwegische Biathlon-Verband in einer Mitteilung bekannt gab, trug der 27-Jährige eine Höhentrainingsmaske, als er tot in seinem Hotelzimmer im italienischen Lavazè aufgefunden wurde. ",
+      "content_length": 295,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Verbreitet sonnig, örtlich zäher Hochnebel",
+      "link": "https://www.deutschlandfunk.de/verbreitet-sonnig-oertlich-zaeher-hochnebel-106.html",
+      "published": "2025-12-25T07:11:40",
+      "content": "Der Wetterbericht, die Lage: Mit einer östlichen Strömung fließen deutlich kältere Luftmassen aus Osteuropa nach Deutschland.",
+      "content_length": 125,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Security bosses warn of rise in UK building site thefts by organised crime",
+      "link": "https://www.theguardian.com/business/2025/dec/25/security-bosses-warn-uk-building-site-thefts-tools-equipment-thefts-organised-crime-christmas-shutdown",
+      "published": "2025-12-25T07:00:34",
+      "content": "Concerns thefts could accelerate over Christmas shutdown, with tools and equipment increasingly targetedThefts of tools and equipment from building sites are increasingly being carried out by organised criminal groups, according to security bosses, amid warnings that the crimewave could accelerate during the Christmas construction shutdown.Copper cables, tools and even telehandlers and diggers costing tens of thousands of pounds have been stolen in recent months, according to the security firm Kingdom Systems. Continue reading...",
+      "content_length": 535,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo to renew call for peace during first Christmas blessing",
+      "link": "https://www.france24.com/en/europe/20251225-pope-leo-to-renew-call-for-peace-during-first-urbi-et-orbi-christmas-blessing",
+      "published": "2025-12-25T06:56:23",
+      "content": "Pope Leo XIV is to deliver his first Christmas “Urbi et Orbi” blessing from Vatican City on Thursday, at the end of a year overshadowed by conflict around the world. The year ends with sources of hope for the Christian community, which celebrated its first festive Christmas in Bethlehem, in the occupied West Bank, since the start of the war in Gaza.",
+      "content_length": 351,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Oil tanks on fire after alleged Ukrainian drone attack on Russia’s Temryuk port",
+      "link": "https://www.france24.com/en/europe/20251225-live-oil-tanks-on-fire-after-alleged-ukrainian-drone-attack-on-russia-s-temryuk-port",
+      "published": "2025-12-25T06:51:01",
+      "content": "Two ‍oil storage tanks were ablaze at the southern ‍Russian port of Temryuk on Thursday after what regional authorities said was a Ukrainian drone ‍attack. Authorities said on Telegram that the blaze had already spread across roughly 2,000 square ‌metres. Follow our liveblog for all the latest updates.",
+      "content_length": 303,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ruby 4.0: Viel Umbau unter der Haube, wenig neue Features",
+      "link": "https://www.heise.de/hintergrund/Ruby-4-0-Viel-Umbau-unter-der-Haube-wenig-neue-Features-11121650.html",
+      "published": "2025-12-25T06:36:00",
+      "content": "Die neue Major-Version mit einem neuen JIT-Compiler,  überarbeiteter Parallelsierungs-API und einem reifendem Typsystem ebnet den Weg für die nächste Dekade.",
+      "content_length": 157,
+      "source": "Heise Developer",
+      "category": "Tech News"
+    },
+    {
+      "title": "Plant ‘tredges’ to boost England’s tree cover, gardeners urged",
+      "link": "https://www.theguardian.com/environment/2025/dec/25/plant-tredges-boost-england-tree-cover-gardens-rhs",
+      "published": "2025-12-25T06:00:33",
+      "content": "Royal Horticultural Society’s call backs government aim to increase woodland cover from 10% to at least 16.5% by 2050Gardeners should plant native “tredges” – foliage between the size of a tree and a hedge – to boost England’s tree cover, the Royal Horticultural Society has said.Taking inspiration from ancient woodlands could boost wildlife across England’s 25m gardens, according to experts, and help increase native tree cover. The UK’s woodland cover is approximately 10% and the government aims to increase this to at least 16.5% of all land in England by 2050.Beech (Fagus sylvatica)Holly (Ilex aquifolium)Western red cedar (Thuja plicata)Common yew (Taxus baccata)Hawthorn (Crataegus monogyna) Continue reading...",
+      "content_length": 721,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "More than a million pounds spent on influencers by UK government since 2024",
+      "link": "https://www.theguardian.com/media/2025/dec/25/uk-government-spending-social-media-influencers",
+      "published": "2025-12-25T06:00:32",
+      "content": "Figures from FoI request show increase in ministerial use of social media personalities to present campaignsMore than half a million pounds has been spent since 2024 on using social media influencers to promote UK government campaigns on subjects ranging from the environment to welfare.The spending has included hiring 215 influencers since 2024, of which there were 126 in 2025 – an increase on the 89 hired in 2024 – and is seen as an attempt to use platforms such as TikTok to reach younger people. Continue reading...",
+      "content_length": 522,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sydney to Hobart yacht race forecast to be cold, wet and bumpy as Australia’s west faces bushfire threat",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/25/sydney-to-hobart-yacht-race-forecast-to-be-cold-wet-and-bumpy-as-australias-west-faces-cyclone-and-bushfire-threat",
+      "published": "2025-12-25T04:48:46",
+      "content": "Melbourne on track for coldest Christmas since 2006, while Perth is facing several fires warnings as temperatures reach 40CGet our breaking news email, free app or daily news podcastThe Sydney to Hobart yacht race is forecast to be cold, wet and bumpy but without a repeat of last year’s fatal conditions, as the rest of the country experiences the full range of weather events over the Christmas period, including cyclone and bushfire danger in the west.In Western Australia, residents at Boddington Goldmine were being warned it was too late to leave on Thursday afternoon as fire had impacted evacuation routes. A heatwave was creating extreme fire danger for much of south-west Western Australia for Christmas, with Perth forecast to reach 40C. Continue reading...",
+      "content_length": 768,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wintersturm an der US-Westküste: Notstand in Teilen Kaliforniens",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kalifornien-sturm-102.html",
+      "published": "2025-12-25T03:56:51",
+      "content": "   Sturmböen, Starkregen und Erdrutsch-Gefahr: Dem US-Bundesstaat Kalifornien droht ein heftiger Sturm. Für die Metropole Los Angeles und weitere Bezirke wurde der Notstand ausgerufen, Zehntausende sind ohne Strom.[mehr]",
+      "content_length": 220,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Honduras: Trump-naher Asfura zum Sieger der Präsidentenwahl erklärt",
+      "link": "https://www.tagesschau.de/ausland/amerika/asfura-wahlsieger-honduras-100.html",
+      "published": "2025-12-25T02:46:01",
+      "content": "   Die Auszählung zog sich über Wochen hin, jetzt steht Asfura als Sieger der Präsidentenwahl in Honduras fest. Er ist der Wunschkandidat von US-Präsident Trump, der dem Land mit dem Entzug von Finanzhilfen gedroht hatte.[mehr]",
+      "content_length": 227,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Behörden melden \"Entdeckung\" neuer Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-justizministerium-neue-epstein-akten-100.html",
+      "published": "2025-12-25T02:04:31",
+      "content": "   Im Epstein-Skandal sind offenbar mehr als eine Million neue Dokumente aufgetaucht. Das US-Justizministerium spricht von einer \"Entdeckung\". Inhalt und Herkunft der neuen Akten sind bislang unklar.[mehr]",
+      "content_length": 205,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Mehrere Staaten verurteilen Israels Siedlungspläne im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-siedlungsbau-kritik-100.html",
+      "published": "2025-12-25T00:55:32",
+      "content": "   Israels Regierung hat den Bau von 19 neuen Siedlungen im besetzten Westjordanland bewilligt - obwohl dieses Vorgehen völkerrechtswidrig ist. In Deutschland und anderen Staaten sorgt das für scharfe Kritik.[mehr]",
+      "content_length": 214,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Erste große Weihnachtsfeier in Bethlehem seit Beginn des Gaza-Kriegs",
+      "link": "https://www.tagesschau.de/ausland/asien/weihnachten-bethlehem-128.html",
+      "published": "2025-12-25T00:46:39",
+      "content": "   In den vergangenen zwei Jahren waren die Weihnachtsfeierlichkeiten in Bethlehem stark eingeschränkt, in diesem Jahr kamen wieder Tausende in die Stadt und jubelten Kardinal Pizzaballa zu. Dieser rief zu einem \"Weihnachten voller Licht\" auf.[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Papst Leo XIV. ruft zu Frieden, Hoffnung und Mitmenschlichkeit auf",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-christmette-100.html",
+      "published": "2025-12-24T23:57:53",
+      "content": "   Papst Leo XIV. hat mit in einer religiös geprägten Predigt seine erste Christmette gefeiert. Mehr als 10.000 Gläubige verfolgten die Zeremonie im und vor dem Petersdom. Weihnachten sei ein Fest der Hoffnung, so der Pontifex.[mehr]",
+      "content_length": 233,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Trump-backed candidate Asfura declared new president of Honduras",
+      "link": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+      "published": "2025-12-24T23:42:32",
+      "content": "Winning margin of 28,000 votes announced a month late but before review of all ‘inconsistent’ ballots was completedDonald Trump-backed candidate Nasry “Tito” Asfura has been declared the winner of Honduras’s presidential election after a vote count that dragged on for almost a month and was marred by fraud allegations and criticism of interference by the US president.The rightwing Asfura, 67, a construction magnate and former mayor of the capital, Tegucigalpa, secured 40.27% of the vote, against 39.53% for the centre-right Salvador Nasralla, a margin of just 28,000 votes. Continue reading...",
+      "content_length": 598,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo calls for kindness to strangers and the poor in Christmas message",
+      "link": "https://www.theguardian.com/world/2025/dec/24/pope-leo-christmas-message-kindness-strangers-poor",
+      "published": "2025-12-24T22:29:33",
+      "content": "Refusing to help those in need is tantamount to rejecting God himself, says pontiff during Christmas Eve massPope Leo has told Christians that the Christmas story should remind them of their duty to help the poor and strangers.In his Christmas Eve sermon, the pope said the story of Jesus being born in a stable because there was no room at an inn showed followers that refusing to help those in need was tantamount to rejecting God himself. Continue reading...",
+      "content_length": 461,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK, Canada and Germany condemn Israel for 19 new West Bank settlements",
+      "link": "https://www.theguardian.com/world/2025/dec/24/israel-condemned-approval-19-settlements-occupied-west-bank",
+      "published": "2025-12-24T22:09:14",
+      "content": "Fourteen countries, also including France, Italy, Ireland and Spain, say actions ‘violate international law and risk fuelling instability’Fourteen countries, including Britain, Canada and Germany, have condemned the Israeli security cabinet’s approval of 19 new settlements in the occupied West Bank, saying they violate international law and risk fuelling instability.Israel approved a proposal last Sunday for the new Jewish settlements, which brings the recent total to 69, according to the far-right finance minister, Bezalel Smotrich. Continue reading...",
+      "content_length": 559,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Perth man charged with racial harassment for alleged post backing Bondi attack",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/24/perth-man-charged-with-racial-harassment-for-alleged-post-backing-bondi-attack-ntwnfb",
+      "published": "2025-12-24T21:59:24",
+      "content": "Martin Thomas Glynn, 39, was arrested in Yangebup, where police allege they found firearms, ammunition and Hamas and Hezbollah flagsGet our breaking news email, free app or daily news podcastA man accused of posting an antisemitic social media message in support of the Bondi massacre will spend Christmas behind bars.Martin Thomas Glynn, 39, was arrested in the Perth suburb of Yangebup and charged after a concerned member of the public reported him to police. Continue reading...",
+      "content_length": 482,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump-backed Nasry Asfura declared winner of Honduras presidency",
+      "link": "https://www.france24.com/en/live-news/20251224-trump-backed-nasry-asfura-declared-winner-of-honduras-presidency",
+      "published": "2025-12-24T21:57:12",
+      "content": "Conservative businessman Nasry Asfura, backed by Donald Trump, was declared the winner of Honduras' presidential election on Wednesday, three weeks after a vote marked by a very narrow margin and allegations of fraud, signaling a return to conservatism for the country. The US president had given his unequivocal support to Asfura ahead of the election.",
+      "content_length": 353,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Over a million more documents linked to Jeffrey Epstein discovered, DOJ says",
+      "link": "https://www.france24.com/en/americas/20251224-over-a-million-more-documents-linked-to-jeffrey-epstein-discovered-doj-says",
+      "published": "2025-12-24T20:58:24",
+      "content": "The US Department of Justice announced on Wednesday that more than a million additional documents potentially related to convicted sex offender Jeffrey Epstein have been found. Officials said the files are being reviewed and redacted to protect victims, with release expected to take a few more weeks, missing the December 19 deadline set by the Epstein Files Transparency Act.",
+      "content_length": 377,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Cillian Murphy meets Barry Keoghan in first look at Peaky Blinders film",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/dec/24/netflix-releases-glimpse-of-peaky-blinders-film-starring-cillian-murphy",
+      "published": "2025-12-24T20:32:06",
+      "content": "Two stars of Irish acting unite in eagerly anticipated film about Birmingham gangster Tommy ShelbyTwo stars of Irish acting are united as Cillian Murphy meets Barry Keoghan in the first look at the eagerly anticipated Peaky Blinders film.Murphy questions his identity as “famous gypsy gangster” Tommy Shelby in the 70-second teaser released by Netflix on Christmas Eve. Continue reading...",
+      "content_length": 389,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Fahrer leicht verletzt: ICE rammt Auto an Bahnübergang",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/unfall-ice-bahnuebergang-dortmund-100.html",
+      "published": "2025-12-24T20:14:00",
+      "content": "   Auf einem Bahnübergang in Dortmund ist ein ICE auf ein Auto geprallt. Der 75 Jahre alte Fahrer des Autos habe wahrscheinlich versucht, die Halbschranke zu umfahren, so die Polizei. Er wurde leicht verletzt.[mehr]",
+      "content_length": 215,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ivory Coast beat Mozambique 1-0 in opening Africa Cup of Nations match",
+      "link": "https://www.france24.com/en/sport/20251224-ivory-coast-beat-mozambique-1-0-in-opening-africa-cup-of-nations-match",
+      "published": "2025-12-24T20:13:12",
+      "content": "Defending champions Ivory Coast started the Africa Cup of Nations with a 1-0 victory over Mozambique on Wednesday. Amad Diallo scored shortly after half-time to secure the win in the Group F match in Morocco, although Ivory Coast missed several chances to increase their lead.",
+      "content_length": 276,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Several killed in blast at mosque in northeast Nigeria",
+      "link": "https://www.france24.com/en/africa/20251224-several-killed-in-blast-at-mosque-in-northeast-nigeria",
+      "published": "2025-12-24T20:07:42",
+      "content": "At least seven people were killed on Wednesday when an explosion tore through a crowded mosque in the northeastern Nigerian city of Maiduguri during evening prayers, according to witnesses and security sources. No group has yet claimed responsibility for the suspected bombing in a city that has endured years of insurgency but has been largely calm in recent years.",
+      "content_length": 366,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US justice department says it may need ‘a few more weeks’ to process 1m more Epstein documents for release",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/justice-department-epstein-files-due-to-be-released",
+      "published": "2025-12-24T19:32:23",
+      "content": "DoJ says more documents have been uncovered amid criticisms for missing 19 December deadline for full releaseThe US justice department said on Wednesday that it has been told by federal prosecutors in Manhattan and the FBI that they have uncovered more than a million more documents related to the Jeffrey Epstein case and processing these for release could take “a few more weeks”.In a post on X, the justice department said it had received the documents from the US attorney for the southern district of New York and the FBI in “compliance with the Epstein Files Transparency Act, existing statutes, and judicial orders”. Continue reading...",
+      "content_length": 643,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Australians expected to spend big on Boxing Day as shoppers warned of deceptive sales tricks",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/25/australians-expected-to-spend-big-on-boxing-day-as-shoppers-warned-of-deceptive-sales-tricks",
+      "published": "2025-12-24T19:00:20",
+      "content": "Shoppers predicted to spend $3.8bn in the week after Christmas, with household goods and fashion to dominate salesGet our breaking news email, free app or daily news podcastAustralians are forecast to spend $1.6bn in the sales on Boxing Day as the consumer regulator warns shoppers that even major retailers use deceptive sales tactics.The revenue generated from Boxing Day sales on Friday is forecast to rise by 4.3% compared with 2024, according to new data from Roy Morgan and the Australian Retailers Association (ARA). Continue reading...",
+      "content_length": 543,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Wounded Bondi hero Ahmed al-Ahmed recovering well and may soon leave hospital",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/24/wounded-bondi-hero-ahmed-al-ahmed-recovering-well-and-may-soon-leave-hospital-ntwnfb",
+      "published": "2025-12-24T19:00:20",
+      "content": "The 44-year-old has gone through three rounds of surgery in a Sydney hospital since suffering five gunshot woundsTen minutes of terror: how the Bondi mass shooting unfolded in real time – videoFollow the latest live updatesAhmed al-Ahmed has been recovering well from gunshot wounds suffered while confronting the Bondi shooters and may soon leave hospital, Syrian community members say.The 44-year-old has gone through three rounds of surgery in a Sydney hospital after suffering five gunshot wounds during a terrorist attack on a Hanukah event by Bondi beach. Continue reading...",
+      "content_length": 581,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "UK, Canada, Germany and others condemn Israel’s West Bank settlement expansion",
+      "link": "https://www.france24.com/en/middle-east/20251224-uk-canada-germany-and-others-condemn-israel-s-west-bank-settlement-expansion",
+      "published": "2025-12-24T18:37:45",
+      "content": "The UK, Canada, Germany and several other countries on Wednesday condemned Israel’s decision to approve 19 new settlements in the occupied West Bank, saying the move violated international law and risked fuelling further instability, and calling on the Israeli government to reverse the decision.",
+      "content_length": 296,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Algeria beats Sudan 3-0 in Africa Cup of Nations opener",
+      "link": "https://www.france24.com/en/sport/20251224-algeria-beats-sudan-3-0-in-africa-cup-of-nations-opener",
+      "published": "2025-12-24T18:21:03",
+      "content": "Algeria started their Africa Cup of Nations campaign with a 3-0 win over Sudan on Wednesday. Captain Riyad Mahrez scored twice, including a goal within the first two minutes, and Ibrahim Maza added a late third as the 2019 champions opened their Group E campaign in Rabat.",
+      "content_length": 272,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Farage criticised for £400,000 job promoting physical gold as pension investment",
+      "link": "https://www.theguardian.com/politics/2025/dec/24/farage-criticised-for-direct-bullion-job-promoting-physical-gold-as-pension-investment",
+      "published": "2025-12-24T18:00:17",
+      "content": "Exclusive: Reform leader promotes Direct Bullion – but experts say commodity is not for everyday investorsNigel Farage has been criticised over his £400,000-a-year second job promoting the idea that people should buy physical gold and put it into their pension pots.Farage is paid more than four times his MPs’ salary for the four-hour-a-month job at Direct Bullion, where he has featured in Facebook and YouTube videos. Continue reading...",
+      "content_length": 440,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
+      "link": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
+      "published": "2025-12-24T18:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nAs you might expect, things have been relatively quiet on the deals front since Black Friday, particularly when it comes to discounts on charging accessories. Thankfully, Anker’s aptly titled Laptop Power Bank is once again on sale at Amazon and Walmart for $87.99 ($47 off), which matches the record-low price we last saw at the end of November.\nAnker Laptop Power Bank\n\nWhere to Buy: $119.99 $87.99 at Amazon $119.99 $89.99 at Best Buy $119.99 $87.99 at Walmart\nUnless you’ve been living under a proverbial rock for the past several years, you’re probably aware that Anker makes an ungodly amount of charging accessories. The portable A1695 “InstaCord” has quickly become a favorite among Verge staffers, however, owing to the fact that it comes with a retractable USB-C cable and a second that doubles as a handle, both of which are bidirectional and allow for passthrough charging. The 25,000mAh / 90Wh power bank&nbsp;also sports a USB-A port and an additional USB-C port,&nbsp;allowing you to charge your phone, a MacBook Pro, and up to two other devices simultaneously. \n\nIn terms of output distribution, Anker’s 600-gram Laptop Power Bank can deliver up to 165W when two devices are plugged in, or up to 130W when charging three or four gadgets. It’s carry-on compliant, too, meaning you shouldn’t have any trouble getting it through TSA while traveling, which isn’t the case if your charger is above the agency’s 100 watt-hours threshold for carry-on devices. It even features a built-in LCD display, allowing you to quickly view the remaining charge, overall power output, battery temperature, and other info at a glance.\n\n\n\nMore ways to save today\n\n\nThe Bose SoundLink Home has fallen to around $179 ($50 off) at Amazon, Best Buy, and Target, which is about $15 more than its all-time low. It’s a bit more limited than other speakers you might get at this price — there’s no water or dust resistance, for example, and the battery tops out at 9 hours — but it still offers great sound for its size, supports USB-C audio in, and features a handsome, mid-modern look that few speakers can match. Read our review.\n\n\n\nIf you own an older TV that lacks built-in support for streaming apps, Roku’s Streaming Stick 4K is on sale at Amazon, Best Buy, and Target for $24.99 ($25 off), a mere $1 shy of its best price to date. The small HDMI stick supports 4K resolution and all your major 4K HDR formats, not to mention Roku’s TV interface, which remains the gold standard in terms of simplicity. It also draws power directly from your TV, allowing you to skip the cable.\n\n\n\nMicrosoft jacked up the price of the Xbox Series X in mid-September; however, Amazon, Best Buy, and Walmart are now selling the company’s latest gaming console for $599.99 ($50 off). It’s certainly not the cheapest we’ve seen it go for — hell, it once dropped to $340 at Best Buy — but it’s likely the best price we’re going to see until the ongoing tariff situation in the US is resolved and prices begin to come back down. Read our review.\n",
+      "content_length": 3027,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Why all the running? Sporting craze draws in record numbers",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20251224-why-all-the-running-sporting-craze-draws-in-record-numbers",
+      "published": "2025-12-24T17:35:46",
+      "content": "It's one of those New Year's resolutions often blurted out after a big family meal. \"I'm going to run a marathon!\" But like the cautionary saying \"puppies aren't for Christmas, they're for life\", one wonders how many realise the error of their ways when they're gasping for air during that first January training run. Or not.",
+      "content_length": 325,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Algerian parliament brands French colonisation a crime, demands apology and reparations",
+      "link": "https://www.france24.com/en/africa/20251224-algerian-parliament-brands-french-colonisation-state-crime-demands-apology-reparations",
+      "published": "2025-12-24T16:49:29",
+      "content": "Algeria’s parliament voted unanimously on Wednesday to declare France’s 130-year colonisation of the country a crime, calling for a formal apology and reparations from Paris. The largely symbolic move comes amid a widening diplomatic rift between the two countries and underscores the enduring sensitivity of the North African country's colonial past.",
+      "content_length": 351,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Being Santa Claus is a year-round calling",
+      "link": "https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/",
+      "published": "2025-12-24T16:23:35",
+      "content": "Tis the season when professional Santas are in peak demand, but many who choose this line of work often view it as a higher calling and maintain some aspects of the identity all year round—even those who don't fit the stereotypical popular image of Santa, according to a paper published in the Academy of Management Journal.\nCo-author Christina Hymer of the University of Tennessee got the idea for the study during the COVID pandemic, when she spent a lot of time watching Christmas movies with her toddler. One favorite was 2003's Elf, starring Will Farrell as a full-sized human raised among elves who goes to New York City to find his biological father. The film prompted her to wonder about why someone would want to be Santa Claus and what their experiences in that role would be.\nHymer and her co-authors partnered with the leader of a \"Santa school\" to analyze archival surveys of 849 professional Santas, and conducted a new survey of another 382 Santas. They also did over 50 personal interviews with professional Santas. (One subject showed up in full costume for his zoom interview, with a North Pole background, and signed off with a merry \"ho! ho! ho!\")Read full article\nComments",
+      "content_length": 1193,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Frohe Weihnachten: Wir wünschen von Herzen erholsame und besinnliche Feiertage!",
+      "link": "https://www.heise.de/news/Frohe-Weihnachten-Wir-wuenschen-von-Herzen-erholsame-und-besinnliche-Feiertage-11120728.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "published": "2025-12-24T16:11:00",
+      "content": "Die Redaktionen von heise wünschen eine erfreuliche, erholsame und friedliche Zeit zwischen den Jahren. Wir halten Sie in den kommenden Tagen auf dem Laufenden.",
+      "content_length": 160,
+      "source": "Heise Top",
+      "category": "Tech News"
+    },
+    {
+      "title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "published": "2025-12-24T16:00:15",
+      "content": "More than a year after the storm ripped apart families and farms, growers are bullish about strength of their industryChristmas tree farmers in western North Carolina are still rebuilding from last year’s devastating Hurricane Helene, but growers are optimistic about business and the overall strength of their industry in the region.“There’s still a lot of recovery that needs to happen, but we’re in much better shape than we were this time last year … sales are good,” Kevin Gray, owner of Hickory Creek Farm Christmas Trees in Greensboro, said earlier this month, while the buying season was in full swing. Continue reading...",
+      "content_length": 630,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine's Zelensky awaits Russian answer to revised US-peace plan",
+      "link": "https://www.france24.com/en/video/20251224-ukraine-s-zelensky-awaits-russian-answer-to-revised-us-peace-plan",
+      "published": "2025-12-24T15:27:48",
+      "content": "Ukraine's leader Volodymyr Zelensky said he was hoping for Moscow's answer on Wednesday to the latest version of a draft proposal to end the war agreed between Washington and Kyiv.  Ukraine won some concessions in the latest version of the US-led plan, but key questions remain over territory and whether Moscow could accept the new terms. Details by FRANCE 24 correspendent in Kyiv, Emmanuelle Chaze.",
+      "content_length": 401,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Israel strikes southern Lebanon as deadline to disarm Hezbollah nears",
+      "link": "https://www.theguardian.com/world/2025/dec/24/israel-strikes-southern-lebanon-as-deadline-to-disarm-hezbollah-nears",
+      "published": "2025-12-24T15:08:57",
+      "content": "Strikes were latest violation of year-long ceasefire and targeted what Israel said were Hezbollah sites Israel has carried out several airstrikes in southern Lebanon on what it said was Hezbollah infrastructure, as a new year’s deadline for the Lebanese state to disarm the group in the south of the country loomed.Israeli warplanes bombed the valleys of Houmin, Wadi Azza and Nimeiriya in the southern Nabatieh area on Wednesday morning. Residents reported that Israeli drones continued to hover over the area and other areas of south Lebanon and its eastern Bekaa valley after the strikes. Continue reading...",
+      "content_length": 611,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Turkey recovers black box from Libya army chief’s fatal plane crash",
+      "link": "https://www.france24.com/en/asia-pacific/20251224-turkey-recovers-black-box-libya-army-chief-fatal-plane-crash",
+      "published": "2025-12-24T15:06:31",
+      "content": "Turkish authorities said on Wednesday they had recovered the cockpit voice and flight data recorders from a private jet crash near Ankara that killed Libya’s armed forces chief Mohammed al-Haddad and four aides. The devices will be analysed in a neutral country, the transport minister said, as investigators seek to determine the cause of Tuesday's crash.",
+      "content_length": 356,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Algeria passes law declaring French colonisation a crime",
+      "link": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
+      "published": "2025-12-24T15:02:47",
+      "content": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportationAlgeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and reparations.Lawmakers, standing in the chamber wearing scarves in the colours of the national flag, chanted “long live Algeria” on Wednesday as they applauded the passage of the bill, which states that France holds “legal responsibility for its colonial past in Algeria and the tragedies it caused”. Continue reading...",
+      "content_length": 553,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Polizisten bei Explosion in Moskau getötet",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-moskau-polizisten-explosion-100.html",
+      "published": "2025-12-24T15:01:25",
+      "content": "   Zum zweiten Mal in dieser Woche hat eine Explosion die russische Hauptstadt erschüttert. Behörden zufolge kamen zwei Polizisten und ein weiterer Mann ums Leben. Laut Ermittlern wurde ein Sprengkörper gezündet.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Republicans aim to exempt major polluters from Pfas cleanup costs",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/republicans-pfas-cleanup-costs",
+      "published": "2025-12-24T15:00:15",
+      "content": "Water treatment and landfill companies given chance to make case that EPA rules should not apply to themRepublicans are attempting to exempt some major polluters from paying for Pfas “forever chemical” cleanup. If successful, it could mark a major setback in US effort to rein in Pfas pollution.The Republican-led House energy and commerce committee recently held a hearing at which it invited representatives from the water treatment and landfill industries, among others, to make the case about why they should be exempted from rules that hold polluters financially accountable for the cleanup of two types of dangerous Pfas. Continue reading...",
+      "content_length": 647,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Trump’s claims to Venezuelan oil are part of broader ‘resource imperialism’, experts say",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/trump-venezuela-oil-resource-imperialism",
+      "published": "2025-12-24T15:00:14",
+      "content": "Critics compare offensive to Iraq war, citing familiar mix of regime-change rhetoric, security pretexts and oil interestsDonald Trump’s recent claims that the US should keep Venezuelan oil from seized tankers are part of a broader belief in rightwing “resource imperialism”, experts say.In recent weeks, the Trump administration has escalated pressure on Venezuela, invoking drug-trafficking claims. This month, the US intercepted two tankers carrying Venezuelan oil and began pursuing a third, while intensifying its campaign against the country’s president, Nicolás Maduro. Continue reading...",
+      "content_length": 595,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today",
+      "link": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
+      "published": "2025-12-24T15:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nSony’s full suite of PlayStation 5 consoles jumped in price in August due to increased US tariffs, but now through Christmas, you can save $100 on several models. This discount is especially great if you planned to go big with Sony’s PS5 Pro, the company’s priciest, most powerful console yet. Normally $749.99, you can currently grab one at Amazon, Walmart, and Target for around $689.99. Sony’s PlayStation Direct storefront indicates that the PS5 Pro sale ends on December 25th at 3AM ET, although discounts may remain on cheaper models.\nPlayStation 5 Pro\n\nWhere to Buy: $749 $648.99 at Amazon $749 $649 at Walmart $749 $649.99 at Target\nThe PS5 Pro plays many games at their best resolution, while making far fewer concessions than the standard PS5 when it comes to visual effects (particularly ray tracing and shadow quality). Some games simply look better or run faster on the Pro than the base-model PS5, while others look better and run faster. That said, it’s worth noting that PS5 Pro lacks a disc drive and is thus limited to digital titles, though you can buy an optional drive for $80 if you want to attach one later.\n\nThe PlayStation 5 Pro has a bigger GPU than any other PS5 model, with twice as much internal storage as the current slim models (2TB versus 1TB). Another notable feature exclusive to the Pro is PSSR (PlayStation Spectral Super Resolution), which uses AI to upscale graphics in supported games to produce a better-looking image. The difference in performance between the Pro and the base PS5 is easy to notice in several games, although it’s safe to say that there hasn’t yet been a title that makes upgrading to one a no-brainer. But if a lower price is all the encouragement you needed to upgrade, now is a good time to get one.\n\nRead our full PS5 Pro review.",
+      "content_length": 1801,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "France Cricket faces power struggle as government backing hangs in the balance",
+      "link": "https://www.france24.com/en/sport/20251224-france-cricket-faces-power-struggle-government-backing-hangs-in-balance-icc",
+      "published": "2025-12-24T14:38:06",
+      "content": "The French governing body for cricket is set to lose its state mandate, just six months after winning an executive seat on the International Cricket Council. Now, a rival federation looks to control the sport’s future in France.",
+      "content_length": 228,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "US actions will not stop EU from moderating online hate and disinformation, commissioner says",
+      "link": "https://www.france24.com/en/europe/20251224-us-actions-will-not-stop-eu-moderating-online-hate-disinformation-commissioner-says",
+      "published": "2025-12-24T14:28:39",
+      "content": "US visa sanctions will not stop the EU from enforcing its rules on online platforms, the bloc’s internal market commissioner said on Wednesday, after Washington imposed visa bans on individuals linked to the Digital Services Act, the EU law governing content moderation on social media. The move underscores a growing transatlantic rift over free speech and digital sovereignty.",
+      "content_length": 378,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Trump approves deployment of 350 national guard members to New Orleans",
+      "link": "https://www.theguardian.com/us-news/2025/dec/24/trump-national-guard-deployment-new-orleans",
+      "published": "2025-12-24T14:25:51",
+      "content": "Critics say deployment is unwarranted and could cause fear in the city, which has seen a decrease in violent crime ratesThe Trump administration is deploying 350 national guard troops to New Orleans ahead of the new year, launching another federal deployment in the city at the same time that an immigration crackdown led by border patrol is under way.Pentagon spokesperson Sean Parnell said on Tuesday that guard members, as they have in other deployments in large cities, will be tasked with supporting federal law enforcement partners, including the Department of Justice and the Department of Homeland Security. Parnell added that the national guard troops will be deployed through February. Continue reading...",
+      "content_length": 715,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky reveals US-Ukraine plan to end Russian invasion",
+      "link": "https://www.france24.com/en/video/20251224-zelensky-reveals-us-ukraine-plan-to-end-russian-invasion",
+      "published": "2025-12-24T14:14:57",
+      "content": "Ukrainian President Volodymyr Zelensky has revealed details of the latest US-led plan to end the war in Ukraine, saying it had been agreed between negotiators from Kyiv and Washington and sent to Moscow for feedback. Zelensky said he was hoping for Moscow's answer on Wednesday. Story by Bryan Quinn.",
+      "content_length": 300,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "EU warns of possible action after the US bars five Europeans combating online hate",
+      "link": "https://www.france24.com/en/video/20251224-eu-warns-of-possible-action-after-the-us-bars-five-europeans-combating-online-hate",
+      "published": "2025-12-24T14:13:19",
+      "content": "The European Union, France and Germany have slammed US visa bans on European citizens combating online hate and disinformation, with Brussels saying it could \"respond swiftly and decisively\" against the \"unjustified measures\". The highest profile person targeted by the visa restrictions is former European Union Commissioner Thierry Breton – who helped drive EU legislation that's recently targeted top US tech companies. The Trump administration has accused Breton and four other anti-disinformation campaigners of censoring US social media platforms. For more information, Carys Garland interviews Nathalie Loiseau, MEP and former French Minister of European Affairs.",
+      "content_length": 670,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Scharfe Kritik an \"inakzeptablen\" US-Sanktionen gegen HateAid-Spitze",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-einreiseverbot-hateaid-usa-100.html",
+      "published": "2025-12-24T14:08:01",
+      "content": "   Von den USA verhängte Einreiseverbote für die Geschäftsführerinnen der Organisation HateAid ziehen massive Kritik der Bundesregierung nach sich. Die EU verteidigt ihre Digitalgesetze - und will sich gegen \"ungerechtfertigte Maßnahmen\" wehren.[mehr]",
+      "content_length": 251,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Cybersicherheit - was sollten junge Menschen wissen",
+      "link": "https://www.tagesschau.de/wissen/forschung/cybersicherheit-jugendliche-bildung-datendienstahl-mobbing-100.html",
+      "published": "2025-12-24T14:00:30",
+      "content": "   Junge Internetnutzer werden oft Opfer von Betrug, Mobbing und kriminellen Übergriffen. Forscher haben jetzt einen Katalog von Fähigkeiten erstellt, die Kinder und Jugendliche für digitale Sicherheit lernen sollen. Von Frank Bäumer.[mehr]",
+      "content_length": 240,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US and Ukraine edge closer to joint plan to end war – with Moscow’s response uncertain",
+      "link": "https://www.theguardian.com/world/2025/dec/24/us-ukraine-edge-closer-joint-plan-end-war-moscow-response-uncertain",
+      "published": "2025-12-24T13:37:53",
+      "content": "Ukraine accepts  principle of demilitarised zone in east, while insisting Russia make similar concessions in pulling back forcesWashington and Kyiv have edged closer to a jointly agreed formula to end the war in Ukraine amid continuing uncertainty over Moscow’s response and a number of unresolved issues.Revealing the latest status of the peace talks, brokered by Washington, Ukraine’s president, Volodmyr Zelenskyy, appeared to have secured several important concessions from earlier versions of the now-slimmed-down plan after intense talks with the US negotiating team. Continue reading...",
+      "content_length": 593,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "SPEED Act passes in House despite changes that threaten clean power projects",
+      "link": "https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/",
+      "published": "2025-12-24T13:30:59",
+      "content": "The House of Representatives cleared the way for a massive overhaul of the federal environmental review process last Thursday, despite last-minute changes that led clean energy groups and moderate Democrats to pull their support.\nThe Standardizing Permitting and Expediting Economic Development Act, or SPEED Act, overcame opposition from environmentalists and many Democrats who oppose the bill’s sweeping changes to a bedrock environmental law.\nThe bill, introduced by Rep. Bruce Westerman (R-Ark.) and backed by Rep. Jared Golden (D-Maine), passed the House Thursday in a 221-196 vote, in which 11 Democrats joined Republican lawmakers to back the reform effort. It now heads to the Senate, where it has critics and proponents on both sides of the aisle, making its prospects uncertain.Read full article\nComments",
+      "content_length": 815,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Christmas festivities slowly return to West Bank holy city of Bethlehem",
+      "link": "https://www.france24.com/en/video/20251224-christmas-festivities-slowly-return-to-west-bank-holy-city-of-bethlehem",
+      "published": "2025-12-24T13:30:24",
+      "content": "The city of Bethlehem prepares to hold Christmas as celebrations are slowly returning to the holy land after celebrations were called off in the past two years due to the Israel-Hamas war. Details by FRANCE 24 correspondent in Jerusalem, Noga Tarnopolsky.",
+      "content_length": 255,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "The best shows and movies to stream on Netflix in 2025",
+      "link": "https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025",
+      "published": "2025-12-24T13:30:00",
+      "content": "\n\n\n\t\n\t\t\n\nNetflix has had an interesting year. Its ad tier, introduced last year, has grown significantly, and its live TV initiative has expanded to include not only weird one-offs like hot-dog-eating grudge matches but also WWE programming. Taking KPop Demon Hunters off Sony's hands for the business equivalent of $200 in a potato chip bag also turned out to be a pretty smart move for Netflix. The animated feature about, well, demon-hunting K-pop stars, became the most watched movie in the platform's history and a global cultural phenomenon in its own right. The sing-along theatrical release sold out, songs from the movie sat comfortably at the top o …\nRead the full story at The Verge.",
+      "content_length": 694,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "TV Technica: Our favorite shows of 2025",
+      "link": "https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/",
+      "published": "2025-12-24T13:00:53",
+      "content": "Editor’s note: Warning: Although we’ve done our best to avoid spoiling anything major, please note this list does include a few specific references to several of the listed shows that some might consider spoiler-y.\nThis was a pretty good year for television, with established favorites sharing space on our list with some intriguing new shows. Streaming platforms reigned supreme, with Netflix and Apple TV dominating our list with seven and five selections each. Genre-wise, we've got a bit of everything: period dramas (The Gilded Age, Outrageous), superheroes (Daredevil: Born Again), mysteries (Ludwig, Poker Face, Dept. Q), political thrillers (The Diplomats, Slow Horses), science fiction (Andor, Severance, Alien: Earth), broody fantasy (The Sandman), and even an unconventional nature documentary (Underdogs).\nAs always, we’re opting for an unranked list, with the exception of our “year’s best” selection at the very end, so you might look over the variety of genres and options and possibly add surprises to your eventual watchlist. We invite you to head to the comments and add your own favorite TV shows released in 2025.Read full article\nComments",
+      "content_length": 1159,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "In 2025, AI became a lightning rod for gamers and developers",
+      "link": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
+      "published": "2025-12-24T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\n2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industry including in their own development processes. Meanwhile, rank-and-file developers, especially in the indie games space, are pushing back against its encroachment, coming up with ways to signal their games are gen-AI free.\nGenerative AI has largely replaced NFTs as the buzzy trend publishers are chasing. Its proponents claim that the technology will be a great democratization force in  …\nRead the full story at The Verge.",
+      "content_length": 693,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Thailand and Cambodia begin talks to end deadly clashes after venue row",
+      "link": "https://www.theguardian.com/world/2025/dec/24/thailand-and-cambodia-begin-talks-to-end-deadly-clashes-after-venue-row",
+      "published": "2025-12-24T12:53:03",
+      "content": "Negotiations expected to last four days as each side calls on the other to show sincerity in words and actionsCambodian and Thai officials began four days of talks at a border checkpoint on Wednesday intended to negotiate an end to the deadly clashes between the two countries, Phnom Penh said.The meeting in Thailand’s Chanthaburi province had been at risk after Phnom Penh demanded a switch to a neutral venue. Continue reading...",
+      "content_length": 432,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Bethlehem celebrates first festive Christmas in over two years as Gaza truce holds",
+      "link": "https://www.france24.com/en/live-news/20251224-bethlehem-celebrates-first-festive-christmas-since-gaza-war",
+      "published": "2025-12-24T12:37:41",
+      "content": "Scouts marched and crowds gathered under clear skies in Bethlehem on Wednesday as the Palestinian city celebrated its first festive Christmas in more than two years. The return of public celebrations followed a fragile truce in Gaza, after previous Christmases were subdued by the war that started in October 2023.",
+      "content_length": 314,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "European leaders condemn US visa bans as row over ‘censorship’ escalates",
+      "link": "https://www.theguardian.com/technology/2025/dec/24/macron-eu-condemn-us-visa-bans-row-censorship-escalates",
+      "published": "2025-12-24T12:36:36",
+      "content": "Washington accused of ‘coercion and intimidation’ after five leading figures behind digital safety law campaign targetedEuropean leaders including Emmanuel Macron have accused Washington of “coercion and intimidation”, after the US imposed a visa ban on five prominent European figures who have been at heart of the campaign to introduce laws regulating American tech companies.The visa bans were imposed on Tuesday on Thierry Breton, the former EU commissioner and one of the architects of the bloc’s Digital Services Act (DSA), and four anti-disinformation campaigners, including two in Germany and two in the UK. Continue reading...",
+      "content_length": 635,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Ukraine: Zelensky reveals revised 20-point US plan to end Russian war",
+      "link": "https://www.france24.com/en/video/20251224-ukraine-zelensky-reveals-revised-20-point-us-plan-to-end-russian-war",
+      "published": "2025-12-24T12:29:52",
+      "content": "Ukrainian President Volodymyr Zelensky has revealed details of the latest US-led plan to end the war in Ukraine, saying it had been agreed between negotiators from Kyiv and Washington and sent to Moscow for feedback. Analysis by Stefan Wolff, professor of international security at the University of Birmingham. Story by Carys Garland.",
+      "content_length": 335,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj stellt Details des Friedensplans für die Ukraine vor",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-verhandlungen-102.html",
+      "published": "2025-12-24T12:29:48",
+      "content": "   Sicherheitsgarantien, Armeestärke und EU-Mitgliedschaft: Laut Präsident Selenskyj sind sich die Ukraine und USA bei Teilen eines Friedensplans einig. Es gebe aber auch noch offene Fragen. Und: Eine Antwort Moskaus fehlt bisher.[mehr]",
+      "content_length": 236,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "After football World Cup exit and coaching shake-up, Cameroon braces for AFCON challenge",
+      "link": "https://www.france24.com/en/video/20251224-after-football-world-cup-exit-and-coaching-shake-up-cameroon-braces-for-afcon-challenge",
+      "published": "2025-12-24T12:28:16",
+      "content": "After failing to qualify for the 2026 FIFA World Cup and sacking their coach just weeks before AFCON, Cameroon's national football team is facing an uphill battle ahead of their opening game against Gabon on Wednesday. But newly appointed coach David Pagou says he's up for the challenge. Story by Laurent Berstecher.",
+      "content_length": 317,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie Dänemark zum weltgrößten Weihnachtsbaum-Exporteur wurde",
+      "link": "https://www.tagesschau.de/wirtschaft/weihnachtsbaeume-daenemark-100.html",
+      "published": "2025-12-24T12:24:59",
+      "content": "   Alle Jahre wieder exportiert unser nordischer Nachbar über neun Millionen Weihnachtsbäume in die ganze Welt. Wie kommt es, dass ein Land mit nur rund sechs Millionen Einwohnern so groß im Weihnachtsbaum-Geschäft ist? Von Lisa König.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "French Christmas traditions, from foie gras to oysters and the bûche de Noël",
+      "link": "https://www.france24.com/en/europe/20251224-french-christmas-traditions-foie-gras-to-oysters-b%C3%BBche-de-no%C3%ABl-vin-chaud",
+      "published": "2025-12-24T12:23:26",
+      "content": "Christmas dinner in France makes good on a promise to dine very well, offering everything from extravagant seafood platters to sweet treats such as the traditional Yule log cake (or bûche de Noël). Here are some of the delicacies you might find at a traditional French holiday feast.",
+      "content_length": 283,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "To boycott or not to boycott? Ivory Coast holds tense parliamentary election",
+      "link": "https://www.france24.com/en/video/20251224-to-boycott-or-not-to-boycott-ivory-coast-holds-tense-parliamentary-election",
+      "published": "2025-12-24T12:16:43",
+      "content": "Supporters of former Ivorian president Laurent Gbagbo are divided over whether to boycott the country’s upcoming parliamentary elections. The disagreement follows the recent presidential election, in which incumbent President Alassane Ouattara won a controversial fourth term after Gbagbo was barred from running. Despite the party’s official call for a boycott, some of Gbagbo’s supporters have chosen to take part in the legislative elections. Report by Julia Guggenheim and Damien Koffi.",
+      "content_length": 490,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Youth's vote crucial in upcoming Central African Republic general election",
+      "link": "https://www.france24.com/en/video/20251224-youth-s-vote-crucial-in-upcoming-central-african-republic-general-election",
+      "published": "2025-12-24T12:14:41",
+      "content": "General elections are due to be held in the Central African Republic on December 28. It is the first time in decades that the election includes presidential, parliamentary and municipal elections. With almost 82% of young people unemployed, the youth hope a change in government might boost job opportunities and economic growth. Report by Jospin Bissi, Cyrille Jefferson Yapende and Eunice Masson.",
+      "content_length": 398,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Sudan PM presents peace plan at UN, calling for a ceasefire",
+      "link": "https://www.france24.com/en/video/20251224-sudan-pm-presents-peace-plan-at-un-calling-for-a-ceasefire",
+      "published": "2025-12-24T12:12:43",
+      "content": "Sudan's Prime Minister has brought a wide ranging peace plan before the United Nations. But the paramilitary group, the Rapid Support Forces, has yet to sign onto it, and experts say it is unlikely they will, as it demands their withdrawal and disarmament. Story by Ellen Gainsford.",
+      "content_length": 282,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Schauspieler Uwe Kockisch gestorben",
+      "link": "https://www.tagesschau.de/kultur/uwe-kockisch-102.html",
+      "published": "2025-12-24T12:05:28",
+      "content": "   Sowohl durchs Theater als auch durch Film und Fernsehen war er bekannt - vor allem in seiner Rolle als Kommissar in der ARD-Krimireihe \"Donna Leon\". Jetzt starb Uwe Kockisch im Alter von 81 Jahren.[mehr]",
+      "content_length": 206,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "How AI coding agents work—and what to remember if you use them",
+      "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+      "published": "2025-12-24T12:00:27",
+      "content": "AI coding agents from OpenAI, Anthropic, and Google can now work on software projects for hours at a time, writing complete apps, running tests, and fixing bugs with human supervision. But these tools are not magic and can complicate rather than simplify a software project. Understanding how they work under the hood can help developers know when (and if) to use them, while avoiding common pitfalls.\nWe'll start with the basics: At the core of every AI coding agent is a technology called a large language model (LLM), which is a type of neural network trained on vast amounts of text data, including lots of programming code. It's a pattern-matching machine that uses a prompt to \"extract\" compressed statistical representations of data it saw during training and provide a plausible continuation of that pattern as an output. In this extraction, an LLM can interpolate across domains and concepts, resulting in some useful logical inferences when done well and confabulation errors when done poorly.\nThese base models are then further refined through techniques like fine-tuning on curated examples and reinforcement learning from human feedback (RLHF), which shape the model to follow instructions, use tools, and produce more useful outputs.Read full article\nComments",
+      "content_length": 1273,
+      "source": "Ars Technica",
+      "category": "Tech News"
+    },
+    {
+      "title": "Ukrainisches Lied \"Schtschedryk\" - Weihnachtsklänge aus Pokrowsk",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-weihnachtslied-carolofthebells-100.html",
+      "published": "2025-12-24T11:41:33",
+      "content": "   Anfang des 20. Jahrhunderts schuf der ukrainische Komponist Leontowytsch den \"Schtschedryk\" - weltberühmt wurde das Weihnachtslied als \"Carol of the Bells\". Entstanden ist es unter anderem in der nun umkämpften Stadt Pokrowsk. Von F. Kellermann.[mehr]",
+      "content_length": 254,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Die Spitzenpolitik feiert Weihnachten - aber wie?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespolitik-weihnachten-100.html",
+      "published": "2025-12-24T10:53:43",
+      "content": "   Lichterketten oder Kerzen? Gans oder Kartoffelsalat? Wie feiern deutsche Spitzenpolitiker Weihnachten? Birthe Sönnichsen hat sich bei einigen in Berlin umgehört.[mehr]",
+      "content_length": 170,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Los Angeles ordnet wegen \"gefährlichem Weihnachtssturm\" Evakuierungen an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kalifornien-sturm-100.html",
+      "published": "2025-12-24T09:38:55",
+      "content": "   Sturmböen, Starkregen und mögliche Erdrutsche: In Kalifornien wird über Weihnachten ein heftiger Sturm erwartet. Zahlreiche Häuser müssen evakuiert werden. Der US-Wetterdienst empfiehlt, Reisen zu überdenken.[mehr]",
+      "content_length": 217,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Ukrainische Truppen ziehen sich aus Siwersk zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-rueckzug-kaempfe-100.html",
+      "published": "2025-12-24T08:24:49",
+      "content": "   Im Osten der Ukraine setzen russische Truppen die Ukrainer stark unter Druck: Kiew bestätigte den Rückzug der Armee aus der strategisch wichtigen Stadt Siwersk. Russlands Militär könnte nun weiter vorrücken.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "The Pluribus finale showed there&#8217;s a lot more to the story",
+      "link": "https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale",
+      "published": "2025-12-24T08:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nIt's a good thing that we already know a second season of Pluribus is on the way. Because the season finale for the show - a sci-fi drama on Apple TV, helmed by Breaking Bad creator Vince Gilligan - made it clear that things are just getting started. The episode brought together a number of significant threads but, more importantly, opened up potentially explosive (literally) new lines of inquiry for what comes next.\nSpoiler to follow for the first season of Pluribus.\nFirst, a little reminder of how we got here. The inciting incident of Pluribus was the release of a virus of unknown, but extraterrestrial origins, that turned almost the ent …\nRead the full story at The Verge.",
+      "content_length": 692,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Neue Aussagen über Trump in den Epstein-Akten",
+      "link": "https://www.tagesschau.de/ausland/amerika/epstein-akten-trump-104.html",
+      "published": "2025-12-24T07:28:24",
+      "content": "   Er begrapsche gerne \"junge, attraktive Mädchen\": In den neu veröffentlichten Epstein-Akten taucht eine brisante Aussage über den US-Präsidenten auf. Das US-Justizministerium spricht von einer Fälschung und warnt vor weiteren \"Unwahrheiten\".[mehr]",
+      "content_length": 249,
+      "source": "Tagesschau",
+      "category": "German News"
+    }
+  ]
+}
