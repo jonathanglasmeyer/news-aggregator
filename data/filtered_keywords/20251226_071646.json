@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "timestamp": "20251226_071646",
+    "input_file": "data/deduplicated/20251226_071646.json",
+    "stage": "keyword_filter",
+    "stats": {
+      "input_count": 87,
+      "filtered_count": 81,
+      "blacklisted_count": 6,
+      "reduction_rate": "6.9%",
+      "top_blacklist_reasons": {
+        "stau": 2,
+        "regen": 1,
+        "fußball": 1,
+        "aufstieg": 1,
+        "einbruch": 1
+      }
+    }
+  },
+  "articles": [
+    {
+      "title": "Nahost - Außenminister Wadephul: Absehbar keine Beteiligung Deutschlands an Gaza-Stabilisierungstruppe",
+      "link": "https://www.deutschlandfunk.de/aussenminister-wadephul-absehbar-keine-beteiligung-deutschlands-an-gaza-stabilisierungstruppe-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Zweieinhalb Monate nach Beginn der Waffenruhe im Gazastreifen zeichnet sich ab, dass Deutschland sich nicht an einer Stabilisierungstruppe beteiligen wird. Entsprechend äußerte sich Bundesaußenminister Wadephul gegenüber der Deutschen Presse-Agentur.",
+      "content_length": 250,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Nahost - Erneut tödlicher Zwischenfall im Gazastreifen",
+      "link": "https://www.deutschlandfunk.de/erneut-toedlicher-zwischenfall-im-gazastreifen-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Das israelische Militär hat nach eigenen Angaben erneut zwei Palästinenser im Gazastreifen getötet.",
+      "content_length": 99,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Militäreinsatz - USA greifen nach Angaben von Präsident Trump IS-Stellungen in Nigeria an",
+      "link": "https://www.deutschlandfunk.de/usa-greifen-nach-angaben-von-praesident-trump-is-stellungen-in-nigeria-an-102.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Die USA haben nach Angaben von Präsident ⁠Trump Stellungen der IS-Terrormiliz im Nordwesten Nigerias angegriffen. Trump erklärte, man habe einen tödlichen Schlag gegen die Terroristen ausgeführt. Die Gruppe von ​IS-Kämpfern habe vor allem unschuldige Christen ins Visier genommen und brutal getötet.",
+      "content_length": 299,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Interview - Rutte: USA stehen auch unter Trump weiter voll und ganz zur NATO",
+      "link": "https://www.deutschlandfunk.de/rutte-usa-stehen-auch-unter-trump-weiter-voll-und-ganz-zur-nato-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Die Vereinigten Staaten stehen nach Einschätzung von NATO-Generalsekretär Rutte unter Präsident Trump weiter voll und ganz zu dem Militärbündnis. Rutte sagte der Deutschen Presse-Agentur, die USA erwarteten, dass Europa mehr Verantwortung übernehme und mehr Geld für Verteidigung ausgebe. Es gehe darum, dies an der Seite der USA zu tun.",
+      "content_length": 337,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Online-Netzwerke - Bundesdigitalminister Wildberger zeigt sich offen für Social-Media-Verbot für junge Menschen wie in Australien",
+      "link": "https://www.deutschlandfunk.de/bundesdigitalminister-wildberger-zeigt-sich-offen-fuer-social-media-verbot-fuer-junge-menschen-wie-i-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Bundesdigitalminister Wildberger hat sich zustimmend zu einem Social-Media-Verbot für Kinder geäußert, wie es etwa seit kurzem in Australien gilt.",
+      "content_length": 146,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Bundesagentur für Arbeit - Nahles: Chancen für Arbeitslose bei Jobsuche so schlecht wie nie",
+      "link": "https://www.deutschlandfunk.de/nahles-chancen-fuer-arbeitslose-bei-jobsuche-so-schlecht-wie-nie-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Arbeitslose haben nach Ansicht der Chefin der Bundesagentur für Arbeit, Nahles, aktuell so geringe Chancen wie nie, eine Stelle zu finden. Nahles sagte dem Portal \"web.de\", der Arbeitsmarkt sei seit Monaten wie ein Brett, es komme kein Schwung rein.",
+      "content_length": 249,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Landwirtschaft - Bauernverband warnt vor Wein-Krise",
+      "link": "https://www.deutschlandfunk.de/bauernverband-warnt-vor-wein-krise-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Bauernpräsident Rukwied hat auf die schwierige Lage des Weinbaus in Deutschland hingewiesen und die Verbraucher aufgefordert, mehr heimischen Wein zu trinken.",
+      "content_length": 158,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wirtschaftslage - Kanzleramtschef Frei offen für Überarbeitung des Koalitionsvertrags",
+      "link": "https://www.deutschlandfunk.de/kanzleramtschef-frei-offen-fuer-ueberarbeitung-des-koalitionsvertrags-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Angesichts der schlechten Wirtschaftslage in Deutschland hat sich Kanzleramtsminister Frei offen für eine grundlegende Überarbeitung des Koalitionsvertrags von Union und SPD gezeigt. ",
+      "content_length": 183,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Organisierte Kriminalität - Richterbund kritisiert Landesregierungen",
+      "link": "https://www.deutschlandfunk.de/richterbund-kritisiert-landesregierungen-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Der Deutsche Richterbund hat den Bundesländern vorgeworfen, der Organisierten Kriminalität das Geschäft zu erleichtern.",
+      "content_length": 119,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Haushalt - Japan plant Rekordausgaben für Verteidigung",
+      "link": "https://www.deutschlandfunk.de/japan-plant-rekordausgaben-fuer-verteidigung-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Die japanische Regierung reagiert mit Rekordausgaben für die Landesverteidigung auf das wachsende Machtstreben Chinas.",
+      "content_length": 118,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Ukraine-Krieg - Selenskyj berät mit US-Sondergesandten über Möglichkeiten für Kriegsende",
+      "link": "https://www.deutschlandfunk.de/selenskyj-beraet-mit-us-sondergesandten-ueber-moeglichkeiten-fuer-kriegsende-106.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Der ukrainische Präsident Selenskyj hat mit den US-Sondergesandten Witkoff und Kushner über Wege zu einem Ende des russischen Angriffskrieges beraten. Selenskyj bezeichnete das rund einstündige Telefonat als konstruktriv und erklärte, man habe einige wichtige Punkte besprochen.",
+      "content_length": 278,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Sicherheit - EVP-Chef Weber will Bundeswehr unter europäischer Flagge in Ukraine",
+      "link": "https://www.deutschlandfunk.de/evp-chef-weber-will-bundeswehr-unter-europaeischer-flagge-in-ukraine-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Der Vorsitzende der konservativen EVP-Fraktion im Europaparlament, Weber, plädiert dafür, deutsche Soldaten unter europäischer Flagge an der Absicherung einer Friedenslösung in der Ukraine zu beteiligen.",
+      "content_length": 203,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Russland - Kreml unterbreitet Frankreich Vorschlag zu inhaftiertem Franzosen Vinatier",
+      "link": "https://www.deutschlandfunk.de/kreml-unterbreitet-frankreich-vorschlag-zu-inhaftiertem-franzosen-vinatier-102.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Im Fall des in Russland wegen Spionagevorwürfen inhaftierten französischen NGO-Mitarbeiters Vinatier gibt es offenbar Bewegung.",
+      "content_length": 127,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Alternative Weihnachtsansprache - Komiker Jimmy Kimmel erklärt 2025 \"aus faschistischer Sicht\" zu einem guten Jahr",
+      "link": "https://www.deutschlandfunk.de/komiker-jimmy-kimmel-erklaert-2025-aus-faschistischer-sicht-zu-einem-guten-jahr-104.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Der US-Comedian Jimmy Kimmel hat in einer alternativen Weihnachtsansprache vor autoritären Tendenzen gewarnt.",
+      "content_length": 109,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "\"Center for Countering Digital Hate\" - Nach US-Einreiseverbot: Leiter von britischer NGO verklagt Trump-Regierung",
+      "link": "https://www.deutschlandfunk.de/nach-us-einreiseverbot-leiter-von-britischer-ngo-verklagt-trump-regierung-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Der mit einem US-Einreiseverbot belegte Leiter der Nichtregierungsorganisation \"Center for Countering Digital Hate\", Ahmed, hat Mitglieder der Regierung von Präsident Trump verklagt.",
+      "content_length": 182,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Zentralbank - Syrien: Neue Geldscheine sollen für Stabilität sorgen",
+      "link": "https://www.deutschlandfunk.de/syrien-neue-geldscheine-sollen-fuer-stabilitaet-sorgen-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Syrien führt ab dem 1. Januar neue Banknoten ein.",
+      "content_length": 49,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Grenzkonflikt - Abriss von Hindu-Statue heizt Konflikt zwischen Thailand und Kambodscha weiter an",
+      "link": "https://www.deutschlandfunk.de/abriss-von-hindu-statue-heizt-konflikt-zwischen-thailand-und-kambodscha-weiter-an-102.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Im Grenzkonflikt zwischen Thailand und Kambodscha hat der Abriss einer kambodschanischen Hindu-Statue durch thailändische Soldaten für weitere Aufregung gesorgt.",
+      "content_length": 161,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Weihnachtsbotschaften - Papst erinnert an das durch Kriege entstandene Leid, Kirchen in Deutschland rufen zu Solidarität auf",
+      "link": "https://www.deutschlandfunk.de/papst-erinnert-an-das-durch-kriege-entstandene-leid-kirchen-in-deutschland-rufen-zu-solidaritaet-auf-104.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "An Weihnachten haben die Kirchen zu Frieden und Solidarität aufgerufen.",
+      "content_length": 71,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "Wetter - Vielerorts sonnig, minus 5 bis plus 4 Grad",
+      "link": "https://www.deutschlandfunk.de/vielerorts-sonnig-minus-5-bis-plus-4-grad-100.html",
+      "published": "2025-12-26T07:12:20",
+      "content": "Das Wetter: Am heutigen zweiten Weihnachtsfeiertag vielerorts sonnig. Ganz im Süden bedeckt. Im Nordosten dichtere Wolkenfelder. Es bleibt trocken bei minus 5 bis plus 4 Grad.",
+      "content_length": 175,
+      "source": "Deutschlandfunk",
+      "category": "German News"
+    },
+    {
+      "title": "UK ministers urged to cap political donations to ‘rebuild voter confidence’",
+      "link": "https://www.theguardian.com/politics/2025/dec/26/uk-ministers-urged-to-cap-political-donations-to-rebuild-voter-confidence",
+      "published": "2025-12-26T07:00:04",
+      "content": "Letter from 19 organisations says a cap would help to protect democracy, weeks after £9m donation to Reform UKMinisters should legislate to cap political donations to “rebuild voter confidence” in democracy, campaigners have said before the introduction of a landmark elections bill.The government is being urged to show more ambition as it prepares to publish legislation early next year that will extend the franchise to 16- and 17-year-olds. Continue reading...",
+      "content_length": 464,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "VIP viewing: cinemas bet on luxury bars and beds to usher in a new film era",
+      "link": "https://www.theguardian.com/business/2025/dec/26/vip-viewing-cinemas-bet-on-luxury-bars-and-beds-to-usher-in-a-new-film-era",
+      "published": "2025-12-26T07:00:03",
+      "content": "Sector reinvests in high-end experiences, from front-row beds to premier pods and business class-style seats with built-in wine coolersFrom champagne coolers to front row VIP beds, cinema owners are investing heavily in premium experiences as the industry gets its box office mojo back.As the third instalment in James Cameron’s blockbuster Avatar series pulls in the Christmas holiday crowds, the UK box office is expected to surpass £1bn in 2025 for the first time since before the global Covid pandemic. Continue reading...",
+      "content_length": 526,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "First of nine new river walks in England announced for north-west",
+      "link": "https://www.theguardian.com/environment/2025/dec/26/first-of-nine-new-river-walks-for-england-announced-north-west-mersey-valley-way",
+      "published": "2025-12-26T07:00:02",
+      "content": "Mersey Valley Way takes in Manchester and Stockport on its 13-mile route with other walks to be identified in 2026A new river walk has been announced by the government as ministers try to improve access to nature in England.The 13-mile (21km) walk will go through Greater Manchester and the north-west of England. There will be a river walk in each region of the country by the end of parliament, the government has pledged. Continue reading...",
+      "content_length": 444,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Paddle boarders rescued after being swept more than 10km across Port Phillip Bay in three-hour ordeal",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/26/paddle-boarders-rescued-port-phillip-bay-melbourne",
+      "published": "2025-12-26T06:56:20",
+      "content": "Pair say they were ‘exhausted, very shaken and feel so lucky’ after being spotted by air wing officers late on Christmas DayGet our breaking news email, free app or daily news podcastTwo paddle boarders who were rescued after being swept more than 10km across Victoria’s Port Phillip Bay on Christmas Day say they are exhausted and shaken but grateful to have survived.Victoria police said the pair set out from Portarlington on the Bellarine peninsula about 3pm on Thursday but drifted out into the bay when conditions deteriorated and were swept all the way to Wyndham harbour in Melbourne’s outer west. Continue reading...",
+      "content_length": 625,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Cambodia accuses Thailand of launching strikes during border peace talks",
+      "link": "https://www.theguardian.com/world/2025/dec/26/cambodia-accuses-thailand-of-launching-strikes-during-border-peace-talks",
+      "published": "2025-12-26T06:56:14",
+      "content": "Thai reports claim Cambodia carried out overnight attacks ahead of officials from both countries meeting for a third day of negotiations on FridayCambodia has accused Thailand of intensifying its bombardment of disputed border areas, even as officials from the two countries attend a multi-day meeting aimed at negotiating an end to deadly clashes.The neighbours’ longstanding border conflict reignited this month, shattering an earlier truce and killing more than 40 people, according to official counts. About a million people have also been displaced. Continue reading...",
+      "content_length": 574,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Live: Kyiv awaits Moscow’s response to the latest US-led plan",
+      "link": "https://www.france24.com/en/europe/20251226-live-kyiv-awaits-moscow-s-response-to-the-latest-us-led-plan",
+      "published": "2025-12-26T06:18:26",
+      "content": "Kyiv awaits Russia's response to the new version of the US plan to end Russia's invasion. On Thursday, Ukraine launched British-made Storm Shadow missiles and domestically produced drones to strike Russian energy facilities, hitting the Novoshakhtinsk oil refinery and setting ablaze two oil storage tanks at the southern port of Temryuk. Follow our liveblog for the latest updates.",
+      "content_length": 382,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Japan’s cabinet approves record defence budget amid escalating China tensions",
+      "link": "https://www.theguardian.com/world/2025/dec/26/japan-defence-budget-china",
+      "published": "2025-12-26T06:16:07",
+      "content": "Japanese strike-back capabilities and coastal defences to be boosted while Beijing accuses Tokyo of fuelling a ‘space arms race’Japan’s cabinet has approved a record high defence budget as tensions with China continue to spiral, with Beijing this week accusing Tokyo of “fuelling a space arms race”.The draft defence budget for the next fiscal year – approved on Friday – is more than ¥9tn ($58bn) and 9.4% bigger than the previous budget, which will end in April. The increase comes in the fourth year of Japan’s five-year program to double its annual arms spending to 2% of GDP. Continue reading...",
+      "content_length": 600,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Sustainable aviation fuel take-up in UK unlikely to hit 2025 target, data suggests",
+      "link": "https://www.theguardian.com/business/2025/dec/26/sustainable-aviation-fuel-mandate-uk-government-data-2025",
+      "published": "2025-12-26T06:00:01",
+      "content": "Provisional figures in government mandate’s first year show 20% shortfall in levels of SAF supplied for UK flightsThe take-up of sustainable aviation fuels is on course to fall short of the UK government’s first annual mandate, official figures suggest.Production data published by the Department for Transport (DfT) covering most of 2025 shows that sustainable fuels (SAF) only accounted for 1.6% of fuel supplied for UK flights – 20% less fuel in volume than the 2% needed to fulfil the requirement. Continue reading...",
+      "content_length": 521,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Keeps your mind alert’: older Swedes reap the benefits of learning for pleasure",
+      "link": "https://www.theguardian.com/world/2025/dec/26/older-swedes-reap-benefits-late-life-education",
+      "published": "2025-12-26T05:00:06",
+      "content": "Retirees with ‘fantastic hunger for education’ taking part in university organised events in record numbersRecord numbers of Swedish retirees are enrolling in a university run “by pensioners for pensioners” amid increased loneliness and a growing appetite for learning and in-person interactions.Senioruniversitet, a national university that collaborates with Sweden’s adult education institution Folkuniversitetet, has about 30 independent branches around the country which run study circles, lecture series and university courses in subjects including languages, politics, medicine and architecture. Continue reading...",
+      "content_length": 621,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Outdated furniture fire safety rules putting people at risk, MP warns",
+      "link": "https://www.theguardian.com/politics/2025/dec/26/outdated-furniture-fire-safety-rules-putting-people-at-risk-mp-warns",
+      "published": "2025-12-26T05:00:03",
+      "content": "Millions of households are exposed to materials in upholstered furniture that can release dangerous fumes when they burnThe UK is still using extremely outdated furniture fire safety rules, putting people at risk from toxic materials, an MP has warned.Bob Blackman, the chair of the all-party parliamentary group (APPG) on fire safety, said the government has failed to update rules that date back to 1988, leaving millions of households exposed to materials that exacerbate the release of dangerous fumes when they burn. Continue reading...",
+      "content_length": 541,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Frei offen für Überarbeitung des Koalitionsvertrags",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsvertrag-188.html",
+      "published": "2025-12-26T03:21:07",
+      "content": "   Angesichts der schwierigen Wirtschaftslage fordert Kanzleramtschef Frei mehr Flexibilität. Dem RND gegenüber zeigte er sich offen für eine Überarbeitung des Koalitionsvertrags.[mehr]",
+      "content_length": 185,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Victoria police name man they want to interview in relation to ‘Happy Chanukah’ car fire in St Kilda",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/26/victoria-police-happy-chanukah-car-fire-st-kilda-melbourne-ntwnfb",
+      "published": "2025-12-26T02:49:08",
+      "content": "Police say there is no indication John Argento, 47, poses specific risk to the Jewish community, but believe he may be able to help with investigationGet our breaking news email, free app or daily news podcastVictoria police have named a man they want to interview in relation to a suspected arson attack on a car sporting a “Happy Chanukah” sign in Melbourne on Christmas Day.Police said emergency services were called to a vehicle displaying a mobile billboard that had been set alight in the driveway of a property in St Kilda East about 2.50am on Thursday. Continue reading...",
+      "content_length": 580,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Türkei: Der Lotto-Kiosk mit dem besonderen Ruf",
+      "link": "https://www.tagesschau.de/ausland/europa/neujahrslotterie-istanbul-100.html",
+      "published": "2025-12-26T01:40:49",
+      "content": "   Zum Ende des Jahres hoffen auch in der Türkei viele, als Lotto-Millionär ins neue Jahr zu starten. Seit fast 100 Jahren zieht vor allem ein bestimmter Lotto-Kiosk die Glücks-Hungrigen an. Von Isabel Gotovac.[mehr]",
+      "content_length": 216,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "USA greifen IS-Stellungen an",
+      "link": "https://www.tagesschau.de/ausland/us-angriff-nigeria-100.html",
+      "published": "2025-12-26T01:33:46",
+      "content": "   Die USA haben in Nigeria Luftangriffe auf Stellungen der Terrorgruppe \"Islamischer Staat\" geflogen. Das hat Präsident Trump mitgeteilt. Er begründete dies mit dem Vorgehen der Islamisten gegen Christen in Nigeria.[mehr]",
+      "content_length": 222,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US launches air strikes against Islamic State militants in Nigeria",
+      "link": "https://www.france24.com/en/live-news/20251226-us-launches-strike-against-islamic-state-militants-in-nigeria",
+      "published": "2025-12-26T01:21:38",
+      "content": "President Donald Trump said Thursday that the United States had launched \"precision hits on terrorist targets in Nigeria by air strikes\". The claim came in a Christmas night social media post that offered few details, though US Africa Command later confirmed strikes conducted at the request of Nigerian authorities that it said killed multiple ISIS militants.",
+      "content_length": 360,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Southern California sees third death from atmospheric river storm drenching region",
+      "link": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
+      "published": "2025-12-26T00:25:09",
+      "content": "Some parts of LA saw more than 11in of rain, with flooding, road closures and debris flows reported across the regionA strong rain and wind storm, carried by an atmospheric river from the Pacific, has been blamed for a third death in southern California as flooding, road closures and debris flows are reported across the region.A flood watch was also extended through Thursday for almost all of the area, as more than 11in of rainfall was measured in some parts Los Angeles county as of Wednesday night and evacuation warnings were issued for mountain communities in San Bernardino county. Continue reading...",
+      "content_length": 610,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "‘Not for the people’: Myanmar junta prepares for elections designed to legitimise grip on power",
+      "link": "https://www.theguardian.com/world/2025/dec/26/myanmar-junta-prepares-elections-legitimise-power",
+      "published": "2025-12-26T00:01:53",
+      "content": "Elections will be first since military seized power in 2021, but analysts say vote is far from a step toward democracyMyanmar is preparing to go to the polls for the first time since its military seized power in a coup in 2021, but with its former leader behind bars, its most successful political party disbanded and roughly a third of the country either disputed or in rebel hands, few believe claims by its military rulers that its 28 December election will be “free and fair”.“This is not for the people, this is for themselves,” says Pai, 25, who fled Myanmar after the military seized power. “They [the ruling junta] are looking for a way out of the trap they are [in].” Continue reading...",
+      "content_length": 696,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "US carries out strikes on Nigeria targeting Islamic State militants, Trump says",
+      "link": "https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says",
+      "published": "2025-12-25T23:41:22",
+      "content": "President claims strikes targeted militants in country’s north-west, accusing group of attacking Christian communitiesDonald Trump has said the US carried out airstrikes against Islamic State militants in north-west Nigeria on Thursday, after spending weeks decrying the group for targeting Christians.The president said in a post on his Truth Social platform: “Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria, who have been targeting and viciously killing, primarily, innocent Christians, at levels not seen for many years, and even Centuries! Continue reading...",
+      "content_length": 669,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "AFCON 2025: Ivory Coast, Cameroon and Algeria deliver as heavyweights hold firm",
+      "link": "https://www.france24.com/en/tv-shows/sports/20251225-afcon-2025-ivory-coast-cameroon-and-algeria-deliver-as-heavyweights-hold-firm",
+      "published": "2025-12-25T23:25:29",
+      "content": "Defending champions Ivory Coast made a winning start to their Africa Cup of Nations campaign on Wednesday, edging past Mozambique with a 1-0 victory. Set to face the Elephants on Sunday, Cameroon also got off to a strong start with a 1-0 victory over Gabon. Algeria, meanwhile, cruised to a convincing 3-0 win over Sudan, inspired by a standout performance from Riyad Mahrez.",
+      "content_length": 375,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Man charged after allegedly performing Nazi salutes at Canberra shopping centres",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/26/man-charged-after-allegedly-performing-nazi-salutes-at-canberra-shopping-centres-ntwnfb",
+      "published": "2025-12-25T22:32:22",
+      "content": "Police allege the man also trespassed at ANU and ‘stuck propaganda-style stickers’ on buildings and other propertyGet our breaking news email, free app or daily news podcastAn 18-year-old has been charged with allegedly performing two separate Nazi salutes at Canberra shopping centres and putting up “propaganda-style stickers” in recent months.The man is expected to appear before ACT magistrates court on Friday, where police will allege in October a member of the public confronted him as he stuck stickers up at a shopping centre and then performed a Nazi salute before leaving the centre. Continue reading...",
+      "content_length": 614,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zelensky holds talks with US envoys as Russia sees 'slow but steady' peace progress",
+      "link": "https://www.france24.com/en/europe/20251225-zelensky-holds-talks-us-envoys-russia-sees-slow-steady-peace-progress",
+      "published": "2025-12-25T21:06:34",
+      "content": "Ukraine’s President Volodymyr Zelensky said Thursday he held \"very good\" talks with US President Donald Trump’s envoys on ending the war, as Russia also assured negotiations with Washington were making progress.",
+      "content_length": 211,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Russian opposition leader sentenced to six years in prison",
+      "link": "https://www.theguardian.com/world/2025/dec/25/sergei-udaltsov-terrorism",
+      "published": "2025-12-25T19:31:12",
+      "content": "Sergei Udaltsov, Putin critic affiliated with the Communist party, convicted of justifying terrorismA court in Russia on Thursday convicted a pro-war activist and critic of Vladimir Putin of justifying terrorism and sentenced him to six years in prison.Sergei Udaltsov, the leader of the Left Front movement that opposes Putin and is affiliated with the Communist party, was arrested last year. Continue reading...",
+      "content_length": 414,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Selenskyj spricht mit US-Vermittlern, Russland sieht Fortschritte",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-verhandlungen-100.html",
+      "published": "2025-12-25T18:56:26",
+      "content": "   Nach einem Telefonat mit den US-Vermittlern Witkoff und Kushner hat sich der ukrainische Präsident Selenskyj zufrieden gezeigt. Auch Russlands Außenministerium sieht langsame Fortschritte in den Verhandlungen mit den USA. [mehr]",
+      "content_length": 231,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Türkei nimmt mutmaßliche IS-Mitglieder wegen Anschlagsplänen fest",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-festnahmen-is-108.html",
+      "published": "2025-12-25T18:24:29",
+      "content": "   Die türkische Polizei hat mehr als 100 angebliche IS-Terroristen festgenommen. Der Vorwurf: Sie sollen Anschläge während der Weihnachts- und Neujahrszeit gegen Nichtmuslime geplant haben. [mehr]",
+      "content_length": 197,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Warum das Sandmännchen so erfolgreich ist - nicht nur im Fernsehen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sandmaennchen-marke-produkte-100.html",
+      "published": "2025-12-25T17:50:18",
+      "content": "   Seit 66 Jahren begleitet das Sandmännchen Kinder beim Einschlafen. Es ist eine der langlebigsten und beliebtesten Kindersendungen Deutschlands - und mittlerweile auch ein Wirtschaftsfaktor. Von Cezary Bazydlo.[mehr]",
+      "content_length": 218,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "British campaigner launches legal challenge against Trump administration after deportation threat",
+      "link": "https://www.theguardian.com/world/2025/dec/25/british-campaigner-llegal-challenge-trump-administration-deportation",
+      "published": "2025-12-25T16:58:43",
+      "content": "Imran Ahmed, an anti-disinformation advocate, claims he is being targeted for scrutinising social media companiesA British anti-disinformation campaigner close to Keir Starmer’s chief of staff has launched a legal challenge against the Trump administration after being told he could face deportation from the US in a row over freedom of speech.Imran Ahmed, the chief executive of the Centre for Countering Digital Hate (CCDH), has filed a complaint against senior Trump allies including the secretary of state, Marco Rubio, and the attorney general, Pam Bondi, in an attempt to prevent what he says would be an unconstitutional arrest and removal. Continue reading...",
+      "content_length": 667,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Brazil’s jailed ex-president Bolsonaro undergoes 'successful' hernia surgery",
+      "link": "https://www.france24.com/en/live-news/20251225-brazil-s-jailed-ex-president-bolsonaro-undergoes-successful-surgery",
+      "published": "2025-12-25T16:43:11",
+      "content": "Former Brazilian president Jair Bolsonaro, who was serving a 27-year prison sentence for an attempted coup, underwent successful hernia surgery in Brasília after being temporarily released from jail. Doctors said he was expected to remain hospitalised for several days.",
+      "content_length": 269,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "A new take on Christmas cooking in Senegal",
+      "link": "https://www.france24.com/en/video/20251225-a-new-take-on-christmas-cooking-in-senegal",
+      "published": "2025-12-25T16:41:56",
+      "content": "In Senegal, a country with a large Muslim majority, Christmas Eve is not tied to any specific culinary tradition. That freedom is inspiring some chefs to reinvent festive cuisine. One of them is Franco-Senegalese chef Aïda Gaye, who puts local flavours centre stage in a fusion-style approach.",
+      "content_length": 293,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Nachfrage nach Feuerwerk erneut gestiegen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nachfrage-nach-feuerwerk-100.html",
+      "published": "2025-12-25T15:58:24",
+      "content": "   Trotz Kritik ist das Angebot an Silvesterfeuerwerk in diesem Jahr erneut gestiegen: Laut Deutschlands größter Feuerwerksfirma ist das Sortiment etwa zehn Prozent größer als 2024. Damit setzt sich der Trend aus den Vorjahren fort.[mehr]",
+      "content_length": 238,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Bangladesch: Hoffnungsträger Rahman vor Wahl aus Exil zurück",
+      "link": "https://www.tagesschau.de/ausland/asien/bangladesch-wahl-oppositionsfuehrer-rueckkehr-exil-100.html",
+      "published": "2025-12-25T15:32:26",
+      "content": "   Bangladesch wird derzeit von einer Übergangsregierung geführt, doch im Februar stehen wichtige Wahlen an. Nun ist mit Tarique Rahman der wohl aussichtsreichste Kandidat nach vielen Jahren im Ausland zurückgekehrt - Tausende Anhänger empfingen ihn.[mehr]",
+      "content_length": 256,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "US-Präsident Trump attackiert Late-Night-Moderator Colbert",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stephen-colbert-100.html",
+      "published": "2025-12-25T15:20:34",
+      "content": "   Der Late-Night-Moderator Colbert gilt als scharfer Kritiker des US-Präsidenten. Nun hat ihn Trump erneut angegriffen: Er nannte ihn einen \"erbärmlichen Versager\", den man \"einschläfern\" sollte. Colberts Sendung wird bald eingestellt.[mehr]",
+      "content_length": 242,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
+      "link": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
+      "published": "2025-12-25T15:00:43",
+      "content": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwideThere are no roads through the Darién Gap. This vast impenetrable forest spans the width of the land bridge between South and Central America, but there is almost no way through it: hundreds have lost their lives trying to cross it on foot.Its size and hostility have shielded it from development for millennia, protecting hundreds of species – from harpy eagles and giant anteaters to jaguars and red-crested tamarins – in one of the most biodiverse places on Earth. But it has also made it incredibly difficult to protect. Looking after 575,000 hectares (1,420,856 acres) of beach, mangrove and rainforest with just 20 rangers often felt impossible, says Segundo Sugasti, the director of Darién national park. Like tropical forests all over the world, it has been steadily shrinking, with at least 15% lost to logging, mining and cattle ranching in two decades. Continue reading...",
+      "content_length": 1049,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Arkansas Powerball lottery player wins $1.817bn jackpot on Christmas Eve",
+      "link": "https://www.theguardian.com/us-news/2025/dec/25/arkansas-powerball-christmas-eve",
+      "published": "2025-12-25T14:20:30",
+      "content": "It was the second-largest lottery windfall in US history, with a lump-sum cash payment option of $834.9mA Powerball player in Arkansas won a $1.817bn jackpot in Wednesday’s Christmas Eve drawing, ending the lottery game’s three-month stretch without a top-prize winner.Final ticket sales pushed the jackpot higher than previously expected, making it the second-largest in US history and the largest Powerball prize of 2025, according to www.powerball.com. The jackpot had a lump sum cash payment option of $834.9m. Continue reading...",
+      "content_length": 534,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Epstein survivor calls for Mountbatten-Windsor to be ‘brought to justice’ in US",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/25/epstein-survivor-calls-for-mountbatten-windsor-to-be-brought-to-justice-in-us",
+      "published": "2025-12-25T14:18:20",
+      "content": "Marina Lacerda urges him to answer questions as Virginia Giuffre’s lawyer says anyone who accepted former royal’s denials ‘should be ashamed’ One of the victims of the convicted child sex offender Jeffrey Epstein has called for Andrew Mountbatten-Windsor to answer questions in the US, while a lawyer for the former royal’s accuser said those who had previously believed his denials “should be ashamed of themselves”.Speaking to the Guardian after the release of some of the Epstein files, the tranche of documents related to the disgraced financier, Marina Lacerda, an Epstein survivor, said Mountbatten-Windsor should be “brought to justice”. Continue reading...",
+      "content_length": 664,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Zu viel Essen an den Feiertagen - warum ist das so?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/essen-ueberessen-nachtisch-kalorien-100.html",
+      "published": "2025-12-25T14:10:10",
+      "content": "   Weihnachtsfeiertage und üppige Mahlzeiten gehören für viele zusammen. Oft wird mehr gegessen, als dem Körper guttäte. Warum gerade an Weihnachten zu viel gegessen wird und was es mit dem \"Dessert-Effekt\" auf sich hat. Von Joanna Thurow.[mehr]",
+      "content_length": 245,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+      "link": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "published": "2025-12-25T14:00:00",
+      "content": "\n\n\n\t\n\tBuddy’s in space.\t\n\nWhen your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. \nI've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the parents in Google's newest ad for Gemini.\nIt's the fictional but relatable story of two parents discovering their child's favorite stuffed toy, a lamb named Mr. Fuzzy, was left behind on an airplane. They use Gemini to track down a replacement, but the new toy is on backorder. In the meantime, they stall by using Gemini to create images and vid …\nRead the full story at The Verge.",
+      "content_length": 709,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Überschwemmungen und Tote durch Wintersturm in Kalifornien",
+      "link": "https://www.tagesschau.de/ausland/amerika/wintersturm-kalifornien-106.html",
+      "published": "2025-12-25T13:53:36",
+      "content": "   Heftige Unwetter haben den meist sonnigen US-Bundesstaat Kalifornien getroffen. Es kam zu Überschwemmungen und Schlammlawinen. Mindestens zwei Menschen starben. Für Los Angeles und San Diego wurde der Notstand ausgerufen.[mehr]",
+      "content_length": 230,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Somalians vote in first local elections in decades under tight security",
+      "link": "https://www.france24.com/en/video/20251225-somalians-vote-in-first-local-elections-in-decades-under-tight-security",
+      "published": "2025-12-25T13:46:38",
+      "content": "Somalians turned out in droves on Thursday to vote in local elections in the capital Mogadishu – the first by universal suffrage in nearly 60 years – with the city locked down amid security concerns.",
+      "content_length": 199,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo addresses Gaza crisis in Christmas ⁠sermon",
+      "link": "https://www.france24.com/en/video/20251225-pope-leo-addresses-gaza-crisis-in-christmas-sermon",
+      "published": "2025-12-25T13:30:01",
+      "content": "Pope Leo decried conditions for Palestinians in Gaza in his Christmas ⁠sermon on Thursday, in an unusually direct appeal during what is normally a solemn, spiritual service on the day Christians across the globe celebrate the birth of Jesus. FRANCE 24 speaks to Missimo d’Angelo, research associate at Loughborough University London.",
+      "content_length": 333,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Ukrainische Drohnen treffen Öltanks in Hafenstadt",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-attackiert-tanks-100.html",
+      "published": "2025-12-25T13:08:53",
+      "content": "   Auch an Weihnachten gibt es im Krieg gegen die Ukraine keine Atempause. Kiew griff in der Nacht Öltanks in der russischen Stadt Temrjuk an. In der Ukraine wurden mehrere Menschen durch russische Angriffe getötet.[mehr]",
+      "content_length": 221,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Blood test could predict who is most at risk from common inherited heart condition",
+      "link": "https://www.theguardian.com/society/2025/dec/25/blood-test-predict-risk-inherited-heart-condition-hypertrophic-cardiomyopathy",
+      "published": "2025-12-25T13:00:41",
+      "content": "Exclusive: Scientists find a way to forecast hypertrophic cardiomyopathy, which affects millions worldwideScientists are developing a simple blood test to predict who is most at risk from the world’s most common inherited heart condition.Millions of people worldwide have hypertrophic cardiomyopathy (HCM), a disease of the heart muscle where the wall of the heart becomes thickened. It is caused by a change in one or more genes and mostly passed on through families. Continue reading...",
+      "content_length": 488,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Into the void: how Trump killed international law",
+      "link": "https://www.theguardian.com/law/ng-interactive/2025/dec/25/how-donald-trump-killed-international-law",
+      "published": "2025-12-25T13:00:40",
+      "content": "The rules-based global order, its institutions and value system face a crisis of legitimacy and credibility as the US turns away‘The old world is dying,” Antonio Gramsci once wrote. “And the new world struggles to be born.” In such interregnums, the Italian Marxist philosopher suggested, “every act, even the smallest, may acquire decisive weight”.In 2025, western leaders appeared convinced they – and we – were living through one such transitional period, as the world of international relations established after the second world war crashed to a halt. Continue reading...",
+      "content_length": 576,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "published": "2025-12-25T13:00:00",
+      "content": "\n\n\n\t\n\t\t\n\nAI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of post-production processes ranging from de-aging actors to removing green screen backgrounds. In many instances, the technology has been a useful tool for human artists tasked with tedious and painstaking labor that might have otherwise taken them inordinate amounts of time to complete. But in 2025, Hollywood really began warming to the idea of deploying the kind of gen AI that's really only good for conjuring up text-to-video slop that doesn't ha …\nRead the full story at The Verge.",
+      "content_length": 694,
+      "source": "The Verge",
+      "category": "Tech News"
+    },
+    {
+      "title": "Weihnachtsgottesdienste geprägt von Appellen gegen Ausgrenzung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kirchen-weihnachten-predigten-gottesdienste-100.html",
+      "published": "2025-12-25T12:47:14",
+      "content": "   In zahlreichen Predigten am ersten Weihnachtstag richtete sich der Blick auf die Gesellschaft. Gepaart mit dem Wunsch, mehr Verantwortung füreinander zu übernehmen und durch Abschottung errichtete Grenzen einzureißen.[mehr]",
+      "content_length": 226,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "Papst Leo XIV. erinnert in Weihnachtsansprache an Opfer von Kriegen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-urbi-et-orbi-116.html",
+      "published": "2025-12-25T12:41:41",
+      "content": "   Für Leo XIV. ist es das erste Weihnachten als Papst. In seiner Ansprache erinnerte er an die Opfer der Kriege weltweit. Auch ließ er eine Tradition wiederaufleben: Weihnachtsgrüße in mehreren Sprachen - darunter Deutsch.[mehr]",
+      "content_length": 229,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "In pictures: Christmas festivities from across the world",
+      "link": "https://www.france24.com/en/culture/20251225-in-pictures-christmas-festivities-from-across-world",
+      "published": "2025-12-25T12:25:12",
+      "content": "Many people celebrated Christmas Day with a traditional mass on Thursday, while others enjoyed the holiday with tiramisu at Sydney's Bondi Beach or watching a parade of Ukrainian soldiers in Lviv. In Bethlehem, Christians celebrated their first festive Christmas in over two years as the occupied West Bank city emerged from the shadow of the war in Gaza.",
+      "content_length": 355,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "‘It’s the wildest place I have walked’: new national park will join up Chile’s 2,800km wildlife corridor",
+      "link": "https://www.theguardian.com/world/2025/dec/25/cape-froward-new-national-park-patagonia-chile",
+      "published": "2025-12-25T12:00:42",
+      "content": "Government poised to officially protect 200,000 hectares of remote Patagonian coastline and forest Chile’s government is poised to create the country’s 47th national park, protecting nearly 200,000 hectares (500,000 acres) of pristine wilderness and completing a wildlife corridor stretching 1,700 miles (2,800km) to the southernmost tip of the Americas.The Cape Froward national park is a wild expanse of wind-torn coastline and forested valleys that harbours unrivalled biodiversity and has played host to millennia of human history. Continue reading...",
+      "content_length": 555,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Russia made a 'proposal' regarding jailed French researcher Laurent Vinatier",
+      "link": "https://www.france24.com/en/france/20251225-russia-made-proposal-paris-over-french-researcher-imprisoned-russia-charged-with-espionage",
+      "published": "2025-12-25T11:41:13",
+      "content": "Moscow has made a \"proposal\" to France concerning the case of researcher Laurent Vinatier, who has been imprisoned in Russia since June 2024, the Kremlin said Thursday. Vinatier was sentenced by a Russian court to three years in prison for allegedly failing to register as a \"foreign agent\" but faces fresh allegations of spying.",
+      "content_length": 329,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French farmers mark Christmas on motorway as protests over cattle cull continue",
+      "link": "https://www.france24.com/en/video/20251225-french-farmers-mark-christmas-on-motorway-as-protests-over-cattle-cull-continue",
+      "published": "2025-12-25T11:38:53",
+      "content": "French farmers marked Christmas on the A64 motorway on Wednesday evening as they continued protests against the government’s cattle-culling policy aimed at containing the spread of lumpy skin disease. President Emmanuel Macron met with farmers’ union leaders on Tuesday in their first talks since the protest movement began, amid broader tensions over a controversial free trade deal and the government’s handling of the outbreak, also known as nodular dermatitis, to discuss a controversial free trade deal and the government's handling of a cow disease",
+      "content_length": 554,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie viel (oder wenig) Glück mit Geld zu tun hat",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/glueck-geld-einkommen-vermoegen-100.html",
+      "published": "2025-12-25T11:37:55",
+      "content": "   Wer in materieller Sicherheit lebt, muss manche Sorgen nicht haben. Doch wie groß ist der Anteil des Geldes am persönlichen Glück tatsächlich? Von Emma-Louise Rothschild und Ulrich Ueckerseifer.[mehr]",
+      "content_length": 203,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'A huge relief': Joy returns to Jerusalem amid Christmas festivities",
+      "link": "https://www.france24.com/en/video/20251225-a-huge-relief-joy-returns-to-jerusalem-amid-christmas-festivities",
+      "published": "2025-12-25T11:34:53",
+      "content": "Joy is returning to Jerusalem as Christians mark Christmas in one of the world’s oldest cities. FRANCE 24’s Noga Tarnopolsky reports a festive atmosphere in the air, describing it as \"a huge relief” after more than two years of war in Gaza.",
+      "content_length": 240,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "French Christmas traditions: festivities that continue well into the New Year",
+      "link": "https://www.france24.com/en/europe/20251225-french-christmas-traditions-festivities-continue-well-into-new-year",
+      "published": "2025-12-25T11:16:21",
+      "content": "Christmas in France would not be complete without free-flowing champagne, oysters or a bûche de Noël. And the French holiday season is longer than most – stretching into the New Year with Epiphany (January 6) and its traditional galettes des rois (king cake) into February with Chandeleur (Candlemas).",
+      "content_length": 301,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "In post-Assad Syria, wary Christians celebrate Christmas under tight security",
+      "link": "https://www.france24.com/en/video/20251225-syria-s-christians-celebrate-christmas-amid-pain-and-insecurity",
+      "published": "2025-12-25T10:36:20",
+      "content": "One year after the fall of the Assad regime in Syria, Christmas festivities are taking place under a cloud of pain and worry. In the capital Damascus and the nearby town of Maaloula, Christian communities are determined to celebrate, despite the wounds of recent violence and widespread concern about insecurity in the country scarred by more than a decade of war. FRANCE 24's Syria correspondent Dana Alboz has this report.",
+      "content_length": 424,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Thailand and Cambodia hold talks on resuming ceasefire",
+      "link": "https://www.france24.com/en/video/20251225-thailand-and-cambodia-hold-talks-on-resuming-ceasefire",
+      "published": "2025-12-25T10:33:15",
+      "content": "Military officials from Thailand and Cambodia began talks on Wednesday, both countries said, days after the neighbours agreed to discuss resumption of a ceasefire after 16 days of fierce border clashes that have killed at least 86 people. The talks come two days after ​a special meeting in Kuala Lumpur of Southeast Asian foreign ministers convened to try to salvage a truce first ‍brokered by ASEAN chair Malaysia and US President Donald Trump after a previous round of clashes in July.",
+      "content_length": 488,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "California declares state of emergency as Christmas storms threaten flash floods",
+      "link": "https://www.france24.com/en/americas/20251225-california-declares-state-of-emergency-christmas-storms-threaten-flash-floods",
+      "published": "2025-12-25T10:32:46",
+      "content": "California declared a state of emergency in Los Angeles and several other locations in the southern part of the state on Wednesday as one of the worst Christmas storms in recent memory brought heavy rain and fears of flashing flooding.",
+      "content_length": 235,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Somalis vote under tight security in first local elections in decades",
+      "link": "https://www.france24.com/en/live-news/20251225-mogadishu-votes-in-first-local-elections-in-decades-under-tight-security",
+      "published": "2025-12-25T10:25:16",
+      "content": "Somalis queued in the capital Mogadishu on Thursday to vote in local elections by universal suffrage for the first time in nearly 60 years, a historic test for democracy in a country grappling with insecurity and political tensions.",
+      "content_length": 232,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Bethlehem celebrates first festive Christmas since Gaza war",
+      "link": "https://www.france24.com/en/video/20251225-bethlehem-celebrates-first-festive-christmas-since-gaza-war",
+      "published": "2025-12-25T09:58:26",
+      "content": "Hundreds of worshippers gathered for mass at the Church of the Nativity in Bethlehem Wednesday night as the Palestinian city ushered in its first festive Christmas in more than two years, emerging from the shadow of the war in Gaza. Throughout the conflict that began with Hamas's attack on Israel in October 2023, a sombre tone had marked Christmases in the biblical birthplace of Jesus Christ.",
+      "content_length": 395,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "North American air defense tracks Santa's sleigh around the world for a 70th year",
+      "link": "https://www.france24.com/en/americas/20251225-norad-tracks-santa-sleigh-ride-around-the-world-for-70th-year",
+      "published": "2025-12-25T09:51:06",
+      "content": "The joint US-Canadian North American Aerospace Defense Command headquartered in Colorado tracked Santa's Yuletide sleigh ride overnight for a 70th year.",
+      "content_length": 152,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Wie Kanada sich 2025 wegen Donald Trump verändert hat",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-trump-usa-2025-100.html",
+      "published": "2025-12-25T08:29:04",
+      "content": "   2025 ist ein schwieriges Jahr für Kanada: Der engste Verbündete droht plötzlich mit territorialer Expansion und Zöllen, das Wirtschaftswachstum schrumpfte deutlich. Mittlerweile hat sich das Land spürbar verändert. Von Giselle Ucar.[mehr]",
+      "content_length": 241,
+      "source": "Tagesschau",
+      "category": "German News"
+    },
+    {
+      "title": "'Symbol of hope': Exiled Bangladesh opposition leader and PM hopeful Rahman returns ahead of polls",
+      "link": "https://www.france24.com/en/live-news/20251225-prime-minister-hopeful-tarique-rahman-arrives-in-bangladesh",
+      "published": "2025-12-25T08:09:10",
+      "content": "Bangladesh opposition leader Tarique Rahman returned home on Thursday after 17 years in exile, welcomed by huge crowds. The aspiring prime minister positioned himself for February’s elections, promising safety, justice and unity after months of political unrest.",
+      "content_length": 262,
+      "source": "France 24 English",
+      "category": "International News"
+    },
+    {
+      "title": "Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique",
+      "link": "https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique",
+      "published": "2025-12-25T08:00:34",
+      "content": "Rising numbers of people flee jihadists, as violence against civilians increases and foreign aid dwindlesMore than 300,000 people have been displaced by an Islamic State insurgency in Mozambique since July, amid growing fears that authorities lack a workable plan to end the fighting.With wars in Ukraine, Gaza and Sudan attracting more attention and foreign aid falling, the grinding conflict in Mozambique has been largely ignored or forgotten. More than 1 million people have been displaced, many of them two, three or even four times. Continue reading...",
+      "content_length": 558,
+      "source": "The Guardian World",
+      "category": "International News"
+    },
+    {
+      "title": "Pope Leo XIV reminded believers to help the poor and vulnerable in his Christmas mass",
+      "link": "https://www.france24.com/en/video/20251225-pope-leo-xiv-reminded-believers-to-help-the-poor-and-vulnerable-in-his-christmas-mass",
+      "published": "2025-12-25T08:00:04",
+      "content": "Pope Leo XIV celebrated his first Christmas Mass Wednesday evening where he described the celebration as a feast of \"faith, charity and hope\". He reminded the faithful that refusing to help the poor and vulnerable is comparable to rejecting God altogether. \"To refuse one is to refuse the other, yet where there is room for the human person, there is room for God,\" said the pontiff.",
+      "content_length": 383,
+      "source": "France 24 English",
+      "category": "International News"
+    }
+  ]
+}
